@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Icon } from "../../components/Icon";
-import { buscarProductos, enviarMensaje } from "../../data/service";
+import { buscarProductos, enviarMensaje, nuevaSesion } from "../../data/service";
 import type { Intencion, MensajeChat, Plan, Producto } from "../../data/types";
 import { decidirIntencion } from "../../lib/intencion";
 import { ChatThread } from "./ChatThread";
@@ -12,7 +12,7 @@ import { SearchResults } from "./SearchResults";
 type Vista =
   | { tipo: "vacio" }
   | { tipo: "busqueda"; consulta: string; resultados: Producto[] | null }
-  | { tipo: "conversacion"; mensajes: MensajeChat[]; plan?: Plan; cargando: boolean };
+  | { tipo: "conversacion"; mensajes: MensajeChat[]; plan?: Plan; conclusion?: string; cargando: boolean };
 
 let nMensajes = 0;
 
@@ -46,16 +46,18 @@ export function MerchePage({
     const usuario: MensajeChat = { id: `u${++nMensajes}`, autor: "usuario", texto: consulta };
     setVista((v) =>
       v.tipo === "conversacion"
-        ? { ...v, mensajes: [...v.mensajes, usuario], cargando: true }
+        ? { ...v, mensajes: [...v.mensajes, usuario], conclusion: undefined, cargando: true }
         : { tipo: "conversacion", mensajes: [usuario], cargando: true },
     );
     const respuesta = await enviarMensaje(consulta);
+    const merche: MensajeChat = { id: `m${++nMensajes}`, autor: "merche", texto: respuesta.mensaje };
     setVista((v) =>
       v.tipo === "conversacion"
         ? {
             ...v,
-            mensajes: [...v.mensajes, respuesta.mensaje],
-            plan: respuesta.plan ?? v.plan,
+            mensajes: [...v.mensajes, merche],
+            plan: respuesta.plan ?? v.plan, // no plan in the response = nothing changed
+            conclusion: respuesta.conclusion,
             cargando: false,
           }
         : v,
@@ -75,6 +77,7 @@ export function MerchePage({
   function reiniciar() {
     setVista({ tipo: "vacio" });
     setTexto("");
+    nuevaSesion();
   }
 
   return (
@@ -110,6 +113,7 @@ export function MerchePage({
           <ChatThread
             mensajes={vista.mensajes}
             plan={vista.plan}
+            conclusion={vista.conclusion}
             cargando={vista.cargando}
             added={added}
             onToggle={onToggle}

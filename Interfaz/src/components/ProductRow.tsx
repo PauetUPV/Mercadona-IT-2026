@@ -1,5 +1,5 @@
 import type { Producto } from "../data/types";
-import { formatPrecio } from "../lib/formato";
+import { formatPrecio, formatTamano } from "../lib/formato";
 import { Icon } from "./Icon";
 
 // Mercadona-style product row. Shared by search results and Merche's plan.
@@ -17,7 +17,7 @@ export function ProductRow({
       <div className="h-[72px] w-[72px] shrink-0 overflow-hidden rounded-[16px] bg-[#f4eee1]">
         <img
           className="h-full w-full object-cover"
-          src={producto.imagen}
+          src={producto.thumbnail}
           alt=""
           loading="lazy"
           onError={(event) => (event.currentTarget.style.visibility = "hidden")}
@@ -27,7 +27,7 @@ export function ProductRow({
         <h3 className="truncate text-[16px] font-bold leading-tight text-[#15231d]">
           {producto.nombre}
         </h3>
-        <p className="mt-0.5 truncate text-sm text-[#708078]">{producto.detalle}</p>
+        <p className="mt-0.5 truncate text-sm text-[#708078]">{formatTamano(producto.tamano, producto.formato_tamano)}</p>
         <strong className="mt-1 block text-[17px] tracking-tight text-[#13231c]">
           {formatPrecio(producto.precio)}
         </strong>

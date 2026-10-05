@@ -1,19 +1,15 @@
 import { useEffect, useRef, type ReactNode } from "react";
 import { Icon } from "../../components/Icon";
 import { ProductRow } from "../../components/ProductRow";
-import type { MensajeChat, Plan, Producto } from "../../data/types";
-import { formatPrecio } from "../../lib/formato";
-
-const ingredientesUnicos = (plan: Plan): Producto[] => {
-  const porId = new Map<string, Producto>();
-  plan.dias.forEach((d) => d.receta.ingredientes.forEach((i) => porId.set(i.id, i)));
-  return [...porId.values()];
-};
+import type { MensajeChat, Plan } from "../../data/types";
+import { capitalizar, formatPrecio } from "../../lib/formato";
+import { diasOrdenados, imagenReceta, listaCompra, totalLista } from "../../lib/lista";
 
 // State C: conversation with Merche, plus the plan she proposes.
 export function ChatThread({
   mensajes,
   plan,
+  conclusion,
   cargando,
   added,
   onToggle,
@@ -22,6 +18,7 @@ export function ChatThread({
 }: {
   mensajes: MensajeChat[];
   plan?: Plan;
+  conclusion?: string; // Merche's closing line, shown AFTER the plan
   cargando: boolean;
   added: string[];
   onToggle: (id: string) => void;
@@ -31,9 +28,9 @@ export function ChatThread({
   const finRef = useRef<HTMLDivElement>(null);
   useEffect(() => {
     finRef.current?.scrollIntoView({ behavior: "smooth", block: "end" });
-  }, [mensajes.length, cargando, plan]);
+  }, [mensajes.length, cargando, plan, conclusion]);
 
-  const ingredientes = plan ? ingredientesUnicos(plan) : [];
+  const lineas = plan ? listaCompra(plan) : [];
 
   return (
     <section aria-label="Conversación con Merche" className="pt-5">
@@ -59,14 +56,15 @@ export function ChatThread({
       {plan && (
         <div className="mt-5">
           <div className="rounded-[24px] border border-black/6 bg-white p-4 shadow-[0_8px_30px_rgba(28,52,42,0.07)] sm:p-5">
-            <h3 className="text-[17px] font-bold">Tu plan · {plan.comensales} personas</h3>
+            <h3 className="text-[17px] font-bold">Tu plan</h3>
             <ul className="mt-2 divide-y divide-black/6">
-              {plan.dias.map((d) => (
-                <li key={d.dia} className="flex items-center gap-3 py-3">
+              {diasOrdenados(plan).flatMap(([dia, recetas]) =>
+                recetas.map((receta) => (
+                <li key={`${dia}-${receta.id}`} className="flex items-center gap-3 py-3">
                   <div className="h-14 w-14 shrink-0 overflow-hidden rounded-[14px] bg-[#f4eee1]">
                     <img
                       className="h-full w-full object-cover"
-                      src={d.receta.imagen}
+                      src={imagenReceta(receta)}
                       alt=""
                       loading="lazy"
                       onError={(event) => (event.currentTarget.style.visibility = "hidden")}
@@ -74,27 +72,26 @@ export function ChatThread({
                   </div>
                   <div className="min-w-0 flex-1">
                     <p className="text-[11px] font-bold uppercase tracking-[0.1em] text-[#7b8781]">
-                      {d.dia}
+                      {capitalizar(dia)}
                     </p>
-                    <p className="truncate text-[15px] font-bold">{d.receta.nombre}</p>
+                    <p className="truncate text-[15px] font-bold">{receta.nombre}</p>
                   </div>
-                  <strong className="text-[15px]">{formatPrecio(d.receta.precio)}</strong>
+                  <strong className="text-[15px]">{formatPrecio(receta.precio_estimado)}</strong>
                 </li>
-              ))}
+                )),
+              )}
             </ul>
             <p className="mt-2 flex items-center justify-between border-t border-black/6 pt-3 text-[15px]">
-              <span className="font-semibold text-[#4d5b54]">
-                Total{plan.presupuesto ? ` (presupuesto ${formatPrecio(plan.presupuesto)})` : ""}
-              </span>
-              <strong className="text-lg">{formatPrecio(plan.total)}</strong>
+              <span className="font-semibold text-[#4d5b54]">Total</span>
+              <strong className="text-lg">{formatPrecio(totalLista(lineas))}</strong>
             </p>
           </div>
 
-          {ingredientes.length > 0 && (
+          {lineas.length > 0 && (
             <>
               <h3 className="mt-6 text-lg font-bold">Ingredientes</h3>
               <div className="mt-1 divide-y divide-black/6">
-                {ingredientes.map((producto) => (
+                {lineas.map(({ producto }) => (
                   <ProductRow
                     key={producto.id}
                     producto={producto}
@@ -109,7 +106,7 @@ export function ChatThread({
           <div className="mt-4 flex flex-wrap gap-2.5">
             <button
               type="button"
-              onClick={() => onAddAll(ingredientes.map((i) => i.id))}
+              onClick={() => onAddAll(lineas.map((l) => l.producto.id))}
               className="flex h-12 flex-1 items-center justify-center gap-2 rounded-full border-[1.5px] border-brand px-5 text-sm font-bold text-brand transition hover:bg-brand-wash sm:flex-none"
             >
               <Icon name="list" size={20} />
@@ -124,6 +121,11 @@ export function ChatThread({
               Ver otra receta
             </button>
           </div>
+        </div>
+      )}
+      {conclusion && !cargando && (
+        <div className="mt-4">
+          <MensajeMerche>{conclusion}</MensajeMerche>
         </div>
       )}
       <div ref={finRef} />

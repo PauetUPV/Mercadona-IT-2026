@@ -1,54 +1,64 @@
 // The ONLY door to data. Screens import from here, never from fake.ts or fetch.
-// Everything is async so a real network call can replace the body later
-// without touching any screen.
-import { bienvenida, catalogo, planEjemplo, recetas } from "./fake";
-import type { MensajeChat, Plan, Producto, Receta, RespuestaChat } from "./types";
+// Wire format = docs/contrato.md. With VITE_API_URL set it talks to the real
+// backend; without it, to the fake one in fake.ts (same paths, same JSON).
+import { fakeServer } from "./fake";
+import type {
+  ChatRequest,
+  ChatResponse,
+  LineaLista,
+  ListaRequest,
+  ListaResponse,
+  Plan,
+  Producto,
+  RespuestaChat,
+} from "./types";
 
-const wait = (ms: number) => new Promise((r) => setTimeout(r, ms));
-let n = 0;
-const uid = () => `m${++n}`;
-const normalizar = (s: string) =>
-  s.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+const API_URL = import.meta.env.VITE_API_URL as string | undefined;
 
-// Classic search: "tomate" -> every product that mentions tomate.
-export async function buscarProductos(consulta: string): Promise<Producto[]> {
-  await wait(400);
-  const palabras = normalizar(consulta).split(/\s+/).filter(Boolean);
-  return catalogo.filter((prod) => {
-    const texto = normalizar(`${prod.nombre} ${prod.detalle}`);
-    return palabras.every((palabra) => texto.includes(palabra));
-  });
+async function request<T>(path: string, init?: RequestInit): Promise<T> {
+  const options = { headers: { "Content-Type": "application/json" }, ...init };
+  const res = API_URL ? await fetch(API_URL + path, options) : await fakeServer(path, options);
+  if (!res.ok) throw new Error(`${options.method ?? "GET"} ${path} -> ${res.status}`);
+  return res.json() as Promise<T>;
 }
 
-export async function getBienvenida(): Promise<MensajeChat> {
-  return { id: uid(), autor: "merche", texto: bienvenida };
+const post = <T>(path: string, body: unknown) =>
+  request<T>(path, { method: "POST", body: JSON.stringify(body) });
+
+// The backend keeps the chat history per session; we only send the new message.
+const nuevoId = () => `s${Math.random().toString(36).slice(2, 10)}`;
+let sessionId = nuevoId();
+
+// Call when the user starts a conversation from scratch ("Volver"), so the
+// backend doesn't carry context the user thinks is gone.
+export function nuevaSesion() {
+  sessionId = nuevoId();
+}
+
+// Classic search: "tomate" -> every product that mentions tomate.
+export function buscarProductos(consulta: string): Promise<Producto[]> {
+  return request<Producto[]>(`/productos?q=${encodeURIComponent(consulta)}&limite=50`);
 }
 
 // "comidas de lunes a jueves para 4, 90 €, el martes no cocino"
-export async function enviarMensaje(_texto: string): Promise<RespuestaChat> {
-  await wait(800);
+// Pass `planEditado` only if the user edited the plan since the last response.
+export async function enviarMensaje(texto: string, planEditado?: Plan): Promise<RespuestaChat> {
+  const peticion: ChatRequest = { session_id: sessionId, mensaje: texto, plan: planEditado };
+  const r = await post<ChatResponse>("/chat", peticion);
+  sessionId = r.session_id;
   return {
-    mensaje: {
-      id: uid(),
-      autor: "merche",
-      texto: "¡Listo! Te he preparado el plan de la semana. Cambia lo que no te guste.",
-    },
-    plan: planEjemplo,
+    mensaje: r.mensaje,
+    conclusion: r.mensaje_conclusion ?? undefined,
+    plan: r.plan ?? undefined, // null/absent = nothing changed
   };
 }
 
-export async function cambiarPlato(_dia: string, actualId: string): Promise<Receta> {
-  await wait(500);
-  const otras = recetas.filter((r) => r.id !== actualId);
-  return otras[Math.floor(Math.random() * otras.length)];
-}
-
-export async function valorar(_recetaId: string, _meGusto: boolean): Promise<void> {
-  await wait(200);
-}
-
-export async function crearCarrito(plan: Plan): Promise<{ productos: number; total: number }> {
-  await wait(500);
-  const productos = plan.dias.reduce((acc, d) => acc + d.receta.ingredientes.length, 0);
-  return { productos, total: plan.total };
+// The user reviewed the list and pressed save. Returns Merche's reply, if any.
+export async function guardarLista(
+  lineas: LineaLista[],
+  planId?: string,
+  nombre?: string,
+): Promise<ListaResponse> {
+  const peticion: ListaRequest = { session_id: sessionId, plan_id: planId, nombre, lineas };
+  return post<ListaResponse>("/lista", peticion);
 }
