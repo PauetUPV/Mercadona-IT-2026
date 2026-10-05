@@ -6,7 +6,7 @@ from pydantic import BaseModel, Field
 class Producto(BaseModel):
     id: str
     nombre: str
-    precio: float  # precio unitario (unit_price)
+    precio: float  # precio de UN envase (unit_price)
     precio_referencia: Optional[float] = None
     formato_referencia: Optional[str] = None  # kg, l, ud...
     tamano: Optional[float] = None
@@ -18,69 +18,43 @@ class Producto(BaseModel):
 
 
 class Ingrediente(BaseModel):
-    producto_id: str
-    unidades: float = 1  # unidades de producto por receta (para `raciones` raciones)
+    """Fracción (o múltiplo) de un envase de `producto` que gasta una receta o un extra."""
+
+    unidades: float = 1
+    producto: Producto
 
 
 class Receta(BaseModel):
     id: str
     nombre: str
-    tipo: str  # "cocinar" o "listo_para_comer"
-    raciones: int = 2
+    tipo: Literal["cocinar", "listo_para_comer"]
+    momento: Optional[Literal["comida", "cena"]] = None
+    raciones: int = 2  # en un plan, coincide con los comensales (las unidades ya vienen escaladas)
     ingredientes: list[Ingrediente] = Field(default_factory=list)
-    extras: list[str] = Field(default_factory=list)  # se suponen en casa (sal, agua...); no se cobran
-    precio_estimado: float = 0.0  # se calcula a partir de los ingredientes
-
-
-class PeticionPlan(BaseModel):
-    comensales: int = Field(gt=0)
-    presupuesto: Optional[float] = None
-    dias: list[str] = Field(min_length=1)
-    restricciones: Optional[str] = None  # "el martes no cocino"
-
-
-class LineaCarrito(BaseModel):
-    producto: Producto
-    unidades: int
-    subtotal: float
-
-
-class Carrito(BaseModel):
-    lineas: list[LineaCarrito] = Field(default_factory=list)
-    total: float = 0.0
+    instrucciones: Optional[str] = None
+    en_casa: list[str] = Field(default_factory=list)  # se supone que ya hay en casa (sal, agua...)
+    etiquetas: list[str] = Field(default_factory=list)  # carne, pescado, gluten, lactosa, huevo, soja
+    precio_estimado: float = 0.0  # coste de los ingredientes para `raciones`
 
 
 class PlanResponse(BaseModel):
     id: str = ""
-    dias: dict[str, Receta]
-    carrito: Carrito
-    total: float = 0.0
-    extras: list[str] = Field(default_factory=list)
-    comensales: Optional[int] = None
-    presupuesto: Optional[float] = None
-    dentro_presupuesto: Optional[bool] = None
-
-
-class PeticionSustitucion(BaseModel):
-    plan: PlanResponse
-    dia: str
-    comensales: Optional[int] = Field(None, gt=0)  # si falta, se usa plan.comensales
-    motivo: Optional[str] = None
+    dias: dict[str, list[Receta]]
+    extras: list[Ingrediente] = Field(default_factory=list)  # productos sueltos (leche, café...)
+    en_casa: list[str] = Field(default_factory=list)
 
 
 class ChatRequest(BaseModel):
     session_id: Optional[str] = None  # si falta se crea; si el cliente envía uno nuevo, se usa tal cual
     mensaje: str = Field(min_length=1)
-    # Opcionales: si se envían, mandan sobre lo interpretado del texto
-    comensales: Optional[int] = Field(None, gt=0)
-    presupuesto: Optional[float] = Field(None, ge=0)
-    dias: Optional[list[str]] = None
+    plan: Optional[PlanResponse] = None  # el plan tal como lo ve el usuario, si lo ha editado
 
 
 class ChatResponse(BaseModel):
     session_id: str
     mensaje: str  # texto para la burbuja del chat
-    plan: Optional[PlanResponse] = None  # plan vigente (fuente de verdad para pintar)
+    mensaje_conclusion: Optional[str] = None  # va DESPUÉS del plan
+    plan: Optional[PlanResponse] = None  # solo si ha cambiado; si falta, el frontend conserva el último
 
 
 class MensajeChat(BaseModel):
@@ -92,3 +66,37 @@ class ChatHistorial(BaseModel):
     session_id: str
     historial: list[MensajeChat]
     plan: Optional[PlanResponse] = None
+
+
+class LineaLista(BaseModel):
+    producto_id: str
+    unidades: int = Field(ge=1)  # envases enteros, ya editados por el usuario
+
+
+class ListaRequest(BaseModel):
+    session_id: str
+    plan_id: Optional[str] = None
+    nombre: Optional[str] = None
+    lineas: list[LineaLista]
+
+
+class ListaResponse(BaseModel):
+    lista_id: str
+    mensaje: Optional[str] = None
+
+
+class SujetoFeedback(BaseModel):
+    tipo: Literal["receta", "producto"]
+    id: str
+
+
+class FeedbackRequest(BaseModel):
+    session_id: str
+    sujeto: SujetoFeedback
+    valor: Literal["positivo", "negativo"]
+    motivo: Optional[str] = None
+
+
+class FeedbackResponse(BaseModel):
+    mensaje: Optional[str] = None
+    sugerencias: Optional[list[str]] = None

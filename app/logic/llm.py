@@ -1,8 +1,11 @@
 """Integración con el LLM. Proveedor: Gemini."""
+import logging
 import os
+from typing import Optional, TypeVar
 from dotenv import load_dotenv
 from google import genai
 from google.genai import types
+from pydantic import BaseModel
 
 load_dotenv()
 
@@ -38,3 +41,34 @@ def consultar_llm(prompt: str) -> str:
         
     except Exception as e:
         return f"Error de comunicación con la IA: {str(e)}"
+
+
+T = TypeVar("T", bound=BaseModel)
+log = logging.getLogger(__name__)
+
+
+def disponible() -> bool:
+    return cliente_gemini is not None
+
+
+def generar_json(prompt: str, esquema: type[T], sistema: str, temperatura: float = 0.2) -> Optional[T]:
+    """Pide a Gemini una respuesta con la forma de `esquema`. Devuelve None si no hay LLM o falla
+    (el llamador usa entonces su plan B), para que el chat nunca se caiga por el LLM."""
+    if not cliente_gemini:
+        return None
+    try:
+        respuesta = cliente_gemini.models.generate_content(
+            model=LLM_MODEL,
+            contents=prompt,
+            config=types.GenerateContentConfig(
+                system_instruction=sistema,
+                response_mime_type="application/json",
+                response_schema=esquema,
+                temperature=temperatura,
+                http_options=types.HttpOptions(timeout=15000),  # ms: si Gemini tarda, plan B
+            ),
+        )
+        return esquema.model_validate_json(respuesta.text)
+    except Exception as e:  # red, cuota, JSON inválido...
+        log.warning("Gemini falló (%s: %s); se usa el plan B", type(e).__name__, e)
+        return None

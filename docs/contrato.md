@@ -3,8 +3,8 @@
 Especificación completa y siempre al día: `http://localhost:8000/docs` (Swagger) y `/openapi.json`
 (se puede generar un cliente tipado a partir de ahí). Este documento resume lo esencial.
 
-> **Cambios acordados con el frontend (v3).** Lo marcado como **(NUEVO)** o **(CAMBIA)** es lo pactado con
-> el equipo de interfaz y **aún no está implementado**. Resumen de lo que cambia respecto a la v1:
+> **Contrato v3: ya implementado en el backend.** Lo marcado como **(NUEVO)** o **(CAMBIA)** es lo pactado con
+> el equipo de interfaz (respecto a la v1). Resumen de los cambios:
 >
 > 1. **(CAMBIA)** `plan` solo viene en la respuesta cuando es relevante (ya no en todas).
 > 2. **(NUEVO)** El frontend envía `plan` en la petición cada vez que el usuario lo ha editado (días, recetas, extras o cantidades).
@@ -16,13 +16,16 @@ Especificación completa y siempre al día: `http://localhost:8000/docs` (Swagge
 >    `extras` pasa a significar **productos comprables que no pertenecen a ninguna receta** (leche, café…).
 > 7. **(NUEVO)** Las recetas llevan `instrucciones` (cómo prepararlas).
 > 8. **(NUEVO)** Regla de redondeo de `unidades` (ver "Unidades y lista de la compra").
-> 9. **(CAMBIA)** Se elimina `/sustituir`: cambiar un plato se hace por chat ("cambia el martes").
+> 9. **(CAMBIA)** Se elimina `/sustituir`: cambiar un plato se hace por chat ("cambia el martes"). Con él se retiran también
+>    `/plan`, `/catalogo`, `/categorias`, `/dashboard` y `/productos/{id}`: el frontend solo necesita los endpoints de la tabla "Endpoints".
 > 10. **(NUEVO)** `POST /lista`: el usuario guarda su lista final.
-> 11. **(PENDIENTE, más adelante)** feedback y chips de respuesta rápida (ver al final).
+> 11. **(NUEVO, provisional)** `POST /feedback`: valoración 👍/👎 de una receta o producto (ver abajo). Los chips de respuesta rápida siguen pendientes.
 
 ## Idea general
 
-- **El historial lo guarda el backend** (en memoria, por `session_id`). El frontend solo manda el mensaje nuevo.
+- **El historial y el estado de la conversación los guarda el backend**, por `session_id`, en memoria y en disco
+  (`.estado/<session_id>.json`), así que sobreviven a un reinicio del servidor. El frontend solo manda el mensaje nuevo
+  (y el `plan`, si el usuario lo ha editado). Ver "Qué recuerda el backend".
 - **(CAMBIA) El plan solo viene cuando es relevante.** Si la respuesta no trae `plan` (ausente o `null`), significa
   **"nada ha cambiado"**: el frontend conserva el último plan. Si trae `plan`, es el plan completo y **sustituye** al anterior.
   Decidir cuándo incluirlo (nuevo plan, cambio de plato, nuevo presupuesto…) es cosa del backend; una respuesta
@@ -30,8 +33,8 @@ Especificación completa y siempre al día: `http://localhost:8000/docs` (Swagge
 - El `session_id` lo puede inventar el frontend (cualquier string); si no se envía, el backend crea uno y lo devuelve.
   **(NUEVO)** El frontend genera un `session_id` nuevo cada vez que el usuario empieza una conversación de cero
   (botón "volver"), para que el backend no arrastre contexto que el usuario cree borrado.
-- Si el servidor se reinicia, se pierden sesiones. Para recuperarse, el frontend puede reenviar el `plan` que ya tiene
-  en su siguiente `/chat` (el campo `plan` de la petición) o empezar de nuevo.
+- Si el servidor no encuentra la sesión (por ejemplo, otra máquina o `.estado/` borrado), el frontend puede reenviar el `plan`
+  que ya tiene en su siguiente `/chat` (campo `plan` de la petición) o empezar de nuevo.
 - **(NUEVO)** Los nombres de día son siempre estos, en minúsculas y con tilde:
   `lunes`, `martes`, `miércoles`, `jueves`, `viernes`, `sábado`, `domingo`. El frontend los ordena él mismo
   (no depende del orden de las claves del JSON).
@@ -49,10 +52,14 @@ Petición:
 }
 ```
 
-El backend entiende (provisionalmente, con reglas; luego Gemini): personas, presupuesto en €, días ("lunes a viernes",
-"fin de semana", "toda la semana"), "el martes no cocino" y "cambia el lunes". Los datos se acumulan durante la sesión
-(por ejemplo, "mejor 25 euros" regenera el plan con los mismos comensales).
+Gemini (con reglas simples como plan B si falla) clasifica el mensaje. Entiende: personas, presupuesto en €, días ("lunes a viernes",
+"fin de semana", "toda la semana"), comida y/o cena, dietas y alergias (vegetariano, sin gluten, sin lactosa...), "el martes no cocino",
+"cambia el lunes", "añade leche" / "quita la leche", y charla en general. Los datos se acumulan durante la sesión
+(por ejemplo, "mejor 25 euros" regenera el plan con los mismos comensales y la misma dieta).
 Si faltan los comensales, la respuesta **no lleva `plan`** y `mensaje` pregunta por ellos.
+
+Las respuestas **sin `plan`** (no hay cambio) son: preguntas aclaratorias, charla, peticiones rechazadas
+(ver "Reglas de precio y viabilidad") y cualquier cosa que no se haya podido hacer. Siempre llevan `mensaje`.
 
 ### (NUEVO) `plan` en la petición
 
@@ -156,6 +163,7 @@ Campos relevantes del plan:
   Un `listo_para_comer` es una receta con **un solo ingrediente** (el propio producto).
 - **(CAMBIA)** `ingredientes`: `{unidades, producto}`. Ya no hay `producto_id` suelto ni `carrito`: el producto
   va completo dentro de cada ingrediente. `precio` es el precio de **un envase**.
+- **(NUEVO)** `etiquetas`: lista de `carne`, `pescado`, `gluten`, `lactosa`, `huevo`, `soja` presentes en la receta (el frontend puede ignorarla o mostrarla como aviso de alérgenos).
 - **(NUEVO)** `instrucciones`: texto de preparación de la receta (opcional en `listo_para_comer`).
 - **(CAMBIA)** `extras`: **productos que el usuario necesita pero que no son de ninguna receta** (leche, café…),
   con la misma forma que un ingrediente (`{unidades, producto}`). Llevan precio y entran en la lista de la compra.
@@ -225,18 +233,20 @@ Respuesta:
 - Si viene `mensaje`, el frontend lo muestra como burbuja de Merche.
 - El frontend guarda además la lista en su propia pestaña "Listas" (en local); el backend solo necesita registrarla.
 
-## Otros endpoints
+## Endpoints
+
+Estos son todos los que necesita el frontend:
 
 | Método | Ruta | Uso |
 |---|---|---|
-| POST | `/plan` | Generar plan sin chat: `{comensales, presupuesto?, dias[], restricciones?}` → plan |
-| POST | `/lista` | **(NUEVO)** Guardar la lista final del usuario (ver arriba) |
-| GET | `/productos?q=&categoria=&precio_max=&limite=` | Buscar en el catálogo real (el frontend usa este para la búsqueda) |
-| GET | `/productos/{id}` | Detalle de producto |
-| GET | `/categorias` | Árbol de categorías |
-| GET | `/catalogo` | Lista de recetas disponibles |
-| GET | `/dashboard` | Métricas: planes, sustituciones, gasto medio, recetas más usadas, ahorro vs presupuesto |
+| POST | `/chat` | **El principal.** Mensaje del usuario -> texto de Merche (+ `plan` si cambia) |
+| GET | `/chat/{session_id}` | Recargar la página: historial y plan vigente |
+| POST | `/lista` | Guardar la lista final del usuario (ver arriba) |
+| POST | `/feedback` | **(NUEVO, provisional)** Valoración 👍/👎 (ver abajo) |
+| GET | `/productos?q=&categoria=&precio_max=&limite=` | Buscar en el catálogo real (búsqueda de productos del frontend) |
 | GET | `/health` | Comprobación |
+
+Retirados respecto a la v1: `/plan`, `/sustituir`, `/catalogo`, `/categorias`, `/dashboard`, `/productos/{id}`.
 
 ## Errores
 
@@ -244,26 +254,89 @@ Respuesta:
 Las respuestas del chat que no entienden algo **no** son errores: vienen con 200 y un `mensaje` explicativo.
 El frontend ignora campos desconocidos, así que se pueden añadir campos sin avisar.
 
-## (PENDIENTE, más adelante) Feedback y chips
+## (NUEVO, provisional) POST /feedback
 
-No hace falta para la primera integración; se apunta aquí para no pintarnos en una esquina. Propuesta, todo **opcional y aditivo**
-(no rompe nada de lo anterior):
+Implementado de forma mínima para que el frontend pueda conectarlo; el flujo de preguntas lo completaremos más adelante.
 
-- **Chips de respuesta rápida:** campo `sugerencias: string[]` (máx. 4, cortos) en la respuesta de `/chat`.
-  Al pulsar uno, el frontend lo envía como `mensaje`.
-- **Feedback:** campo `feedback` en la respuesta de `/chat` cuando Merche quiere preguntar cómo salió algo:
-  `{ "sujeto": { "tipo": "receta" | "producto", "id": "r1", "nombre": "...", "imagen": "..." } }`.
-  La pregunta va en `mensaje`; el frontend pinta 👍👎.
-- **Respuesta al feedback:** `POST /feedback` con `{ session_id, sujeto: {tipo, id}, valor: "positivo" | "negativo" }`;
-  puede devolver `{ mensaje, sugerencias? }` (por ejemplo "¿Qué falló?" con chips "Estaba soso", "Muy caro").
-- **Apertura:** a decidir cómo arranca Merche una conversación cuando quiere empezar ella (p. ej. pedir feedback al abrir
-  la pestaña): un `GET /bienvenida?session_id=` o un `mensaje` especial.
+Petición: `{ "session_id", "sujeto": { "tipo": "receta" | "producto", "id": "r1" }, "valor": "positivo" | "negativo", "motivo"?: "Estaba soso" }`
 
-## Para quien integre Gemini
+Respuesta: `{ "mensaje"?: "...", "sugerencias"?: ["Estaba soso", "Muy caro", "No me gustó"] }`
 
-Solo hay dos puntos de enganche, ambos con una función que se puede reescribir sin tocar el resto:
-- `app/logic/interprete.py::interpretar(mensaje) -> Interpretacion`: del texto del usuario a datos estructurados.
-- `app/logic/mensajes.py`: textos del asistente (`plan_nuevo`, `plan_sustituido`...).
+- Se guarda en la sesión. Una receta con 👎 **no se vuelve a proponer** en esa sesión.
+- Un 👎 sin `motivo` devuelve `sugerencias` (chips); si el usuario pulsa uno, se reenvía el mismo POST con `motivo`.
+- 404 si la sesión no existe.
 
-Configuración en `.env` (`LLM_PROVIDER=gemini`, `LLM_API_KEY`, `LLM_MODEL`) y `app/logic/llm.py`.
-Los precios y las cantidades los calcula siempre el código con el catálogo real; el LLM no debe inventarlos.
+### Todavía pendiente
+- **Chips de respuesta rápida en `/chat`:** campo `sugerencias: string[]` (máx. 4) en la respuesta; al pulsar uno, se envía como `mensaje`.
+- **Feedback iniciado por Merche:** campo `feedback` en la respuesta de `/chat` (`{ "sujeto": { "tipo", "id", "nombre", "imagen" } }`),
+  con la pregunta en `mensaje`. Cómo arranca Merche una conversación (p. ej. al abrir la pestaña) está por decidir.
+
+## Reglas de precio y viabilidad
+
+El backend **no concede lo imposible**. Estas comprobaciones las hace el código (no el LLM) antes de devolver un plan:
+
+| Caso | Qué pasa |
+|---|---|
+| El presupuesto no alcanza ni para el plan más barato posible | Sin `plan`; `mensaje` dice que no puede ser, cuánto cuesta aproximadamente lo más barato y qué se puede recortar. No se guarda ese presupuesto, pero sí se recuerda lo demás (personas, dieta, días). |
+| Más de 12 comensales, presupuesto <= 0, día que no existe | Sin `plan`; `mensaje` explica el límite. |
+| Dieta/alergias que no dejan ningún plato posible | Sin `plan`; `mensaje` lo explica. |
+| "Cambia el martes" y no hay otro plato que cumpla presupuesto y dieta | Sin `plan`; el plan no cambia. |
+| "Añade leche" y con ello se pasa del presupuesto | Se añade, y `mensaje` lo avisa ("te pasas del presupuesto"). |
+| Producto que no existe en el catálogo | Sin `plan`; `mensaje` dice que no lo encuentra. |
+
+- Cuando hay presupuesto, el planificador **abarata el plan** (cambia platos por otros más baratos) hasta que cabe; solo si ni así cabe, lo rechaza.
+- **Excepción a "`mensaje` no cita totales":** el rechazo por presupuesto sí menciona el importe mínimo aproximado, porque es la información útil.
+  Usa la misma regla de envases enteros que el frontend, así que coincide salvo que el usuario haya editado el plan.
+- Los precios son los del catálogo de Mercadona descargado (se actualiza semanalmente); no son precios en tiempo real.
+- Cuando algo falla, **el texto lo escribe el código** y no el LLM, para que lo que se le dice al usuario sea exacto.
+
+## Qué recuerda el backend (estado de la sesión)
+
+Cada `session_id` tiene un estado que se actualiza en cada mensaje y se guarda en `.estado/<session_id>.json`.
+Es lo que permite que "mejor 25 euros" o "cambia el lunes" funcionen sin repetir todo:
+
+| Bloque | Contenido | Se actualiza cuando... |
+|---|---|---|
+| Conversación | `mensajes` (usuario/asistente) | cada turno |
+| Preferencias | `comensales`, `presupuesto`, `dias`, `momentos` (comida/cena), `sin_cocinar` (días), `excluir` (etiquetas de dieta/alergia), `rechazadas` (recetas con 👎) | el usuario lo dice o da feedback |
+| Plan | `plan` vigente | se genera o cambia un plato/extra; **si el frontend envía `plan`, manda sobre el guardado** |
+| Listas | listas guardadas con `/lista` | el usuario pulsa "guardar" |
+| Feedback | valoraciones de `/feedback` | el usuario valora |
+
+Clasificación de lo que dice el usuario: cada mensaje se convierte en una acción: `plan` (datos o plan nuevo), `cambiar_plato`,
+`anadir_extra`, `quitar_extra` o `charla`, más los datos que traiga (personas, presupuesto, días, momentos, `excluir`...).
+`excluir` usa etiquetas fijas que llevan las recetas: `carne`, `pescado`, `gluten`, `lactosa`, `huevo`, `soja`
+(vegetariano = carne + pescado; vegano = carne + pescado + huevo + lactosa). Cada receta del plan trae sus `etiquetas`.
+
+## Cómo funciona el agente (Gemini)
+
+Un turno de `/chat`:
+
+```
+mensaje -> Gemini clasifica (UNA llamada) -> el código ejecuta la acción y comprueba la viabilidad
+        -> se actualiza el estado de la sesión -> texto de la respuesta (+ plan si cambió)
+```
+
+- Gemini solo **entiende** el mensaje (acción + datos) y propone el texto de la respuesta. Qué platos, cantidades y precios hay lo decide
+  siempre el código con el catálogo real. Si el texto del LLM cita precios, se descarta; si la acción falla, el texto lo pone el código.
+- **Una sola llamada por mensaje**: la clave gratuita permite unas 5 peticiones por minuto. Si Gemini falla, tarda más de 15 s o se queda
+  sin cuota, el chat **no se cae**: se usa un intérprete por reglas y plantillas (`app/logic/interprete.py`, `mensajes.py`).
+- Las instrucciones del LLM están en `app/logic/agente.py` (`SISTEMA_INTERPRETE`); la conexión, en `app/logic/llm.py`.
+- Configuración en `.env`: `LLM_PROVIDER`, `LLM_API_KEY`, `LLM_MODEL`. Sin clave, todo funciona con el plan B.
+
+## Probar y conectar
+
+```bash
+# Backend (puerto 8000)
+python -m venv venv
+venv\Scripts\activate          # Linux/Mac: source venv/bin/activate
+pip install -r requirements.txt -r requirements-dev.txt
+uvicorn main:app --reload
+pytest                      # 58 tests, sin red ni Gemini (siempre simulado)
+
+# Probar a mano: Swagger en http://localhost:8000/docs, o con curl:
+curl -X POST localhost:8000/chat -H "content-type: application/json" -d '{"session_id":"demo","mensaje":"Somos 2, 60 euros y el martes no cocino"}'
+```
+
+- **Frontend:** llama a `http://localhost:8000` (CORS abierto). Mientras no haya backend se puede trabajar con las respuestas de ejemplo de este documento.
+- El primer arranque en frío puede tardar unos segundos (carga el catálogo). Si hay errores raros con la sesión, borra `.estado/`.
