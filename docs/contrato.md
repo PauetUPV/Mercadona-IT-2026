@@ -388,6 +388,10 @@ Ese texto se envía después a `/chat` como un mensaje escrito (misma ruta, mism
 
 En Swagger (`/docs`) se puede probar subiendo un `.wav`.
 
+**Respuesta hablada:** cuando el mensaje se envió por voz, la interfaz lee en voz alta la respuesta de Merche
+(`mensaje` + `mensaje_conclusion`) con la voz española del navegador (Web Speech API; gratis, sin Gemini). Se calla al volver
+a pulsar el micrófono, al pulsar "Volver" o al salir de la pantalla. Los mensajes escritos no se leen.
+
 ## Reglas de precio y viabilidad
 
 El backend **no concede lo imposible**. Estas comprobaciones las hace el código (no el LLM) antes de devolver un plan:

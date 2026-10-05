@@ -1,5 +1,6 @@
 // Voice messages: record with the microphone and turn the recording into a small WAV
 // (16 kHz, mono, 16-bit). Chrome records WebM/Opus, which Gemini doesn't accept, so we convert here.
+// And Merche's spoken replies, with the browser's own Spanish voice (free, instant, no Gemini quota).
 
 const FRECUENCIA = 16000;
 
@@ -82,4 +83,36 @@ function cabeceraWav(muestras: number): ArrayBuffer {
   texto(36, "data");
   v.setUint32(40, muestras * 2, true);
   return v.buffer;
+}
+
+// ---- Merche speaking -------------------------------------------------------
+
+export const puedeHablar = () => typeof window !== "undefined" && "speechSynthesis" in window;
+
+// Best Spanish (Spain) voice available: natural/online ones first, then any es-ES, then any Spanish.
+function vozEspanola(): SpeechSynthesisVoice | undefined {
+  const voces = window.speechSynthesis.getVoices();
+  const es = voces.filter((v) => v.lang.toLowerCase().startsWith("es"));
+  const espana = es.filter((v) => v.lang.toLowerCase() === "es-es" || v.lang.toLowerCase() === "es_es");
+  const natural = (v: SpeechSynthesisVoice) => /natural|online|google/i.test(v.name);
+  return espana.find(natural) ?? espana[0] ?? es.find(natural) ?? es[0];
+}
+
+// Reads `texto` aloud, interrupting anything Merche was saying.
+export function hablar(texto: string) {
+  if (!puedeHablar() || !texto.trim()) return;
+  const sintesis = window.speechSynthesis;
+  sintesis.cancel();
+  const frase = new SpeechSynthesisUtterance(
+    texto.replace(/[«»"]/g, "").replace(/\s*·\s*/g, ", ").replace(/€/g, " euros"),
+  );
+  frase.lang = "es-ES";
+  const voz = vozEspanola();
+  if (voz) frase.voice = voz;
+  frase.rate = 1.05;
+  sintesis.speak(frase);
+}
+
+export function callar() {
+  if (puedeHablar()) window.speechSynthesis.cancel();
 }
