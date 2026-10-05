@@ -32,7 +32,7 @@ export function IntroBlock({ onEjemplo }: { onEjemplo: (texto: string) => void }
       </h2>
       <p className="mt-3 max-w-[560px] text-[17px] leading-relaxed text-[#4d5b54] sm:text-lg">
         Busca un producto como siempre, o pídele a Merche un menú, una receta o
-        un plan semanal. Escribe en la barra de abajo y yo me encargo del resto.
+        un plan semanal.
       </p>
 
       <p className="mt-8 text-xs font-bold uppercase tracking-[0.12em] text-[#7b8781]">
