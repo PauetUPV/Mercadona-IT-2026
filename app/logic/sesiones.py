@@ -28,6 +28,7 @@ class Sesion(BaseModel):
     sin_cocinar: list[str] = Field(default_factory=list)  # días en los que no cocina
     excluir: list[str] = Field(default_factory=list)  # etiquetas: dietas y alergias
     rechazadas: list[str] = Field(default_factory=list)  # ids de recetas que no le gustaron
+    fijos: list[dict] = Field(default_factory=list)  # platos pedidos por el usuario: {dia, momento, receta_id}
     # Estado del plan
     plan: Optional[PlanResponse] = None  # plan vigente (el del frontend manda si lo ha editado)
     listas: list[dict] = Field(default_factory=list)  # listas guardadas (/lista)

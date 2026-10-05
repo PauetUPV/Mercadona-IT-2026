@@ -50,11 +50,22 @@ class ChatRequest(BaseModel):
     plan: Optional[PlanResponse] = None  # el plan tal como lo ve el usuario, si lo ha editado
 
 
+class SujetoPendiente(BaseModel):
+    """Algo que Merche quiere que el usuario valore (el frontend pinta 👍/👎)."""
+
+    tipo: Literal["receta", "producto"]
+    id: str
+    nombre: str
+    imagen: Optional[str] = None
+
+
 class ChatResponse(BaseModel):
     session_id: str
     mensaje: str  # texto para la burbuja del chat
     mensaje_conclusion: Optional[str] = None  # va DESPUÉS del plan
     plan: Optional[PlanResponse] = None  # solo si ha cambiado; si falta, el frontend conserva el último
+    sugerencias: Optional[list[str]] = None  # chips de respuesta rápida (máx. 4); al pulsar, se envían como `mensaje`
+    feedback: Optional[SujetoPendiente] = None  # Merche pregunta qué tal salió algo (la pregunta va en `mensaje`)
 
 
 class MensajeChat(BaseModel):
@@ -100,3 +111,4 @@ class FeedbackRequest(BaseModel):
 class FeedbackResponse(BaseModel):
     mensaje: Optional[str] = None
     sugerencias: Optional[list[str]] = None
+    feedback: Optional[SujetoPendiente] = None  # siguiente cosa a valorar, si Merche quiere seguir preguntando
