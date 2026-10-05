@@ -12,7 +12,7 @@ import { SearchResults } from "./SearchResults";
 type Vista =
   | { tipo: "vacio" }
   | { tipo: "busqueda"; consulta: string; resultados: Producto[] | null }
-  | { tipo: "conversacion"; mensajes: MensajeChat[]; plan?: Plan; conclusion?: string; cargando: boolean };
+  | { tipo: "conversacion"; mensajes: MensajeChat[]; plan?: Plan; planEn?: string; conclusion?: string; cargando: boolean };
 
 let nMensajes = 0;
 
@@ -57,6 +57,7 @@ export function MerchePage({
             ...v,
             mensajes: [...v.mensajes, merche],
             plan: respuesta.plan ?? v.plan, // no plan in the response = nothing changed
+            planEn: respuesta.plan ? merche.id : v.planEn,
             conclusion: respuesta.conclusion,
             cargando: false,
           }
@@ -113,12 +114,10 @@ export function MerchePage({
           <ChatThread
             mensajes={vista.mensajes}
             plan={vista.plan}
+            planEn={vista.planEn}
             conclusion={vista.conclusion}
             cargando={vista.cargando}
-            added={added}
-            onToggle={onToggle}
             onAddAll={onAddAll}
-            onNotice={onNotice}
           />
         )}
       </main>
@@ -128,6 +127,7 @@ export function MerchePage({
         onChange={setTexto}
         onSubmit={() => enviar(texto)}
         intencion={intencion}
+        soloMerche={vista.tipo === "conversacion"}
       />
     </>
   );

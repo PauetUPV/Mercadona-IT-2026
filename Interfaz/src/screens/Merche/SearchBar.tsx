@@ -8,11 +8,14 @@ export function SearchBar({
   onChange,
   onSubmit,
   intencion,
+  soloMerche = false,
 }: {
   value: string;
   onChange: (texto: string) => void;
   onSubmit: () => void;
   intencion: Intencion;
+  // Inside a conversation there is no product search: the bar only talks to Merche.
+  soloMerche?: boolean;
 }) {
   const esMerche = intencion === "merche";
 
@@ -28,10 +31,11 @@ export function SearchBar({
       {/* One outlined box: the outline takes the color of the destination, and a
           thicker top edge carries the label once the user starts typing. */}
       <div
-        className={`overflow-hidden rounded-[23px] border-2 bg-[#f2f5f3]/95 shadow-[0_10px_35px_rgba(31,74,50,0.13)] backdrop-blur transition-colors ${
-          !hayTexto ? "border-black/5" : esMerche ? "border-brand" : "border-brand-dark"
+        className={`overflow-hidden rounded-full border-2 bg-[#f2f5f3]/95 shadow-[0_10px_35px_rgba(31,74,50,0.13)] backdrop-blur transition-colors ${
+          !hayTexto && !soloMerche ? "border-black/5" : esMerche ? "border-brand" : "border-brand-dark"
         }`}
       >
+        {!soloMerche && (
         <div
           aria-hidden={!hayTexto}
           className={`grid transition-[grid-template-rows] duration-200 ${
@@ -41,20 +45,25 @@ export function SearchBar({
           <div className="overflow-hidden">
             <p
               role="status"
-              className={`flex items-center gap-1.5 px-4 py-1.5 text-xs font-bold text-white transition-colors ${esMerche ? "bg-brand" : "bg-brand-dark"}`}
+              className={`flex items-center justify-center gap-1.5 px-6 py-1.5 text-xs font-bold text-white transition-colors ${esMerche ? "bg-brand" : "bg-brand-dark"}`}
             >
               <Icon name={esMerche ? "chef" : "search"} size={14} strokeWidth={2.4} />
               {esMerche ? "Preguntar a Merche" : "Buscar producto"}
             </p>
           </div>
         </div>
-        <form onSubmit={handleSubmit} className="flex h-[58px] items-center gap-3 px-4">
+        )}
+        <form onSubmit={handleSubmit} className="flex h-[58px] items-center gap-3 pl-5 pr-[7px]">
           <span className="text-[#718078]">
-            <Icon name="search" size={24} />
+            <Icon name={soloMerche ? "chef" : "search"} size={24} />
           </span>
           <input
             className="min-w-0 flex-1 bg-transparent text-base outline-none placeholder:text-[#89938e]"
-            placeholder="Busca un producto o pídele a Merche un menú, una receta…"
+            placeholder={
+              soloMerche
+                ? "Pídele a Merche un cambio: «cambia el martes», «más barato»…"
+                : "Busca un producto o pídele a Merche un menú, una receta…"
+            }
             value={value}
             onChange={(event) => onChange(event.target.value)}
           />
