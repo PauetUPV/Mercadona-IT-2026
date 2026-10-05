@@ -1,7 +1,428 @@
 {
   "recetas": [
-    {"id": "r1", "nombre": "Pollo al horno con patatas", "tipo": "cocinar", "precio_estimado": 6.5},
-    {"id": "r2", "nombre": "Ensalada de pasta", "tipo": "cocinar", "precio_estimado": 4.2},
-    {"id": "r3", "nombre": "Lasaña (lista para comer)", "tipo": "listo_para_comer", "precio_estimado": 5.0}
+    {
+      "id": "r1",
+      "nombre": "Pollo al horno con patatas",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "2787",
+          "unidades": 1
+        },
+        {
+          "producto_id": "69386",
+          "unidades": 1
+        },
+        {
+          "producto_id": "69312",
+          "unidades": 0.5
+        },
+        {
+          "producto_id": "4640",
+          "unidades": 0.05
+        }
+      ],
+      "extras": [
+        "sal",
+        "pimienta"
+      ]
+    },
+    {
+      "id": "r2",
+      "nombre": "Espaguetis con tomate y queso",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "35904",
+          "unidades": 0.5
+        },
+        {
+          "producto_id": "17108",
+          "unidades": 1
+        },
+        {
+          "producto_id": "22216",
+          "unidades": 0.3
+        },
+        {
+          "producto_id": "4640",
+          "unidades": 0.03
+        }
+      ],
+      "extras": [
+        "sal",
+        "agua"
+      ]
+    },
+    {
+      "id": "r3",
+      "nombre": "Macarrones con carne",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "6250",
+          "unidades": 0.5
+        },
+        {
+          "producto_id": "2869",
+          "unidades": 0.5
+        },
+        {
+          "producto_id": "17108",
+          "unidades": 1
+        },
+        {
+          "producto_id": "22216",
+          "unidades": 0.2
+        }
+      ],
+      "extras": [
+        "sal",
+        "agua"
+      ]
+    },
+    {
+      "id": "r4",
+      "nombre": "Lentejas estofadas",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "26030",
+          "unidades": 2
+        },
+        {
+          "producto_id": "69586",
+          "unidades": 0.5
+        },
+        {
+          "producto_id": "69310",
+          "unidades": 0.5
+        },
+        {
+          "producto_id": "4640",
+          "unidades": 0.03
+        }
+      ],
+      "extras": [
+        "sal",
+        "agua",
+        "pimentón"
+      ]
+    },
+    {
+      "id": "r5",
+      "nombre": "Garbanzos con espinacas",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "26029",
+          "unidades": 2
+        },
+        {
+          "producto_id": "35781",
+          "unidades": 1
+        },
+        {
+          "producto_id": "61251",
+          "unidades": 0.3
+        },
+        {
+          "producto_id": "4640",
+          "unidades": 0.03
+        }
+      ],
+      "extras": [
+        "sal",
+        "agua",
+        "pimentón"
+      ]
+    },
+    {
+      "id": "r6",
+      "nombre": "Tortilla de patata",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "31310",
+          "unidades": 1
+        },
+        {
+          "producto_id": "69386",
+          "unidades": 1
+        },
+        {
+          "producto_id": "69089",
+          "unidades": 0.3
+        },
+        {
+          "producto_id": "4640",
+          "unidades": 0.1
+        }
+      ],
+      "extras": [
+        "sal"
+      ]
+    },
+    {
+      "id": "r7",
+      "nombre": "Ensalada completa con atún",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "68130",
+          "unidades": 1
+        },
+        {
+          "producto_id": "60369",
+          "unidades": 2
+        },
+        {
+          "producto_id": "12911",
+          "unidades": 1
+        },
+        {
+          "producto_id": "31010",
+          "unidades": 1
+        }
+      ],
+      "extras": [
+        "sal",
+        "vinagre"
+      ]
+    },
+    {
+      "id": "r8",
+      "nombre": "Merluza con calabacín y patata",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "24324",
+          "unidades": 1
+        },
+        {
+          "producto_id": "69338",
+          "unidades": 2
+        },
+        {
+          "producto_id": "69386",
+          "unidades": 0.5
+        },
+        {
+          "producto_id": "4640",
+          "unidades": 0.03
+        }
+      ],
+      "extras": [
+        "sal",
+        "limón"
+      ]
+    },
+    {
+      "id": "r9",
+      "nombre": "Hamburguesas con ensalada",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "2872",
+          "unidades": 1
+        },
+        {
+          "producto_id": "13803",
+          "unidades": 1
+        },
+        {
+          "producto_id": "68130",
+          "unidades": 0.5
+        },
+        {
+          "producto_id": "60369",
+          "unidades": 1
+        }
+      ],
+      "extras": [
+        "sal",
+        "pimienta"
+      ]
+    },
+    {
+      "id": "r10",
+      "nombre": "Arroz con pollo",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "22279",
+          "unidades": 2
+        },
+        {
+          "producto_id": "2777",
+          "unidades": 1
+        },
+        {
+          "producto_id": "69310",
+          "unidades": 1
+        }
+      ],
+      "extras": [
+        "sal",
+        "agua"
+      ]
+    },
+    {
+      "id": "r11",
+      "nombre": "Crema de calabacín con pan",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "35870",
+          "unidades": 2
+        },
+        {
+          "producto_id": "12049.1",
+          "unidades": 0.5
+        },
+        {
+          "producto_id": "22216",
+          "unidades": 0.2
+        }
+      ],
+      "extras": [
+        "sal",
+        "pimienta"
+      ]
+    },
+    {
+      "id": "r12",
+      "nombre": "Tallarines salteados con verduras",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "6246",
+          "unidades": 0.5
+        },
+        {
+          "producto_id": "69586",
+          "unidades": 0.5
+        },
+        {
+          "producto_id": "69312",
+          "unidades": 1
+        },
+        {
+          "producto_id": "4640",
+          "unidades": 0.03
+        }
+      ],
+      "extras": [
+        "sal",
+        "salsa de soja"
+      ]
+    },
+    {
+      "id": "l1",
+      "nombre": "Lasaña boloñesa (lista para comer)",
+      "tipo": "listo_para_comer",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "4487",
+          "unidades": 2
+        }
+      ],
+      "extras": []
+    },
+    {
+      "id": "l2",
+      "nombre": "Pollo asado Hacendado",
+      "tipo": "listo_para_comer",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "13706",
+          "unidades": 1
+        }
+      ],
+      "extras": []
+    },
+    {
+      "id": "l3",
+      "nombre": "Ensalada de pasta (lista para comer)",
+      "tipo": "listo_para_comer",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "13241",
+          "unidades": 2
+        }
+      ],
+      "extras": []
+    },
+    {
+      "id": "l4",
+      "nombre": "Pizza carnívora",
+      "tipo": "listo_para_comer",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "12083",
+          "unidades": 1
+        }
+      ],
+      "extras": []
+    },
+    {
+      "id": "l5",
+      "nombre": "Tortilla de patata con cebolla (lista para comer)",
+      "tipo": "listo_para_comer",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "60089",
+          "unidades": 1
+        }
+      ],
+      "extras": []
+    },
+    {
+      "id": "l6",
+      "nombre": "Salmón con verduras (listo para comer)",
+      "tipo": "listo_para_comer",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "13243",
+          "unidades": 2
+        }
+      ],
+      "extras": []
+    },
+    {
+      "id": "l7",
+      "nombre": "Gazpacho y pan",
+      "tipo": "listo_para_comer",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "39900",
+          "unidades": 1
+        },
+        {
+          "producto_id": "12049.1",
+          "unidades": 0.5
+        }
+      ],
+      "extras": []
+    }
   ]
 }
