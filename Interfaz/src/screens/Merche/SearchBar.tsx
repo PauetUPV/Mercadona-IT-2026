@@ -21,42 +21,54 @@ export function SearchBar({
     onSubmit();
   }
 
+  const hayTexto = value.trim() !== "";
+
   return (
     <div className="fixed inset-x-0 bottom-[90px] z-20 mx-auto max-w-[1120px] px-4 sm:bottom-[96px] sm:px-9 lg:px-12">
-      {value.trim() && (
-        <span
-          role="status"
-          className={`mb-2 ml-3 inline-flex items-center gap-1.5 rounded-full px-3 py-1 text-xs font-bold shadow-sm ${
-            esMerche ? "bg-brand text-white" : "bg-brand-dark text-white"
-          }`}
-        >
-          <Icon name={esMerche ? "chef" : "search"} size={14} strokeWidth={2.4} />
-          {esMerche ? "Preguntar a Merche" : "Buscar producto"}
-        </span>
-      )}
-      <form
-        onSubmit={handleSubmit}
-        className="flex h-[62px] items-center gap-3 rounded-[23px] border border-black/5 bg-[#f2f5f3]/95 px-4 shadow-[0_10px_35px_rgba(31,74,50,0.13)] backdrop-blur"
+      {/* One outlined box: the outline takes the color of the destination, and a
+          thicker top edge carries the label once the user starts typing. */}
+      <div
+        className={`overflow-hidden rounded-[23px] border-2 bg-[#f2f5f3]/95 shadow-[0_10px_35px_rgba(31,74,50,0.13)] backdrop-blur transition-colors ${
+          !hayTexto ? "border-black/5" : esMerche ? "border-brand" : "border-brand-dark"
+        }`}
       >
-        <span className="text-[#718078]">
-          <Icon name="search" size={24} />
-        </span>
-        <input
-          className="min-w-0 flex-1 bg-transparent text-base outline-none placeholder:text-[#89938e]"
-          placeholder="Busca un producto o pídele a Merche un menú, una receta…"
-          value={value}
-          onChange={(event) => onChange(event.target.value)}
-        />
-        <button
-          aria-label={esMerche ? "Enviar a Merche" : "Buscar"}
-          className={`grid h-11 w-11 shrink-0 place-items-center rounded-full text-white shadow-[0_7px_18px_rgba(66,148,100,0.25)] transition active:scale-95 ${
-            esMerche ? "bg-brand hover:bg-brand-hover" : "bg-brand-dark hover:bg-brand-dark-hover"
+        <div
+          aria-hidden={!hayTexto}
+          className={`grid transition-[grid-template-rows] duration-200 ${
+            hayTexto ? "grid-rows-[1fr]" : "grid-rows-[0fr]"
           }`}
-          type="submit"
         >
-          <Icon name={esMerche ? "send" : "search"} size={21} strokeWidth={2.1} />
-        </button>
-      </form>
+          <div className="overflow-hidden">
+            <p
+              role="status"
+              className={`flex items-center gap-1.5 px-4 py-1.5 text-xs font-bold text-white transition-colors ${esMerche ? "bg-brand" : "bg-brand-dark"}`}
+            >
+              <Icon name={esMerche ? "chef" : "search"} size={14} strokeWidth={2.4} />
+              {esMerche ? "Preguntar a Merche" : "Buscar producto"}
+            </p>
+          </div>
+        </div>
+        <form onSubmit={handleSubmit} className="flex h-[58px] items-center gap-3 px-4">
+          <span className="text-[#718078]">
+            <Icon name="search" size={24} />
+          </span>
+          <input
+            className="min-w-0 flex-1 bg-transparent text-base outline-none placeholder:text-[#89938e]"
+            placeholder="Busca un producto o pídele a Merche un menú, una receta…"
+            value={value}
+            onChange={(event) => onChange(event.target.value)}
+          />
+          <button
+            aria-label={esMerche ? "Enviar a Merche" : "Buscar"}
+            className={`grid h-11 w-11 shrink-0 place-items-center rounded-full text-white shadow-[0_7px_18px_rgba(66,148,100,0.25)] transition active:scale-95 ${
+              esMerche ? "bg-brand hover:bg-brand-hover" : "bg-brand-dark hover:bg-brand-dark-hover"
+            }`}
+            type="submit"
+          >
+            <Icon name={esMerche ? "send" : "search"} size={21} strokeWidth={2.1} />
+          </button>
+        </form>
+      </div>
     </div>
   );
 }
