@@ -1,11 +1,16 @@
-import { useEffect, useRef, type ReactNode } from "react";
+import { useEffect, useRef, useState, type ReactNode } from "react";
 import { Icon } from "../../components/Icon";
 import { ProductRow } from "../../components/ProductRow";
 import type { MensajeChat, Plan } from "../../data/types";
 import { capitalizar, formatPrecio } from "../../lib/formato";
-import { diasOrdenados, imagenReceta, listaCompra, totalLista } from "../../lib/lista";
+import { costeIngrediente, diasOrdenados, imagenReceta, listaCompra, totalLista } from "../../lib/lista";
+import { PlatoDetalle } from "./PlatoDetalle";
+
+// Same dish can't repeat within a day, so day + recipe id is a stable key.
+const claveReceta = (dia: string, recetaId: string) => `${dia}-${recetaId}`;
 
 // State C: conversation with Merche, plus the plan she proposes.
+// Each dish in the plan opens its own view with selectable ingredients.
 export function ChatThread({
   mensajes,
   plan,
@@ -26,11 +31,53 @@ export function ChatThread({
   onNotice: (texto: string) => void;
 }) {
   const finRef = useRef<HTMLDivElement>(null);
+  const [platoAbierto, setPlatoAbierto] = useState<string | null>(null);
+  // Ticked producto ids per dish. A dish with no entry has everything ticked.
+  const [selecciones, setSelecciones] = useState<Record<string, Set<string>>>({});
+
   useEffect(() => {
     finRef.current?.scrollIntoView({ behavior: "smooth", block: "end" });
   }, [mensajes.length, cargando, plan, conclusion]);
 
+  // A new plan starts clean.
+  useEffect(() => {
+    setPlatoAbierto(null);
+    setSelecciones({});
+  }, [plan?.id]);
+
   const lineas = plan ? listaCompra(plan) : [];
+
+  if (plan && platoAbierto !== null) {
+    for (const [dia, recetas] of diasOrdenados(plan)) {
+      for (const receta of recetas) {
+        const clave = claveReceta(dia, receta.id);
+        if (clave !== platoAbierto) continue;
+
+        const seleccion = selecciones[clave] ?? new Set(receta.ingredientes.map((i) => i.producto.id));
+        const subtotal = receta.ingredientes
+          .filter((i) => seleccion.has(i.producto.id))
+          .reduce((acc, i) => acc + costeIngrediente(i), 0);
+
+        return (
+          <PlatoDetalle
+            dia={dia}
+            receta={receta}
+            seleccion={seleccion}
+            subtotal={Math.round(subtotal * 100) / 100}
+            onToggle={(id) =>
+              setSelecciones((prev) => {
+                const next = new Set(prev[clave] ?? seleccion);
+                if (next.has(id)) next.delete(id);
+                else next.add(id);
+                return { ...prev, [clave]: next };
+              })
+            }
+            onVolver={() => setPlatoAbierto(null)}
+          />
+        );
+      }
+    }
+  }
 
   return (
     <section aria-label="Conversación con Merche" className="pt-5">
@@ -60,24 +107,33 @@ export function ChatThread({
             <ul className="mt-2 divide-y divide-black/6">
               {diasOrdenados(plan).flatMap(([dia, recetas]) =>
                 recetas.map((receta) => (
-                <li key={`${dia}-${receta.id}`} className="flex items-center gap-3 py-3">
-                  <div className="h-14 w-14 shrink-0 overflow-hidden rounded-[14px] bg-[#f4eee1]">
-                    <img
-                      className="h-full w-full object-cover"
-                      src={imagenReceta(receta)}
-                      alt=""
-                      loading="lazy"
-                      onError={(event) => (event.currentTarget.style.visibility = "hidden")}
-                    />
-                  </div>
-                  <div className="min-w-0 flex-1">
-                    <p className="text-[11px] font-bold uppercase tracking-[0.1em] text-[#7b8781]">
-                      {capitalizar(dia)}
-                    </p>
-                    <p className="truncate text-[15px] font-bold">{receta.nombre}</p>
-                  </div>
-                  <strong className="text-[15px]">{formatPrecio(receta.precio_estimado)}</strong>
-                </li>
+                  <li key={claveReceta(dia, receta.id)}>
+                    <button
+                      type="button"
+                      onClick={() => setPlatoAbierto(claveReceta(dia, receta.id))}
+                      className="flex w-full items-center gap-3 py-3 text-left transition hover:bg-brand-wash"
+                    >
+                      <div className="h-14 w-14 shrink-0 overflow-hidden rounded-[14px] bg-[#f4eee1]">
+                        <img
+                          className="h-full w-full object-cover"
+                          src={imagenReceta(receta)}
+                          alt=""
+                          loading="lazy"
+                          onError={(event) => (event.currentTarget.style.visibility = "hidden")}
+                        />
+                      </div>
+                      <div className="min-w-0 flex-1">
+                        <p className="text-[11px] font-bold uppercase tracking-[0.1em] text-[#7b8781]">
+                          {capitalizar(dia)}
+                        </p>
+                        <p className="truncate text-[15px] font-bold">{receta.nombre}</p>
+                      </div>
+                      <strong className="text-[15px]">{formatPrecio(receta.precio_estimado)}</strong>
+                      <span aria-hidden className="text-xl text-[#7b8781]">
+                        ›
+                      </span>
+                    </button>
+                  </li>
                 )),
               )}
             </ul>

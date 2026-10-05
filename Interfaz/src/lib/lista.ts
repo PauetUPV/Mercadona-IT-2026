@@ -32,7 +32,10 @@ export function listaCompra(plan: Plan): LineaCompra[] {
   });
 }
 
-export const totalLista = (lineas: LineaCompra[]) =>
+// Cost of one ingredient inside its recipe (fractions of a pack allowed).
+export const costeIngrediente = ({ unidades, producto }: Ingrediente) => redondear(unidades * producto.precio);
+
+export const totalLista =(lineas: LineaCompra[]) =>
   redondear(lineas.reduce((acc, l) => acc + l.subtotal, 0));
 
 export const recetasDelPlan = (plan: Plan): Receta[] => Object.values(plan.dias).flat();
