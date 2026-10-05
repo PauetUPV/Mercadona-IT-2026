@@ -1,5 +1,8 @@
 // Data shapes the UI needs. Proposed contract for the backend team.
 
+// Where a query from the Merche bar goes: classic product search or the bot.
+export type Intencion = "buscar" | "merche";
+
 export type TipoPlato = "cocinar" | "listo_para_comer";
 
 export interface Producto {

@@ -16,8 +16,10 @@ from app.logic.sesiones import Sesion
 from app.logic.texto import DIAS_SEMANA, norm
 from app.models.schemas import ChatRequest, ChatResponse, FeedbackRequest, FeedbackResponse, ListaRequest, ListaResponse, MensajeChat, PlanResponse
 
-DIAS_POR_DEFECTO = DIAS_SEMANA[:5]  # lunes a viernes
+# NUEVO: Importamos el cerebro de la IA
+from app.logic.llm import consultar_llm
 
+DIAS_POR_DEFECTO = DIAS_SEMANA[:5]  # lunes a viernes
 
 def _platos(plan: PlanResponse) -> dict[str, list[str]]:
     return {d: [r.nombre for r in rs] for d, rs in plan.dias.items()}

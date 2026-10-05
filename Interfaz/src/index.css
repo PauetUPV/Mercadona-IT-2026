@@ -1,6 +1,18 @@
 @import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&display=swap");
 @import "tailwindcss";
 
+/* Mercadona green. Change the base here; the rest are derived shades. */
+@theme {
+  --color-brand: #429464;
+  --color-brand-hover: #377c54;
+  --color-brand-dark: #1f4a32;
+  --color-brand-dark-hover: #163824;
+  --color-brand-tint: #e1f0e7;
+  --color-brand-wash: #eef6f1;
+  --color-brand-tile: #e8f3ec;
+  --color-brand-tile-hover: #dbeae1;
+}
+
 :root {
   font-family: "DM Sans", ui-sans-serif, system-ui, sans-serif;
   color: #15231d;
@@ -34,5 +46,5 @@ button {
 
 ::selection {
   color: white;
-  background: #00a86b;
+  background: var(--color-brand);
 }

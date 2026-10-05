@@ -1,12 +1,24 @@
 // The ONLY door to data. Screens import from here, never from fake.ts or fetch.
 // Everything is async so a real network call can replace the body later
 // without touching any screen.
-import { bienvenida, planEjemplo, recetas } from "./fake";
-import type { MensajeChat, Plan, Receta, RespuestaChat } from "./types";
+import { bienvenida, catalogo, planEjemplo, recetas } from "./fake";
+import type { MensajeChat, Plan, Producto, Receta, RespuestaChat } from "./types";
 
 const wait = (ms: number) => new Promise((r) => setTimeout(r, ms));
 let n = 0;
 const uid = () => `m${++n}`;
+const normalizar = (s: string) =>
+  s.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+
+// Classic search: "tomate" -> every product that mentions tomate.
+export async function buscarProductos(consulta: string): Promise<Producto[]> {
+  await wait(400);
+  const palabras = normalizar(consulta).split(/\s+/).filter(Boolean);
+  return catalogo.filter((prod) => {
+    const texto = normalizar(`${prod.nombre} ${prod.detalle}`);
+    return palabras.every((palabra) => texto.includes(palabra));
+  });
+}
 
 export async function getBienvenida(): Promise<MensajeChat> {
   return { id: uid(), autor: "merche", texto: bienvenida };

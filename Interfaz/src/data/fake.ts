@@ -19,6 +19,19 @@ export const queso = p("p5", "Queso parmesano rallado", "Hacendado · 80 g", 1.4
 export const pollo = p("p6", "Pechuga de pollo", "Hacendado · 600 g", 4.2, img("photo-1604503468506-a8da13d82791"));
 export const arroz = p("p7", "Arroz redondo", "Hacendado · 1 kg", 1.35, img("photo-1536304993881-ff6e9eefa2a6"));
 
+const tomatePera = p("p8", "Tomate pera", "Hacendado · 1 kg", 1.89, img("photo-1607863680026-e113604ccb17"));
+const tomateCherry = p("p9", "Tomate cherry", "Hacendado · 250 g", 1.55, img("photo-1607863680026-e113604ccb17"));
+const tomateTriturado = p("p10", "Tomate triturado", "Hacendado · 800 g", 1.25, img("photo-1607863680026-e113604ccb17"));
+const macarrones = p("p11", "Macarrones", "Hacendado · 500 g", 0.95, img("photo-1551462147-ff29053bfc14"));
+const tallarines = p("p12", "Tallarines", "Hacendado · 500 g", 1.05, img("photo-1551462147-ff29053bfc14"));
+
+// Everything the fake search can find.
+export const catalogo: Producto[] = [
+  spaghetti, macarrones, tallarines,
+  tomate, tomatePera, tomateCherry, tomateTriturado,
+  huevos, panceta, queso, pollo, arroz,
+];
+
 export const recetas: Receta[] = [
   {
     id: "r1",
