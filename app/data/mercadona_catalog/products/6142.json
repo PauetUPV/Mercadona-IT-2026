@@ -1,0 +1,107 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 446,
+              "level": 2,
+              "name": "Pasta rellena",
+              "order": 10
+            }
+          ],
+          "id": 120,
+          "level": 1,
+          "name": "Pasta y fideos",
+          "order": 10
+        }
+      ],
+      "id": 13,
+      "level": 0,
+      "name": "Arroz, legumbres y pasta",
+      "order": 10
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pasta fresca tortellini rellena de carne Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Pasta alimenticia fresca al huevo con relleno de carne estofada y jamón curado",
+    "mandatory_mentions": "",
+    "origin": "Italia",
+    "production_variant": "-",
+    "storage_instructions": "Conservar refrigerado entre +4/7C. Una vez abierto, consumir dentro de los tres días siguientes. 2 min",
+    "suppliers": [
+      {
+        "name": "Bertagni 1882 S.p.a."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Pasta fresca tortellini rellena de carne Hacendado",
+  "ean": "8480000061423",
+  "extra_info": [
+    ""
+  ],
+  "id": "6142",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>frutos de cáscara</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>. Puede contener <strong>pescado y productos a base de pescado</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "PASTA (57%): harina de <strong>TRIGO</strong> blando, <strong>HUEVOS</strong> 21%, sémola de <strong>TRIGO</strong> duro, agua. RELLENO (43%): carne estofada 40% [carne porcina 40%, agua,  carne ternera 10%, aceite de semillas de girasol, cebolla, zanahoria, almidón de maíz, sal, ajo, nuez moscada, extracto de orégano, pimienta negra], pan rallado (harina de <strong>TRIGO</strong>, sal, levadura), puré de patata [agua, <strong>LECHE</strong> parcialmente desnatada, copos de patata, aceite ed semillas ed girasol, mantequilla (<strong>LECHE</strong>), sal], jamón curado 13% (carne porcina, sal), aceite ed semilla de girasol, aromas naturales, fibra de <strong>TRIGO</strong>, sal.<strong> PUEDE CONTENER TRAZAS DE SOJA, CRUSTÁCEOS, PESCADO, FRUTOS DE CÁSCARA, MOSTAZA</strong>."
+  },
+  "origin": "Italia",
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/c963d4353c28eec3b4653867138e7bda.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c963d4353c28eec3b4653867138e7bda.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c963d4353c28eec3b4653867138e7bda.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "7.80",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.800",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.95",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/6142/pasta-fresca-tortellini-carne-hacendado-bandeja",
+  "slug": "pasta-fresca-tortellini-carne-hacendado-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/c963d4353c28eec3b4653867138e7bda.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 281,
+              "level": 2,
+              "name": "Pollo",
+              "order": 17
+            }
+          ],
+          "id": 38,
+          "level": 1,
+          "name": "Aves y pollo",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pincho Mexicano de pollo con varilla",
+    "legal_name": "PINCHO POLLO MEXICANO",
+    "mandatory_mentions": "Envasado en atmósfera protectora",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar de 0º a 4º. Una vez abierto consumir en 48 horas",
+    "suppliers": [
+      {
+        "name": "JOVISERRANO, SLU"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Pincho Mexicano de pollo con varilla",
+  "ean": "8436548784591",
+  "extra_info": [
+    null
+  ],
+  "id": "8252",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Libre de <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "<p>Carne de pechuga de pollo (91%), agua, especias, conservadores (E-326,E-262), sal, antioxidantes (E-301 ,E-331 y E-330), azúcar, fibras vegetales, dextrosa, aceite y vgrasa de colza totalmente hidrogenada, vegetales deshidratados (tomate, ajo, cebolla), aromas naturales y concentrado de jugo de limón."
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/d15a89a092b17cc5b236c12867a2eb78.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d15a89a092b17cc5b236c12867a2eb78.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d15a89a092b17cc5b236c12867a2eb78.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/3fc3654220be3af77b54543521a7c2ab.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3fc3654220be3af77b54543521a7c2ab.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3fc3654220be3af77b54543521a7c2ab.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "10.30",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "10.300",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "4.84",
+    "unit_selector": true,
+    "unit_size": 0.47
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/8252/pincho-mexicano-pollo-con-varilla-bandeja",
+  "slug": "pincho-mexicano-pollo-con-varilla-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/d15a89a092b17cc5b236c12867a2eb78.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

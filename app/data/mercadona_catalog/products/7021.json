@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 469,
+              "level": 2,
+              "name": "Caldo líquido",
+              "order": 215
+            }
+          ],
+          "id": 129,
+          "level": 1,
+          "name": "Sopa y caldo",
+          "order": 215
+        }
+      ],
+      "id": 14,
+      "level": 0,
+      "name": "Conservas, caldos y cremas",
+      "order": 215
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Caldo de marisco o fideuá para paella Hacendado con sofrito",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Caldo Paella y Fideuá de Marisco con sofrito",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco. Una vez abierto conservar en el frigorífico y consumir antes de 3 días.",
+    "suppliers": [
+      {
+        "name": "ALINTER ALIMENTACIÓN, S.A.U"
+      },
+      {
+        "name": "Interal, S.A."
+      }
+    ],
+    "usage_instructions": "Listo para consumir. Agitar antes de usar. Dora y fríe los ingredientes que más te gusten y resérvalos. Añade el arroz o la pasta junto con el caldo. Añade los ingredientes que habías reservado.  Para paella: mantén en ebullición 10 minutos y otros minutos a fuego medio. Para fideua: deja cocer el tiempo que corresponda según el tipo de fideo utilizado."
+  },
+  "display_name": "Caldo de marisco o fideuá para paella Hacendado con sofrito",
+  "ean": "8480000070210",
+  "extra_info": [
+    null
+  ],
+  "id": "7021",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "con sofrito",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>moluscos y productos a base de moluscos</strong>. Contiene <strong>pescado y productos a base de pescado</strong>. Contiene <strong>crustáceos y productos a base de crustáceos</strong>.",
+    "ingredients": "Caldo de marisco (94%), (agua, gamba (<strong>2,6%), tom</strong>ate (11.6%), <strong>mejilló</strong>n (1.2%), sal,<strong> aroma nat</strong>ural (contiene pescado y crustáceos), bog<strong>avante </strong>(0,<strong>2%), espec</strong>ia, extracto de azafrán (0,03%)). Sofrito (6%) (cebolla (4%), aceite de oliva, ajo (1%)).  Contiene pescado, moluscos y crustáceos."
+  },
+  "origin": null,
+  "packaging": "Brik",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/9348f5ac9e967781c169f4d6cc412fc4.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9348f5ac9e967781c169f4d6cc412fc4.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9348f5ac9e967781c169f4d6cc412fc4.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/4eecad53e192df95bdb40a21357d81f1.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4eecad53e192df95bdb40a21357d81f1.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4eecad53e192df95bdb40a21357d81f1.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.90",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "1.900",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.90",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/7021/caldo-marisco-fideua-paella-hacendado-con-sofrito-brick",
+  "slug": "caldo-marisco-fideua-paella-hacendado-con-sofrito-brick",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/9348f5ac9e967781c169f4d6cc412fc4.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

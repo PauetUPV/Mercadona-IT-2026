@@ -1,0 +1,141 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 440,
+              "level": 2,
+              "name": "Otras salsas",
+              "order": 7
+            }
+          ],
+          "id": 117,
+          "level": 1,
+          "name": "Otras salsas",
+          "order": 7
+        }
+      ],
+      "id": 12,
+      "level": 0,
+      "name": "Aceite, especias y salsas",
+      "order": 7
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 250,
+              "level": 2,
+              "name": "Fruta tropical",
+              "order": 306
+            }
+          ],
+          "id": 27,
+          "level": 1,
+          "name": "Fruta",
+          "order": 306
+        }
+      ],
+      "id": 1,
+      "level": 0,
+      "name": "Fruta y verdura",
+      "order": 306
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Guacamole Hacendado 95% aguacate fresco",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Guacamole",
+    "mandatory_mentions": "Envasado en atmósfera protectora.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en frío, entre 1C y 4C. Una vez abierto consumir en 24h.",
+    "suppliers": [
+      {
+        "name": "José Luis Montosa SL."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Guacamole Hacendado",
+  "ean": "8436008521001",
+  "extra_info": [
+    ""
+  ],
+  "id": "3852",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Aguacate 95%, cebolla y ajo deshidratado, sal, jalapeño, azúcar, ácido cítrico, ácido ascórbico, antioxidantes (E-301 y E-331), conservador (E-202) y cilantro deshidratado."
+  },
+  "origin": null,
+  "packaging": "Tarrina",
+  "photos": [
+    {
+      "perspective": 3,
+      "regular": "https://prod-mercadona.imgix.net/images/66c3481e7af13e610aa808949d18a5f3.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/66c3481e7af13e610aa808949d18a5f3.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/66c3481e7af13e610aa808949d18a5f3.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/bee77be8e6c3e2c07d57b41fba0a3169.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/bee77be8e6c3e2c07d57b41fba0a3169.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/bee77be8e6c3e2c07d57b41fba0a3169.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/cd549627e23c45f0d779d8964710d048.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/cd549627e23c45f0d779d8964710d048.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/cd549627e23c45f0d779d8964710d048.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "9.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "9.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.80",
+    "unit_selector": true,
+    "unit_size": 0.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/3852/guacamole-hacendado-95-aguacate-fresco-tarrina",
+  "slug": "guacamole-hacendado-95-aguacate-fresco-tarrina",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/66c3481e7af13e610aa808949d18a5f3.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

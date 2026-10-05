@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 869,
+              "level": 2,
+              "name": "Granizados y helados de hielo",
+              "order": 213
+            }
+          ],
+          "id": 154,
+          "level": 1,
+          "name": "Helados",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Helado hielo sorbete con mango Hacendado",
+    "legal_name": "Sorbete con mango",
+    "mandatory_mentions": "Sin gluten. Sin lactosa",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en congelación a temperaturas inferiores a -18 C. Una vez descongelado no volver a congelar",
+    "suppliers": [
+      {
+        "name": "A.I.A.D.H.E.S.A.-Helados Alacant"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Helado hielo sorbete con mango Hacendado",
+  "ean": "8480000642202",
+  "extra_info": [
+    ""
+  ],
+  "id": "64220",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "(ES)SORBETE CON MANGO. </p>Ingredientes: agua, azúcar, puré de mango (10%), jarabe de glucosa, acidulante (ácido cítrico), estabilizantes (goma guar, carragenanos), aromas, colorantes (curcumina, carotenos). Trazas de proteínas de <strong>leche</strong>. (PT)GELADO DE MANGA. </p>Ingredientes: água, açúcar, puré de manga (10%), xarope de glicose, acidificante (ácido cítrico), estabilizadores (goma de guar, carragenina), aromas, corantes (curcumina, carotenos). Vestígios de proteínas do <strong>leite</strong>."
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/b721082a0adb95471999014c1c348be2.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b721082a0adb95471999014c1c348be2.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b721082a0adb95471999014c1c348be2.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/d04eeafe76e278d8a32af80af6fa98aa.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d04eeafe76e278d8a32af80af6fa98aa.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d04eeafe76e278d8a32af80af6fa98aa.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.07",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "3.067",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": 10,
+    "unit_name": "ud.",
+    "unit_price": "2.30",
+    "unit_selector": true,
+    "unit_size": 0.75
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/64220/helado-sorbete-mango-hacendado-caja",
+  "slug": "helado-sorbete-mango-hacendado-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/b721082a0adb95471999014c1c348be2.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

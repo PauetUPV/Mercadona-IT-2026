@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 356,
+              "level": 2,
+              "name": "Cereales integrales y muesli",
+              "order": 18
+            }
+          ],
+          "id": 78,
+          "level": 1,
+          "name": "Cereales",
+          "order": 18
+        }
+      ],
+      "id": 7,
+      "level": 0,
+      "name": "Cereales y galletas",
+      "order": 18
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Avena molida Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Avena molida",
+    "mandatory_mentions": "",
+    "origin": "Navarra",
+    "production_variant": "",
+    "storage_instructions": "Conservar en un lugar fresco y seco. Para mantener la frescura el del producto una vez abierto, cerrar el envase despues de cada uso.",
+    "suppliers": [
+      {
+        "name": "Harivenasa S.L."
+      },
+      {
+        "name": "Harivenasa S.L.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Avena molida Hacendado",
+  "ean": "8436551093109",
+  "extra_info": [
+    null
+  ],
+  "id": "16807",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Avena 100% <strong>Contiene gluten</strong>"
+  },
+  "origin": "Navarra",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/69ee9eee81e7d2ed2450ba9c9b5cb144.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/69ee9eee81e7d2ed2450ba9c9b5cb144.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/69ee9eee81e7d2ed2450ba9c9b5cb144.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/748bfc5524e4af871a2d079d9b3a0b4e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/748bfc5524e4af871a2d079d9b3a0b4e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/748bfc5524e4af871a2d079d9b3a0b4e.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.30",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 4,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "2.300",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.15",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/16807/avena-molida-hacendado-paquete",
+  "slug": "avena-molida-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/69ee9eee81e7d2ed2450ba9c9b5cb144.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

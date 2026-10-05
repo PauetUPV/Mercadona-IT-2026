@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 443,
+              "level": 2,
+              "name": "Macarrones, pajaritas y hélices",
+              "order": 10
+            }
+          ],
+          "id": 120,
+          "level": 1,
+          "name": "Pasta y fideos",
+          "order": 10
+        }
+      ],
+      "id": 13,
+      "level": 0,
+      "name": "Arroz, legumbres y pasta",
+      "order": 10
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pasta trottole vegetales Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Pasta alimenticia compuesta con vegetales",
+    "mandatory_mentions": "",
+    "origin": "Italia",
+    "production_variant": "",
+    "storage_instructions": "Conservar en un lugar fresco y seco",
+    "suppliers": [
+      {
+        "name": "De Matteis Agroalimentare Spa"
+      },
+      {
+        "name": "Oromas SA"
+      }
+    ],
+    "usage_instructions": "Verter 100 g de pasta en 1 l. de agua salada hirviendo. Cocer durante 8-9 minutos. Remover despacio de vez en cuando cuidando de no interrumpir la ebullición. Terminado el tiempo de cocción retirar del fuego, escurrir y servir."
+  },
+  "display_name": "Pasta trottole vegetales Hacendado",
+  "ean": "8402001021398",
+  "extra_info": [
+    ""
+  ],
+  "id": "6371",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Puede contener <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "100% Sémola de <strong>trigo</strong> duro. Pasta alimenticia compuesta al tomate: sémola de <strong>trigo</strong> duro, 3,5% tomate deshidratado. Pasta alimenticia compuesta a las espinacas: sémola de <strong>trigo </strong>duro 2,5% espinacas deshidratadas .<strong> </strong>Puede contener trazas de <strong>soja</strong>, <strong>mostaza</strong> y <strong>huevo</strong>."
+  },
+  "origin": "Italia",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/24a13866672641e026b0b12f861c40a7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/24a13866672641e026b0b12f861c40a7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/24a13866672641e026b0b12f861c40a7.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/4a9a1bd7342b36cc233b12eebebb5b53.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4a9a1bd7342b36cc233b12eebebb5b53.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4a9a1bd7342b36cc233b12eebebb5b53.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.10",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "2.100",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.05",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/6371/pasta-trottole-vegetales-hacendado-paquete",
+  "slug": "pasta-trottole-vegetales-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/24a13866672641e026b0b12f861c40a7.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

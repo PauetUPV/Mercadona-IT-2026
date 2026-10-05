@@ -1,0 +1,109 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 491,
+              "level": 2,
+              "name": "Pizzas refrigeradas",
+              "order": 597
+            }
+          ],
+          "id": 138,
+          "level": 1,
+          "name": "Pizzas",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pizza Calzone con jamón cocido y queso Hacendado",
+    "legal_name": " Plato preparado precocinado.",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Mantener refrigerado entre 0ºC y 4ºC.",
+    "suppliers": [
+      {
+        "name": " Noel Alimentaria"
+      }
+    ],
+    "usage_instructions": "Una vez abierto el envase consumir en 48 horas."
+  },
+  "display_name": "Pizza Calzone con jamón cocido y queso Hacendado",
+  "ean": "8480000225498",
+  "extra_info": [
+    null
+  ],
+  "id": "22549",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Guarnición (53,7%): mezcla de queso mozzarella y queso edam (24%) [queso mozzarella (14,4%) (leche pasteurizada de vaca, fermentos lácticos (contém leite), coagulante de leche microbiano y sal), queso edam (9,6%) (leche pasteurizada de vaca, sal, fermentos lácticos (contém leite) y coagulante de leche microbiano) y antiaglomerante (celulosa en polvo)], jamón cocido (24%) [jamón de cerdo, agua, antioxidantes (lactato potásico y eritorbato sódico), sal, estabilizantes (tripolifosfato sódico y carragenato), azúcar, jarabe de glucosa, sal de potasio, corrector de acidez (bicarbonato sódico), aroma, aroma de humo, conservador (nitrito sódico)], salsa de tomate aromatizada [puré de tomate (contiene regulador de acidez (ácido cítrico)), almidón modificado de patata, sal, aceite de girasol, azúcar, plantas aromáticas (mejorana, orégano y tomillo) y especias (pimienta blanca)] y orégano. Masa (46,3%): harina de trigo, agua, aceite de oliva, sal, azúcar, levadura y sémola de maíz. Guarnición (53,7%): mezcla de queso mozzarella y queso edam (24%) [queso mozzarella (14,4%) (leche pasteurizada de vaca, fermentos lácticos (contém leite), coagulante de leche microbiano y sal), queso edam (9,6%) (leche pasteurizada de vaca, sal, fermentos lácticos (contiene leche), conservador (Lizozima de huevo) y coagulante de leche microbiano) y antiaglomerante (celulosa en polvo)], jamón cocido (24%) [jamón de cerdo, agua, antioxidantes (lactato potásico y eritorbato sódico), sal, estabilizantes (tripolifosfato sódico y carragenato), azúcar, jarabe de glucosa, sal de potasio, corrector de acidez (bicarbonato sódico), aroma, conservador (nitrito sódico)], salsa de tomate aromatizada [puré de tomate (contiene regulador de acidez (ácido cítrico)), almidón modificado de patata, sal, aceite de girasol, azúcar, plantas aromáticas (mejorana, orégano y tomillo) y especias (pimienta blanca)] y orégano. Masa (46,3%): harina de trigo, agua, aceite de oliva, sal, azúcar, levadura y sémola de maíz.Puede contener trazas de frutos de cáscara, pescado, soja, mostaza y granos de sésamo."
+  },
+  "origin": "España",
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/ff33bd0dfe1be89c4ed1579ad8fc6b6c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ff33bd0dfe1be89c4ed1579ad8fc6b6c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ff33bd0dfe1be89c4ed1579ad8fc6b6c.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/cfb674bb662a7acb2bfc3447a46405b5.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/cfb674bb662a7acb2bfc3447a46405b5.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/cfb674bb662a7acb2bfc3447a46405b5.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "8.75",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "8.750",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.50",
+    "unit_selector": true,
+    "unit_size": 0.4
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/22549/pizza-calzone-con-jamon-cocido-queso-hacendado-caja",
+  "slug": "pizza-calzone-con-jamon-cocido-queso-hacendado-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/ff33bd0dfe1be89c4ed1579ad8fc6b6c.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

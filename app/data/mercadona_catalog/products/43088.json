@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Bosque Verde",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 748,
+              "level": 2,
+              "name": "Limpiacristales",
+              "order": 374
+            }
+          ],
+          "id": 235,
+          "level": 1,
+          "name": "Limpiacristales",
+          "order": 374
+        }
+      ],
+      "id": 26,
+      "level": 0,
+      "name": "Limpieza y hogar",
+      "order": 374
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Bosque Verde",
+    "counter_info": null,
+    "danger_mentions": "Contiene 1,2-bencisotiazol-3(2H)-ona. Puede provocar una reacción alérgica.",
+    "description": "Toallitas Limpiagafas Bosque Verde monodosis perfumadas",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "Laboratorios Maverick"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Toallitas Limpiagafas Bosque Verde monodosis",
+  "ean": "8480000430885",
+  "extra_info": [
+    null
+  ],
+  "id": "43088",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "monodosis",
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": ""
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/1851c0c000fb715776e5e05718df83ee.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1851c0c000fb715776e5e05718df83ee.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1851c0c000fb715776e5e05718df83ee.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/a5acec50436aebc250bb95b246c19e16.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a5acec50436aebc250bb95b246c19e16.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a5acec50436aebc250bb95b246c19e16.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "0.05",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 21,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "0.050",
+    "selling_method": 0,
+    "size_format": "ud",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.60",
+    "unit_selector": true,
+    "unit_size": 32.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/43088/toallitas-limpiagafas-bosque-verde-monodosis-perfumadas-caja",
+  "slug": "toallitas-limpiagafas-bosque-verde-monodosis-perfumadas-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/1851c0c000fb715776e5e05718df83ee.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

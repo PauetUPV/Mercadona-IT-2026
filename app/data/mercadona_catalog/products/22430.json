@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 292,
+              "level": 2,
+              "name": "Pavo y otros",
+              "order": 159
+            }
+          ],
+          "id": 48,
+          "level": 1,
+          "name": "Aves y jamón cocido",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Maxi pavo Hacendado finas lonchas",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Fiambre de pechuga de pavo cocida",
+    "mandatory_mentions": "Envasado en atmósfera protectora / Lonchas de fácil separación / Teléfono de atención al cliente Mercadona: 800 500 220 / RECICLA AMARILLO (logo)/ SIN GLUTEN (logo) / ABRE Y CIERRA / Sugerencia de presentación",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Manténgase entre 0C y 5C / Consumir preferentemente antes del/lote: Ver lateral",
+    "suppliers": [
+      {
+        "name": "CASA TARRADELLAS, S.A."
+      }
+    ],
+    "usage_instructions": "Abrir 5 minutos antes de servir / Una vez abierto consumir en 48 horas."
+  },
+  "display_name": "Maxi pavo Hacendado finas lonchas",
+  "ean": "8480000224309",
+  "extra_info": [
+    ""
+  ],
+  "id": "22430",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "finas lonchas",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>soja y productos a base de soja</strong>.",
+    "ingredients": "Pechuga de pavo (50%), agua, fécula, proteína de <strong>soja</strong>, sal, dextrosa, estabilizantes (trifosfato pentasódico, carragenano), aromas, antioxidante (ascorbato sódico), conservador (nitrito sódico)."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/18d308abcd2a05dcec6ee3cc012d6e86.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/18d308abcd2a05dcec6ee3cc012d6e86.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/18d308abcd2a05dcec6ee3cc012d6e86.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/d05e970e2d31bbfc4a464013fd5286fb.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d05e970e2d31bbfc4a464013fd5286fb.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d05e970e2d31bbfc4a464013fd5286fb.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "7.63",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.625",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.05",
+    "unit_selector": true,
+    "unit_size": 0.4
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/22430/maxi-pavo-hacendado-finas-lonchas-paquete",
+  "slug": "maxi-pavo-hacendado-finas-lonchas-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/18d308abcd2a05dcec6ee3cc012d6e86.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

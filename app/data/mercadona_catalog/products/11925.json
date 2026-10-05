@@ -1,0 +1,107 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 404,
+              "level": 2,
+              "name": "Fruta + leche",
+              "order": 793
+            }
+          ],
+          "id": 99,
+          "level": 1,
+          "name": "Fruta variada",
+          "order": 793
+        }
+      ],
+      "id": 10,
+      "level": 0,
+      "name": "Zumos",
+      "order": 793
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": null,
+    "description": "Fruta + leche piña y coco Hacendado sin azúcares añadidos",
+    "legal_name": null,
+    "mandatory_mentions": null,
+    "origin": null,
+    "production_variant": null,
+    "storage_instructions": null,
+    "suppliers": [],
+    "usage_instructions": null
+  },
+  "display_name": "Fruta + leche piña y coco Hacendado sin azúcares añadidos",
+  "ean": "8402001028847",
+  "extra_info": [
+    ""
+  ],
+  "id": "11925",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": null
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/7dc10fb4ef5caabe27bb80f64726d48a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7dc10fb4ef5caabe27bb80f64726d48a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7dc10fb4ef5caabe27bb80f64726d48a.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/ba1a14f6723f72c8c6c94e0308338c10.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ba1a14f6723f72c8c6c94e0308338c10.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ba1a14f6723f72c8c6c94e0308338c10.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.04",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": 21,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.2,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "1.042",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": 6,
+    "unit_name": "mini briks",
+    "unit_price": "1.25",
+    "unit_selector": true,
+    "unit_size": 1.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/11925/fruta-leche-pina-coco-hacendado-sin-azucares-anadidos",
+  "slug": "fruta-leche-pina-coco-hacendado-sin-azucares-anadidos",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/7dc10fb4ef5caabe27bb80f64726d48a.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

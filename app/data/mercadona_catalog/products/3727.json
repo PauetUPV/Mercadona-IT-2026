@@ -1,0 +1,134 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 281,
+              "level": 2,
+              "name": "Pollo",
+              "order": 17
+            }
+          ],
+          "id": 38,
+          "level": 1,
+          "name": "Aves y pollo",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Cuartos traseros de pollo",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "CUARTO TRASERO DE POLLO",
+    "mandatory_mentions": "Envasado en atmósfera protectora.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar de 0 a 4ºC.",
+    "suppliers": [
+      {
+        "name": "AVICOLA DE LLEIDA S.A.U."
+      },
+      {
+        "name": "Avinatur Producciones Avícolas, S.L."
+      },
+      {
+        "name": "Avícola de Galicia, S.A.U."
+      },
+      {
+        "name": "DOLZ ESPAÑA SL"
+      },
+      {
+        "name": "HIJOS DE JUAN PUJANTE, S.A."
+      },
+      {
+        "name": "INASUR"
+      },
+      {
+        "name": "Nutrave S.A"
+      },
+      {
+        "name": "Vall Companys"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Cuartos traseros de pollo",
+  "ean": "2105100037272",
+  "extra_info": [
+    null
+  ],
+  "id": "3727",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": ""
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/ef4d972abf6b39c469ba11d25eecf306.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ef4d972abf6b39c469ba11d25eecf306.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ef4d972abf6b39c469ba11d25eecf306.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/c809e4a43064658acf4e07bca000b617.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c809e4a43064658acf4e07bca000b617.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c809e4a43064658acf4e07bca000b617.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "3.30",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "3.300",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.90",
+    "unit_selector": true,
+    "unit_size": 0.88
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/3727/cuartos-traseros-pollo-bandeja",
+  "slug": "cuartos-traseros-pollo-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/ef4d972abf6b39c469ba11d25eecf306.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

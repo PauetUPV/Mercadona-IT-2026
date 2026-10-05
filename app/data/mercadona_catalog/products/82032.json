@@ -1,0 +1,119 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 334,
+              "level": 2,
+              "name": "Bollería envasada",
+              "order": 515
+            }
+          ],
+          "id": 66,
+          "level": 1,
+          "name": "Bollería envasada",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Valencianas Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Valencianas. Productos de pastelería.",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco, seco y protegido de la luz.",
+    "suppliers": [
+      {
+        "name": "DULMATESA, S.L."
+      },
+      {
+        "name": "Dulmatesa S.L."
+      },
+      {
+        "name": "Siro El Espinar. S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Valencianas Hacendado",
+  "ean": "8480000820327",
+  "extra_info": [
+    ""
+  ],
+  "id": "82032",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>mostaza y productos derivados</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "Harina de <strong>trigo</strong> (<strong>gluten</strong>), azúcar, aceite refinado de girasol (20%), <strong>huevo</strong> líquido pasteurizado, agua, humectantes (sorbitol y glicerina), jarabe de azúcar invertido, gasificantes (E-450i y E-500ii), sal, conservador (E-202), emulgentes (E-471, E-477 y E-470a), aromas. <strong>Puede contener trazas de leche, mostaza, soja y frutos de cáscara.</strong>"
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/86a9fa950e3879e0daf0ca36180aee83.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/86a9fa950e3879e0daf0ca36180aee83.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/86a9fa950e3879e0daf0ca36180aee83.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/5d5171d4430522c4520128ac1656fdd8.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5d5171d4430522c4520128ac1656fdd8.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5d5171d4430522c4520128ac1656fdd8.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.57",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "3.572",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 12,
+    "unit_name": "ud.",
+    "unit_price": "2.50",
+    "unit_selector": true,
+    "unit_size": 0.7
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/82032/valencianas-hacendado-paquete",
+  "slug": "valencianas-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/86a9fa950e3879e0daf0ca36180aee83.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

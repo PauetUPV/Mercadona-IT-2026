@@ -1,0 +1,110 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 855,
+              "level": 2,
+              "name": "Tomate",
+              "order": 306
+            }
+          ],
+          "id": 29,
+          "level": 1,
+          "name": "Verdura",
+          "order": 306
+        }
+      ],
+      "id": 1,
+      "level": 0,
+      "name": "Fruta y verdura",
+      "order": 306
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Rama de Tomates",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Tomate rama",
+    "mandatory_mentions": "Este producto no contiene Organismos Genéticamente Modificados (OGM) ni ningún ingrediente derivado, total o parcialmente, de OGM. El producto cumple con los límites legales estipulados para pesticidas. Número máximo de días en la tienda=R3",
+    "origin": "Portugal",
+    "production_variant": "Producto a granel",
+    "storage_instructions": "Entre 8ºC y 12ºC.",
+    "suppliers": [
+      {
+        "name": "Frutas Patrícia Pilar, SA"
+      },
+      {
+        "name": "S.A.T.Nº 9895 Agrícola Perichán"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Rama de Tomates",
+  "ean": "8480000694874",
+  "extra_info": [
+    null
+  ],
+  "id": "69487",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Tomate rama."
+  },
+  "origin": "Portugal",
+  "packaging": "Granel",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/b865049658bc89eaf2131c967ee4d57e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b865049658bc89eaf2131c967ee4d57e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b865049658bc89eaf2131c967ee4d57e.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "2.40",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.73,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "2.400",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.61",
+    "unit_selector": true,
+    "unit_size": 0.67
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/69487/rama-tomates-granel",
+  "slug": "rama-tomates-granel",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/b865049658bc89eaf2131c967ee4d57e.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

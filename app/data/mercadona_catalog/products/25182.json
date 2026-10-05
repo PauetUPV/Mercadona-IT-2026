@@ -1,0 +1,148 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 290,
+              "level": 2,
+              "name": "Carne congelada",
+              "order": 17
+            }
+          ],
+          "id": 47,
+          "level": 1,
+          "name": "Carne congelada",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 511,
+              "level": 2,
+              "name": "Carne",
+              "order": 213
+            }
+          ],
+          "id": 148,
+          "level": 1,
+          "name": "Carne",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Cuartos traseros de pollo congelados",
+    "legal_name": "Cuartos traseros de Pollo Congelados",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar a -18°C.",
+    "suppliers": [
+      {
+        "name": "Avinatur Producciones Avícolas, S.L."
+      },
+      {
+        "name": "Danpo A/S"
+      },
+      {
+        "name": "INASUR"
+      },
+      {
+        "name": "Landgaflügel FG Vertriebsgesellschaft mbH"
+      },
+      {
+        "name": "Moy Park Limited"
+      },
+      {
+        "name": "Nutrave S.A"
+      }
+    ],
+    "usage_instructions": "DESCONGELAR. Descongelar completamente antes de usar y no lavar el producto crudo y no volver a congelar. HORNO: Precalentar el horno a 200C y cocinar durante 45-55 minutos. Asegurarse que el producto está bien cocinado (80C) pinchándolo en el centro. Si existiese jugo rosado, continuar la cocción y volver a probar. No usar en microondas. No recalentar."
+  },
+  "display_name": "Cuartos traseros de pollo congelados",
+  "ean": "4052485456045",
+  "extra_info": [
+    null
+  ],
+  "id": "25182",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": "<p>Cuartos Traseros de Pollo"
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/64a92b8526d3a6544a6dfcba18b78e82.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/64a92b8526d3a6544a6dfcba18b78e82.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/64a92b8526d3a6544a6dfcba18b78e82.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/488dc76b0c1d085b7d7164250b72d3e6.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/488dc76b0c1d085b7d7164250b72d3e6.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/488dc76b0c1d085b7d7164250b72d3e6.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.85",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "2.850",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "5.70",
+    "unit_selector": true,
+    "unit_size": 2.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/25182/cuartos-traseros-pollo-congelados-paquete",
+  "slug": "cuartos-traseros-pollo-congelados-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/64a92b8526d3a6544a6dfcba18b78e82.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

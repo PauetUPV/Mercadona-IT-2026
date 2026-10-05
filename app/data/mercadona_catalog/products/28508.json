@@ -1,0 +1,114 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Puente Pazos",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 592,
+              "level": 2,
+              "name": "Otros licores",
+              "order": 15
+            }
+          ],
+          "id": 181,
+          "level": 1,
+          "name": "Licores",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": "30.0º",
+    "brand": "Puente Pazos",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Licor de hierbas Puente Pazos",
+    "legal_name": "Licor de hierbas",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco, seco, al abrigo de la luz y en envase cerrado.",
+    "suppliers": [
+      {
+        "name": "MERCADONA, S.A."
+      },
+      {
+        "name": "Pazo de Valdomiño, S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Licor de hierbas Puente Pazos",
+  "ean": "8480000285089",
+  "extra_info": [
+    null
+  ],
+  "id": "28508",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Agua, alcohol etílico de origen agrícola, azúcar, aguardiente de orujo, plantas aromáticas, aroma y colorante (E-102)."
+  },
+  "origin": null,
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/b6dfaa4244611a02f532ea4ffd3b347c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b6dfaa4244611a02f532ea4ffd3b347c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b6dfaa4244611a02f532ea4ffd3b347c.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/8b40ce84c0f81e78bb6ce892ead422ea.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8b40ce84c0f81e78bb6ce892ead422ea.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8b40ce84c0f81e78bb6ce892ead422ea.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "8.71",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 21,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "8.715",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "6.10",
+    "unit_selector": true,
+    "unit_size": 0.7
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/28508/licor-hierbas-puente-pazos-botella",
+  "slug": "licor-hierbas-puente-pazos-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/b6dfaa4244611a02f532ea4ffd3b347c.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

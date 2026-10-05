@@ -1,0 +1,124 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 280,
+              "level": 2,
+              "name": "Cerdo",
+              "order": 17
+            }
+          ],
+          "id": 37,
+          "level": 1,
+          "name": "Cerdo",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Chuletas lomo de cerdo",
+    "legal_name": "CHULETAS DE LOMO",
+    "mandatory_mentions": "Sin gluten. Sin lactosa. Envasado en atmósfera protectora.",
+    "origin": null,
+    "production_variant": "Producto de peso variable, el contenido neto puede oscilar entre 360 y 600g.",
+    "storage_instructions": "Conservar en refrigeración entre 0 y 4°C. Una vez abierto consumir antes de 48 horas",
+    "suppliers": [
+      {
+        "name": "Frescos y Elaborados Delisano SAU"
+      },
+      {
+        "name": "INCARLOPSA"
+      }
+    ],
+    "usage_instructions": "Para:plancha, freír"
+  },
+  "display_name": "Chuletas lomo de cerdo",
+  "ean": "2105100049015",
+  "extra_info": [
+    null
+  ],
+  "id": "4901",
+  "is_bulk": true,
+  "is_variable_weight": true,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Chuletas de lomo de cerdo (99,5%), agua, antioxidante E-301 y extracto vegetal."
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/055c3f10f352263029dc633fb13bb177.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/055c3f10f352263029dc633fb13bb177.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/055c3f10f352263029dc633fb13bb177.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/b3d8d95a35800384c13122f129ea9087.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b3d8d95a35800384c13122f129ea9087.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b3d8d95a35800384c13122f129ea9087.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/8817d148034680c254e97a87624b536c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8817d148034680c254e97a87624b536c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8817d148034680c254e97a87624b536c.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/6f6fc2b9d4a4946940278aa782002aed.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/6f6fc2b9d4a4946940278aa782002aed.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/6f6fc2b9d4a4946940278aa782002aed.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "6.45",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.450",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.55",
+    "unit_selector": true,
+    "unit_size": 0.55
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/4901/chuletas-lomo-cerdo-bandeja",
+  "slug": "chuletas-lomo-cerdo-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/055c3f10f352263029dc633fb13bb177.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": "2026-05-23T22:00:00+00:00",
+  "unavailable_weekdays": []
+}

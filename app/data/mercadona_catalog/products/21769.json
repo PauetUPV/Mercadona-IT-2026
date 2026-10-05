@@ -1,0 +1,112 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Shine",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 835,
+              "level": 2,
+              "name": "Lotes mujer",
+              "order": 241
+            }
+          ],
+          "id": 196,
+          "level": 1,
+          "name": "Perfume y colonia",
+          "order": 241
+        }
+      ],
+      "id": 20,
+      "level": 0,
+      "name": "Cuidado facial y corporal",
+      "order": 241
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Shine",
+    "counter_info": null,
+    "danger_mentions": null,
+    "description": "Lote mujer Shine Special contiene eau de parfum 100 ml y bolso",
+    "legal_name": null,
+    "mandatory_mentions": null,
+    "origin": null,
+    "production_variant": null,
+    "storage_instructions": null,
+    "suppliers": [],
+    "usage_instructions": null
+  },
+  "display_name": "Lote mujer Shine Special",
+  "ean": "8402001040474",
+  "extra_info": [
+    "Nota olfativa chipre gustativa"
+  ],
+  "id": "21769",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": null
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/f3bb51929accb820358f7b94ad3ae0f7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f3bb51929accb820358f7b94ad3ae0f7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f3bb51929accb820358f7b94ad3ae0f7.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/5570c169bb84d7dab0615010988b6802.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5570c169bb84d7dab0615010988b6802.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5570c169bb84d7dab0615010988b6802.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 11,
+      "regular": "https://prod-mercadona.imgix.net/images/84874ff2bc2396582f51f732feadabea.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/84874ff2bc2396582f51f732feadabea.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/84874ff2bc2396582f51f732feadabea.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "13.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "13.500",
+    "selling_method": 0,
+    "size_format": "ud",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "13.50",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "product_information": null,
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/21769/lote-mujer-shine-special-contiene-eau-parfum-100-ml-bolso",
+  "slug": "lote-mujer-shine-special-contiene-eau-parfum-100-ml-bolso",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/f3bb51929accb820358f7b94ad3ae0f7.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

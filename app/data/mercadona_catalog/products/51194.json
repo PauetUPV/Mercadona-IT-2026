@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 305,
+              "level": 2,
+              "name": "Queso fresco",
+              "order": 159
+            }
+          ],
+          "id": 53,
+          "level": 1,
+          "name": "Queso untable, fresco y especialidades",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Queso fresco de cabra Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Queso fresco de cabra",
+    "mandatory_mentions": "Una vez abierto, consumir en 48 horas",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en frío entre 2ºC y 4ºC",
+    "suppliers": [
+      {
+        "name": "Central Quesera Montesinos S.L.U"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Queso fresco de cabra Hacendado",
+  "ean": "8480000511942",
+  "extra_info": [
+    null
+  ],
+  "id": "51194",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Libre de <strong>dióxido de azufre y sulfitos</strong>. Libre de <strong>cacahuetes y productos a base de cacahuetes</strong>. Libre de <strong>soja y productos a base de soja</strong>. Libre de <strong>apio y productos derivados</strong>. Libre de <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Libre de <strong>altramuces y productos a base de altramuces</strong>. Libre de <strong>pescado y productos a base de pescado</strong>. Libre de <strong>mostaza y productos derivados</strong>. Libre de <strong>moluscos y productos a base de moluscos</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Libre de <strong>huevos y productos a base de huevo</strong>. Libre de <strong>frutos de cáscara</strong>. Libre de <strong>crustáceos y productos a base de crustáceos</strong>. Libre de <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "<strong>Leche </strong>de cabra pasteurizada, sal y cuajo microbiano.<p>Origen de la leche: España"
+  },
+  "origin": null,
+  "packaging": "Tarrina",
+  "photos": [
+    {
+      "perspective": 3,
+      "regular": "https://prod-mercadona.imgix.net/images/2578bc6a70f9d8740cc291e87927680b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/2578bc6a70f9d8740cc291e87927680b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/2578bc6a70f9d8740cc291e87927680b.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/0b09fa0b9c19174171d5c90e05afe92a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0b09fa0b9c19174171d5c90e05afe92a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0b09fa0b9c19174171d5c90e05afe92a.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "11.80",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "11.800",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.95",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/51194/queso-fresco-cabra-hacendado-tarrina",
+  "slug": "queso-fresco-cabra-hacendado-tarrina",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/2578bc6a70f9d8740cc291e87927680b.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

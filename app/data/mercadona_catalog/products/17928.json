@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Gullón",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 360,
+              "level": 2,
+              "name": "Con chocolate y rellenas",
+              "order": 18
+            }
+          ],
+          "id": 80,
+          "level": 1,
+          "name": "Galletas",
+          "order": 18
+        }
+      ],
+      "id": 7,
+      "level": 0,
+      "name": "Cereales y galletas",
+      "order": 18
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Gullón",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Galletas Choco Bom Gullón con chips de chocolate recubiertas de chocolate blanco",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Galleta con chips de chocolate recubierta de chocolate blanco",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Almacenar en lugar fresco y seco. Proteger de los rayos solares. Una vez abierto, mantener en las mismas condiciones y cerrar después de cada uso.",
+    "suppliers": [
+      {
+        "name": "GALLETAS GULLON, S.A"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Galletas Choco Bom Gullón con chips de chocolate recubiertas de chocolate blanco",
+  "ean": "8410376012699",
+  "extra_info": [
+    ""
+  ],
+  "id": "17928",
+  "is_bulk": false,
+  "is_new_arrival": true,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "con chips de chocolate recubiertas de chocolate blanco",
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>mostaza y productos derivados</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Chocolate blanco 40% (azúcar, manteca de cacao, <strong>leche</strong> en polvo, suero de <strong>leche</strong> en polvo, emulgente (lecitinas [<strong>soja</strong>]), aroma, aroma natural de vainilla), harina de <strong>trigo</strong>, chips de chocolate 12 % (azúcar, pasta de cacao, manteca de cacao, emulgente (lecitinas [<strong>soja</strong>])), aceite refinado de girasol alto oleico, azúcar, oligofructosa, gasificantes (carbonato ácido de amonio y carbonato ácido de sodio), sal, aroma. <strong>Puede contener trazas de frutos de cáscara y mostaza</strong>"
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/4438867f420a92f7236225a30f19823a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4438867f420a92f7236225a30f19823a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4438867f420a92f7236225a30f19823a.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/94902569268fcc71c65e3b81b99c9da9.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/94902569268fcc71c65e3b81b99c9da9.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/94902569268fcc71c65e3b81b99c9da9.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "10.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "10.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.00",
+    "unit_selector": true,
+    "unit_size": 0.1
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/17928/galletas-choco-bom-gullon-con-chips-chocolate-recubiertas-chocolate-blanco-paquete",
+  "slug": "galletas-choco-bom-gullon-con-chips-chocolate-recubiertas-chocolate-blanco-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/4438867f420a92f7236225a30f19823a.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

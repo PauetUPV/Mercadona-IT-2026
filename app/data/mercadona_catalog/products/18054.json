@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 450,
+              "level": 2,
+              "name": "Atún",
+              "order": 215
+            }
+          ],
+          "id": 122,
+          "level": 1,
+          "name": "Atún y otras conservas de pescado",
+          "order": 215
+        }
+      ],
+      "id": 14,
+      "level": 0,
+      "name": "Conservas, caldos y cremas",
+      "order": 215
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Atún claro en aceite de oliva Hacendado",
+    "legal_name": "Atún Claro Aceite Oliva",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco, seco y protegido de la luz solar.",
+    "suppliers": [
+      {
+        "name": "ESCURIS, S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Atún claro en aceite de oliva Hacendado",
+  "ean": "8480000180476",
+  "extra_info": [
+    ""
+  ],
+  "id": "18054",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>pescado y productos a base de pescado</strong>.",
+    "ingredients": "<strong>Atún Claro</strong>, aceite de oliva y sal."
+  },
+  "origin": null,
+  "packaging": "Bote",
+  "photos": [
+    {
+      "perspective": 3,
+      "regular": "https://prod-mercadona.imgix.net/images/666079e35f5efa5f551aba0c2136ea8e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/666079e35f5efa5f551aba0c2136ea8e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/666079e35f5efa5f551aba0c2136ea8e.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/2ed78933bf876050be41b1eaf672a570.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/2ed78933bf876050be41b1eaf672a570.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/2ed78933bf876050be41b1eaf672a570.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "18.97",
+    "bunch_selector": false,
+    "drained_weight": 0.14,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "26.429",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.70",
+    "unit_selector": true,
+    "unit_size": 0.195
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/18054/atun-claro-aceite-oliva-hacendado-bote",
+  "slug": "atun-claro-aceite-oliva-hacendado-bote",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/666079e35f5efa5f551aba0c2136ea8e.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

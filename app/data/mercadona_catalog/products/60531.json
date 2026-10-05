@@ -1,0 +1,109 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 386,
+              "level": 2,
+              "name": "Chocolatinas",
+              "order": 11
+            }
+          ],
+          "id": 92,
+          "level": 1,
+          "name": "Chocolate",
+          "order": 11
+        }
+      ],
+      "id": 9,
+      "level": 0,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Huevos Minis Pascua de chocolate con leche Hacendado relleno cremoso y cereales",
+    "legal_name": "Huevos de chocolate con leche con cremoso relleno y cereales crujientes",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Witor's S.P.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Huevos Minis Pascua de chocolate con leche Hacendado relleno cremoso y cereales",
+  "ean": "8402001017827",
+  "extra_info": [
+    ""
+  ],
+  "id": "60531",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>ml</strong>. Puede contener <strong>frutos de cáscara</strong>. Puede contener <strong>huevos y productos a base de huevo</strong>. Contiene <strong>sh</strong>.",
+    "ingredients": "Azúcar, grasas vegetales (coco, palmiste, palma - en proporción variable), pasta de cacao, <strong>leche</strong> en polvo entera, manteca de cacao, suero de <strong>leche</strong> en polvo, cereales crujientes (3%) (harina de <strong>trigo</strong>, azúcar, malta de <strong>trigo</strong>, emulgente: lecitina de girasol, almidón de trigo, gasificante: carbonato ácido de sodio, sal, aroma), <strong>lactosa</strong>, cacao magro en polvo, <strong>avellanas</strong> (0,3%), emulgente: lecitina de <strong>soja</strong>, aromas. Puede contener trazas de otros f <strong>rutos de cáscara</strong> y <strong>huevos</strong>."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/b86f7c0f033b05b06583faafa143a1b8.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b86f7c0f033b05b06583faafa143a1b8.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b86f7c0f033b05b06583faafa143a1b8.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/c19572e9479bcbd2c36dd1e76baf1f0d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c19572e9479bcbd2c36dd1e76baf1f0d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c19572e9479bcbd2c36dd1e76baf1f0d.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "14.67",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "14.667",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.20",
+    "unit_selector": true,
+    "unit_size": 0.15
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/60531/huevos-chocolate-con-leche-minis-relleno-cremoso-cereales-pascua-hacendado-paquete",
+  "slug": "huevos-chocolate-con-leche-minis-relleno-cremoso-cereales-pascua-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/b86f7c0f033b05b06583faafa143a1b8.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

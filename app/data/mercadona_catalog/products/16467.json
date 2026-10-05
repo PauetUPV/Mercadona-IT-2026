@@ -1,0 +1,132 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 518,
+              "level": 2,
+              "name": "Tartas",
+              "order": 213
+            }
+          ],
+          "id": 152,
+          "level": 1,
+          "name": "Tartas y churros",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 336,
+              "level": 2,
+              "name": "Tartas",
+              "order": 515
+            }
+          ],
+          "id": 68,
+          "level": 1,
+          "name": "Tartas y pasteles",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Torrijas fritas congeladas",
+    "legal_name": "Torrijas Fritas. Producto congelado de reposteria frita",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar a temperatura inferior a -18ºC, Una vez descongelado no volver a congelar.  Mantener dentro del envase en refrigeración y consumir antes de 4 días.",
+    "suppliers": [
+      {
+        "name": "Mercapastry, S.L."
+      }
+    ],
+    "usage_instructions": "Para un consumo óptimo de producto se aconseja: Descongelar dentro del envase en refrigeración durante 9 horas. Sacar del refrigerador 30 minutos antes de su consumo"
+  },
+  "display_name": "Torrijas fritas congeladas",
+  "ean": "8402001046759",
+  "extra_info": [
+    ""
+  ],
+  "id": "16467",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>mostaza y productos derivados</strong>. Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Puede contener <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Puede contener <strong>frutos de cáscara</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "<strong>leche</strong> entera UHT, aceite refinado de girasol, harina de <strong>trigo</strong>, (<strong>gluten</strong>), azúcar, agua, crema de <strong>huevo</strong>, (azúcar, <strong>huevo</strong> pasteurizado reconstituido, jarabe de glucosa, almidón modificado de maíz, corrector de acidez (e-334), conservadores (e-202 y e-281) y colorante (E-160b(ii))), <strong>huevo</strong> líquido pasteurizado, canela, levadura, sal, preparación aromatizante sabor limón, aroma de naranja, colorantes (e-100 y e-160e) y mejorante panario (harina de habas, dextrosa, emulgente (e-471) y enzimas). Puede contener: <strong>soja</strong>, <strong>sésamo</strong>, <strong>frutos de cáscara</strong> y <strong>mostaza</strong>."
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/2313ba03f1540c26cfe5a5db79e170b4.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/2313ba03f1540c26cfe5a5db79e170b4.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/2313ba03f1540c26cfe5a5db79e170b4.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/13e0b58e7fc3299a09e75bb94c11dfb6.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/13e0b58e7fc3299a09e75bb94c11dfb6.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/13e0b58e7fc3299a09e75bb94c11dfb6.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "12.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "12.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 4,
+    "unit_name": "ud.",
+    "unit_price": "6.00",
+    "unit_selector": true,
+    "unit_size": 0.48
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/16467/torrijas-fritas-congeladas-bandeja",
+  "slug": "torrijas-fritas-congeladas-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/2313ba03f1540c26cfe5a5db79e170b4.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

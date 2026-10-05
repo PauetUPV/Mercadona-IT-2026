@@ -1,0 +1,112 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Falke",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 552,
+              "level": 2,
+              "name": "Combinado de cerveza",
+              "order": 15
+            }
+          ],
+          "id": 164,
+          "level": 1,
+          "name": "Cerveza",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Falke",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Cerveza Radler Falke 0,0% sin alcohol",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Bebida refrescante a base de cerveza sin alcohol con zumo natural de limón",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar el producto en un lugar limpio, seco y bien ventilado, protegido de la lluvia y alejado de otros productos, alimenticios o no, que puedan impartirle olores o sabores extraños. Almacenar preferiblemente entre 5 y 15C, evitando temperaturas superiores a 25C. Evitar exposiciones directas a la luz del sol o fuentes de calor. No congelar el producto.",
+    "suppliers": [
+      {
+        "name": "Heineken España S.A."
+      }
+    ],
+    "usage_instructions": "El producto deberá servirse entre 2 y 4C para obtener sus máximas cualidades organolépticas. Ver fecha de consumo preferente en envase. Utilizar un abridor adecuado para evitar roturas en la botella. Para lata, usar anilla sin cambiar de posición ni girarla. No ingerir si detecta que se ha violado el cierre."
+  },
+  "display_name": "Cerveza Radler Falke 0,0% sin alcohol",
+  "ean": "8411090310542",
+  "extra_info": [
+    ""
+  ],
+  "id": "21739",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>gb</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Agua, 40% cerveza sin alcohol 0,0 (agua, malta de <strong>cebada</strong>, extracto de lúpulo y aroma), azúcar, zumos de limón (2,9%) naranja, lima y acerola, a partir de concentrados, extracto de limón concentrado, aroma cítrico natural con otros aromas naturales, estabilizante E-410. Este producto se elabora con malta de <strong>cebada</strong>. Contiene <strong>gluten</strong>."
+  },
+  "origin": null,
+  "packaging": "Lata",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/582e09eb235be64e2d3409450adc839a.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/582e09eb235be64e2d3409450adc839a.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/582e09eb235be64e2d3409450adc839a.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/c57a4a1e88f50485f17f9e6c9d10ef57.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c57a4a1e88f50485f17f9e6c9d10ef57.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c57a4a1e88f50485f17f9e6c9d10ef57.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.36",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "1.364",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.45",
+    "unit_selector": true,
+    "unit_size": 0.33
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/21739/cerveza-radler-falke-00-sin-alcohol-lata",
+  "slug": "cerveza-radler-falke-00-sin-alcohol-lata",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/582e09eb235be64e2d3409450adc839a.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

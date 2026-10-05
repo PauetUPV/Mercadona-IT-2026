@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 317,
+              "level": 2,
+              "name": "Pan de bocadillo",
+              "order": 515
+            }
+          ],
+          "id": 59,
+          "level": 1,
+          "name": "Pan de horno",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Panes de cristal redondos cortados 100 % natural",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Pan cocido descongelado",
+    "mandatory_mentions": "100% Natural.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Producto descongelado, no volver a congelar. Conservar en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "EUROPASTRY, S.A."
+      }
+    ],
+    "usage_instructions": "Abrir el envase y consumir. Ideal para tostar."
+  },
+  "display_name": "Panes de cristal redondos cortados 100 % natural",
+  "ean": "8424465903799",
+  "extra_info": [
+    ""
+  ],
+  "id": "5850",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "100 % natural",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>huevos y productos a base de huevo</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Harina de <strong>TRIGO</strong>, agua, masa madre de <strong>TRIGO</strong> 3,5% (harina de <strong>TRIGO</strong> fermentada, agua), levadura, aceite de oliva virgen extra 1,3%, sal, masa madre inactiva (harina de <strong>TRIGO</strong> fermentada), harina de <strong>TRIGO</strong> malteada. <strong>Puede contener trazas de SOJA, SÉSAMO, LECHE, HUEVO, MOSTAZA</strong>."
+  },
+  "origin": null,
+  "packaging": "Bolsa",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/e618b2cf4ec1d34fb5fd0e30c97365a6.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e618b2cf4ec1d34fb5fd0e30c97365a6.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e618b2cf4ec1d34fb5fd0e30c97365a6.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/60646bbc61a010e0c0a32787a88fc42d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/60646bbc61a010e0c0a32787a88fc42d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/60646bbc61a010e0c0a32787a88fc42d.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "7.71",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.06,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.709",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 4,
+    "unit_name": "ud.",
+    "unit_price": "1.85",
+    "unit_selector": true,
+    "unit_size": 0.24
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/5850/4-panes-cristal-redondos-cortados-100-natural-pack-4",
+  "slug": "4-panes-cristal-redondos-cortados-100-natural-pack-4",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/e618b2cf4ec1d34fb5fd0e30c97365a6.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

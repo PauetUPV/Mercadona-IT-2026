@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 904,
+              "level": 2,
+              "name": "Otros Helados",
+              "order": 213
+            }
+          ],
+          "id": 154,
+          "level": 1,
+          "name": "Helados",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Helado Dochi cheesecake Hacendado con salsa de frambuesa",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Helado con queso, masa de galleta (47,9%), salsa de frambuesa (5,6%) y galleta triturada (1,4%)",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar a temperaturas inferiores a -18 ºc. Una vez descongelado, no volver a congelar.",
+    "suppliers": [
+      {
+        "name": "HELADOS ESTIU, S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Helado Dochi cheesecake Hacendado con salsa de frambuesa",
+  "ean": "8402001011696",
+  "extra_info": [
+    ""
+  ],
+  "id": "35955",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>ml</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>frutos de cáscara</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "<strong>Leche</strong> desnatada reconstituida, harina de <strong>trigo</strong> (<strong>gluten</strong>), azúcar glass, azúcar, agua, grasas vegetales (coco y palma), margarina vegetal (grasa vegetal (coco), agua, aceite refinado de colza, emulgente (monoglicéridos y diglicéridos de ácidos grasos), sal, acidulante (E 330), conservador (E 200), aroma natural), jarabe de glucosa y fructosa, <strong>lactosa</strong> y proteínas de la <strong>leche</strong>, queso blanco pasteurizado con queso azul (2,2%) (<strong>leche</strong> pasteurizada de vaca, nata, queso azul (8%) (queso roquefort, queso de oveja, agua, sales de fundición: E 339, E 450, E 452), fermentos <strong>lácticos</strong>, sal, estabilizantes (E 508, E 407a, E 410, E 412) y aroma natural), jarabe de azúcar invertido, almidón pregelatinizado, aceite refinado de girasol, puré de frambuesa (0,9%), <strong>leche</strong> desnatada en polvo, sal, canela, espesante (E 1422, E 440), gasificante (E 500), acidulante (E 330), emulgente (monoglicéridos y diglicéridos de ácidos grasos), estabilizantes (goma garrofín, goma guar, goma tara, caragenanos), concentrado (zanahoria, cáñamo y arándano) y aromas naturales. Contiene trazas de <strong>huevo</strong>, <strong>soja</strong>, <strong>mostaza</strong> y <strong>frutos de cáscara</strong>."
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/cd157f552887c0a38f35e59b59f01d50.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/cd157f552887c0a38f35e59b59f01d50.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/cd157f552887c0a38f35e59b59f01d50.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/b0d3c2bbc9f444c61e117f45d6df5e77.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b0d3c2bbc9f444c61e117f45d6df5e77.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b0d3c2bbc9f444c61e117f45d6df5e77.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "13.89",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.036,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "13.889",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": 6,
+    "unit_name": "ud.",
+    "unit_price": "3.00",
+    "unit_selector": true,
+    "unit_size": 0.216
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/35955/helado-dochi-cheesecake-hacendado-queso-masa-galleta-con-salsa-frambuesa-galleta-triturada-caja",
+  "slug": "helado-dochi-cheesecake-hacendado-queso-masa-galleta-con-salsa-frambuesa-galleta-triturada-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/cd157f552887c0a38f35e59b59f01d50.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

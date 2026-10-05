@@ -1,0 +1,109 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Como tú",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 836,
+              "level": 2,
+              "name": "Lotes hombre",
+              "order": 241
+            }
+          ],
+          "id": 196,
+          "level": 1,
+          "name": "Perfume y colonia",
+          "order": 241
+        }
+      ],
+      "id": 20,
+      "level": 0,
+      "name": "Cuidado facial y corporal",
+      "order": 241
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Como tú",
+    "counter_info": null,
+    "danger_mentions": null,
+    "description": "Lote hombre Como tú Fuerza contiene eau de parfum 100 ml, gel champú 100 ml y neceser",
+    "is_prepared_by_mercadona": false,
+    "legal_name": null,
+    "mandatory_mentions": null,
+    "origin": null,
+    "production_variant": null,
+    "storage_instructions": null,
+    "suppliers": [],
+    "usage_instructions": null
+  },
+  "display_name": "Lote hombre Como tú Fuerza",
+  "ean": "8402001045196",
+  "extra_info": [
+    "Nota olfativa oriental amaderada"
+  ],
+  "id": "16356",
+  "is_bulk": false,
+  "is_new_arrival": true,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "Fuerza",
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": null
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 10,
+      "regular": "https://prod-mercadona.imgix.net/images/bd63058cc5e458fb9afa567d20c9d3ca.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/bd63058cc5e458fb9afa567d20c9d3ca.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/bd63058cc5e458fb9afa567d20c9d3ca.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/06c6274606176528780e2658654032a7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/06c6274606176528780e2658654032a7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/06c6274606176528780e2658654032a7.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "10.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "10.000",
+    "selling_method": 0,
+    "size_format": "ud",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "10.00",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/16356/lote-hombre-fuerza-contiene-eau-parfum-100-ml-gel-champu-100-ml-neceser",
+  "slug": "lote-hombre-fuerza-contiene-eau-parfum-100-ml-gel-champu-100-ml-neceser",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/bd63058cc5e458fb9afa567d20c9d3ca.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,125 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 285,
+              "level": 2,
+              "name": "Conejo",
+              "order": 17
+            }
+          ],
+          "id": 42,
+          "level": 1,
+          "name": "Conejo y cordero",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Conejo entero",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Conejo entero envasado en atmósfera protectora",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "Producto de peso variable, entre 1100g y 1350g",
+    "storage_instructions": "Conservar netre 0 y 4c",
+    "suppliers": [
+      {
+        "name": "Avícola de Galicia, S.A.U."
+      },
+      {
+        "name": "Cuni-Hedreres, S.A."
+      },
+      {
+        "name": "Cunicarn Alimentació, S.L."
+      },
+      {
+        "name": "Grupo Hermi"
+      },
+      {
+        "name": "Mercadona"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Conejo entero",
+  "ean": "2105100027976",
+  "extra_info": [
+    null
+  ],
+  "id": "2797",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": ""
+  },
+  "origin": "España",
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/9d4f2a1f38c18b9e3ea6e4523882a709.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9d4f2a1f38c18b9e3ea6e4523882a709.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9d4f2a1f38c18b9e3ea6e4523882a709.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/0fd481043d9d199ecd38a580ee025402.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0fd481043d9d199ecd38a580ee025402.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0fd481043d9d199ecd38a580ee025402.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "8.60",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "8.600",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "10.41",
+    "unit_selector": true,
+    "unit_size": 1.21
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/2797/conejo-entero-pieza",
+  "slug": "conejo-entero-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/9d4f2a1f38c18b9e3ea6e4523882a709.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

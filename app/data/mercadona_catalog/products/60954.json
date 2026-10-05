@@ -1,0 +1,135 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 514,
+              "level": 2,
+              "name": "Pescado rebozado",
+              "order": 213
+            }
+          ],
+          "id": 884,
+          "level": 1,
+          "name": "Rebozados",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 275,
+              "level": 2,
+              "name": "Pescado rebozado congelado",
+              "order": 442
+            }
+          ],
+          "id": 34,
+          "level": 1,
+          "name": "Pescado congelado",
+          "order": 442
+        }
+      ],
+      "id": 2,
+      "level": 0,
+      "name": "Marisco y pescado",
+      "order": 442
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Croquetas de merluza Hacendado ultracongelados",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Caprichos de merluza",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "En congelador a -18C: 24 Meses.",
+    "suppliers": [
+      {
+        "name": "Productos Congelados Selectos 3000 S.L."
+      }
+    ],
+    "usage_instructions": "Freidora de aceite: Sin descongelar. freír durante 4 minutos en abundante aceite caliente (180ºC). Dejar reposar durante 2 minutos.Freidora de aire: Sin descongelar. freír durante 6 minutos a 200ºC. Dejar reposar durante 2 minutos.Horno: Precalentar a 200ºC y. sin descongelar. hornear con ventilador durante 10 minutos a 190ºC. Dar la vuelta a la mitad de tiempo."
+  },
+  "display_name": "Croquetas de merluza Hacendado ultracongelados",
+  "ean": "8411530643322",
+  "extra_info": [
+    ""
+  ],
+  "id": "60954",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "ultracongelados",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>pescado y productos a base de pescado</strong>.",
+    "ingredients": "Relleno (<strong>MERLUZA</strong> (40+/-5%)(<strong>PESCADO</strong>). cebolla, agua, harina de <strong>TRIGO</strong>, <strong>MANTEQUILLA</strong>, <strong>LECHE</strong> en polvo. aceite de oliva virgen extra y sal). rebozado (harinas de <strong>TRIGO</strong>, almidón, harina de arroz, jarabe de glucosa, harina de maíz, harinilla de pan (harina de <strong>TRIGO</strong>, agua, sal, levadura) aceite girasol, gasificante (E-450ii. E-500i). sal,almidón modificado E1412, pimienta blanca y dextrosa)."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/56dee60d51ff1446c840d33ef4f2075c.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/56dee60d51ff1446c840d33ef4f2075c.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/56dee60d51ff1446c840d33ef4f2075c.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/e5668b3b77b4c8cef8619160e953d097.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e5668b3b77b4c8cef8619160e953d097.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e5668b3b77b4c8cef8619160e953d097.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.57",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.572",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.30",
+    "unit_selector": true,
+    "unit_size": 0.35
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/60954/croquetas-merluza-hacendado-ultracongelados-paquete",
+  "slug": "croquetas-merluza-hacendado-ultracongelados-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/56dee60d51ff1446c840d33ef4f2075c.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

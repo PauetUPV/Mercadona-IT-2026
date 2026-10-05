@@ -1,0 +1,7 @@
+{
+  "recetas": [
+    {"id": "r1", "nombre": "Pollo al horno con patatas", "tipo": "cocinar", "precio_estimado": 6.5},
+    {"id": "r2", "nombre": "Ensalada de pasta", "tipo": "cocinar", "precio_estimado": 4.2},
+    {"id": "r3", "nombre": "Lasaña (lista para comer)", "tipo": "listo_para_comer", "precio_estimado": 5.0}
+  ]
+}

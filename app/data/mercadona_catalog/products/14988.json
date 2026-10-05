@@ -1,0 +1,119 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Ambar",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 549,
+              "level": 2,
+              "name": "Cerveza lata",
+              "order": 15
+            }
+          ],
+          "id": 164,
+          "level": 1,
+          "name": "Cerveza",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": "5.6º",
+    "brand": "Ambar",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Cerveza negra Ambar",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Cerveza negra",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en un lugar frío y seco.",
+    "suppliers": [
+      {
+        "name": "La Zaragozana, S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Cerveza negra Ambar",
+  "ean": "8410700009135",
+  "extra_info": [
+    ""
+  ],
+  "id": "14988",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>gb</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Agua, malta de <strong>cebada,</strong> maíz, <strong>cebada</strong> y lúpulo."
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/9fcfc478c3381fa611d95f2a8cfad0aa.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9fcfc478c3381fa611d95f2a8cfad0aa.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9fcfc478c3381fa611d95f2a8cfad0aa.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/1a8612afd35224467d45b0c42dc8fec9.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1a8612afd35224467d45b0c42dc8fec9.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1a8612afd35224467d45b0c42dc8fec9.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/ea0618be7bc687e191e1246f9bbed820.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ea0618be7bc687e191e1246f9bbed820.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ea0618be7bc687e191e1246f9bbed820.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.03",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.33,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "3.031",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": 6,
+    "unit_name": "latas",
+    "unit_price": "6.00",
+    "unit_selector": true,
+    "unit_size": 1.98
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/14988/cerveza-negra-ambar",
+  "slug": "cerveza-negra-ambar",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/9fcfc478c3381fa611d95f2a8cfad0aa.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

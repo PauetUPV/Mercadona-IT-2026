@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Nestlé",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 804,
+              "level": 2,
+              "name": "Bombones",
+              "order": 11
+            }
+          ],
+          "id": 92,
+          "level": 1,
+          "name": "Chocolate",
+          "order": 11
+        }
+      ],
+      "id": 9,
+      "level": 0,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Nestlé",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Surtido bombones Caja Roja Nestlé",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Bombones de Chocolate",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco. Temperatura Recomendable Máximo 18C Mínimo 12C. Temp. Ambiente.",
+    "suppliers": [
+      {
+        "name": "Nestlé España, S.A"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Surtido bombones Caja Roja Nestlé",
+  "ean": "8445291083974",
+  "extra_info": [
+    null
+  ],
+  "id": "8920",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>sh</strong>. Contiene <strong>sa</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Puede contener <strong>frutos de cáscara</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Azúcar, pasta de cacao, manteca de cacao, sólidos <strong>LÁCTEOS</strong> (<strong>LECHE</strong>, <strong>LECHE</strong> desnatada en polvo, <strong>NATA</strong>), grasas vegetales (palma, shea), <strong>LECHE</strong> desnatada en polvo, grasa <strong>LÁCTEA</strong> anhidra, suero de <strong>LECHE</strong> filtrado en polvo, <strong>AVELLANAS</strong>, <strong>ALMENDRAS</strong>, jarabe de glucosa, harina de <strong>TRIGO</strong>, <strong>LECHE</strong> en polvo, cacao desgrasado en polvo, emulgente (lecitinas), harina de malta de <strong>TRIGO</strong>, sal, aromas naturales de vainilla, aroma natural de naranja, aromas naturales. Puede contener <strong>MOSTAZA</strong>, <strong>SOJA</strong> y otros <strong>FRUTOS DE CÁSCARA</strong>."
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/be36f58e752b6920adb7e8ecc4a653e7.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/be36f58e752b6920adb7e8ecc4a653e7.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/be36f58e752b6920adb7e8ecc4a653e7.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/9434cd2f250eb900fbcc9e7454c69c6e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9434cd2f250eb900fbcc9e7454c69c6e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9434cd2f250eb900fbcc9e7454c69c6e.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "35.10",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "35.102",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 21,
+    "unit_name": "ud.",
+    "unit_price": "6.95",
+    "unit_selector": true,
+    "unit_size": 0.198
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/8920/surtido-bombones-caja-roja-nestle-caja",
+  "slug": "surtido-bombones-caja-roja-nestle-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/be36f58e752b6920adb7e8ecc4a653e7.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

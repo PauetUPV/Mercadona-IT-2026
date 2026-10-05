@@ -1,0 +1,114 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 267,
+              "level": 2,
+              "name": "Verduras al vapor",
+              "order": 306
+            }
+          ],
+          "id": 29,
+          "level": 1,
+          "name": "Verdura",
+          "order": 306
+        }
+      ],
+      "id": 1,
+      "level": 0,
+      "name": "Fruta y verdura",
+      "order": 306
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Floretas de brócoli para microondas lavadas",
+    "legal_name": "Floretas de brócoli",
+    "mandatory_mentions": "Fresco y lavado. Envase apto para microondas.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Para apreciar mejor sus cualidades se recomienda consumirlo todo una vez abierto el envase. Conservar entre 1 y 4°C.",
+    "suppliers": [
+      {
+        "name": "Mesturados Canarios, S.L."
+      },
+      {
+        "name": "Verdifresh, S.L.U."
+      }
+    ],
+    "usage_instructions": "En microondas: Introduce la bolsa sin abrir ni perforar en el microondas a máxima potencia de 5 a 6 minutos, según el grado de cocción deseado. Durante la cocción el tamaño de la bolsa aumenta debido al vapor que se genera en su interior, por lo que puede producir algún sonido y abrirse. Abre la bolsa con cuidado ya que el producto estará caliente. Condimenta al gusto y utilízalo a conveniencia. En olla: Cuece el contenido de la bolsa en un litro de agua hirviendo durante 5 minutos. Escurre, sirve, condimenta al gusto y utilízalo a conveniencia."
+  },
+  "display_name": "Floretas de brócoli para microondas lavadas",
+  "ean": "8437004621900",
+  "extra_info": [
+    ""
+  ],
+  "id": "69622",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Brócoli"
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/3c23712045339f762d14e691e9b0171e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3c23712045339f762d14e691e9b0171e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3c23712045339f762d14e691e9b0171e.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/95557eac80b788f4121676726602d076.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/95557eac80b788f4121676726602d076.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/95557eac80b788f4121676726602d076.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "7.39",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.392",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.70",
+    "unit_selector": true,
+    "unit_size": 0.23
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/69622/floretas-brocoli-microondas-paquete",
+  "slug": "floretas-brocoli-microondas-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/3c23712045339f762d14e691e9b0171e.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

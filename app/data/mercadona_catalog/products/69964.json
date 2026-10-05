@@ -1,0 +1,122 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 257,
+              "level": 2,
+              "name": "Pepino y zanahoria",
+              "order": 306
+            }
+          ],
+          "id": 29,
+          "level": 1,
+          "name": "Verdura",
+          "order": 306
+        }
+      ],
+      "id": 1,
+      "level": 0,
+      "name": "Fruta y verdura",
+      "order": 306
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pepino holandés",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Pepino Holandés",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "Producto de peso variable. El contenido neto del mismo se determinará en el punto de venta.",
+    "storage_instructions": "Mantener en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Alhondiga La Union, S.A."
+      },
+      {
+        "name": "FULGENCIO SPA S.L."
+      },
+      {
+        "name": "S.A.T.Nº 9895 Agrícola Perichán"
+      },
+      {
+        "name": "SAT Campos de Granada"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Pepino holandés",
+  "ean": "2105400699644",
+  "extra_info": [
+    null
+  ],
+  "id": "69964",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Pepino"
+  },
+  "origin": "España",
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/e691b00f83a443e975b76a9a7b591fd6.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e691b00f83a443e975b76a9a7b591fd6.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e691b00f83a443e975b76a9a7b591fd6.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/d3b5c2c85f9f1934cb32b8f902130cae.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d3b5c2c85f9f1934cb32b8f902130cae.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d3b5c2c85f9f1934cb32b8f902130cae.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "2.65",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "2.650",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.13",
+    "unit_selector": true,
+    "unit_size": 0.425
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/69964/pepino-holandes-pieza",
+  "slug": "pepino-holandes-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/e691b00f83a443e975b76a9a7b591fd6.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

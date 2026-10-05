@@ -1,0 +1,114 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 489,
+              "level": 2,
+              "name": "Pepinillos y otros encurtidos",
+              "order": 9
+            }
+          ],
+          "id": 135,
+          "level": 1,
+          "name": "Aceitunas y encurtidos",
+          "order": 9
+        }
+      ],
+      "id": 15,
+      "level": 0,
+      "name": "Aperitivos",
+      "order": 9
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Ajos aliñados Hacendado",
+    "legal_name": "Ajos ácidos",
+    "mandatory_mentions": "Producto pasteurizado",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Consumir dentro de los 15 días después de la apertura. Una vez abierto, conservar cerrado en el frigorífico con el máximo de líquido posible.",
+    "suppliers": [
+      {
+        "name": "Conservas Franco - Riojanas, S.A.U."
+      },
+      {
+        "name": "Végola Ibérica, S.L.U."
+      }
+    ],
+    "usage_instructions": "Listo para su consumo."
+  },
+  "display_name": "Ajos aliñados Hacendado",
+  "ean": "8480000330222",
+  "extra_info": [
+    null
+  ],
+  "id": "33022",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Ajo, vinagre de vino, sal y especias (0.9%): (orégano y estragón)."
+  },
+  "origin": "España",
+  "packaging": "Tarro",
+  "photos": [
+    {
+      "perspective": 3,
+      "regular": "https://prod-mercadona.imgix.net/images/961ce56107e70f8cf57508c901133d92.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/961ce56107e70f8cf57508c901133d92.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/961ce56107e70f8cf57508c901133d92.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/8fa18ebd4d70dacf9c3f96b2d1f75440.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8fa18ebd4d70dacf9c3f96b2d1f75440.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8fa18ebd4d70dacf9c3f96b2d1f75440.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "7.54",
+    "bunch_selector": false,
+    "drained_weight": 0.235,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "11.064",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.60",
+    "unit_selector": true,
+    "unit_size": 0.345
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/33022/ajos-alinados-hacendado-tarro",
+  "slug": "ajos-alinados-hacendado-tarro",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/961ce56107e70f8cf57508c901133d92.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

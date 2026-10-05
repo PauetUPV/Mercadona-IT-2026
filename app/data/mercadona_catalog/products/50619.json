@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Plaisir de Roy",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 313,
+              "level": 2,
+              "name": "Queso especialidades",
+              "order": 159
+            }
+          ],
+          "id": 53,
+          "level": 1,
+          "name": "Queso untable, fresco y especialidades",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Plaisir de Roy",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Queso brie marcillat de vaca Plaisir de Roy",
+    "legal_name": "Brie - queso de leche de vaca pasteurizada",
+    "mandatory_mentions": "",
+    "origin": "Francia",
+    "production_variant": "",
+    "storage_instructions": "Conservar entre +4C y +8C.",
+    "suppliers": [
+      {
+        "name": "Lactalis Forlasa S.L.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Queso brie marcillat de vaca Plaisir de Roy",
+  "ean": "3070050570201",
+  "extra_info": [
+    null
+  ],
+  "id": "50619",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Leche</strong> de vaca pasteurizada. sal y fermentos."
+  },
+  "origin": "Francia",
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/c2446828dd55519f7d18b21249e5e38c.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c2446828dd55519f7d18b21249e5e38c.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c2446828dd55519f7d18b21249e5e38c.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/0fb816903543e01ddffaf53e15cc712d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0fb816903543e01ddffaf53e15cc712d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0fb816903543e01ddffaf53e15cc712d.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "8.25",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "8.250",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.65",
+    "unit_selector": true,
+    "unit_size": 0.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/50619/queso-brie-marcillat-vaca-plaisir-roy-pieza",
+  "slug": "queso-brie-marcillat-vaca-plaisir-roy-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/c2446828dd55519f7d18b21249e5e38c.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

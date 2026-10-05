@@ -1,0 +1,109 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Deliplus",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 684,
+              "level": 2,
+              "name": "Pinceles y brochas",
+              "order": 422
+            }
+          ],
+          "id": 212,
+          "level": 1,
+          "name": "Pinceles y brochas",
+          "order": 422
+        }
+      ],
+      "id": 22,
+      "level": 0,
+      "name": "Maquillaje",
+      "order": 422
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Deliplus",
+    "counter_info": null,
+    "danger_mentions": null,
+    "description": "Kit esponjas de maquillaje Deliplus",
+    "is_prepared_by_mercadona": false,
+    "legal_name": null,
+    "mandatory_mentions": null,
+    "origin": null,
+    "production_variant": null,
+    "storage_instructions": null,
+    "suppliers": [],
+    "usage_instructions": null
+  },
+  "display_name": "Kit esponjas de maquillaje Deliplus",
+  "ean": "8402001056000",
+  "extra_info": [
+    "Contiene una esponja para aplicar bases y polvos sueltos y una esponja para corrección de imperfecciones."
+  ],
+  "id": "17555",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": null
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/ac086b44b889b0c6be1c49b3683c72aa.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ac086b44b889b0c6be1c49b3683c72aa.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ac086b44b889b0c6be1c49b3683c72aa.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/43efe86a42a130caf27e2fa8958a8dca.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/43efe86a42a130caf27e2fa8958a8dca.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/43efe86a42a130caf27e2fa8958a8dca.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "4.000",
+    "selling_method": 0,
+    "size_format": "ud",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "4.00",
+    "unit_selector": true,
+    "unit_size": 2.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/17555/kit-esponjas-maquillaje-deliplus-caja",
+  "slug": "kit-esponjas-maquillaje-deliplus-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/ac086b44b889b0c6be1c49b3683c72aa.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

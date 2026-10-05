@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Fanta",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 537,
+              "level": 2,
+              "name": "Naranja",
+              "order": 8
+            }
+          ],
+          "id": 159,
+          "level": 1,
+          "name": "Refresco de naranja y de limón",
+          "order": 8
+        }
+      ],
+      "id": 18,
+      "level": 0,
+      "name": "Agua y refrescos",
+      "order": 8
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Fanta",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Refresco Fanta naranja",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Bebida refrescante de zumo de frutas. con azúcares y edulcorantes.",
+    "mandatory_mentions": "Contiene una fuente de fenilalanina.",
+    "origin": null,
+    "production_variant": "-",
+    "storage_instructions": "Proteger de la luz solar. Preservar de olores agresivos. Conservar en lugar limpio, fresco y seco. Servir frío",
+    "suppliers": [
+      {
+        "name": "Coca-Cola Europacific Partners Iberia, S.L.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Refresco Fanta naranja",
+  "ean": "5449000350923",
+  "extra_info": [
+    ""
+  ],
+  "id": "17542",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "naranja",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Ingredientes: agua carbonatada, 5% zumo de naranja *a partir de concentrado, azúcar, acidulantes: ácido cítrico y ácido málico, estabilizantes: E-414, E-444, E-445 y E-412, edulcorantes: E-950 y aspartamo, corrector de acidez: citratos de sodio, conservador: E-202, aromas naturales de naranja y otros aromas naturales, colorante carotenos y antioxidante ácido ascórbico."
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/d2733f2ee33bc99ee13c02b15cbef584.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d2733f2ee33bc99ee13c02b15cbef584.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d2733f2ee33bc99ee13c02b15cbef584.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/70f98bbc1d67039e05d34f3377ba225e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/70f98bbc1d67039e05d34f3377ba225e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/70f98bbc1d67039e05d34f3377ba225e.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "0.75",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 2.0,
+    "previous_unit_price": "        3.60",
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "0.745",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": 2,
+    "unit_name": "botellas",
+    "unit_price": "2.98",
+    "unit_selector": true,
+    "unit_size": 4.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/17542/refresco-fanta-naranja",
+  "slug": "refresco-fanta-naranja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/d2733f2ee33bc99ee13c02b15cbef584.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

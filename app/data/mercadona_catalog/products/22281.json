@@ -1,0 +1,133 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Sabroz",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 441,
+              "level": 2,
+              "name": "Arroz",
+              "order": 10
+            }
+          ],
+          "id": 118,
+          "level": 1,
+          "name": "Arroz",
+          "order": 10
+        }
+      ],
+      "id": 13,
+      "level": 0,
+      "name": "Arroz, legumbres y pasta",
+      "order": 10
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 839,
+              "level": 2,
+              "name": "Arroz",
+              "order": 597
+            }
+          ],
+          "id": 140,
+          "level": 1,
+          "name": "Platos preparados calientes",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Sabroz",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Arroz cocido integral Sabroz Brillante",
+    "legal_name": "Arroz Integral procesado.",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar a temperatura ambiente en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Herba Ricemills. S.L.U."
+      }
+    ],
+    "usage_instructions": "Microondas: Abrir ligeramente (1cm aprox) el envase por la esquina abrefacil. Introducir en el microondas y calentar 1 minuto a máxima potencia. Desprender la tapa de protección. ¡Cuidado. el envase estará caliente! Sarten: Calentar una cucharada de aceite en una sartén. Vaciar el contenido del vasito previamente desgranado y remover a fuego medio durante 2 minutos. ¡Cuidado puede saltar!"
+  },
+  "display_name": "Arroz cocido integral Sabroz",
+  "ean": "8410184040747",
+  "extra_info": [
+    null
+  ],
+  "id": "22281",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Arroz cocido 98% (agua, arroz integral). aceite de girasol. sal.emulgente:lecitina de girasol."
+  },
+  "origin": null,
+  "packaging": "Pack-2",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/3c538ead2ed048792639ef28915cfaef.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3c538ead2ed048792639ef28915cfaef.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3c538ead2ed048792639ef28915cfaef.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/6845c2a4e090a2059a783cfe74f3091b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/6845c2a4e090a2059a783cfe74f3091b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/6845c2a4e090a2059a783cfe74f3091b.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.20",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.125,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "4.200",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 2,
+    "unit_name": "vasitos",
+    "unit_price": "1.05",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/22281/arroz-cocido-integral-sabroz-brillante-pack-2",
+  "slug": "arroz-cocido-integral-sabroz-brillante-pack-2",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/3c538ead2ed048792639ef28915cfaef.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

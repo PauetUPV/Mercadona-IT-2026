@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 324,
+              "level": 2,
+              "name": "Pan rallado",
+              "order": 515
+            }
+          ],
+          "id": 62,
+          "level": 1,
+          "name": "Pan tostado y rallado",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Preparado crujiente Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Preparado para rebozar de copos de maíz y pan rallado",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Consérvese en un lugar fresco y seco",
+    "suppliers": [
+      {
+        "name": "Panificadora de Alcalá S. L."
+      }
+    ],
+    "usage_instructions": "Mezclar homogéneamente antes de usar"
+  },
+  "display_name": "Preparado crujiente Hacendado",
+  "ean": "8480000229328",
+  "extra_info": [
+    null
+  ],
+  "id": "22932",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>cereales que contengan gluten</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>altramuces y productos a base de altramuces</strong>. Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>mostaza y productos derivados</strong>.",
+    "ingredients": "Copos de maíz (55%) (maíz, azúcar, sal, extracto de malta de <strong>cebada</strong> (<strong>gluten</strong>)) y pan rallado (45%) (harina de <strong>trigo</strong> (<strong>gluten</strong>), agua, pimentón dulce, sal, levadura, azúcar, cúrcuma). Puede contener <strong>soja</strong>, <strong>leche y</strong>  <strong>mostaza.</strong>"
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/e9ec77c1a7ee1591601a91070f573282.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e9ec77c1a7ee1591601a91070f573282.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e9ec77c1a7ee1591601a91070f573282.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/8139e812eeef7748e351bd5fd427032c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8139e812eeef7748e351bd5fd427032c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8139e812eeef7748e351bd5fd427032c.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "4.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.60",
+    "unit_selector": true,
+    "unit_size": 0.4
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/22932/preparado-crujiente-hacendado-paquete",
+  "slug": "preparado-crujiente-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/e9ec77c1a7ee1591601a91070f573282.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

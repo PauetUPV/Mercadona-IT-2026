@@ -1,0 +1,133 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 693,
+              "level": 2,
+              "name": "Tarritos de fruta",
+              "order": 14
+            }
+          ],
+          "id": 216,
+          "level": 1,
+          "name": "Alimentación infantil",
+          "order": 14
+        }
+      ],
+      "id": 24,
+      "level": 0,
+      "name": "Bebé",
+      "order": 14
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 468,
+              "level": 2,
+              "name": "Conservas fruta",
+              "order": 215
+            }
+          ],
+          "id": 127,
+          "level": 1,
+          "name": "Conservas de verdura y frutas",
+          "order": 215
+        }
+      ],
+      "id": 14,
+      "level": 0,
+      "name": "Conservas, caldos y cremas",
+      "order": 215
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Bolsita puré fresa y plátano Hacendado +8 meses",
+    "legal_name": "Puré de frutas",
+    "mandatory_mentions": "Apto para consumir a partir de los 8 meses. Sodio x 100gr: 5.9mg    Sodio x 120gr: 7mg  Envasado en atmósfera protectora. CONTIENE AZÚCARES NATURALMENTE PRESENTES, SIN AZÚCARES, AÑADIDOS, SIN GLUTEN, SIN LACTOSA",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar a temperatura ambiente. Una vez abierto, consérvese en el frigorífico un máximo de 48 horas.",
+    "suppliers": [
+      {
+        "name": "DELAFRUIT SLU"
+      }
+    ],
+    "usage_instructions": "Agitar antes de abrir y/o consumir."
+  },
+  "display_name": "Bolsita puré fresa y plátano Hacendado +8 meses",
+  "ean": "8402001032677",
+  "extra_info": [
+    ""
+  ],
+  "id": "22180",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Puré de plátano (63,4%), puré de fresa (34,4%), zumo de limón, puré de zanahoria morada (0,92%), antioxidante (ácido ascórbico)."
+  },
+  "origin": "España",
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/b6e752cf060c8f4fea07cf3f15233551.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b6e752cf060c8f4fea07cf3f15233551.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b6e752cf060c8f4fea07cf3f15233551.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/afd699d053cffa75d608ebdd94f84cd4.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/afd699d053cffa75d608ebdd94f84cd4.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/afd699d053cffa75d608ebdd94f84cd4.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "7.08",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.084",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 1,
+    "unit_name": "ud.",
+    "unit_price": "0.85",
+    "unit_selector": true,
+    "unit_size": 0.12
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/22180/papilla-fresa-platano-8-meses-hacendado",
+  "slug": "papilla-fresa-platano-8-meses-hacendado",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/b6e752cf060c8f4fea07cf3f15233551.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

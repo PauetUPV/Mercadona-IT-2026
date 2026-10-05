@@ -1,0 +1,117 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Marcillat",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 313,
+              "level": 2,
+              "name": "Queso especialidades",
+              "order": 159
+            }
+          ],
+          "id": 53,
+          "level": 1,
+          "name": "Queso untable, fresco y especialidades",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Marcillat",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Queso camembert de vaca Marcillat",
+    "legal_name": "Camembert - queso de leche de vaca pasteurizada",
+    "mandatory_mentions": "",
+    "origin": "Francia",
+    "production_variant": "",
+    "storage_instructions": "Conservar entre +4C y +8C.",
+    "suppliers": [
+      {
+        "name": "Lactalis Forlasa S.L.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Queso camembert de vaca Marcillat",
+  "ean": "3228022000304",
+  "extra_info": [
+    null
+  ],
+  "id": "51621",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Leche</strong> de vaca pasteurizada. sal y fermentos."
+  },
+  "origin": "Francia",
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/f0a656c1468da1084f89081ef070c1bd.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f0a656c1468da1084f89081ef070c1bd.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f0a656c1468da1084f89081ef070c1bd.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/d456995087b149d556207a9ab0bfb63c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d456995087b149d556207a9ab0bfb63c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d456995087b149d556207a9ab0bfb63c.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/7b3152a55acce8b917bda60e9a37a2ee.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7b3152a55acce8b917bda60e9a37a2ee.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7b3152a55acce8b917bda60e9a37a2ee.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "8.33",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 4,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "8.334",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.00",
+    "unit_selector": true,
+    "unit_size": 0.24
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/51621/queso-camembert-vaca-marcillat-caja",
+  "slug": "queso-camembert-vaca-marcillat-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/f0a656c1468da1084f89081ef070c1bd.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

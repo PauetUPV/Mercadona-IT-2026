@@ -1,0 +1,122 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Corona",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 550,
+              "level": 2,
+              "name": "Cerveza botella y botellín",
+              "order": 15
+            }
+          ],
+          "id": 164,
+          "level": 1,
+          "name": "Cerveza",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": "4.5º",
+    "brand": "Corona",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Cerveza Corona",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Cerveza",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "Cervecera de Canarias, S.A."
+      },
+      {
+        "name": "MAHOU, S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Cerveza Corona",
+  "ean": "8411327013383",
+  "extra_info": [
+    null
+  ],
+  "id": "52723",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>gb</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Agua, Malta de <strong>cebada</strong>, arroz y/o maiz, Extracto de lúpulo"
+  },
+  "origin": null,
+  "packaging": "Pack-6",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/b49f2eee1975a21dac16f32334d76ebc.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b49f2eee1975a21dac16f32334d76ebc.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b49f2eee1975a21dac16f32334d76ebc.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/8f628768bbd14c1615eba25c64100cae.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8f628768bbd14c1615eba25c64100cae.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8f628768bbd14c1615eba25c64100cae.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/c3737fac51912cc84768b3f9c46a273c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c3737fac51912cc84768b3f9c46a273c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c3737fac51912cc84768b3f9c46a273c.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.70",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.33,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "3.697",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": 6,
+    "unit_name": "botellines",
+    "unit_price": "7.32",
+    "unit_selector": true,
+    "unit_size": 1.98
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/52723/cerveza-corona-pack-6",
+  "slug": "cerveza-corona-pack-6",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/b49f2eee1975a21dac16f32334d76ebc.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

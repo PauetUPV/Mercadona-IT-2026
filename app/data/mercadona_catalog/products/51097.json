@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 502,
+              "level": 2,
+              "name": "Hummus y otros",
+              "order": 597
+            }
+          ],
+          "id": 142,
+          "level": 1,
+          "name": "Platos preparados fríos",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Tofu firme Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Tofu firme",
+    "mandatory_mentions": "Elaborado a partir de soja no transgénica (NO OGM)/ SIN LACTOSA/SIN GLUTEN/SIN AZÚCARES AÑADIDOS/ 100% VEGETAL/*El contenido de sal obedece exclusivamente  al sodio presente de forma natural en el alimento.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en frío (2ºC a 8ºC). Una vez abierto consumir preferentemente antes de 3 días.",
+    "suppliers": [
+      {
+        "name": "Frías Nutrición, S.A."
+      }
+    ],
+    "usage_instructions": "Producto para consumir directamente sin cocinar o cocinado como ingrediente principal o acompañamiento."
+  },
+  "display_name": "Tofu firme Hacendado",
+  "ean": "8410789140118",
+  "extra_info": [
+    ""
+  ],
+  "id": "51097",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>soja y productos a base de soja</strong>.",
+    "ingredients": "Habas de <strong>soja </strong>(65%), agua, gelificante: cloruro magnésico* y cloruro cálcico. *De origen marino (nigari)"
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/f8b6c07b6944b7b7e9b421f7f013f516.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f8b6c07b6944b7b7e9b421f7f013f516.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f8b6c07b6944b7b7e9b421f7f013f516.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/b1b734606fa65698feb57b48ee365338.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b1b734606fa65698feb57b48ee365338.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b1b734606fa65698feb57b48ee365338.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.38",
+    "bunch_selector": false,
+    "drained_weight": 0.275,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.364",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.75",
+    "unit_selector": true,
+    "unit_size": 0.4
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/51097/tofu-firme-frias-paquete",
+  "slug": "tofu-firme-frias-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/f8b6c07b6944b7b7e9b421f7f013f516.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

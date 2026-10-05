@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 320,
+              "level": 2,
+              "name": "Otros panes",
+              "order": 515
+            }
+          ],
+          "id": 60,
+          "level": 1,
+          "name": "Pan de molde y otras especialidades",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pan de molde integral con 20% avena 5% trigo sarraceno Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Pan de molde integral 20% de avena y 5% de trigo sarraceno",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Morato Iberia, S.L.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Pan de molde integral con 20% avena 5% trigo sarraceno Hacendado",
+  "ean": "8402001059247",
+  "extra_info": [
+    ""
+  ],
+  "id": "18294",
+  "is_bulk": false,
+  "is_new_arrival": true,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Libre de <strong>ml</strong>. Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Harina integral (57%) (<strong>trigo</strong> (<strong>gluten</strong>), avena (<strong>gluten</strong>) (20%), trigo sarraceno (5%)), agua, semillas de girasol (4,5%), levadura, <strong>gluten</strong> de <strong>trigo</strong>, aceite de oliva virgen extra (1,3%), sal, sémola integral de <strong>trigo</strong> (<strong>gluten</strong>), emulgentes (E-472e, E-471), conservadores (E-282, E-200, E-202), antioxidante (E-300), aroma. Puede contener trazas de semillas de <strong>sésamo</strong>, <strong>soja</strong> y <strong>mostaza</strong>. Sin lactosa."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/f3ccd8c0b23f1583738c49f03fb2e254.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f3ccd8c0b23f1583738c49f03fb2e254.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f3ccd8c0b23f1583738c49f03fb2e254.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/3a066b6369961a1c904c475990dfecd5.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3a066b6369961a1c904c475990dfecd5.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3a066b6369961a1c904c475990dfecd5.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.73",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "2.728",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 14,
+    "unit_name": "rebanadas",
+    "unit_price": "1.50",
+    "unit_selector": true,
+    "unit_size": 0.55
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/18294/pan-molde-integral-con-20-avena-5-trigo-sarraceno-hacendado-paquete",
+  "slug": "pan-molde-integral-con-20-avena-5-trigo-sarraceno-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/f3ccd8c0b23f1583738c49f03fb2e254.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

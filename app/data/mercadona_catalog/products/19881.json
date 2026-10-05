@@ -1,0 +1,109 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Royal Swan",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 593,
+              "level": 2,
+              "name": "Cremas",
+              "order": 15
+            }
+          ],
+          "id": 181,
+          "level": 1,
+          "name": "Licores",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": "15.0º",
+    "brand": "Royal Swan",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Licor crema de pistacho Royal Swan",
+    "legal_name": "Licor",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "BARDINET,S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Licor crema de pistacho Royal Swan",
+  "ean": "8402001043918",
+  "extra_info": [
+    ""
+  ],
+  "id": "19881",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>cacahuetes y productos a base de cacahuetes</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Agua, azúcar, alcohol, maltodextrina, grasa láctea, grasa vegetal (coco), <strong>proteína láctea</strong>, aromas, aroma natural, colorantes: E-150b, E-131 y E-102, corrector de acidez: E-500ii <strong>Contiene lácteos, cacahuetes y frutos de cáscara</strong>"
+  },
+  "origin": null,
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/2385a70bc8a257db6be4df31e1dad5a6.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/2385a70bc8a257db6be4df31e1dad5a6.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/2385a70bc8a257db6be4df31e1dad5a6.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/9ac518efbc62f38f0d256bdc791b3a72.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9ac518efbc62f38f0d256bdc791b3a72.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9ac518efbc62f38f0d256bdc791b3a72.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "9.07",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "9.072",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "6.35",
+    "unit_selector": true,
+    "unit_size": 0.7
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/19881/licor-crema-pistacho-royal-swan-botella",
+  "slug": "licor-crema-pistacho-royal-swan-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/2385a70bc8a257db6be4df31e1dad5a6.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

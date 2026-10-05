@@ -1,0 +1,114 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Oreo",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 360,
+              "level": 2,
+              "name": "Con chocolate y rellenas",
+              "order": 18
+            }
+          ],
+          "id": 80,
+          "level": 1,
+          "name": "Galletas",
+          "order": 18
+        }
+      ],
+      "id": 7,
+      "level": 0,
+      "name": "Cereales y galletas",
+      "order": 18
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Oreo",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Mini galletas Oreo Lu",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "GALLETAS DE CACAO RELLENAS DE CREMA (29 %) SABOR VAINILLA.",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "800000074952",
+    "storage_instructions": "Conservar en lugar seco. Proteger del calor.",
+    "suppliers": [
+      {
+        "name": "Mondelez España Commercial, S.L."
+      },
+      {
+        "name": "Mondelez Portugal, Unipessoal, Lda."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Mini galletas Oreo",
+  "ean": "7622300165628",
+  "extra_info": [
+    ""
+  ],
+  "id": "14030",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>cereales que contengan gluten</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>soja y productos a base de soja</strong>.",
+    "ingredients": "Ingredientes: harina de TRIGO, azúcar, grasa de palma, aceite de nabina, almidón de TRIGO, cacao magro en polvo 4,7 %, jarabe de glucosa y fructosa, gasificantes (carbonatos de amonio, carbonatos de potasio, carbonatos de sodio), sal, emulgente (lecitinas de SOJA), corrector de acidez (hidróxido sódico), aromas. PUEDE CONTENER LECHE."
+  },
+  "origin": "España",
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/5f23108e1655a080e08563ce3ad4a5c4.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5f23108e1655a080e08563ce3ad4a5c4.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5f23108e1655a080e08563ce3ad4a5c4.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/d78955c9bd45b83a24d721e9d487f683.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d78955c9bd45b83a24d721e9d487f683.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d78955c9bd45b83a24d721e9d487f683.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "12.19",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "12.188",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 4,
+    "unit_name": "bolsitas",
+    "unit_price": "1.95",
+    "unit_selector": true,
+    "unit_size": 0.16
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/14030/galletas-mini-oreo-lu-caja",
+  "slug": "galletas-mini-oreo-lu-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/5f23108e1655a080e08563ce3ad4a5c4.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

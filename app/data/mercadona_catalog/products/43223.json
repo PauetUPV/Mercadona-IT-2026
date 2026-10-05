@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Bosque Verde",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 748,
+              "level": 2,
+              "name": "Limpiacristales",
+              "order": 374
+            }
+          ],
+          "id": 235,
+          "level": 1,
+          "name": "Limpiacristales",
+          "order": 374
+        }
+      ],
+      "id": 26,
+      "level": 0,
+      "name": "Limpieza y hogar",
+      "order": 374
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Bosque Verde",
+    "counter_info": null,
+    "danger_mentions": "Contiene Masa de reacción de 5-cloro-2-metil-2H-isotiazol-3-ona y 2-metil-2 H-isotiazol-3-ona (3:1). Puede provocaruna reacción alérgica.",
+    "description": "Toallitas limpiadoras de Cristales y Espejos Bosque Verde",
+    "legal_name": "",
+    "mandatory_mentions": "",
+    "origin": "",
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "Laboratorios Maverick"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Toallitas limpiadoras de Cristales y Espejos Bosque Verde",
+  "ean": "8402001025402",
+  "extra_info": [
+    null
+  ],
+  "id": "43223",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": ""
+  },
+  "origin": "",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/2c0adfb384e90f5b30f1ac55edf8b67d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/2c0adfb384e90f5b30f1ac55edf8b67d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/2c0adfb384e90f5b30f1ac55edf8b67d.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/b7ab4bb87e000822d07e5a16086a161c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b7ab4bb87e000822d07e5a16086a161c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b7ab4bb87e000822d07e5a16086a161c.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "0.05",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 21,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "0.047",
+    "selling_method": 0,
+    "size_format": "ud",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.40",
+    "unit_selector": true,
+    "unit_size": 30.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/43223/toallitas-limpiadoras-cristales-espejos-bosque-verde-paquete",
+  "slug": "toallitas-limpiadoras-cristales-espejos-bosque-verde-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/2c0adfb384e90f5b30f1ac55edf8b67d.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 866,
+              "level": 2,
+              "name": "Colesterol y otros",
+              "order": 598
+            }
+          ],
+          "id": 108,
+          "level": 1,
+          "name": "Yogures líquidos",
+          "order": 598
+        }
+      ],
+      "id": 11,
+      "level": 0,
+      "name": "Postres y yogures",
+      "order": 598
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Bebida Kéfir natural Hacendado 0% MG",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Kéfir desnatado",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en refrigeración entre 0C y 6C. Agítese antes de abrir.",
+    "suppliers": [
+      {
+        "name": "Productes del Moianès, S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Bebida Kéfir natural Hacendado 0% MG",
+  "ean": "8480000156624",
+  "extra_info": [
+    ""
+  ],
+  "id": "15662",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "0% MG",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Leche</strong> desnatada pasteurizada de vaca, fermentos <strong>lácticos</strong> de kéfir y ptrps fermentos <strong>lacticos</strong>."
+  },
+  "origin": "España",
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/700d23ea10748add9c31d5cfdb308633.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/700d23ea10748add9c31d5cfdb308633.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/700d23ea10748add9c31d5cfdb308633.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/d766f27a21a710f309e3fbd1c7b45147.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d766f27a21a710f309e3fbd1c7b45147.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d766f27a21a710f309e3fbd1c7b45147.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.60",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "3.600",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.90",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/15662/bebida-kefir-natural-hacendado-0-mg-botella",
+  "slug": "bebida-kefir-natural-hacendado-0-mg-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/700d23ea10748add9c31d5cfdb308633.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

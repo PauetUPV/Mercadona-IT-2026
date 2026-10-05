@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 354,
+              "level": 2,
+              "name": "Huevos",
+              "order": 373
+            }
+          ],
+          "id": 77,
+          "level": 1,
+          "name": "Huevos",
+          "order": 373
+        }
+      ],
+      "id": 6,
+      "level": 0,
+      "name": "Huevos, leche y mantequilla",
+      "order": 373
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Claras de huevo líquidas pasteurizadas",
+    "legal_name": "Claras de huevo pasteurizadas",
+    "mandatory_mentions": "Medidor aproximado",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar refrigerado (entre 0-4C) y cerrado. Una vez abierto consumir en 4 días. SE RECOMIENDA NO CONGELAR.",
+    "suppliers": [
+      {
+        "name": "HUEVOS GUILLEN S.L"
+      }
+    ],
+    "usage_instructions": "Para repostería: merengues, sorbetes, helados, leche merengada"
+  },
+  "display_name": "Claras de huevo líquidas pasteurizadas",
+  "ean": "8411384100941",
+  "extra_info": [
+    null
+  ],
+  "id": "31312",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "Clara de <strong>HUEVO</strong> de gallina pasteurizada, conservante E-202. Alérgenos: <strong>CONTIENE</strong> <strong>HUEVO</strong>."
+  },
+  "origin": "España",
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/cde7e603fa71c589abe8e10279bd36ab.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/cde7e603fa71c589abe8e10279bd36ab.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/cde7e603fa71c589abe8e10279bd36ab.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/ab284c7a4f9215d264c91ddb0bbf9b4a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ab284c7a4f9215d264c91ddb0bbf9b4a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ab284c7a4f9215d264c91ddb0bbf9b4a.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.85",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "2.850",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.85",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/31312/claras-huevo-liquidas-pasteurizadas-botella",
+  "slug": "claras-huevo-liquidas-pasteurizadas-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/cde7e603fa71c589abe8e10279bd36ab.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,119 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "DulZ.Ze",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 579,
+              "level": 2,
+              "name": "Vino lambrusco y espumoso",
+              "order": 15
+            }
+          ],
+          "id": 173,
+          "level": 1,
+          "name": "Vino lambrusco y espumoso",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "DulZ.Ze",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Frizzante blanco verdejo DulZ.Ze",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Vino tinto",
+    "mandatory_mentions": "APTO PARA VEGANOS",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Se recomienda guardar en lugar fresco y protegido de la luz solar.",
+    "suppliers": [
+      {
+        "name": "AECOC"
+      },
+      {
+        "name": "Bodegas Comportillo"
+      },
+      {
+        "name": "Bodegas Señorío de Fitero"
+      }
+    ],
+    "usage_instructions": "Servir muy frío."
+  },
+  "display_name": "Frizzante blanco verdejo DulZ.Ze",
+  "ean": "8480000663320",
+  "extra_info": [
+    ""
+  ],
+  "id": "66332",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>x99</strong>.",
+    "ingredients": "Uva, correctores de la acidez (ácido L(+) - tartárico y ácido málico (D,L-)), conservadores y antioxidantes (<strong>anhídrido sulfuroso</strong>, <strong>metabisulfito de potasio</strong>, dicarbonato de dimetilo), agentes estabilizantes (ácido metatartárico, goma arábiga).Contiene <strong>sulfitos</strong>."
+  },
+  "origin": null,
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/1c22d39e6430a588dd9eae64e8a19d89.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1c22d39e6430a588dd9eae64e8a19d89.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1c22d39e6430a588dd9eae64e8a19d89.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/6a7acf901cd8d974db75a69fae2ad927.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/6a7acf901cd8d974db75a69fae2ad927.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/6a7acf901cd8d974db75a69fae2ad927.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.73",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "3.734",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.80",
+    "unit_selector": true,
+    "unit_size": 0.75
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/66332/vino-blanco-espumoso-verdejo-dulzze-frizzante-botella",
+  "slug": "vino-blanco-espumoso-verdejo-dulzze-frizzante-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/1c22d39e6430a588dd9eae64e8a19d89.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

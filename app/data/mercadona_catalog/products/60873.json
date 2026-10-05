@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 425,
+              "level": 2,
+              "name": "Hierbas",
+              "order": 7
+            }
+          ],
+          "id": 115,
+          "level": 1,
+          "name": "Especias",
+          "order": 7
+        }
+      ],
+      "id": 12,
+      "level": 0,
+      "name": "Aceite, especias y salsas",
+      "order": 7
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Ajo y Perejil Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Especias (35% ajo, cebolla, 7% perejil y pimienta negra) y sal",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "JESÚS NAVARRO, S.A."
+      },
+      {
+        "name": "Jesús Navarro S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Ajo y Perejil Hacendado",
+  "ean": "8402001029066",
+  "extra_info": [
+    ""
+  ],
+  "id": "60873",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>cacahuetes y productos a base de cacahuetes</strong>.",
+    "ingredients": "Especias (35% ajo, cebolla, 7% perejil y pimienta negra) y sal. Puede contener trazas de <strong>cacahuete</strong>. Sin gluten."
+  },
+  "origin": "España",
+  "packaging": "Bote",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/eb87b609baabad143d6cf74cebfc589e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/eb87b609baabad143d6cf74cebfc589e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/eb87b609baabad143d6cf74cebfc589e.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/be0feb87444fc2710e6b0ba997e5c32d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/be0feb87444fc2710e6b0ba997e5c32d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/be0feb87444fc2710e6b0ba997e5c32d.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "18.24",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "18.244",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.35",
+    "unit_selector": true,
+    "unit_size": 0.074
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/60873/ajo-perejil-hacendado-bote",
+  "slug": "ajo-perejil-hacendado-bote",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/eb87b609baabad143d6cf74cebfc589e.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,127 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 280,
+              "level": 2,
+              "name": "Cerdo",
+              "order": 17
+            }
+          ],
+          "id": 37,
+          "level": 1,
+          "name": "Cerdo",
+          "order": 17
+        },
+        {
+          "categories": [
+            {
+              "id": 288,
+              "level": 2,
+              "name": "Empanados y elaborados",
+              "order": 17
+            }
+          ],
+          "id": 45,
+          "level": 1,
+          "name": "Empanados y elaborados",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "San Jacobos de cerdo sin gluten",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "SAN JACOBO DE CERDO CRUJIENTE",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar de 0 a 4º C. Una vez abierto el envase consumir inmediatamente.",
+    "suppliers": [
+      {
+        "name": "AVES NOBLES Y DERIVADOS S.L."
+      }
+    ],
+    "usage_instructions": "Cocinar completamente antes de su consumo.AIRFRYER: Precalentar la airfryer a máxima temperatura y cocinar 5 minutos a 200ºC dando la vuelta a los 2 minutos y 30 segundos. SARTÉN:Precalentar una cucharada pequeña de aceite a fuego alto, y cocinar durante 4 minutos volteando periódicamente.HORNO: Precalentar el horno a 200ºC y cocinar durante 9 minutos."
+  },
+  "display_name": "San Jacobos de cerdo sin gluten",
+  "ean": "8402001038860",
+  "extra_info": [
+    ""
+  ],
+  "id": "14298",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>dióxido de azufre y sulfitos</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Fiambre de cerdo (44%): carne de cerdo (60%), agua, almidón, sal, <strong>LACTOSA</strong>, estabilizantes (E-451i, E-407, E-415), dextrosa, proteína de <strong>SOJA</strong>, <strong>LECHE</strong> desnatada en polvo, antioxidante (E-301), aromas, conservador (E-250). Empanado sin gluten: harinas de arroz, garbanzo, y maíz, aceite refinado de girasol, almidón, dextrosa de maíz, sal, gasificante (bicarbonato sódico), emulgente (mono y diglicéridos de ácidos grasos), corrector de acidez (fosfato monocálcico), colorantes (caramelo natural y extracto de pimentón), conservador (E-202). QUESO fundido (12%) : <strong>QUESO</strong> semicurado (<strong>LECHE</strong> pasteurizada de vaca, oveja y cabra, endurecedor (cloruro cálcico), cuajo, fermentos lácticos), <strong>MANTEQUILLA</strong>, sólidos lácteos <strong>(LACTOSUERO</strong>, proteínas de <strong>LECHE</strong>, <strong>LECHE</strong> en polvo desnatada), almidón modificado (patata y tapioca), sales de fundido (E-452, E-331),acidulante (E-330) y sal. <strong>PUEDE CONTENER TRAZAS DE HUEVO, SULFITOS, APIO YMOSTAZA.</strong>"
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/496d5a9a9de7faa2cf2b14354963a567.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/496d5a9a9de7faa2cf2b14354963a567.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/496d5a9a9de7faa2cf2b14354963a567.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/a96f12663ab5117c178af1a40d6079a5.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a96f12663ab5117c178af1a40d6079a5.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a96f12663ab5117c178af1a40d6079a5.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "6.60",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.600",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.64",
+    "unit_selector": true,
+    "unit_size": 0.4
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/14298/san-jacobos-cerdo-sin-gluten-bandeja",
+  "slug": "san-jacobos-cerdo-sin-gluten-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/496d5a9a9de7faa2cf2b14354963a567.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

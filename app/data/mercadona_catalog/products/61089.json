@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 826,
+              "level": 2,
+              "name": "Fruta",
+              "order": 213
+            }
+          ],
+          "id": 145,
+          "level": 1,
+          "name": "Fruta y verdura",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Mix frutos rojos Hacendado ultracongeladas",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Mix Frutos rojos",
+    "mandatory_mentions": "",
+    "origin": "Marruecos",
+    "production_variant": "",
+    "storage_instructions": "En congelador: Sin estrellas 3 días. Una estrella 1 semana. Dos estrellas 1 mes. Tres o cuatro estrellas ver fecha de consumo preferente.",
+    "suppliers": [
+      {
+        "name": "Crop's Fruits NV"
+      },
+      {
+        "name": "Mercadona S.A."
+      }
+    ],
+    "usage_instructions": "Para elaboraciones calientes: utilizar sin descongelar. Para elaboraciones frías: utilizar a conveniencia. Si desea consumirlo descongelado introduzca la fruta en el frigorífico  durante 5 horas colocándola sobre un plato a una sola capa."
+  },
+  "display_name": "Mix frutos rojos Hacendado ultracongeladas",
+  "ean": "8480000610898",
+  "extra_info": [
+    ""
+  ],
+  "id": "61089",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "ultracongeladas",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Fresas, zarzamoras, grosellas rojas, grosellas negras, frambuesas, arándanos silvestres"
+  },
+  "origin": "Marruecos",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/9226d0c69488fd575c374293d5538ad6.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9226d0c69488fd575c374293d5538ad6.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9226d0c69488fd575c374293d5538ad6.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/c87c612e487e8f41e2d5ffb8d96cd3d3.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c87c612e487e8f41e2d5ffb8d96cd3d3.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c87c612e487e8f41e2d5ffb8d96cd3d3.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.33",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.334",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.90",
+    "unit_selector": true,
+    "unit_size": 0.3
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/61089/mix-frutos-rojos-hacendado-ultracongeladas-paquete",
+  "slug": "mix-frutos-rojos-hacendado-ultracongeladas-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/9226d0c69488fd575c374293d5538ad6.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

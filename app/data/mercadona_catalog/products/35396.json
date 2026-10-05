@@ -1,0 +1,112 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 282,
+              "level": 2,
+              "name": "Pavo y otras aves",
+              "order": 17
+            }
+          ],
+          "id": 38,
+          "level": 1,
+          "name": "Aves y pollo",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Foie gras de pato fresco",
+    "legal_name": "Foie gras de pato fresco",
+    "mandatory_mentions": "",
+    "origin": "Navarra, España.",
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 0 y 4ºC. Una vez abierto,conservar en el frigorífico y consumir en los próximos 2 días",
+    "suppliers": [
+      {
+        "name": "Martiko"
+      },
+      {
+        "name": "Martiko, S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Foie gras de pato fresco",
+  "ean": "8402001007293",
+  "extra_info": [
+    ""
+  ],
+  "id": "35396",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Foie gras de pato."
+  },
+  "origin": "Navarra, España.",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/d9f5cd097f679110eb93ec7cc5d9e2a2.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d9f5cd097f679110eb93ec7cc5d9e2a2.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d9f5cd097f679110eb93ec7cc5d9e2a2.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/553d739537005a9ab4b4568faa60d9cc.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/553d739537005a9ab4b4568faa60d9cc.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/553d739537005a9ab4b4568faa60d9cc.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "85.19",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "85.186",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "11.50",
+    "unit_selector": true,
+    "unit_size": 0.135
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/35396/foie-gras-pato-fresco-martiko-paquete",
+  "slug": "foie-gras-pato-fresco-martiko-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/d9f5cd097f679110eb93ec7cc5d9e2a2.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": "2026-05-06T22:00:00+00:00",
+  "unavailable_weekdays": []
+}

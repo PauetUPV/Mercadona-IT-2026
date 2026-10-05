@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 522,
+              "level": 2,
+              "name": "Tarrinas",
+              "order": 213
+            }
+          ],
+          "id": 154,
+          "level": 1,
+          "name": "Helados",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Helado de vainilla Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Helado de vainilla",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar a temperaturas inferiores a -18 ºC.",
+    "suppliers": [
+      {
+        "name": "FRONERI FRANCE S.A.S."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Helado de vainilla Hacendado",
+  "ean": "8402001024528",
+  "extra_info": [
+    ""
+  ],
+  "id": "8966",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>cacahuetes y productos a base de cacahuetes</strong>. Puede contener <strong>frutos de cáscara</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "<strong>Leche </strong>concentrada desnatada reconstituida, jarabe de glucosa, grasa de coco, azúcar, nata (<strong>leche</strong>), <strong>leche </strong>concentrada desnatada, suero lácteo en polvo (<strong>leche</strong>), aroma natural de vainilla, emulgente (monoglicéridos y diglicéridos de ácidos grasos), estabilizantes (goma guar, goma garrofín), vainas de vainilla agotadas en polvo, colorante (carotenos). Puede contener <strong>cacahuetes</strong>, <strong>frutos de cáscara</strong>, <strong>huevo </strong>y <strong>soja</strong>."
+  },
+  "origin": null,
+  "packaging": "Tarrina",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/c6493ad34b4ed3d0cb2502a726f2c1e9.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c6493ad34b4ed3d0cb2502a726f2c1e9.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c6493ad34b4ed3d0cb2502a726f2c1e9.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/ec1a9aaca8d570369c5edd349921a6ea.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ec1a9aaca8d570369c5edd349921a6ea.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ec1a9aaca8d570369c5edd349921a6ea.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.40",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "2.400",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.40",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/8966/helado-vainilla-hacendado-tarrina",
+  "slug": "helado-vainilla-hacendado-tarrina",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/c6493ad34b4ed3d0cb2502a726f2c1e9.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

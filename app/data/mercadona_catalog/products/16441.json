@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Fiesta",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 394,
+              "level": 2,
+              "name": "Caramelos",
+              "order": 11
+            }
+          ],
+          "id": 95,
+          "level": 1,
+          "name": "Chicles y caramelos",
+          "order": 11
+        }
+      ],
+      "id": 9,
+      "level": 0,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Fiesta",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Caramelos masticables con palo Lolipop Fiesta sabor fresa",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Caramelo masticable con palo",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco a temperatura < 25ºC y humedad relativa < 70%.",
+    "suppliers": [
+      {
+        "name": "FIESTA COLOMBINA S.L.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Caramelos masticables con palo Lolipop Fiesta sabor fresa",
+  "ean": "8411402285360",
+  "extra_info": [
+    ""
+  ],
+  "id": "16441",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Azúcar, jarabe de glucosa, grasa de palma, maldextrina, agua, acidulante (E-330), aromas, proteína de patata, almidón, emulsionante (E-322) y colorante (E-120)."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/c313a6abb41862563078261f91bac94e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c313a6abb41862563078261f91bac94e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c313a6abb41862563078261f91bac94e.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/17838de955e55dcf45691f6cd7f8c69d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/17838de955e55dcf45691f6cd7f8c69d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/17838de955e55dcf45691f6cd7f8c69d.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "20.83",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "100 g",
+    "reference_price": "2.084",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 4,
+    "unit_name": "ud.",
+    "unit_price": "1.00",
+    "unit_selector": true,
+    "unit_size": 0.048
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/16441/caramelos-masticables-con-palo-lolipop-fiesta-sabor-fresa-paquete",
+  "slug": "caramelos-masticables-con-palo-lolipop-fiesta-sabor-fresa-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/c313a6abb41862563078261f91bac94e.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

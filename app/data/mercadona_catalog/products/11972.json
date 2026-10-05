@@ -1,0 +1,115 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 430,
+              "level": 2,
+              "name": "Sazonadores",
+              "order": 7
+            }
+          ],
+          "id": 115,
+          "level": 1,
+          "name": "Especias",
+          "order": 7
+        }
+      ],
+      "id": 12,
+      "level": 0,
+      "name": "Aceite, especias y salsas",
+      "order": 7
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Sazonador hierbas provenzales Hacendado para pollo y costillas al horno y microondas con bolsa",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Sazonador hierbas provenzales",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco",
+    "suppliers": [
+      {
+        "name": "JESÚS NAVARRO, S.A."
+      },
+      {
+        "name": "Jesús Navarro S.A."
+      }
+    ],
+    "usage_instructions": "1. Sazonar. 2. Cerrar y agitar. 3. 180C - Calentar el horno. Microondas: 800W. Pollo (entero o troceado) y solomillo: Horno 50-60 min. Microondas 25-35min. Costillas de cerdo: Horno 60-70 min. Microondas 30-35 min. Precalentar el horno sin la bandeja donde se va a cocinar. Hornear sin grill ni ventilación. Evitar el contacto de la bolsa y de la brida con las paredes o resistencias del horno. No agujerear la bolsa. La bolsa de hornear resiste hasta 200 C. No superar esta temperatura. Reducir el tiempo de cocción en cantidades menores a 800 g - 1200 g de carne."
+  },
+  "display_name": "Sazonador hierbas provenzales Hacendado para pollo y costillas",
+  "ean": "8402001029004",
+  "extra_info": [
+    null
+  ],
+  "id": "11972",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>apio y productos derivados</strong>. Contiene <strong>soja y productos a base de soja</strong>. Puede contener <strong>cacahuetes y productos a base de cacahuetes</strong>.",
+    "ingredients": "Sal, almidón de maíz, especias [hierbas provenzales 5,4% (albahaca, orégano, romero, tomillo, mejorana y ajedrea), ajo, jengibre, pimentón, cebolla, cilantro, perejil, cayena y <strong>apio</strong>], azúcar, tomate, corrector de acidez:E-331 (i), proteínas vegetales hidrolizadas (<strong>soja</strong>, maíz y girasol), aromas, potenciador del sabor: E-621, extracto de levadura y zanahoria. Puede contener trazas de <strong>cacahuete</strong>. Sin gluten."
+  },
+  "origin": "España",
+  "packaging": "Sobre",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/b5313417569b30a7ed5389f088b58249.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b5313417569b30a7ed5389f088b58249.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b5313417569b30a7ed5389f088b58249.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/037aa3d2cb9e17f5dd5e4ee852e867ab.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/037aa3d2cb9e17f5dd5e4ee852e867ab.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/037aa3d2cb9e17f5dd5e4ee852e867ab.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "43.75",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "100 g",
+    "reference_price": "4.375",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.05",
+    "unit_selector": true,
+    "unit_size": 0.024
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/11972/sazonador-hierbas-provenzales-hacendado-pollo-costillas-horno-microondas-con-bolsa",
+  "slug": "sazonador-hierbas-provenzales-hacendado-pollo-costillas-horno-microondas-con-bolsa",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/b5313417569b30a7ed5389f088b58249.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

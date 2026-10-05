@@ -1,0 +1,137 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 254,
+              "level": 2,
+              "name": "Lechuga",
+              "order": 306
+            }
+          ],
+          "id": 28,
+          "level": 1,
+          "name": "Lechuga y ensalada preparada",
+          "order": 306
+        }
+      ],
+      "id": 1,
+      "level": 0,
+      "name": "Fruta y verdura",
+      "order": 306
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Cogollos corazón de lechuga",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Corazones de Cogollos Extra",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Se recomienda mantener en frío (entre +1ºC y +5ºC) .",
+    "suppliers": [
+      {
+        "name": "AGROMEDITERRÁNEA HORTOFRUTICOLA S.L."
+      },
+      {
+        "name": "AGRUPACIÓN HORTOFRUTÍCOLA LUCAS OPFH, S.L."
+      },
+      {
+        "name": "Agromediterránea Hortofrutícola, S.L."
+      },
+      {
+        "name": "Agromontes Fresh Group S.L."
+      },
+      {
+        "name": "Anecoop S. Coop."
+      },
+      {
+        "name": "G.Hort. Murciana de vegetales S.L"
+      },
+      {
+        "name": "Ianibelli S.L."
+      },
+      {
+        "name": "S.A.T. 9855 Primaflor"
+      },
+      {
+        "name": "Son Sintes, S.A.T."
+      }
+    ],
+    "usage_instructions": "Retirar el plástico .cortar y aliñar al gusto"
+  },
+  "display_name": "Cogollos corazón de lechuga",
+  "ean": "8412276046095",
+  "extra_info": [
+    ""
+  ],
+  "id": "69582",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "de lechuga",
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": "Lechuga baby"
+  },
+  "origin": "España",
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/7b21cbc693c021af52107cdd30fb3e0d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7b21cbc693c021af52107cdd30fb3e0d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7b21cbc693c021af52107cdd30fb3e0d.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/ce33c248c9374af1f2583a389f5e4996.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ce33c248c9374af1f2583a389f5e4996.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ce33c248c9374af1f2583a389f5e4996.jpeg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "0.33",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "0.334",
+    "selling_method": 0,
+    "size_format": "ud",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.00",
+    "unit_selector": true,
+    "unit_size": 6.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/69582/cogollos-corazon-lechuga-paquete",
+  "slug": "cogollos-corazon-lechuga-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/7b21cbc693c021af52107cdd30fb3e0d.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

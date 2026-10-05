@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 878,
+              "level": 2,
+              "name": "Platos calientes",
+              "order": 597
+            }
+          ],
+          "id": 897,
+          "level": 1,
+          "name": "Listo para Comer",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pollo teriyaki compuesto por arroz jazmín, pollo, salsa teriyaki, puerro y sésamo",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "POLLO TERIYAKI",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 0-6C.",
+    "suppliers": [
+      {
+        "name": "Leroy Processing Spain S.L.U."
+      }
+    ],
+    "usage_instructions": "Calentar sin tapa en el microondas 2 min a 800W."
+  },
+  "display_name": "Pollo teriyaki",
+  "ean": "8402001033209",
+  "extra_info": [
+    ""
+  ],
+  "id": "13236",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>cereales que contengan gluten</strong>. Puede contener <strong>pescado y productos a base de pescado</strong>. Contiene <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Puede contener <strong>huevos y productos a base de huevo</strong>. Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>. Contiene <strong>soja y productos a base de soja</strong>. Puede contener <strong>moluscos y productos a base de moluscos</strong>. Puede contener <strong>dióxido de azufre y sulfitos</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>apio y productos derivados</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>cacahuetes y productos a base de cacahuetes</strong>. Puede contener <strong>frutos de cáscara</strong>.",
+    "ingredients": "Arroz jazmín cocido, carne de pollo (28%), salsa teriyaki (12%) [salsa de <strong>soja</strong> (agua, semillas de <strong>soja</strong>, <strong>trigo</strong>, sal, alcohol (etanol)), azúcar, agua, mirin (arroz fermentado, agua, maltosa, alcohol), harina de maíz, sake], aceite refinado de girasol, agua, puerro, dextrosa [dextrosa fermentada y aroma natural], sal, <strong>sésamo</strong> blanco y gelatina neutra. Puede contener <strong>crustáceos</strong>, <strong>huevo</strong>, <strong>pescado</strong>, <strong>cacahuete</strong>, <strong>leche</strong>, <strong>apio</strong>, <strong>mostaza</strong>, <strong>sulfitos</strong>, <strong>moluscos</strong> y <strong>frutos de cáscara</strong>."
+  },
+  "origin": null,
+  "packaging": "Bol",
+  "photos": [
+    {
+      "perspective": 3,
+      "regular": "https://prod-mercadona.imgix.net/images/6d5527d54fd9c0d634759c308779ff5e.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/6d5527d54fd9c0d634759c308779ff5e.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/6d5527d54fd9c0d634759c308779ff5e.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/7bddd2c9e7485913b1286012a694857b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7bddd2c9e7485913b1286012a694857b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7bddd2c9e7485913b1286012a694857b.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "5.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "5.00",
+    "unit_selector": true,
+    "unit_size": 0.3
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/13236/pollo-teriyaki-contiene-arroz-jazmin-pollo-salsa-teriyaki-puerro-sesamo-bol",
+  "slug": "pollo-teriyaki-contiene-arroz-jazmin-pollo-salsa-teriyaki-puerro-sesamo-bol",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/6d5527d54fd9c0d634759c308779ff5e.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

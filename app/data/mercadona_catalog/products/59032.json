@@ -1,0 +1,107 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 498,
+              "level": 2,
+              "name": "Otros",
+              "order": 597
+            }
+          ],
+          "id": 140,
+          "level": 1,
+          "name": "Platos preparados calientes",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Sándwiches jamón y queso Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Sándwich de jamón y queso con masa de pizza",
+    "mandatory_mentions": "PRODUCTO PRECOCINADO REFRIGERADO / ENVASADO EN ATMÓSFERA PROTECTORA / Teléfono de atención al cliente Mercadona: 800 500 220 /  RECICLA Amarillo (logo)/ Sugerencia de presentación",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Puede congelarse justo después de su compra. Mantener entre 0ºC y 5ºC. Consumir preferentemente antes del/Lote:  Ver parte central del envase",
+    "suppliers": [
+      {
+        "name": "CASA TARRADELLAS, S.A."
+      }
+    ],
+    "usage_instructions": "Preparación: (pictos) Tostadora 6 minutos. Paella 7 minutos. Air fryer: 7 minutos a 200ºC. Sandwichera 7 minutos. Advertencias: Cocer antes de consumir."
+  },
+  "display_name": "Sándwiches jamón y queso Hacendado",
+  "ean": "8480000590329",
+  "extra_info": [
+    ""
+  ],
+  "id": "59032",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Harina de <strong>trigo</strong>, quesos* (25%)<strong>, jamó</strong>n cocido (24%), agua, aceite refinado <strong>de gira</strong>sol, sal, lactosa, fécula de patata, jarabe de glucosa, dextrosa, levadura, estabilizantes (E-407, E-451i, E-415), aromas, antioxidante (ascorbato sódico), conservador (nitrito sódico). Puede contener trazas de soja y mostaza. *Queso elaborados con leche pasteurizada."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/80c29413b6077115dba5999bfa2b6bb9.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/80c29413b6077115dba5999bfa2b6bb9.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/80c29413b6077115dba5999bfa2b6bb9.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.83",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.834",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 4,
+    "unit_name": "ud.",
+    "unit_price": "2.80",
+    "unit_selector": true,
+    "unit_size": 0.48
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/59032/sandwiches-jamon-queso-hacendado-paquete",
+  "slug": "sandwiches-jamon-queso-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/80c29413b6077115dba5999bfa2b6bb9.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

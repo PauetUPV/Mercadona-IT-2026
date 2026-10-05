@@ -1,0 +1,956 @@
+{
+  "categories": [
+    {
+      "id": 801,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Garbanzos",
+      "order": 10,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 13,
+              "level": 0,
+              "name": "Arroz, legumbres y pasta",
+              "order": 10
+            }
+          ],
+          "display_name": "Garbanzo cocido Hacendado",
+          "id": "26029",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Tarro",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "1.40",
+            "bunch_selector": false,
+            "drained_weight": 0.4,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "2.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.80",
+            "unit_selector": true,
+            "unit_size": 0.57
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/26029/garbanzo-cocido-hacendado-tarro",
+          "slug": "garbanzo-cocido-hacendado-tarro",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/b8b807948038c4b64791632f799e9bd8.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 13,
+              "level": 0,
+              "name": "Arroz, legumbres y pasta",
+              "order": 10
+            }
+          ],
+          "display_name": "Garbanzo cocido Hacendado",
+          "id": "26039",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Tarro",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.54",
+            "bunch_selector": false,
+            "drained_weight": 0.21,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "3.572",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.75",
+            "unit_selector": true,
+            "unit_size": 0.295
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/26039/garbanzo-cocido-hacendado-tarro",
+          "slug": "garbanzo-cocido-hacendado-tarro",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/66cff189ab481a314894b2ca6c1a5ff3.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 13,
+              "level": 0,
+              "name": "Arroz, legumbres y pasta",
+              "order": 10
+            }
+          ],
+          "display_name": "Garbanzo cocido Pedrosillano Hacendado",
+          "id": "26033",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Tarro",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "1.58",
+            "bunch_selector": false,
+            "drained_weight": 0.4,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "2.250",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.90",
+            "unit_selector": true,
+            "unit_size": 0.57
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/26033/garbanzo-cocido-pedrosillano-hacendado-categoria-extra-tarro",
+          "slug": "garbanzo-cocido-pedrosillano-hacendado-categoria-extra-tarro",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/d3a3751f303595a3ff36d87de9730597.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 13,
+              "level": 0,
+              "name": "Arroz, legumbres y pasta",
+              "order": 10
+            }
+          ],
+          "display_name": "Garbanzo Hacendado",
+          "id": "5214",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.15",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "2.150",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.15",
+            "unit_selector": true,
+            "unit_size": 1.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/5214/garbanzo-hacendado-categoria-extra-paquete",
+          "slug": "garbanzo-hacendado-categoria-extra-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/b917e6a5deaec485bc558150c129b2a1.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 13,
+              "level": 0,
+              "name": "Arroz, legumbres y pasta",
+              "order": 10
+            }
+          ],
+          "display_name": "Garbanzo lechoso Andaluz Hacendado",
+          "id": "5220",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 4,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "2.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.50",
+            "unit_selector": true,
+            "unit_size": 1.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/5220/garbanzo-lechoso-andaluz-hacendado-paquete",
+          "slug": "garbanzo-lechoso-andaluz-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/2656519be58b65a23ab94cbd25329b3e.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    },
+    {
+      "id": 802,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Alubias",
+      "order": 10,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 13,
+              "level": 0,
+              "name": "Arroz, legumbres y pasta",
+              "order": 10
+            }
+          ],
+          "display_name": "Alubia cocida blanca Hacendado",
+          "id": "26019",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Tarro",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "1.32",
+            "bunch_selector": false,
+            "drained_weight": 0.4,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "1.875",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.75",
+            "unit_selector": true,
+            "unit_size": 0.57
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/26019/alubia-cocida-blanca-hacendado-tarro",
+          "slug": "alubia-cocida-blanca-hacendado-tarro",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/f3797bcd3c8ed58804490159df581279.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 13,
+              "level": 0,
+              "name": "Arroz, legumbres y pasta",
+              "order": 10
+            }
+          ],
+          "display_name": "Alubia cocida blanca Hacendado",
+          "id": "26028",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Tarro",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.37",
+            "bunch_selector": false,
+            "drained_weight": 0.21,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "3.334",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.70",
+            "unit_selector": true,
+            "unit_size": 0.295
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/26028/alubia-cocida-blanca-hacendado-tarro",
+          "slug": "alubia-cocida-blanca-hacendado-tarro",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/5f0806bcbd4a2de3c9f7dd39468359bb.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 13,
+              "level": 0,
+              "name": "Arroz, legumbres y pasta",
+              "order": 10
+            }
+          ],
+          "display_name": "Alubia cocida roja Hacendado",
+          "id": "26000",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Tarro",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.11",
+            "bunch_selector": false,
+            "drained_weight": 0.4,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "3.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.20",
+            "unit_selector": true,
+            "unit_size": 0.57
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/26000/alubia-cocida-roja-hacendado-tarro",
+          "slug": "alubia-cocida-roja-hacendado-tarro",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/231e70f1833a97babe9b0ecab3bfee2c.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 13,
+              "level": 0,
+              "name": "Arroz, legumbres y pasta",
+              "order": 10
+            }
+          ],
+          "display_name": "Alubia cocida pinta Hacendado",
+          "id": "26001",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Tarro",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.19",
+            "bunch_selector": false,
+            "drained_weight": 0.4,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "3.125",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.25",
+            "unit_selector": true,
+            "unit_size": 0.57
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/26001/alubia-cocida-pinta-hacendado-tarro",
+          "slug": "alubia-cocida-pinta-hacendado-tarro",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/cb1552d49aded16856fe625f266137fb.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 13,
+              "level": 0,
+              "name": "Arroz, legumbres y pasta",
+              "order": 10
+            }
+          ],
+          "display_name": "Alubia blanca Hacendado",
+          "id": "5124",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.45",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "2.450",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.45",
+            "unit_selector": true,
+            "unit_size": 1.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/5124/alubia-blanca-hacendado-categoria-extra-paquete",
+          "slug": "alubia-blanca-hacendado-categoria-extra-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/ad8260b04f013a17ce1323a0f3ac40c5.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 13,
+              "level": 0,
+              "name": "Arroz, legumbres y pasta",
+              "order": 10
+            }
+          ],
+          "display_name": "Alubia negra Hacendado",
+          "id": "67608",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 4,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "2.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.50",
+            "unit_selector": true,
+            "unit_size": 1.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/67608/alubia-negra-hacendado-categoria-extra-paquete",
+          "slug": "alubia-negra-hacendado-categoria-extra-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/e48c5377a420309858064f278a555535.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 13,
+              "level": 0,
+              "name": "Arroz, legumbres y pasta",
+              "order": 10
+            }
+          ],
+          "display_name": "Alubia roja Hacendado",
+          "id": "67609",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": "        3.10",
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "3.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.00",
+            "unit_selector": true,
+            "unit_size": 1.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/67609/alubia-roja-hacendado-categoria-extra-paquete",
+          "slug": "alubia-roja-hacendado-categoria-extra-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/176a8ea1981b85fa0d906ed9f9a27145.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 13,
+              "level": 0,
+              "name": "Arroz, legumbres y pasta",
+              "order": 10
+            }
+          ],
+          "display_name": "Alubia cocida granja Hacendado",
+          "id": "26002",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Tarro",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.07",
+            "bunch_selector": false,
+            "drained_weight": 0.35,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "4.375",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.75",
+            "unit_selector": true,
+            "unit_size": 0.57
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/26002/alubia-cocida-granja-hacendado-tarro",
+          "slug": "alubia-cocida-granja-hacendado-tarro",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/c0f70dce6b61bb53a4502627a4bba317.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 13,
+              "level": 0,
+              "name": "Arroz, legumbres y pasta",
+              "order": 10
+            }
+          ],
+          "display_name": "Alubia pinta Hacendado",
+          "id": "23453",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.30",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "2.300",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.30",
+            "unit_selector": true,
+            "unit_size": 1.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/23453/alubia-pinta-hacendado-categoria-extra-paquete",
+          "slug": "alubia-pinta-hacendado-categoria-extra-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/85a56c263795eabc64fb234cfbfe8855.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    },
+    {
+      "id": 803,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Lentejas y otros",
+      "order": 10,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 13,
+              "level": 0,
+              "name": "Arroz, legumbres y pasta",
+              "order": 10
+            }
+          ],
+          "display_name": "Lenteja pardina Hacendado",
+          "id": "5330",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "1.85",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": "        1.95",
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "1.850",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.85",
+            "unit_selector": true,
+            "unit_size": 1.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/5330/lenteja-pardina-hacendado-categoria-extra-paquete",
+          "slug": "lenteja-pardina-hacendado-categoria-extra-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/80c08ddcd236321ea41242268903726b.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 13,
+              "level": 0,
+              "name": "Arroz, legumbres y pasta",
+              "order": 10
+            }
+          ],
+          "display_name": "Lenteja cocida Hacendado",
+          "id": "26030",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Tarro",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "1.58",
+            "bunch_selector": false,
+            "drained_weight": 0.4,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "2.250",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.90",
+            "unit_selector": true,
+            "unit_size": 0.57
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/26030/lenteja-cocida-hacendado-tarro",
+          "slug": "lenteja-cocida-hacendado-tarro",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/50b071c4bae7230b8de346b495a7981b.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 13,
+              "level": 0,
+              "name": "Arroz, legumbres y pasta",
+              "order": 10
+            }
+          ],
+          "display_name": "Lenteja cocida Hacendado",
+          "id": "26011",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Tarro",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.54",
+            "bunch_selector": false,
+            "drained_weight": 0.21,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "3.572",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.75",
+            "unit_selector": true,
+            "unit_size": 0.295
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/26011/lenteja-cocida-hacendado-tarro",
+          "slug": "lenteja-cocida-hacendado-tarro",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/ffbc3f23e35051fc1a326bda5a4f9063.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 13,
+              "level": 0,
+              "name": "Arroz, legumbres y pasta",
+              "order": 10
+            }
+          ],
+          "display_name": "Soja texturizada Luengo",
+          "id": "13926",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "13.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "13.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.70",
+            "unit_selector": true,
+            "unit_size": 0.2
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/13926/soja-texturizada-luengo-paquete",
+          "slug": "soja-texturizada-luengo-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/2e49aeea5693521296dc231e58aab300.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    }
+  ],
+  "id": 121,
+  "is_extended": false,
+  "layout": 1,
+  "name": "Legumbres",
+  "next_category": {
+    "id": 120,
+    "name": "Pasta y fideos"
+  },
+  "order": 10,
+  "published": true
+}

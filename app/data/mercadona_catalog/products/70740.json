@@ -1,0 +1,114 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 504,
+              "level": 2,
+              "name": "Verdura",
+              "order": 213
+            }
+          ],
+          "id": 145,
+          "level": 1,
+          "name": "Fruta y verdura",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Edamame soja verde Hacendado ultracongelada",
+    "legal_name": "Vainas de soja verde ultracongeladas",
+    "mandatory_mentions": "Advertencia: Tirar la vaina.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar a -18 ºC. Una vez descongelado no volver a congelar.",
+    "suppliers": [
+      {
+        "name": "Ultracongelados Virto, S.A.U"
+      },
+      {
+        "name": "Ultracongelados Virto, S.A.U."
+      }
+    ],
+    "usage_instructions": "Cocción 3-5 min. / Freidora de aire (180 ºC) 7-8 min."
+  },
+  "display_name": "Edamame soja verde Hacendado ultracongelada",
+  "ean": "8480000707406",
+  "extra_info": [
+    null
+  ],
+  "id": "70740",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>soja y productos a base de soja</strong>.",
+    "ingredients": "Vainas de <strong>soja</strong> verde."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/27f612682e80ebb45cef1f645911e827.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/27f612682e80ebb45cef1f645911e827.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/27f612682e80ebb45cef1f645911e827.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/0cd95bfb5cc92b8cc7563be86b36e73e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0cd95bfb5cc92b8cc7563be86b36e73e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0cd95bfb5cc92b8cc7563be86b36e73e.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "3.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.75",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/70740/edamame-soja-verde-hacendado-ultracongelada-paquete",
+  "slug": "edamame-soja-verde-hacendado-ultracongelada-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/27f612682e80ebb45cef1f645911e827.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 288,
+              "level": 2,
+              "name": "Empanados y elaborados",
+              "order": 17
+            }
+          ],
+          "id": 45,
+          "level": 1,
+          "name": "Empanados y elaborados",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Cachopo de vacuno con jamón y queso sin gluten",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Filete de vacuno empanado relleno de jamón y queso",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "Embutidos Moreno Plaza, S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Cachopo de vacuno con jamón y queso sin gluten",
+  "ean": "8402001015786",
+  "extra_info": [
+    ""
+  ],
+  "id": "52810",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": "con jamón y queso sin gluten",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "Carne de vacuno  marinado (53%) (carne de vacuno, agua, sal, acidulante (E-296), conservadores  (E-262i), antioxidantes (E-301, E-471), aroma, potenciador del sabor (E-621)),  Cobertura (28%): Rebozado (maíz tostado, harina de maíz) y encolante (almidón,  proteína vegetal (guisante), sal, fibra vegetal, estabilizador (E-451),  espesante (E-412), conservador (E-200)). Jamón serrano (9,5%): jamón, sal,  azúcar, conservadores (E-250 y E-252), antioxidante (E-301), Queso vaca curada  (9,5%): <strong>LECHE</strong> pasteurizada de vaca, estabilizante (E-509), conservador  lisozima (obtenida de clara de <strong>HUEVO</strong>), fermentos lácticos y sal."
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/8aa6b8733136aa0cf9422b43ecb9c572.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8aa6b8733136aa0cf9422b43ecb9c572.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8aa6b8733136aa0cf9422b43ecb9c572.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/186923572ddedef7dbb9df4a96b5dfcd.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/186923572ddedef7dbb9df4a96b5dfcd.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/186923572ddedef7dbb9df4a96b5dfcd.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "17.70",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "17.700",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "4.43",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/52810/cachopo-vacuno-con-jamon-queso-bandeja",
+  "slug": "cachopo-vacuno-con-jamon-queso-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/8aa6b8733136aa0cf9422b43ecb9c572.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

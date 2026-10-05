@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 497,
+              "level": 2,
+              "name": "Carne",
+              "order": 597
+            }
+          ],
+          "id": 140,
+          "level": 1,
+          "name": "Platos preparados calientes",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pollo asado Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Pollo asado",
+    "mandatory_mentions": "Sin gluten",
+    "origin": "España",
+    "production_variant": "Este producto es de peso variable, por lo tanto el peso neto puede oscilar",
+    "storage_instructions": "Conservar entre 0- 4 C. Una vez abierto consumir en 24h, mantenido entre 0-4ºC",
+    "suppliers": [
+      {
+        "name": "Platos Tradicionales S.A."
+      }
+    ],
+    "usage_instructions": "MICROONDAS 1. Colocar el pollo con su envase original en un recipiente hondo apto para el microondas, 2. Abrir ligeramente el film por la zona indicada, 3. Calentar 12 minutos a máxima potencia, 4. Retirar el film y la goma que une los cuartos traseros. Atención envase caliente. HORNO 1. Precalentar el horno a 180  C, 2. Retirar el film y colocar en un recipiente apto para el horno, 3. Calentar durante 20 minutos a 180  C, 4. Retirar la goma que une los cuartos traseros"
+  },
+  "display_name": "Pollo asado Hacendado",
+  "ean": "2105171137062",
+  "extra_info": [
+    ""
+  ],
+  "id": "13706",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Pollo (97%), agua, aceite refinado de girasol, salmuera (dextrosa, sal, especias y extracto de levadura), sal, almidón, vino, aceite de oliva, especias, corrector de acidez (ácido cítrico) y aroma natural."
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/bf5c527e50ce50bb951e705fad9dc27f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/bf5c527e50ce50bb951e705fad9dc27f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/bf5c527e50ce50bb951e705fad9dc27f.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/290ea13aea97c5bba4c30bdc227e876d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/290ea13aea97c5bba4c30bdc227e876d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/290ea13aea97c5bba4c30bdc227e876d.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "5.65",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.650",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "7.06",
+    "unit_selector": true,
+    "unit_size": 1.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/13706/pollo-asado-hacendado-paquete",
+  "slug": "pollo-asado-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/bf5c527e50ce50bb951e705fad9dc27f.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

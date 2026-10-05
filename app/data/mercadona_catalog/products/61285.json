@@ -1,0 +1,118 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 504,
+              "level": 2,
+              "name": "Verdura",
+              "order": 213
+            }
+          ],
+          "id": 145,
+          "level": 1,
+          "name": "Fruta y verdura",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Habitas muy tiernas Hacendado ultracongeladas",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Habitas muy tiernas ultracongeladas",
+    "mandatory_mentions": "*El contenido de sal obedece exclusivamente al sodio presente de forma natural en el alimento.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar a -18 ºC. Una vez descongelado no volver a congelar.",
+    "suppliers": [
+      {
+        "name": "Ultracongelados Virto, S.A."
+      },
+      {
+        "name": "Ultracongelados Virto, S.A.U"
+      },
+      {
+        "name": "Ultracongelados Virto, S.A.U."
+      }
+    ],
+    "usage_instructions": "Sartén 6 min./ Cocción 4-5 min. / Freidora de aire (180 ºC) 12-14 min."
+  },
+  "display_name": "Habitas muy tiernas Hacendado ultracongeladas",
+  "ean": "8480000612854",
+  "extra_info": [
+    null
+  ],
+  "id": "61285",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Habas"
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/ac99f78733e867d09770f1fc0715ce7d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ac99f78733e867d09770f1fc0715ce7d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ac99f78733e867d09770f1fc0715ce7d.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/9ca901a334322f415e48327d5f49cb8a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9ca901a334322f415e48327d5f49cb8a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9ca901a334322f415e48327d5f49cb8a.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "9.73",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "9.734",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.92",
+    "unit_selector": true,
+    "unit_size": 0.3
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/61285/habitas-muy-tiernas-hacendado-ultracongeladas-paquete",
+  "slug": "habitas-muy-tiernas-hacendado-ultracongeladas-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/ac99f78733e867d09770f1fc0715ce7d.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

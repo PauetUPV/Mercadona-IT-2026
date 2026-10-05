@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 522,
+              "level": 2,
+              "name": "Tarrinas",
+              "order": 213
+            }
+          ],
+          "id": 154,
+          "level": 1,
+          "name": "Helados",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Helado menta choco Hacendado con trocitos sabor chocolate",
+    "legal_name": "HELADO DE CREMA SABOR MENTA CON TROCITOS SABOR A CHOCOLATE",
+    "mandatory_mentions": "SIN GLUTEN.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en congelación a temperaturas inferiores a -18C.Una vez descongelado no volver a congelar.",
+    "suppliers": [
+      {
+        "name": "A.I.A.D.H.E.S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Helado menta choco Hacendado con trocitos sabor chocolate",
+  "ean": "8480000644640",
+  "extra_info": [
+    ""
+  ],
+  "id": "64464",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>frutos de cáscara</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "HELADO DE CREMA SABOR MENTA CON TROCITOS SABOR A CHOCOLATE. HELADO DE CREMA SABOR MENTA (88%). Ingredientes: <strong>leche</strong> desnatada reconstituida, <strong>leche</strong> entera, azúcar, mantequilla (<strong>leche</strong>), <strong>leche</strong> desnatada en polvo, jarabe de glucosa y fructosa, yema de <strong>huevo</strong>, emulgente (monoglicéridos y diglicéridos de ácidos grasos), estabilizantes (goma garrofín, goma guar, carragenanos), colorante (complejos cúpricos de clorofilas y clorofilinas), aroma.TROCITOS SABOR A CHOCOLATE (12%). Ingredientes: azúcar, cacao desgrasado, grasa vegetal de coco, grasa  vegetal de coco totalmente hidrogenada, emulgente (lecitina de <strong>soja</strong>), sal, aroma. Trazas de <strong>frutos de cáscara</strong>."
+  },
+  "origin": null,
+  "packaging": "Bote",
+  "photos": [
+    {
+      "perspective": 3,
+      "regular": "https://prod-mercadona.imgix.net/images/69038aac18599b8a2cebd685dec2484b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/69038aac18599b8a2cebd685dec2484b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/69038aac18599b8a2cebd685dec2484b.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/425b975cd4e798ac895d593c0499ad69.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/425b975cd4e798ac895d593c0499ad69.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/425b975cd4e798ac895d593c0499ad69.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "6.000",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.00",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/64464/helado-menta-choco-con-trocitos-sabor-chocolate-hacendado-bote",
+  "slug": "helado-menta-choco-con-trocitos-sabor-chocolate-hacendado-bote",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/69038aac18599b8a2cebd685dec2484b.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

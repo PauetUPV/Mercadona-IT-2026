@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Comportillo",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 563,
+              "level": 2,
+              "name": "Rioja",
+              "order": 15
+            }
+          ],
+          "id": 169,
+          "level": 1,
+          "name": "Vino tinto",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Comportillo",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Vino tinto cosecha Comportillo DO Rioja",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "VINO TINTO",
+    "mandatory_mentions": "APTO PARA VEGANOS",
+    "origin": "DO Calificada Rioja",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y protegido de la luz solar.",
+    "suppliers": [
+      {
+        "name": "BODEGAS ONTAÑÓN S.L."
+      }
+    ],
+    "usage_instructions": "Temperatura de servicio: Consumire entre 9-12C."
+  },
+  "display_name": "Vino tinto cosecha Comportillo DO Rioja",
+  "ean": "8411767164133",
+  "extra_info": [
+    ""
+  ],
+  "id": "67112",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "DO Rioja",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>dióxido de azufre y sulfitos</strong>.",
+    "ingredients": "Uva, correctores de la acidez (ácido Tartárico[L(+)], ácido láctico), conservadores y antioxidantes (a<strong>nhídrido sulfuroso, metabisulfito de potasio,</strong> ácido L-ascórbico), agentes estabilizantes (ácido metatartárico, poliaspartato de potasio, goma arábiga)."
+  },
+  "origin": "DO Calificada Rioja",
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/37cee88fdb1f8acf5ce187976bf372b1.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/37cee88fdb1f8acf5ce187976bf372b1.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/37cee88fdb1f8acf5ce187976bf372b1.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/1b3ab214b4f3712e7fc41dcbd49e21fb.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1b3ab214b4f3712e7fc41dcbd49e21fb.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1b3ab214b4f3712e7fc41dcbd49e21fb.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.67",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "3.667",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.75",
+    "unit_selector": true,
+    "unit_size": 0.75
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/67112/vino-tinto-do-rioja-comportillo-cosecha-botella",
+  "slug": "vino-tinto-do-rioja-comportillo-cosecha-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/37cee88fdb1f8acf5ce187976bf372b1.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

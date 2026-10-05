@@ -1,0 +1,107 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Deliplus",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 597,
+              "level": 2,
+              "name": "Crema de cara",
+              "order": 241
+            }
+          ],
+          "id": 185,
+          "level": 1,
+          "name": "Cuidado e higiene facial",
+          "order": 241
+        }
+      ],
+      "id": 20,
+      "level": 0,
+      "name": "Cuidado facial y corporal",
+      "order": 241
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Deliplus",
+    "counter_info": null,
+    "danger_mentions": null,
+    "description": "Crema facial fluida noche Deliplus aclarante anti-manchas todo tipo de piel",
+    "legal_name": null,
+    "mandatory_mentions": null,
+    "origin": null,
+    "production_variant": null,
+    "storage_instructions": null,
+    "suppliers": [],
+    "usage_instructions": null
+  },
+  "display_name": "Crema facial fluida noche Deliplus aclarante anti-manchas",
+  "ean": "8402001037993",
+  "extra_info": [
+    ""
+  ],
+  "id": "16331",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": null
+  },
+  "origin": null,
+  "packaging": "Bote",
+  "photos": [
+    {
+      "perspective": 10,
+      "regular": "https://prod-mercadona.imgix.net/images/bd38e6c3c8875cfe010f9532dba042d4.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/bd38e6c3c8875cfe010f9532dba042d4.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/bd38e6c3c8875cfe010f9532dba042d4.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/99c9cd1f4163803ffa056181d7670383.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/99c9cd1f4163803ffa056181d7670383.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/99c9cd1f4163803ffa056181d7670383.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "120.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "100 ml",
+    "reference_price": "12.000",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "6.00",
+    "unit_selector": true,
+    "unit_size": 0.05
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/16331/crema-facial-fluida-noche-deliplus-aclarante-anti-manchas-tipo-piel-bote",
+  "slug": "crema-facial-fluida-noche-deliplus-aclarante-anti-manchas-tipo-piel-bote",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/bd38e6c3c8875cfe010f9532dba042d4.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

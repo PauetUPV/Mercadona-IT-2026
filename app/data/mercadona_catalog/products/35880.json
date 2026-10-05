@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Deliplus",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 685,
+              "level": 2,
+              "name": "Fitoterapia",
+              "order": 305
+            }
+          ],
+          "id": 213,
+          "level": 1,
+          "name": "Fitoterapia",
+          "order": 305
+        }
+      ],
+      "id": 23,
+      "level": 0,
+      "name": "Fitoterapia y parafarmacia",
+      "order": 305
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Deliplus",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Cápsulas Gases Deliplus contiene hinojo, manzanilla y jengibre",
+    "legal_name": "Complemento alimenticio elaborado a base de Especies vegetales.",
+    "mandatory_mentions": "Nutrientes e ingredientes y cantidad por día (2 cápsulas): Hinojo extracto seco (250 mg), Manzanilla extracto seoc (150 mg), Cilantro extracto seco (100 mg), Jengibre extracto seco (60 mg).",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Ambiente seco y fresco.",
+    "suppliers": [
+      {
+        "name": "LABORATORIOS YNSADIET S.A."
+      }
+    ],
+    "usage_instructions": "Tomar 2 cápsulas al día, 1 cápsula después de la comida y otra después de la cena."
+  },
+  "display_name": "Cápsulas Gases Deliplus",
+  "ean": "8402001012006",
+  "extra_info": [
+    ""
+  ],
+  "id": "35880",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Almidón de maíz, Hinojo extracto seco (Foeniculum vulgare, semilla), gelatina*, Manzanilla extracto seco (Matricaria recutita, hierba y/o flores), Cilantro  Extracto seco (Coriandrum sativum, Fruto) Agente de carga (Celulosa), Jengibre extracto seco (Zingiber  officinale, rizoma),  Antiaglomerantes (Silicato de magnesio, Sales  magnésicas de ácidos grasos, Dióxido de silicio). *Componentes de la cubierta de la cápsula"
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/b8b1e45df6e352e52bc971a7a76c7eff.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b8b1e45df6e352e52bc971a7a76c7eff.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b8b1e45df6e352e52bc971a7a76c7eff.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/84b8a2ded40ae71516de77fb2d39b915.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/84b8a2ded40ae71516de77fb2d39b915.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/84b8a2ded40ae71516de77fb2d39b915.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "0.15",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "0.150",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 30,
+    "unit_name": "cápsulas",
+    "unit_price": "4.50",
+    "unit_selector": true,
+    "unit_size": 0.01695
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/35880/capsulas-gases-deliplus-contiene-hinojo-manzanilla-jengibre-elaborado-base-especies-vegetales-caja",
+  "slug": "capsulas-gases-deliplus-contiene-hinojo-manzanilla-jengibre-elaborado-base-especies-vegetales-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/b8b1e45df6e352e52bc971a7a76c7eff.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

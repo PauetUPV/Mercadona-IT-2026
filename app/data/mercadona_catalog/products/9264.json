@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 355,
+              "level": 2,
+              "name": "Cereales",
+              "order": 18
+            }
+          ],
+          "id": 78,
+          "level": 1,
+          "name": "Cereales",
+          "order": 18
+        }
+      ],
+      "id": 7,
+      "level": 0,
+      "name": "Cereales y galletas",
+      "order": 18
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Cereales rellenos de leche Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "CEREALES DE ARROZ, TRIGO Y AVENA  EXTRUSIONADOS Y CHOCOLATEADOS RELLENOS CON LECHE",
+    "mandatory_mentions": "",
+    "origin": "Francia",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco, seco y protegido de la luz.",
+    "suppliers": [
+      {
+        "name": "Dailycer S.A.S."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Cereales rellenos de leche Hacendado",
+  "ean": "3353154103491",
+  "extra_info": [
+    null
+  ],
+  "id": "9264",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>sw</strong>. Contiene <strong>go</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Puede contener <strong>frutos de cáscara</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Cereales (43%) (sémola de arroz, harina de <strong>trigo</strong> integral (<strong>gluten</strong>), harina de <strong>trigo</strong> (<strong>gluten</strong>), harina de <strong>avena</strong> (<strong>gluten</strong>)), relleno de <strong>leche</strong> (40%) (<strong>leche</strong> entera en polvo (13%), azúcar, aceite y grasas vegetales (girasol refinado, nabina refinado, palma, coco) en proporciones variables, <strong>leche</strong> desnatada en polvo (2%), suero <strong>lácteo</strong> en polvo (<strong>leche</strong>), emulgente: lecitinas, antioxidante: extracto rico en tocoferoles), chocolate en polvo (11%) (azúcar, cacao en polvo), azúcar, <strong>leche</strong> entera en polvo, sal. <strong>Puede contener trazas de soja y frutos de cáscara</strong>."
+  },
+  "origin": "Francia",
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/f28fce2e1849905d03b85683e4407734.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f28fce2e1849905d03b85683e4407734.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f28fce2e1849905d03b85683e4407734.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/92ea85dbd9bca5e66041f905f359d1ef.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/92ea85dbd9bca5e66041f905f359d1ef.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/92ea85dbd9bca5e66041f905f359d1ef.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.80",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "4.800",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.40",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/9264/cereales-rellenos-leche-hacendado-caja",
+  "slug": "cereales-rellenos-leche-hacendado-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/f28fce2e1849905d03b85683e4407734.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 289,
+              "level": 2,
+              "name": "Arreglos",
+              "order": 17
+            }
+          ],
+          "id": 46,
+          "level": 1,
+          "name": "Arreglos",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Hueso blanco de cerdo salado",
+    "legal_name": "Hueso blanco salado",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "El producto se mantendrá en lugar fresco y seco. Recomendado entre 0ºC y 15ºC.",
+    "suppliers": [
+      {
+        "name": "Embutidos Moreno Plaza, S.A."
+      }
+    ],
+    "usage_instructions": "Desalar en agua al menos durante 2 horas antes de su cocinado completo."
+  },
+  "display_name": "Hueso blanco de cerdo salado",
+  "ean": "2105100018929",
+  "extra_info": [
+    null
+  ],
+  "id": "1892",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Hueso de cerdo y sal"
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/a130e788eeb23455464b28c63c6210c6.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a130e788eeb23455464b28c63c6210c6.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a130e788eeb23455464b28c63c6210c6.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/a25c44ddc67d9de1e0a56dccfce9d6e3.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a25c44ddc67d9de1e0a56dccfce9d6e3.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a25c44ddc67d9de1e0a56dccfce9d6e3.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "5.40",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.400",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.89",
+    "unit_selector": true,
+    "unit_size": 0.35
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/1892/hueso-blanco-cerdo-salado-bandeja",
+  "slug": "hueso-blanco-cerdo-salado-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/a130e788eeb23455464b28c63c6210c6.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

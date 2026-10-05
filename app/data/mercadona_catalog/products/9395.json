@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 441,
+              "level": 2,
+              "name": "Arroz",
+              "order": 10
+            }
+          ],
+          "id": 118,
+          "level": 1,
+          "name": "Arroz",
+          "order": 10
+        }
+      ],
+      "id": 13,
+      "level": 0,
+      "name": "Arroz, legumbres y pasta",
+      "order": 10
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Cous cous mediano Hacendado",
+    "legal_name": "Cous cous mediano",
+    "mandatory_mentions": "Puede contener trazas de soja.",
+    "origin": "Italia",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "BIA S.p.A."
+      }
+    ],
+    "usage_instructions": "Vertir en un recipiente la cantidad deseada de cous cous (aproximadamente 60 gr por ración). Calentar el mismo volumen de agua retirando la olla del fuego antes de que rompa a hervir el agua. Agregar el agua al recipiente con el cous cous y tapar para que se hidrate. Dejar reposar unos minutos hasta que el cous cous alcance la consistencia deseada. Agregar sal y un poco de aceite de oliva desgranando el cous cous con un tenedor."
+  },
+  "display_name": "Cous cous mediano Hacendado",
+  "ean": "8011033012108",
+  "extra_info": [
+    ""
+  ],
+  "id": "9395",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Sémola de <strong>trigo</strong> duro, agua. Contiene <strong>gluten</strong>. Puede contener trazas de <strong>soja</strong>"
+  },
+  "origin": "Italia",
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/ab155e76bb3242671ee34c6e11d4fd78.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ab155e76bb3242671ee34c6e11d4fd78.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ab155e76bb3242671ee34c6e11d4fd78.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/f21a37c42e6784eba0cf50ac398d66e6.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f21a37c42e6784eba0cf50ac398d66e6.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f21a37c42e6784eba0cf50ac398d66e6.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.95",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "1.950",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.95",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/9395/cous-cous-mediano-bia-caja",
+  "slug": "cous-cous-mediano-bia-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/ab155e76bb3242671ee34c6e11d4fd78.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

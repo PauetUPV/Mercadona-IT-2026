@@ -1,0 +1,140 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 518,
+              "level": 2,
+              "name": "Tartas",
+              "order": 213
+            }
+          ],
+          "id": 152,
+          "level": 1,
+          "name": "Tartas y churros",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 336,
+              "level": 2,
+              "name": "Tartas",
+              "order": 515
+            }
+          ],
+          "id": 68,
+          "level": 1,
+          "name": "Tartas y pasteles",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Tarta de queso Hacendado congelada",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "TARTA DE QUESO 880g. Producto de pasteleria congelado.",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "CONDICIONES DE CONSERVACIÓN: Mantener la cadena de frío a -18 C. Producto congelado. Al descongelar, conservar un máximo de 5 días en nevera. No volver a congelar una vez descongelado.",
+    "suppliers": [
+      {
+        "name": "GRUPO EMPRESARIAL PALACIOS ALIMENTACION S.A.U"
+      }
+    ],
+    "usage_instructions": "DESCONGELACIÓN: Descongelar en refrigeración (4ºC y 6ºC) durante 12 horas; para un consumo óptimo de la tarta se aconseja mantener a temperatura ambiente 30 minutos antes de su consumo. Descongelar a temperatura ambiente (20-24ºC) durante 8 horas."
+  },
+  "display_name": "Tarta de queso Hacendado congelada",
+  "ean": "8480000096418",
+  "extra_info": [
+    ""
+  ],
+  "id": "9641",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Libre de <strong>pescado y productos a base de pescado</strong>. Libre de <strong>trigo y productos derivados</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Puede contener <strong>sw</strong>. Contiene <strong>ml</strong>. Libre de <strong>gs</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Libre de <strong>cereales que contengan gluten</strong>. Puede contener <strong>dióxido de azufre y sulfitos</strong>. Libre de <strong>cacahuetes y productos a base de cacahuetes</strong>. Puede contener <strong>frutos de cáscara</strong>.",
+    "ingredients": "INGREDIENTES: Queso crema (43%) [Cuajada de queso (<strong>LECHE</strong>), proteínas de <strong>LECHE</strong>, <strong>LECHE</strong> desnatada en polvo, aroma natural (contiene <strong>LECHE</strong>), sal, espesantes (goma garrofín, goma guar), regulador de la acidez (ácido cítrico)], <strong>NATA</strong> (<strong>LECHE</strong>) pasteurizada, azúcar, <strong>HUEVO</strong> pasteurizado, almidón de maíz, producto de pastelería [azúcar, almidón modificado (fosfato de dialmidón acetilado), gelatina, suero de <strong>LECHE</strong> en polvo, dextrosa], sal.<strong>Puede contener soja, frutos de cáscara y sulfitos</strong>."
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 10,
+      "regular": "https://prod-mercadona.imgix.net/images/3b8d87796e76adc7b248bacfbe25d62b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3b8d87796e76adc7b248bacfbe25d62b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3b8d87796e76adc7b248bacfbe25d62b.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/686c829f03cbd91b15a3f1b8de8e2c8d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/686c829f03cbd91b15a3f1b8de8e2c8d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/686c829f03cbd91b15a3f1b8de8e2c8d.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/c51bacadeb2c207109cfd912191fd83c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c51bacadeb2c207109cfd912191fd83c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c51bacadeb2c207109cfd912191fd83c.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "11.36",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "11.364",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 10,
+    "unit_name": "raciones",
+    "unit_price": "10.00",
+    "unit_selector": true,
+    "unit_size": 0.88
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/9641/tarta-queso-hacendado-congelada",
+  "slug": "tarta-queso-hacendado-congelada",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/3b8d87796e76adc7b248bacfbe25d62b.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,122 @@
+{
+  "badges": {
+    "is_water": true,
+    "requires_age_check": false
+  },
+  "brand": "Nestlé Aquarel",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 525,
+              "level": 2,
+              "name": "Agua sin gas",
+              "order": 8
+            }
+          ],
+          "id": 156,
+          "level": 1,
+          "name": "Agua",
+          "order": 8
+        }
+      ],
+      "id": 18,
+      "level": 0,
+      "name": "Agua y refrescos",
+      "order": 8
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Nestlé Aquarel",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Agua mineral grande Nestlé Aquarel mineralización muy débil",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Agua Mineral Natural",
+    "mandatory_mentions": "Indicada para dietas pobres en sodio. Agua mineral natural de mineralización MUY DÉBIL (manantial Jaras). Agua mineral natural de mineralización DÉBIL (manantial Aquarel Avets)",
+    "origin": "Manantial AQUAREL AVETS y Manantial LAS JARAS",
+    "production_variant": "",
+    "storage_instructions": "Proteger de la luz solar. Conservar en un lugar fresco, seco y apartado de olores intensos. Una vez abierto mantener en frío y consumir en los 2-3 días siguientes a su apertura. Evitar contacto directo con el suelo. Por su seguridad, no reutilizar esta botella.",
+    "suppliers": [
+      {
+        "name": "AQUAREL IBERICA S.A."
+      },
+      {
+        "name": "NESTLÉ ESPAÑA, S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Agua mineral grande Nestlé Aquarel",
+  "ean": "3700123300014",
+  "extra_info": [
+    ""
+  ],
+  "id": "27232",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Manantial AQUAREL AVETS:<p>Bicarbonato (137 mg/L), Calcio (37,7 mg/L), Sodio (10mg/L), Magnesio (6,9 mg/L), Sulfato (12,5 mg/L), Cloruro (9,1 mg/L), Residuo Seco a 180º (165 mg/L).<p>Manantial LAS JARAS:<p>Bicarbonato (13,2 mg/L), Calcio (2,2 mg/L), Sodio (4,7 mg/L), Magnesio (2,3 mg/L), Sulfato (3,7 mg/L), Cloruro (6,8 mg/L), Residuo Seco a 180º (40 mg/L)"
+  },
+  "origin": "Manantial AQUAREL AVETS y Manantial LAS JARAS",
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/271842cd61ddc0fc2672b2f27411ae55.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/271842cd61ddc0fc2672b2f27411ae55.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/271842cd61ddc0fc2672b2f27411ae55.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/ec4533268c312f7938e5c8f7904368db.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ec4533268c312f7938e5c8f7904368db.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ec4533268c312f7938e5c8f7904368db.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/2d4899b4810f736e4ee2a2f2585bc58d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/2d4899b4810f736e4ee2a2f2585bc58d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/2d4899b4810f736e4ee2a2f2585bc58d.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "0.43",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "0.427",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.64",
+    "unit_selector": true,
+    "unit_size": 1.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/27232/agua-mineral-grande-nestle-aquarel-mineralizacion-muy-debil-botella",
+  "slug": "agua-mineral-grande-nestle-aquarel-mineralizacion-muy-debil-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/271842cd61ddc0fc2672b2f27411ae55.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

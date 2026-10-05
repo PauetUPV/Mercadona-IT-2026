@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 335,
+              "level": 2,
+              "name": "Pastelitos surtidos",
+              "order": 515
+            }
+          ],
+          "id": 66,
+          "level": 1,
+          "name": "Bollería envasada",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Rosquilla de cacao Caocream Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "PRODUCTO DE PASTELERIA",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Consérvese en lugar fresco y seco. No exponer el producto directamente bajo la luz solar.",
+    "suppliers": [
+      {
+        "name": "M&C Bakery"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Rosquilla de cacao Caocream Hacendado",
+  "ean": "8402001046025",
+  "extra_info": [
+    ""
+  ],
+  "id": "21472",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "Cobertura blanca (35%) [azúcar, grasa vegetal totalmente hidrogenada (palmiste), suero de <strong>leche</strong> en polvo, <strong>leche</strong> en polvo, grasa vegetal (palma), emulgentes (lecitina de girasol, E472c), conservador (ácido sórbico), aromas], jarabe de glucosa y fructosa, harina de <strong>trigo</strong> (<strong>gluten</strong>), azúcar, <strong>huevo</strong> líquido pasteurizado, aceite refinado de girasol, agua, galleta (2%)[harina de <strong>trigo</strong> (<strong>gluten</strong>), azúcar, aceite refinado de palma, cacao desgrasado en polvo (8,5%)[correctores de acidez (E500i, E501ii)], jarabe de glucosa, sal, aroma, gasificante (500ii)], cacao desgrasado en polvo (1%) [correctores de acidez (E500, E501)], sal, acidulante (E330), conservador (ácido sórbico), emulgentes (E471, E477, E470a, E1520), espesante (goma xantana), gasificantes (E450i, carbonatos de sodio), humectante (sorbitoles), aromas. <strong>Puede contener trazas de mostaza, soja y frutos de cáscara.</strong>"
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/8ab5125577104b1683c3c370a1d391b2.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8ab5125577104b1683c3c370a1d391b2.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8ab5125577104b1683c3c370a1d391b2.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/7fbec2a682a09ec16117af1b02245a76.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7fbec2a682a09ec16117af1b02245a76.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7fbec2a682a09ec16117af1b02245a76.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "5.75",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.750",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.30",
+    "unit_selector": true,
+    "unit_size": 0.052
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/21472/rosquilla-cacao-caocream-hacendado",
+  "slug": "rosquilla-cacao-caocream-hacendado",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/8ab5125577104b1683c3c370a1d391b2.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

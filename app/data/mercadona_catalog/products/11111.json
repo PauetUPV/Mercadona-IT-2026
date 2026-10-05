@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Nescafé",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 370,
+              "level": 2,
+              "name": "Café soluble",
+              "order": 16
+            }
+          ],
+          "id": 84,
+          "level": 1,
+          "name": "Café soluble y otras bebidas",
+          "order": 16
+        }
+      ],
+      "id": 8,
+      "level": 0,
+      "name": "Cacao, café e infusiones",
+      "order": 16
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Nescafé",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Café soluble natural Nescafé classic",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Café soluble",
+    "mandatory_mentions": "Envasado en atmósfera protectora",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Una vez abierto, se recomienda consumir antes de 6 semanas",
+    "suppliers": [
+      {
+        "name": "Nestlé España, S.A."
+      }
+    ],
+    "usage_instructions": "Para su preparación recomendamos poner 2 cucharaditas de café en una taza y añadir agua o leche."
+  },
+  "display_name": "Café soluble natural Nescafé classic",
+  "ean": "5601001322808",
+  "extra_info": [
+    ""
+  ],
+  "id": "11111",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "classic",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Café soluble"
+  },
+  "origin": "España",
+  "packaging": "Tarro",
+  "photos": [
+    {
+      "perspective": 3,
+      "regular": "https://prod-mercadona.imgix.net/images/13548035d0ab45a58cd02f528213b994.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/13548035d0ab45a58cd02f528213b994.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/13548035d0ab45a58cd02f528213b994.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/c298a0dfc539a0a87956213800432526.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c298a0dfc539a0a87956213800432526.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c298a0dfc539a0a87956213800432526.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "54.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "54.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "5.40",
+    "unit_selector": true,
+    "unit_size": 0.1
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/11111/cafe-soluble-natural-nescafe-classic-tarro",
+  "slug": "cafe-soluble-natural-nescafe-classic-tarro",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/13548035d0ab45a58cd02f528213b994.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

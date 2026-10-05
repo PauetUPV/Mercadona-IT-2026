@@ -1,0 +1,122 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 474,
+              "level": 2,
+              "name": "Patatas fritas",
+              "order": 9
+            }
+          ],
+          "id": 132,
+          "level": 1,
+          "name": "Patatas fritas y snacks",
+          "order": 9
+        }
+      ],
+      "id": 15,
+      "level": 0,
+      "name": "Aperitivos",
+      "order": 9
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Patatas fritas clásicas Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Patatas fritas",
+    "mandatory_mentions": "Envasado en atmósfera protectora.",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Consérvese en lugar fresco y seco. Una vez abierto el envase, conservarlo cerrado y consumir el producto preferentemente en el plazo de una semana.",
+    "suppliers": [
+      {
+        "name": "CYL IBERSNACKS S.L."
+      },
+      {
+        "name": "CYL Ibersnacks S.L."
+      },
+      {
+        "name": "GESPIPAFRI, SL"
+      },
+      {
+        "name": "RUBIO SNACKS, S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Patatas fritas clásicas Hacendado",
+  "ean": "8402001001550",
+  "extra_info": [
+    ""
+  ],
+  "id": "22245",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Patata, aceite de girasol (30%)* y sal. (*) El aceite de girasol representa el 30% del peso del producto. <strong>Contiene trazas de leche. Sin gluten.</strong>"
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/daa5379864f490d809e6272ea964a119.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/daa5379864f490d809e6272ea964a119.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/daa5379864f490d809e6272ea964a119.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/5c4964ea218ae2408ee4551674f01bb7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5c4964ea218ae2408ee4551674f01bb7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5c4964ea218ae2408ee4551674f01bb7.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.15,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 2,
+    "unit_name": "bolsas",
+    "unit_price": "1.80",
+    "unit_selector": true,
+    "unit_size": 0.3
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/22245/patatas-fritas-clasicas-hacendado-pack-2",
+  "slug": "patatas-fritas-clasicas-hacendado-pack-2",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/daa5379864f490d809e6272ea964a119.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

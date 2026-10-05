@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Valor",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 382,
+              "level": 2,
+              "name": "Chocolate negro",
+              "order": 11
+            }
+          ],
+          "id": 92,
+          "level": 1,
+          "name": "Chocolate",
+          "order": 11
+        }
+      ],
+      "id": 9,
+      "level": 0,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Valor",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Chocolate puro Valor con almendras enteras",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Chocolate con almendras (almendras 25%, cacao 52% mínimo)",
+    "mandatory_mentions": "Vegano. Advertencia: Este producto contiene almendras enteras y presenta un riesgo de atragantamiento para niños pequeños.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco, alejado de olores.",
+    "suppliers": [
+      {
+        "name": "Chocolates Valor S.A."
+      },
+      {
+        "name": "Chocolates Valor,S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Chocolate puro Valor con almendras enteras",
+  "ean": "8410109000085",
+  "extra_info": [
+    null
+  ],
+  "id": "12130",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "con almendras enteras",
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>sh</strong>. Contiene <strong>sa</strong>. Contiene <strong>soja y productos a base de soja</strong>. Puede contener <strong>frutos de cáscara</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Azúcar, pasta de cacao, <strong>almendras</strong> (25%), manteca de cacao, emulgente: lecitina (<strong>soja</strong>), aroma. Puede contener: <strong>leche</strong> y otros <strong>frutos de cáscara</strong>. Cacao: 52% mínimo. Sin gluten."
+  },
+  "origin": null,
+  "packaging": "Tableta",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/ead7ea5732f3e057832087a856597100.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ead7ea5732f3e057832087a856597100.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ead7ea5732f3e057832087a856597100.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/14fe034f8093ec82a8aef1fc91aa72ca.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/14fe034f8093ec82a8aef1fc91aa72ca.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/14fe034f8093ec82a8aef1fc91aa72ca.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "15.80",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": "        4.95",
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "15.800",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.95",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/12130/chocolate-puro-valor-con-almendras-enteras-tableta",
+  "slug": "chocolate-puro-valor-con-almendras-enteras-tableta",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/ead7ea5732f3e057832087a856597100.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

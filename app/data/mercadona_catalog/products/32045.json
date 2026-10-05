@@ -1,0 +1,114 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 339,
+              "level": 2,
+              "name": "Levadura y preparado repostería",
+              "order": 515
+            }
+          ],
+          "id": 69,
+          "level": 1,
+          "name": "Harina y preparado repostería",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Preparado en polvo flan Hacendado 8 raciones contiene azúcar y caramelo líquido",
+    "legal_name": "Preparado para hacer flan con azúcar y caramelo líquido",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Fabricado por: Jesús Navarro S.A."
+      },
+      {
+        "name": "JESÚS NAVARRO, S.A."
+      }
+    ],
+    "usage_instructions": "Olla: 1. Cubrir 4 moldes con el caramelo líquido. 2. Mezclar 500 ml de leche y 1 sobre de flan. 3. Calentar y remover hasta que comience a hervir. 4. Rellenar los 4 moldes y conservar en el frigorífico. Microondas: 1. Cubrir 4 moldes con el caramelo líquido. 2. 250 ml de leche y 1 sobre de flan en el microondas a 600 w de potencia. 3. Añadir 250 ml de leche y remover. Calentar hasta que comience a hervir. 4. Rellenar los 4 moldes y conservar en el frigorífico."
+  },
+  "display_name": "Preparado en polvo flan Hacendado",
+  "ean": "8480000320452",
+  "extra_info": [
+    null
+  ],
+  "id": "32045",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>FLAN: azúcar (66,7 %), espesante (carragenano), aromas, aceite refinado de girasol y colorantes (E160b (ii) y curcumina). CARAMELO (31,5 %): azúcar, jarabe de glucosa, agua, colorante (caramelo natural), acidulante (ácido cítrico) y conservador (sorbato potásico). Sin gluten"
+  },
+  "origin": "España",
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/a7d971db68a9f6760380fac9a71ac962.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a7d971db68a9f6760380fac9a71ac962.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a7d971db68a9f6760380fac9a71ac962.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/4f2246358cd61861a14b9482969c39c2.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4f2246358cd61861a14b9482969c39c2.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4f2246358cd61861a14b9482969c39c2.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "7.37",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.369",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.40",
+    "unit_selector": true,
+    "unit_size": 0.19
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/32045/preparado-polvo-flan-hacendado-8-raciones-contiene-azucar-caramelo-liquido-caja",
+  "slug": "preparado-polvo-flan-hacendado-8-raciones-contiene-azucar-caramelo-liquido-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/a7d971db68a9f6760380fac9a71ac962.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

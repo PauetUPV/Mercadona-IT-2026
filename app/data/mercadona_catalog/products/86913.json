@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 821,
+              "level": 2,
+              "name": "Galletas desayuno",
+              "order": 18
+            }
+          ],
+          "id": 80,
+          "level": 1,
+          "name": "Galletas",
+          "order": 18
+        }
+      ],
+      "id": 7,
+      "level": 0,
+      "name": "Cereales y galletas",
+      "order": 18
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Galletas tostadas Animadas Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "ANIMADAS.  GALLETA TOSTADA",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco, seco y protegido de la luz.",
+    "suppliers": [
+      {
+        "name": "CEREALTO FOODS CORPORATE S.L.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Galletas tostadas Animadas Hacendado",
+  "ean": "8402001034268",
+  "extra_info": [
+    ""
+  ],
+  "id": "86913",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>dióxido de azufre y sulfitos</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Harina de <strong>trigo</strong> (<strong>gluten</strong>), azúcar, aceite de girasol alto oleico (14%), suero de <strong>leche</strong> en polvo, jarabe de glucosa, almidón de arroz, sal, colorante (caramelo amónico), gasificantes (carbonatos de amonio, carbonatos de sodio), emulgente (lecitina de girasol), aromas (<strong>leche</strong>), antioxidante (<strong>metabisulfito</strong> sódico). <strong>Puede contener trazas de soja y mostaza</strong>***** / / / / / A PARTIR DEL LOTE L016124022000 Y FCP 04/02/2027 HAY UN CAMBIO DE ETIQUETADO / / / / / *****Harina de <strong>trigo</strong> (<strong>gluten</strong>), azúcar, aceite refinado de girasol alto oleico, suero de <strong>leche</strong> en polvo, jarabe de glucosa, almidón de arroz, sal, colorante (caramelo amónico), gasificantes (carbonatos de amonio, carbonatos de sodio), emulgente (lecitina de girasol), aromas (<strong>leche</strong>), antioxidante (<strong>metabisulfito</strong> sódico). <strong>Puede contener trazas de soja y mostaza.</strong>"
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/214e3ad5e609ed46993451f20e561f8b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/214e3ad5e609ed46993451f20e561f8b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/214e3ad5e609ed46993451f20e561f8b.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/43fc682f0af97f785900fdaf7696e946.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/43fc682f0af97f785900fdaf7696e946.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/43fc682f0af97f785900fdaf7696e946.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.25",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "2.250",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 4,
+    "unit_name": "ud.",
+    "unit_price": "1.80",
+    "unit_selector": true,
+    "unit_size": 0.8
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/86913/galletas-tostadas-animadas-hacendado-paquete",
+  "slug": "galletas-tostadas-animadas-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/214e3ad5e609ed46993451f20e561f8b.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

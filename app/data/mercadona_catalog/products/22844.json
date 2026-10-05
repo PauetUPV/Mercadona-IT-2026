@@ -1,0 +1,109 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 317,
+              "level": 2,
+              "name": "Pan de bocadillo",
+              "order": 515
+            }
+          ],
+          "id": 59,
+          "level": 1,
+          "name": "Pan de horno",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": "Ingredientes: Harina de trigo, agua, aceite vegetal (nabina), levadura, sal, gluten de trigo, harina de cebada malteada, preparado a base de harina de arroz con sal (harina de arroz, sal, grasa vegetal totalmente hidrogenada (nabina), aceite de nabina)), azúcar, harina de trigo malteado, almidón de trigo, agente de tratamiento de la harina (e - 300), corrector de acidez (e - 524).\n\nAlérgenos: trigo, gluten, cebada.\n\nPuede contener trazas de: Altramuces, Soja, Leche y sus derivados (incluida lactosa), Huevo, Mostaza, Frutos de cáscara y derivados, Moluscos, Pescado, Sésamo, Crustáceos, Apio, Cacahuetes, Sulfitos.\n\nProducto preparado por Mercadona, S.A. (C/ Alfonso Roig Alfonso, s/n. Albalat dels Sorells 46135, Valencia).",
+    "danger_mentions": "",
+    "description": "Pan Bretzel",
+    "is_prepared_by_mercadona": true,
+    "legal_name": "Brezel con corte, totalmente horneado, ultracongelado, con sal por encima",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conserve el producto a -18 ºC. Una vez descongelado, no volver a congelar.",
+    "suppliers": [
+      {
+        "name": "BREZELBÄCKEREI DITSCH GMBH"
+      },
+      {
+        "name": "Ditsch"
+      }
+    ],
+    "usage_instructions": "Descongele el pretzel o caléntelo durante 3 o 4 minutos a unos 180 ºC en un horno de convección"
+  },
+  "display_name": "Pan Bretzel",
+  "ean": "8480000228444",
+  "extra_info": [
+    null
+  ],
+  "id": "22844",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>gb</strong>.",
+    "ingredients": "<p>Harina de TRIGO, agua, aceite vegetal (nabina), levadura, sal, gluten de TRIGO, harina de CEBADA malteada, preparado a base de harina de arroz con sal (harina de arroz, sal, grasa vegetal totalmente hidrogenada (nabina), aceite de nabina), azúcar, harina de TRIGO malteado, almidón deTRIGO, agente de tratamiento de la harina (E - 300), corrector de acidez (E - 524)."
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/01babf5a4275066db4bff5d25fd47fa0.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/01babf5a4275066db4bff5d25fd47fa0.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/01babf5a4275066db4bff5d25fd47fa0.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "10.53",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "10.527",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 1,
+    "unit_name": "ud.",
+    "unit_price": "1.00",
+    "unit_selector": true,
+    "unit_size": 0.095
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/22844/pan-bretzel",
+  "slug": "pan-bretzel",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/01babf5a4275066db4bff5d25fd47fa0.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

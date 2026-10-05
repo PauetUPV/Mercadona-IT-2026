@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 409,
+              "level": 2,
+              "name": "Bífidus de sabores",
+              "order": 598
+            }
+          ],
+          "id": 105,
+          "level": 1,
+          "name": "Bífidus",
+          "order": 598
+        }
+      ],
+      "id": 11,
+      "level": 0,
+      "name": "Postres y yogures",
+      "order": 598
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Bífidus cremoso con coco probióticos Hacendado",
+    "legal_name": "Leche fermentada azucarada con bífidus y con coco.",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en frío entre 1C y 8C.",
+    "suppliers": [
+      {
+        "name": "Lacteos de Navarra, S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Bífidus cremoso con coco probióticos Hacendado",
+  "ean": "8402001023477",
+  "extra_info": [
+    ""
+  ],
+  "id": "67977",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>frutos de cáscara</strong>.",
+    "ingredients": "<strong>Leche</strong> parcialmente desnatada (Origen de la leche: España), azúcar, <strong>leche</strong> desnatada en polvo, crema de coco (1%), aroma, bifidobacterias y fermentos <strong>lácticos</strong>. Puede contener trazas de <strong>soja</strong> y <strong>frutos de cáscara</strong>."
+  },
+  "origin": "España",
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/65a35052afa3735c3a25383694d93c5d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/65a35052afa3735c3a25383694d93c5d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/65a35052afa3735c3a25383694d93c5d.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/f08e28ece240992197f90602763d48f9.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f08e28ece240992197f90602763d48f9.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f08e28ece240992197f90602763d48f9.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.60",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.125,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "2.600",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 4,
+    "unit_name": "ud.",
+    "unit_price": "1.30",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/67977/bifidus-cremoso-probiotico-con-coco-hacendado-pack-4",
+  "slug": "bifidus-cremoso-probiotico-con-coco-hacendado-pack-4",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/65a35052afa3735c3a25383694d93c5d.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 338,
+              "level": 2,
+              "name": "Masas",
+              "order": 515
+            }
+          ],
+          "id": 69,
+          "level": 1,
+          "name": "Harina y preparado repostería",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Masa de hojaldre sin gluten Hacendado",
+    "legal_name": "Masa de hojaldre sin gluten",
+    "mandatory_mentions": "No congelar - No hornear microondas - No consumir antes de la cocción. Envasado en atmósfera protectora. Sin gluten.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 0 a +6C.",
+    "suppliers": [
+      {
+        "name": "Cérélia"
+      }
+    ],
+    "usage_instructions": "Precalentar el horno a 200ºC (th. 6-7) unos 10 minutos. / Sacar la masa de us envoltorio y luego dejarla a temperatura ambiente 5 min. / Estirar la masa con su papel de cocción en un molde de metal de 28 cm de diámetro. / Rellenar la masa con ingredientes dulces o salados al gusto. / Colocar el pastel en la parte inferior del horno, en una parrilla. / Hornear 20 a 30 minutos a 200ºC (Th. 6-7) aproximadamente hasta que la masa esté dorada. / Dejar enfriar el pastel antes de cortarlo."
+  },
+  "display_name": "Masa de hojaldre sin gluten Hacendado",
+  "ean": "8480000636577",
+  "extra_info": [
+    null
+  ],
+  "id": "63657",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Agua, almidón de maíz, aceites vegetales y grasas (de palma, semilla de nabina), harina de arroz, harina de guisantes, fibras  vegetales (patata, arroz, guisantes, llantén, psyllium), espesante: goma de xantano, E464, alcohol, sal, harina de trigo sarraceno, sabor natural, agente de tratamiento de la hariana (transglutaminasa), ácido cítrico."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/ea237d03af34736621e3320dc8b15e7a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ea237d03af34736621e3320dc8b15e7a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ea237d03af34736621e3320dc8b15e7a.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/cd656e77136b34a17c1c30c3110b2275.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/cd656e77136b34a17c1c30c3110b2275.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/cd656e77136b34a17c1c30c3110b2275.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "10.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "10.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.80",
+    "unit_selector": true,
+    "unit_size": 0.28
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/63657/masa-hojaldre-sin-gluten-hacendado-paquete",
+  "slug": "masa-hojaldre-sin-gluten-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/ea237d03af34736621e3320dc8b15e7a.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

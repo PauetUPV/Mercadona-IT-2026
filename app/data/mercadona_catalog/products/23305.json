@@ -1,0 +1,127 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 280,
+              "level": 2,
+              "name": "Cerdo",
+              "order": 17
+            }
+          ],
+          "id": 37,
+          "level": 1,
+          "name": "Cerdo",
+          "order": 17
+        },
+        {
+          "categories": [
+            {
+              "id": 288,
+              "level": 2,
+              "name": "Empanados y elaborados",
+              "order": 17
+            }
+          ],
+          "id": 45,
+          "level": 1,
+          "name": "Empanados y elaborados",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Chuletas de cerdo sajonia",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "CHULETAS DE SAJONIA",
+    "mandatory_mentions": "Información nutricional: Valores medios por 100 g Valor energético 467 kJ/112 kcal. Grasas 6,3 g de las cuales saturadas 2,7 g. Hidratos de carbono 3,2 g de los cuales azúcares 1,0 g. Proteínas 11 g. Sal 1,9 g.",
+    "origin": "ESPAÑA",
+    "production_variant": "Formato peso variable. Peso medio neto aproximado: 0,3 kg.",
+    "storage_instructions": "Conservar de 0º a 5º C.",
+    "suppliers": [
+      {
+        "name": "INCARLOPSA"
+      }
+    ],
+    "usage_instructions": "Una vez abierto consumir en 48h. Cocinar completamente antes de su consumo."
+  },
+  "display_name": "Chuletas de cerdo sajonia",
+  "ean": "8421384128562",
+  "extra_info": [
+    null
+  ],
+  "id": "23305",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Chuleta de  cerdo (92%), agua, sal, estabilizantes (E-407, E-451 y E-450), maltodextrina,  proteínas de cerdo, antioxidantes (E-331, E-301, E-316 y extracto de romero),  conservadores (E-262 y E-250), aromas y humo natural (a partir de madera haya)."
+  },
+  "origin": "ESPAÑA",
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/a78ccbf777d0ec72e97530ed1a560a3e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a78ccbf777d0ec72e97530ed1a560a3e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a78ccbf777d0ec72e97530ed1a560a3e.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/2324d65009b19f213eecb20859302a5d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/2324d65009b19f213eecb20859302a5d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/2324d65009b19f213eecb20859302a5d.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "9.40",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "9.400",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.67",
+    "unit_selector": true,
+    "unit_size": 0.39
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/23305/chuletas-cerdo-sajonia-bandeja",
+  "slug": "chuletas-cerdo-sajonia-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/a78ccbf777d0ec72e97530ed1a560a3e.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 309,
+              "level": 2,
+              "name": "Queso curado",
+              "order": 159
+            }
+          ],
+          "id": 54,
+          "level": 1,
+          "name": "Queso curado, semicurado y tierno",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Queso curado DOP manchego de oveja Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Queso Manchego D.O.P. Curado",
+    "mandatory_mentions": "Producto elaborado con leche pasteurizada. Corteza no comestible.",
+    "origin": "D.O.P. Queso Manchego",
+    "production_variant": "Queso Manchego D.O.P Curado",
+    "storage_instructions": "Conservar en refrigeración",
+    "suppliers": [
+      {
+        "name": "Distribuciones Juan Luna S.L.U."
+      },
+      {
+        "name": "Valle de San Juan S.L."
+      }
+    ],
+    "usage_instructions": "Abrir el envase 15 minutos antes de consumir"
+  },
+  "display_name": "Queso curado DOP manchego de oveja Hacendado",
+  "ean": "2350589006503",
+  "extra_info": [
+    null
+  ],
+  "id": "50589",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "<strong>Leche</strong> de oveja manchega pasteurizada, sal, estabilizante: cloruro cálcico, fermentos <strong>lácticos</strong>, cuajo, conservador: lisozima (contiene <strong>huevo</strong>). Corteza no comestible: conservadores E-202, E-235, colorantes:E150a, E171.  Origen de la leche: España."
+  },
+  "origin": "D.O.P. Queso Manchego",
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/e802c7400b8db1203d22e5c39efb0e5e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e802c7400b8db1203d22e5c39efb0e5e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e802c7400b8db1203d22e5c39efb0e5e.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/5e708a59320051d02b630f8a5d2b0529.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5e708a59320051d02b630f8a5d2b0529.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5e708a59320051d02b630f8a5d2b0529.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "20.10",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "20.100",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "5.43",
+    "unit_selector": true,
+    "unit_size": 0.27
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/50589/queso-curado-dop-manchego-oveja-hacendado-pieza",
+  "slug": "queso-curado-dop-manchego-oveja-hacendado-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/e802c7400b8db1203d22e5c39efb0e5e.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 484,
+              "level": 2,
+              "name": "Aceitunas verdes",
+              "order": 9
+            }
+          ],
+          "id": 135,
+          "level": 1,
+          "name": "Aceitunas y encurtidos",
+          "order": 9
+        }
+      ],
+      "id": 15,
+      "level": 0,
+      "name": "Aperitivos",
+      "order": 9
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Aceitunas verdes Gazpacha Hacendado partidas",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Aceitunas verdes partidas gazpacha",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Consumir antes de los 7 días después de la apertura. Una vez abierto, conservar cerrado en el frigorífico con el máximo de líquido posible.",
+    "suppliers": [
+      {
+        "name": "LA ESPAÑOLA ALIMENTARIA ALCOYANA, S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Aceitunas verdes Gazpacha Hacendado partidas",
+  "ean": "8402001052224",
+  "extra_info": [
+    ""
+  ],
+  "id": "23961",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "partidas",
+  "nutrition_information": {
+    "allergens": "Libre de <strong>cereales que contengan gluten</strong>. Contiene <strong>dióxido de azufre y sulfitos</strong>.",
+    "ingredients": "Aceitunas verdes aderezadas partidas 70%, variantes 30% (cebollitas, pepinillos, coliflor, zanahoria y ajos blancos (contiene <strong>sulfitos</strong>)), sal, vinagre de alcohol, acidulante: ácido cítrico, antioxidante: ácido L-ascórbico, potenciador del sabor E-621, oleoresina de pimentón (extracto de pimentón y emulsionante E-433) y especias. Producto pasteurizado. Sin gluten"
+  },
+  "origin": null,
+  "packaging": "Tarro",
+  "photos": [
+    {
+      "perspective": 3,
+      "regular": "https://prod-mercadona.imgix.net/images/721f7f60fdd3a61cf65158fad5b431f1.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/721f7f60fdd3a61cf65158fad5b431f1.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/721f7f60fdd3a61cf65158fad5b431f1.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/ad995808a1dccd372b728fff5be6b18e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ad995808a1dccd372b728fff5be6b18e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ad995808a1dccd372b728fff5be6b18e.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.00",
+    "bunch_selector": false,
+    "drained_weight": 0.43,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": "        2.20",
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "4.884",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.10",
+    "unit_selector": true,
+    "unit_size": 0.7
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/23961/aceitunas-verdes-gazpacha-hacendado-partidas-tarro",
+  "slug": "aceitunas-verdes-gazpacha-hacendado-partidas-tarro",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/721f7f60fdd3a61cf65158fad5b431f1.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

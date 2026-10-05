@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 381,
+              "level": 2,
+              "name": "Chocolate con leche",
+              "order": 11
+            }
+          ],
+          "id": 92,
+          "level": 1,
+          "name": "Chocolate",
+          "order": 11
+        }
+      ],
+      "id": 9,
+      "level": 0,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Chocolate con leche Fussion Hacendado relleno de galleta caramelizada",
+    "legal_name": "Chocolate con leche con relleno cremoso de galleta caramelizada 110g",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco, seco y alejado de olores. Temperatura ideal de conservación: 18ºC-20ºC",
+    "suppliers": [
+      {
+        "name": "SANCHIS MIRA S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Chocolate con leche Fussion Hacendado relleno de galleta caramelizada",
+  "ean": "8480000707567",
+  "extra_info": [
+    null
+  ],
+  "id": "70756",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Chocolate con <strong>LECHE </strong>(60%) [azúcar, manteca de cacao,<strong> LECHE</strong> entera en polvo, pasta de cacao, emulgentes (lecitinas, E-476), aroma natural de vainilla], harina de <strong>TRIGO (GLUTEN)</strong>, azúcar, grasas y aceites vegetales (palma, nabina, girasol en proporciones variables), jarabe de azúcar moreno, gasificante: bicarbonato sódido, sal, canela, emulgentes (lecitinas (<strong>SOJA</strong>), E-471).  ALÉRGENOS: <strong>Puede contener frutos de cáscara, mostaza y huevo.</strong>"
+  },
+  "origin": null,
+  "packaging": "Tableta",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/18e43782615705b082471a03baa3228e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/18e43782615705b082471a03baa3228e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/18e43782615705b082471a03baa3228e.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/71ee732ad36a28c5e331c55d1b1fb93b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/71ee732ad36a28c5e331c55d1b1fb93b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/71ee732ad36a28c5e331c55d1b1fb93b.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "12.27",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "12.273",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.35",
+    "unit_selector": true,
+    "unit_size": 0.11
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/70756/chocolate-con-leche-fussion-hacendado-relleno-galleta-caramelizada-tableta",
+  "slug": "chocolate-con-leche-fussion-hacendado-relleno-galleta-caramelizada-tableta",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/18e43782615705b082471a03baa3228e.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

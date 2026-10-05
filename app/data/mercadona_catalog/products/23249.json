@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Tivall",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 498,
+              "level": 2,
+              "name": "Otros",
+              "order": 597
+            }
+          ],
+          "id": 140,
+          "level": 1,
+          "name": "Platos preparados calientes",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Tivall",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Empanados vegetales con proteína de soja Tivall",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Porciones veganas a base de proteína de soja. Fritas. Comida preparada refrigerada. Descongelado.",
+    "mandatory_mentions": "Envasado en atmósfera protectora. Vegano.",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en frío a = 4ºC. Una vez abierto, consumir inmediatamente. Este producto ha sido descongelado. No volver a congelar.",
+    "suppliers": [
+      {
+        "name": "Nestlé España S.A."
+      },
+      {
+        "name": "Nestlé España, S.A."
+      }
+    ],
+    "usage_instructions": "3 MÉTODOS DE PREPARACIÓN RECOMENDADOS: Sacar 10 minutos antes de la nevera. Sartén: a fuego medio. 7-9 min. Con un poco de aceite, girar ocasionalmente. Horno: 180C. 9-11 min. Girar una vez. Freidora de aire: 180C. 5-7 min. Girar una vez."
+  },
+  "display_name": "Empanados vegetales con proteína de soja Tivall",
+  "ean": "7613287424532",
+  "extra_info": [
+    null
+  ],
+  "id": "23249",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Puede contener <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "Proteína de <strong>SOJA</strong> rehidratada 34,6% (agua, concentrado de proteína de <strong>SOJA</strong> 14,4%), agua, pan rallado [harina de <strong>TRIGO</strong>, levadura, sal, aceite de nabina, extracto de pimentón, especias (pimentón, cúrcuma)], aceites vegetales (girasol, nabina) en proporción variable, harina de <strong>TRIGO</strong>, almidón de maíz, aromas naturales, corrector de acidez (vinagre tamponado), estabilizantes (metilcelulosa, goma guar), fibra de cítricos, sal, cebolla en polvo, ajo en polvo. Puede contener <strong>HUEVO</strong>."
+  },
+  "origin": "España",
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/c6b302b81366b56254817463ded87533.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c6b302b81366b56254817463ded87533.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c6b302b81366b56254817463ded87533.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/4f2f15c1fcd5654fb3fbb240d7608dcc.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4f2f15c1fcd5654fb3fbb240d7608dcc.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4f2f15c1fcd5654fb3fbb240d7608dcc.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "15.56",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "15.556",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 2,
+    "unit_name": "ud.",
+    "unit_price": "2.80",
+    "unit_selector": true,
+    "unit_size": 0.18
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/23249/empanados-vegetales-con-proteina-soja-tivall-bandeja",
+  "slug": "empanados-vegetales-con-proteina-soja-tivall-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/c6b302b81366b56254817463ded87533.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

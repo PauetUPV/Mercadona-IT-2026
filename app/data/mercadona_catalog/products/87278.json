@@ -1,0 +1,122 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 272,
+              "level": 2,
+              "name": "Marisco",
+              "order": 442
+            }
+          ],
+          "id": 32,
+          "level": 1,
+          "name": "Marisco",
+          "order": 442
+        }
+      ],
+      "id": 2,
+      "level": 0,
+      "name": "Marisco y pescado",
+      "order": 442
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Gamba cocida",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Parapenaeus longirostris",
+    "mandatory_mentions": "Envasado en atmósfera protectora.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Mantener entre 0ºC y 4ºC hasta la fecha de caducidad.",
+    "suppliers": [
+      {
+        "name": "Pescanova España S.L.U."
+      },
+      {
+        "name": "Profand Zaragoza SLU"
+      }
+    ],
+    "usage_instructions": "Seguir la indicaciones del envase"
+  },
+  "display_name": "Gamba cocida",
+  "ean": "8402001049279",
+  "extra_info": [
+    null
+  ],
+  "id": "87278",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>moluscos y productos a base de moluscos</strong>. Contiene <strong>dióxido de azufre y sulfitos</strong>. Puede contener <strong>pescado y productos a base de pescado</strong>. Puede contener <strong>pescado y productos a base de pescado</strong>.",
+    "ingredients": "Gamba (<strong>Parapenae</strong>us longirostris) (crustáceos) , sal y antioxidantes (E45<strong>0,E331,E</strong>330) y metabisulfito sódico (sulfitos) y conservante (E270). Pu<strong>ede con</strong>te<strong>ner traz</strong>as de moluscos y pescados."
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/0409f1ae45b83dc22c914dd74456d0f6.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0409f1ae45b83dc22c914dd74456d0f6.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0409f1ae45b83dc22c914dd74456d0f6.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/02ec5452a402c830a338066e052e928b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/02ec5452a402c830a338066e052e928b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/02ec5452a402c830a338066e052e928b.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/8baba5067ac125895860571f24610279.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8baba5067ac125895860571f24610279.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8baba5067ac125895860571f24610279.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "23.17",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "23.167",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "6.95",
+    "unit_selector": true,
+    "unit_size": 0.3
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/87278/gamba-cocida-bandeja",
+  "slug": "gamba-cocida-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/0409f1ae45b83dc22c914dd74456d0f6.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

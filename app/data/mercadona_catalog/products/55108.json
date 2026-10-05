@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 301,
+              "level": 2,
+              "name": "Salchichón",
+              "order": 159
+            }
+          ],
+          "id": 51,
+          "level": 1,
+          "name": "Embutido curado",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Fuet espetec Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Fuet Espetec Extra",
+    "mandatory_mentions": "Producto sometido a desecación/ Tripa comestible natural/ Sin colorantes / SIN GLUTEN (logo) / Teléfono de atención al cliente Mercadona:800 500 220 / RECICLA Al Amarillo (logo) /  RECICLA Al Azul (logo)",
+    "origin": null,
+    "production_variant": "Este producto se fabrica en dos fabricas: en Mas Galí con número de registro ES 10.027343/B CE y en Olost con número de registro ES 10.22899/B CE",
+    "storage_instructions": "Manténgase entre 0°C y 5°C.",
+    "suppliers": [
+      {
+        "name": "CASA TARRADELLAS, S.A."
+      }
+    ],
+    "usage_instructions": "Conservar en un lugar fresco y seco."
+  },
+  "display_name": "Fuet espetec Hacendado",
+  "ean": "8480000551085",
+  "extra_info": [
+    ""
+  ],
+  "id": "55108",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Paleta, panceta, jamón y magro de cerdo, sal, <strong>lactosa</strong> (de <strong>leche</strong>), especias, antioxidante (ascorbato sódico), conservador (nitrato potásico). Tripa comestible natural. Sin Colorantes. Producto sometido a desecación."
+  },
+  "origin": null,
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/48278c0256b60b572544a0edf0427c6c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/48278c0256b60b572544a0edf0427c6c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/48278c0256b60b572544a0edf0427c6c.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/adef2fb7027a8b9e81e4a11899230af1.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/adef2fb7027a8b9e81e4a11899230af1.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/adef2fb7027a8b9e81e4a11899230af1.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "2.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "2.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.50",
+    "unit_selector": true,
+    "unit_size": 0.24
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/55108/fuet-espetec-extra-hacendado",
+  "slug": "fuet-espetec-extra-hacendado",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/48278c0256b60b572544a0edf0427c6c.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

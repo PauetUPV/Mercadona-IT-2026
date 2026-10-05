@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 853,
+              "level": 2,
+              "name": "Plátano y uva",
+              "order": 306
+            }
+          ],
+          "id": 27,
+          "level": 1,
+          "name": "Fruta",
+          "order": 306
+        }
+      ],
+      "id": 1,
+      "level": 0,
+      "name": "Fruta y verdura",
+      "order": 306
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Plátano de Canarias IGP",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Plátano",
+    "mandatory_mentions": "",
+    "origin": "Canarias",
+    "production_variant": "Producto a granel. El contenido neto del mismo se determinará en el punto de venta.",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "Arc Eurobanan, S.L."
+      },
+      {
+        "name": "Bargosa, S.A.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Plátano de Canarias IGP",
+  "ean": "2105410038198",
+  "extra_info": [
+    "Categoría 1ª. Variedad: Cavendish."
+  ],
+  "id": "3819",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": ""
+  },
+  "origin": "Canarias",
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 10,
+      "regular": "https://prod-mercadona.imgix.net/images/e4a37940916985bf5ca166e266580c37.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e4a37940916985bf5ca166e266580c37.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e4a37940916985bf5ca166e266580c37.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/ba9b063bd7972d5fccb927b9f80d5a5a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ba9b063bd7972d5fccb927b9f80d5a5a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ba9b063bd7972d5fccb927b9f80d5a5a.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "1.80",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "1.800",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.31",
+    "unit_selector": true,
+    "unit_size": 0.17
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/3819/platano-canarias-igp-pieza",
+  "slug": "platano-canarias-igp-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/e4a37940916985bf5ca166e266580c37.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

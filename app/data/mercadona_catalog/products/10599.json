@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Asturiana",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 344,
+              "level": 2,
+              "name": "Leche desnatada",
+              "order": 373
+            }
+          ],
+          "id": 72,
+          "level": 1,
+          "name": "Leche y bebidas vegetales",
+          "order": 373
+        }
+      ],
+      "id": 6,
+      "level": 0,
+      "name": "Huevos, leche y mantequilla",
+      "order": 373
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Asturiana",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Leche desnatada Asturiana",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Leche UHT DESNATADA",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Una vez abierto, conservar el envase cerrado en la nevera. Se aconseja su consumo en los 3-4 días siguientes.",
+    "suppliers": [
+      {
+        "name": "Corporación Alimentaria Peñasanta S.A"
+      },
+      {
+        "name": "Corporación Alimentaria Peñasanta,"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Leche desnatada Asturiana",
+  "ean": "8410297011108",
+  "extra_info": [
+    null
+  ],
+  "id": "10599",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Leche</strong> de vaca desnatada"
+  },
+  "origin": null,
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/f609c9ef2158eec4e857db31398c071f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f609c9ef2158eec4e857db31398c071f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f609c9ef2158eec4e857db31398c071f.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/ffbef9ed68f1671a7b7efe19a491d301.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ffbef9ed68f1671a7b7efe19a491d301.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ffbef9ed68f1671a7b7efe19a491d301.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.15",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "1.154",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.73",
+    "unit_selector": true,
+    "unit_size": 1.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/10599/leche-desnatada-asturiana-botella",
+  "slug": "leche-desnatada-asturiana-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/f609c9ef2158eec4e857db31398c071f.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

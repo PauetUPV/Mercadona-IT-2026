@@ -1,0 +1,118 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 330,
+              "level": 2,
+              "name": "Bollería dulce",
+              "order": 515
+            }
+          ],
+          "id": 65,
+          "level": 1,
+          "name": "Bollería de horno",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Mona de Pascua con huevo sorpresa",
+    "legal_name": "Mona de pascua con huevo sorpresa",
+    "mandatory_mentions": "Producto de bollería desongelado. Contiene juguete no apto para menores de 3 años, contiene pequeñas partes que pueden ser ingeridas o inhaladas. Recomendada la supervisión de un adulto.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Producto de bollería descongelado. No volver a congelar. Para un consumo óptimo del producto se aconseja: Mantener dentro del envase en un lugar fresco y seco y consumir antes de 2 días desde su fecha de compra. Lote: ver lateral",
+    "suppliers": [
+      {
+        "name": "La Tahona de Utiel, S.L."
+      },
+      {
+        "name": "La Tahona de Utiel, S.L.U"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Mona de Pascua con huevo sorpresa",
+  "ean": "2105900841499",
+  "extra_info": [
+    "Modelo sujeto a disponibilidad."
+  ],
+  "id": "84149",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>frutos de cáscara</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>cacahuetes y productos a base de cacahuetes</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>sw</strong>. Puede contener <strong>sh</strong>. Puede contener <strong>sa</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Puede contener <strong>dióxido de azufre y sulfitos</strong>.",
+    "ingredients": "Harina de <strong>trigo</strong> (<strong>gluten</strong>), azúcar, agua, <strong>huevo</strong> líquido pasteurizado, aceite de girasol, anisetes [azúcar, almidón (de <strong>trigo</strong> (<strong>gluten</strong>) y maíz), jarabe de glucosa, colorantes (E-100, E-101, E-120, E-131), aceite vegetal (coco, colza) y agente de recubrimiento (cera de abeja blanca)], levadura, emulgente [agua, E-471, E-472e, sal, acidulante (E-260) y conservador (E-281)], humectante (jarabe de sorbitol), mejorante panario [harina de <strong>trigo</strong> (<strong>gluten</strong>), emulgentes (E-471, E-481, E-472e), <strong>gluten</strong> de <strong>trigo</strong>, agente antiaglomerante (E-170), agente de tratamiento de la harina (ácido ascórbico) y enzimas], sal, <strong>gluten</strong> de <strong>trigo</strong>, aromas y colorante (betacaroteno). Puede contener trazas de <strong>leche</strong>, <strong>soja</strong>, <strong>sulfitos</strong>, <strong>frutos de cáscara</strong> y <strong>mostaza</strong>. Huevo sorpresa (chocolate blanco y chocolate con leche): Azúcar, manteca de cacao, <strong>leche</strong> en polvo, pasta de cacao, suero de <strong>leche</strong> en polvo, emulgente: lecitina de <strong>soja</strong>, aroma. Puede contener trazas de <strong>cacahuete</strong> y <strong>frutos de cáscara</strong>."
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/8e6688aba62c96dc553004421913d6e2.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8e6688aba62c96dc553004421913d6e2.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8e6688aba62c96dc553004421913d6e2.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/edcfc1341893ad94efe3875a1c83bf5c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/edcfc1341893ad94efe3875a1c83bf5c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/edcfc1341893ad94efe3875a1c83bf5c.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/81409dabdbee6bedc93c0468b5a6df30.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/81409dabdbee6bedc93c0468b5a6df30.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/81409dabdbee6bedc93c0468b5a6df30.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "17.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": "        2.25",
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "17.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.10",
+    "unit_selector": true,
+    "unit_size": 0.12
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/84149/mona-pascua-con-huevo-sorpresa-bandeja",
+  "slug": "mona-pascua-con-huevo-sorpresa-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/8e6688aba62c96dc553004421913d6e2.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

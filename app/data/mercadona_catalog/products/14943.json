@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 280,
+              "level": 2,
+              "name": "Cerdo",
+              "order": 17
+            }
+          ],
+          "id": 37,
+          "level": 1,
+          "name": "Cerdo",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Taquitos de cerdo",
+    "legal_name": "TAQUITOS DE CERDO. PREPARADO DE CARNE.",
+    "mandatory_mentions": "Envasado en atmósfera protectora.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "CONSERVAR DE 0 A 4ºC. UNA VEZ ABIERTO CONSUMIR EN 48 HORAS.",
+    "suppliers": [
+      {
+        "name": "INCARLOPSA"
+      }
+    ],
+    "usage_instructions": "Cocinar completamente antes de su consumo. Airfryer: 8 minutos a 200ºC. Sartén: 6 minutos."
+  },
+  "display_name": "Taquitos de cerdo",
+  "ean": "8421384154509",
+  "extra_info": [
+    ""
+  ],
+  "id": "14943",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Paleta de cerdo (95%), agua, sal, dextrosa,  estabilizantes (E-262 y E-331) y antioxidante (E-301)."
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/d38b81d9adf42e9b09d6a42107338ac5.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d38b81d9adf42e9b09d6a42107338ac5.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d38b81d9adf42e9b09d6a42107338ac5.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/c1790214c3c5419c8008f94dd0336ebc.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c1790214c3c5419c8008f94dd0336ebc.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c1790214c3c5419c8008f94dd0336ebc.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "5.30",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.300",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.12",
+    "unit_selector": true,
+    "unit_size": 0.4
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/14943/taquitos-cerdo-bandeja",
+  "slug": "taquitos-cerdo-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/d38b81d9adf42e9b09d6a42107338ac5.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

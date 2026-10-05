@@ -1,0 +1,129 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Deliplus",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 828,
+              "level": 2,
+              "name": "Crema pies",
+              "order": 241
+            }
+          ],
+          "id": 189,
+          "level": 1,
+          "name": "Cuidado corporal",
+          "order": 241
+        }
+      ],
+      "id": 20,
+      "level": 0,
+      "name": "Cuidado facial y corporal",
+      "order": 241
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 686,
+              "level": 2,
+              "name": "Botiquín",
+              "order": 305
+            }
+          ],
+          "id": 214,
+          "level": 1,
+          "name": "Parafarmacia",
+          "order": 305
+        }
+      ],
+      "id": 23,
+      "level": 0,
+      "name": "Fitoterapia y parafarmacia",
+      "order": 305
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Deliplus",
+    "counter_info": null,
+    "danger_mentions": null,
+    "description": "Stick antirozaduras Deliplus",
+    "legal_name": null,
+    "mandatory_mentions": null,
+    "origin": null,
+    "production_variant": null,
+    "storage_instructions": null,
+    "suppliers": [],
+    "usage_instructions": null
+  },
+  "display_name": "Stick antirozaduras Deliplus",
+  "ean": "8402001046292",
+  "extra_info": [
+    ""
+  ],
+  "id": "16386",
+  "is_bulk": false,
+  "is_new_arrival": true,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": null
+  },
+  "origin": null,
+  "packaging": "Bote",
+  "photos": [
+    {
+      "perspective": 10,
+      "regular": "https://prod-mercadona.imgix.net/images/3e94d0071ebbf32b23e5f65ba35397fd.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3e94d0071ebbf32b23e5f65ba35397fd.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3e94d0071ebbf32b23e5f65ba35397fd.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/3ba5af1673e2da6868fe7af4e2b6d2cb.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3ba5af1673e2da6868fe7af4e2b6d2cb.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3ba5af1673e2da6868fe7af4e2b6d2cb.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "333.33",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "100 g",
+    "reference_price": "33.334",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "4.00",
+    "unit_selector": true,
+    "unit_size": 0.012
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/16386/stick-antirozaduras-deliplus-bote",
+  "slug": "stick-antirozaduras-deliplus-bote",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/3e94d0071ebbf32b23e5f65ba35397fd.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

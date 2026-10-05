@@ -1,0 +1,135 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 514,
+              "level": 2,
+              "name": "Pescado rebozado",
+              "order": 213
+            }
+          ],
+          "id": 884,
+          "level": 1,
+          "name": "Rebozados",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 275,
+              "level": 2,
+              "name": "Pescado rebozado congelado",
+              "order": 442
+            }
+          ],
+          "id": 34,
+          "level": 1,
+          "name": "Pescado congelado",
+          "order": 442
+        }
+      ],
+      "id": 2,
+      "level": 0,
+      "name": "Marisco y pescado",
+      "order": 442
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Figuritas de merluza empanadas Hacendado ultracongeladas",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "FIGURITAS DE MERLUZA EMPANADAS. PRECOCINADO ULTRACONGELADO",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Mantener a = -18C",
+    "suppliers": [
+      {
+        "name": "CONGALSA S.L."
+      }
+    ],
+    "usage_instructions": "MODO DE PREPARACIÓN: Freidora: No descongelar. Freír en abundante aceite muy caliente (180ºC) durante 2-4 minutos aproximadamente hasta que estén bien doradas. Introducir poca cantidad en la freidora./ Sartén: No descongelar. Freír en abundante aceite muy caliente (180ºC). Deles la vuelta inmediatamente para formar una cobertura más crujiente y continúe friendo durante 2-4 minutos aproximadamente, hasta que estén doradas. A mitad de la fritura, dar la vuelta para conseguir un dorado uniforme. Introducir poca cantidad en la sartén./ Horno: Precalentar el horno a 190ºC durante 10 minutos, opción ventilador calor por arriba y por abajo. Introducir el producto sin descongelar durante 14-15 minutos, dándoles la vuelta durante la mitad de la cocción. Servir caliente./ Freidora de aire: No descongelar. Colocar las unidades separadas entre sí para que se cocinen uniformemente. Cocinar durante 6 minutos a 200ºC. Importante respetar las instrucciones de cocinado."
+  },
+  "display_name": "Figuritas de merluza empanadas Hacendado ultracongeladas",
+  "ean": "8480000631596",
+  "extra_info": [
+    null
+  ],
+  "id": "63159",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "ultracongeladas",
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>moluscos y productos a base de moluscos</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>pescado y productos a base de pescado</strong>.",
+    "ingredients": "<strong>Merluza</strong> (<strong>pescado</strong>)(47%), pan rallado [Harina de <strong>trigo</strong> (<strong>gluten</strong>), agua, pimentón, sal, levadura, azúcar, dextrosa de <strong>trigo</strong> (<strong>gluten</strong>), cúrcuma], aceite refinado de girasol, <strong>almidónes</strong> [contiene <strong>trigo</strong> (<strong>gluten</strong>)], agua, harina de <strong>trigo</strong> (<strong>gluten</strong>), sal, clara de <strong>huevo</strong> en polvo y zumo de limón concentrado. 40% de empanado. Puede contener trazas de <strong>moluscos</strong>, <strong>crustáceos</strong>, <strong>leche</strong>, <strong>soja</strong> y <strong>mostaza</strong>."
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/7f7e0f9d7f09a4d5d07ae4a2d4da46fd.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7f7e0f9d7f09a4d5d07ae4a2d4da46fd.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7f7e0f9d7f09a4d5d07ae4a2d4da46fd.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/5b5654ec0f40ec20ab68d87a8b9030af.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5b5654ec0f40ec20ab68d87a8b9030af.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5b5654ec0f40ec20ab68d87a8b9030af.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "7.20",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.200",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.60",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/63159/figuritas-merluza-empanadas-hacendado-ultracongeladas-paquete",
+  "slug": "figuritas-merluza-empanadas-hacendado-ultracongeladas-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/7f7e0f9d7f09a4d5d07ae4a2d4da46fd.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

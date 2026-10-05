@@ -1,0 +1,129 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 280,
+              "level": 2,
+              "name": "Cerdo",
+              "order": 17
+            }
+          ],
+          "id": 37,
+          "level": 1,
+          "name": "Cerdo",
+          "order": 17
+        },
+        {
+          "categories": [
+            {
+              "id": 288,
+              "level": 2,
+              "name": "Empanados y elaborados",
+              "order": 17
+            }
+          ],
+          "id": 45,
+          "level": 1,
+          "name": "Empanados y elaborados",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Filetes lomo de cerdo adobado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "LOMO ADOBADO",
+    "mandatory_mentions": "Sin gluten.Envasado en atmósfera protectora.",
+    "origin": null,
+    "production_variant": "Producto de peso variable, el contenido neto puede oscilar entre 436g y 593g",
+    "storage_instructions": "Conservar en refrigeración entre 0 y 4°C. Una vez abierto consumir antes de 48 horas",
+    "suppliers": [
+      {
+        "name": "Coopecarn Girona S.L.U"
+      },
+      {
+        "name": "Frescos y Elaborados Delisano SAU"
+      }
+    ],
+    "usage_instructions": "Para:plancha, freír"
+  },
+  "display_name": "Filetes lomo de cerdo adobado",
+  "ean": "2105100027150",
+  "extra_info": [
+    ""
+  ],
+  "id": "2715",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": "Lomo de cerdo (90%), agua, sal, azúcar, especias, pimentón,  antioxidantes (E-301 y E-331), estabilizantes (E-451 y E-452) y conservadores (E250 y E252). Contiene trazas de <strong>leche y soja</strong>."
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/f1c9dda0bf7290499534dbe4776c6207.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f1c9dda0bf7290499534dbe4776c6207.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f1c9dda0bf7290499534dbe4776c6207.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/1421a3b281a1fce9f87ca748a1d3bced.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1421a3b281a1fce9f87ca748a1d3bced.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1421a3b281a1fce9f87ca748a1d3bced.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "6.95",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.950",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.27",
+    "unit_selector": true,
+    "unit_size": 0.47
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/2715/lomo-cerdo-adobado-bandeja",
+  "slug": "lomo-cerdo-adobado-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/f1c9dda0bf7290499534dbe4776c6207.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

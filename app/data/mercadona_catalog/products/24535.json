@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 389,
+              "level": 2,
+              "name": "Chicles",
+              "order": 11
+            }
+          ],
+          "id": 95,
+          "level": 1,
+          "name": "Chicles y caramelos",
+          "order": 11
+        }
+      ],
+      "id": 9,
+      "level": 0,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Chicles gragea hierbabuena sin azúcar Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Chicles sin azúcar sabor a Hierbabuena, con edulcorantes",
+    "mandatory_mentions": "Sin Gluten. Chicles sabor a Hierbabuena, con edulcorantes. Sin azúcares. Contiene una fuente de fenilalanina. Un consumo excesivo puede producir efectos laxantes.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco, y mantener el envase cerrado tras el consumo.",
+    "suppliers": [
+      {
+        "name": "Chic-kles Gum, S.L.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Chicles gragea hierbabuena sin azúcar Hacendado",
+  "ean": "8402001025792",
+  "extra_info": [
+    ""
+  ],
+  "id": "24535",
+  "is_bulk": false,
+  "is_new_arrival": true,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Edulcorantes: sorbitol y maltitoles, goma base (con antioxidante: extracto rico en tocoferoles), aromas, espesante: goma arábiga, humectante: glicerina, edulcorantes: aspartamo, acesulfamo K y sucralosa, agente de recubrimiento: cera de carnauba."
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/aad7bbdea6037e0357d2e80f79f86063.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/aad7bbdea6037e0357d2e80f79f86063.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/aad7bbdea6037e0357d2e80f79f86063.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/d798f8aa0790d6effc4e615948ff9458.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d798f8aa0790d6effc4e615948ff9458.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d798f8aa0790d6effc4e615948ff9458.jpeg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "25.23",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.01337,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "25.234",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 4,
+    "unit_name": "paquetes",
+    "unit_price": "1.35",
+    "unit_selector": true,
+    "unit_size": 0.05305
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/24535/chicles-hierbabuena-gragea-hacendado",
+  "slug": "chicles-hierbabuena-gragea-hacendado",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/aad7bbdea6037e0357d2e80f79f86063.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

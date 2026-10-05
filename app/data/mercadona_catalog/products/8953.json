@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 474,
+              "level": 2,
+              "name": "Patatas fritas",
+              "order": 9
+            }
+          ],
+          "id": 132,
+          "level": 1,
+          "name": "Patatas fritas y snacks",
+          "order": 9
+        }
+      ],
+      "id": 15,
+      "level": 0,
+      "name": "Aperitivos",
+      "order": 9
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Aperitivo de patata con sabor a nata agria y cebolla",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Producto de aperitivo a base de patata, con sabor a nata agria y cebolla",
+    "mandatory_mentions": "Consumir preferemente antes del: ver base del envase.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "SnäckyKnabbergebäck GmbH"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Aperitivo de patata con sabor a nata agria y cebolla",
+  "ean": "8402001023163",
+  "extra_info": [
+    ""
+  ],
+  "id": "8953",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Patata en polvo (39%), aceites vegetales (girasol, colza, en proporción variable) (34%), almidón de patata, sal, azúcar, mazada en polvo, suero de leche en polvo, cebolla en polvo, nata en polvo, nata ágria en polvo, pimienta blanca, aroma natural, emulgente: monoglicérdos y diglicéridos de ácidos grasos, extractos vegetales con efecto colorante: extracto de paprika, extracto de cúrcuma, acidulante: ácido cítrico, Antioxidante: extracto rico en tocoferoles."
+  },
+  "origin": null,
+  "packaging": "Bote",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/16d6c15024afc15821fdb08e9f5a06ef.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/16d6c15024afc15821fdb08e9f5a06ef.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/16d6c15024afc15821fdb08e9f5a06ef.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/3b29afaf89044bbefe637580c91c242e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3b29afaf89044bbefe637580c91c242e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3b29afaf89044bbefe637580c91c242e.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "10.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "10.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.75",
+    "unit_selector": true,
+    "unit_size": 0.175
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/8953/aperitivo-patata-con-sabor-nata-agria-cebolla-bote",
+  "slug": "aperitivo-patata-con-sabor-nata-agria-cebolla-bote",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/16d6c15024afc15821fdb08e9f5a06ef.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

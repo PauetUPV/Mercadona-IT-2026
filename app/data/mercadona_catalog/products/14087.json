@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Tosta Rica",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 821,
+              "level": 2,
+              "name": "Galletas desayuno",
+              "order": 18
+            }
+          ],
+          "id": 80,
+          "level": 1,
+          "name": "Galletas",
+          "order": 18
+        }
+      ],
+      "id": 7,
+      "level": 0,
+      "name": "Cereales y galletas",
+      "order": 18
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Tosta Rica",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Galletas tostadas Tosta Rica Cuétara",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Galletas.",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Almacenar en lugar fresco y seco. Preservar de los rayos solares.",
+    "suppliers": [
+      {
+        "name": "Cuétara S.L.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Galletas tostadas Tosta Rica",
+  "ean": "8410014413611",
+  "extra_info": [
+    "Modelo sujeto a disponibilidad."
+  ],
+  "id": "14087",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>dióxido de azufre y sulfitos</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Harina de<strong> TRIGO</strong> (68%), azúcar, aceite  de girasol alto oleico (14%), suero<strong> LÁCTEO</strong> en polvo, jarabe de  glucosa y fructosa, emulgente (lecitina), sal, gasificantes (carbonatos de amonio, carbonatos de sodio), colorante: E150d (contiene<strong> SULFITOS</strong>), aromas (contiene<strong> LECHE</strong>), vitaminas (A, D, tiamina (B1), riboflavina (B2), niacina (B3), B6), minerales (hierro y calcio), agente de tratamiento de la harina <strong>(METABISULFITO</strong> sódico).  Puede contener <strong> MOSTAZA</strong>."
+  },
+  "origin": "España",
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/dc7e9c020591f437f8baaa7fd3270e3f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/dc7e9c020591f437f8baaa7fd3270e3f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/dc7e9c020591f437f8baaa7fd3270e3f.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/cdd33ea8f1933c996f91ba6a0cdfd2c6.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/cdd33ea8f1933c996f91ba6a0cdfd2c6.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/cdd33ea8f1933c996f91ba6a0cdfd2c6.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.39",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "4.386",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 3,
+    "unit_name": "paquetes",
+    "unit_price": "2.50",
+    "unit_selector": true,
+    "unit_size": 0.57
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/14087/galletas-tostadas-tosta-rica-cuetara-caja",
+  "slug": "galletas-tostadas-tosta-rica-cuetara-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/dc7e9c020591f437f8baaa7fd3270e3f.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

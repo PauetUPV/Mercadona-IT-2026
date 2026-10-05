@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Wasa",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 322,
+              "level": 2,
+              "name": "Pan tostado",
+              "order": 515
+            }
+          ],
+          "id": 62,
+          "level": 1,
+          "name": "Pan tostado y rallado",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Wasa",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pan tostado con copos de avena Vitalité Kaura Wasa",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Producto de panadería con avena - Para elaborar 100 g de producto se han utilizado 57 g de cereales integrales.",
+    "mandatory_mentions": "",
+    "origin": "Suecia",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco",
+    "suppliers": [
+      {
+        "name": "Barilla Deutschland GmbH"
+      },
+      {
+        "name": "Barilla Sverige AB"
+      }
+    ],
+    "usage_instructions": "Listo para degustar. Conservar en un lugar fresco y seco. Consumir preferentemente antes del: ver fecha en el lateral."
+  },
+  "display_name": "Pan tostado con copos de avena Vitalité Kaura Wasa",
+  "ean": "7300400122092",
+  "extra_info": [
+    ""
+  ],
+  "id": "82150",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>centeno y productos derivados</strong>. Contiene <strong>go</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Harina de <strong>avena</strong> integral (38%), harina de <strong>trigo</strong>, harina de <strong>centeno</strong>, copos de <strong>avena</strong> (18%), levadura, aroma natural (<strong>leche</strong>), masa fermentada seca (harina de <strong>centeno</strong> integral, agua), emulgente (mono y diglicéridos de ácidos grasos), sal, gasificante (carbonato ácido de sodio)."
+  },
+  "origin": "Suecia",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/5b7cbb8768c63c5223cfa44dbd9d9e65.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5b7cbb8768c63c5223cfa44dbd9d9e65.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5b7cbb8768c63c5223cfa44dbd9d9e65.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/d1c69004750598884217b7ff7e8fb87e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d1c69004750598884217b7ff7e8fb87e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d1c69004750598884217b7ff7e8fb87e.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "8.75",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "8.750",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.45",
+    "unit_selector": true,
+    "unit_size": 0.28
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/82150/pan-tostado-vitalite-wasa-paquete",
+  "slug": "pan-tostado-vitalite-wasa-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/5b7cbb8768c63c5223cfa44dbd9d9e65.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

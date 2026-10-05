@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 383,
+              "level": 2,
+              "name": "Chocolate blanco",
+              "order": 11
+            }
+          ],
+          "id": 92,
+          "level": 1,
+          "name": "Chocolate",
+          "order": 11
+        }
+      ],
+      "id": 9,
+      "level": 0,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Chocolate blanco Fussion Hacendado relleno de mango y crujiente sabor a maracuyá y caramelo",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "CHOCOLATE BLANCO CON RELLENO CREMOSO DE MANGO, PERLAS CRUJIENTES SABOR A MARACUYÁ Y CARAMELO CON CHASQUIDOS",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "SANCHIS MIRA S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Chocolate blanco Fussion Hacendado relleno de mango y crujiente sabor a maracuyá y caramelo",
+  "ean": "8402001054785",
+  "extra_info": [
+    ""
+  ],
+  "id": "17546",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "relleno de mango y crujiente sabor a maracuyá y caramelo",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Chocolate blanco: 40% [azúcar, manteca de cacao, LECHE entera en polvo, suero LÁCTEO en polvo, materia grasa LÁCTEA anhidra, emulgentes (lecitinas, E476), aroma], azúcar, aceites y grasas vegetales (karité, coco, girasol refinado), LECHE descremada en polvo, perlas crujientes sabor maracuyá: 5,6% (azúcar, harina de arroz, agua, agente de recubrimiento: goma arábiga, espirulina, aroma natural a maracuyá, rábano, limón y extracto de grosella negra, colorante: curcumina), caramelo con chasquidos: 2,7% (azúcar, glucosa, LACTOSA (LECHE), manteca de cacao, gasificante: E-290), mango en polvo: 0,5% (jarabe de glucosa, maltodextrina, puré de mango concentrado), emulgente: lecitinas, aromas, colorante: aceite de pimentón.  Puede contener gluten, frutos de cáscara, cacahuete, soja y huevo."
+  },
+  "origin": null,
+  "packaging": "Tableta",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/b79410dbda39efacbc41d9a27684e3ae.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b79410dbda39efacbc41d9a27684e3ae.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b79410dbda39efacbc41d9a27684e3ae.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/42a3bbf4fab498285e6f11062e51ad4a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/42a3bbf4fab498285e6f11062e51ad4a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/42a3bbf4fab498285e6f11062e51ad4a.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "12.07",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "12.069",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.75",
+    "unit_selector": true,
+    "unit_size": 0.145
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/17546/chocolate-blanco-fussion-hacendado-relleno-mango-crujiente-sabor-maracuya-caramelo-tableta",
+  "slug": "chocolate-blanco-fussion-hacendado-relleno-mango-crujiente-sabor-maracuya-caramelo-tableta",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/b79410dbda39efacbc41d9a27684e3ae.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

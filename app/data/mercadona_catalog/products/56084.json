@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "La Carloteña",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 292,
+              "level": 2,
+              "name": "Pavo y otros",
+              "order": 159
+            }
+          ],
+          "id": 48,
+          "level": 1,
+          "name": "Aves y jamón cocido",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "La Carloteña",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pollo 97% relleno La Carloteña asado al horno lonchas",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "POLLO RELLENO CARLOTEÑA LONCHEADO 150 G.",
+    "mandatory_mentions": "Envasado en atmosfera protectora.",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 0 y 5ºC",
+    "suppliers": [
+      {
+        "name": "Carloteña de Asados, S.L."
+      }
+    ],
+    "usage_instructions": "Abrir el envase 2 minutos antes de consumir. Una vez abierto el envase consumir antes de 48 horas."
+  },
+  "display_name": "Pollo 97% relleno La Carloteña asado al horno lonchas",
+  "ean": "8437005669765",
+  "extra_info": [
+    ""
+  ],
+  "id": "56084",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "asado al horno lonchas",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>sa</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>frutos de cáscara</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Pollo (97%), [Muslo de pollo (48,6%), Pollo deshuesado (40%), pechuga de pollo (8,4%)], almidón, proteinas de la <strong>leche,</strong> proteina de <strong>soja,</strong> sal, especias, dextrosa, <strong>lactosa,</strong> <strong>almendra</strong> molida, estabilizantes (E-450, E-452, E-407), aromas, antioxidantes (E-301, E-331), conservador (E-250). <strong>Contiene trazas de otros frutos de cascara y huevo.</strong> Puede contener restos de cartílagos y/o huesos al proceder de un auténtico pollo deshuesado a mano. Sin <strong>Gluten</strong>"
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/c0a4ea8f1fe98e43e957b317ac9c3d07.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c0a4ea8f1fe98e43e957b317ac9c3d07.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c0a4ea8f1fe98e43e957b317ac9c3d07.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/6aedac33e2429df5d3f5b373bda2531c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/6aedac33e2429df5d3f5b373bda2531c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/6aedac33e2429df5d3f5b373bda2531c.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "15.33",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": "        2.40",
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "15.334",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.30",
+    "unit_selector": true,
+    "unit_size": 0.15
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/56084/pollo-relleno-asado-horno-carlotena-lonchas-paquete",
+  "slug": "pollo-relleno-asado-horno-carlotena-lonchas-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/c0a4ea8f1fe98e43e957b317ac9c3d07.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

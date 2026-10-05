@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 843,
+              "level": 2,
+              "name": "Salsas para carnes",
+              "order": 7
+            }
+          ],
+          "id": 117,
+          "level": 1,
+          "name": "Otras salsas",
+          "order": 7
+        }
+      ],
+      "id": 12,
+      "level": 0,
+      "name": "Aceite, especias y salsas",
+      "order": 7
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Salsa Barbacoa Hacendado",
+    "legal_name": "Salsa Barbacoa",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Una vez abierto conservar en el frigorífico. Se recomienda consumirlo antes de 1 mes.",
+    "suppliers": [
+      {
+        "name": "Conservas el Cidacos S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Salsa Barbacoa Hacendado",
+  "ean": "8480000173461",
+  "extra_info": [
+    ""
+  ],
+  "id": "17346",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Tomate, azúcar, almidón de maíz, vinagre de alcohol, sal, cebolla, acidulante (ácido cítrico),aromas, conservadores (sorbato potásico y benzoato sódico) y colorante (caramelo)."
+  },
+  "origin": "España",
+  "packaging": "Bote",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/d01e6c7c307f1c60a9e67aac3e22700e.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d01e6c7c307f1c60a9e67aac3e22700e.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d01e6c7c307f1c60a9e67aac3e22700e.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/cd3fb46854e51283c4fe7d567340445e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/cd3fb46854e51283c4fe7d567340445e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/cd3fb46854e51283c4fe7d567340445e.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.29",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "3.286",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.15",
+    "unit_selector": true,
+    "unit_size": 0.35
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/17346/salsa-barbacoa-hacendado-bote",
+  "slug": "salsa-barbacoa-hacendado-bote",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/d01e6c7c307f1c60a9e67aac3e22700e.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

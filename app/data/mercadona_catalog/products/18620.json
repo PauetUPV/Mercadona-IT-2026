@@ -1,0 +1,114 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 452,
+              "level": 2,
+              "name": "Mejillones",
+              "order": 215
+            }
+          ],
+          "id": 123,
+          "level": 1,
+          "name": "Berberechos y mejillones",
+          "order": 215
+        }
+      ],
+      "id": 14,
+      "level": 0,
+      "name": "Conservas, caldos y cremas",
+      "order": 215
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Mejillones al natural Hacendado pequeños 13-18 piezas",
+    "legal_name": "Mejillones al natural",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "Tamaño pequeño",
+    "storage_instructions": "Conservar en lugar fresco y seco. Una vez abierta, si no se consume en el momento, consérvese en el frigorífico cubierto por el líquido de cobertura por un período no superior a 24 horas después de la apertura.",
+    "suppliers": [
+      {
+        "name": "Conservas Dani, S.A.U."
+      },
+      {
+        "name": "Conservas Friscos, S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Mejillones al natural Hacendado pequeños",
+  "ean": "8402001009662",
+  "extra_info": [
+    ""
+  ],
+  "id": "18620",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>moluscos y productos a base de moluscos</strong>. Puede contener <strong>pescado y productos a base de pescado</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>.",
+    "ingredients": "<strong>Mejillones</strong> chilenos (Mythilus chilensis) (<strong>moluscos</strong>), agua y sal. Puede contener trazas de <strong>pescado</strong> y <strong>crustáceos</strong>."
+  },
+  "origin": "España",
+  "packaging": "Lata",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/c8879720b1c9bae132effcfb1f11d3d3.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c8879720b1c9bae132effcfb1f11d3d3.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c8879720b1c9bae132effcfb1f11d3d3.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/663bdb4198bfdf8233b1d1551b5cd306.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/663bdb4198bfdf8233b1d1551b5cd306.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/663bdb4198bfdf8233b1d1551b5cd306.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "18.02",
+    "bunch_selector": false,
+    "drained_weight": 0.069,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "28.986",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.00",
+    "unit_selector": true,
+    "unit_size": 0.111
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/18620/mejillones-natural-hacendado-pequenos-15-20-piezas-lata",
+  "slug": "mejillones-natural-hacendado-pequenos-15-20-piezas-lata",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/c8879720b1c9bae132effcfb1f11d3d3.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,135 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 887,
+              "level": 2,
+              "name": "Marisco de concha y otros",
+              "order": 213
+            }
+          ],
+          "id": 150,
+          "level": 1,
+          "name": "Marisco",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 852,
+              "level": 2,
+              "name": "Marisco de concha",
+              "order": 442
+            }
+          ],
+          "id": 32,
+          "level": 1,
+          "name": "Marisco",
+          "order": 442
+        }
+      ],
+      "id": 2,
+      "level": 0,
+      "name": "Marisco y pescado",
+      "order": 442
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Almeja Hacendado congelada",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Almeja del Pacífico Entera Cocida 450g",
+    "mandatory_mentions": "",
+    "origin": "Vietnam",
+    "production_variant": "",
+    "storage_instructions": "Conservar a temperatura igual o inferior a -18ºC (ver fecha de consumo preferente en el envase). Para no alterar la calidad de este producto, no volver a congelar una vez descongelado.",
+    "suppliers": [
+      {
+        "name": "Mercadona S.A."
+      }
+    ],
+    "usage_instructions": "Microondas: Cortar una esquina de la bolsa y ponerla con el corte hacia arriba, a máxima potencia, durante 3 o 4 minutos,hasta ue seabran. Rociar con limón."
+  },
+  "display_name": "Almeja Hacendado congelada",
+  "ean": "8402001002786",
+  "extra_info": [
+    ""
+  ],
+  "id": "60874",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "congelada",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>moluscos y productos a base de moluscos</strong>.",
+    "ingredients": "<strong>Almeja</strong> Pacífico Entera"
+  },
+  "origin": "Vietnam",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/5077ee2d933dcad572b8a81e0ade8a2f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5077ee2d933dcad572b8a81e0ade8a2f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5077ee2d933dcad572b8a81e0ade8a2f.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/602046e23d5e2ae897bf43b9e50d86f9.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/602046e23d5e2ae897bf43b9e50d86f9.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/602046e23d5e2ae897bf43b9e50d86f9.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.22",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "4.223",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.90",
+    "unit_selector": true,
+    "unit_size": 0.45
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/60874/almeja-hacendado-congelada-paquete",
+  "slug": "almeja-hacendado-congelada-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/5077ee2d933dcad572b8a81e0ade8a2f.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

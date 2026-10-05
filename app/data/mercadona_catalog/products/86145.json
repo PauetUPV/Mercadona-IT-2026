@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 474,
+              "level": 2,
+              "name": "Patatas fritas",
+              "order": 9
+            }
+          ],
+          "id": 132,
+          "level": 1,
+          "name": "Patatas fritas y snacks",
+          "order": 9
+        }
+      ],
+      "id": 15,
+      "level": 0,
+      "name": "Aperitivos",
+      "order": 9
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Patatas fritas onduladas sabor jamón serrano Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Patatas fritas onduladas con sabor a jamón",
+    "mandatory_mentions": "Envasado en atmósfera protectora",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Consérvese en lugar fresco y seco, al abrigo de la luz. Una vez abierto, conservarlo cerrado y consumir el producto preferentemente en el plazo de una semana",
+    "suppliers": [
+      {
+        "name": "Fritoper S.L."
+      },
+      {
+        "name": "RUBIO SNACKS"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Patatas fritas onduladas sabor jamón serrano Hacendado",
+  "ean": "8402001045837",
+  "extra_info": [
+    ""
+  ],
+  "id": "86145",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Patatas, aceite de girasol (35%) y aroma sabor a jamón (maltodextrina, sal, potenciadores del sabor: glutamato de monosodio, inosinato disódico y guanilato disódico; aroma, sal ahumada, maltodextrina ahumada, cloruro potásico). Puede contener trazas de <strong>leche</strong>"
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/e22f05059ea4f31ab20e1b230918879c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e22f05059ea4f31ab20e1b230918879c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e22f05059ea4f31ab20e1b230918879c.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/634f58dcf25006a43d1fa11fab0b5400.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/634f58dcf25006a43d1fa11fab0b5400.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/634f58dcf25006a43d1fa11fab0b5400.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "8.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "8.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.20",
+    "unit_selector": true,
+    "unit_size": 0.15
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/86145/patatas-fritas-onduladas-hacendado-sabor-jamon-serrano-paquete",
+  "slug": "patatas-fritas-onduladas-hacendado-sabor-jamon-serrano-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/e22f05059ea4f31ab20e1b230918879c.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

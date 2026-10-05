@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 328,
+              "level": 2,
+              "name": "Picos",
+              "order": 515
+            }
+          ],
+          "id": 64,
+          "level": 1,
+          "name": "Picos, rosquilletas y picatostes",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Picos sin gluten Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Picos sin gluten",
+    "mandatory_mentions": "Apto para celiacos. Sin gluten y sin lactosa.  Temperatura ambiente. Mantener en lugar fresco y seco. Una vez abierto conservar siempre en un envase cerrado y consumir antes de 3 días.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Temperatura ambiente. Mantener en lugar fresco y seco. Una vez abierto conservar siempre en un envase cerrado y consumir antes de 3 días.",
+    "suppliers": [
+      {
+        "name": "Mercadona, S.A"
+      },
+      {
+        "name": "Sinblat Alimentación Saludable, S.L"
+      }
+    ],
+    "usage_instructions": "Consumo directo."
+  },
+  "display_name": "Picos sin gluten Hacendado",
+  "ean": "8480000134509",
+  "extra_info": [
+    null
+  ],
+  "id": "13450",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Libre de <strong>mostaza y productos derivados</strong>. Libre de <strong>granos de sésamo y productos a base de granos de sésamo</strong>.",
+    "ingredients": "<p>Almidón de maíz, harina de arroz, aceite de girasol alto oleico (3,1%), levadura, fécula de patata, jarabe de azúcar invertido, estabilizantes (hidroxipropilmetilcelulosa, goma xantana y goma guar), azúcar y sal"
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/9d816a56d6740fc8bfe7a3050dad10b9.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9d816a56d6740fc8bfe7a3050dad10b9.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9d816a56d6740fc8bfe7a3050dad10b9.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/4889468082b035212cecf63d93e8f2e6.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4889468082b035212cecf63d93e8f2e6.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4889468082b035212cecf63d93e8f2e6.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "14.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "14.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.40",
+    "unit_selector": true,
+    "unit_size": 0.1
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/13450/picos-sin-gluten-hacendado-paquete",
+  "slug": "picos-sin-gluten-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/9d816a56d6740fc8bfe7a3050dad10b9.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

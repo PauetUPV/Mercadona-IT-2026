@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 499,
+              "level": 2,
+              "name": "Ensaladilla",
+              "order": 597
+            }
+          ],
+          "id": 142,
+          "level": 1,
+          "name": "Platos preparados fríos",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Ensalada de pasta al estilo Italiana Hacendado compuesta por salsa de pesto con albahaca, anacardos y pollo",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Ensalada de pasta con salsa pesto de albahaca, anacardos y pollo",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en refrigeración entre 0ºC y 4ºC. Una vez abierto, consumir en su totalidad.",
+    "suppliers": [
+      {
+        "name": "Productos Naturales de la Vega, S.L.U"
+      }
+    ],
+    "usage_instructions": "Listo para consumir"
+  },
+  "display_name": "Ensalada de pasta al estilo Italiana Hacendado",
+  "ean": "8402001054921",
+  "extra_info": [
+    ""
+  ],
+  "id": "24083",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Puede contener <strong>pescado y productos a base de pescado</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>huevos y productos a base de huevo</strong>. Contiene <strong>frutos de cáscara</strong>. Puede contener <strong>dióxido de azufre y sulfitos</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>. Contiene <strong>cereales que contengan gluten</strong>. Puede contener <strong>soja y productos a base de soja</strong>.",
+    "ingredients": "<p>INGREDIENTES: pasta de  sémola de trigo duro cocida (60%) (agua, sémola de trigo duro, vinagre de vino blanco), salsa pesto con albahaca y anacardos (20%) (pasta de albahaca (8,4%) (albahaca, aceite refinado de girasol,  sal marina, antioxidante: E-300), aceite refinado de girasol, anacardos (2,4%), queso (2%) (leche, sal, coagulante de  leche microbiano, fermentos lácticos (leche)), mantequilla  (nata, cultivos de ácido  láctico, concentrado de ácido láctico), aceite de oliva virgen extra, leche desnatada en polvo, acidulante: E-270, antioxidante:  E-300, ajo), pollo marinado frito (10%)  (solomillo de pollo, sal, agua, almidón de tapioca, xilosa y aceite de soja  refinado), queso madurado en salmuera (6%) (queso (leche pasteurizada de vaca, sal, fermentos  lácticos, coagulante de leche microbiano), salmuera (agua, sal, acidulante:  E-270, endurecedor: E-509)), tomate semiseco (4%). Puede contener trazas  de soja, huevo, crustáceos, sulfitos, granos de  sésamo, mostaza y pescado."
+  },
+  "origin": null,
+  "packaging": "Tarrina",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/1026ccb9ddbd336cf4fdc6673209e3e8.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1026ccb9ddbd336cf4fdc6673209e3e8.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1026ccb9ddbd336cf4fdc6673209e3e8.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/80ecb792896879e37f3f7830696fc0c9.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/80ecb792896879e37f3f7830696fc0c9.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/80ecb792896879e37f3f7830696fc0c9.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "10.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "10.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.00",
+    "unit_selector": true,
+    "unit_size": 0.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/24083/ensalada-pasta-estilo-italiana-hacendado-con-pollo-queso-tomate-seco-salsa-pesto-tarrina",
+  "slug": "ensalada-pasta-estilo-italiana-hacendado-con-pollo-queso-tomate-seco-salsa-pesto-tarrina",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/1026ccb9ddbd336cf4fdc6673209e3e8.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

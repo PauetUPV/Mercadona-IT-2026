@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 460,
+              "level": 2,
+              "name": "Tomate",
+              "order": 215
+            }
+          ],
+          "id": 126,
+          "level": 1,
+          "name": "Tomate",
+          "order": 215
+        }
+      ],
+      "id": 14,
+      "level": 0,
+      "name": "Conservas, caldos y cremas",
+      "order": 215
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Fritada pisto Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Fritada pisto",
+    "mandatory_mentions": "",
+    "origin": "Producto de España",
+    "production_variant": "",
+    "storage_instructions": "Una vez abierto, conservar refrigerado y consumir antes de 5 días.",
+    "suppliers": [
+      {
+        "name": "Conservas el Cidacos S.A."
+      }
+    ],
+    "usage_instructions": "Utilícese como guarnición en frío o en caliente, al gusto. No apto para microondas."
+  },
+  "display_name": "Fritada pisto Hacendado",
+  "ean": "8480000171122",
+  "extra_info": [
+    null
+  ],
+  "id": "17112",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Tomate, cebolla, calabacín, pimiento, aceite de oliva, azúcar, almidón modificado de maíz, sal, acidulante (ácido cítrico)."
+  },
+  "origin": "Producto de España",
+  "packaging": "Brik",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/3adb057bffc798dbc9f4a5240d663f01.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3adb057bffc798dbc9f4a5240d663f01.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3adb057bffc798dbc9f4a5240d663f01.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/c960e1781f2c1166c726bd1a8735d8c6.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c960e1781f2c1166c726bd1a8735d8c6.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c960e1781f2c1166c726bd1a8735d8c6.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.42",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "3.422",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.30",
+    "unit_selector": true,
+    "unit_size": 0.38
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/17112/fritada-pisto-hacendado-brick",
+  "slug": "fritada-pisto-hacendado-brick",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/3adb057bffc798dbc9f4a5240d663f01.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

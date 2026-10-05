@@ -1,0 +1,120 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 408,
+              "level": 2,
+              "name": "Yogures de sabores",
+              "order": 598
+            }
+          ],
+          "id": 104,
+          "level": 1,
+          "name": "Yogures naturales y sabores",
+          "order": 598
+        }
+      ],
+      "id": 11,
+      "level": 0,
+      "name": "Postres y yogures",
+      "order": 598
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Yogur sabores Hacendado 2 fresa, 2 plátano, 2 macedonia, 2 coco, 2 limón, 2 sandía, 2 vainilla y 2 galleta",
+    "legal_name": "Yogur sabor a fresa, plátano, macedonia, coco, limón, sandía, vainilla y galleta.",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 1C y 8C.",
+    "suppliers": [
+      {
+        "name": "Fabricado por: Schreiber Foods España, S.L"
+      },
+      {
+        "name": "SCHREIBER FOODS ESPAÑA, S.L"
+      },
+      {
+        "name": "Schreiber Foods España, S.L."
+      },
+      {
+        "name": "Senagral SASU"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Yogur sabores Hacendado",
+  "ean": "8402001007897",
+  "extra_info": [
+    null
+  ],
+  "id": "20001",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Leche</strong> fresca pasteurizada parcialmente desnatada (Origen: España), azúcar, <strong>leche</strong> en polvo desnatada, proteínas de la <strong>leche</strong>, aromas, colorantes (carmín y curcumina) y fermentos lácticos. Sin gluten."
+  },
+  "origin": null,
+  "packaging": "Pack-16",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/85b23a9a032693961d03270115cbefa3.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/85b23a9a032693961d03270115cbefa3.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/85b23a9a032693961d03270115cbefa3.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/95502f75ac98f2e8b1d76506de4b7e61.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/95502f75ac98f2e8b1d76506de4b7e61.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/95502f75ac98f2e8b1d76506de4b7e61.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.20",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.125,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "1.200",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 16,
+    "unit_name": "ud.",
+    "unit_price": "2.40",
+    "unit_selector": true,
+    "unit_size": 2.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/20001/yogur-sabores-hacendado-2-fresa-2-platano-2-macedonia-2-coco-2-limon-2-sandia-2-vainilla-2-galleta-pack-16",
+  "slug": "yogur-sabores-hacendado-2-fresa-2-platano-2-macedonia-2-coco-2-limon-2-sandia-2-vainilla-2-galleta-pack-16",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/85b23a9a032693961d03270115cbefa3.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

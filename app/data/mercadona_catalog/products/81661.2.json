@@ -1,0 +1,105 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 814,
+              "level": 2,
+              "name": "Boquerón",
+              "order": 442
+            }
+          ],
+          "id": 31,
+          "level": 1,
+          "name": "Pescado fresco",
+          "order": 442
+        }
+      ],
+      "id": 2,
+      "level": 0,
+      "name": "Marisco y pescado",
+      "order": 442
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": "Los productos del mostrador de pescadería pueden contener trazas de: pescado, moluscos, crustáceos y sulfitos.",
+    "danger_mentions": "",
+    "description": "Boquerón limpio sin cabeza y sin tripa",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "ENGRAULIS ENCRASICOLUS",
+    "mandatory_mentions": "Alérgenos: Contiene Pescado",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Mantener entre 0º y 3º",
+    "suppliers": [],
+    "usage_instructions": ""
+  },
+  "display_name": "Boquerón limpio sin cabeza",
+  "ean": "2105300816615",
+  "extra_info": [
+    ""
+  ],
+  "id": "81661.2",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": ""
+  },
+  "origin": null,
+  "packaging": "Granel",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/b55f89c3aefe2502e390182d9f47657a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b55f89c3aefe2502e390182d9f47657a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b55f89c3aefe2502e390182d9f47657a.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "5.95",
+    "bunch_selector": true,
+    "drained_weight": null,
+    "increment_bunch_amount": 0.2,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 0.2,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.950",
+    "selling_method": 1,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.19",
+    "unit_selector": false,
+    "unit_size": 0.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/81661.2/boqueron-limpio-sin-cabeza-sin-tripa-granel",
+  "slug": "boqueron-limpio-sin-cabeza-sin-tripa-granel",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/b55f89c3aefe2502e390182d9f47657a.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": [
+    1
+  ]
+}

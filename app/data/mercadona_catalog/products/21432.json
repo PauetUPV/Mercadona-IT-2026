@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 335,
+              "level": 2,
+              "name": "Pastelitos surtidos",
+              "order": 515
+            }
+          ],
+          "id": 66,
+          "level": 1,
+          "name": "Bollería envasada",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pasta de almendra Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Pasta de Almendra. Producto de Pastelería",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Consérvese en lugar fresco, seco y protegido de la luz.",
+    "suppliers": [
+      {
+        "name": "Dulmatesa, S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Pasta de almendra Hacendado",
+  "ean": "8402001045929",
+  "extra_info": [
+    ""
+  ],
+  "id": "21432",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>sa</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>frutos de cáscara</strong>. Contiene <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "Harina de <strong>trigo</strong>, manteca de cerdo, azúcar, <strong>almendra</strong> (14%), <strong>huevo</strong> líquido pasteurizado, aroma. <strong>Puede contener trazas de leche y/o derivados, mostaza soja y otros frutos de cáscara.</strong>"
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/f94ffac8df0ace40737b70556c6583d2.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f94ffac8df0ace40737b70556c6583d2.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f94ffac8df0ace40737b70556c6583d2.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/43df187bd00e3d63e9599d0740822426.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/43df187bd00e3d63e9599d0740822426.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/43df187bd00e3d63e9599d0740822426.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "5.75",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.750",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.29",
+    "unit_selector": true,
+    "unit_size": 0.05
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/21432/pasta-almendra-hacendado",
+  "slug": "pasta-almendra-hacendado",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/f94ffac8df0ace40737b70556c6583d2.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

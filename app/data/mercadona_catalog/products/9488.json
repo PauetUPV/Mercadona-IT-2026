@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 356,
+              "level": 2,
+              "name": "Cereales integrales y muesli",
+              "order": 18
+            }
+          ],
+          "id": 78,
+          "level": 1,
+          "name": "Cereales",
+          "order": 18
+        }
+      ],
+      "id": 7,
+      "level": 0,
+      "name": "Cereales y galletas",
+      "order": 18
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Cereales copos de trigo integral y arroz Hacendado 0% azúcares añadidos Linnea V",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Copos laminados y tostados de trigo integral y de arroz",
+    "mandatory_mentions": "Contiene azúcares naturalmente presentes.",
+    "origin": "Fabricado en Francia",
+    "production_variant": "",
+    "storage_instructions": "Cerrar la bolsa interior después de cada uso y conservar en un lugar fresco, seco y protegido de la luz.",
+    "suppliers": [
+      {
+        "name": "Dailycer S.A.S."
+      },
+      {
+        "name": "Dailycer, S.A.S"
+      }
+    ],
+    "usage_instructions": "Vierte los cereales en un tazón. Disfrútalos con leche o yogur."
+  },
+  "display_name": "Cereales copos de trigo integral y arroz Hacendado 0% azúcares añadidos",
+  "ean": "8480000094889",
+  "extra_info": [
+    ""
+  ],
+  "id": "9488",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "0% azúcares añadidos",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>gb</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Puede contener <strong>frutos de cáscara</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Cereales [<strong>trigo</strong> integral, arroz], extracto de malta de <strong>cebada</strong>, sal. <strong>Puede contener trazas de soja, lácteos y otros frutos de cáscara.</strong> La información en <strong>negrita</strong> es para las personas con alergias."
+  },
+  "origin": "Fabricado en Francia",
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/b911f6af2c54a9e27b676aef897ba8ff.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b911f6af2c54a9e27b676aef897ba8ff.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b911f6af2c54a9e27b676aef897ba8ff.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/646516f6259b09d592824eb17277484d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/646516f6259b09d592824eb17277484d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/646516f6259b09d592824eb17277484d.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.80",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "3.800",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.90",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/9488/cereales-copos-trigo-integral-arroz-hacendado-0-azucares-anadidos-linnea-v-caja",
+  "slug": "cereales-copos-trigo-integral-arroz-hacendado-0-azucares-anadidos-linnea-v-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/b911f6af2c54a9e27b676aef897ba8ff.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

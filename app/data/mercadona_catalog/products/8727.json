@@ -1,0 +1,135 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 800,
+              "level": 2,
+              "name": "Fideos orientales",
+              "order": 10
+            }
+          ],
+          "id": 120,
+          "level": 1,
+          "name": "Pasta y fideos",
+          "order": 10
+        }
+      ],
+      "id": 13,
+      "level": 0,
+      "name": "Arroz, legumbres y pasta",
+      "order": 10
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 807,
+              "level": 2,
+              "name": "Fideos orientales",
+              "order": 597
+            }
+          ],
+          "id": 140,
+          "level": 1,
+          "name": "Platos preparados calientes",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Fideos orientales Yakisoba sabor soja Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Preparado alimenticio instantáneo de fideos de trigo con salsa Yakisoba a base de soja.",
+    "mandatory_mentions": "Este envase contiene 1 porción de 150 g de producto preparado. ¡Atención! EL VASO ESTA MUY CALIENTE. COLAR CON CUIDADO.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Mantener alejado de la humedad y de la luz",
+    "suppliers": [
+      {
+        "name": "Nissin Foods GmbH"
+      }
+    ],
+    "usage_instructions": "1. Retire las dos tapas y el sobre. Llene el vaso con agua hirviendo hasta la línea interior. 2. Cierre la tapa de plástico y deje reposar 3 minutos. 3. Escurra el agua sobrante a través de las aberturas en la tapa. ATENCIÓN: El vaso está caliente. Fíjese también en el dibujo de la tapa de aluminio. 4. Añada el contenido del sobre y remuévalo bien. ¡Listo!"
+  },
+  "display_name": "Fideos orientales Yakisoba sabor soja Hacendado",
+  "ean": "8402001023378",
+  "extra_info": [
+    ""
+  ],
+  "id": "8727",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>moluscos y productos a base de moluscos</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>apio y productos derivados</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Puede contener <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>pescado y productos a base de pescado</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>. Contiene <strong>trigo y productos derivados</strong>.",
+    "ingredients": "Fideos 80,0% [harina de <strong>trigo</strong>, aceite de palma, sal, potenciador del sabor (E621), agentes de tratamiento de la harina (E500, E451), antioxidante (E306), corrector de acidez: ácido cítrico], Sazonador líquido 18,1% [azúcar, agua, aceite de colza, salsa de <strong>soja</strong> (agua, habas de <strong>soja</strong>, sal, <strong>trigo</strong>) 8,8% en el sazonador líquido, potenciadores del sabor (E621, E635), colorante (E150c), dextrosa, melaza, vinagre, sal, especias, proteína vegetal hidrolizada, tomate en polvo, corrector de acidez: ácido cítrico, aromas], zanahoria, cebolleta. Puede contener trazas de <strong>apio</strong>, <strong>crustáceos</strong>, <strong>pescado</strong>, <strong>leche</strong>, <strong>moluscos</strong>, <strong>mostaza</strong> y <strong>sésamo</strong>."
+  },
+  "origin": null,
+  "packaging": "Vaso",
+  "photos": [
+    {
+      "perspective": 3,
+      "regular": "https://prod-mercadona.imgix.net/images/a2c0f2e4dea415968e3c99e30389b38e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a2c0f2e4dea415968e3c99e30389b38e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a2c0f2e4dea415968e3c99e30389b38e.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/10a8eaa8a5216c4616e2c5f96211d155.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/10a8eaa8a5216c4616e2c5f96211d155.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/10a8eaa8a5216c4616e2c5f96211d155.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "13.89",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "13.889",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.00",
+    "unit_selector": true,
+    "unit_size": 0.072
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/8727/fideos-orientales-yakisoba-sabor-soja-hacendado-vaso",
+  "slug": "fideos-orientales-yakisoba-sabor-soja-hacendado-vaso",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/a2c0f2e4dea415968e3c99e30389b38e.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

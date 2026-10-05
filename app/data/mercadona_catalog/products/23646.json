@@ -1,0 +1,112 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 337,
+              "level": 2,
+              "name": "Harina",
+              "order": 515
+            }
+          ],
+          "id": 69,
+          "level": 1,
+          "name": "Harina y preparado repostería",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Preparado para pizzas Hacendado",
+    "legal_name": "PREPARADO PARA ELABORAR PIZZAS",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en sitio fresco, seco y aislado del suelo",
+    "suppliers": [
+      {
+        "name": "HARINERA DEL MAR SIGLO XXI S.L."
+      },
+      {
+        "name": "INDUSTRIA MOLITORIA DENTI S.R.L."
+      }
+    ],
+    "usage_instructions": "1. Añadir los ingredientes 500g de preparado de pizza, 10 g de aceite, 310 ml de agua, 10 g de sal.2. Amasar (hasta que quede la masa lisa)3. Reposar 10 min.4. Cortar y hacer bolas de 250 g- 300 g 5. Dejar fermentar de 50 a 1h 20 min6. Extender y añadir ingredientes al gusto.7. Precalentar máxima potencia 8. Máxima potencia 8-10 min y dejar enfriar en rejilla"
+  },
+  "display_name": "Preparado para pizzas Hacendado",
+  "ean": "8402001014260",
+  "extra_info": [
+    null
+  ],
+  "id": "23646",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Harina de trigo, levadura seca, y enzimas. Puede contener trazas de soja y mostaza"
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/4c7fdbea75eb11bc718063f3f39f1183.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4c7fdbea75eb11bc718063f3f39f1183.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4c7fdbea75eb11bc718063f3f39f1183.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/66afd7326bef945e81ea89df84c9523a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/66afd7326bef945e81ea89df84c9523a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/66afd7326bef945e81ea89df84c9523a.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.45",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "1.450",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.45",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/23646/preparado-pizzas-hacendado-paquete",
+  "slug": "preparado-pizzas-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/4c7fdbea75eb11bc718063f3f39f1183.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

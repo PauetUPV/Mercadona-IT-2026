@@ -1,0 +1,144 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 800,
+              "level": 2,
+              "name": "Fideos orientales",
+              "order": 10
+            }
+          ],
+          "id": 120,
+          "level": 1,
+          "name": "Pasta y fideos",
+          "order": 10
+        }
+      ],
+      "id": 13,
+      "level": 0,
+      "name": "Arroz, legumbres y pasta",
+      "order": 10
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 807,
+              "level": 2,
+              "name": "Fideos orientales",
+              "order": 597
+            }
+          ],
+          "id": 140,
+          "level": 1,
+          "name": "Platos preparados calientes",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Fideos orientales sabor pollo Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Fideos instantaneos sabor a pollo oriental tradicional",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar el lugar fresco y seco. Consumir preferentemente antes del fin de /Lote: (ver envase).",
+    "suppliers": [
+      {
+        "name": "Fabricado por AB <<Kauno Grudai>>."
+      },
+      {
+        "name": "Fabricado por AB KAUNO GRÜDAI"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Fideos orientales sabor pollo Hacendado",
+  "ean": "8480000224538",
+  "extra_info": [
+    null
+  ],
+  "id": "22453",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Contiene <strong>apio y productos derivados</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>huevos y productos a base de huevo</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>.",
+    "ingredients": "Fideos instantaneos (80%): harina de <strong>trigo</strong>, aceite de palma, sal, almidón modificado, azúcar, gasificantes: carbonato de sodio y potasio; extracto de cúrcuma. Caldo (20%): zanahorias, maltodextrina, harina de <strong>trigo</strong>, maíz, grasas de palma, potenciadores del aroma y del sabor: E-621, E-635; sal, azúcar, carne de pollo en polvo, cebollino, cebollas fritas en polvo (cebollas deshidratadas, aceite de girasol), aromas, extracto de levadura, salsa de <strong>soja</strong> fermentada (<strong>soja</strong>, <strong>trigo</strong>, maltodextrina, sal), sofrito ((cebolla, zanahoria, <strong>apio</strong>), aceite de girasol, cebolla, azúcar, almidón de maíz, sal, puré de ajo, antioxidantes: E-392, E-396, E-300; pimienta negra), azúcar caramelizada, pimienta blanca, chile, jenjibre, extracto de cúrcuma. Puede contener trazas de <strong>crustaceos</strong>, <strong>huevos</strong>, <strong>leche</strong> y <strong>mostaza</strong>."
+  },
+  "origin": null,
+  "packaging": "Vaso",
+  "photos": [
+    {
+      "perspective": 3,
+      "regular": "https://prod-mercadona.imgix.net/images/15c837040a1190dbaa8aa8b91694d67c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/15c837040a1190dbaa8aa8b91694d67c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/15c837040a1190dbaa8aa8b91694d67c.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/4a425f20a4ddec215ec3729467a441ce.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4a425f20a4ddec215ec3729467a441ce.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4a425f20a4ddec215ec3729467a441ce.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/80b016376c0286f78f013af861d916af.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/80b016376c0286f78f013af861d916af.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/80b016376c0286f78f013af861d916af.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "12.31",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": "        0.90",
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "12.308",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.80",
+    "unit_selector": true,
+    "unit_size": 0.065
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/22453/fideos-orientales-sabor-pollo-hacendado-vaso",
+  "slug": "fideos-orientales-sabor-pollo-hacendado-vaso",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/15c837040a1190dbaa8aa8b91694d67c.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

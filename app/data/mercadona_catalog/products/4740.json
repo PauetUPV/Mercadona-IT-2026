@@ -1,0 +1,149 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 420,
+              "level": 2,
+              "name": "Aceite de oliva",
+              "order": 7
+            }
+          ],
+          "id": 112,
+          "level": 1,
+          "name": "Aceite, vinagre y sal",
+          "order": 7
+        }
+      ],
+      "id": 12,
+      "level": 0,
+      "name": "Aceite, especias y salsas",
+      "order": 7
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Aceite de oliva virgen extra Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "ACEITE DE OLIVA VIRGEN EXTRA",
+    "mandatory_mentions": "Procedente principalmente de las variedades Picual, Hojiblanca y Arbequino.",
+    "origin": "Jaén",
+    "production_variant": "De variedad Picual de olivar de montaña",
+    "storage_instructions": "Manténgase alejado de la luz y el calor",
+    "suppliers": [
+      {
+        "name": "ACEITES MAEVA S.L.U"
+      },
+      {
+        "name": "Aceites Oro Bailén Galgon 99 SLU, S.L.U."
+      },
+      {
+        "name": "Aceites de las Heras S.L."
+      },
+      {
+        "name": "Aceites del Sur- Coosur S.A."
+      },
+      {
+        "name": "BAIEO, SAU"
+      },
+      {
+        "name": "Jaencoop SCA"
+      },
+      {
+        "name": "MERCADONA"
+      },
+      {
+        "name": "MERCAOLEO"
+      },
+      {
+        "name": "Mercaoleo, s.l. para Mercadona"
+      },
+      {
+        "name": "Oleocampo, S.C.A."
+      },
+      {
+        "name": "Oleoestepa S.C.A."
+      },
+      {
+        "name": "Oleoestepa, S.Coop.And."
+      },
+      {
+        "name": "SOVENA ESPAÑA S.A.U."
+      }
+    ],
+    "usage_instructions": "Para su consumo en crudo, guisos y fritos."
+  },
+  "display_name": "Aceite de oliva virgen extra Hacendado",
+  "ean": "8402001001185",
+  "extra_info": [
+    null
+  ],
+  "id": "4740",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Ingredientes: Aceite de Oliva Virgen Extra"
+  },
+  "origin": "Jaén",
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/a5648e373920a10023a7ab6304eb0dc0.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a5648e373920a10023a7ab6304eb0dc0.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a5648e373920a10023a7ab6304eb0dc0.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/97013919c5b0bf60473bab330a8c24eb.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/97013919c5b0bf60473bab330a8c24eb.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/97013919c5b0bf60473bab330a8c24eb.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.45",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": "        4.70",
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "4.450",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "4.45",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/4740/aceite-oliva-virgen-extra-hacendado-botella",
+  "slug": "aceite-oliva-virgen-extra-hacendado-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/a5648e373920a10023a7ab6304eb0dc0.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

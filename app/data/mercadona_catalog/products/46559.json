@@ -1,0 +1,109 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Deliplus",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 705,
+              "level": 2,
+              "name": "Colonia",
+              "order": 14
+            }
+          ],
+          "id": 218,
+          "level": 1,
+          "name": "Higiene y cuidado",
+          "order": 14
+        }
+      ],
+      "id": 24,
+      "level": 0,
+      "name": "Bebé",
+      "order": 14
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": "",
+    "brand": "Deliplus",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Agua perfumada bebé con notas florales Deliplus",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "",
+    "mandatory_mentions": "",
+    "origin": "",
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [],
+    "usage_instructions": ""
+  },
+  "display_name": "Agua perfumada bebé con notas florales Deliplus",
+  "ean": "8420221004533",
+  "extra_info": [
+    null
+  ],
+  "id": "46559",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "",
+    "ingredients": ""
+  },
+  "origin": "",
+  "packaging": "Bote",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/d8964bd9177d4c0478d127f259dfa5dc.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d8964bd9177d4c0478d127f259dfa5dc.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d8964bd9177d4c0478d127f259dfa5dc.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/560cdbc0b0730f3d78833a23b4b5c04c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/560cdbc0b0730f3d78833a23b4b5c04c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/560cdbc0b0730f3d78833a23b4b5c04c.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "32.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 21,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "100 ml",
+    "reference_price": "3.200",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.20",
+    "unit_selector": true,
+    "unit_size": 0.1
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/46559/agua-perfumada-bebe-con-notas-florales-deliplus-bote",
+  "slug": "agua-perfumada-bebe-con-notas-florales-deliplus-bote",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/d8964bd9177d4c0478d127f259dfa5dc.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

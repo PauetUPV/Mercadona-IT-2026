@@ -1,0 +1,127 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Listo para Comer",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 878,
+              "level": 2,
+              "name": "Platos calientes",
+              "order": 597
+            }
+          ],
+          "id": 897,
+          "level": 1,
+          "name": "Listo para Comer",
+          "order": 597
+        },
+        {
+          "categories": [
+            {
+              "id": 494,
+              "level": 2,
+              "name": "Platos de cuchara",
+              "order": 597
+            }
+          ],
+          "id": 140,
+          "level": 1,
+          "name": "Platos preparados calientes",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Listo para Comer",
+    "counter_info": "Ingredientes: Agua, lentejas secas 14%, patata, chorizo 8% (carne y grasa de cerdo, sal, especias, ajo, azúcar, almidón, fibra de guisante, correctores de acidez: E262, E325; aromas naturales, antioxidante: E301; colorante: E120), tomate (tomate, corrector de acidez: E330), zanahoria, cebolla frita (cebolla, aceite de oliva), jamón curado (jamón de cerdo, sal, conservadores: E252, E250), pasta de ajo (ajo, sal, corrector de acidez: E330), sal, almidón modificado, aroma natural, especias.\n\nPuede contener trazas de: Soja, Altramuces, Leche y sus derivados (incluida lactosa), Huevo, Frutos de cáscara y derivados, Mostaza, Moluscos, Pescado, Sésamo, Crustáceos, Gluten, Apio, Cacahuetes, Sulfitos.\n\nProducto preparado por Mercadona, S.A. (C/ Alfonso Roig Alfonso, s/n. Albalat dels Sorells 46135, Valencia).",
+    "danger_mentions": "",
+    "description": "Lentejas Listo para Comer",
+    "is_prepared_by_mercadona": true,
+    "legal_name": "Ración de lentejas con chorizo",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 0º- 4º C Una vez abierto se recomienda su consumo inmediato.",
+    "suppliers": [
+      {
+        "name": "Platos Tradicionales S.A."
+      }
+    ],
+    "usage_instructions": "Microondas: 1-\tAbrir el envase 2-\tDividir los 2 kg de lentejas por raciones 3-\tCalentar, cada ración, en el microondas 2/3 minutos a máxima potencia Baño María: 1-\tAbrir el envase 2-\tColocar las lentejas en un recipiente apto para alta temperatura 3-\tCalentar al baño María 20/25 minutos"
+  },
+  "display_name": "Lentejas Listo para Comer",
+  "ean": "8480000884077",
+  "extra_info": [
+    null
+  ],
+  "id": "88407",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Lentejas cocidas (82%): agua, lentejas secas, jamón curado (jamón de cerdo, sal y conservador [nitrato de potasio]), cebolla, tomate (tomate y corrector de acidez [ácido cítrico]), zanahoria, aceite de oliva, sal, ajo (ajo, sal y corrector de acidez [ácido cítrico]), aroma natural, pimentón y laurel molido. Patata (13%). Chorizo dulce (5%): chorizo (magro, paleta y panceta de cerdo, pimentón y sal).  Trazas de <strong>gluten</strong>, <strong>leche</strong> y derivados"
+  },
+  "origin": "España",
+  "packaging": "Bol",
+  "photos": [
+    {
+      "perspective": 3,
+      "regular": "https://prod-mercadona.imgix.net/images/f3969d774c063e03c1da522f39c90a49.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f3969d774c063e03c1da522f39c90a49.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f3969d774c063e03c1da522f39c90a49.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/f9566d60be0a7d8e18ba3b83d35f2337.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f9566d60be0a7d8e18ba3b83d35f2337.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f9566d60be0a7d8e18ba3b83d35f2337.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "4.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "4.00",
+    "unit_selector": true,
+    "unit_size": 0.485
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/88407/lentejas-listo-comer-bol",
+  "slug": "lentejas-listo-comer-bol",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/f3969d774c063e03c1da522f39c90a49.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

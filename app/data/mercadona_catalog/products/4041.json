@@ -1,0 +1,128 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 421,
+              "level": 2,
+              "name": "Otros aceites",
+              "order": 7
+            }
+          ],
+          "id": 112,
+          "level": 1,
+          "name": "Aceite, vinagre y sal",
+          "order": 7
+        }
+      ],
+      "id": 12,
+      "level": 0,
+      "name": "Aceite, especias y salsas",
+      "order": 7
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Aceite de girasol refinado 0,2º Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Aceite refinado girasol",
+    "mandatory_mentions": "acidez 0,2º máxima",
+    "origin": "Ucrania",
+    "production_variant": "-",
+    "storage_instructions": "Conservar en un lugar fresco, seco y protegido de la luz.",
+    "suppliers": [
+      {
+        "name": "F.FAIGES, S.L."
+      },
+      {
+        "name": "Lesieur"
+      },
+      {
+        "name": "Lesieur SA"
+      },
+      {
+        "name": "Mercadona SA"
+      },
+      {
+        "name": "Riazor-Aeites e óleos vegetais, S.A."
+      },
+      {
+        "name": "SOVENA ESPAÑA S.A.U."
+      }
+    ],
+    "usage_instructions": "Ideal para freír."
+  },
+  "display_name": "Aceite de girasol refinado 0,2º Hacendado",
+  "ean": "8402001021633",
+  "extra_info": [
+    ""
+  ],
+  "id": "4041",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Ingredientes: Aceite refinado de girasol , aceite refinado de girasol alto oleico."
+  },
+  "origin": "Ucrania",
+  "packaging": "Garrafa",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/e6398afba1d032d2e1c0489fd727d2f6.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e6398afba1d032d2e1c0489fd727d2f6.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e6398afba1d032d2e1c0489fd727d2f6.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/7b14e41530db002875570d55711007e5.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7b14e41530db002875570d55711007e5.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7b14e41530db002875570d55711007e5.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.72",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "1.720",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "8.60",
+    "unit_selector": true,
+    "unit_size": 5.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/4041/aceite-girasol-refinado-02o-hacendado-garrafa",
+  "slug": "aceite-girasol-refinado-02o-hacendado-garrafa",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/e6398afba1d032d2e1c0489fd727d2f6.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

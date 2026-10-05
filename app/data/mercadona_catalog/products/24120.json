@@ -1,0 +1,134 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 516,
+              "level": 2,
+              "name": "Marisco",
+              "order": 213
+            }
+          ],
+          "id": 150,
+          "level": 1,
+          "name": "Marisco",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 272,
+              "level": 2,
+              "name": "Marisco",
+              "order": 442
+            }
+          ],
+          "id": 32,
+          "level": 1,
+          "name": "Marisco",
+          "order": 442
+        }
+      ],
+      "id": 2,
+      "level": 0,
+      "name": "Marisco y pescado",
+      "order": 442
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Nécora cocida Hacendado congelada",
+    "legal_name": "Nécora Puber",
+    "mandatory_mentions": "",
+    "origin": "FAO 27",
+    "production_variant": "Capturado en el mar. Pesca extractiva con nasas y trampas. Pescado en el Atlántico Noreste (FA027) Vla: Costa noroeste de Escocia e Irlanda del Norte u Oeste de Escocia. Vlla: Mar de Irlanda. Vllb: Oeste de Irlanda. Vllg: Mar Céltico - norte",
+    "storage_instructions": "Producto congelado. Conservar a -18º. Descongele en un ambiente refrigerado. Una vez descongelado no volver a congelar. Consumir dentro de las 36 horas de apertura",
+    "suppliers": [
+      {
+        "name": "ERRIGAL SEAFOOD"
+      },
+      {
+        "name": "Errigal Seafood"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Nécora cocida Hacendado congelada",
+  "ean": "5099394001750",
+  "extra_info": [
+    null
+  ],
+  "id": "24120",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>dióxido de azufre y sulfitos</strong>. Contiene <strong>crustáceos y productos a base de crustáceos</strong>.",
+    "ingredients": "<strong>Nécora</strong> (98%) (<strong>Crustáceos</strong>) ( <strong>Nécora Puber</strong>), agua, sal, E223 (<strong>Metasulfito sódico</strong>) , E221 (<strong>Sulfito de Sodio</strong>) (<strong>Sulfitos</strong>). <strong>Puede contener trazas de moluscos</strong>"
+  },
+  "origin": "FAO 27",
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/8c905b9bdd50d7782edc2d06700f721c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8c905b9bdd50d7782edc2d06700f721c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8c905b9bdd50d7782edc2d06700f721c.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/1834e03e9c017ea34cc3ae34813832c0.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1834e03e9c017ea34cc3ae34813832c0.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1834e03e9c017ea34cc3ae34813832c0.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "16.00",
+    "bunch_selector": false,
+    "drained_weight": 0.5,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "16.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "8.00",
+    "unit_selector": true,
+    "unit_size": null
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/24120/necora-cocida-hacendado-congelada-caja",
+  "slug": "necora-cocida-hacendado-congelada-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/8c905b9bdd50d7782edc2d06700f721c.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

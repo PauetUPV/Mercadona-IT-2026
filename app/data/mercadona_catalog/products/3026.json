@@ -1,0 +1,109 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 250,
+              "level": 2,
+              "name": "Fruta tropical",
+              "order": 306
+            }
+          ],
+          "id": 27,
+          "level": 1,
+          "name": "Fruta",
+          "order": 306
+        }
+      ],
+      "id": 1,
+      "level": 0,
+      "name": "Fruta y verdura",
+      "order": 306
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": "",
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Papaya",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "",
+    "mandatory_mentions": "",
+    "origin": "",
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [],
+    "usage_instructions": ""
+  },
+  "display_name": "Papaya",
+  "ean": "2105435030269",
+  "extra_info": [
+    ""
+  ],
+  "id": "3026",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "",
+    "ingredients": ""
+  },
+  "origin": "",
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 10,
+      "regular": "https://prod-mercadona.imgix.net/images/e01d68c0435d10972f813077441c6c4c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e01d68c0435d10972f813077441c6c4c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e01d68c0435d10972f813077441c6c4c.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/1a0ee83f43dfd6dfb45126ab070999b4.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1a0ee83f43dfd6dfb45126ab070999b4.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1a0ee83f43dfd6dfb45126ab070999b4.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "5.25",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.250",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.26",
+    "unit_selector": true,
+    "unit_size": 0.62
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/3026/papaya-pieza",
+  "slug": "papaya-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/e01d68c0435d10972f813077441c6c4c.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

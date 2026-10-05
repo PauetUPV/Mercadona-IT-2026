@@ -1,0 +1,114 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Incarlopsa",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 298,
+              "level": 2,
+              "name": "Jamón serrano",
+              "order": 159
+            }
+          ],
+          "id": 50,
+          "level": 1,
+          "name": "Jamón serrano",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Incarlopsa",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Mini taquitos de jamón Incarlopsa",
+    "legal_name": "Jamón curado mini taquitos 180g",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar refrigerado entre 0C y 5C",
+    "suppliers": [
+      {
+        "name": "INCARLOPSA"
+      },
+      {
+        "name": "Inds. Cárnicas Loriente Piqueras, S.A. (INCARLOPSA)."
+      }
+    ],
+    "usage_instructions": "Abrir el envase 10 minutos antes de ser consumido. Para cocinar."
+  },
+  "display_name": "Mini taquitos de jamón Incarlopsa",
+  "ean": "8421384016210",
+  "extra_info": [
+    null
+  ],
+  "id": "59018",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Jamón de cerdo, sal y conservadores (E-252, E-250)."
+  },
+  "origin": "España",
+  "packaging": "Pack-2",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/d4a9e1f4f839b41f145a056b17f3f701.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d4a9e1f4f839b41f145a056b17f3f701.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d4a9e1f4f839b41f145a056b17f3f701.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/1289b57ad949a983bd85db1f5d3a16ec.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1289b57ad949a983bd85db1f5d3a16ec.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1289b57ad949a983bd85db1f5d3a16ec.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "14.72",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.09,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "14.723",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 2,
+    "unit_name": "paquetes",
+    "unit_price": "2.65",
+    "unit_selector": true,
+    "unit_size": 0.18
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/59018/mini-taquitos-jamon-incarlopsa-pack-2",
+  "slug": "mini-taquitos-jamon-incarlopsa-pack-2",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/d4a9e1f4f839b41f145a056b17f3f701.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

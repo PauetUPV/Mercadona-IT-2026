@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 886,
+              "level": 2,
+              "name": "Verdura rebozada y otros",
+              "order": 213
+            }
+          ],
+          "id": 884,
+          "level": 1,
+          "name": "Rebozados",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Croquetas caprichos de camembert Hacendado ultracongelados",
+    "legal_name": "Croquetas con queso fundido ultracongeladas (queso fundido 25%)",
+    "mandatory_mentions": "Sin gluten.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en congelación a temperatura inferior a -18 c. Una vez descongelado no volver a congelar. 18 meses desde la fecha de fabricación, siempre que el producto sea correctamente almacenado y transportado al menos a -18C.",
+    "suppliers": [
+      {
+        "name": "PRECOCINADOS FRISA, SLU"
+      }
+    ],
+    "usage_instructions": "Freidora: Calentar el aceite previamente a 180C. Una vez el aceite esté caliente introducir las croquetas sin que se monten unas con otras y así evitar el descenso brusco de temperatura. Dejar freír durante 3,5 minutos. Sartén: Calentar el aceite previamente, cuando el aceite esté humeando introducir las croquetas sin que se monten una con otras y así evitar el descenso brusco de temperatura. Se recomienda que el aceite cubra por completo las croquetas. Dejar freír durante 3,5 minutos. Calentar con freidora aceite a 180 c. Freír pocas unidades a la vez y que queden bien cubiertas por el aceite. Calentar con cazo. Introducir el producto congelado. Reposar 3 min."
+  },
+  "display_name": "Croquetas caprichos de camembert Hacendado ultracongelados",
+  "ean": "8402001047473",
+  "extra_info": [
+    ""
+  ],
+  "id": "21571",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>huevos y productos a base de huevo</strong>. Libre de <strong>cereales que contengan gluten</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>moluscos y productos a base de moluscos</strong>. Puede contener <strong>apio y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>pescado y productos a base de pescado</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>.",
+    "ingredients": "Queso fundido (25%) [queso Camembert, mantequilla, proteína de la <strong>LECHE</strong>, sales de fundido (E-452, E-339), estabilizantes (E-472b, E-471, E-440, E-407), corrector de acidez (E-330), colorante (E-160a)], <strong>LECHE</strong> entera pasteurizada, agua, almidón de maiz, pan rallado [harina de arroz, dextrosa, sal, gasificante (bicarbonato sódico), emulgente (mono y diglicéridos de ácidos grasos), corrector de acidez (fosfato monocálcico)], preparado para empanar rehidratado [almidones (maíz, patata), <strong>LECHE</strong> en polvo desnatada, emulgentes (trifosfato pentasódico, goma guar, goma xantana), sal], aceite refinado de girasol, gelificante (gelatina), sal, espesante (metilcelulosa), emulsionante (mono- y diglicéridos de ácidos grasos). Puede contener trazas de <strong>CRUSTÁCEOS</strong>, <strong>HUEVOS</strong>, <strong>PESCADO</strong>, <strong>SOJA</strong>, <strong>APIO</strong>, <strong>MOLUSCOS</strong> y/o sus derivados."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/51f6f364c09c44f6d606831ea292fae2.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/51f6f364c09c44f6d606831ea292fae2.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/51f6f364c09c44f6d606831ea292fae2.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/9df54a75963cdedf84962d021ab1c636.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9df54a75963cdedf84962d021ab1c636.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9df54a75963cdedf84962d021ab1c636.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "7.86",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.858",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.75",
+    "unit_selector": true,
+    "unit_size": 0.35
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/21571/caprichos-camembert-hacendado-ultracongelados-paquete",
+  "slug": "caprichos-camembert-hacendado-ultracongelados-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/51f6f364c09c44f6d606831ea292fae2.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

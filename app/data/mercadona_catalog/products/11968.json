@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Mar de Uvas",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 571,
+              "level": 2,
+              "name": "Rioja y otras denominaciones",
+              "order": 15
+            }
+          ],
+          "id": 170,
+          "level": 1,
+          "name": "Vino blanco",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": "13.0º",
+    "brand": "Mar de Uvas",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Vino blanco Chardonnay Mar de Uvas",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Vino blanco Chardonnay",
+    "mandatory_mentions": "Consumo moderado",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservese en lugar fresco y protegido de la luz solar",
+    "suppliers": [
+      {
+        "name": "Virgen de las Viñas Bodega y Almazara Sociedad Cooperativa de Castilla la Mancha"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Vino blanco Chardonnay Mar de Uvas",
+  "ean": "8402001029509",
+  "extra_info": [
+    ""
+  ],
+  "id": "11968",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>dióxido de azufre y sulfitos</strong>.",
+    "ingredients": "Uvas, mosto de uva concentrado, correctores de la acidez (contiene ácido málico y/o ácido cítrico monohidratado y/o ácido tartárico[L(+)] y/o ácido láctico), agentes estabilizantes (ácido metatartárico), Conservadores (<strong>anhídrido sulfuroso(sulfitos),</strong> dicarbonato de dimetilo) y antioxidantes (ácido l-ascórbico). Embotellado en atmósfera protectora."
+  },
+  "origin": null,
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/f7aa5d1654c36df00cf08eb10e40863d.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f7aa5d1654c36df00cf08eb10e40863d.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f7aa5d1654c36df00cf08eb10e40863d.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/aea5abd5510a8a066490ca424ad0beff.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/aea5abd5510a8a066490ca424ad0beff.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/aea5abd5510a8a066490ca424ad0beff.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "3.000",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.25",
+    "unit_selector": true,
+    "unit_size": 0.75
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/11968/vino-blanco-chardonnay-mar-uvas-botella",
+  "slug": "vino-blanco-chardonnay-mar-uvas-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/f7aa5d1654c36df00cf08eb10e40863d.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

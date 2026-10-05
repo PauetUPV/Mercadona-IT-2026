@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 340,
+              "level": 2,
+              "name": "Decoración",
+              "order": 515
+            }
+          ],
+          "id": 71,
+          "level": 1,
+          "name": "Velas y decoración",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Almendra laminada Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "ALMENDRA LAMINADA",
+    "mandatory_mentions": "Producto natural y sin conservantes. ESTE PRODUCTO POR SU TAMAÑO, NO LO DEBEN CONSUMIR MENORES DE 5 AÑOS.",
+    "origin": "Estados Unidos (los)",
+    "production_variant": "",
+    "storage_instructions": "Proteger de la luz. Conservar en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "IMPORTACO CASA PONS S.A.U."
+      }
+    ],
+    "usage_instructions": "Una vez abierto el envase, conservarlo cerrado y consumir el producto preferentemente en el plazo de una semana."
+  },
+  "display_name": "Almendra laminada Hacendado",
+  "ean": "8480000349231",
+  "extra_info": [
+    null
+  ],
+  "id": "34923",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>sa</strong>. Puede contener <strong>frutos de cáscara</strong>.",
+    "ingredients": "<strong>ALMENDRAS</strong>.<strong>TRAZAS DE OTROS FRUTOS DE CÁSCARA</strong>."
+  },
+  "origin": "Estados Unidos (los)",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/06d42f5a2c9c118a3ce3e6daa90a3cdf.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/06d42f5a2c9c118a3ce3e6daa90a3cdf.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/06d42f5a2c9c118a3ce3e6daa90a3cdf.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/7e5f0c0caa5e692dcb2e393eb857fbad.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7e5f0c0caa5e692dcb2e393eb857fbad.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7e5f0c0caa5e692dcb2e393eb857fbad.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "18.40",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "18.400",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.30",
+    "unit_selector": true,
+    "unit_size": 0.125
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/34923/almendra-laminada-hacendado-paquete",
+  "slug": "almendra-laminada-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/06d42f5a2c9c118a3ce3e6daa90a3cdf.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

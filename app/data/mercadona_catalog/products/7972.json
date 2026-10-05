@@ -1,0 +1,110 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 842,
+              "level": 2,
+              "name": "Salsas para pasta",
+              "order": 7
+            }
+          ],
+          "id": 117,
+          "level": 1,
+          "name": "Otras salsas",
+          "order": 7
+        }
+      ],
+      "id": 12,
+      "level": 0,
+      "name": "Aceite, especias y salsas",
+      "order": 7
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Salsa fresca Setas Hacendado",
+    "legal_name": "Salsa funghi",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "TAP TAP FOOD, S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Salsa fresca Setas Hacendado",
+  "ean": "8402001023392",
+  "extra_info": [
+    null
+  ],
+  "id": "7972",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Agua, <strong>nata ligera en polvo (leche),</strong> setas 21,5% (Boletus, Shitake y Champiñones reconstituidos, champi-ñón, Boletus), agua, <strong>mantequilla (leche)</strong>, espesante (almidones modificados de maíz) y sal."
+  },
+  "origin": null,
+  "packaging": "Tarrina",
+  "photos": [
+    {
+      "perspective": 3,
+      "regular": "https://prod-mercadona.imgix.net/images/eac4ecea33015d0a73fb2a177ca6531b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/eac4ecea33015d0a73fb2a177ca6531b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/eac4ecea33015d0a73fb2a177ca6531b.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/139b709d0316b48ff2d6afcce67a5403.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/139b709d0316b48ff2d6afcce67a5403.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/139b709d0316b48ff2d6afcce67a5403.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "7.25",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.250",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.45",
+    "unit_selector": true,
+    "unit_size": 0.2
+  },
+  "product_information": null,
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/7972/salsa-fresca-setas-hacendado-bol",
+  "slug": "salsa-fresca-setas-hacendado-bol",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/eac4ecea33015d0a73fb2a177ca6531b.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

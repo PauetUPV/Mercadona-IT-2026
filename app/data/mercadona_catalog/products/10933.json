@@ -1,0 +1,112 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 342,
+              "level": 2,
+              "name": "Leche entera",
+              "order": 373
+            }
+          ],
+          "id": 72,
+          "level": 1,
+          "name": "Leche y bebidas vegetales",
+          "order": 373
+        }
+      ],
+      "id": 6,
+      "level": 0,
+      "name": "Huevos, leche y mantequilla",
+      "order": 373
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Leche entera Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Leche fresca entera",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en frío entre 2 y 6C. Una vez abierto, consumir antes de tres días y de la fecha de caducidad marcada.",
+    "suppliers": [
+      {
+        "name": "Natur Leite"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Leche entera Hacendado",
+  "ean": "8480000109330",
+  "extra_info": [
+    ""
+  ],
+  "id": "10933",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Leche de vaca pasteurizada entera. <strong>Contiene proteínas de</strong> <strong>leche</strong> <strong>de vaca</strong>.<p>Origen de la leche: España."
+  },
+  "origin": "España",
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/d985ec1b5f0e21f2fe5e32857e5200af.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d985ec1b5f0e21f2fe5e32857e5200af.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d985ec1b5f0e21f2fe5e32857e5200af.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/eab9809ae9845617e2251f621b0f8696.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/eab9809ae9845617e2251f621b0f8696.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/eab9809ae9845617e2251f621b0f8696.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.15",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "1.150",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.15",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/10933/leche-entera-fresca-hacendado-botella",
+  "slug": "leche-entera-fresca-hacendado-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/d985ec1b5f0e21f2fe5e32857e5200af.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

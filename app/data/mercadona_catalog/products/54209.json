@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 824,
+              "level": 2,
+              "name": "Chorizo",
+              "order": 159
+            }
+          ],
+          "id": 51,
+          "level": 1,
+          "name": "Embutido curado",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Chorizo dulce extra Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Chorizo extra (Dulce)",
+    "mandatory_mentions": "Tripa comestible natural/ Sin colorantes ni conservadores/ Envasado en atmósfera protectora /  100% natural (logo) / SIN LACTOSA (logo) / SIN GLUTEN (logo) / Teléfono atención cliente: 800 500 220/ RECICLA Al Amarillo (logo)",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Manténgase en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "CASA TARRADELLAS, S.A."
+      }
+    ],
+    "usage_instructions": "Conservar en un lugar fresco y seco."
+  },
+  "display_name": "Chorizo dulce extra Hacendado",
+  "ean": "8480000542090",
+  "extra_info": [
+    null
+  ],
+  "id": "54209",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Paleta, magro y panceta de cerdo, pimentón ahumado, ajo y sal."
+  },
+  "origin": null,
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/87a27bdd0d2ebaba9be032cc9d798f3e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/87a27bdd0d2ebaba9be032cc9d798f3e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/87a27bdd0d2ebaba9be032cc9d798f3e.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/2c2d23e5b04ca959b6939544a54d93bc.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/2c2d23e5b04ca959b6939544a54d93bc.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/2c2d23e5b04ca959b6939544a54d93bc.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "8.89",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "8.893",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.49",
+    "unit_selector": true,
+    "unit_size": 0.28
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/54209/chorizo-dulce-extra-hacendado-pieza",
+  "slug": "chorizo-dulce-extra-hacendado-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/87a27bdd0d2ebaba9be032cc9d798f3e.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

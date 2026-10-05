@@ -1,0 +1,122 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 254,
+              "level": 2,
+              "name": "Lechuga",
+              "order": 306
+            }
+          ],
+          "id": 28,
+          "level": 1,
+          "name": "Lechuga y ensalada preparada",
+          "order": 306
+        }
+      ],
+      "id": 1,
+      "level": 0,
+      "name": "Fruta y verdura",
+      "order": 306
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Ensalada mezcla 4 estaciones lavada compuesta por lechuga iceberg, zanahoria y col lombarda",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Ensalada lista para consumir",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar entre + 0C y +4C",
+    "suppliers": [
+      {
+        "name": "Florette Iberica Alimentaria S.L."
+      },
+      {
+        "name": "Mesturados Canarios, S.L."
+      },
+      {
+        "name": "Vega Mayor S.L."
+      },
+      {
+        "name": "Verdifresh, S.L.U."
+      }
+    ],
+    "usage_instructions": "Una vez abierto el envase. se recomienda conservar el producto en refrigeración. y consumir todo el contenido lo antes posible. Ensalada lista para consumir"
+  },
+  "display_name": "Ensalada mezcla 4 estaciones lavada",
+  "ean": "8402001036330",
+  "extra_info": [
+    ""
+  ],
+  "id": "69706",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "lavada",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Lechuga iceberg. zanahoria. col lombarda."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/521b7ea477692d5b5ae5835f2aea842c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/521b7ea477692d5b5ae5835f2aea842c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/521b7ea477692d5b5ae5835f2aea842c.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/ee4688e4668016f38caf1b59c2a6783b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ee4688e4668016f38caf1b59c2a6783b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ee4688e4668016f38caf1b59c2a6783b.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.40",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "3.400",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.85",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/69706/ensalada-mezcla-4-estaciones-compuesta-lechuga-iceberg-zanahoria-col-lombarda-paquete",
+  "slug": "ensalada-mezcla-4-estaciones-compuesta-lechuga-iceberg-zanahoria-col-lombarda-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/521b7ea477692d5b5ae5835f2aea842c.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

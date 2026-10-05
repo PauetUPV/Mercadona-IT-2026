@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 288,
+              "level": 2,
+              "name": "Empanados y elaborados",
+              "order": 17
+            }
+          ],
+          "id": 45,
+          "level": 1,
+          "name": "Empanados y elaborados",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Lomo de cerdo marinado empanado sin gluten",
+    "legal_name": "LOMO EMPANADO",
+    "mandatory_mentions": "Sin gluten. Envasado en atmósfera protectora.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en refrigeración entre 0 y 4C. Una vez abierto consumir antes de 48 horas",
+    "suppliers": [
+      {
+        "name": "Frescos y Elaborados Delisano SAU"
+      }
+    ],
+    "usage_instructions": "Cocinar completamente antes de su consumo. Airfryer: Precalentar y cocinar 200ºC durante 8 - 10 minutos. Sartén: Freír en abundante aceite a 180ºC durante 1 minuto. Horno: Precalentar a 200ºC durante 10 minutos y hornear con ventilación durante 15 minutos. Dejar reposar 3 minuto antes de su consumo."
+  },
+  "display_name": "Lomo de cerdo marinado empanado sin gluten",
+  "ean": "8436021419675",
+  "extra_info": [
+    ""
+  ],
+  "id": "14266",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "LOMO DE CERDO MARINADO Y EMPANADO. Producto cárnico. Ingredientes: Filete de lomo de cerdo marinado (73%): Lomo de cerdo (95%), agua, sal, fibra vegetal (guisante), y antioxidantes (E-331 y E-301). Cobertura (27%): Harina de arroz, dextrosa, fibra vegetal, sal, colorante (E-150a), extracto de especias, ajo en polvo, perejil, agua, almidón, proteína vegetal (guisante), estabilizantes (E-451 y E-412), proteína de cerdo, sémola de maíz, aceite de girasol y conservador (E-200). Contiene trazas de <strong>leche.</strong>"
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/894341086cba18a64328c86cef90049b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/894341086cba18a64328c86cef90049b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/894341086cba18a64328c86cef90049b.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/4d4613c5da547c0b3d57ce52e2da162d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4d4613c5da547c0b3d57ce52e2da162d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4d4613c5da547c0b3d57ce52e2da162d.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "10.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "10.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.20",
+    "unit_selector": true,
+    "unit_size": 0.32
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/14266/lomo-cerdo-marinado-empanado-sin-gluten-bandeja",
+  "slug": "lomo-cerdo-marinado-empanado-sin-gluten-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/894341086cba18a64328c86cef90049b.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,125 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 280,
+              "level": 2,
+              "name": "Cerdo",
+              "order": 17
+            }
+          ],
+          "id": 37,
+          "level": 1,
+          "name": "Cerdo",
+          "order": 17
+        },
+        {
+          "categories": [
+            {
+              "id": 288,
+              "level": 2,
+              "name": "Empanados y elaborados",
+              "order": 17
+            }
+          ],
+          "id": 45,
+          "level": 1,
+          "name": "Empanados y elaborados",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Fiambre de magro de cerdo adobado",
+    "legal_name": "FIAMBRE DE MAGRO ADOBADO SABOR AHUMADO",
+    "mandatory_mentions": "Sin gluten. Sin lactosa. Envasado en atmósfera protectora.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en refrigeración entre 0 y 5C. Una vez abierto consumir antes de 48 horas",
+    "suppliers": [
+      {
+        "name": "Frescos y Elaborados Delisano SAU"
+      }
+    ],
+    "usage_instructions": "Cocinar completamente antes de su consumo.Modo de empleo: cocinar en sartén o plancha a fuego medio durante minuto y medio por cada lado."
+  },
+  "display_name": "Fiambre de magro de cerdo adobado",
+  "ean": "8436021417404",
+  "extra_info": [
+    null
+  ],
+  "id": "23308",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Carne de cerdo (50%), agua, fécula de patata, sal, proteínas de cerdo, jarabe de glucosa, fibra vegetal, estabilizantes (E-451i, E-450v, E-407, E-415, E-420i), antioxidante (E-301), aromas, aroma de humo, especias (ajo), conservadores (E-250, E-262i) y colorante (E-120). Recubrimiento tripa comestible: colorante (E-160b)."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/35d3a3b57c5ee4d74e778939d27be3d8.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/35d3a3b57c5ee4d74e778939d27be3d8.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/35d3a3b57c5ee4d74e778939d27be3d8.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/c67f52b17f9d88961c5488d107140378.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c67f52b17f9d88961c5488d107140378.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c67f52b17f9d88961c5488d107140378.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "7.57",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.568",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.80",
+    "unit_selector": true,
+    "unit_size": 0.37
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/23308/fiambre-magro-cerdo-adobado-paquete",
+  "slug": "fiambre-magro-cerdo-adobado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/35d3a3b57c5ee4d74e778939d27be3d8.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

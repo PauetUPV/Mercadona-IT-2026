@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 846,
+              "level": 2,
+              "name": "Cocktails",
+              "order": 9
+            }
+          ],
+          "id": 133,
+          "level": 1,
+          "name": "Frutos secos y fruta desecada",
+          "order": 9
+        }
+      ],
+      "id": 15,
+      "level": 0,
+      "name": "Aperitivos",
+      "order": 9
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Cocktail frutos secos mezcla Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "COCKTAIL MEZCLA",
+    "mandatory_mentions": "Envasado en atmósfera protectora. Este producto por su tamaño no lo deben consumir menores de 5 años.",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Proteger de la luz. Conservar en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Fabricado en/Produzido em: IMPORTACO CASA PONS, S.A.U."
+      },
+      {
+        "name": "IMPORTACO CASA PONS S.A.U."
+      }
+    ],
+    "usage_instructions": "Una vez abierto el envase, conservarlo cerrado y consumir el producto preferentemente en el plazo de una semana."
+  },
+  "display_name": "Cocktail frutos secos mezcla Hacendado",
+  "ean": "8480000342317",
+  "extra_info": [
+    ""
+  ],
+  "id": "34231",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>cacahuetes y productos a base de cacahuetes</strong>. Puede contener <strong>frutos de cáscara</strong>.",
+    "ingredients": "Maíz, <strong>cacahuete</strong>, aceite refinado de girasol, pasa sultana, garbanzo, bolita snack (sémola de maíz, aceite refinado de girasol, sémola de arroz, azúcar, aroma a barbacoa (sal, potenciador de sabor (E-621), aromas, sal (ahumada), maltodextrina (ahumada), estabilizante (E-1450), acidulante (E-330)) y sal), sal, aceite de algodón y harina de arroz. <strong>Trazas de frutos de cáscara y soja</strong>. Sin gluten."
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/d092fac5801731124ede218a78c98fbb.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d092fac5801731124ede218a78c98fbb.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d092fac5801731124ede218a78c98fbb.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/1902598056f2f662fdbafc62f16906dc.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1902598056f2f662fdbafc62f16906dc.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1902598056f2f662fdbafc62f16906dc.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.33",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.334",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.60",
+    "unit_selector": true,
+    "unit_size": 0.3
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/34231/cocktail-mezcla-hacendado-compuesto-maiz-cacahuetes-garbanzos-bolita-snack-pasas-sultanas-paquete",
+  "slug": "cocktail-mezcla-hacendado-compuesto-maiz-cacahuetes-garbanzos-bolita-snack-pasas-sultanas-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/d092fac5801731124ede218a78c98fbb.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

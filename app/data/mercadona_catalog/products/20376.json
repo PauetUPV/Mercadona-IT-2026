@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 408,
+              "level": 2,
+              "name": "Yogures de sabores",
+              "order": 598
+            }
+          ],
+          "id": 104,
+          "level": 1,
+          "name": "Yogures naturales y sabores",
+          "order": 598
+        }
+      ],
+      "id": 11,
+      "level": 0,
+      "name": "Postres y yogures",
+      "order": 598
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Yogur cremoso con frutos silvestres Hacendado",
+    "legal_name": "Yogur Cremoso Con Frutos Silvestres",
+    "mandatory_mentions": "Sin gluten. *Origen de la leche: España únicamente para productos fabricados en TA.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 1°C y 8°C.",
+    "suppliers": [
+      {
+        "name": "Schreiber Foods España, S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Yogur cremoso con frutos silvestres Hacendado",
+  "ean": "8480000203762",
+  "extra_info": [
+    ""
+  ],
+  "id": "20376",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Leche</strong> fresca entera pasteurizada (Origen: España)*, azúcar, frutos silvestres (6,2%) (fresa, grosella negra, baya de saúco, arándano y frambuesa), <strong>leche</strong> en polvo desnatada, almidón modificado de maíz, aroma, espesante (carragenano), fermentos <strong>lácticos</strong>, conservador (sorbato potásico) y colorante natural (antocianinas)."
+  },
+  "origin": null,
+  "packaging": "Bote",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/4b8059bb835b623d71bea1ea109a4056.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4b8059bb835b623d71bea1ea109a4056.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4b8059bb835b623d71bea1ea109a4056.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/6abe57e785fa1fb9ecea100bc9a59671.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/6abe57e785fa1fb9ecea100bc9a59671.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/6abe57e785fa1fb9ecea100bc9a59671.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "2.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.25",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/20376/yogur-cremoso-hacendado-con-frutos-silvestres-bote",
+  "slug": "yogur-cremoso-hacendado-con-frutos-silvestres-bote",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/4b8059bb835b623d71bea1ea109a4056.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

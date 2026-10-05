@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 378,
+              "level": 2,
+              "name": "Azúcar",
+              "order": 11
+            }
+          ],
+          "id": 89,
+          "level": 1,
+          "name": "Azúcar y edulcorante",
+          "order": 11
+        }
+      ],
+      "id": 9,
+      "level": 0,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Panela azúcar moreno de caña integral Hacendado sin refinar",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Jugo de caña de azúcar sin refinar.",
+    "mandatory_mentions": "El azúcar puede tener variaciones de color según la cosecha.",
+    "origin": null,
+    "production_variant": "Puede tener variaciones de color según la cosecha",
+    "storage_instructions": "Conservar en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Laboratorios Almond SL"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Panela azúcar moreno de caña integral Hacendado",
+  "ean": "8436542193269",
+  "extra_info": [
+    null
+  ],
+  "id": "19859",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Jugo de caña de azúcar sin refinar. Origen: Latinoamérica."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/832303b022c201c34c7bfa6c29619e2c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/832303b022c201c34c7bfa6c29619e2c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/832303b022c201c34c7bfa6c29619e2c.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/40838be5fc4609b18f9a4ac5fa559c8a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/40838be5fc4609b18f9a4ac5fa559c8a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/40838be5fc4609b18f9a4ac5fa559c8a.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.10",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "4.100",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.05",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/19859/panela-azucar-moreno-cana-integral-hacendado-sin-refinar-paquete",
+  "slug": "panela-azucar-moreno-cana-integral-hacendado-sin-refinar-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/832303b022c201c34c7bfa6c29619e2c.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

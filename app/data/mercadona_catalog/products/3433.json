@@ -1,0 +1,122 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 253,
+              "level": 2,
+              "name": "Otras frutas",
+              "order": 306
+            }
+          ],
+          "id": 27,
+          "level": 1,
+          "name": "Fruta",
+          "order": 306
+        }
+      ],
+      "id": 1,
+      "level": 0,
+      "name": "Fruta y verdura",
+      "order": 306
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Melocotón amarillo",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Melocoton Amarillo",
+    "mandatory_mentions": "",
+    "origin": "Murcia",
+    "production_variant": "Producto de peso variable. El contenido neto del mismo se determinará en el punto de venta.",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "Anecoop S. Coop."
+      },
+      {
+        "name": "S.A.T. 1596 Nufri"
+      },
+      {
+        "name": "Tany Nature S.A."
+      },
+      {
+        "name": "UNILAND, S.C."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Melocotón amarillo",
+  "ean": "2105446034331",
+  "extra_info": [
+    ""
+  ],
+  "id": "3433",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Melocoton Amarillo"
+  },
+  "origin": "Murcia",
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 10,
+      "regular": "https://prod-mercadona.imgix.net/images/f35d55c8327707287795c1b5f2f07862.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f35d55c8327707287795c1b5f2f07862.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f35d55c8327707287795c1b5f2f07862.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/8ed51e50e088767ddb9e8bd1581b2b4c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8ed51e50e088767ddb9e8bd1581b2b4c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8ed51e50e088767ddb9e8bd1581b2b4c.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "2.85",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "2.850",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.68",
+    "unit_selector": true,
+    "unit_size": 0.24
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/3433/melocoton-amarillo-pieza",
+  "slug": "melocoton-amarillo-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/f35d55c8327707287795c1b5f2f07862.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

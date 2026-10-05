@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 306,
+              "level": 2,
+              "name": "Queso untable",
+              "order": 159
+            }
+          ],
+          "id": 53,
+          "level": 1,
+          "name": "Queso untable, fresco y especialidades",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Queso untar de vaca con finas hierbas Hacendado",
+    "legal_name": "Queso blanco pasteurizado con especias",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en frío entre 2º y 8ºC.Una vez abierto conservar en refrigeración y consumir en 5 días.",
+    "suppliers": [
+      {
+        "name": "Queserías Entrepinares S.A.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Queso untar de vaca con finas hierbas Hacendado",
+  "ean": "8480000512086",
+  "extra_info": [
+    null
+  ],
+  "id": "51208",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Libre de <strong>huevos y productos a base de huevo</strong>. Libre de <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "<strong>Leche </strong>pasteurizada de vaca<strong>, nata </strong>pasteurizada de vaca<strong>, </strong>preparado de finas hierbas 11% (agua, finas hierbas 2% (ajo, cebolla, perejil) sal, sacarosa), sal, estabilizantes (goma garrofín y carragenano),conservador (ácido sórbico) y fermentos lácticos. SIN GLUTEN, SIN HUEVO"
+  },
+  "origin": null,
+  "packaging": "Tarrina",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/c4e1e4b4bde56c545484ee43f051e8d1.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c4e1e4b4bde56c545484ee43f051e8d1.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c4e1e4b4bde56c545484ee43f051e8d1.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/0a4a41f593978799e0b6075a83293988.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0a4a41f593978799e0b6075a83293988.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0a4a41f593978799e0b6075a83293988.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "9.25",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 4,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "9.250",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.85",
+    "unit_selector": true,
+    "unit_size": 0.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/51208/queso-untar-vaca-con-finas-hierbas-hacendado-tarrina",
+  "slug": "queso-untar-vaca-con-finas-hierbas-hacendado-tarrina",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/c4e1e4b4bde56c545484ee43f051e8d1.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 498,
+              "level": 2,
+              "name": "Otros",
+              "order": 597
+            }
+          ],
+          "id": 140,
+          "level": 1,
+          "name": "Platos preparados calientes",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Patatas fritas con carne kebab y salsa Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Patatas kebab",
+    "mandatory_mentions": "Envasado en atmósfera protectora.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en frío entre 1C y 4C",
+    "suppliers": [
+      {
+        "name": "Elaborados Naturales de la Ribera, S.L."
+      }
+    ],
+    "usage_instructions": "MODO DE PREPARACIÓN: Microondas: Perforar el envase y calentar durante 4 minutos a 700W. Freidora de aire: Retirar el film y calentar a 200ºC durante 6 minutos. Añadir la salsa después de calentar las patatas."
+  },
+  "display_name": "Patatas fritas con carne kebab y salsa Hacendado",
+  "ean": "8402001021442",
+  "extra_info": [
+    ""
+  ],
+  "id": "60652",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>cereales que contengan gluten</strong>. Contiene <strong>dióxido de azufre y sulfitos</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>mostaza y productos derivados</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "<p>PATATA FRITA 60,8 % (patata y aceite refinado de girasol), CARNE KEBAB 25,7 % (carne de pollo, proteína de SOJA, harina de patata, especias y hierbas, cebolla, pimienta, dextrosa, extracto de levadura, sal, maltodextrina y estabilizante (E-450)), SALSA KEBAB 13,5 % (YOGUR natural, mayonesa (aceite refinado de girasol, agua, yema de HUEVO pasteurizada, azúcar, vinagre de alcohol, sal, zumo concentrado de limón, conservador: sorbato potásico, MOSTAZA molida, estabilizante (goma guar, goma xantana y pectinas)), agua, pasta de ajo ((ajo, sal y acidulante: ácido cítrico) SULFITOS), sal, pimienta negra, acidulante: ácido cítrico, aroma natural, azúcar, eneldo liofilizado y estabilizantes (goma guar, goma xantana y pectinas))."
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/90046f95d6ac8c59b8cbf2871212d14c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/90046f95d6ac8c59b8cbf2871212d14c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/90046f95d6ac8c59b8cbf2871212d14c.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/a13e49d850fb348beaf0dd7fad3453ed.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a13e49d850fb348beaf0dd7fad3453ed.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a13e49d850fb348beaf0dd7fad3453ed.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "9.46",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "9.460",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.50",
+    "unit_selector": true,
+    "unit_size": 0.37
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/60652/patatas-fritas-con-carne-kebab-salsa-hacendado-bandeja",
+  "slug": "patatas-fritas-con-carne-kebab-salsa-hacendado-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/90046f95d6ac8c59b8cbf2871212d14c.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

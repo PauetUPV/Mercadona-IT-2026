@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Tres Estrellas",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 777,
+              "level": 2,
+              "name": "Encendedores, velas y carbón",
+              "order": 374
+            }
+          ],
+          "id": 243,
+          "level": 1,
+          "name": "Menaje y conservación de alimentos",
+          "order": 374
+        }
+      ],
+      "id": 26,
+      "level": 0,
+      "name": "Limpieza y hogar",
+      "order": 374
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Tres Estrellas",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Fósforos de madera largos Tres Estrellas",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "",
+    "mandatory_mentions": "",
+    "origin": "",
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "MATCH YOUR BRAND ESPAÑA, S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Fósforos de madera largos Tres Estrellas",
+  "ean": "5601354210159",
+  "extra_info": [
+    ""
+  ],
+  "id": "49116",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": ""
+  },
+  "origin": "",
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/7a060fc9ba007af93405d04722b9e4d1.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7a060fc9ba007af93405d04722b9e4d1.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7a060fc9ba007af93405d04722b9e4d1.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/74bfe2a0bcd0a5496a7568f72cc2aac5.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/74bfe2a0bcd0a5496a7568f72cc2aac5.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/74bfe2a0bcd0a5496a7568f72cc2aac5.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "0.42",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": 21,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "0.417",
+    "selling_method": 0,
+    "size_format": "ud",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.25",
+    "unit_selector": true,
+    "unit_size": 3.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/49116/fosforos-madera-largos-tres-estrellas-paquete",
+  "slug": "fosforos-madera-largos-tres-estrellas-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/7a060fc9ba007af93405d04722b9e4d1.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

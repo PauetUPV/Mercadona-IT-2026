@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 502,
+              "level": 2,
+              "name": "Hummus y otros",
+              "order": 597
+            }
+          ],
+          "id": 142,
+          "level": 1,
+          "name": "Platos preparados fríos",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Tsatsiki Hacendado",
+    "legal_name": "Tsatsiki",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Refrigerado, 0-7ºC",
+    "suppliers": [
+      {
+        "name": "RENSIKA S.L.U."
+      }
+    ],
+    "usage_instructions": "Listo para consumo. No apto para microondas."
+  },
+  "display_name": "Tsatsiki Hacendado",
+  "ean": "8480000809803",
+  "extra_info": [
+    null
+  ],
+  "id": "80980",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Libre de <strong>dióxido de azufre y sulfitos</strong>. Libre de <strong>cacahuetes y productos a base de cacahuetes</strong>. Libre de <strong>soja y productos a base de soja</strong>. Libre de <strong>apio y productos derivados</strong>. Libre de <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Libre de <strong>leche y sus derivados (incluida la lactosa)</strong>. Libre de <strong>pescado y productos a base de pescado</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Libre de <strong>moluscos y productos a base de moluscos</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Libre de <strong>huevos y productos a base de huevo</strong>. Libre de <strong>frutos de cáscara</strong>. Libre de <strong>crustáceos y productos a base de crustáceos</strong>. Libre de <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Yogur griego 70% (leche pa<strong>steur</strong>izada de vaca, nata, pr<strong>oteí</strong>nas lácticas y fermentos lácteo<strong>s), p</strong>epino 13.6%, aceite de oliva 13.6%, hierbabuena 0.7%, ajo, pimienta, sal, azúcar, ácido cítrico (E330) y conservador (E202)."
+  },
+  "origin": "España",
+  "packaging": "Tarrina",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/f600e10c5e58e895a91959e254d67109.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f600e10c5e58e895a91959e254d67109.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f600e10c5e58e895a91959e254d67109.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/516bfb007213c6cef4dc28b5b7cf37db.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/516bfb007213c6cef4dc28b5b7cf37db.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/516bfb007213c6cef4dc28b5b7cf37db.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "8.64",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "8.637",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.90",
+    "unit_selector": true,
+    "unit_size": 0.22
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/80980/tsatsiki-hacendado-tarrina",
+  "slug": "tsatsiki-hacendado-tarrina",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/f600e10c5e58e895a91959e254d67109.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

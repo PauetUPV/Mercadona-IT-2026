@@ -1,0 +1,139 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 852,
+              "level": 2,
+              "name": "Marisco de concha",
+              "order": 442
+            }
+          ],
+          "id": 32,
+          "level": 1,
+          "name": "Marisco",
+          "order": 442
+        }
+      ],
+      "id": 2,
+      "level": 0,
+      "name": "Marisco y pescado",
+      "order": 442
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Mejillón",
+    "legal_name": "MYTILUS GALLOPROVINCIALIS",
+    "mandatory_mentions": "Zona de cría ( Galicia - España ). Toda la sal presente proviene de forma natural en el alimento. Método de producción: Acuicultura",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "No congelar. No abrir hasta el momento de consumo. Conservar entre 2 y 5 ° C.",
+    "suppliers": [
+      {
+        "name": "AMEGROVE S. Coop. GALEGA"
+      },
+      {
+        "name": "Asociación Productores Mejilloneros Cabo de Cruz"
+      },
+      {
+        "name": "CALADERO"
+      },
+      {
+        "name": "Cetárea del Sur S.L."
+      },
+      {
+        "name": "Cultius Marins Del Delta De L'Ebre S.A."
+      },
+      {
+        "name": "Depuradora de Mariscos de Lorbe, S.A."
+      },
+      {
+        "name": "Depuradora de Moluscos de Canarias S.L."
+      },
+      {
+        "name": "MARISCOS ANTÓN E HIJOS SL"
+      },
+      {
+        "name": "Mariscos Antón Fernández S.L.U"
+      },
+      {
+        "name": "Mariscos Antón e Hijos, SL"
+      },
+      {
+        "name": "Moluscos Troncoso S.L."
+      }
+    ],
+    "usage_instructions": "AL VAPOR (opción recomendada): verter el contenido en el recipiente de cocción con un fondo de agua. Tapar y dejar hervir hasta que las conchas estén abiertas."
+  },
+  "display_name": "Mejillón",
+  "ean": "8429628001169",
+  "extra_info": [
+    null
+  ],
+  "id": "81467",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": ""
+  },
+  "origin": null,
+  "packaging": "Malla",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/9c6539e6ca1d03845b2317f3e1d39957.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9c6539e6ca1d03845b2317f3e1d39957.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9c6539e6ca1d03845b2317f3e1d39957.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/9310e8c0af30ba53af31528caee30c23.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9310e8c0af30ba53af31528caee30c23.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9310e8c0af30ba53af31528caee30c23.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.20",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "3.200",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.20",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/81467/mejillon-malla",
+  "slug": "mejillon-malla",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/9c6539e6ca1d03845b2317f3e1d39957.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": "2026-04-18T22:00:00+00:00",
+  "unavailable_weekdays": []
+}

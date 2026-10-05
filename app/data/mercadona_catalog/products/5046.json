@@ -1,0 +1,130 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 280,
+              "level": 2,
+              "name": "Cerdo",
+              "order": 17
+            }
+          ],
+          "id": 37,
+          "level": 1,
+          "name": "Cerdo",
+          "order": 17
+        },
+        {
+          "categories": [
+            {
+              "id": 288,
+              "level": 2,
+              "name": "Empanados y elaborados",
+              "order": 17
+            }
+          ],
+          "id": 45,
+          "level": 1,
+          "name": "Empanados y elaborados",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Filetes lomo de cerdo adobado familiar",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "LOMO DE CERDO ADOBADO",
+    "mandatory_mentions": "Sin gluten. Sin lactosa. Envasado en atmósfera protectora.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en refrigeración entre 0 y 4C. Una vez abierto consumir antes de 48 horas",
+    "suppliers": [
+      {
+        "name": "Coopecarn Girona S.L.U"
+      },
+      {
+        "name": "Frescos y Elaborados Delisano SAU"
+      }
+    ],
+    "usage_instructions": "Cocinar completamente antes de su consumo.Modo de empleo: cocinar en sartén o plancha a fuego fuerte."
+  },
+  "display_name": "Filetes lomo de cerdo adobado familiar",
+  "ean": "8436021416971",
+  "extra_info": [
+    ""
+  ],
+  "id": "5046",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": "familiar",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "PREPARADO DE CARNE ADOBADO CON AGUA AÑADIDA. Lomo de cerdo (90%), agua, sal, azúcar, aromas, especias, pimentón, ajo, antioxidante (E-301), conservador (E-250)."
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/55cc474c76c30984dc63a16c30fcbc67.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/55cc474c76c30984dc63a16c30fcbc67.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/55cc474c76c30984dc63a16c30fcbc67.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/c5b2bb34f4120ebda927bceb5f582165.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c5b2bb34f4120ebda927bceb5f582165.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c5b2bb34f4120ebda927bceb5f582165.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "6.70",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.700",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "6.50",
+    "unit_selector": true,
+    "unit_size": 0.97
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/5046/lomo-cerdo-adobado-familiar-bandeja",
+  "slug": "lomo-cerdo-adobado-familiar-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/55cc474c76c30984dc63a16c30fcbc67.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

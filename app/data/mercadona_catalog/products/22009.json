@@ -1,0 +1,107 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Compy",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 713,
+              "level": 2,
+              "name": "Snacks",
+              "order": 443
+            }
+          ],
+          "id": 221,
+          "level": 1,
+          "name": "Perro",
+          "order": 443
+        }
+      ],
+      "id": 25,
+      "level": 0,
+      "name": "Mascotas",
+      "order": 443
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Compy",
+    "counter_info": null,
+    "danger_mentions": null,
+    "description": "Snack barritas perro adulto de pollo e hígado Compy",
+    "legal_name": null,
+    "mandatory_mentions": null,
+    "origin": null,
+    "production_variant": null,
+    "storage_instructions": null,
+    "suppliers": [],
+    "usage_instructions": null
+  },
+  "display_name": "Snack barritas perro adulto de pollo e hígado Compy",
+  "ean": "8480000220097",
+  "extra_info": [
+    ""
+  ],
+  "id": "22009",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": null
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/17de9c32ee10ae75f0251d075d4993da.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/17de9c32ee10ae75f0251d075d4993da.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/17de9c32ee10ae75f0251d075d4993da.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/1b2ecb22803b5949c3283366de80c6d7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1b2ecb22803b5949c3283366de80c6d7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1b2ecb22803b5949c3283366de80c6d7.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "11.93",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.011,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "11.932",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 8,
+    "unit_name": "sticks",
+    "unit_price": "1.05",
+    "unit_selector": true,
+    "unit_size": 0.088
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/22009/snack-barritas-perro-adulto-pollo-higado-compy-pack-8",
+  "slug": "snack-barritas-perro-adulto-pollo-higado-compy-pack-8",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/17de9c32ee10ae75f0251d075d4993da.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

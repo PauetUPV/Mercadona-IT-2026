@@ -1,0 +1,115 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 253,
+              "level": 2,
+              "name": "Otras frutas",
+              "order": 306
+            }
+          ],
+          "id": 27,
+          "level": 1,
+          "name": "Fruta",
+          "order": 306
+        }
+      ],
+      "id": 1,
+      "level": 0,
+      "name": "Fruta y verdura",
+      "order": 306
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Fresón",
+    "legal_name": "Fresón",
+    "mandatory_mentions": "",
+    "origin": "Huelva",
+    "production_variant": "Es un producto de peso variable, por tanto, el contenido neto puede variar.",
+    "storage_instructions": "Conservar refrigerado.",
+    "suppliers": [
+      {
+        "name": "Plusberries"
+      },
+      {
+        "name": "Terra Agronomica España SA"
+      },
+      {
+        "name": "UNILAND, S.C."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Fresón",
+  "ean": "2105400037156",
+  "extra_info": [
+    null
+  ],
+  "id": "3715",
+  "is_bulk": true,
+  "is_variable_weight": true,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Fresón, variedad Fortuna, calibre 22+, categoría II."
+  },
+  "origin": "Huelva",
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/c0a47add53ef148206d34d77d60f8370.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c0a47add53ef148206d34d77d60f8370.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c0a47add53ef148206d34d77d60f8370.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/541c3706fdc63c9fa95c49d961b25bb3.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/541c3706fdc63c9fa95c49d961b25bb3.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/541c3706fdc63c9fa95c49d961b25bb3.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "5.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.50",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/3715/freson-bandeja",
+  "slug": "freson-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/c0a47add53ef148206d34d77d60f8370.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

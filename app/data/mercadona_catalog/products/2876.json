@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 286,
+              "level": 2,
+              "name": "Embutido",
+              "order": 17
+            }
+          ],
+          "id": 43,
+          "level": 1,
+          "name": "Embutido",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Morcilla de arroz y cebolla",
+    "legal_name": "Morcilla Arroz/Cebolla",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar refrigerado entre 0 C y 5 C",
+    "suppliers": [
+      {
+        "name": "Embutidos Rios"
+      }
+    ],
+    "usage_instructions": "Fritas, asadas al grill, a la brasa, al horno, microondas y en cocidos tradicionales. Requiere cocinado previo a su consumo"
+  },
+  "display_name": "Morcilla de arroz y cebolla",
+  "ean": "2105100028768",
+  "extra_info": [
+    null
+  ],
+  "id": "2876",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Cebolla, arroz extra (D.O. Arroz de Valencia), manteca y sangre de cerdo, sal, pimentón (D.O. Pimentón de la Vera) y especias. Elaborada en tripa natural de vacuno"
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/0405d211265796755365fabbfd7fd172.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0405d211265796755365fabbfd7fd172.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0405d211265796755365fabbfd7fd172.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/c49106da9af8cfff4ba8ab56e8b256df.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c49106da9af8cfff4ba8ab56e8b256df.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c49106da9af8cfff4ba8ab56e8b256df.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "5.75",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.750",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.72",
+    "unit_selector": true,
+    "unit_size": 0.3
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/2876/morcilla-arroz-cebolla-paquete",
+  "slug": "morcilla-arroz-cebolla-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/0405d211265796755365fabbfd7fd172.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,141 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 887,
+              "level": 2,
+              "name": "Marisco de concha y otros",
+              "order": 213
+            }
+          ],
+          "id": 150,
+          "level": 1,
+          "name": "Marisco",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 852,
+              "level": 2,
+              "name": "Marisco de concha",
+              "order": 442
+            }
+          ],
+          "id": 32,
+          "level": 1,
+          "name": "Marisco",
+          "order": 442
+        }
+      ],
+      "id": 2,
+      "level": 0,
+      "name": "Marisco y pescado",
+      "order": 442
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Carne de mejillón cocido Hacendado ultracongelado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Mytilus Chilensis",
+    "mandatory_mentions": "No volver a congelar una vez descongelado",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Ultracongelado.Conservar a temperatura igual o inferior a -18ºC ( ver fecha de consumo preferente en el envase). Para no alterar la calidad de este producto, no volver a congelar una vez descongelado.",
+    "suppliers": [
+      {
+        "name": "Conservas Carnota, S.A.U."
+      },
+      {
+        "name": "Conservas Dani, S.A.U."
+      },
+      {
+        "name": "Mascato, S.A."
+      }
+    ],
+    "usage_instructions": "Retirar el producto del envase y descongelar siempre en el frigorífico. Una vez descongelado, conservar en refrigeración  y consumir antes de 24h"
+  },
+  "display_name": "Carne de mejillón cocido Hacendado ultracongelado",
+  "ean": "8402001045981",
+  "extra_info": [
+    ""
+  ],
+  "id": "62396",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "ultracongelado",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>moluscos y productos a base de moluscos</strong>. Puede contener <strong>pescado y productos a base de pescado</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>.",
+    "ingredients": "<strong>Molusco</strong>.Puede contener trazas de <strong>Pescado</strong> y <strong>Crustaceos</strong>"
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/0166a818db1acd99b8a10c4338f2f09e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0166a818db1acd99b8a10c4338f2f09e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0166a818db1acd99b8a10c4338f2f09e.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/7dc4bab02d3f24160631a126c65dccdc.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7dc4bab02d3f24160631a126c65dccdc.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7dc4bab02d3f24160631a126c65dccdc.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "9.09",
+    "bunch_selector": false,
+    "drained_weight": 0.275,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "9.091",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.50",
+    "unit_selector": true,
+    "unit_size": null
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/62396/carne-mejillon-chile-cocido-hacendado-ultracongelado-paquete",
+  "slug": "carne-mejillon-chile-cocido-hacendado-ultracongelado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/0166a818db1acd99b8a10c4338f2f09e.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

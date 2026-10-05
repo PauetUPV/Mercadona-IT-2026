@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Bosque Verde",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 736,
+              "level": 2,
+              "name": "Limpieza cocina",
+              "order": 374
+            }
+          ],
+          "id": 230,
+          "level": 1,
+          "name": "Limpieza cocina",
+          "order": 374
+        }
+      ],
+      "id": 26,
+      "level": 0,
+      "name": "Limpieza y hogar",
+      "order": 374
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Bosque Verde",
+    "counter_info": null,
+    "danger_mentions": "Provoca lesiones oculares graves.",
+    "description": "Quitagrasas Bosque Verde perfumado con pistola",
+    "legal_name": "",
+    "mandatory_mentions": "",
+    "origin": "",
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "SPB, S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Quitagrasas Bosque Verde perfumado",
+  "ean": "8480000439062",
+  "extra_info": [
+    ""
+  ],
+  "id": "43906",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": ""
+  },
+  "origin": "",
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/d476f9f165cb09e39a7ce9d9ef99fd9d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d476f9f165cb09e39a7ce9d9ef99fd9d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d476f9f165cb09e39a7ce9d9ef99fd9d.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/2d1f2ada465c8601c08b9d6c30bdd67b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/2d1f2ada465c8601c08b9d6c30bdd67b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/2d1f2ada465c8601c08b9d6c30bdd67b.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "2.000",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.50",
+    "unit_selector": true,
+    "unit_size": 0.75
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/43906/quitagrasas-sin-espuma-bosque-verde-perfume-limon-con-pistola-botella",
+  "slug": "quitagrasas-sin-espuma-bosque-verde-perfume-limon-con-pistola-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/d476f9f165cb09e39a7ce9d9ef99fd9d.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

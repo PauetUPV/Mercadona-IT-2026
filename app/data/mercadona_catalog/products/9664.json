@@ -1,0 +1,106 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 317,
+              "level": 2,
+              "name": "Pan de bocadillo",
+              "order": 515
+            }
+          ],
+          "id": 59,
+          "level": 1,
+          "name": "Pan de horno",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": "Los productos preparados en el horno de Mercadona pueden contener como ingrediente o como traza los siguientes alérgenos: gluten, crustáceos, huevos, pescado, cacahuetes, soja, leche y derivados, frutos de cáscara, apio, mostaza, sésamo, sulfitos, altramuces y moluscos. Producto preparado por Mercadona, S.A. C/ Alfonso Roig Alfonso, s/n. Albalat dels Sorells 46135 (Valencia).",
+    "danger_mentions": "",
+    "description": "3 Bocadillos",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "BOCADILLO 3 UDS",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "PANAMAR BAKERY GROUP, S.L."
+      }
+    ],
+    "usage_instructions": "Producto listo para consumo."
+  },
+  "display_name": "3 Bocadillos",
+  "ean": "8480000096647",
+  "extra_info": [
+    ""
+  ],
+  "id": "9664",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>moluscos y productos a base de moluscos</strong>. Puede contener <strong>pescado y productos a base de pescado</strong>. Puede contener <strong>altramuces y productos a base de altramuces</strong>. Puede contener <strong>huevos y productos a base de huevo</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>. Puede contener <strong>apio y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Puede contener <strong>dióxido de azufre y sulfitos</strong>. Puede contener <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Puede contener <strong>cacahuetes y productos a base de cacahuetes</strong>. Puede contener <strong>frutos de cáscara</strong>. Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Harina de <strong>trigo</strong> (<strong>gluten</strong>), agua, levadura, sal. Puede contener <strong>crustáceos</strong>, <strong>pescado</strong>, <strong>huevo</strong>, <strong>cacahuete</strong>, <strong>soja</strong>, <strong>leche</strong>, <strong>frutos de cáscara</strong>, <strong>apio</strong>, <strong>mostaza</strong>, granos de <strong>sésamo</strong>, <strong>sulfitos</strong>, <strong>altramuces</strong>, <strong>moluscos</strong> y productos derivados."
+  },
+  "origin": null,
+  "packaging": "Bolsa",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/00cb2b3410317555d4d56752c7e0beef.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/00cb2b3410317555d4d56752c7e0beef.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/00cb2b3410317555d4d56752c7e0beef.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.67",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.13,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "2.667",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 3,
+    "unit_name": "ud.",
+    "unit_price": "1.04",
+    "unit_selector": true,
+    "unit_size": 0.39
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/9664/3-bocadillos",
+  "slug": "3-bocadillos",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/00cb2b3410317555d4d56752c7e0beef.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

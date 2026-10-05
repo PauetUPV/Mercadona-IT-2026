@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 486,
+              "level": 2,
+              "name": "Aceitunas negras",
+              "order": 9
+            }
+          ],
+          "id": 135,
+          "level": 1,
+          "name": "Aceitunas y encurtidos",
+          "order": 9
+        }
+      ],
+      "id": 15,
+      "level": 0,
+      "name": "Aperitivos",
+      "order": 9
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Aceitunas negras naturales de Aragón con hueso Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Aceituna negra natural con hueso",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Una vez abierto, conservar refrigerado y consumir preferentemente en 7 días.",
+    "suppliers": [
+      {
+        "name": "Campomar Nature, S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Aceitunas negras naturales de Aragón con hueso Hacendado",
+  "ean": "8402001048432",
+  "extra_info": [
+    ""
+  ],
+  "id": "21791",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Aceituna negra natural de Aragón con hueso, sal y aceite de oliva virgen extra. Producto pasteurizado."
+  },
+  "origin": null,
+  "packaging": "Tarro",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/effcfa642e3438ccf707bf69dd83c32d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/effcfa642e3438ccf707bf69dd83c32d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/effcfa642e3438ccf707bf69dd83c32d.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/abec50755ff9940e52c32125c665604b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/abec50755ff9940e52c32125c665604b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/abec50755ff9940e52c32125c665604b.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "11.25",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "11.250",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.25",
+    "unit_selector": true,
+    "unit_size": 0.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/21791/aceitunas-negras-naturales-aragon-con-hueso-hacendado-tarro",
+  "slug": "aceitunas-negras-naturales-aragon-con-hueso-hacendado-tarro",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/effcfa642e3438ccf707bf69dd83c32d.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

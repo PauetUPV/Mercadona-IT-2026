@@ -1,0 +1,132 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 513,
+              "level": 2,
+              "name": "Pescado",
+              "order": 213
+            }
+          ],
+          "id": 149,
+          "level": 1,
+          "name": "Pescado",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 276,
+              "level": 2,
+              "name": "Sepia, pulpo y calamar congelado",
+              "order": 442
+            }
+          ],
+          "id": 34,
+          "level": 1,
+          "name": "Pescado congelado",
+          "order": 442
+        }
+      ],
+      "id": 2,
+      "level": 0,
+      "name": "Marisco y pescado",
+      "order": 442
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Sepia faraónica limpia Hacendado congelada",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Sepia limpia con agua añadida",
+    "mandatory_mentions": "Producto congelado con agua añadida. Peso neto (sin el glaseado).",
+    "origin": "España",
+    "production_variant": "Producto de peso variable. Por favor, consulte la etiqueta del producto para conocer el contenido neto del mismo.",
+    "storage_instructions": "Conservar a -18C. Una vez descongelado, no volver a congelar.",
+    "suppliers": [
+      {
+        "name": "Grupo Profand, S.L."
+      },
+      {
+        "name": "Grupo Profand, S.L.U."
+      }
+    ],
+    "usage_instructions": "Consumir previamente cocinado"
+  },
+  "display_name": "Sepia faraónica limpia Hacendado congelada",
+  "ean": "2105300242001",
+  "extra_info": [
+    ""
+  ],
+  "id": "24200",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": "congelada",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>moluscos y productos a base de moluscos</strong>. Puede contener <strong>pescado y productos a base de pescado</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>.",
+    "ingredients": "Sepia (89%) (Sepia officinalis) (<strong>moluscos</strong>), agua (11%), sal, correctores de acidez: E-330 y E-331. Puede contener <strong>pescado</strong> y/o <strong>crustáceos</strong>. / Sepia faraónica (89%) (Sepia pharaonis) (<strong>moluscos</strong>), agua (11%), sal, correctores de acidez: E-330, E-331 y E-501. Puede contener <strong>pescado</strong> y/o <strong>crustáceos</strong>."
+  },
+  "origin": "España",
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/8c6b3609d7edb066186b5a2fc74eebe8.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8c6b3609d7edb066186b5a2fc74eebe8.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8c6b3609d7edb066186b5a2fc74eebe8.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "16.00",
+    "bunch_selector": false,
+    "drained_weight": 0.4,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "16.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "6.40",
+    "unit_selector": true,
+    "unit_size": null
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/24200/sepia-limpia-congelada-pieza",
+  "slug": "sepia-limpia-congelada-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/8c6b3609d7edb066186b5a2fc74eebe8.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

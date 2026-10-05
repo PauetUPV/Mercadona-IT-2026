@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 494,
+              "level": 2,
+              "name": "Platos de cuchara",
+              "order": 597
+            }
+          ],
+          "id": 140,
+          "level": 1,
+          "name": "Platos preparados calientes",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Garbanzos a la riojana Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Garbanzos a la Riojana",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Una vez abierto, conservar refrigerado y consumir antes de 5 días.",
+    "suppliers": [
+      {
+        "name": "Conservas el Cidacos S.A."
+      }
+    ],
+    "usage_instructions": "Vierta el contenido en un recipiente y caliéntelo a fuego suave. MICROONDAS: Vierta el contenido en un recipiente apto para microondas y caliéntelo durante 1 minuto, remueva levemente, y vuelva a calentalo durante 1 minuto y 30 segundos aproximadamente."
+  },
+  "display_name": "Garbanzos a la riojana Hacendado",
+  "ean": "8480000261748",
+  "extra_info": [
+    null
+  ],
+  "id": "26174",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Garbanzos, agua de cocción, chorizo (magro de cerdo, tocino de cerdo, pimentón, sal, ajo), panceta (panceta de cerdo, sal, pimentón, ajo) zanahoria, tomate, sal y antioxidante: E-385."
+  },
+  "origin": "España",
+  "packaging": "Bote",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/a457a8d635eb1c41f1ceb5df904b0441.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a457a8d635eb1c41f1ceb5df904b0441.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a457a8d635eb1c41f1ceb5df904b0441.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/e5e2d03fd88792dc5638e2d5ae43e584.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e5e2d03fd88792dc5638e2d5ae43e584.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e5e2d03fd88792dc5638e2d5ae43e584.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.21",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "3.215",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.35",
+    "unit_selector": true,
+    "unit_size": 0.42
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/26174/garbanzos-riojana-hacendado-bote",
+  "slug": "garbanzos-riojana-hacendado-bote",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/a457a8d635eb1c41f1ceb5df904b0441.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

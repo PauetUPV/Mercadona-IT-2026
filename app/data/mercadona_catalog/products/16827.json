@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 440,
+              "level": 2,
+              "name": "Otras salsas",
+              "order": 7
+            }
+          ],
+          "id": 117,
+          "level": 1,
+          "name": "Otras salsas",
+          "order": 7
+        }
+      ],
+      "id": 12,
+      "level": 0,
+      "name": "Aceite, especias y salsas",
+      "order": 7
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Salsa Mexicana Hacendado",
+    "legal_name": "Salsa Mexicana",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Una vez abierto, conservar refrigerado y consumir antes de 5 días.",
+    "suppliers": [
+      {
+        "name": "Conservas el Cidacos S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Salsa Mexicana Hacendado",
+  "ean": "8480000168276",
+  "extra_info": [
+    ""
+  ],
+  "id": "16827",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Tomate, cebolla, pimiento verde, vinagre de vino, almidón modificado de maíz, azúcar, zumo de limón concentrado, ajo, sal y especias."
+  },
+  "origin": "España",
+  "packaging": "Tarro",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/e2a7598c750f05d6a6635c5f5b2f7e93.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e2a7598c750f05d6a6635c5f5b2f7e93.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e2a7598c750f05d6a6635c5f5b2f7e93.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/75b10189028c0886dcc6ed9afd712d0f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/75b10189028c0886dcc6ed9afd712d0f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/75b10189028c0886dcc6ed9afd712d0f.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.17",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "4.167",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.25",
+    "unit_selector": true,
+    "unit_size": 0.3
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/16827/salsa-mexicana-hacendado-tarro",
+  "slug": "salsa-mexicana-hacendado-tarro",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/e2a7598c750f05d6a6635c5f5b2f7e93.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

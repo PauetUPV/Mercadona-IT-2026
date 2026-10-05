@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Rogusa",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 288,
+              "level": 2,
+              "name": "Empanados y elaborados",
+              "order": 17
+            }
+          ],
+          "id": 45,
+          "level": 1,
+          "name": "Empanados y elaborados",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Rogusa",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Oreja de cerdo cocida adobada Rogusa",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Oreja de cerdo cocida adobada.",
+    "mandatory_mentions": "Sin gluten Consumir tras un cocinado completo.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservese de 0C a +4C",
+    "suppliers": [
+      {
+        "name": "Rogu S.A."
+      }
+    ],
+    "usage_instructions": "En una sarten o en la plancha, se añade un un poco de aceite, la oreja, ajo picado y perejil y se va removiendo hasta que esté cocinado."
+  },
+  "display_name": "Oreja de cerdo cocida adobada Rogusa",
+  "ean": "8411713212185",
+  "extra_info": [
+    null
+  ],
+  "id": "2185",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Oreja de cerdo 98% (origen U.E.), sal, corrector de la acidez E-331iii, conservador E-250 y adobo (agua, pimentón, correctores de la acidez E-270 y E-526 y colorante E-120)."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/c8479a407f410d5442d8aeaf8ed925ae.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c8479a407f410d5442d8aeaf8ed925ae.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c8479a407f410d5442d8aeaf8ed925ae.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 4,
+      "regular": "https://prod-mercadona.imgix.net/images/d58468c4b5bcfdc859d5a90cf654298d.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d58468c4b5bcfdc859d5a90cf654298d.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d58468c4b5bcfdc859d5a90cf654298d.jpeg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "9.20",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "9.200",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "4.60",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/2185/oreja-cerdo-cocida-adobada-rogusa-paquete",
+  "slug": "oreja-cerdo-cocida-adobada-rogusa-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/c8479a407f410d5442d8aeaf8ed925ae.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

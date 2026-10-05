@@ -1,0 +1,121 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 284,
+              "level": 2,
+              "name": "Cordero",
+              "order": 17
+            }
+          ],
+          "id": 42,
+          "level": 1,
+          "name": "Conejo y cordero",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Chuletas de cordero palo y riñonada",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "chuletas de palo riñonada de cordero recental",
+    "mandatory_mentions": "PESO NETO- TRAZABILIDAD / LOTE - FECHA DE CADUCIDAD- PRECIO €/kg - PVP UNIDAD",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "CONSERVAR DE O A 5ºC",
+    "suppliers": [
+      {
+        "name": "AGROPECUARIA FRAILE S.A"
+      },
+      {
+        "name": "Inesmat Despiece y Envasados S.L"
+      },
+      {
+        "name": "MORALEJO SELECCION SLU"
+      },
+      {
+        "name": "Profesionales de la carne"
+      }
+    ],
+    "usage_instructions": "COCINAR COMPLETAMENTE ANTES DE SU CONSUMO. PARA BARBACOA, PLANCHA, FREIR"
+  },
+  "display_name": "Chuletas de cordero palo y riñonada",
+  "ean": "8436541401426",
+  "extra_info": [
+    ""
+  ],
+  "id": "21807",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>carne de cordero"
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/b8b6561a6b4d819835ac11e562558db7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b8b6561a6b4d819835ac11e562558db7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b8b6561a6b4d819835ac11e562558db7.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/2660f8e2fc7273505df88706a00d1754.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/2660f8e2fc7273505df88706a00d1754.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/2660f8e2fc7273505df88706a00d1754.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "31.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "31.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "8.99",
+    "unit_selector": true,
+    "unit_size": 0.29
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/21807/chuletas-cordero-palo-rinonada-bandeja",
+  "slug": "chuletas-cordero-palo-rinonada-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/b8b6561a6b4d819835ac11e562558db7.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

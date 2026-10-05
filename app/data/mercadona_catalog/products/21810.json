@@ -1,0 +1,121 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 284,
+              "level": 2,
+              "name": "Cordero",
+              "order": 17
+            }
+          ],
+          "id": 42,
+          "level": 1,
+          "name": "Conejo y cordero",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Chuletas de cordero paletilla",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "CHULETAS DE PALETILLA CORDERO RECENTAL",
+    "mandatory_mentions": "PESO NETO- TRAZABILIDAD / LOTE - FECHA DE CADUCIDAD- PRECIO €/kg - PVP UNIDAD",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "CONSERVAR DE O A 5ºC",
+    "suppliers": [
+      {
+        "name": "AGROPECUARIA FRAILE S.A"
+      },
+      {
+        "name": "Inesmat S.L"
+      },
+      {
+        "name": "MORALEJO SELECCION SLU"
+      },
+      {
+        "name": "Profesionales de la carne"
+      }
+    ],
+    "usage_instructions": "COCINAR COMPLETAMENTE ANTES DE SU CONSUMO. PARA BARBACOA, PLANCHA, FREIR"
+  },
+  "display_name": "Chuletas de cordero paletilla",
+  "ean": "8436541401419",
+  "extra_info": [
+    ""
+  ],
+  "id": "21810",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": "<p>CARNE DE CORDERO"
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/0b2b4847f7f916d1e146f58f6ea82d30.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0b2b4847f7f916d1e146f58f6ea82d30.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0b2b4847f7f916d1e146f58f6ea82d30.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/7c88e8ed0b4620ebe70379c92288c5de.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7c88e8ed0b4620ebe70379c92288c5de.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7c88e8ed0b4620ebe70379c92288c5de.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "24.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "24.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "7.10",
+    "unit_selector": true,
+    "unit_size": 0.29
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/21810/chuletas-cordero-paletilla-bandeja",
+  "slug": "chuletas-cordero-paletilla-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/0b2b4847f7f916d1e146f58f6ea82d30.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

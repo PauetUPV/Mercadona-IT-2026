@@ -1,0 +1,119 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Borsao",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 569,
+              "level": 2,
+              "name": "Otros vinos tintos",
+              "order": 15
+            }
+          ],
+          "id": 169,
+          "level": 1,
+          "name": "Vino tinto",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": "14.5º",
+    "brand": "Borsao",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Vino tinto Borsao DO Campo de Borja",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Vino tinto D.O. Campo de Borja",
+    "mandatory_mentions": "El grado puede variar en función de la añada",
+    "origin": "D.O. Campo de Borja",
+    "production_variant": "El grado alcohólico puede variar en función de la añada",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "Bodegas Borsao"
+      },
+      {
+        "name": "Bodegas Borsao S.A."
+      },
+      {
+        "name": "Bodegas Borsao, S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Vino tinto Borsao DO Campo de Borja",
+  "ean": "8412423121705",
+  "extra_info": [
+    ""
+  ],
+  "id": "67024",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "DO Campo de Borja",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>dióxido de azufre y sulfitos</strong>.",
+    "ingredients": "Uva, antioxidantes (ácido l-ascórbico), Conservadores <strong>(Anhídrido sulfuroso)</strong>, agentes estabilizantes (goma arábiga). <strong>Contiene sulfitos</strong>"
+  },
+  "origin": "D.O. Campo de Borja",
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/5ec3b4539f609fd5daa99c2ab5151cf2.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5ec3b4539f609fd5daa99c2ab5151cf2.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5ec3b4539f609fd5daa99c2ab5151cf2.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/1b3efaa24b50a90949db6c2db3ad28b7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1b3efaa24b50a90949db6c2db3ad28b7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1b3efaa24b50a90949db6c2db3ad28b7.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "3.000",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.25",
+    "unit_selector": true,
+    "unit_size": 0.75
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/67024/vino-tinto-do-campo-borja-borsao-barrica-botella",
+  "slug": "vino-tinto-do-campo-borja-borsao-barrica-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/5ec3b4539f609fd5daa99c2ab5151cf2.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

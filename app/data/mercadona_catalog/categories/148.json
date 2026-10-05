@@ -1,0 +1,788 @@
+{
+  "categories": [
+    {
+      "id": 511,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Carne",
+      "order": 213,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Burger de vacuno Smash congeladas",
+          "id": "17623",
+          "is_new_arrival": true,
+          "limit": 999,
+          "main_feature": "congeladas",
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "12.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "12.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "ud.",
+            "unit_price": "6.00",
+            "unit_selector": true,
+            "unit_size": 0.48
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/17623/burger-vacuno-smash-congeladas-caja",
+          "slug": "burger-vacuno-smash-congeladas-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/f9fe4c9d880beba7c20f685edebe873a.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Jamoncitos de pollo congelados",
+          "id": "25183",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "congelados",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "3.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.50",
+            "unit_selector": true,
+            "unit_size": 1.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/25183/jamoncitos-pollo-congelados-paquete",
+          "slug": "jamoncitos-pollo-congelados-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/bebaada78c49c64b7dda4cf6b5726cf0.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Alas de pollo congeladas",
+          "id": "25184",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "congeladas",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.70",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "3.700",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.70",
+            "unit_selector": true,
+            "unit_size": 1.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/25184/alas-pollo-congeladas-paquete",
+          "slug": "alas-pollo-congeladas-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/c57822e42dafc3bcab953b8755a6a40f.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Medallones preparado de solomillo cerdo congelados marinados",
+          "id": "4176",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "cerdo congelados marinados",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "10.36",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "10.360",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.11",
+            "unit_selector": true,
+            "unit_size": 0.3
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/4176/medallones-preparado-solomillo-cerdo-congelados-marinados-paquete",
+          "slug": "medallones-preparado-solomillo-cerdo-congelados-marinados-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/11bcd6090bd578b0427ad1cbb3f63474.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Solomillo de pavo marinado congelado",
+          "id": "25353",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "congelado",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "7.80",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "7.800",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.12",
+            "unit_selector": true,
+            "unit_size": 0.4
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/25353/solomillo-pavo-marinado-congelado-paquete",
+          "slug": "solomillo-pavo-marinado-congelado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/134b36b88ca0f81fd392ce8dc434f3aa.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Cuartos traseros de pollo congelados",
+          "id": "25182",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.85",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "2.850",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "5.70",
+            "unit_selector": true,
+            "unit_size": 2.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/25182/cuartos-traseros-pollo-congelados-paquete",
+          "slug": "cuartos-traseros-pollo-congelados-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/64a92b8526d3a6544a6dfcba18b78e82.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Solomillo de cerdo marinado congelado",
+          "id": "2228",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "congelado",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "7.80",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "7.800",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "6.24",
+            "unit_selector": true,
+            "unit_size": 0.8
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/2228/solomillo-cerdo-marinado-congelado-paquete",
+          "slug": "solomillo-cerdo-marinado-congelado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/ca9de27c3cc48047eb795200ae5f5a5f.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Pierna de lechal entera congelada",
+          "id": "4073",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "congelada",
+          "packaging": "Pieza",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "17.90",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "17.900",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "12.89",
+            "unit_selector": true,
+            "unit_size": 0.72
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/4073/pierna-lechal-entera-congelada-pieza",
+          "slug": "pierna-lechal-entera-congelada-pieza",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/87f0b79255b638658bad75dce3139871.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Chuletas cordero de lechal congeladas",
+          "id": "4334",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "congeladas",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "29.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "29.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "15.95",
+            "unit_selector": true,
+            "unit_size": 0.55
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/4334/chuletas-cordero-lechal-congeladas-paquete",
+          "slug": "chuletas-cordero-lechal-congeladas-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/326f3c03b33c5d1390a84db3c748b7ec.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Carrillada de vacuno congelado",
+          "id": "21101",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "17.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "17.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "8.23",
+            "unit_selector": true,
+            "unit_size": 0.47
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/21101/carrillada-vacuno-congelado-paquete",
+          "slug": "carrillada-vacuno-congelado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/c58c4c7651db7fdaf2fe8c0278a1e3d4.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Pechugas de pollo enteras congeladas",
+          "id": "30006",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "congeladas",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "5.80",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "5.800",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "6.96",
+            "unit_selector": true,
+            "unit_size": 1.2
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/30006/pechugas-pollo-enteras-congeladas-paquete",
+          "slug": "pechugas-pollo-enteras-congeladas-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/beef28a8164cac17abbabfb7d4f4b275.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Alas de pollo barbacoa congeladas",
+          "id": "52426",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "congeladas",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "4.93",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "4.934",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.70",
+            "unit_selector": true,
+            "unit_size": 0.75
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/52426/alas-pollo-barbacoa-congeladas-paquete",
+          "slug": "alas-pollo-barbacoa-congeladas-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/08246c7166e5409f632528a1e900a3b6.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Carrillada de cerdo congelada",
+          "id": "4425",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "12.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "12.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "5.75",
+            "unit_selector": true,
+            "unit_size": 0.46
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/4425/carrillada-cerdo-congelada-paquete",
+          "slug": "carrillada-cerdo-congelada-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/00bf9ecaba2c069b2182a91edba66196.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Brochetas de pollo Yakitori Hacendado ultracongeladas",
+          "id": "19996",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "ultracongeladas",
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "14.17",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "14.167",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 8,
+            "unit_name": "ud.",
+            "unit_price": "3.40",
+            "unit_selector": true,
+            "unit_size": 0.24
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/19996/brochetas-pollo-yakitori-hacendado-ultracongeladas-caja",
+          "slug": "brochetas-pollo-yakitori-hacendado-ultracongeladas-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/56c1f6bd09368902a2c493d7f0c6a7a3.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Bolitas de pollo Hacendado congeladas",
+          "id": "19852",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "congeladas",
+          "packaging": "Bolsa",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "4.93",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "4.934",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.70",
+            "unit_selector": true,
+            "unit_size": 0.75
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/19852/bolitas-pollo-hacendado-congeladas-bolsa",
+          "slug": "bolitas-pollo-hacendado-congeladas-bolsa",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/04c83fd193d2218bdc2d61a652ea1c2b.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    }
+  ],
+  "id": 148,
+  "is_extended": false,
+  "layout": 1,
+  "name": "Carne",
+  "next_category": {
+    "id": 145,
+    "name": "Fruta y verdura"
+  },
+  "order": 213,
+  "published": true
+}

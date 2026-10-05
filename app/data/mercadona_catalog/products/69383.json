@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 504,
+              "level": 2,
+              "name": "Verdura",
+              "order": 213
+            }
+          ],
+          "id": 145,
+          "level": 1,
+          "name": "Fruta y verdura",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Wakame ensalada de alga marina Hacendado congelada con sésamo",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Wakame",
+    "mandatory_mentions": "",
+    "origin": "China",
+    "production_variant": "",
+    "storage_instructions": "Conservar a -18°C. En frigorífico: 3 días (Una vez que esté descongelado).Para no alterar la calidad de este producto, aconsejamos no volver a congelarlo una vez descongelado.",
+    "suppliers": [
+      {
+        "name": "Mercadona S.A."
+      }
+    ],
+    "usage_instructions": "Descongelar completamente sin abrir la bolsa en la nevera, abrir y consumir."
+  },
+  "display_name": "Wakame ensalada de alga marina Hacendado congelada",
+  "ean": "8480000693839",
+  "extra_info": [
+    ""
+  ],
+  "id": "69383",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "congelada",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>granos de sésamo y productos a base de granos de sésamo</strong>.",
+    "ingredients": "Alga marina, Tiras del agar, Hong negro, Condimento (jarabe con sabor a fruta, colorante E120*, E133, vinagre de arroz, aceite de  <strong>sésamo</strong> y <strong>soja</strong>, sal, <strong>sésamo</strong>, pimiento rojo, salsa de soja (<strong>trigo</strong>), potenciador de sabor E621, proteína vegetal hidrolizada (<strong>soja</strong>)). *E102: puede tener  efectos negativos sobre la actividad y la atención de los niños."
+  },
+  "origin": "China",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/7091f6ca5f7d9800b0cb305e3675e7de.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7091f6ca5f7d9800b0cb305e3675e7de.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7091f6ca5f7d9800b0cb305e3675e7de.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/98735eb9ca581392ab9baaa7e4af529d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/98735eb9ca581392ab9baaa7e4af529d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/98735eb9ca581392ab9baaa7e4af529d.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "12.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "12.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.50",
+    "unit_selector": true,
+    "unit_size": 0.125
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/69383/wakame-ensalada-alga-marina-hacendado-congelada-con-sesamo-paquete",
+  "slug": "wakame-ensalada-alga-marina-hacendado-congelada-con-sesamo-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/7091f6ca5f7d9800b0cb305e3675e7de.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

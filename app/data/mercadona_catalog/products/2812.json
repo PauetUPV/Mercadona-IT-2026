@@ -1,0 +1,125 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 280,
+              "level": 2,
+              "name": "Cerdo",
+              "order": 17
+            }
+          ],
+          "id": 37,
+          "level": 1,
+          "name": "Cerdo",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Media careta de cerdo sin oreja",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Media careta cerdo s/oreja",
+    "mandatory_mentions": "Envasado en atmósfera protectora",
+    "origin": "España",
+    "production_variant": "El peso neto del producto puede variar en un margen de 150 g. por tratarse de un formato peso variable. Este producto también puede venir de otros países de la Unión Europea",
+    "storage_instructions": "Conservese entre 0 C y 3 C.",
+    "suppliers": [
+      {
+        "name": "Frescos y Elaborados Delisano SAU"
+      },
+      {
+        "name": "INCARLOPSA"
+      },
+      {
+        "name": "Iniciativas Comerciales Dadyma, S.L."
+      }
+    ],
+    "usage_instructions": "Cocinar completamente antes de su consumo"
+  },
+  "display_name": "Media careta de cerdo sin oreja",
+  "ean": "2105100028126",
+  "extra_info": [
+    null
+  ],
+  "id": "2812",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": "sin oreja",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Careta de cerdo"
+  },
+  "origin": "España",
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/23df518e2439d4ce078cd3a460cf914a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/23df518e2439d4ce078cd3a460cf914a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/23df518e2439d4ce078cd3a460cf914a.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/3e9107b8e005fcf900be00a673e0d85d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3e9107b8e005fcf900be00a673e0d85d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3e9107b8e005fcf900be00a673e0d85d.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/caeda43963a3b0249d47f2311ccd3719.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/caeda43963a3b0249d47f2311ccd3719.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/caeda43963a3b0249d47f2311ccd3719.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "7.30",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.300",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.72",
+    "unit_selector": true,
+    "unit_size": 0.51
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/2812/media-careta-cerdo-sin-oreja-bandeja",
+  "slug": "media-careta-cerdo-sin-oreja-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/23df518e2439d4ce078cd3a460cf914a.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

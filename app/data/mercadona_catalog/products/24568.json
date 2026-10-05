@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 386,
+              "level": 2,
+              "name": "Chocolatinas",
+              "order": 11
+            }
+          ],
+          "id": 92,
+          "level": 1,
+          "name": "Chocolate",
+          "order": 11
+        }
+      ],
+      "id": 9,
+      "level": 0,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Barritas de barquillo Cheesecake Caramel Hacendado con cobertura blanca y relleno sabor cheesecake",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Crujiente barrita de barquillo cubierto de cobertura blanca coloreada sabor caramelo, con relleno sabor cheesecake (29%) y con gotas de cobertura blanca (21%).",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Mantener en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Imperial-Productos Alimentarios, S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Barritas de barquillo Cheesecake Caramel Hacendado con cobertura blanca y relleno sabor cheesecake",
+  "ean": "8402001054037",
+  "extra_info": [
+    ""
+  ],
+  "id": "24568",
+  "is_bulk": false,
+  "is_new_arrival": true,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "con cobertura blanca y relleno sabor cheesecake",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>frutos de cáscara</strong>.",
+    "ingredients": "Cobertura blanca coloreada (37%) (azúcar, grasa vegetal (palma y palmiste), <strong>leche</strong> en polvo, emulgentes: lecitina (<strong>soja</strong>) y e-476, colorante: e-160a, sacarosa caramelizada y aromas), azúcar, gota de cobertura blanca (azúcar, grasa vegetal (coco, palmiste) en proporciones variables, <strong>leche</strong> desnatada en polvo, emulgente: lecitina (<strong>soja</strong>), aroma natural de vainilla), harina de <strong>trigo</strong> (<strong>gluten</strong>), <strong>leche</strong> desnatada en polvo, grasa vegetal de palma, emulgentes: lecitina (<strong>soja</strong>) y e-476, gasificante: bicarbonato de sodio y aromas. Puede contener: <strong>frutos de cáscara</strong> y <strong>mostaza</strong>."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/330bb6a847dfa72dbd84fc7d7c617cc2.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/330bb6a847dfa72dbd84fc7d7c617cc2.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/330bb6a847dfa72dbd84fc7d7c617cc2.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/1b4964e6104137664e70a51784fdae8c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1b4964e6104137664e70a51784fdae8c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1b4964e6104137664e70a51784fdae8c.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "15.65",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "15.653",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 5,
+    "unit_name": "ud.",
+    "unit_price": "1.80",
+    "unit_selector": true,
+    "unit_size": 0.115
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/24568/barritas-barquillo-cheesecake-caramel-hacendado-con-cobertura-blanca-relleno-sabor-cheesecake-paquete",
+  "slug": "barritas-barquillo-cheesecake-caramel-hacendado-con-cobertura-blanca-relleno-sabor-cheesecake-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/330bb6a847dfa72dbd84fc7d7c617cc2.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

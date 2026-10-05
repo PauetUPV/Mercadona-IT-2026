@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 504,
+              "level": 2,
+              "name": "Verdura",
+              "order": 213
+            }
+          ],
+          "id": 145,
+          "level": 1,
+          "name": "Fruta y verdura",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Wok de verduras Hacendado ultracongelado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "WOK",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "Congelados de Navarra, S.A.U"
+      }
+    ],
+    "usage_instructions": "Calienta 2 cucharadas de aceite en una sartén. Verter sin descongelar. Remover de vez en cuando. (8-10 min)"
+  },
+  "display_name": "Wok de verduras Hacendado ultracongelado",
+  "ean": "8402001028748",
+  "extra_info": [
+    ""
+  ],
+  "id": "11617",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "ultracongelado",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>soja y productos a base de soja</strong>.",
+    "ingredients": "(Brócoli, calabacín asado, zanahoria naranja y amarilla, pimiento rojo, castaña de agua, cebolla roja asada, peapods (tirabeques), edamame grano (<strong>soja</strong>)), seta shiitake cultivada (Lentinula edodes) (9%), sazonador (azúcar, sal aroma, cebolla deshidratada, especias, algarroba en polvo, maltodextrina, ajo deshidratado, fibra de arroz, hierbas, aceite de girasol), aceite de girasol."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/8fe580eea105d0d86cd80d57477d83fa.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8fe580eea105d0d86cd80d57477d83fa.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8fe580eea105d0d86cd80d57477d83fa.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/2ca86a2026746498fe25522978100eaa.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/2ca86a2026746498fe25522978100eaa.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/2ca86a2026746498fe25522978100eaa.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.22",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "4.223",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.90",
+    "unit_selector": true,
+    "unit_size": 0.45
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/11617/wok-verduras-hacendado-ultracongelado-paquete",
+  "slug": "wok-verduras-hacendado-ultracongelado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/8fe580eea105d0d86cd80d57477d83fa.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

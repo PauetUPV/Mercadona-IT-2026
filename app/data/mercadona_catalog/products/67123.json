@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Finca La Malcriada",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 571,
+              "level": 2,
+              "name": "Rioja y otras denominaciones",
+              "order": 15
+            }
+          ],
+          "id": 170,
+          "level": 1,
+          "name": "Vino blanco",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": "11.0º",
+    "brand": "Finca La Malcriada",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Vino blanco dulce Finca La Malcriada DO Valencia",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Vino blanco dulce",
+    "mandatory_mentions": "",
+    "origin": "DOP Valencia",
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "Bodegas EL Villar, S.C.V."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Vino blanco dulce Finca La Malcriada DO Valencia",
+  "ean": "8410275002005",
+  "extra_info": [
+    ""
+  ],
+  "id": "67123",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "DO Valencia",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Uva, mosto de uva concentrado, correctores de la acidez (Ácido málico(L-)), conservadores y antioxidantes (sorbato de potasio, ácido L-ascórbico, dicarbonato de dimetilo, <strong>metabisulfito de potasio(sulfitos))</strong>, agentes estabilizantes (poliaspartato de potasio, carboximetilcelulosa)"
+  },
+  "origin": "DOP Valencia",
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/dd1e07aa1e04d0f1507ed64d50c5ecfa.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/dd1e07aa1e04d0f1507ed64d50c5ecfa.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/dd1e07aa1e04d0f1507ed64d50c5ecfa.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/fdeca7e7352c7262ad2d615d5f2feb39.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/fdeca7e7352c7262ad2d615d5f2feb39.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/fdeca7e7352c7262ad2d615d5f2feb39.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.33",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "3.334",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.50",
+    "unit_selector": true,
+    "unit_size": 0.75
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/67123/vino-blanco-do-valencia-finca-malcriada-dulce-botella",
+  "slug": "vino-blanco-do-valencia-finca-malcriada-dulce-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/dd1e07aa1e04d0f1507ed64d50c5ecfa.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

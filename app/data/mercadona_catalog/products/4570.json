@@ -1,0 +1,125 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 280,
+              "level": 2,
+              "name": "Cerdo",
+              "order": 17
+            }
+          ],
+          "id": 37,
+          "level": 1,
+          "name": "Cerdo",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Solomillo de cerdo",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Solomillo de Cerdo",
+    "mandatory_mentions": "",
+    "origin": "ESPAÑA",
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 0ºC y 5ºC",
+    "suppliers": [
+      {
+        "name": "FTD Alimentação"
+      },
+      {
+        "name": "Frescos y Elaborados Delisano SAU"
+      },
+      {
+        "name": "Hermanos Moran, S.L."
+      },
+      {
+        "name": "INCARLOPSA"
+      },
+      {
+        "name": "Industrias Cárnicas Tello, S.A."
+      }
+    ],
+    "usage_instructions": "Una vez abierto consumir en 48 horas"
+  },
+  "display_name": "Solomillo de cerdo",
+  "ean": "2105100045703",
+  "extra_info": [
+    null
+  ],
+  "id": "4570",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Solomillo de cerdo"
+  },
+  "origin": "ESPAÑA",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/0504638a2f1bac483d0b58a3017fb59e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0504638a2f1bac483d0b58a3017fb59e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0504638a2f1bac483d0b58a3017fb59e.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/90eacbb8876b17be91d258da5ab7d06f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/90eacbb8876b17be91d258da5ab7d06f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/90eacbb8876b17be91d258da5ab7d06f.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "7.80",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.800",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "4.29",
+    "unit_selector": true,
+    "unit_size": 0.55
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/4570/solomillo-cerdo-paquete",
+  "slug": "solomillo-cerdo-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/0504638a2f1bac483d0b58a3017fb59e.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

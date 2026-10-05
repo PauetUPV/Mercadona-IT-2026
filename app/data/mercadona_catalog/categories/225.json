@@ -1,0 +1,338 @@
+{
+  "categories": [
+    {
+      "id": 720,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Pájaro",
+      "order": 443,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 25,
+              "level": 0,
+              "name": "Mascotas",
+              "order": 443
+            }
+          ],
+          "display_name": "Alimento completo para periquitos Granzoo",
+          "id": "38131",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "1.90",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 4,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "1.900",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.90",
+            "unit_selector": true,
+            "unit_size": 1.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/38131/alimento-completo-periquitos-granzoo-paquete",
+          "slug": "alimento-completo-periquitos-granzoo-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/56f2799b4a49b45c460e415561f017ba.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 25,
+              "level": 0,
+              "name": "Mascotas",
+              "order": 443
+            }
+          ],
+          "display_name": "Barritas de fruta y miel para periquitos Natura",
+          "id": "38145",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "25.56",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "25.556",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 3,
+            "unit_name": "ud.",
+            "unit_price": "2.30",
+            "unit_selector": true,
+            "unit_size": 0.09
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/38145/barritas-fruta-miel-periquitos-natura-caja",
+          "slug": "barritas-fruta-miel-periquitos-natura-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/6da035abb410607af8753a8f6d3a7603.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 25,
+              "level": 0,
+              "name": "Mascotas",
+              "order": 443
+            }
+          ],
+          "display_name": "Alimento completo para canarios y jilgueros Granzoo",
+          "id": "38130",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "1.88",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 4,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "1.880",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.88",
+            "unit_selector": true,
+            "unit_size": 1.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/38130/alimento-completo-canarios-jilgueros-granzoo-paquete",
+          "slug": "alimento-completo-canarios-jilgueros-granzoo-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/7e208005ab1342ff5918424b0fc8c3bc.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 25,
+              "level": 0,
+              "name": "Mascotas",
+              "order": 443
+            }
+          ],
+          "display_name": "Barritas de fruta y miel para canarios Natura",
+          "id": "38111",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "25.56",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "25.556",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 3,
+            "unit_name": "ud.",
+            "unit_price": "2.30",
+            "unit_selector": true,
+            "unit_size": 0.09
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/38111/barritas-fruta-miel-canarios-natura-caja",
+          "slug": "barritas-fruta-miel-canarios-natura-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/dd343c75df218a9df5ee874d4278bfbf.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 25,
+              "level": 0,
+              "name": "Mascotas",
+              "order": 443
+            }
+          ],
+          "display_name": "Alimento completo para ninfa y agaporni Granzoo",
+          "id": "13646",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.31",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 4,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "2.313",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.85",
+            "unit_selector": true,
+            "unit_size": 0.8
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/13646/alimento-completo-ninfa-agaporni-granzoo-paquete",
+          "slug": "alimento-completo-ninfa-agaporni-granzoo-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/ceca49751989999975457baa23d7edaf.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    },
+    {
+      "id": 721,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Otros",
+      "order": 443,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 25,
+              "level": 0,
+              "name": "Mascotas",
+              "order": 443
+            }
+          ],
+          "display_name": "Alimento completo conejos enanos Granzoo",
+          "id": "38007",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.13",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "2.125",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.70",
+            "unit_selector": true,
+            "unit_size": 0.8
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/38007/alimento-completo-conejos-enanos-granzoo-paquete",
+          "slug": "alimento-completo-conejos-enanos-granzoo-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/5c9beda4b732f73ef50e0d266c0082bf.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    }
+  ],
+  "id": 225,
+  "is_extended": false,
+  "layout": 1,
+  "name": "Otros",
+  "next_category": {
+    "id": 65,
+    "name": "Bollería de horno"
+  },
+  "order": 443,
+  "published": true
+}

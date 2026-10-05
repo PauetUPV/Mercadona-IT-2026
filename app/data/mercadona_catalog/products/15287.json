@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 507,
+              "level": 2,
+              "name": "Patatas",
+              "order": 213
+            }
+          ],
+          "id": 145,
+          "level": 1,
+          "name": "Fruta y verdura",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Bastones de batata Hacendado ultracongelada",
+    "legal_name": "Batatas fritas rebozadas de corte recto, prefritas y congeladas.",
+    "mandatory_mentions": "Sin gluten.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar a -18ªC. No volver a congelar una vez descongelado.",
+    "suppliers": [
+      {
+        "name": "AGRISTO N.V"
+      }
+    ],
+    "usage_instructions": "Los aparatos de cocción pueden variar, por lo que puede ser necesario ajustar los tiempos de cocción. Cuando se preparen cantidades más pequeñas o si se descongela, reduzca los tiempos de cocción y no lo cocine en exceso. No ingiera este producto crudo y compruebe que esté bien caliente antes de servir."
+  },
+  "display_name": "Bastones de batata Hacendado ultracongelada",
+  "ean": "8402001042041",
+  "extra_info": [
+    ""
+  ],
+  "id": "15287",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Batata (86,4%), Aceite de girasol (5,0%), Almidón de patata modificado, Almidón de patata, Harina de arroz, Dextrina,  Sal, Gasificante: Bicarbonato de sodio, Gasificante: Difosfato disódico, Extracto de pimentón, Espesante: Xantano chicle."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/2940a324e8d344a73d0990cc8dc1eae9.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/2940a324e8d344a73d0990cc8dc1eae9.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/2940a324e8d344a73d0990cc8dc1eae9.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/f4ad9d4f17c024009dea2b547db1428c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f4ad9d4f17c024009dea2b547db1428c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f4ad9d4f17c024009dea2b547db1428c.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.53",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "3.534",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.65",
+    "unit_selector": true,
+    "unit_size": 0.75
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/15287/bastones-batata-hacendado-ultracongelada-paquete",
+  "slug": "bastones-batata-hacendado-ultracongelada-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/2940a324e8d344a73d0990cc8dc1eae9.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

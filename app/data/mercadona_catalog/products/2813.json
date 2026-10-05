@@ -1,0 +1,117 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 280,
+              "level": 2,
+              "name": "Cerdo",
+              "order": 17
+            }
+          ],
+          "id": 37,
+          "level": 1,
+          "name": "Cerdo",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Cerdo a tacos",
+    "legal_name": "CERDO A TACOS",
+    "mandatory_mentions": "Envasado en atmósfera protectora.",
+    "origin": null,
+    "production_variant": "Producto de peso variable, el contenido neto puede oscilar entre 400g y 600g",
+    "storage_instructions": "Conservar en refrigeración entre 0 y 5°C. Una vez abierto consumir antes de 48 horas",
+    "suppliers": [
+      {
+        "name": "FTD Alimentaçao"
+      },
+      {
+        "name": "Frescos y Elaborados Delisano SAU"
+      },
+      {
+        "name": "INCARLOPSA"
+      }
+    ],
+    "usage_instructions": "Para:guisar"
+  },
+  "display_name": "Cerdo a tacos",
+  "ean": "2105100028133",
+  "extra_info": [
+    null
+  ],
+  "id": "2813",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": ""
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/3e3b46478252539e490d17eac79f3e42.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3e3b46478252539e490d17eac79f3e42.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3e3b46478252539e490d17eac79f3e42.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/2ee5b854c4cde8402056dd2fb30c2e41.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/2ee5b854c4cde8402056dd2fb30c2e41.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/2ee5b854c4cde8402056dd2fb30c2e41.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "5.75",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.750",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.22",
+    "unit_selector": true,
+    "unit_size": 0.56
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/2813/cerdo-tacos-bandeja",
+  "slug": "cerdo-tacos-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/3e3b46478252539e490d17eac79f3e42.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

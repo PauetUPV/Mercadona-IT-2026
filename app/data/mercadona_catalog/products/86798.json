@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 381,
+              "level": 2,
+              "name": "Chocolate con leche",
+              "order": 11
+            }
+          ],
+          "id": 92,
+          "level": 1,
+          "name": "Chocolate",
+          "order": 11
+        }
+      ],
+      "id": 9,
+      "level": 0,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Chocolate con leche Fussion Hacendado relleno crema de fresa",
+    "legal_name": "CHOCOLATE CON LECHE CON RELLENO DE CREMA DE FRESA",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco, seco y alejado de olores. Temperatura ideal de conservación: 18ºC-20ºC",
+    "suppliers": [
+      {
+        "name": "SANCHIS MIRA S.A."
+      }
+    ],
+    "usage_instructions": "No requiere."
+  },
+  "display_name": "Chocolate con leche Fussion Hacendado relleno crema de fresa",
+  "ean": "8480000867988",
+  "extra_info": [
+    null
+  ],
+  "id": "86798",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Chocolate con LECHE (50%) [azúcar, manteca de cacao,<strong> LECHE </strong>entera en polvo, pasta de cacao, emulgentes (lecitinas, E-476), aroma natural de vainilla], azúcar, jarabe de glucosa y fructosa, grasas y aceites vegetales (girasol, palma, palmiste), agua, <strong>LECHE</strong> descremada en polvo, suero <strong>LÁCTEO</strong> en polvo, zumo de fresa concentrado (0,5%), fresa en polvo (0,4%), concentrado (zanahoria, remolacha), emulgentes (lecitinas, E-472c), acidulantes (ácido cítrico, citrato cálcico), estabilizante: pectinas, aroma natural de fresa, aromas. <strong>ALÉRGENOS: Puede contener frutos de cáscara y soja.</strong>"
+  },
+  "origin": "España",
+  "packaging": "Tableta",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/19aa713999445aa47eca1dd187919936.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/19aa713999445aa47eca1dd187919936.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/19aa713999445aa47eca1dd187919936.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/25a9cab122156bd7361b7016859c1de5.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/25a9cab122156bd7361b7016859c1de5.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/25a9cab122156bd7361b7016859c1de5.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "12.27",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "12.273",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.35",
+    "unit_selector": true,
+    "unit_size": 0.11
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/86798/chocolate-con-leche-fussion-hacendado-relleno-crema-fresa-tableta",
+  "slug": "chocolate-con-leche-fussion-hacendado-relleno-crema-fresa-tableta",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/19aa713999445aa47eca1dd187919936.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

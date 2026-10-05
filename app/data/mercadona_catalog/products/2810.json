@@ -1,0 +1,119 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 280,
+              "level": 2,
+              "name": "Cerdo",
+              "order": 17
+            }
+          ],
+          "id": 37,
+          "level": 1,
+          "name": "Cerdo",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Carrillada de cerdo",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "CARRILLADA",
+    "mandatory_mentions": "Envasado en atmósfera protectora.",
+    "origin": null,
+    "production_variant": "Producto de peso variable, el contenido neto puede oscilar entre 300g y 540g",
+    "storage_instructions": "Conservar en refrigeración entre 0 y 3C. Una vez abierto consumir antes de 48 horas",
+    "suppliers": [
+      {
+        "name": "Frescos y Elaborados Delisano SAU"
+      },
+      {
+        "name": "INCARLOPSA"
+      },
+      {
+        "name": "Iniciativas Comerciales Dadyma, S.L."
+      }
+    ],
+    "usage_instructions": "Para:guisar, plancha..."
+  },
+  "display_name": "Carrillada de cerdo",
+  "ean": "2105100028102",
+  "extra_info": [
+    null
+  ],
+  "id": "2810",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Piezas de carrillada de cerdo sin hueso."
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/cebcd0e5e43fec643cc13b5ce2c1fa5f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/cebcd0e5e43fec643cc13b5ce2c1fa5f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/cebcd0e5e43fec643cc13b5ce2c1fa5f.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/8d024722163184aac63b5b16fd9acea8.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8d024722163184aac63b5b16fd9acea8.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8d024722163184aac63b5b16fd9acea8.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "13.10",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "13.100",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "6.55",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/2810/carrillada-cerdo-bandeja",
+  "slug": "carrillada-cerdo-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/cebcd0e5e43fec643cc13b5ce2c1fa5f.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

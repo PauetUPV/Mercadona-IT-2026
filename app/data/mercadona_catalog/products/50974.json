@@ -1,0 +1,109 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 309,
+              "level": 2,
+              "name": "Queso curado",
+              "order": 159
+            }
+          ],
+          "id": 54,
+          "level": 1,
+          "name": "Queso curado, semicurado y tierno",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Queso viejo intenso mezcla Hacendado",
+    "legal_name": "Queso de Mezcla Viejo",
+    "mandatory_mentions": "Producto elaborado con leche cruda. Corteza no comestible.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar refrigerado entre 2-8ºC",
+    "suppliers": [
+      {
+        "name": "Valle de San Juan S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Queso viejo intenso mezcla Hacendado",
+  "ean": "2105600509743",
+  "extra_info": [
+    null
+  ],
+  "id": "50974",
+  "is_bulk": true,
+  "is_variable_weight": true,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Libre de <strong>huevos y productos a base de huevo</strong>. Contiene <strong>ml</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Leche</strong> cruda de vaca (min.70%), <strong>leche</strong> cruda de oveja (min.15%), <strong>leche</strong> cruda de cabra (min.5%), sal, coagulante, fermentos <strong>lácticos</strong>. Corteza no comestible: contiene conservadores (E-202 y E-235). Origen de la leche: España. Lotes previos a 25177185 (sin incluir) Puede contener trazas de <strong>HUEVO</strong>."
+  },
+  "origin": null,
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/9fe5d21175e498c6bb265f6728c0e43a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9fe5d21175e498c6bb265f6728c0e43a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9fe5d21175e498c6bb265f6728c0e43a.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/50a6b37a68894200b3593d4860153c48.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/50a6b37a68894200b3593d4860153c48.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/50a6b37a68894200b3593d4860153c48.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "14.36",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "14.360",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "4.74",
+    "unit_selector": true,
+    "unit_size": 0.33
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/50974/queso-viejo-intenso-mezcla-hacendado-pieza",
+  "slug": "queso-viejo-intenso-mezcla-hacendado-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/9fe5d21175e498c6bb265f6728c0e43a.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

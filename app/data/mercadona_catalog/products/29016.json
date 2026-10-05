@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 424,
+              "level": 2,
+              "name": "Sal y bicarbonato",
+              "order": 7
+            }
+          ],
+          "id": 112,
+          "level": 1,
+          "name": "Aceite, vinagre y sal",
+          "order": 7
+        }
+      ],
+      "id": 12,
+      "level": 0,
+      "name": "Aceite, especias y salsas",
+      "order": 7
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Sal de frutas sabor limón Hacendado",
+    "legal_name": "Producto sólido en polvo para preparar bebida refrescante aromatizada sabor limón, con edulcorante",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco. Evite su apelmazamiento cerrando el tapón después de cada uso.",
+    "suppliers": [
+      {
+        "name": "JESÚS NAVARRO, S.A."
+      }
+    ],
+    "usage_instructions": "Verter una cucharadita en medio vaso de agua, remover y beber una vez se produzca la efervescencia."
+  },
+  "display_name": "Sal de frutas sabor limón Hacendado",
+  "ean": "8480000290168",
+  "extra_info": [
+    null
+  ],
+  "id": "29016",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Gasificante (bicarbonato sódico E-500 ii), acidulante (ácido tartárico E-334), aroma limón y edulcorante (sacarina sódica E-954)."
+  },
+  "origin": "España",
+  "packaging": "Bote",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/e01b7ced535cf57318ff7c7a1628d3ed.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e01b7ced535cf57318ff7c7a1628d3ed.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e01b7ced535cf57318ff7c7a1628d3ed.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/429b53100a413744ef9da9b79d2d85bf.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/429b53100a413744ef9da9b79d2d85bf.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/429b53100a413744ef9da9b79d2d85bf.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "8.40",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "8.400",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.10",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/29016/sal-frutas-sabor-limon-hacendado-bote",
+  "slug": "sal-frutas-sabor-limon-hacendado-bote",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/e01b7ced535cf57318ff7c7a1628d3ed.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

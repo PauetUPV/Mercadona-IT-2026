@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 416,
+              "level": 2,
+              "name": "Yogures griegos",
+              "order": 598
+            }
+          ],
+          "id": 109,
+          "level": 1,
+          "name": "Yogures griegos",
+          "order": 598
+        }
+      ],
+      "id": 11,
+      "level": 0,
+      "name": "Postres y yogures",
+      "order": 598
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Yogur griego con mango Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Yogur al estilo griego con mango",
+    "mandatory_mentions": "Sin gluten.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 1°C y 8°C.",
+    "suppliers": [
+      {
+        "name": "Schreiber Foods"
+      },
+      {
+        "name": "Schreiber Foods España, S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Yogur griego con mango Hacendado",
+  "ean": "8480000211606",
+  "extra_info": [
+    null
+  ],
+  "id": "21160",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Yogur natural azucarado (80%) [<strong>Leche</strong> pasteurizada, <strong>nata</strong>, azúcar (5,9%), <strong>leche</strong> en polvo desnatada y fermentos <strong>lácticos</strong>]. Preparado de mango (20%)  [trozos de mango (50%), azúcar, agua, almidón modificado de maíz, espesante  (pectina), aromas, colorante (betacaroteno) y correctores de acidez (citrato  trisódico y ácido cítrico)]."
+  },
+  "origin": null,
+  "packaging": "Pack-4",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/8e5c6a11713d9cb99dee77a13e49f9b0.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8e5c6a11713d9cb99dee77a13e49f9b0.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8e5c6a11713d9cb99dee77a13e49f9b0.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/56036ff0ffcdda790847c85b0f809b5b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/56036ff0ffcdda790847c85b0f809b5b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/56036ff0ffcdda790847c85b0f809b5b.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.40",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.125,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "3.400",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 4,
+    "unit_name": "ud.",
+    "unit_price": "1.70",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/21160/yogur-griego-con-mango-hacendado-pack-4",
+  "slug": "yogur-griego-con-mango-hacendado-pack-4",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/8e5c6a11713d9cb99dee77a13e49f9b0.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

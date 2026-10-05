@@ -1,0 +1,110 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 420,
+              "level": 2,
+              "name": "Aceite de oliva",
+              "order": 7
+            }
+          ],
+          "id": 112,
+          "level": 1,
+          "name": "Aceite, vinagre y sal",
+          "order": 7
+        }
+      ],
+      "id": 12,
+      "level": 0,
+      "name": "Aceite, especias y salsas",
+      "order": 7
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Aceite de oliva virgen extra Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Aceite de Oliva Virgen Extra",
+    "mandatory_mentions": "Aceite de Oliva de categoría superior obtenido directamente de aceitunas y solo mediante procedimientos mecánicos.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Mantener en lugar fresco, seco y alejado de la luz.",
+    "suppliers": [
+      {
+        "name": "Envasado por Mercaoleo, S.L. para Mercadona"
+      },
+      {
+        "name": "Jaencoop SCA"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Aceite de oliva virgen extra Hacendado",
+  "ean": "8402001039393",
+  "extra_info": [
+    ""
+  ],
+  "id": "14727",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Aceite de Oliva Virgen Extra"
+  },
+  "origin": null,
+  "packaging": "Garrafa",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/50bf05160abdd828fa4a6f9db898b50a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/50bf05160abdd828fa4a6f9db898b50a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/50bf05160abdd828fa4a6f9db898b50a.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.80",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "3.800",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "19.00",
+    "unit_selector": true,
+    "unit_size": 5.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/14727/aceite-oliva-virgen-extra-hacendado-garrafa",
+  "slug": "aceite-oliva-virgen-extra-hacendado-garrafa",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/50bf05160abdd828fa4a6f9db898b50a.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

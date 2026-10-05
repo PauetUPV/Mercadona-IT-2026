@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 894,
+              "level": 2,
+              "name": "Bombones",
+              "order": 213
+            }
+          ],
+          "id": 154,
+          "level": 1,
+          "name": "Helados",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Helado bombón mango blanco Hacendado con salsa de mango",
+    "legal_name": "Helado de leche veteado con salsa de mango y maracuyá (14%), recubierto con chocolate blanco (30%), trocitos de coco caramelizado (3%) y coco rallado (1%).",
+    "mandatory_mentions": "Sin gluten. El contenido de sal obedece exclusivamente al sodio presente de forma natural en el alimento.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar a Temperaturas inferiores a -18C. Una vez descongelado no volver a congelar",
+    "suppliers": [
+      {
+        "name": "HELADOS ESTIU, S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Helado bombón mango blanco Hacendado con salsa de mango",
+  "ean": "8402001019876",
+  "extra_info": [
+    ""
+  ],
+  "id": "60690",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "chocolate blanco (30%) (azúcar, manteca de cacao, <strong>leche</strong> entera en polvo, <strong>mantequilla</strong> anhidra <strong>(derivado lácteo)</strong>, aceite vegetal de coco y palma, emulgente: lecitina de <strong>soja</strong>, aroma de vainilla, <strong>trazas de frutos de cáscara</strong>), <strong>leche</strong> desnatada reconstituida (27.6%), salsa de mango y maracuyá (14%) (fruta (60%) (puré de mango, puré de mango concentrado, zumo concentrado de maracuyá), azúcar, agua, almidón, correctores de acidez: ácido cítrico y citratos de sodio, aromas naturales), azúcar, agua, <strong>mantequilla (derivado lácteo)</strong>, trocitos de coco caramelizado (3%) (coco (80%), azúcar), jarabe de glucosa y fructosa, %lactosa% y proteínas de la <strong>leche</strong>, preparado a base de pulpa de coco en polvo (1,8%) (extracto de pulpa de coco (90%) y proteínas de la <strong>leche</strong>), coco rallado (1%), emulgente (monoglicéridos y diglicéridos de ácidos grasos), estabilizantes (goma garrofín, goma guar, carragenanos)."
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/bd554354787aa20cfa7bccd0d9549e3d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/bd554354787aa20cfa7bccd0d9549e3d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/bd554354787aa20cfa7bccd0d9549e3d.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/7f8ef8a483a56f7eaaada1dc91ca3176.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7f8ef8a483a56f7eaaada1dc91ca3176.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7f8ef8a483a56f7eaaada1dc91ca3176.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "7.22",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "7.223",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": 6,
+    "unit_name": "ud.",
+    "unit_price": "3.90",
+    "unit_selector": true,
+    "unit_size": 0.54
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/60690/helado-bombon-mango-blanco-hacendado-con-salsa-mango-cobertura-chocolate-blanco-con-trozos-coco-crujientes-caja",
+  "slug": "helado-bombon-mango-blanco-hacendado-con-salsa-mango-cobertura-chocolate-blanco-con-trozos-coco-crujientes-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/bd554354787aa20cfa7bccd0d9549e3d.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

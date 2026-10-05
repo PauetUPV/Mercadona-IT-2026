@@ -1,0 +1,128 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 249,
+              "level": 2,
+              "name": "Melón y sandía",
+              "order": 306
+            }
+          ],
+          "id": 27,
+          "level": 1,
+          "name": "Fruta",
+          "order": 306
+        }
+      ],
+      "id": 1,
+      "level": 0,
+      "name": "Fruta y verdura",
+      "order": 306
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Melón piel de sapo",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "MELON VERDE",
+    "mandatory_mentions": "Sin tratamientos post cosecha",
+    "origin": "España, Senegal, Brasil",
+    "production_variant": "Producto a granel",
+    "storage_instructions": "Conservese en lugar fresco y seco, Una vez abierto se recomienda consumirantes de 6 días",
+    "suppliers": [
+      {
+        "name": "Anecoop S. Coop."
+      },
+      {
+        "name": "Bargosa, S.A.U."
+      },
+      {
+        "name": "Frutinter, S.L."
+      },
+      {
+        "name": "Privilege Fruits, S.L."
+      },
+      {
+        "name": "el abuelo de los melones, s.l."
+      },
+      {
+        "name": "procomel, s.l."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Melón piel de sapo",
+  "ean": "2105451035064",
+  "extra_info": [
+    ""
+  ],
+  "id": "3506",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>MELON VERDE"
+  },
+  "origin": "España, Senegal, Brasil",
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/bd4459355f58bc265a2c6720b688e3c3.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/bd4459355f58bc265a2c6720b688e3c3.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/bd4459355f58bc265a2c6720b688e3c3.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 10,
+      "regular": "https://prod-mercadona.imgix.net/images/2d034c1b80642d033f7b5aecd3fb8269.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/2d034c1b80642d033f7b5aecd3fb8269.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/2d034c1b80642d033f7b5aecd3fb8269.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "0.90",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "0.900",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.89",
+    "unit_selector": true,
+    "unit_size": 3.21
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/3506/melon-piel-sapo-pieza",
+  "slug": "melon-piel-sapo-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/bd4459355f58bc265a2c6720b688e3c3.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

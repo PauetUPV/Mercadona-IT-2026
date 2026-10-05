@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 904,
+              "level": 2,
+              "name": "Otros Helados",
+              "order": 213
+            }
+          ],
+          "id": 154,
+          "level": 1,
+          "name": "Helados",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Helado barrita sabor cacahuete Hacendado con salsa de caramelo salado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Helado sabor cacahuete con cobertura de chocolate con leche (29%), salsa de caramelo salada (10%) y cacahuete salado(10%).",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Consérvese a temperaturas inferiores a -18ºC",
+    "suppliers": [
+      {
+        "name": "LACREM, S.A.U"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Helado barrita sabor cacahuete Hacendado con salsa de caramelo salado",
+  "ean": "8402001018787",
+  "extra_info": [
+    ""
+  ],
+  "id": "23280",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>huevos y productos a base de huevo</strong>. Puede contener <strong>frutos de cáscara</strong>. Contiene <strong>ml</strong>. Contiene <strong>cacahuetes y productos a base de cacahuetes</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Leche</strong> desnatada en polvo reconstituida; azúcar; <strong>cacahuete</strong> salado (10%) (<strong>cacahuete</strong>, aceite de girasol, sal); manteca de cacao; jarabe de glucosa; pasta de cacao; <strong>leche</strong> entera en polvo; grasa de coco; agua; mantequilla concentrada (<strong>leche</strong>); <strong>leche</strong> desnatada en polvo; <strong>leche</strong> condensada entera; pasta de <strong>cacahuete</strong> (1,8%); <strong>lactosa</strong>; dextrosa; emulgentes: E 471, E 322, E 476; almidón modificado; cacao en polvo desgrasado; azúcar caramelizado; estabilizantes: E 410, E 412, E 415, E 440, E 407; sal; colorante: E 160a; aroma natural. Puede contener trazas <strong>frutos de cáscara</strong>,  <strong>huevo</strong> y <strong>soja</strong>."
+  },
+  "origin": "España",
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/0b6216764054f0d10fe9c8e1e66b3fe5.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0b6216764054f0d10fe9c8e1e66b3fe5.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0b6216764054f0d10fe9c8e1e66b3fe5.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/195204a7bb1f1a767fbc525f374c8d6e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/195204a7bb1f1a767fbc525f374c8d6e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/195204a7bb1f1a767fbc525f374c8d6e.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "11.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "11.000",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": 6,
+    "unit_name": "ud.",
+    "unit_price": "3.30",
+    "unit_selector": true,
+    "unit_size": 0.3
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/23280/helado-barrita-sabor-cacahuete-hacendado-con-cobertura-chocolate-con-leche-caja",
+  "slug": "helado-barrita-sabor-cacahuete-hacendado-con-cobertura-chocolate-con-leche-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/0b6216764054f0d10fe9c8e1e66b3fe5.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

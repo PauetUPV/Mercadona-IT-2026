@@ -1,0 +1,131 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 360,
+              "level": 2,
+              "name": "Con chocolate y rellenas",
+              "order": 18
+            }
+          ],
+          "id": 80,
+          "level": 1,
+          "name": "Galletas",
+          "order": 18
+        }
+      ],
+      "id": 7,
+      "level": 0,
+      "name": "Cereales y galletas",
+      "order": 18
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 863,
+              "level": 2,
+              "name": "Barras de helado y barquillos",
+              "order": 213
+            }
+          ],
+          "id": 154,
+          "level": 1,
+          "name": "Helados",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Tubitos bañados chocolate negro Hacendado ideal para postres y helados",
+    "legal_name": "TUBITOS BAÑADOS 150g",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Temperatura ideal de conservación 18ºC-20ºC. Una vez abierto el envase, conservar un máximo de 5 días.",
+    "suppliers": [
+      {
+        "name": "SANCHIS MIRA S.A."
+      }
+    ],
+    "usage_instructions": "CONSEJO: Utilizar el producto con cuidado, es muy frágil."
+  },
+  "display_name": "Tubitos bañados chocolate negro Hacendado",
+  "ean": "8480000145550",
+  "extra_info": [
+    null
+  ],
+  "id": "14555",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>soja y productos a base de soja</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>huevos y productos a base de huevo</strong>. Puede contener <strong>frutos de cáscara</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Barquillo: 50% (Harina de<strong> trigo</strong>, azúcar, aceite vegetal de palma, emulgente: lecitina de<strong> soja</strong>, colorante: E-150d, aroma, antioxidantes (E-304, E-306)). Bañado con chocolate negro: 50% (azúcar, pasta de cacao, manteca de cacao, emulgentes (lecitina de girasol, E-476), aroma). Cacao: 47% mínimo. ALÉRGENOS: Contiene<strong> gluten</strong> y <strong>soja</strong>. Trazas de <strong>frutos de cáscara, huevo y leche.</strong>"
+  },
+  "origin": "España",
+  "packaging": "Bote",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/a7fbdeefa5a02ae6576d40a3bdb98b0f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a7fbdeefa5a02ae6576d40a3bdb98b0f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a7fbdeefa5a02ae6576d40a3bdb98b0f.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/5f1400c16905e29efe3d59570746ee3c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5f1400c16905e29efe3d59570746ee3c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5f1400c16905e29efe3d59570746ee3c.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "18.33",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "18.334",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.75",
+    "unit_selector": true,
+    "unit_size": 0.15
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/14555/tubitos-banados-chocolate-negro-hacendado-ideal-postres-helados-bote",
+  "slug": "tubitos-banados-chocolate-negro-hacendado-ideal-postres-helados-bote",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/a7fbdeefa5a02ae6576d40a3bdb98b0f.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

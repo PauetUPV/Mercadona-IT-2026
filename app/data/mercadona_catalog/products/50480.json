@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Holland Corona",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 307,
+              "level": 2,
+              "name": "Queso tierno",
+              "order": 159
+            }
+          ],
+          "id": 54,
+          "level": 1,
+          "name": "Queso curado, semicurado y tierno",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Holland Corona",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Queso tierno maasdam de vaca Holland Corona",
+    "legal_name": "Queso Maasdam 45% M.G./E.S.",
+    "mandatory_mentions": "",
+    "origin": "Países Bajos (los)",
+    "production_variant": "",
+    "storage_instructions": "Conservar refrigerado entre 0ºC y +7ºC",
+    "suppliers": [
+      {
+        "name": "FRIESLANDCAMPINA"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Queso tierno maasdam de vaca Holland Corona",
+  "ean": "8710912054368",
+  "extra_info": [
+    null
+  ],
+  "id": "50480",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Leche </strong>de vaca pasteurizada, sal, fermentos lácticos, coagulante. Corteza de plástico no comestible. No contiene gluten. Apto para vegetarianos."
+  },
+  "origin": "Países Bajos (los)",
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/4c4553f602e70ffccb2fb128c705b2ae.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4c4553f602e70ffccb2fb128c705b2ae.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4c4553f602e70ffccb2fb128c705b2ae.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/36cef59bdc10618d58f124e5cfff5ec6.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/36cef59bdc10618d58f124e5cfff5ec6.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/36cef59bdc10618d58f124e5cfff5ec6.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "8.25",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "8.250",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.30",
+    "unit_selector": true,
+    "unit_size": 0.4
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/50480/queso-tierno-maasdam-vaca-holland-corona-pieza",
+  "slug": "queso-tierno-maasdam-vaca-holland-corona-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/4c4553f602e70ffccb2fb128c705b2ae.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

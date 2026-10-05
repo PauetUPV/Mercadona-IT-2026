@@ -1,0 +1,109 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Estrella Galicia",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 550,
+              "level": 2,
+              "name": "Cerveza botella y botellín",
+              "order": 15
+            }
+          ],
+          "id": 164,
+          "level": 1,
+          "name": "Cerveza",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Estrella Galicia",
+    "counter_info": null,
+    "danger_mentions": null,
+    "description": "Cerveza especial Estrella Galicia",
+    "is_prepared_by_mercadona": false,
+    "legal_name": null,
+    "mandatory_mentions": null,
+    "origin": null,
+    "production_variant": null,
+    "storage_instructions": null,
+    "suppliers": [],
+    "usage_instructions": null
+  },
+  "display_name": "Cerveza especial Estrella Galicia",
+  "ean": "8412598001758",
+  "extra_info": [
+    null
+  ],
+  "id": "15936",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": null
+  },
+  "origin": null,
+  "packaging": "Botellín",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/1067599acabb20ad52597e948914e3c1.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1067599acabb20ad52597e948914e3c1.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1067599acabb20ad52597e948914e3c1.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/aa86557606bab24492f76c048d209409.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/aa86557606bab24492f76c048d209409.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/aa86557606bab24492f76c048d209409.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.76",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "2.760",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.69",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/15936/cerveza-especial-estrella-galicia-botellin",
+  "slug": "cerveza-especial-estrella-galicia-botellin",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/1067599acabb20ad52597e948914e3c1.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

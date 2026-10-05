@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 377,
+              "level": 2,
+              "name": "Infusiones",
+              "order": 16
+            }
+          ],
+          "id": 88,
+          "level": 1,
+          "name": "Té e infusiones",
+          "order": 16
+        }
+      ],
+      "id": 8,
+      "level": 0,
+      "name": "Cacao, café e infusiones",
+      "order": 16
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Infusión Digest Hacendado",
+    "legal_name": "Infusión con hinojo, anís, menta, melisa y manzanilla, aromatizada",
+    "mandatory_mentions": "Dosis diaria recomendada: 4 bolsitas. Es importante seguir una dieta variada y equilibrada y un estilo de vida saludable.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Bastek Coffee & Tea Sp.J."
+      }
+    ],
+    "usage_instructions": "Verter 150ml de agua hirviendo sobre la bolsita y dejar en infusión durante 5-8 minutos. Importante: No introducir la bolsita en el microondas."
+  },
+  "display_name": "Infusión Digest Hacendado",
+  "ean": "8480000157263",
+  "extra_info": [
+    null
+  ],
+  "id": "15726",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Hinojo 32,5%, anís 30%, menta 16,5%, melisa 14,6%, manzanilla 6%, aroma."
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/3563cdcc7269de0c86cb6fc2580f7e4a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3563cdcc7269de0c86cb6fc2580f7e4a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3563cdcc7269de0c86cb6fc2580f7e4a.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/881d462a02b09167c8b6a1154a0f7d51.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/881d462a02b09167c8b6a1154a0f7d51.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/881d462a02b09167c8b6a1154a0f7d51.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "26.25",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "100 g",
+    "reference_price": "2.625",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 20,
+    "unit_name": "bolsitas",
+    "unit_price": "1.05",
+    "unit_selector": true,
+    "unit_size": 0.04
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/15726/infusion-digest-hacendado-caja",
+  "slug": "infusion-digest-hacendado-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/3563cdcc7269de0c86cb6fc2580f7e4a.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

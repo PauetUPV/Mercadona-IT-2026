@@ -1,0 +1,140 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 513,
+              "level": 2,
+              "name": "Pescado",
+              "order": 213
+            }
+          ],
+          "id": 149,
+          "level": 1,
+          "name": "Pescado",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 274,
+              "level": 2,
+              "name": "Pescado congelado",
+              "order": 442
+            }
+          ],
+          "id": 34,
+          "level": 1,
+          "name": "Pescado congelado",
+          "order": 442
+        }
+      ],
+      "id": 2,
+      "level": 0,
+      "name": "Marisco y pescado",
+      "order": 442
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Rodajas de atún de aleta amarilla Hacendado congelado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Thunnus albacares",
+    "mandatory_mentions": "Producto MSC",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar a -18ºC",
+    "suppliers": [
+      {
+        "name": "Frime, S.A.U."
+      }
+    ],
+    "usage_instructions": "Descongelar a temperaturas de refrigeración y no volver a congelar, una vez descongelado, consumir en menos de 24 horas previa cocción."
+  },
+  "display_name": "Rodajas de atún de aleta amarilla Hacendado congelado",
+  "ean": "8435274110728",
+  "extra_info": [
+    "El corte y número de piezas puede variar."
+  ],
+  "id": "24357",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>pescado y productos a base de pescado</strong>.",
+    "ingredients": "<strong>Atún de aleta amarilla</strong>, (95%,  <strong>pescado</strong>), agua, sal, antioxidantes E331 y E301, corrector de acidez<strong> </strong>E500, aroma  natural"
+  },
+  "origin": "España",
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/2044dea67f3208de4b6c1cc55a693b7e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/2044dea67f3208de4b6c1cc55a693b7e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/2044dea67f3208de4b6c1cc55a693b7e.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/669789b9b6336827d8911e5a17e4cc4e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/669789b9b6336827d8911e5a17e4cc4e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/669789b9b6336827d8911e5a17e4cc4e.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/9404257e0a83e843d48e06d2d08b43d6.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9404257e0a83e843d48e06d2d08b43d6.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9404257e0a83e843d48e06d2d08b43d6.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "17.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "17.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "4.38",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/24357/rodajas-atun-aleta-amarilla-hacendado-congelado-bandeja",
+  "slug": "rodajas-atun-aleta-amarilla-hacendado-congelado-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/2044dea67f3208de4b6c1cc55a693b7e.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

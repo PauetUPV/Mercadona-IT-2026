@@ -1,0 +1,117 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 504,
+              "level": 2,
+              "name": "Verdura",
+              "order": 213
+            }
+          ],
+          "id": 145,
+          "level": 1,
+          "name": "Fruta y verdura",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Espinacas a la crema Hacendado ultracongeladas",
+    "legal_name": "Espinacas a la crema ultracongeladas",
+    "mandatory_mentions": "SIN GLUTEN",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar a -18 ºC. Una vez descongelado no volver a congelar.",
+    "suppliers": [
+      {
+        "name": "ULTRACONGELADOS VIRTO S.A.U."
+      },
+      {
+        "name": "Ultracongelados Virto, S.A."
+      },
+      {
+        "name": "Ultracongelados Virto, S.A.U."
+      }
+    ],
+    "usage_instructions": "Sartén 8 min./ Freidora de aire (120 ºC) 14-16 min./ Microondas 10 min. Máxima potencia"
+  },
+  "display_name": "Espinacas a la crema Hacendado ultracongeladas",
+  "ean": "8480000613684",
+  "extra_info": [
+    null
+  ],
+  "id": "61368",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Espinacas (62%), salsa bechamel (38%) [agua, nata pasteurizada (<strong>leche</strong>)  (nata y estabilizante: carragenanos), <strong>leche</strong> entera en polvo, almidón de  maíz, mantequilla (<strong>leche</strong>), queso (<strong>leche</strong>), zumo de limón, sal, cebolla,  nuez moscada, laurel y pimienta blanca]."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/cc57d6c733e0bd79dc8f77dd222dd546.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/cc57d6c733e0bd79dc8f77dd222dd546.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/cc57d6c733e0bd79dc8f77dd222dd546.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/696597ffbc9dde61eafa07a0d177000a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/696597ffbc9dde61eafa07a0d177000a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/696597ffbc9dde61eafa07a0d177000a.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.25",
+    "unit_selector": true,
+    "unit_size": 0.45
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/61368/espinacas-crema-hacendado-ultracongeladas-paquete",
+  "slug": "espinacas-crema-hacendado-ultracongeladas-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/cc57d6c733e0bd79dc8f77dd222dd546.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

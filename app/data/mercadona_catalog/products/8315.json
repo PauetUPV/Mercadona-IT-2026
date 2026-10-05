@@ -1,0 +1,140 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Deliplus",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 673,
+              "level": 2,
+              "name": "Polvos",
+              "order": 422
+            }
+          ],
+          "id": 207,
+          "level": 1,
+          "name": "Colorete y polvos",
+          "order": 422
+        }
+      ],
+      "id": 22,
+      "level": 0,
+      "name": "Maquillaje",
+      "order": 422
+    }
+  ],
+  "color_variants": [
+    {
+      "color": "#ebbe95",
+      "color_description": "02 beige rosado",
+      "merca_code": "52974",
+      "status": null
+    },
+    {
+      "color": "#e6b688",
+      "color_description": "03 dorado",
+      "merca_code": "52975",
+      "status": null
+    },
+    {
+      "color": "#dcac88",
+      "color_description": "04 dorado oscuro",
+      "merca_code": "52976",
+      "status": null
+    },
+    {
+      "color": "#c89870",
+      "color_description": "05 bronceado",
+      "merca_code": "8315",
+      "status": null
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Deliplus",
+    "counter_info": null,
+    "danger_mentions": null,
+    "description": "Polvo Compacto 24H Long Lasting Deliplus 05 bronceado incluye una esponja",
+    "is_prepared_by_mercadona": false,
+    "legal_name": null,
+    "mandatory_mentions": null,
+    "origin": null,
+    "production_variant": null,
+    "storage_instructions": null,
+    "suppliers": [],
+    "usage_instructions": null
+  },
+  "display_name": "Polvo Compacto 24H Long Lasting Deliplus 05 bronceado",
+  "ean": "8402001022593",
+  "extra_info": [
+    ""
+  ],
+  "id": "8315",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "05 bronceado",
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": null
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 10,
+      "regular": "https://prod-mercadona.imgix.net/images/ae59e0b59d18712b93494249bd137978.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ae59e0b59d18712b93494249bd137978.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ae59e0b59d18712b93494249bd137978.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/84dc31738c5b1b409505c465461e9e97.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/84dc31738c5b1b409505c465461e9e97.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/84dc31738c5b1b409505c465461e9e97.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/f45eae48f07f1a0b9db57d9da354ce31.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f45eae48f07f1a0b9db57d9da354ce31.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f45eae48f07f1a0b9db57d9da354ce31.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 21,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "6.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "21.000",
+    "total_units": 1,
+    "unit_name": "ud.",
+    "unit_price": "6.00",
+    "unit_selector": true,
+    "unit_size": 0.01
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/8315/polvo-compacto-24h-long-lasting-deliplus-05-bronceado",
+  "slug": "polvo-compacto-24h-long-lasting-deliplus-05-bronceado",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/ae59e0b59d18712b93494249bd137978.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

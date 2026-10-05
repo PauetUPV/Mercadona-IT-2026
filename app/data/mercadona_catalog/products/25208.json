@@ -1,0 +1,125 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 281,
+              "level": 2,
+              "name": "Pollo",
+              "order": 17
+            }
+          ],
+          "id": 38,
+          "level": 1,
+          "name": "Aves y pollo",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Muslos deshuesados con piel de pollo certificado alimentado con un 50% de maíz",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Muslo de pollo deshuesado",
+    "mandatory_mentions": "Producto fresco. Categoría A. Envasado en atmósfera protectora.",
+    "origin": "España",
+    "production_variant": "La unidad puede pesar entre 0,400-0,600 kg.",
+    "storage_instructions": "Conservar entre 0 y 4C. Una vez abierto consumir en 24 horas.",
+    "suppliers": [
+      {
+        "name": "Avícola Sánchez, S.L."
+      },
+      {
+        "name": "Avícola de Galicia, S.A.U."
+      },
+      {
+        "name": "DOLZ ESPAÑA SL"
+      },
+      {
+        "name": "Nutrave S.A"
+      },
+      {
+        "name": "UVE, S.A."
+      }
+    ],
+    "usage_instructions": "Cocinar completamente (75º C) antes de su consumo"
+  },
+  "display_name": "Muslos deshuesados con piel de pollo certificado alimentado con un 50% de maíz",
+  "ean": "8412610037604",
+  "extra_info": [
+    null
+  ],
+  "id": "25208",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": "alimentado con un 50% de maíz",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "100% pollo"
+  },
+  "origin": "España",
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/30d57a35d6361bf7c0510f6c2405edcf.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/30d57a35d6361bf7c0510f6c2405edcf.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/30d57a35d6361bf7c0510f6c2405edcf.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/9ee91fcf8b0308ffb6d45343d72dd534.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9ee91fcf8b0308ffb6d45343d72dd534.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9ee91fcf8b0308ffb6d45343d72dd534.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "8.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "8.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "4.80",
+    "unit_selector": true,
+    "unit_size": 0.6
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/25208/muslos-deshuesados-con-piel-pollo-certificado-alimentado-con-50-maiz-bandeja",
+  "slug": "muslos-deshuesados-con-piel-pollo-certificado-alimentado-con-50-maiz-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/30d57a35d6361bf7c0510f6c2405edcf.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

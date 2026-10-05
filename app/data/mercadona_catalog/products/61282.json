@@ -1,0 +1,119 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 504,
+              "level": 2,
+              "name": "Verdura",
+              "order": 213
+            }
+          ],
+          "id": 145,
+          "level": 1,
+          "name": "Fruta y verdura",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Judía verde redonda Hacendado ultracongelada",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Judía verde redonda ultracongelada",
+    "mandatory_mentions": "*El contenido de sal obedece exclusivamente al sodio presente de forma natural en el alimento.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar a -18 ºC. Una vez descongelado no volver a congelar.",
+    "suppliers": [
+      {
+        "name": " Ultracongelados Virto, S.A.U."
+      },
+      {
+        "name": "ULTRACONGELADOS VIRTO S.A.U."
+      },
+      {
+        "name": "Ultracongelados Virto, S.A."
+      }
+    ],
+    "usage_instructions": "Cocción 8-10 min."
+  },
+  "display_name": "Judía verde redonda Hacendado ultracongelada",
+  "ean": "8480000612823",
+  "extra_info": [
+    ""
+  ],
+  "id": "61282",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "ultracongelada",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Judía verde"
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/6f64b307b3a4062e866cd985ce389994.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/6f64b307b3a4062e866cd985ce389994.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/6f64b307b3a4062e866cd985ce389994.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/12f8e38ebb36750b8b4965ac126be9f2.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/12f8e38ebb36750b8b4965ac126be9f2.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/12f8e38ebb36750b8b4965ac126be9f2.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.30",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "1.300",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.30",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/61282/judia-verde-redonda-hacendado-ultracongelada-paquete",
+  "slug": "judia-verde-redonda-hacendado-ultracongelada-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/6f64b307b3a4062e866cd985ce389994.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

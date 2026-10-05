@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 287,
+              "level": 2,
+              "name": "Hamburguesas",
+              "order": 17
+            }
+          ],
+          "id": 44,
+          "level": 1,
+          "name": "Hamburguesas y picadas",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Burger de pollo gruesa",
+    "legal_name": "BURGER MEAT POLLO GRUESA",
+    "mandatory_mentions": "Sin gluten. Sin lactosa. Sin soja. Envasado en atmósfera protectora.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en refrigeración entre 0 y 4C. Una vez abierto consumir antes de 48 horas",
+    "suppliers": [
+      {
+        "name": "Frescos y Elaborados Delisano SAU"
+      }
+    ],
+    "usage_instructions": "Precalentar la plancha/sartén y sellar la hamburguesa por ambos lados a fuego alto. Bajar la intensidad del fuego y terminar de cocinar por ambos lados."
+  },
+  "display_name": "Burger de pollo gruesa",
+  "ean": "8436021419620",
+  "extra_info": [
+    ""
+  ],
+  "id": "86911",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>dióxido de azufre y sulfitos</strong>.",
+    "ingredients": "Carne de pollo 91%, arroz (4%), agua, sal, antioxidantes (E-301, E-331), extractos de vegetales, pimienta molida y conservador (E-221) (<strong>sulfito</strong>)."
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/e62de035b39351e90b69a682a966c271.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e62de035b39351e90b69a682a966c271.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e62de035b39351e90b69a682a966c271.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/cb0416ddb68d2a3eb800b3a9fa75fe27.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/cb0416ddb68d2a3eb800b3a9fa75fe27.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/cb0416ddb68d2a3eb800b3a9fa75fe27.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "8.89",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "8.889",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 2,
+    "unit_name": "ud.",
+    "unit_price": "3.20",
+    "unit_selector": true,
+    "unit_size": 0.36
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/86911/burger-pollo-gruesa-bandeja",
+  "slug": "burger-pollo-gruesa-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/e62de035b39351e90b69a682a966c271.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

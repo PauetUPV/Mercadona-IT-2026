@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Oral-B",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 601,
+              "level": 2,
+              "name": "Pasta de dientes",
+              "order": 241
+            }
+          ],
+          "id": 186,
+          "level": 1,
+          "name": "Higiene bucal",
+          "order": 241
+        }
+      ],
+      "id": 20,
+      "level": 0,
+      "name": "Cuidado facial y corporal",
+      "order": 241
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Oral-B",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Dentífrico Pro-Expert Oral-B sabor menta especiada",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "Procter & Gamble España"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Dentífrico Pro-Expert Oral-B sabor menta especiada",
+  "ean": "8001841811963",
+  "extra_info": [
+    ""
+  ],
+  "id": "13913",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "sabor menta especiada",
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": ""
+  },
+  "origin": null,
+  "packaging": "Tubo",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/4694ce4c429d9c43caf15531b4be598a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4694ce4c429d9c43caf15531b4be598a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4694ce4c429d9c43caf15531b4be598a.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/c855e06f80f7d6879de7028a3bd77176.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c855e06f80f7d6879de7028a3bd77176.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c855e06f80f7d6879de7028a3bd77176.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "38.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "100 ml",
+    "reference_price": "3.800",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.85",
+    "unit_selector": true,
+    "unit_size": 0.075
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/13913/dentifrico-pro-expert-oral-b-sabor-menta-especiada-tubo",
+  "slug": "dentifrico-pro-expert-oral-b-sabor-menta-especiada-tubo",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/4694ce4c429d9c43caf15531b4be598a.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

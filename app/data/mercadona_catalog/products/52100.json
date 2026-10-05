@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 314,
+              "level": 2,
+              "name": "Paté",
+              "order": 159
+            }
+          ],
+          "id": 58,
+          "level": 1,
+          "name": "Paté y sobrasada",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Paté de cerdo con finas hierbas Hacendado",
+    "legal_name": "Paté de Cerdo con Finas Hierbas",
+    "mandatory_mentions": "Envasado en atmósfera protectora. Sin gluten",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en frío entre 0C y 4C.",
+    "suppliers": [
+      {
+        "name": "De Spiegeleire N.V."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Paté de cerdo con finas hierbas Hacendado",
+  "ean": "5410399870514",
+  "extra_info": [
+    null
+  ],
+  "id": "52100",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>mostaza y productos derivados</strong>. Puede contener <strong>frutos de cáscara</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "27% Hígado de cerdo, 22% grasa de cerdo, crema de arroz (<strong>leche</strong>, harina de arroz), 14% carne de cerdo, colágeno de cerdo, <strong>huevo</strong>, 3,1% zanahoria, 2,2% hortalizas (cebolla, pimiento, puerro), sal nitrificada (sal, conservador: E250), acidulantes: E262, E325; azúcar, cebolla, 0,16% hierbas y especias (contiene <strong>mostaza</strong>), aroma natural, antioxidantes: E300, E330; dextrosa, hemoglobina. Puede contener trazas de <strong>frutos de cáscara</strong>."
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/2056328c985360dbce89da97d1ef27ac.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/2056328c985360dbce89da97d1ef27ac.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/2056328c985360dbce89da97d1ef27ac.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/89dc5394fff2d1c7db24bc53d76b2b50.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/89dc5394fff2d1c7db24bc53d76b2b50.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/89dc5394fff2d1c7db24bc53d76b2b50.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "14.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "14.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.45",
+    "unit_selector": true,
+    "unit_size": 0.1
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/52100/pate-cerdo-con-finas-hierbas-hacendado-bandeja",
+  "slug": "pate-cerdo-con-finas-hierbas-hacendado-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/2056328c985360dbce89da97d1ef27ac.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

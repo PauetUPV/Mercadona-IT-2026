@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 318,
+              "level": 2,
+              "name": "Pan de molde",
+              "order": 515
+            }
+          ],
+          "id": 60,
+          "level": 1,
+          "name": "Pan de molde y otras especialidades",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pan de molde blanco Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "PAN DE MOLDE",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Mantener en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "HORNO DE PATERNA 2020 S.A.U"
+      },
+      {
+        "name": "Morato Iberia, S.L.U"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Pan de molde blanco Hacendado",
+  "ean": "8402001000560",
+  "extra_info": [
+    ""
+  ],
+  "id": "13810",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>trigo y productos derivados</strong>.",
+    "ingredients": "Harina de <strong>trigo</strong>, agua, levadura, aceite refinado de girasol, aroma natural, sal, vinagre de vino, harina de habas, <strong>gluten</strong> de <strong>trigo</strong>, fibra de <strong>trigo</strong>, emulgentes (E-471, E-472e), conservadores (E- 200, E-202, E-282), agente de tratamiento de la harina (E-300). <strong>Puede contener semillas de sésamo, soja y mostaza.</strong>"
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/37367d7a79c63686cbdb1cdad6b5e927.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/37367d7a79c63686cbdb1cdad6b5e927.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/37367d7a79c63686cbdb1cdad6b5e927.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/8a0c7399371d85c0095ac7929575f15a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8a0c7399371d85c0095ac7929575f15a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8a0c7399371d85c0095ac7929575f15a.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.74",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "1.740",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 16,
+    "unit_name": "rebanadas",
+    "unit_price": "0.80",
+    "unit_selector": true,
+    "unit_size": 0.46
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/13810/pan-molde-blanco-hacendado-paquete",
+  "slug": "pan-molde-blanco-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/37367d7a79c63686cbdb1cdad6b5e927.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

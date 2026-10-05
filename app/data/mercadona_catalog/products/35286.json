@@ -1,0 +1,122 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 280,
+              "level": 2,
+              "name": "Cerdo",
+              "order": 17
+            }
+          ],
+          "id": 37,
+          "level": 1,
+          "name": "Cerdo",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Costilla de cerdo churrasco",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Costilla churrasco",
+    "mandatory_mentions": "Embalado a vácuo",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 0C a 5C. Una vez abierto consumir en 48h.",
+    "suppliers": [
+      {
+        "name": "FTD Alimentação"
+      },
+      {
+        "name": "Frescos y Elaborados Delisano SAU"
+      },
+      {
+        "name": "INCARLOPSA"
+      },
+      {
+        "name": "INDUSTRIAS CÁRNICAS LORIENTE PIQUERAS, S.A."
+      }
+    ],
+    "usage_instructions": "Para: Assar, fritar"
+  },
+  "display_name": "Costilla de cerdo churrasco",
+  "ean": "2335586005360",
+  "extra_info": [
+    null
+  ],
+  "id": "35286",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Costilla churrasco"
+  },
+  "origin": null,
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/381b5c4827de021999445f0094d97092.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/381b5c4827de021999445f0094d97092.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/381b5c4827de021999445f0094d97092.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/fc7acb6d8d81a6734ba1dc1b14b5204b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/fc7acb6d8d81a6734ba1dc1b14b5204b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/fc7acb6d8d81a6734ba1dc1b14b5204b.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "5.70",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.700",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "4.67",
+    "unit_selector": true,
+    "unit_size": 0.82
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/35286/costilla-cerdo-churrasco-pieza",
+  "slug": "costilla-cerdo-churrasco-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/381b5c4827de021999445f0094d97092.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

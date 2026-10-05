@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Mission",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 321,
+              "level": 2,
+              "name": "Pan de hamburguesa y wrap",
+              "order": 515
+            }
+          ],
+          "id": 60,
+          "level": 1,
+          "name": "Pan de molde y otras especialidades",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Mission",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pan de pita Mission",
+    "legal_name": "Pan de pita",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en un lugar fresco y seco, alejado de la luz solar directa y de olores fuertes. Una vez abierto, consumir en un plazo de 2 dias. Apto para congelar en casa. Para obtener la mejor calidad, congelar lo antes posible y siempre antes de la fecha de consumo preferente. Una vez congelado, consumir en el plazo de un mes. Descongelar bien antes de usar. Utilizar en las 24 horas siguientes a la descongelación. Una vez descongelado, no volver a congelar. Petirar todo el embalage. Grill Precalentar a temperatura media. Rodar con un poco de agua y dorar 1 min. por cada lado. Tostadora: 60-90 segundos.",
+    "suppliers": [
+      {
+        "name": "MISSION FOODS IBERIA S.A.U."
+      }
+    ],
+    "usage_instructions": "Petirar todo el embalage. Grill Precalentar a temperatura media. Rodar con un poco de agua y dorar 1 min. por cada lado. Tostadora: 60-90 segundos."
+  },
+  "display_name": "Pan de pita Mission",
+  "ean": "5036034406834",
+  "extra_info": [
+    ""
+  ],
+  "id": "14378",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>trigo y productos derivados</strong>.",
+    "ingredients": "Harina de <strong>TRIGO</strong> enriquecida (harina de TRIGO, carbonato de calcio, hierro, niacina, ácido fólico, tiamina), agua, levadura, sal, gluten (<strong>TRIGO</strong>), aceite vegetal (aceite de nabina), conservante (propionato de calcio)."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/4af89bf80e15b2a11b57f8e001013cc4.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4af89bf80e15b2a11b57f8e001013cc4.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4af89bf80e15b2a11b57f8e001013cc4.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/4af3afa90ad3470f65154b9015d37689.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4af3afa90ad3470f65154b9015d37689.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4af3afa90ad3470f65154b9015d37689.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.67",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.667",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 5,
+    "unit_name": "ud.",
+    "unit_price": "2.00",
+    "unit_selector": true,
+    "unit_size": 0.3
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/14378/pan-pita-mission-paquete",
+  "slug": "pan-pita-mission-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/4af89bf80e15b2a11b57f8e001013cc4.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

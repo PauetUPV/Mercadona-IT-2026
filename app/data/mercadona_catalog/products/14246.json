@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 491,
+              "level": 2,
+              "name": "Pizzas refrigeradas",
+              "order": 597
+            }
+          ],
+          "id": 138,
+          "level": 1,
+          "name": "Pizzas",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pizza Frankfurt Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Pizza con salschicha cocida ahumada y bacon",
+    "mandatory_mentions": "PRODUCTO PRECOCINADO REFRIGERADO / ENVASADO EN ATMÓSFERA PROTECTORA /  COCIDA AL HORNO DE PIEDRA/Teléfono de atención al cliente Mercadona: 800 500 220 /  RECICLA Amarillo (logo) / CON PLÁSTICO RECICLADO",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Puede congelarse justo después de su compra. Mantener entre 0ºC y 5ºC. Consumir preferentemente antes del/Lote: Ver envase",
+    "suppliers": [
+      {
+        "name": "CASA TARRADELLAS, S.A."
+      }
+    ],
+    "usage_instructions": "1. Precalentar el horno a 220ºC (calor superior e inferior, sin ventilación). 2. Retirar el envoltorio y colocar la pizza en la rejilla del horno a media altura. 3. Cocerla durante al menos 12 minutos. Si añade otros ingredientes el tiempo de cocción podría incrementarse. 4.Antes de servir, dejar enfriar la pizza al menos un minuto. COCER ANTES DE CONSUMIR. NO UTILIZAR MICROONDAS U OTROS MÉTODOS DE PREPARACIÓN."
+  },
+  "display_name": "Pizza Frankfurt Hacendado",
+  "ean": "8402001036613",
+  "extra_info": [
+    ""
+  ],
+  "id": "14246",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>mostaza y productos derivados</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Harina de <strong>trigo</strong>, <strong>queso</strong>* mozzarella, agua, tomate, salchicha cocida de cerdo ahumada natural (10%), bacon ahumado natural (7%), <strong>queso</strong>* cheddar (<strong>queso</strong>*cheddar, colorante (beta-caroteno)), cebolla frita, aceite refinado de girasol, sal, <strong>lactosa</strong>, levadura, azúcar, proteínas (de <strong>leche</strong>, de guisante), fibra de <strong>trigo</strong>, estabilizante (trifosfato pentasódico), dextrosa, especias, aromas, antioxidantes (ascorbato sódico, eritorbato sódico), conservador (nitrito sódico). Puede conteter trazas de <strong>soja</strong> y <strong>mostaza</strong>. *Queso elaborado con leche pasteurizada."
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/4c81192927e3e2081e5b92d58cad8086.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4c81192927e3e2081e5b92d58cad8086.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4c81192927e3e2081e5b92d58cad8086.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/4e0c239565940e47580404217a6a4f6b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4e0c239565940e47580404217a6a4f6b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4e0c239565940e47580404217a6a4f6b.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.90",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.905",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.90",
+    "unit_selector": true,
+    "unit_size": 0.42
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/14246/pizza-frankfurt-hacendado",
+  "slug": "pizza-frankfurt-hacendado",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/4c81192927e3e2081e5b92d58cad8086.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

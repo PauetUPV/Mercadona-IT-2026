@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Tanqueray",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 586,
+              "level": 2,
+              "name": "Ginebra",
+              "order": 15
+            }
+          ],
+          "id": 181,
+          "level": 1,
+          "name": "Licores",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": "43.1º",
+    "brand": "Tanqueray",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Ginebra London Dry Gin Tanqueray",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Ginebra",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "Diageo España S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Ginebra London Dry Gin Tanqueray",
+  "ean": "5000281015248",
+  "extra_info": [
+    ""
+  ],
+  "id": "28775",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Contiene <strong>gluten</strong>."
+  },
+  "origin": null,
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/d2a03d53cd07c26383f5e36d59e6dd99.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d2a03d53cd07c26383f5e36d59e6dd99.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d2a03d53cd07c26383f5e36d59e6dd99.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/a12e34573aa589d14f5f0926fbc66316.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a12e34573aa589d14f5f0926fbc66316.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a12e34573aa589d14f5f0926fbc66316.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "19.93",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "19.929",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "13.95",
+    "unit_selector": true,
+    "unit_size": 0.7
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/28775/ginebra-london-dry-gin-tanqueray-botella",
+  "slug": "ginebra-london-dry-gin-tanqueray-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/d2a03d53cd07c26383f5e36d59e6dd99.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

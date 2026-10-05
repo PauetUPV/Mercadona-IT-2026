@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 321,
+              "level": 2,
+              "name": "Pan de hamburguesa y wrap",
+              "order": 515
+            }
+          ],
+          "id": 60,
+          "level": 1,
+          "name": "Pan de molde y otras especialidades",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Piadina Hacendado",
+    "legal_name": "TORTILLAS DE TRIGO CON ACEITE DE OLIVA VIRGEN EXTRA",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Una vez abierto el envase, volver a cerrar utilizando el sistema de apertura-cierra y conservar en un lugar fresco y seco para su consumo en 10 días. El envase puede congelarse en casa. Se debe consumir en los 3 meses siguientes a su congelación. Descongelar totalmente antes de utilizar. Una vez descongelado no volver a congelar",
+    "suppliers": [
+      {
+        "name": "DELIBREADS EUROPE  S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Piadina Hacendado",
+  "ean": "8402001045820",
+  "extra_info": [
+    ""
+  ],
+  "id": "21448",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Harina de <strong>trigo</strong> (67%), agua, aceite de oliva virgen extra (9%), dextrosa, emulgente (E 471), sal, corrector de acidez (E 296), conservadores (E 202, E 282), gasificante (E 500ii), levadura desactivada."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/1eb3252461b1e62ff0cbdacb2cbc1304.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1eb3252461b1e62ff0cbdacb2cbc1304.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1eb3252461b1e62ff0cbdacb2cbc1304.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/078c849c025fd78507696e0915f2defb.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/078c849c025fd78507696e0915f2defb.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/078c849c025fd78507696e0915f2defb.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 4,
+    "unit_name": "ud.",
+    "unit_price": "2.20",
+    "unit_selector": true,
+    "unit_size": 0.4
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/21448/piadina-hacendado-paquete",
+  "slug": "piadina-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/1eb3252461b1e62ff0cbdacb2cbc1304.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

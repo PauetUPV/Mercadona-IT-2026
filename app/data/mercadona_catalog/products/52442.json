@@ -1,0 +1,112 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 386,
+              "level": 2,
+              "name": "Chocolatinas",
+              "order": 11
+            }
+          ],
+          "id": 92,
+          "level": 1,
+          "name": "Chocolate",
+          "order": 11
+        }
+      ],
+      "id": 9,
+      "level": 0,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Barritas Peanuts Hacendado bañadas de chocolate con leche y rellenas con caramelo, cacahuetes tostados y crema azucarada",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Chocolate con leche relleno con 27% caramelo, 24% cacahuetes tostados y 14% turrón",
+    "mandatory_mentions": "Mantener alejado del calor y la humedad.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco",
+    "suppliers": [
+      {
+        "name": "LUDWIG SCHOKOLADE GMBH & CO.KG"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Barritas Peanuts Hacendado bañadas de chocolate con leche y rellenas con caramelo, cacahuetes tostados y crema azucarada",
+  "ean": "8402001013102",
+  "extra_info": [
+    ""
+  ],
+  "id": "52442",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>cacahuetes y productos a base de cacahuetes</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>huevos y productos a base de huevo</strong>.  <strong>x99</strong>.",
+    "ingredients": "Azúcar, <strong>cacahuetes</strong>, jarabe de glucosa, manteca de cacao, grasa de palma, <strong>leche</strong> entera en polvo, <strong>leche</strong> condensada desnatada, masa de cacao, humectante (sorbitol), extracto de malta de cebada, <strong>lactosa</strong>, suero dulce en polvo (<strong>leche</strong>), sal, aroma natural de <strong>cacahuete</strong>, Emulgente (Lecitinas (<strong>Soja</strong>)), Clara de <strong>huevo</strong> en polvo, Proteína de <strong>leche</strong> hidrolizada, Extracto de vainilla"
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/0ab8e3420dc6bf467586a688c2752244.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0ab8e3420dc6bf467586a688c2752244.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0ab8e3420dc6bf467586a688c2752244.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/5ac2306e4a4cc7ffcbcd32747d9cb892.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5ac2306e4a4cc7ffcbcd32747d9cb892.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5ac2306e4a4cc7ffcbcd32747d9cb892.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "8.56",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "8.565",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 6,
+    "unit_name": "ud.",
+    "unit_price": "1.85",
+    "unit_selector": true,
+    "unit_size": 0.216
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/52442/barritas-peanuts-banadas-chocolate-con-leche-rellenas-con-caramelo-cacahuetes-tostados-crema-azucarada-hacendado-paquete",
+  "slug": "barritas-peanuts-banadas-chocolate-con-leche-rellenas-con-caramelo-cacahuetes-tostados-crema-azucarada-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/0ab8e3420dc6bf467586a688c2752244.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

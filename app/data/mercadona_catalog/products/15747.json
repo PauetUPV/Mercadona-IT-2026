@@ -1,0 +1,109 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 671,
+              "level": 2,
+              "name": "Correctores y prebase",
+              "order": 422
+            }
+          ],
+          "id": 206,
+          "level": 1,
+          "name": "Bases de maquillaje y corrector",
+          "order": 422
+        }
+      ],
+      "id": 22,
+      "level": 0,
+      "name": "Maquillaje",
+      "order": 422
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": null,
+    "description": "Prebase de maquillaje matificante Primer",
+    "is_prepared_by_mercadona": false,
+    "legal_name": null,
+    "mandatory_mentions": null,
+    "origin": null,
+    "production_variant": null,
+    "storage_instructions": null,
+    "suppliers": [],
+    "usage_instructions": null
+  },
+  "display_name": "Prebase de maquillaje matificante Primer",
+  "ean": "8402001011542",
+  "extra_info": [
+    ""
+  ],
+  "id": "15747",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": null
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/8a3dfbce8c6121bc82ddee7a3dc8b0f7.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8a3dfbce8c6121bc82ddee7a3dc8b0f7.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8a3dfbce8c6121bc82ddee7a3dc8b0f7.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/57a10ab2677fe934b678272507f99d1d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/57a10ab2677fe934b678272507f99d1d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/57a10ab2677fe934b678272507f99d1d.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "5.500",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": 1,
+    "unit_name": "ud.",
+    "unit_price": "5.50",
+    "unit_selector": true,
+    "unit_size": 0.025
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/15747/prebase-maquillaje-matificante-primer",
+  "slug": "prebase-maquillaje-matificante-primer",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/8a3dfbce8c6121bc82ddee7a3dc8b0f7.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

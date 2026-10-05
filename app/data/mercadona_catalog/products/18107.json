@@ -1,0 +1,117 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 451,
+              "level": 2,
+              "name": "Caballa y melva",
+              "order": 215
+            }
+          ],
+          "id": 122,
+          "level": 1,
+          "name": "Atún y otras conservas de pescado",
+          "order": 215
+        }
+      ],
+      "id": 14,
+      "level": 0,
+      "name": "Conservas, caldos y cremas",
+      "order": 215
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Filetes de melva en aceite de oliva Hacendado",
+    "legal_name": "Filetes de MELVA en Aceite de Oliva.",
+    "mandatory_mentions": "",
+    "origin": "Cabo Verde",
+    "production_variant": "Otros países de producción: Marruecos. Est. Aut.: MA 1156 ó MA 3498",
+    "storage_instructions": "Conservar en lugar fresco y seco. Una vez abierto, mantener en refrigeración y consumir antes de pasadas 24 horas desde su apertura.",
+    "suppliers": [
+      {
+        "name": "UBAGO GROUP MARE S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Filetes de melva en aceite de oliva Hacendado",
+  "ean": "8480000181077",
+  "extra_info": [
+    null
+  ],
+  "id": "18107",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>pescado y productos a base de pescado</strong>.",
+    "ingredients": "<strong>Melva</strong> (<strong>pescado</strong>) (66%), aceite de oliva (33%) y sal."
+  },
+  "origin": "Cabo Verde",
+  "packaging": "Lata",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/81891326085ae9267ea256fca9001d73.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/81891326085ae9267ea256fca9001d73.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/81891326085ae9267ea256fca9001d73.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/6c6535ae398e38584423e4adbf5c751c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/6c6535ae398e38584423e4adbf5c751c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/6c6535ae398e38584423e4adbf5c751c.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/231f1098bbaef3a316b6d7fc787057ac.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/231f1098bbaef3a316b6d7fc787057ac.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/231f1098bbaef3a316b6d7fc787057ac.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "15.42",
+    "bunch_selector": false,
+    "drained_weight": 0.08,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "23.125",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.85",
+    "unit_selector": true,
+    "unit_size": 0.12
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/18107/filetes-melva-aceite-oliva-hacendado-lata",
+  "slug": "filetes-melva-aceite-oliva-hacendado-lata",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/81891326085ae9267ea256fca9001d73.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

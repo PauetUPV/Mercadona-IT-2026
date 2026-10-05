@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 282,
+              "level": 2,
+              "name": "Pavo y otras aves",
+              "order": 17
+            }
+          ],
+          "id": 38,
+          "level": 1,
+          "name": "Aves y pollo",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Tacos de pavo",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "PAVO A TACOS",
+    "mandatory_mentions": "Envasado en atmósfera protectora.",
+    "origin": null,
+    "production_variant": "Este producto es de peso variable. Su contenido neto puede variar entre 500 - 650g.",
+    "storage_instructions": "Conservar refrigerado entre 0 y 4C.",
+    "suppliers": [
+      {
+        "name": "PROCAVI S.L"
+      }
+    ],
+    "usage_instructions": "Una vez abierto consumir preferentemente antes de 24 horas. Cocinar completamente antes de su consumo."
+  },
+  "display_name": "Tacos de pavo",
+  "ean": "8436039782945",
+  "extra_info": [
+    ""
+  ],
+  "id": "12874",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": ""
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/236519bc870dd27a3bb74ca6c1ba4fb1.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/236519bc870dd27a3bb74ca6c1ba4fb1.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/236519bc870dd27a3bb74ca6c1ba4fb1.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/c10b77e12d7dc060bc5a3a167fd076df.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c10b77e12d7dc060bc5a3a167fd076df.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c10b77e12d7dc060bc5a3a167fd076df.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "7.60",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.600",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "4.33",
+    "unit_selector": true,
+    "unit_size": 0.57
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/12874/tacos-pavo-bandeja",
+  "slug": "tacos-pavo-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/236519bc870dd27a3bb74ca6c1ba4fb1.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

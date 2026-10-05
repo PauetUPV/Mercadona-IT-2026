@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 398,
+              "level": 2,
+              "name": "Melocotón",
+              "order": 793
+            }
+          ],
+          "id": 100,
+          "level": 1,
+          "name": "Melocotón y piña",
+          "order": 793
+        }
+      ],
+      "id": 10,
+      "level": 0,
+      "name": "Zumos",
+      "order": 793
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Bebida de melocotón Hacendado sin azúcares añadidos",
+    "legal_name": "Bebida refrescante de zumo de melocotón con edulcorantes.",
+    "mandatory_mentions": "Contenido de zumo: mínimo 55%",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Mantener en un lugar fresco y seco. Una vez abierto se debe conservar en el frigorífico y consumir antes de 3 días.",
+    "suppliers": [
+      {
+        "name": "Juver Alimentación, S.L.U."
+      }
+    ],
+    "usage_instructions": "Agitar antes de servir"
+  },
+  "display_name": "Bebida de melocotón Hacendado sin azúcares añadidos",
+  "ean": "8402001021596",
+  "extra_info": [
+    null
+  ],
+  "id": "8248",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Puré de melocotón (55%), agua, acidulante (ácido cítrico), edulcorantes: Ciclamato y sacarina, aroma y antioxidante (ácido ascórbico)."
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/1630f8437f4370ac6557d9ee7f6ee859.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1630f8437f4370ac6557d9ee7f6ee859.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1630f8437f4370ac6557d9ee7f6ee859.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/db8aa0788de96c59d3bf1b92cb074e58.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/db8aa0788de96c59d3bf1b92cb074e58.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/db8aa0788de96c59d3bf1b92cb074e58.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.25",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": 21,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.2,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "1.250",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": 6,
+    "unit_name": "mini briks",
+    "unit_price": "1.50",
+    "unit_selector": true,
+    "unit_size": 1.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/8248/bebida-melocoton-hacendado-sin-azucares-anadidos",
+  "slug": "bebida-melocoton-hacendado-sin-azucares-anadidos",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/1630f8437f4370ac6557d9ee7f6ee859.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

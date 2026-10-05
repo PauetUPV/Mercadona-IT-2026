@@ -1,0 +1,109 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Lechat Excellence",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 715,
+              "level": 2,
+              "name": "Alimentación húmeda",
+              "order": 443
+            }
+          ],
+          "id": 222,
+          "level": 1,
+          "name": "Gato",
+          "order": 443
+        }
+      ],
+      "id": 25,
+      "level": 0,
+      "name": "Mascotas",
+      "order": 443
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Lechat Excellence",
+    "counter_info": null,
+    "danger_mentions": null,
+    "description": "Bocaditos en salsa con salmón, trucha y verduras gato adulto Lechat Excellence",
+    "is_prepared_by_mercadona": false,
+    "legal_name": null,
+    "mandatory_mentions": null,
+    "origin": null,
+    "production_variant": null,
+    "storage_instructions": null,
+    "suppliers": [],
+    "usage_instructions": null
+  },
+  "display_name": "Bocaditos en salsa con salmón, trucha y verduras gato adulto Lechat Excellence",
+  "ean": "8009470060660",
+  "extra_info": [
+    ""
+  ],
+  "id": "52711",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": null
+  },
+  "origin": null,
+  "packaging": "Bote",
+  "photos": [
+    {
+      "perspective": 3,
+      "regular": "https://prod-mercadona.imgix.net/images/7b3ad728d68666008f7f4b4ecda401ce.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7b3ad728d68666008f7f4b4ecda401ce.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7b3ad728d68666008f7f4b4ecda401ce.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/ea4ad986f0b3a247ac9c565b52b5973d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ea4ad986f0b3a247ac9c565b52b5973d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ea4ad986f0b3a247ac9c565b52b5973d.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.75",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "1.750",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.70",
+    "unit_selector": true,
+    "unit_size": 0.4
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/52711/bocaditos-salsa-gato-adulto-lechat-excellence-con-salmon-trucha-verduras-bote",
+  "slug": "bocaditos-salsa-gato-adulto-lechat-excellence-con-salmon-trucha-verduras-bote",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/7b3ad728d68666008f7f4b4ecda401ce.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

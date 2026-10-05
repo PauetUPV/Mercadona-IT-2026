@@ -1,0 +1,119 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 468,
+              "level": 2,
+              "name": "Conservas fruta",
+              "order": 215
+            }
+          ],
+          "id": 127,
+          "level": 1,
+          "name": "Conservas de verdura y frutas",
+          "order": 215
+        }
+      ],
+      "id": 14,
+      "level": 0,
+      "name": "Conservas, caldos y cremas",
+      "order": 215
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Melocotón en almíbar Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Melocotón en almíbar",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Consérvese en lugar fresco y seco. Una vez abierto se recomienda guardar refrigerado",
+    "suppliers": [
+      {
+        "name": "Mercadona"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Melocotón en almíbar Hacendado",
+  "ean": "8402001014666",
+  "extra_info": [
+    null
+  ],
+  "id": "60918",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Melocotón, Agua, Azúcar y Ácido Cítrico"
+  },
+  "origin": null,
+  "packaging": "Bote",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/5dd673ae914d64f6f0e0d860b63f94af.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5dd673ae914d64f6f0e0d860b63f94af.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5dd673ae914d64f6f0e0d860b63f94af.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/1723b70acc09b60c3452a6690829f136.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1723b70acc09b60c3452a6690829f136.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1723b70acc09b60c3452a6690829f136.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/78183f5e0186cdcc1b4ad07a78284fba.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/78183f5e0186cdcc1b4ad07a78284fba.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/78183f5e0186cdcc1b4ad07a78284fba.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.32",
+    "bunch_selector": false,
+    "drained_weight": 0.48,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "4.063",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.95",
+    "unit_selector": true,
+    "unit_size": 0.84
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/60918/melocoton-almibar-hacendado-bote",
+  "slug": "melocoton-almibar-hacendado-bote",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/5dd673ae914d64f6f0e0d860b63f94af.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

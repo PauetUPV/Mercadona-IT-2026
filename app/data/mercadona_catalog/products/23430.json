@@ -1,0 +1,105 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Deliplus",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 637,
+              "level": 2,
+              "name": "Protector solar y aftersun",
+              "order": 241
+            }
+          ],
+          "id": 198,
+          "level": 1,
+          "name": "Protector solar y aftersun",
+          "order": 241
+        }
+      ],
+      "id": 20,
+      "level": 0,
+      "name": "Cuidado facial y corporal",
+      "order": 241
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Deliplus",
+    "counter_info": null,
+    "danger_mentions": null,
+    "description": "Crema protección solar Deliplus FPS 50+ resistente al agua",
+    "legal_name": null,
+    "mandatory_mentions": null,
+    "origin": null,
+    "production_variant": null,
+    "storage_instructions": null,
+    "suppliers": [],
+    "usage_instructions": null
+  },
+  "display_name": "Crema protección solar Deliplus FPS 50+",
+  "ean": "8402001028687",
+  "extra_info": [
+    null
+  ],
+  "id": "23430",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": null
+  },
+  "origin": null,
+  "packaging": "Bote",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/fbece7bd1779b1b0e7b4c88c35a012ef.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/fbece7bd1779b1b0e7b4c88c35a012ef.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/fbece7bd1779b1b0e7b4c88c35a012ef.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/ca246b2887b542c60e81cf56ede79ee7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ca246b2887b542c60e81cf56ede79ee7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ca246b2887b542c60e81cf56ede79ee7.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "40.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": "        4.20",
+    "price_decreased": false,
+    "reference_format": "100 ml",
+    "reference_price": "4.000",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "4.00",
+    "unit_selector": true,
+    "unit_size": 0.1
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/23430/crema-proteccion-solar-deliplus-fps-50-resistente-agua-bote",
+  "slug": "crema-proteccion-solar-deliplus-fps-50-resistente-agua-bote",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/fbece7bd1779b1b0e7b4c88c35a012ef.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

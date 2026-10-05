@@ -1,0 +1,125 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 851,
+              "level": 2,
+              "name": "Otros",
+              "order": 442
+            }
+          ],
+          "id": 31,
+          "level": 1,
+          "name": "Pescado fresco",
+          "order": 442
+        }
+      ],
+      "id": 2,
+      "level": 0,
+      "name": "Marisco y pescado",
+      "order": 442
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Filetes de Gallineta descongelada con agua añadida",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Sebastes spp",
+    "mandatory_mentions": "Puede contener espinas. Envasado en atmósfera protectora.",
+    "origin": "España",
+    "production_variant": "Producto de peso variable. Por favor, consulte la etiqueta del producto para conocer el contenido neto del mismo.",
+    "storage_instructions": "Conservar entre 0C y 4C. Una vez abierto, consumir en 24 h.",
+    "suppliers": [
+      {
+        "name": "Grupo Profand, S.L."
+      },
+      {
+        "name": "Grupo Profand, S.L.U."
+      },
+      {
+        "name": "Unión Martín S.L."
+      }
+    ],
+    "usage_instructions": "Abrir 5 minutos antes de cocinar. Cocinar completamente antes de consumir."
+  },
+  "display_name": "Filetes de Gallineta descongelada",
+  "ean": "8402001024597",
+  "extra_info": [
+    "El corte y número de piezas puede variar."
+  ],
+  "id": "87350",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": "descongelada",
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>moluscos y productos a base de moluscos</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>.",
+    "ingredients": "Gallineta (Sebastes spp) (pescado), agua añadida (10%), sal, corrector de acidez (E-331) y antioxidantes (E-330, E-301, E-316). Puede contener trazas de <strong>moluscos</strong> y/o <strong>crustáceos</strong>."
+  },
+  "origin": "España",
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/b92e9e2597f7a195a364339516c534d2.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b92e9e2597f7a195a364339516c534d2.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b92e9e2597f7a195a364339516c534d2.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/8e5af65777f27c5ebaf8de1b001b080a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8e5af65777f27c5ebaf8de1b001b080a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8e5af65777f27c5ebaf8de1b001b080a.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/8955b3953d3da8cb033981e4910f20fc.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8955b3953d3da8cb033981e4910f20fc.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8955b3953d3da8cb033981e4910f20fc.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "16.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "16.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "6.08",
+    "unit_selector": true,
+    "unit_size": 0.38
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/87350/filetes-gallineta-descongelada-con-agua-anadida-bandeja",
+  "slug": "filetes-gallineta-descongelada-con-agua-anadida-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/b92e9e2597f7a195a364339516c534d2.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

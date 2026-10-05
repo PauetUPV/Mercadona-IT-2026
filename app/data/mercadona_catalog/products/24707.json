@@ -1,0 +1,135 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 516,
+              "level": 2,
+              "name": "Marisco",
+              "order": 213
+            }
+          ],
+          "id": 150,
+          "level": 1,
+          "name": "Marisco",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 272,
+              "level": 2,
+              "name": "Marisco",
+              "order": 442
+            }
+          ],
+          "id": 32,
+          "level": 1,
+          "name": "Marisco",
+          "order": 442
+        }
+      ],
+      "id": 2,
+      "level": 0,
+      "name": "Marisco y pescado",
+      "order": 442
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Alistado pequeño Hacendado congelado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Alistado pequeño granel",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Almacenamiento y transporte a -18C, mirar fecha de consumo preferente, que es de 24 meses desde su fabricación.  En congelador a -12 C,  se conserva durante 8 días; En congelador a   -6 C, se conserva durante 3 días; En refrigeración, se conserva durante 1 día.",
+    "suppliers": [
+      {
+        "name": "Distribuidora Mariscos Rodríguez S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Alistado pequeño Hacendado congelado",
+  "ean": "8480000247070",
+  "extra_info": [
+    null
+  ],
+  "id": "24707",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": "congelado",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>dióxido de azufre y sulfitos</strong>. Puede contener <strong>pescado y productos a base de pescado</strong>. Contiene <strong>crustáceos y productos a base de crustáceos</strong>.",
+    "ingredients": "Alistado <strong>crustáceo</strong>, sal, antioxidantes: Difosfatos Citratos de sodio, Ácido cítrico y Metabisulfito de sodio. Contiene <strong>crustáceos</strong> y <strong>sulfitos</strong>. Puede contener trazas de <strong>pescado</strong> y moluscos."
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/6c34fdd19d3d1fc1ac41cb8322a37600.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/6c34fdd19d3d1fc1ac41cb8322a37600.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/6c34fdd19d3d1fc1ac41cb8322a37600.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/086ed780a73974fec45d4ba3e10fa556.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/086ed780a73974fec45d4ba3e10fa556.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/086ed780a73974fec45d4ba3e10fa556.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "21.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "21.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "24.94",
+    "unit_selector": true,
+    "unit_size": 1.16
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/24707/alistado-pequeno-hacendado-congelado-caja",
+  "slug": "alistado-pequeno-hacendado-congelado-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/6c34fdd19d3d1fc1ac41cb8322a37600.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

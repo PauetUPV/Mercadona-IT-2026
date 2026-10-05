@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Tokke",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 386,
+              "level": 2,
+              "name": "Chocolatinas",
+              "order": 11
+            }
+          ],
+          "id": 92,
+          "level": 1,
+          "name": "Chocolate",
+          "order": 11
+        }
+      ],
+      "id": 9,
+      "level": 0,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Tokke",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Barritas de barquillo Tokke original bañadas de chocolate con leche Valor",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Crujiente barrita de barquillo cubierto de chocolate con leche y con relleno (38%) con cacao y arroz inflado (6%)",
+    "mandatory_mentions": "El chocolate con leche contiene grasas vegetales además de manteca de cacao.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco, alejado de olores.",
+    "suppliers": [
+      {
+        "name": "Chocolates Valor,S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Barritas de barquillo Tokke original",
+  "ean": "8410109102246",
+  "extra_info": [
+    ""
+  ],
+  "id": "12509",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "original",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>cacao y productos derivados</strong>. Puede contener <strong>sa</strong>. Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>sh</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>frutos de cáscara</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Chocolate con <strong>leche</strong>[Azúcar, manteca de cacao, <strong>leche</strong> desnatada en polvo, pasta de cacao, grasas vegetales (palma, shea), lactosuero en polvo (<strong>leche</strong>), grasa de <strong>leche</strong>, pasta de <strong>avellanas</strong>, emulgentes: lecitina (<strong>soja</strong>) y E-476, aroma], azúcar, harina de <strong>trigo</strong> (<strong>gluten</strong>), grasa vegetal de palma, arroz inflado [harina de <strong>trigo</strong> (<strong>gluten</strong>), harina de arroz, azúcar, sal,emulgente: lecitina], lactosuero en polvo (<strong>leche</strong>), cacao desgrasado (2,8%), pasta de <strong>avellanas, leche</strong> desnatada en polvo,emulgentes: lecitina (<strong>soja</strong>) y E-476, gasificante: bicarbonato de sodio, aromas."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/43bb7c503a170f95544db482ace424eb.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/43bb7c503a170f95544db482ace424eb.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/43bb7c503a170f95544db482ace424eb.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/81151ea0205865e0ff988be18437ea59.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/81151ea0205865e0ff988be18437ea59.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/81151ea0205865e0ff988be18437ea59.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "10.64",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "10.639",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 3,
+    "unit_name": "ud.",
+    "unit_price": "1.50",
+    "unit_selector": true,
+    "unit_size": 0.141
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/12509/barritas-barquillo-tokke-original-banadas-chocolate-con-leche-valor-paquete",
+  "slug": "barritas-barquillo-tokke-original-banadas-chocolate-con-leche-valor-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/43bb7c503a170f95544db482ace424eb.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

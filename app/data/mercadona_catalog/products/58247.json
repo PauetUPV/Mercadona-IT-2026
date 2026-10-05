@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "La Hacienda del ibérico",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 824,
+              "level": 2,
+              "name": "Chorizo",
+              "order": 159
+            }
+          ],
+          "id": 51,
+          "level": 1,
+          "name": "Embutido curado",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "La Hacienda del ibérico",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Mini chorizo ibérico extra La Hacienda del ibérico",
+    "legal_name": "Mini Chorizo Ibérico Extra",
+    "mandatory_mentions": "Sin gluten",
+    "origin": "España",
+    "production_variant": "Producto de peso fijo:200 gr",
+    "storage_instructions": "Una vez abierto conservar en el frigorífico y consumir antes de 7 días. Conservese en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "INCARLOPSA"
+      }
+    ],
+    "usage_instructions": "Recomendamos sacar el producto de la bolsa 24 h antes de su consumo."
+  },
+  "display_name": "Mini chorizo ibérico extra La Hacienda del ibérico",
+  "ean": "8480000582478",
+  "extra_info": [
+    null
+  ],
+  "id": "58247",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Carne y grasa de cerdo ibérico, sal, especias y extracto de especias, proteína de soja, dextrina, dextrosa, estabilizador (E-450iii), antioxidante (E-316), conservadores (E-252, E-250), y colorante (E-120). Envoltura no comestible."
+  },
+  "origin": "España",
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/dc134ad77e68f1b9e89b4c2ce4f35ad4.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/dc134ad77e68f1b9e89b4c2ce4f35ad4.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/dc134ad77e68f1b9e89b4c2ce4f35ad4.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/b5131fdc7f5bb905acf8ffffedd28cfa.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b5131fdc7f5bb905acf8ffffedd28cfa.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b5131fdc7f5bb905acf8ffffedd28cfa.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "13.25",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "13.250",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.65",
+    "unit_selector": true,
+    "unit_size": 0.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/58247/mini-chorizo-iberico-extra-hacienda-iberico-pieza",
+  "slug": "mini-chorizo-iberico-extra-hacienda-iberico-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/dc134ad77e68f1b9e89b4c2ce4f35ad4.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

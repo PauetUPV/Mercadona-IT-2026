@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 479,
+              "level": 2,
+              "name": "Frutos secos",
+              "order": 9
+            }
+          ],
+          "id": 133,
+          "level": 1,
+          "name": "Frutos secos y fruta desecada",
+          "order": 9
+        }
+      ],
+      "id": 15,
+      "level": 0,
+      "name": "Aperitivos",
+      "order": 9
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Nuez de Brasil natural Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "NUEZ DE BRASIL NATURAL",
+    "mandatory_mentions": "Producto natural y sin conservantes. Envasado en atmósfera protectora. Este producto por su tamaño no lo deben consumir menores de 5 años.",
+    "origin": "Alemania",
+    "production_variant": "",
+    "storage_instructions": "Proteger de la luz. Conservar en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "IMPORTACO CASA PONS S.A.U."
+      },
+      {
+        "name": "Märsch Importhandels GmbH"
+      }
+    ],
+    "usage_instructions": "Una vez abierto el envase conservarlo cerrado y consumir el producto preferentemente en el plazo de una semana."
+  },
+  "display_name": "Nuez de Brasil natural Hacendado",
+  "ean": "8480000342362",
+  "extra_info": [
+    null
+  ],
+  "id": "34236",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>frutos de cáscara</strong>. Puede contener <strong>sp</strong>. Contiene <strong>sr</strong>. Puede contener <strong>sw</strong>. Puede contener <strong>sw</strong>. Puede contener <strong>sh</strong>. Puede contener <strong>sa</strong>.",
+    "ingredients": "<strong>Nuez</strong> de Brasil. <strong>Trazas de cacahuete y otros frutos de cáscara</strong>."
+  },
+  "origin": "Alemania",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/f73efc85361a05e42008a997e5d62881.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f73efc85361a05e42008a997e5d62881.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f73efc85361a05e42008a997e5d62881.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/a668dfa0eee44cd9329bd0ec64ae5e6a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a668dfa0eee44cd9329bd0ec64ae5e6a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a668dfa0eee44cd9329bd0ec64ae5e6a.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "17.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "17.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.50",
+    "unit_selector": true,
+    "unit_size": 0.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/34236/nuez-brasil-natural-hacendado-paquete",
+  "slug": "nuez-brasil-natural-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/f73efc85361a05e42008a997e5d62881.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

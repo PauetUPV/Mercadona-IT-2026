@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Noel",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 292,
+              "level": 2,
+              "name": "Pavo y otros",
+              "order": 159
+            }
+          ],
+          "id": 48,
+          "level": 1,
+          "name": "Aves y jamón cocido",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Noel",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pechuga de pavo Noel lonchas muy finas",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Pechuga de pavo cocida",
+    "mandatory_mentions": "Sin gluten. Sin lactosa. Envasado en atmósfera protectora.",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Manténgase refrigerado entre 0ºC y 5ºC",
+    "suppliers": [
+      {
+        "name": "Noel Alimentaria S.A.U."
+      }
+    ],
+    "usage_instructions": "Abrir 10 minutos antes de consumir. Una vez abierto el envase consumir en 48 horas. Envasado en atmósfera protectora."
+  },
+  "display_name": "Pechuga de pavo Noel lonchas muy finas",
+  "ean": "8410783344468",
+  "extra_info": [
+    null
+  ],
+  "id": "59283",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "lonchas muy finas",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Pechuga de pavo (75%), agua, estabilizantes (sorbitol, tripolifosfato, carragenato), jarabe de glucosa, sal, conservadores (lactato de potasio, nitrito de sodio), fibra, sal de potasio, aroma, antioxidante (ascorbato de sodio). Sin gluten. Sin lactosa."
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/918213955ad9fe95742e4abe7665f787.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/918213955ad9fe95742e4abe7665f787.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/918213955ad9fe95742e4abe7665f787.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/6077d524d0651963df609b39a7b1ede5.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/6077d524d0651963df609b39a7b1ede5.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/6077d524d0651963df609b39a7b1ede5.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "12.25",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "12.250",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.45",
+    "unit_selector": true,
+    "unit_size": 0.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/59283/pechuga-pavo-noel-lonchas-muy-finas-paquete",
+  "slug": "pechuga-pavo-noel-lonchas-muy-finas-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/918213955ad9fe95742e4abe7665f787.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

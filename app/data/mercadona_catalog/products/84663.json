@@ -1,0 +1,107 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 330,
+              "level": 2,
+              "name": "Bollería dulce",
+              "order": 515
+            }
+          ],
+          "id": 65,
+          "level": 1,
+          "name": "Bollería de horno",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": "Ingredientes: Crema pastelera 31,5% (leche entera, agua, azúcar, huevos, almidones modificados, suero de leche en polvo, leche entera en polvo, maltodextrina, aromas naturales, concentrado de zanahoria, espesante (E415)), harina de trigo, mantequilla 13,5%, agua, uvas pasas 9,5%, azúcar de caña 3%, levadura, gluten de trigo, huevos, sal, leche entera en polvo, azúcar, masa madre de trigo (agua, harina de trigo fermentada), colorante (carotenos de origen natural), agente de tratamiento de la harina (E300), enzima.\n\nAlérgenos: leche, huevos, trigo, mantequilla, gluten de trigo.\n\nPuede contener trazas de: Soja, Altramuces, Frutos de cáscara y derivados, Mostaza, Moluscos, Pescado, Sésamo, Crustáceos, Apio, Cacahuetes, Sulfitos.\n\nProducto preparado por Mercadona, S.A. (C/ Alfonso Roig Alfonso, s/n. Albalat dels Sorells 46135, Valencia).",
+    "danger_mentions": "",
+    "description": "Caracola con pasas",
+    "is_prepared_by_mercadona": true,
+    "legal_name": "Bollería con mantequilla y pasas",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "Producto de peso variable. Peso mínimo 103g",
+    "storage_instructions": "Conservar el producto a temperatura ambiente 18-22C. Consumir en un plazo máximo de 12 horas después de su compra",
+    "suppliers": [
+      {
+        "name": "Sdad. Ultracong. Delifrance Iberica, S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Caracola con pasas",
+  "ean": "2105900846630",
+  "extra_info": [
+    ""
+  ],
+  "id": "84663",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>cereales que contengan gluten</strong>. Puede contener <strong>frutos de cáscara</strong>. Contiene <strong>cereales que contengan gluten</strong>. Puede contener <strong>tn</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "crema pastelera 31,5% (<strong>leche</strong> entera, agua, azúcar, <strong>huevos</strong>, almidones modificados, suero de <strong>leche</strong> en polvo, <strong>leche</strong> entera en polvo, maltodextrina, aromas naturales, concentrado de zanahoria, espesante (E415)), harina de <strong>trigo</strong>, <strong>mantequilla</strong> 13,5%, agua, uvas pasas 9,5%, azúcar de caña 3%, levadura, <strong>gluten de trigo</strong>, <strong>huevos</strong>, sal, <strong>leche</strong> entera en polvo, azúcar, masa madre de <strong>trigo</strong> (agua, harina de <strong>trigo</strong> fermentada), colorante (carotenos de origen natural), agente de tratamiento de la harina (E300), enzima. Puede contener  trazas de <strong>soja</strong>, <strong>frutos de cáscara</strong>."
+  },
+  "origin": null,
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/1a356cacaaf45ca0408c99dfc108ecf1.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1a356cacaaf45ca0408c99dfc108ecf1.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1a356cacaaf45ca0408c99dfc108ecf1.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "9.71",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "9.709",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.00",
+    "unit_selector": true,
+    "unit_size": 0.103
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/84663/caracola-con-pasas-10-pieza",
+  "slug": "caracola-con-pasas-10-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/1a356cacaaf45ca0408c99dfc108ecf1.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Senzza",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 804,
+              "level": 2,
+              "name": "Bombones",
+              "order": 11
+            }
+          ],
+          "id": 92,
+          "level": 1,
+          "name": "Chocolate",
+          "order": 11
+        }
+      ],
+      "id": 9,
+      "level": 0,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Senzza",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Surtido bombones Senzza de chocolate negro 70% contiene de trufa, naranja y almendra",
+    "legal_name": "Surtido de bombones",
+    "mandatory_mentions": "Cacao: 70% mínimo en el chocolate.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco, alejado de olores.",
+    "suppliers": [
+      {
+        "name": "Chocolates Valor,S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Surtido bombones Senzza de chocolate negro 70%",
+  "ean": "8410109114157",
+  "extra_info": [
+    ""
+  ],
+  "id": "14221",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>sh</strong>. Contiene <strong>sa</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>frutos de cáscara</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Azúcar, pasta de cacao, grasa vegetal (palma, palmiste), cacao desgrasado en polvo, manteca de cacao, lactosuero en polvo (<strong>leche</strong>), cubito de <strong>almendra</strong> tostada (1,3%), <strong>mantequilla</strong> concentrada (<strong>leche</strong>), naranja deshidratada (0,2%), emulgente: lecitina (<strong>soja)</strong>, aromas. Cacao:70% mínimo en chocolate."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/fee6fe2cd3216a454cd2ed3d453739a1.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/fee6fe2cd3216a454cd2ed3d453739a1.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/fee6fe2cd3216a454cd2ed3d453739a1.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/28b79ac66c4633ae8dea384aedc07336.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/28b79ac66c4633ae8dea384aedc07336.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/28b79ac66c4633ae8dea384aedc07336.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "16.11",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "16.112",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 16,
+    "unit_name": "ud.",
+    "unit_price": "2.90",
+    "unit_selector": true,
+    "unit_size": 0.18
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/14221/surtido-bombones-senzza-chocolate-negro-70-paquete",
+  "slug": "surtido-bombones-senzza-chocolate-negro-70-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/fee6fe2cd3216a454cd2ed3d453739a1.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

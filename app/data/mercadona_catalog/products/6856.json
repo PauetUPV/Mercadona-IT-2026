@@ -1,0 +1,114 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "El Pavo",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 447,
+              "level": 2,
+              "name": "Lasaña y canelones",
+              "order": 10
+            }
+          ],
+          "id": 120,
+          "level": 1,
+          "name": "Pasta y fideos",
+          "order": 10
+        }
+      ],
+      "id": 13,
+      "level": 0,
+      "name": "Arroz, legumbres y pasta",
+      "order": 10
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "El Pavo",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Placas para lasaña precocidas El Pavo",
+    "legal_name": "Pasta alimenticia de Calidad Superior, laminada, precocida y desecada.",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco, seco y aislado del suelo",
+    "suppliers": [
+      {
+        "name": "FLO, S.A.U."
+      },
+      {
+        "name": "Gallina Blanca, S.A."
+      }
+    ],
+    "usage_instructions": "Para las Lasañas - Directas al Horno.1. Montar la lasaña: En una fuente profunda verter salsa líquida y caliente para asegurar la hidratación de las placas. Montar la lasaña intercalando el relleno caliente con las placas secas (sin previo remojo).2. Hornear: Cubrir toda la lasaña con la salsa líquida y caliente. Añadir queso para gratinar al gusto. Introducir la lasaña en el horno previamente precalentado a 220º durante 10 minutos (en el microondas unos 5 minutos a 900w) y 5 minutos de gratinado. Para las Lasañas- Remojando las placas.1. Remojar las placas: Sumergir las placas en agua caliente unos 10 minutos, hasta que queden semi-rígidas. Remover de vez en cuando. Para lasañas frías sumergir las placas durante 20 minutos.2. Montar la lasaña: Preparar la salsa y verter un poco en el fondo de la bandeja. Montar las capas intercalando placas y relleno. 3. Hornear: Cubrir todo con salsa y queso rallado y hornear unos 10 minutos a 220ºc (en microondas 10 min. a 900 w) y 5 minutos de gratinado"
+  },
+  "display_name": "Placas para lasaña precocidas El Pavo",
+  "ean": "8410173072025",
+  "extra_info": [
+    ""
+  ],
+  "id": "6856",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Sémola de<strong> TRIGO</strong> duro.<strong> Puede contener trazas de</strong><strong> SOJA</strong>,<strong> MOSTAZA</strong>."
+  },
+  "origin": "España",
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/96cc14f684c1d79e23f394f2ce293c7a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/96cc14f684c1d79e23f394f2ce293c7a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/96cc14f684c1d79e23f394f2ce293c7a.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/edee445ce6b94d44dd5e67a504adb52b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/edee445ce6b94d44dd5e67a504adb52b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/edee445ce6b94d44dd5e67a504adb52b.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "8.25",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "8.250",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 18,
+    "unit_name": "placas",
+    "unit_price": "1.65",
+    "unit_selector": true,
+    "unit_size": 0.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/6856/placas-lasana-precocidas-pavo-caja",
+  "slug": "placas-lasana-precocidas-pavo-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/96cc14f684c1d79e23f394f2ce293c7a.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

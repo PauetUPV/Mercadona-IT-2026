@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 309,
+              "level": 2,
+              "name": "Queso curado",
+              "order": 159
+            }
+          ],
+          "id": 54,
+          "level": 1,
+          "name": "Queso curado, semicurado y tierno",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Queso viejo de oveja Hacendado",
+    "legal_name": "Queso de oveja madurado",
+    "mandatory_mentions": "Contiene conservadores (E202 y E235) y colorante (E172) en la corteza plástica no comestible. Origen de la leche: España",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Mantener en refrigeración. Se recomienda sacar del frío 15 minutos antes de consumir.",
+    "suppliers": [
+      {
+        "name": "Queserías Entrepinares S.A.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Queso viejo de oveja Hacendado",
+  "ean": "2105600509705",
+  "extra_info": [
+    null
+  ],
+  "id": "50970",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Libre de <strong>huevos y productos a base de huevo</strong>. Libre de <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "<strong>Leche </strong>pasteurizada de oveja, Sal, Cuajo*, fermentos lácticos. Contiene conservadores (E202 y E235) y colorante (E172) en la corteza plástica no comestible. SIN GLUTEN, SIN HUEVO. *origen no animal"
+  },
+  "origin": null,
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/ddf8f72498165132206de1b7561e59b9.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ddf8f72498165132206de1b7561e59b9.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ddf8f72498165132206de1b7561e59b9.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/9fa162e6cb5f041ba9ac051a7df5843d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9fa162e6cb5f041ba9ac051a7df5843d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9fa162e6cb5f041ba9ac051a7df5843d.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "14.70",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "14.700",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "4.56",
+    "unit_selector": true,
+    "unit_size": 0.31
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/50970/queso-viejo-oveja-hacendado-pieza",
+  "slug": "queso-viejo-oveja-hacendado-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/ddf8f72498165132206de1b7561e59b9.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

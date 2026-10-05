@@ -1,0 +1,428 @@
+{
+  "categories": [
+    {
+      "id": 358,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Tortitas",
+      "order": 18,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Tortitas de maíz Hacendado",
+          "id": "14158",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "9.17",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "9.167",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 4,
+            "unit_name": "packs",
+            "unit_price": "1.10",
+            "unit_selector": true,
+            "unit_size": 0.12
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14158/tortitas-maiz-hacendado-paquete",
+          "slug": "tortitas-maiz-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/0df71a709838dfb992e439f27e3828d9.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Tortitas de maíz con chocolate Hacendado",
+          "id": "14015",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "14.62",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "14.616",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 4,
+            "unit_name": "packs",
+            "unit_price": "1.90",
+            "unit_selector": true,
+            "unit_size": 0.13
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14015/tortitas-maiz-con-chocolate-hacendado-paquete",
+          "slug": "tortitas-maiz-con-chocolate-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/41e7c23025f97cdb4da0c7fad37fa79b.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Tortitas de arroz con chocolate blanco sabor yogur Hacendado",
+          "id": "14141",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "15.83",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "15.834",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 4,
+            "unit_name": "packs",
+            "unit_price": "1.90",
+            "unit_selector": true,
+            "unit_size": 0.12
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14141/tortitas-arroz-con-chocolate-blanco-sabor-yogur-hacendado-paquete",
+          "slug": "tortitas-arroz-con-chocolate-blanco-sabor-yogur-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/06d5eaf5e7e3c88e3ccfe35f77c42e5a.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Tortitas de arroz Hacendado",
+          "id": "14013",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "8.87",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "8.871",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 4,
+            "unit_name": "packs",
+            "unit_price": "1.10",
+            "unit_selector": true,
+            "unit_size": 0.124
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14013/tortitas-arroz-hacendado-paquete",
+          "slug": "tortitas-arroz-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/a202828b49681aeceaa281bc820c1a18.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Tortitas de arroz con chocolate con leche Hacendado",
+          "id": "14142",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "14.62",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "14.616",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 4,
+            "unit_name": "packs",
+            "unit_price": "1.90",
+            "unit_selector": true,
+            "unit_size": 0.13
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14142/tortitas-arroz-con-chocolate-con-leche-hacendado-paquete",
+          "slug": "tortitas-arroz-con-chocolate-con-leche-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/992741048a0d81f6679873fd3eae9bd5.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Tortitas de legumbres y arroz Hacendado",
+          "id": "86483",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "16.06",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "16.056",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 4,
+            "unit_name": "packs",
+            "unit_price": "1.75",
+            "unit_selector": true,
+            "unit_size": 0.109
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/86483/tortitas-legumbres-arroz-hacendado-paquete",
+          "slug": "tortitas-legumbres-arroz-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/83544f58c2cff5206720c5d58a5d0f3f.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Tortitas de maíz con sabor a jamón Hacendado",
+          "id": "35776",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "12.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "12.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 4,
+            "unit_name": "packs",
+            "unit_price": "1.75",
+            "unit_selector": true,
+            "unit_size": 0.14
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/35776/tortitas-maiz-con-sabor-jamon-hacendado-paquete",
+          "slug": "tortitas-maiz-con-sabor-jamon-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/e30c263634b7a0f23a48ac216908a69e.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Tortitas de maíz campestre Hacendado",
+          "id": "14786",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "12.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "12.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 4,
+            "unit_name": "packs",
+            "unit_price": "1.75",
+            "unit_selector": true,
+            "unit_size": 0.14
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14786/tortitas-maiz-campestre-hacendado-paquete",
+          "slug": "tortitas-maiz-campestre-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/d649c895d3ea7e28ca987ab86633f0da.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    }
+  ],
+  "id": 79,
+  "is_extended": false,
+  "layout": 1,
+  "name": "Tortitas",
+  "next_category": {
+    "id": 48,
+    "name": "Aves y jamón cocido"
+  },
+  "order": 18,
+  "published": true
+}

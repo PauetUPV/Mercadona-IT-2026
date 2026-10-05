@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 471,
+              "level": 2,
+              "name": "Sopa",
+              "order": 215
+            }
+          ],
+          "id": 129,
+          "level": 1,
+          "name": "Sopa y caldo",
+          "order": 215
+        }
+      ],
+      "id": 14,
+      "level": 0,
+      "name": "Conservas, caldos y cremas",
+      "order": 215
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Sopa hortelana Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "SOPA CON VERDURAS, LEGUMBRE Y CEREALES",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Debe mantenerse en frío entre +2ºC y +6ºC. Una vez abierto, consumir en 24 horas.",
+    "suppliers": [
+      {
+        "name": "LA LINEA VERDE SOCIETÀ AGRICOLA S.p.A."
+      }
+    ],
+    "usage_instructions": "1. Retirar2. Perforar el film3. Microondas máxima potencia 3 minutos4. Remover y consumir"
+  },
+  "display_name": "Sopa hortelana Hacendado",
+  "ean": "8402001042669",
+  "extra_info": [
+    ""
+  ],
+  "id": "19882",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Agua, verduras 16% (hortalizas en proporción variable: patatas, cebollas, puerros), zanahorias 8%, judías verdes 4%, lentejas rojas y verdes 3%, guisantes 3%, cereales 3% (cebada perlada (gluten) y espelta perlada (gluten)), legumbres 2% (judías azuki verdes, judías blancas), aceite de oliva virgen extra, sal, doble concentrado de tomate, plantas aromáticas, pimienta negra. Puede contener trazas de otros cereales que contienen gluten, frutos de cáscara, leche, apio, soja y huevo."
+  },
+  "origin": null,
+  "packaging": "Bol",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/f20673acff2cbe0ea39175ad3bdc3f15.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f20673acff2cbe0ea39175ad3bdc3f15.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f20673acff2cbe0ea39175ad3bdc3f15.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/69a42856d2a4b593d39bb5678dc1f845.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/69a42856d2a4b593d39bb5678dc1f845.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/69a42856d2a4b593d39bb5678dc1f845.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.86",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "4.858",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.70",
+    "unit_selector": true,
+    "unit_size": 0.35
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/19882/sopa-hortelana-hacendado-bol",
+  "slug": "sopa-hortelana-hacendado-bol",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/f20673acff2cbe0ea39175ad3bdc3f15.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,134 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 689,
+              "level": 2,
+              "name": "Leche",
+              "order": 14
+            }
+          ],
+          "id": 216,
+          "level": 1,
+          "name": "Alimentación infantil",
+          "order": 14
+        }
+      ],
+      "id": 24,
+      "level": 0,
+      "name": "Bebé",
+      "order": 14
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 348,
+              "level": 2,
+              "name": "Leche Infantil",
+              "order": 373
+            }
+          ],
+          "id": 72,
+          "level": 1,
+          "name": "Leche y bebidas vegetales",
+          "order": 373
+        }
+      ],
+      "id": 6,
+      "level": 0,
+      "name": "Huevos, leche y mantequilla",
+      "order": 373
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Preparado lácteo Hacendado +1 año",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Preparado lácteo infantil UHT 1L",
+    "mandatory_mentions": "Sin gluten.  A partir de un año.",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Mantener en lugar fresco y seco. Una vez abierto el envase, debe conservarse en el frigorífico siendo aconsejable su consumo dentro de las 48 horas siguientes.",
+    "suppliers": [
+      {
+        "name": "Lactiber León, S.L"
+      }
+    ],
+    "usage_instructions": "Agitar antes de su uso."
+  },
+  "display_name": "Preparado lácteo Hacendado +1 año",
+  "ean": "8480000091888",
+  "extra_info": [
+    ""
+  ],
+  "id": "9188",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Libre de <strong>cereales que contengan gluten</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>pescado y productos a base de pescado</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Leche</strong> parcialmente desnatada (1% M. G.), agua, dextrinomaltosa, aceites vegetales (girasol alto oleico, girasol), sacarosa, miel, sólidos <strong>lácteos</strong> ricos en calcio, aceite de <strong>pescado</strong>, lecitina de <strong>soja</strong>, sales minerales de potasio, hierro, yodo y zinc, vitaminas (A, B1, B2, B3, B5, B6, B8, B9, B12, C, D, E y K). Ácidos grasos omega-3 de cadena larga (EPA+DHA): 32 mg/100 ml y 80 mg/250 ml. Origen de la leche: España. SIN GLUTEN"
+  },
+  "origin": "España",
+  "packaging": "Brik",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/dc3c770d607ba3fbd35f40fbd7cff432.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/dc3c770d607ba3fbd35f40fbd7cff432.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/dc3c770d607ba3fbd35f40fbd7cff432.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/8c653da84003ef3956722015f571efe8.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8c653da84003ef3956722015f571efe8.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8c653da84003ef3956722015f571efe8.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.40",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "1.400",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.40",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/9188/preparado-lacteo-crecimiento-1-ano-hacendado-brick",
+  "slug": "preparado-lacteo-crecimiento-1-ano-hacendado-brick",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/dc3c770d607ba3fbd35f40fbd7cff432.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

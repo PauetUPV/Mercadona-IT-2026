@@ -1,0 +1,112 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Respiral Halls",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 394,
+              "level": 2,
+              "name": "Caramelos",
+              "order": 11
+            }
+          ],
+          "id": 95,
+          "level": 1,
+          "name": "Chicles y caramelos",
+          "order": 11
+        }
+      ],
+      "id": 9,
+      "level": 0,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Respiral Halls",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Caramelos regaliz mentol Respiral Halls",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Caramelo duro refrescante. Sabor a regaliz y mentol. Sin Gluten.",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "17012860 [4]",
+    "storage_instructions": "Conservar en lugar fresco y seco. RIESGO DE ATRAGANTAMIENTO: no recomendable para niños menores de 4 años.",
+    "suppliers": [
+      {
+        "name": "Mondelez España Commercial, S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Caramelos regaliz mentol Respiral Halls",
+  "ean": "8410034548157",
+  "extra_info": [
+    ""
+  ],
+  "id": "65327",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Ingredientes: azúcar, jarabe de glucosa, extracto de regaliz (0,5%), aromas, mentol, colorante (E153)."
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/c574db59bf527230b58d84817689ba94.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c574db59bf527230b58d84817689ba94.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c574db59bf527230b58d84817689ba94.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/0f9a1b44cc461bb9ba0a415947742812.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0f9a1b44cc461bb9ba0a415947742812.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0f9a1b44cc461bb9ba0a415947742812.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "13.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "13.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.95",
+    "unit_selector": true,
+    "unit_size": 0.15
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/65327/caramelos-regaliz-mentol-respiral-halls-paquete",
+  "slug": "caramelos-regaliz-mentol-respiral-halls-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/c574db59bf527230b58d84817689ba94.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

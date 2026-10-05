@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 389,
+              "level": 2,
+              "name": "Chicles",
+              "order": 11
+            }
+          ],
+          "id": 95,
+          "level": 1,
+          "name": "Chicles y caramelos",
+          "order": 11
+        }
+      ],
+      "id": 9,
+      "level": 0,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Chicles gragea eucalipto sin azúcar Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Chicles sabor a eucalipto con fluoruro, calcio y xilitol, con edulcorantes. Sin azúcares.",
+    "mandatory_mentions": "Sin Gluten. Chicles sabor a eucalipto con fluoruro, calcio y xilitol, con edulcorantes. Sin azúcares. Contiene una fuente de fenilalanina. Un consumo excesivo puede producir efectos laxantes. Cantidad por 100g de calcio: 929mg. Cantidad por 100g de Fluoruro: 8.1mg. Cantidad por 100g de Vitamina D: 58 g",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco. Guardar este envase para futuras referencias.",
+    "suppliers": [
+      {
+        "name": "Chic-kles Gum, S.L.U."
+      }
+    ],
+    "usage_instructions": "Masticar 2 chicles durante al menos 6 minutos después de comer o beber.Recomendado para adultos y niños mayores de 8 años"
+  },
+  "display_name": "Chicles gragea eucalipto sin azúcar Hacendado",
+  "ean": "8402001012198",
+  "extra_info": [
+    ""
+  ],
+  "id": "52614",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Edulcorantes: maltitoles, goma base (con antioxidante: extracto rico en tocoferoles), edulcorantes: sorbitol y xilitol (10%), aromas, calcio (sales cálcicas de ácido ortofosfórico), humectante: glicerina, espesante: goma arábiga, edulcorantes: aspartamo y acesulfamo K, agente de recubrimiento: cera de carnauba, vitamina D (ergocalciferol), fluoruro (fluoruro de sodio)."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/acded215d6f3fde944ca7f37525312cb.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/acded215d6f3fde944ca7f37525312cb.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/acded215d6f3fde944ca7f37525312cb.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/6cc041e959ea2f210f3b7cc504f5a367.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/6cc041e959ea2f210f3b7cc504f5a367.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/6cc041e959ea2f210f3b7cc504f5a367.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "22.22",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "100 g",
+    "reference_price": "2.223",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 32,
+    "unit_name": "chicles",
+    "unit_price": "1.00",
+    "unit_selector": true,
+    "unit_size": 0.045
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/52614/chicles-eucalipto-gragea-hacendado-paquete",
+  "slug": "chicles-eucalipto-gragea-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/acded215d6f3fde944ca7f37525312cb.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

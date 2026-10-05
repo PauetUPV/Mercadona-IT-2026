@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Deliplus",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 685,
+              "level": 2,
+              "name": "Fitoterapia",
+              "order": 305
+            }
+          ],
+          "id": 213,
+          "level": 1,
+          "name": "Fitoterapia",
+          "order": 305
+        }
+      ],
+      "id": 23,
+      "level": 0,
+      "name": "Fitoterapia y parafarmacia",
+      "order": 305
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Deliplus",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Cápsulas Probiótico Deliplus contiene 5 variedades de cepas",
+    "legal_name": "Complemento alimenticio elaborado a base de Microorganismos y FOS.",
+    "mandatory_mentions": "No superar la dosis expresamente recomendada. Los complementos alimenticios no deben ser utilizados como sustitutos de una dieta variada y equilibrada y un estilo de vida saludable. Mantener fuera del alcance de los niños. Por su contenido en FOS se recomienda evitar el consumo junto con medicamentos y otros complementos alimenticios a base de fibra. Un consumo excesivo de FOS (aproximadamente 9 g/día) puede causar malestar intestinal.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar seco y fresco (por debajo de los 25ºC). Evitar la luz solar directa. Si la temperatura ambiente supera habitualmente los 25ºC es aconsejable conservar en el frigorífico.",
+    "suppliers": [
+      {
+        "name": "LABORATORIOS YNSADIET S.A."
+      }
+    ],
+    "usage_instructions": "Tomar 1 cápsula al día en el desayuno o en la cena."
+  },
+  "display_name": "Cápsulas Probiótico Deliplus",
+  "ean": "8402001013904",
+  "extra_info": [
+    ""
+  ],
+  "id": "52589",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Almidón de maíz, Mezcla de microorganismos [Streptococcus thermophilus, Bifidobacterium longum, Lactobacillus acidophilus, Bifidobacterium lactis, Lactobacillus plantarum (tindalizado), Antioxidante (Ácido ascórbico), FOS (Fructooligosacáridos)], Hidroxipropilmetilcelulosa*, Antiaglomerantes (Celulosa, Silicato de magnesio, Sales magnésicas de ácidos grasos), Maltodextrina. *Componentes de la cubierta de la cápsula"
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/d94188b7a400445efd52f09bc4349a8f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d94188b7a400445efd52f09bc4349a8f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d94188b7a400445efd52f09bc4349a8f.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/3d54795638dff8b38275da112783689e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3d54795638dff8b38275da112783689e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3d54795638dff8b38275da112783689e.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "0.20",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "0.199",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 30,
+    "unit_name": "cápsulas",
+    "unit_price": "5.95",
+    "unit_selector": true,
+    "unit_size": 0.01785
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/52589/capsulas-probiotico-deliplus-contiene-5-variedades-cepas-elaborado-base-microorganismos-fos-caja",
+  "slug": "capsulas-probiotico-deliplus-contiene-5-variedades-cepas-elaborado-base-microorganismos-fos-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/d94188b7a400445efd52f09bc4349a8f.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

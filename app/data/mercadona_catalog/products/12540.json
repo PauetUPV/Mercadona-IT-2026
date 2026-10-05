@@ -1,0 +1,109 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 386,
+              "level": 2,
+              "name": "Chocolatinas",
+              "order": 11
+            }
+          ],
+          "id": 92,
+          "level": 1,
+          "name": "Chocolate",
+          "order": 11
+        }
+      ],
+      "id": 9,
+      "level": 0,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Barritas de galleta y caramelo Hacendado bañadas de chocolate con leche",
+    "legal_name": "Caramelo y galleta cubiertos de chocolate con leche",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco. Temperatura ideal de conservación: 18°C.",
+    "suppliers": [
+      {
+        "name": "Natra Oñati S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Barritas de galleta y caramelo Hacendado bañadas de chocolate con leche",
+  "ean": "8420241122750",
+  "extra_info": [
+    null
+  ],
+  "id": "12540",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Puede contener <strong>cacahuetes y productos a base de cacahuetes</strong>. Puede contener <strong>frutos de cáscara</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "Azúcar, jarabe de glucosa-fructosa, harina de <strong>trigo</strong> (<strong>gluten</strong>), grasa vegetal (palma), <strong>leche</strong> desnatada en polvo, manteca de cacao, pasta de cacao, materia grasa láctea anhidra (<strong>leche</strong>), suero de <strong>leche</strong> en polvo, sal, emulgente (lecitinas), cacao desgrasado en polvo, gasificante (carbonato ácido de sodio), aroma. Cacao: 27% mínimo en el chocolate con leche. <strong>Contiene</strong> <strong>leche</strong> <strong>y</strong> <strong>gluten</strong>. <strong>Puede contener</strong> <strong>soja</strong>, <strong>huevo</strong>, <strong>otros cereales que contengan</strong> <strong>gluten</strong>, <strong>cacahuetes</strong> <strong>y</strong> <strong>frutos de cáscara</strong>."
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/797eca2ef0d8ed144f72df73f00b7fad.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/797eca2ef0d8ed144f72df73f00b7fad.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/797eca2ef0d8ed144f72df73f00b7fad.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/4aa7282822b1274307e01097d8e688bf.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4aa7282822b1274307e01097d8e688bf.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4aa7282822b1274307e01097d8e688bf.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "9.25",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "9.250",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 5,
+    "unit_name": "ud.",
+    "unit_price": "1.85",
+    "unit_selector": true,
+    "unit_size": 0.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/12540/barritas-galleta-caramelo-hacendado-banadas-chocolate-con-leche-paquete",
+  "slug": "barritas-galleta-caramelo-hacendado-banadas-chocolate-con-leche-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/797eca2ef0d8ed144f72df73f00b7fad.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

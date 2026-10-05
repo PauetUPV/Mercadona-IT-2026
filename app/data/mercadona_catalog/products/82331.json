@@ -1,0 +1,123 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 321,
+              "level": 2,
+              "name": "Pan de hamburguesa y wrap",
+              "order": 515
+            }
+          ],
+          "id": 60,
+          "level": 1,
+          "name": "Pan de molde y otras especialidades",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pan de burger Hacendado",
+    "legal_name": "Pan especial",
+    "mandatory_mentions": "Sin lactosa",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco",
+    "suppliers": [
+      {
+        "name": "CEREALTO ANTEQUERA, S.L."
+      },
+      {
+        "name": "MORATO IBERIA S.L.U"
+      },
+      {
+        "name": "Morato Iberia, S.L.U"
+      },
+      {
+        "name": "Morato Iberia, SLU"
+      },
+      {
+        "name": "SIRO PATERNA, SA. La familia"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Pan de burger Hacendado",
+  "ean": "8480000823311",
+  "extra_info": [
+    ""
+  ],
+  "id": "82331",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Harina de <strong>trigo </strong>(<strong>gluten</strong>), agua, levadura, azúcar, aceite de girasol (2%), sal, fibra de <strong>trigo </strong>(<strong>gluten</strong>), vinagre de vino, harina de habas, emulgentes (E-471, E-472e), conservadores (E-282, E-202). <strong>Puede contener trazas de semillas de sésamo y soja.</strong>"
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/4bc51eb5bd9cc5c54d38f2828cdd7c33.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4bc51eb5bd9cc5c54d38f2828cdd7c33.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4bc51eb5bd9cc5c54d38f2828cdd7c33.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/0cc62eeec1232271f791905161ff0e17.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0cc62eeec1232271f791905161ff0e17.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0cc62eeec1232271f791905161ff0e17.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.32",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "4.319",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 4,
+    "unit_name": "ud.",
+    "unit_price": "0.95",
+    "unit_selector": true,
+    "unit_size": 0.22
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/82331/pan-hamburguesa-hacendado-paquete",
+  "slug": "pan-hamburguesa-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/4bc51eb5bd9cc5c54d38f2828cdd7c33.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

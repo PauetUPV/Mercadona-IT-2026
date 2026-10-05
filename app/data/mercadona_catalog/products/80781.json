@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 499,
+              "level": 2,
+              "name": "Ensaladilla",
+              "order": 597
+            }
+          ],
+          "id": 142,
+          "level": 1,
+          "name": "Platos preparados fríos",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Ensaladilla americana Hacendado",
+    "legal_name": "Ensaladilla Americana",
+    "mandatory_mentions": "Sin gluten. Lote / Fecha de caducidad: ver tapa",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en el frigorífico entre 1C y 5C. Una vez abierto consumir antes de una semana.",
+    "suppliers": [
+      {
+        "name": "Productos Naturales de la Vega S.L.U"
+      }
+    ],
+    "usage_instructions": "Listo para comer"
+  },
+  "display_name": "Ensaladilla americana Hacendado",
+  "ean": "8480000807816",
+  "extra_info": [
+    null
+  ],
+  "id": "80781",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>pescado y productos a base de pescado</strong>. Puede contener <strong>frutos de cáscara</strong>. Puede contener <strong>dióxido de azufre y sulfitos</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>. Contiene <strong>mostaza y productos derivados</strong>. Contiene <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "Col blanca (41%),  salsa (38%) (aceite de girasol, agua, jarabe de sacarosa-glucosa, almidón  modificado, yema de <strong>huevo</strong> (yema  de <strong>huevo</strong> pasteurizada, sal),  sal, vinagre de alcohol, salsa de <strong>mostaza</strong>  (agua, vinagre de alcohol, <strong>mostaza</strong>,  jarabe de glucosa, sal, almidón modificado de maíz, estabilizantes: goma  garrofín, goma guar y pectina, especias, acidulante: ácido cítrico, conservadores:  sorbato potásico y benzoato sódico, aroma), estabilizante: goma xantana,  acidulante: ácido cítrico, conservador: sorbato potásico, antioxidante: E-385),  zanahoria rallada (12%), cebolla (9%). Puede contener trazas  de <strong>pescado</strong>, <strong>soja</strong>, <strong>crustáceos</strong>, <strong>productos lácteos</strong>, <strong>sulfitos </strong>y <strong>frutos de  cáscara</strong>."
+  },
+  "origin": null,
+  "packaging": "Tarrina",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/8e7447ad8e36b32641806bd962ef9c38.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8e7447ad8e36b32641806bd962ef9c38.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8e7447ad8e36b32641806bd962ef9c38.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/27b6586e5d28ccda717a2ce8544189fd.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/27b6586e5d28ccda717a2ce8544189fd.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/27b6586e5d28ccda717a2ce8544189fd.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.80",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.800",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.70",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/80781/ensaladilla-americana-hacendado-tarrina",
+  "slug": "ensaladilla-americana-hacendado-tarrina",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/8e7447ad8e36b32641806bd962ef9c38.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

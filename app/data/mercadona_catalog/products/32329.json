@@ -1,0 +1,114 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 339,
+              "level": 2,
+              "name": "Levadura y preparado repostería",
+              "order": 515
+            }
+          ],
+          "id": 69,
+          "level": 1,
+          "name": "Harina y preparado repostería",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Preparado en polvo natillas Hacendado 21 raciones contiene un sobre de canela molida",
+    "legal_name": "Preparado para hacer natillas caseras con canela molida",
+    "mandatory_mentions": "Sin gluten.",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Fabricado por: JESÚS NAVARRO S.A."
+      },
+      {
+        "name": "JESÚS NAVARRO, S.A."
+      }
+    ],
+    "usage_instructions": "1. Mezclar 1 l de leche y 8 cucharadas de azúcar (120 g). 2. Añadir 1 sobre de natillas y disolver. 3. Calentar y remover hasta que comience a hervir. 4. Rellenar 7 moldes y colocar una galleta encima. 5. Conservar en el frigorífico. 6. Espolvorear canela."
+  },
+  "display_name": "Preparado en polvo natillas Hacendado",
+  "ean": "8480000323293",
+  "extra_info": [
+    null
+  ],
+  "id": "32329",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>NATILLAS: almidón de maíz, espesante (carragenano), aroma, sal y colorantes [E160b (ii) y curcumina]. CANELA (5,6 %): canela. Sin gluten."
+  },
+  "origin": "España",
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/6f715a8abf51e7fffb95d0701b0cc57a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/6f715a8abf51e7fffb95d0701b0cc57a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/6f715a8abf51e7fffb95d0701b0cc57a.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/1367aa3c3af2a0ce11fff636f3f4bca2.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1367aa3c3af2a0ce11fff636f3f4bca2.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1367aa3c3af2a0ce11fff636f3f4bca2.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "15.73",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "15.731",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.40",
+    "unit_selector": true,
+    "unit_size": 0.089
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/32329/preparado-polvo-natillas-hacendado-21-raciones-contiene-canela-molida-caja",
+  "slug": "preparado-polvo-natillas-hacendado-21-raciones-contiene-canela-molida-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/6f715a8abf51e7fffb95d0701b0cc57a.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

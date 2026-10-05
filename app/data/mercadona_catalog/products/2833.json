@@ -1,0 +1,125 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 281,
+              "level": 2,
+              "name": "Pollo",
+              "order": 17
+            }
+          ],
+          "id": 38,
+          "level": 1,
+          "name": "Aves y pollo",
+          "order": 17
+        },
+        {
+          "categories": [
+            {
+              "id": 288,
+              "level": 2,
+              "name": "Empanados y elaborados",
+              "order": 17
+            }
+          ],
+          "id": 45,
+          "level": 1,
+          "name": "Empanados y elaborados",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Filetes pechuga de pollo finas hierbas marinadas",
+    "legal_name": "PECHUGA DE POLLO MARINADA A LA FINAS HIERBAS CON AGUA AÑADIDA",
+    "mandatory_mentions": "Con agua añadida",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 0º y 4º. Envasado en atmósfera protectora",
+    "suppliers": [
+      {
+        "name": "JOVISERRANO, SLU"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Filetes pechuga de pollo finas hierbas marinadas",
+  "ean": "2105100028331",
+  "extra_info": [
+    ""
+  ],
+  "id": "2833",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>dióxido de azufre y sulfitos</strong>. Libre de <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Pechuga de pollo (72%), agua (24%), conservador (E325),vino rosado <strong>(contiene sulfitos</strong>),sal, antioxidantes (E331 y E301), corrector de acidez (E262, E500), fibrasvegetales, aromas, especias (orégano y perejil) y estabilizante (E407)"
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/b41d5df0b7894464440dc93ad577066f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b41d5df0b7894464440dc93ad577066f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b41d5df0b7894464440dc93ad577066f.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/713a2a842d153e05572045ea279c3c53.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/713a2a842d153e05572045ea279c3c53.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/713a2a842d153e05572045ea279c3c53.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "8.20",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "8.200",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "4.92",
+    "unit_selector": true,
+    "unit_size": 0.6
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/2833/pechugas-pollo-finas-hierbas-marinadas-bandeja",
+  "slug": "pechugas-pollo-finas-hierbas-marinadas-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/b41d5df0b7894464440dc93ad577066f.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

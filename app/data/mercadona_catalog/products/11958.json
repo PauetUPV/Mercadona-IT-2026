@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 467,
+              "level": 2,
+              "name": "Conservas verdura",
+              "order": 215
+            }
+          ],
+          "id": 127,
+          "level": 1,
+          "name": "Conservas de verdura y frutas",
+          "order": 215
+        }
+      ],
+      "id": 14,
+      "level": 0,
+      "name": "Conservas, caldos y cremas",
+      "order": 215
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Corazones de alcachofa Hacendado 8-10 unidades",
+    "legal_name": "CORAZONES DE ALCACHOFA PRIMERA",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en un lugar fresco y seco. Una vez abierto,refrigerar y consumir antes de 5 días.",
+    "suppliers": [
+      {
+        "name": "MERCADONA S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Corazones de alcachofa Hacendado",
+  "ean": "8402001030864",
+  "extra_info": [
+    ""
+  ],
+  "id": "11958",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Alcachofa, agua, sal, acidulante: ácido cítrico, antioxidante: ácido ascórbico"
+  },
+  "origin": null,
+  "packaging": "Tarro",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/37621acdd7d4e41a1c5dee40f91efdff.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/37621acdd7d4e41a1c5dee40f91efdff.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/37621acdd7d4e41a1c5dee40f91efdff.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/c283f1dc8395a9024f6efa422a05a0ce.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c283f1dc8395a9024f6efa422a05a0ce.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c283f1dc8395a9024f6efa422a05a0ce.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.00",
+    "bunch_selector": false,
+    "drained_weight": 0.245,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "8.776",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.15",
+    "unit_selector": true,
+    "unit_size": 0.43
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/11958/corazones-alcachofa-hacendado-8-10-unidades-tarro",
+  "slug": "corazones-alcachofa-hacendado-8-10-unidades-tarro",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/37621acdd7d4e41a1c5dee40f91efdff.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

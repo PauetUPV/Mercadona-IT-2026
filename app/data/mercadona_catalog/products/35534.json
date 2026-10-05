@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 521,
+              "level": 2,
+              "name": "Sándwiches",
+              "order": 213
+            }
+          ],
+          "id": 154,
+          "level": 1,
+          "name": "Helados",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Mini helado sándwich choco cream Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Helado con chocolate con galleta (19,5%), cobertura especial de cacao y avellanas (14,6%) y crema de cacao y avellana (9,7%)",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en congelación a temperaturas inferiores a -18 c. Una vez descongelado, no volver a congelar.",
+    "suppliers": [
+      {
+        "name": "Fabricado por: HELADOS ESTIU, S.A."
+      },
+      {
+        "name": "HELADOS ESTIU, S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Mini helado sándwich choco cream Hacendado",
+  "ean": "8402001008269",
+  "extra_info": [
+    ""
+  ],
+  "id": "35534",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>sh</strong>. Contiene <strong>ml</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>frutos de cáscara</strong>. Puede contener <strong>mostaza y productos derivados</strong>.",
+    "ingredients": "<strong>Leche</strong> desnatada reconstituida, azúcar, harina de <strong>trigo (gluten)</strong>, agua, chocolate en polvo (7%), grasas vegetales (coco y palma), aceite refinado de girasol, aceite vegetal (karité), <strong>lactosa</strong> y proteínas de la <strong>leche</strong>, cacao desgrasado en polvo (2,4%), jarabe de glucosa y fructosa, <strong>leche</strong> desnatada en polvo, aceite vegetal (coco), grasa vegetal (palma), pasta de <strong>avellana</strong> (1,5%), jarabe de glucosa, suero de <strong>leche</strong> en polvo, gasificante (carbonato ácido de sodio, carbonato ácido de amonio), extracto de malta de <strong>cebada (gluten)</strong>, sal, emulgentes (lecitina de girasol, lecitina de <strong>soja</strong> y monoglicéridos y diglicéridos de ácidos grasos), estabilizantes (goma garrofín, goma guar, carragenanos), aroma natural y aromas. Puede contener trazas de <strong>mostaza</strong> y otros <strong>frutos de cáscara</strong>."
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/9559047a1424b19047c8a2cfee2b491e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9559047a1424b19047c8a2cfee2b491e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9559047a1424b19047c8a2cfee2b491e.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/74d962ad1359df1f3a5a01d33bb64290.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/74d962ad1359df1f3a5a01d33bb64290.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/74d962ad1359df1f3a5a01d33bb64290.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.88",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.085,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "5.883",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": 6,
+    "unit_name": "ud.",
+    "unit_price": "3.00",
+    "unit_selector": true,
+    "unit_size": 0.51
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/35534/helado-mini-sandwich-choco-cream-hacendado-caja",
+  "slug": "helado-mini-sandwich-choco-cream-hacendado-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/9559047a1424b19047c8a2cfee2b491e.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

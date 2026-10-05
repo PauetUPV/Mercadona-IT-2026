@@ -1,0 +1,131 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 420,
+              "level": 2,
+              "name": "Aceite de oliva",
+              "order": 7
+            }
+          ],
+          "id": 112,
+          "level": 1,
+          "name": "Aceite, vinagre y sal",
+          "order": 7
+        }
+      ],
+      "id": 12,
+      "level": 0,
+      "name": "Aceite, especias y salsas",
+      "order": 7
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Aceite de oliva virgen Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Aceite de Oliva Virgen",
+    "mandatory_mentions": "Aceite de oliva obtenido directamente de aceitunas y solo mediante procedimientos mecánicos.",
+    "origin": "Puente de Génave, Sierra de Segura. Jaén.",
+    "production_variant": "-",
+    "storage_instructions": "Conservar al abrigo del calor y de la luz.El aceite a bajas temperaturas puede presentar enturbiamientos, que en nada afectan a sus características.",
+    "suppliers": [
+      {
+        "name": "ACEITES MAEVA S.L.U"
+      },
+      {
+        "name": "Aceites del Sur- Coosur S.A."
+      },
+      {
+        "name": "Jaencoop SCA"
+      },
+      {
+        "name": "MERCADONA"
+      },
+      {
+        "name": "MERCAOLEO"
+      },
+      {
+        "name": "Olivar de Segura, SCA."
+      },
+      {
+        "name": "SOVENA ESPAÑA S.A.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Aceite de oliva virgen Hacendado",
+  "ean": "8402001047213",
+  "extra_info": [
+    null
+  ],
+  "id": "4711",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Aceite de oliva virgen"
+  },
+  "origin": "Puente de Génave, Sierra de Segura. Jaén.",
+  "packaging": "Garrafa",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/5b2daa7ddeb496942b974d178bf3a47d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5b2daa7ddeb496942b974d178bf3a47d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5b2daa7ddeb496942b974d178bf3a47d.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/61703bc7d4b78d08d18ec05a5880fb1d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/61703bc7d4b78d08d18ec05a5880fb1d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/61703bc7d4b78d08d18ec05a5880fb1d.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.88",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": "       12.00",
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "3.884",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "11.65",
+    "unit_selector": true,
+    "unit_size": 3.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/4711/aceite-oliva-virgen-hacendado-garrafa",
+  "slug": "aceite-oliva-virgen-hacendado-garrafa",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/5b2daa7ddeb496942b974d178bf3a47d.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

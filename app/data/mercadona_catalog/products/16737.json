@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 467,
+              "level": 2,
+              "name": "Conservas verdura",
+              "order": 215
+            }
+          ],
+          "id": 127,
+          "level": 1,
+          "name": "Conservas de verdura y frutas",
+          "order": 215
+        }
+      ],
+      "id": 14,
+      "level": 0,
+      "name": "Conservas, caldos y cremas",
+      "order": 215
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Macedonia de verduras Hacendado",
+    "legal_name": "Macedonia con verduras. Categoría extra",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Una vez abierto, conservar refrigerado y consumir antes de 5 días.",
+    "suppliers": [
+      {
+        "name": "Conservas el Cidacos S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Macedonia de verduras Hacendado",
+  "ean": "8480000167378",
+  "extra_info": [
+    ""
+  ],
+  "id": "16737",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Zanahoria, patata, guisante, judía verde, agua y sal."
+  },
+  "origin": "España",
+  "packaging": "Tarro",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/b02bc731543db2034220551bc2b095d2.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b02bc731543db2034220551bc2b095d2.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b02bc731543db2034220551bc2b095d2.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/e96eca7663fa10ef9a47adcc088313ea.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e96eca7663fa10ef9a47adcc088313ea.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e96eca7663fa10ef9a47adcc088313ea.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.68",
+    "bunch_selector": false,
+    "drained_weight": 0.32,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "2.813",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.90",
+    "unit_selector": true,
+    "unit_size": 0.535
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/16737/macedonia-verduras-hacendado-tarro",
+  "slug": "macedonia-verduras-hacendado-tarro",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/b02bc731543db2034220551bc2b095d2.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

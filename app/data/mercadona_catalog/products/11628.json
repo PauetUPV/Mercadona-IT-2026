@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 472,
+              "level": 2,
+              "name": "Cremas y puré",
+              "order": 215
+            }
+          ],
+          "id": 130,
+          "level": 1,
+          "name": "Gazpacho y cremas",
+          "order": 215
+        }
+      ],
+      "id": 14,
+      "level": 0,
+      "name": "Conservas, caldos y cremas",
+      "order": 215
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Crema de lentejas Hacendado",
+    "legal_name": "CREMA DE LENTEJAS",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Debe mantenerse en frío entre +2ºC y +6ºC. Una vez abierto, consumir en 24 horas.",
+    "suppliers": [
+      {
+        "name": "LA LINEA VERDE SOCIETÀ AGRICOLA S.p.A."
+      }
+    ],
+    "usage_instructions": "-Puede consumirse frío-Microondas: retirar fajín, perfora el film, máxima potencia 2 minutos, remover"
+  },
+  "display_name": "Crema de lentejas Hacendado",
+  "ean": "8402001030840",
+  "extra_info": [
+    ""
+  ],
+  "id": "11628",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Agua, lentejas 13%, calabaza, zanahoria 4%, cebolla 4%, grelos, aceites de oliva virgen extra, guisantes, pasta de tomate doble, sal, hierbas, especias. Puede contener trazas de cereales con gluten, frutos de cáscara, leche, apio, soja y huevo."
+  },
+  "origin": null,
+  "packaging": "Bol",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/c75cd6195526f2bfecb9f1783f39297a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c75cd6195526f2bfecb9f1783f39297a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c75cd6195526f2bfecb9f1783f39297a.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/3f3633861091d9671c7f37690d3b60e2.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3f3633861091d9671c7f37690d3b60e2.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3f3633861091d9671c7f37690d3b60e2.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.86",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "4.858",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.70",
+    "unit_selector": true,
+    "unit_size": 0.35
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/11628/crema-lentejas-hacendado-bol",
+  "slug": "crema-lentejas-hacendado-bol",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/c75cd6195526f2bfecb9f1783f39297a.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

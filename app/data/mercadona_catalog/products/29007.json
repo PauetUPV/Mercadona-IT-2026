@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 424,
+              "level": 2,
+              "name": "Sal y bicarbonato",
+              "order": 7
+            }
+          ],
+          "id": 112,
+          "level": 1,
+          "name": "Aceite, vinagre y sal",
+          "order": 7
+        }
+      ],
+      "id": 12,
+      "level": 0,
+      "name": "Aceite, especias y salsas",
+      "order": 7
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Bicarbonato de sódio Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Bicarbonato de Sodio",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar seco.",
+    "suppliers": [
+      {
+        "name": "JESÚS NAVARRO, S.A."
+      }
+    ],
+    "usage_instructions": "USOS TRADICIONALES: Gasificante en repostería: dosis según receta a utilizar. Antiácido: disuelve 1 cucharadita (7g) en 1 vaso de agua (250 ml). Elimina malos olores: En el frigorífico pon 1 cucharada en un platito. En el lavavajillas añade 1 cucharada después de cada lavado. Para lavar fruta / verdura: Mezcla una cucharada en 1L de agua y sumerge la fruta / verdura 10 min. Previene la formación de cal en la lavadora: Pon un lavado sin ropa con agua fría y 4 cucharadas de bicarbonato una vez al mes."
+  },
+  "display_name": "Bicarbonato de sódio Hacendado",
+  "ean": "8480000290076",
+  "extra_info": [
+    ""
+  ],
+  "id": "29007",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Bicarbonato sódico (E-500ii)"
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/5ae57e0348cf657e21ffa47ad36ea448.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5ae57e0348cf657e21ffa47ad36ea448.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5ae57e0348cf657e21ffa47ad36ea448.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/e933c720fa0e5063412ec9fd1ddd9823.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e933c720fa0e5063412ec9fd1ddd9823.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e933c720fa0e5063412ec9fd1ddd9823.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.45",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "1.450",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.45",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/29007/bicarbonato-sodico-hacendado-paquete",
+  "slug": "bicarbonato-sodico-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/5ae57e0348cf657e21ffa47ad36ea448.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

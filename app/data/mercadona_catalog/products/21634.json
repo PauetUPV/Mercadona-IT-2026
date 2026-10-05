@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 314,
+              "level": 2,
+              "name": "Paté",
+              "order": 159
+            }
+          ],
+          "id": 58,
+          "level": 1,
+          "name": "Paté y sobrasada",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Paté de hígado de cerdo sabor intenso Hacendado",
+    "legal_name": "Paté de hígado de cerdo",
+    "mandatory_mentions": "Sin lactosa, sin gluten, rico en hierro y sin glutamato monosódico.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco. Una vez abierto, mantener refrigerado y consumir en un plazo de 3 días",
+    "suppliers": [
+      {
+        "name": "Industrias Frigoríficas del Louro, S.A. Grupo Coren"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Paté de hígado de cerdo sabor intenso Hacendado",
+  "ean": "8402001046506",
+  "extra_info": [
+    ""
+  ],
+  "id": "21634",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Papada de cerdo, hígado de cerdo (26,8%), agua, magro de cerdo, sal, proteína de cerdo (proteína de cerdo, dextrosa), aroma, fibra de guisante, azúcar, especias, antioxidante (ascorbato sódico) y conservador (nitrito sódico)."
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/76b049da4dfdfda88054dbd2938f045f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/76b049da4dfdfda88054dbd2938f045f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/76b049da4dfdfda88054dbd2938f045f.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/5e1a5c768bd521a6e6322484b8f882a9.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5e1a5c768bd521a6e6322484b8f882a9.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5e1a5c768bd521a6e6322484b8f882a9.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.67",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.1,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.667",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 3,
+    "unit_name": "latas",
+    "unit_price": "2.00",
+    "unit_selector": true,
+    "unit_size": 0.3
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/21634/pate-higado-cerdo-sabor-intenso-hacendado",
+  "slug": "pate-higado-cerdo-sabor-intenso-hacendado",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/76b049da4dfdfda88054dbd2938f045f.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

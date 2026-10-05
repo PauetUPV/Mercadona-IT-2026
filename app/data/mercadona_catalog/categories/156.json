@@ -1,0 +1,2328 @@
+{
+  "categories": [
+    {
+      "id": 525,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Agua sin gas",
+      "order": 8,
+      "products": [
+        {
+          "badges": {
+            "is_water": true,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 18,
+              "level": 0,
+              "name": "Agua y refrescos",
+              "order": 8
+            }
+          ],
+          "display_name": "Agua mineral grande Bronchales",
+          "id": "28035",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Garrafa",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "0.22",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "0.217",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.30",
+            "unit_selector": true,
+            "unit_size": 6.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/28035/agua-mineral-grande-bronchales-mineralizacion-muy-debil-garrafa",
+          "slug": "agua-mineral-grande-bronchales-mineralizacion-muy-debil-garrafa",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/66cc0d02f8e7c1ae6820ce725f05e80d.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": true,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 18,
+              "level": 0,
+              "name": "Agua y refrescos",
+              "order": 8
+            }
+          ],
+          "display_name": "Agua mineral grande Bronchales",
+          "id": "23448",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": null,
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "0.26",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": 1.5,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "0.260",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "botellas",
+            "unit_price": "2.34",
+            "unit_selector": true,
+            "unit_size": 9.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/23448/agua-mineral-grande-bronchales-mineralizacion-muy-debil-pack-6",
+          "slug": "agua-mineral-grande-bronchales-mineralizacion-muy-debil-pack-6",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/e4215d66bb098663185fe46567197389.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": true,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 18,
+              "level": 0,
+              "name": "Agua y refrescos",
+              "order": 8
+            }
+          ],
+          "display_name": "Agua mineral grande Bronchales",
+          "id": "23449",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Botella",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "0.26",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "0.260",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.39",
+            "unit_selector": true,
+            "unit_size": 1.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/23449/agua-mineral-grande-bronchales-mineralizacion-muy-debil-botella",
+          "slug": "agua-mineral-grande-bronchales-mineralizacion-muy-debil-botella",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/4926e01c3b840a50863dc57ce3281adb.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": true,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 18,
+              "level": 0,
+              "name": "Agua y refrescos",
+              "order": 8
+            }
+          ],
+          "display_name": "Agua mineral mediana Bronchales",
+          "id": "28491",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": null,
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "0.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": 1.0,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "0.500",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "botellas",
+            "unit_price": "3.00",
+            "unit_selector": true,
+            "unit_size": 6.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/28491/agua-mineral-mediana-bronchales-mineralizacion-muy-debil-pack-6",
+          "slug": "agua-mineral-mediana-bronchales-mineralizacion-muy-debil-pack-6",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/e8656118e76ffd7da9c3621b0ccde1cf.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": true,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 18,
+              "level": 0,
+              "name": "Agua y refrescos",
+              "order": 8
+            }
+          ],
+          "display_name": "Agua mineral mediana Bronchales",
+          "id": "28499",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Botella",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "0.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "0.500",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.50",
+            "unit_selector": true,
+            "unit_size": 1.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/28499/agua-mineral-mediana-bronchales-mineralizacion-muy-debil-botella",
+          "slug": "agua-mineral-mediana-bronchales-mineralizacion-muy-debil-botella",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/b84193c32e308213d3c34e6aacd6175a.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": true,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 18,
+              "level": 0,
+              "name": "Agua y refrescos",
+              "order": 8
+            }
+          ],
+          "display_name": "Agua mineral pequeña Bronchales",
+          "id": "27061",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": null,
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "0.58",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.5,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "0.580",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "botellas",
+            "unit_price": "1.74",
+            "unit_selector": true,
+            "unit_size": 3.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/27061/agua-mineral-pequena-bronchales-mineralizacion-muy-debil-pack-6",
+          "slug": "agua-mineral-pequena-bronchales-mineralizacion-muy-debil-pack-6",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/66234e086c5a0ce9a65dedf3c18213bd.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": true,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 18,
+              "level": 0,
+              "name": "Agua y refrescos",
+              "order": 8
+            }
+          ],
+          "display_name": "Agua mineral pequeña Bronchales",
+          "id": "27054",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Botella",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "0.58",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "0.580",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.29",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/27054/agua-mineral-pequena-bronchales-mineralizacion-muy-debil-botella",
+          "slug": "agua-mineral-pequena-bronchales-mineralizacion-muy-debil-botella",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/2c9d5d39deb1fa6e76a58567c921a4bb.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": true,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 18,
+              "level": 0,
+              "name": "Agua y refrescos",
+              "order": 8
+            }
+          ],
+          "display_name": "Agua mineral pequeña Bronchales tapón infantil",
+          "id": "28566",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "tapón infantil",
+          "packaging": null,
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "1.21",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.33,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "1.213",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "botellas",
+            "unit_price": "2.40",
+            "unit_selector": true,
+            "unit_size": 1.98
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/28566/agua-mineral-pequena-bronchales-tapon-infantil-mineralizacion-muy-debil-pack-6",
+          "slug": "agua-mineral-pequena-bronchales-tapon-infantil-mineralizacion-muy-debil-pack-6",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/e4d92aaf4657bc0f0b2d49f4583d5527.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": true,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 18,
+              "level": 0,
+              "name": "Agua y refrescos",
+              "order": 8
+            }
+          ],
+          "display_name": "Agua mineral pequeña Bronchales tapón infantil",
+          "id": "28567",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "tapón infantil",
+          "packaging": "Botella",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "1.21",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "1.213",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.40",
+            "unit_selector": true,
+            "unit_size": 0.33
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/28567/agua-mineral-pequena-bronchales-tapon-infantil-mineralizacion-muy-debil-botella",
+          "slug": "agua-mineral-pequena-bronchales-tapon-infantil-mineralizacion-muy-debil-botella",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/78af1922d576687ff2603f9f1c3c3b61.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": true,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 18,
+              "level": 0,
+              "name": "Agua y refrescos",
+              "order": 8
+            }
+          ],
+          "display_name": "Agua mineral grande Cortes",
+          "id": "28060",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Garrafa",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "0.12",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "0.119",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.95",
+            "unit_selector": true,
+            "unit_size": 8.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/28060/agua-mineral-grande-cortes-mineralizacion-debil-garrafa",
+          "slug": "agua-mineral-grande-cortes-mineralizacion-debil-garrafa",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/a56c2febe9cc111eea5a2ac8e8a4ac5e.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": true,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 18,
+              "level": 0,
+              "name": "Agua y refrescos",
+              "order": 8
+            }
+          ],
+          "display_name": "Agua mineral grande Cortes",
+          "id": "27088",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Garrafa",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "0.14",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "0.137",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.82",
+            "unit_selector": true,
+            "unit_size": 6.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/27088/agua-mineral-grande-cortes-mineralizacion-debil-garrafa",
+          "slug": "agua-mineral-grande-cortes-mineralizacion-debil-garrafa",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/a72bb89c357e569acc293f5081136206.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": true,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 18,
+              "level": 0,
+              "name": "Agua y refrescos",
+              "order": 8
+            }
+          ],
+          "display_name": "Agua mineral grande Cortes",
+          "id": "28269",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": null,
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "0.18",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": 1.5,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "0.180",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "botellas",
+            "unit_price": "1.62",
+            "unit_selector": true,
+            "unit_size": 9.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/28269/agua-mineral-grande-cortes-mineralizacion-debil-pack-6",
+          "slug": "agua-mineral-grande-cortes-mineralizacion-debil-pack-6",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/9553aa28a65f256497fbe2fd4534b828.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": true,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 18,
+              "level": 0,
+              "name": "Agua y refrescos",
+              "order": 8
+            }
+          ],
+          "display_name": "Agua mineral grande Cortes",
+          "id": "28270",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Botella",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "0.18",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "0.180",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.27",
+            "unit_selector": true,
+            "unit_size": 1.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/28270/agua-mineral-grande-cortes-mineralizacion-debil-botella",
+          "slug": "agua-mineral-grande-cortes-mineralizacion-debil-botella",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/51c9dca7a30087f81fb22a586431fc3e.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": true,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 18,
+              "level": 0,
+              "name": "Agua y refrescos",
+              "order": 8
+            }
+          ],
+          "display_name": "Agua mineral mediana Cortes",
+          "id": "28163",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": null,
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "0.40",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": 1.0,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "0.400",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "botellas",
+            "unit_price": "2.40",
+            "unit_selector": true,
+            "unit_size": 6.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/28163/agua-mineral-mediana-cortes-mineralizacion-debil-pack-6",
+          "slug": "agua-mineral-mediana-cortes-mineralizacion-debil-pack-6",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/d3c27c809d17bdd7b014dad7367586d6.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": true,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 18,
+              "level": 0,
+              "name": "Agua y refrescos",
+              "order": 8
+            }
+          ],
+          "display_name": "Agua mineral mediana Cortes",
+          "id": "28164",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Botella",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "0.40",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "0.400",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.40",
+            "unit_selector": true,
+            "unit_size": 1.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/28164/agua-mineral-mediana-cortes-mineralizacion-debil-botella",
+          "slug": "agua-mineral-mediana-cortes-mineralizacion-debil-botella",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/468945dc5102117fa2a40fdc02d434ca.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": true,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 18,
+              "level": 0,
+              "name": "Agua y refrescos",
+              "order": 8
+            }
+          ],
+          "display_name": "Agua mineral pequeña Cortes",
+          "id": "27076",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": null,
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "0.52",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.5,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "0.520",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "botellas",
+            "unit_price": "1.56",
+            "unit_selector": true,
+            "unit_size": 3.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/27076/agua-mineral-pequena-cortes-mineralizacion-debil-pack-6",
+          "slug": "agua-mineral-pequena-cortes-mineralizacion-debil-pack-6",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/da8277237500fa130439951065afa7a7.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": true,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 18,
+              "level": 0,
+              "name": "Agua y refrescos",
+              "order": 8
+            }
+          ],
+          "display_name": "Agua mineral pequeña Cortes",
+          "id": "27078",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Botella",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "0.52",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "0.520",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.26",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/27078/agua-mineral-pequena-cortes-mineralizacion-debil-botella",
+          "slug": "agua-mineral-pequena-cortes-mineralizacion-debil-botella",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/9f07309af1a7f31d233402a7b51a7d14.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": true,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 18,
+              "level": 0,
+              "name": "Agua y refrescos",
+              "order": 8
+            }
+          ],
+          "display_name": "Agua mineral pequeña Cortes tapón infantil",
+          "id": "28288",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "tapón infantil",
+          "packaging": null,
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "0.85",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.33,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "0.849",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "botellas",
+            "unit_price": "1.68",
+            "unit_selector": true,
+            "unit_size": 1.98
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/28288/agua-mineral-pequena-cortes-tapon-infantil-mineralizacion-debil-pack-6",
+          "slug": "agua-mineral-pequena-cortes-tapon-infantil-mineralizacion-debil-pack-6",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/443896678b5798680467dc32ec83c246.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": true,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 18,
+              "level": 0,
+              "name": "Agua y refrescos",
+              "order": 8
+            }
+          ],
+          "display_name": "Agua mineral pequeña Cortes tapón infantil",
+          "id": "28296",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "tapón infantil",
+          "packaging": "Botella",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "0.85",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.0,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "0.849",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.28",
+            "unit_selector": true,
+            "unit_size": 0.33
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/28296/agua-mineral-pequena-cortes-tapon-infantil-mineralizacion-debil-botella",
+          "slug": "agua-mineral-pequena-cortes-tapon-infantil-mineralizacion-debil-botella",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/dbef060cf5a27c2df80067d0e7a3eb53.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": true,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 18,
+              "level": 0,
+              "name": "Agua y refrescos",
+              "order": 8
+            }
+          ],
+          "display_name": "Agua mineral grande Bezoya",
+          "id": "27314",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": null,
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "0.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": 1.5,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "0.500",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "botellas",
+            "unit_price": "4.50",
+            "unit_selector": true,
+            "unit_size": 9.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/27314/agua-mineral-grande-bezoya-mineralizacion-muy-debil-pack-6",
+          "slug": "agua-mineral-grande-bezoya-mineralizacion-muy-debil-pack-6",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/2af69bfbbbb9b2279a1200f3ca67c6d4.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": true,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 18,
+              "level": 0,
+              "name": "Agua y refrescos",
+              "order": 8
+            }
+          ],
+          "display_name": "Agua mineral grande Bezoya",
+          "id": "27230",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Botella",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "0.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "0.500",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.75",
+            "unit_selector": true,
+            "unit_size": 1.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/27230/agua-mineral-grande-bezoya-mineralizacion-muy-debil-botella",
+          "slug": "agua-mineral-grande-bezoya-mineralizacion-muy-debil-botella",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/8938d3a305c7e81970a0bb5d89e27dba.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": true,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 18,
+              "level": 0,
+              "name": "Agua y refrescos",
+              "order": 8
+            }
+          ],
+          "display_name": "Agua mineral grande Nestlé Aquarel",
+          "id": "27099",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": null,
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "0.33",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": 1.5,
+            "previous_unit_price": "        3.84",
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "0.327",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "botellas",
+            "unit_price": "2.94",
+            "unit_selector": true,
+            "unit_size": 9.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/27099/agua-mineral-grande-nestle-aquarel-mineralizacion-muy-debil-pack-6",
+          "slug": "agua-mineral-grande-nestle-aquarel-mineralizacion-muy-debil-pack-6",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/4e8a68c0cb6798b9aae972a7538388a7.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": true,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 18,
+              "level": 0,
+              "name": "Agua y refrescos",
+              "order": 8
+            }
+          ],
+          "display_name": "Agua mineral grande Nestlé Aquarel",
+          "id": "27232",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Botella",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "0.33",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": "        0.64",
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "0.327",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.49",
+            "unit_selector": true,
+            "unit_size": 1.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/27232/agua-mineral-grande-nestle-aquarel-mineralizacion-muy-debil-botella",
+          "slug": "agua-mineral-grande-nestle-aquarel-mineralizacion-muy-debil-botella",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/271842cd61ddc0fc2672b2f27411ae55.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": true,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 18,
+              "level": 0,
+              "name": "Agua y refrescos",
+              "order": 8
+            }
+          ],
+          "display_name": "Agua mineral grande Font Vella",
+          "id": "27350",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": null,
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "0.49",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": 1.5,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "0.494",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "botellas",
+            "unit_price": "4.44",
+            "unit_selector": true,
+            "unit_size": 9.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/27350/agua-mineral-grande-font-vella-mineralizacion-debil-pack-6",
+          "slug": "agua-mineral-grande-font-vella-mineralizacion-debil-pack-6",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/ea42298110c6953182756caa154348b4.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": true,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 18,
+              "level": 0,
+              "name": "Agua y refrescos",
+              "order": 8
+            }
+          ],
+          "display_name": "Agua mineral grande Font Vella",
+          "id": "27204",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Botella",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "0.51",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "0.514",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.77",
+            "unit_selector": true,
+            "unit_size": 1.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/27204/agua-mineral-grande-font-vella-mineralizacion-debil-botella",
+          "slug": "agua-mineral-grande-font-vella-mineralizacion-debil-botella",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/9c28621712d73b984302a64676d7c06f.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": true,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 18,
+              "level": 0,
+              "name": "Agua y refrescos",
+              "order": 8
+            }
+          ],
+          "display_name": "Agua mineral grande Solán de Cabras",
+          "id": "27327",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": null,
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "0.57",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": 1.5,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "0.567",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "botellas",
+            "unit_price": "5.10",
+            "unit_selector": true,
+            "unit_size": 9.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/27327/agua-mineral-grande-solan-cabras-mineralizacion-debil-pack-6",
+          "slug": "agua-mineral-grande-solan-cabras-mineralizacion-debil-pack-6",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/f4fec39a0a59025b5b6713eeb2f248a2.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": true,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 18,
+              "level": 0,
+              "name": "Agua y refrescos",
+              "order": 8
+            }
+          ],
+          "display_name": "Agua mineral grande Solán de Cabras",
+          "id": "27356",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Botella",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "0.57",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "0.567",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.85",
+            "unit_selector": true,
+            "unit_size": 1.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/27356/agua-mineral-grande-solan-cabras-mineralizacion-debil-botella",
+          "slug": "agua-mineral-grande-solan-cabras-mineralizacion-debil-botella",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/f5a0f1d91e8b4be9323cd0fcbba32198.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": true,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 18,
+              "level": 0,
+              "name": "Agua y refrescos",
+              "order": 8
+            }
+          ],
+          "display_name": "Agua mineral grande Lanjarón",
+          "id": "27291",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": null,
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "0.48",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": 1.5,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "0.480",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "botellas",
+            "unit_price": "4.32",
+            "unit_selector": true,
+            "unit_size": 9.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/27291/agua-mineral-grande-lanjaron-mineralizacion-debil-pack-6",
+          "slug": "agua-mineral-grande-lanjaron-mineralizacion-debil-pack-6",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/10ac733c7d795773d9c3371e84b85e7f.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": true,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 18,
+              "level": 0,
+              "name": "Agua y refrescos",
+              "order": 8
+            }
+          ],
+          "display_name": "Agua mineral grande Lanjarón",
+          "id": "27216",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Botella",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "0.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.0,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "0.500",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.75",
+            "unit_selector": true,
+            "unit_size": 1.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/27216/agua-mineral-grande-lanjaron-botella",
+          "slug": "agua-mineral-grande-lanjaron-botella",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/d78cbd348d580e41e5f944591acd1f3b.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 18,
+              "level": 0,
+              "name": "Agua y refrescos",
+              "order": 8
+            }
+          ],
+          "display_name": "Agua de coco 100% Hacendado",
+          "id": "28198",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Brik",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.30",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "2.300",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.30",
+            "unit_selector": true,
+            "unit_size": 1.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/28198/agua-coco-chaokoh-100-natural-brick",
+          "slug": "agua-coco-chaokoh-100-natural-brick",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/c36335b1c5009321b8c4c017d7b0ee47.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 18,
+              "level": 0,
+              "name": "Agua y refrescos",
+              "order": 8
+            }
+          ],
+          "display_name": "Agua de coco 100% Hacendado",
+          "id": "28197",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Brik",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.64",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "3.637",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.20",
+            "unit_selector": true,
+            "unit_size": 0.33
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/28197/agua-coco-chaokoh-100-natural-brick",
+          "slug": "agua-coco-chaokoh-100-natural-brick",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/2f6e7233004720f9095d0d7e77337e49.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    },
+    {
+      "id": 528,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Agua con gas",
+      "order": 8,
+      "products": [
+        {
+          "badges": {
+            "is_water": true,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 18,
+              "level": 0,
+              "name": "Agua y refrescos",
+              "order": 8
+            }
+          ],
+          "display_name": "Agua mineral con gas grande Vichy Catalan",
+          "id": "27213",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Botella",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "1.65",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "1.650",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.65",
+            "unit_selector": true,
+            "unit_size": 1.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/27213/agua-mineral-con-gas-grande-vichy-catalan-botella",
+          "slug": "agua-mineral-con-gas-grande-vichy-catalan-botella",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/7bd8166f83035d60e61a997fe40ee7be.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": true,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 18,
+              "level": 0,
+              "name": "Agua y refrescos",
+              "order": 8
+            }
+          ],
+          "display_name": "Agua mineral con gas pequeña Vichy Catalan",
+          "id": "28185",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Pack-6",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.61",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.3,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "3.606",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "botellas",
+            "unit_price": "6.49",
+            "unit_selector": true,
+            "unit_size": 1.8
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/28185/agua-mineral-con-gas-pequena-vichy-catalan-pack-6",
+          "slug": "agua-mineral-con-gas-pequena-vichy-catalan-pack-6",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/e3a005d4a975650af9c856bc99cce6d6.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": true,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 18,
+              "level": 0,
+              "name": "Agua y refrescos",
+              "order": 8
+            }
+          ],
+          "display_name": "Agua mineral con gas grande Cortes",
+          "id": "27366",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Pack-6",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "0.28",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": 1.5,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "0.280",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "botellas",
+            "unit_price": "2.52",
+            "unit_selector": true,
+            "unit_size": 9.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/27366/agua-mineral-con-gas-grande-cortes-pack-6",
+          "slug": "agua-mineral-con-gas-grande-cortes-pack-6",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/fa7dcf7dc5c26c68c38732434a265307.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": true,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 18,
+              "level": 0,
+              "name": "Agua y refrescos",
+              "order": 8
+            }
+          ],
+          "display_name": "Agua mineral con gas grande Cortes",
+          "id": "27367",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Botella",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "0.28",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "0.280",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.42",
+            "unit_selector": true,
+            "unit_size": 1.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/27367/agua-mineral-con-gas-grande-cortes-botella",
+          "slug": "agua-mineral-con-gas-grande-cortes-botella",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/09ff1db3ce9ea9690b050a7786c8cc22.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": true,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 18,
+              "level": 0,
+              "name": "Agua y refrescos",
+              "order": 8
+            }
+          ],
+          "display_name": "Agua mineral con gas pequeña Cortes",
+          "id": "27368",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Pack-6",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "0.52",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.5,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "0.520",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "botellas",
+            "unit_price": "1.56",
+            "unit_selector": true,
+            "unit_size": 3.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/27368/agua-mineral-con-gas-pequena-cortes-pack-6",
+          "slug": "agua-mineral-con-gas-pequena-cortes-pack-6",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/4dd3f64de88fee2d152b0810070fff6b.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": true,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 18,
+              "level": 0,
+              "name": "Agua y refrescos",
+              "order": 8
+            }
+          ],
+          "display_name": "Agua mineral con gas pequeña Cortes",
+          "id": "27369",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Botella",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "0.52",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "0.520",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.26",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/27369/agua-mineral-con-gas-pequena-cortes-botella",
+          "slug": "agua-mineral-con-gas-pequena-cortes-botella",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/6ee91acbd50882e4ef4fbadff408c70a.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": true,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 18,
+              "level": 0,
+              "name": "Agua y refrescos",
+              "order": 8
+            }
+          ],
+          "display_name": "Agua mineral con gas grande San Pellegrino",
+          "id": "27894",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Pack-6",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "1.39",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": 1.0,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "1.390",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "botellas",
+            "unit_price": "8.34",
+            "unit_selector": true,
+            "unit_size": 6.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/27894/agua-mineral-con-gas-grande-san-pellegrino-pack-6",
+          "slug": "agua-mineral-con-gas-grande-san-pellegrino-pack-6",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/bbe790c4adbbacce30a3c02205ac6f69.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": true,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 18,
+              "level": 0,
+              "name": "Agua y refrescos",
+              "order": 8
+            }
+          ],
+          "display_name": "Agua mineral con gas grande San Pellegrino",
+          "id": "27893",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Botella",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "1.39",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "1.390",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.39",
+            "unit_selector": true,
+            "unit_size": 1.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/27893/agua-mineral-con-gas-grande-san-pellegrino-botella",
+          "slug": "agua-mineral-con-gas-grande-san-pellegrino-botella",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/e8c3b53ceea5699ad8387f0c531c6a7e.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": true,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 18,
+              "level": 0,
+              "name": "Agua y refrescos",
+              "order": 8
+            }
+          ],
+          "display_name": "Agua de soda con sifón La Casa",
+          "id": "27203",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Botella",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "1.07",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "1.067",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.60",
+            "unit_selector": true,
+            "unit_size": 1.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/27203/agua-soda-con-sifon-casa-botella",
+          "slug": "agua-soda-con-sifon-casa-botella",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/3395f81f81e5342ad8c140b9a6b7b0cd.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": true,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 18,
+              "level": 0,
+              "name": "Agua y refrescos",
+              "order": 8
+            }
+          ],
+          "display_name": "Agua mineral con gas grande Fonter",
+          "id": "27598",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Pack-6",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "1.14",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": 1.0,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "1.140",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "botellas",
+            "unit_price": "6.84",
+            "unit_selector": true,
+            "unit_size": 6.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/27598/agua-mineral-con-gas-grande-fonter-pack-6",
+          "slug": "agua-mineral-con-gas-grande-fonter-pack-6",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/a66a11cc28548cecaf9f2cdc0146f7af.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": true,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 18,
+              "level": 0,
+              "name": "Agua y refrescos",
+              "order": 8
+            }
+          ],
+          "display_name": "Agua mineral con gas grande Fonter",
+          "id": "27597",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Botella",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "1.14",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "1.140",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.14",
+            "unit_selector": true,
+            "unit_size": 1.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/27597/agua-mineral-con-gas-grande-fonter-botella",
+          "slug": "agua-mineral-con-gas-grande-fonter-botella",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/b94b3aaca7658e8973d1b6a9f7adcfd4.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    },
+    {
+      "id": 529,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Gaseosa",
+      "order": 8,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 18,
+              "level": 0,
+              "name": "Agua y refrescos",
+              "order": 8
+            }
+          ],
+          "display_name": "Gaseosa grande Hacendado",
+          "id": "21733",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Botella",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "0.37",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "0.367",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "21.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.55",
+            "unit_selector": true,
+            "unit_size": 1.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/21733/gaseosa-grande-hacendado-botella",
+          "slug": "gaseosa-grande-hacendado-botella",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/24c4eeaae78fda9ffb5b645c2b7a86db.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 18,
+              "level": 0,
+              "name": "Agua y refrescos",
+              "order": 8
+            }
+          ],
+          "display_name": "Gaseosa pequeña Hacendado",
+          "id": "27972",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": null,
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "0.68",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": 21,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.5,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "0.680",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "21.000",
+            "total_units": 6,
+            "unit_name": "botellas",
+            "unit_price": "2.04",
+            "unit_selector": true,
+            "unit_size": 3.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/27972/gaseosa-hacendado-pequena-pack-6",
+          "slug": "gaseosa-hacendado-pequena-pack-6",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/bddfe97a611cc3ed02ee9be4dbd801db.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 18,
+              "level": 0,
+              "name": "Agua y refrescos",
+              "order": 8
+            }
+          ],
+          "display_name": "Gaseosa pequeña Hacendado",
+          "id": "27971",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Botella",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "0.68",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 21,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "0.680",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "21.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.34",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/27971/gaseosa-hacendado-pequena-botella",
+          "slug": "gaseosa-hacendado-pequena-botella",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/46a15a46fde60b26d8c637e38b6abb5b.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    }
+  ],
+  "id": 156,
+  "is_extended": false,
+  "layout": 1,
+  "name": "Agua",
+  "next_category": {
+    "id": 163,
+    "name": "Isotónico y energético"
+  },
+  "order": 8,
+  "published": true
+}

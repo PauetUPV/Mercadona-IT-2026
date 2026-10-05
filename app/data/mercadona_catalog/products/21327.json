@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 409,
+              "level": 2,
+              "name": "Bífidus de sabores",
+              "order": 598
+            }
+          ],
+          "id": 105,
+          "level": 1,
+          "name": "Bífidus",
+          "order": 598
+        }
+      ],
+      "id": 11,
+      "level": 0,
+      "name": "Postres y yogures",
+      "order": 598
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Bífidus con cereales y fibras probióticos Hacendado",
+    "legal_name": "Leche fermentada con bífidus cereales y frutos secos.",
+    "mandatory_mentions": "PROBIÓTICOS*. *Los cultivos vivos del yogur o de la leche fermentada mejoran la digestión de la lactosa del producto en las personas con problemas para digerir la lactosa.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 1C y 8C.",
+    "suppliers": [
+      {
+        "name": "Schreiber Foods España, S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Bífidus con cereales y fibras probióticos Hacendado",
+  "ean": "8402001022463",
+  "extra_info": [
+    ""
+  ],
+  "id": "21327",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>sw</strong>. Contiene <strong>sh</strong>. Contiene <strong>sa</strong>. Contiene <strong>gb</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>frutos de cáscara</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Leche</strong> fresca pasteurizada parcialmente desnatada (Origen: España), agua, azúcar de caña (6,3%), oligofructosa, <strong>leche</strong> en polvo desnatada, cereales (1,2%) (salvado de <strong>trigo</strong>, <strong>cebada </strong>(harina y granos) y copos de <strong>trigo</strong>), caramelo aromático, miel (0,8%), proteínas de la <strong>leche</strong>, frutos secos (0,5%) (<strong>nueces</strong>, <strong>almendras</strong> y <strong>avellanas</strong>), aromas naturales, fermentos <strong>lácticos</strong> y bifidobacterias (<strong>leche</strong>)."
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/38dfa421d4c979856977abbf11f61b3c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/38dfa421d4c979856977abbf11f61b3c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/38dfa421d4c979856977abbf11f61b3c.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/4416c6f55f275b74ac2480e4947b85b3.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4416c6f55f275b74ac2480e4947b85b3.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4416c6f55f275b74ac2480e4947b85b3.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.60",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.125,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "2.600",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 4,
+    "unit_name": "ud.",
+    "unit_price": "1.30",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/21327/bifidus-probiotico-con-cereales-fibras-hacendado-pack-4",
+  "slug": "bifidus-probiotico-con-cereales-fibras-hacendado-pack-4",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/38dfa421d4c979856977abbf11f61b3c.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

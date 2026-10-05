@@ -1,0 +1,119 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 431,
+              "level": 2,
+              "name": "Otras especias",
+              "order": 7
+            }
+          ],
+          "id": 115,
+          "level": 1,
+          "name": "Especias",
+          "order": 7
+        }
+      ],
+      "id": 12,
+      "level": 0,
+      "name": "Aceite, especias y salsas",
+      "order": 7
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Comino molido Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Comino",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "JESÚS NAVARRO, S.A."
+      },
+      {
+        "name": "Jesús Navarro S.A."
+      },
+      {
+        "name": "Jesús Navarro, S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Comino molido Hacendado",
+  "ean": "8480000341204",
+  "extra_info": [
+    null
+  ],
+  "id": "34120",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Puede contener <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Comino. Contiene trazas de <strong>gluten</strong>, <strong>sésamo</strong> y <strong>mostaza</strong>."
+  },
+  "origin": "España",
+  "packaging": "Bote",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/003c9821946990d15215928c180ec0b7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/003c9821946990d15215928c180ec0b7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/003c9821946990d15215928c180ec0b7.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/175baf3a209b06a0debe41a09c395b19.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/175baf3a209b06a0debe41a09c395b19.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/175baf3a209b06a0debe41a09c395b19.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "19.83",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "19.828",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.15",
+    "unit_selector": true,
+    "unit_size": 0.058
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/34120/comino-molido-hacendado-bote",
+  "slug": "comino-molido-hacendado-bote",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/003c9821946990d15215928c180ec0b7.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

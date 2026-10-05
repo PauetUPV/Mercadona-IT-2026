@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Tenis",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 590,
+              "level": 2,
+              "name": "Anís",
+              "order": 15
+            }
+          ],
+          "id": 181,
+          "level": 1,
+          "name": "Licores",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": "48.0º",
+    "brand": "Tenis",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Anís seco Tenis",
+    "legal_name": "Anís Seco",
+    "mandatory_mentions": "Bebida espirituosa obtenida por porcedimineto de destilación. Datos normativa en Datos de Contacto URL o en la URL  http://palomatenis.es/FichasLogisticas/AnisTenis.pdf.",
+    "origin": "Monforte del CId - Alicante",
+    "production_variant": "",
+    "storage_instructions": "Conservar en sitio seco y resguasrdado de la luz solar directa.",
+    "suppliers": [
+      {
+        "name": "Limiñana y Botellas, S.L."
+      }
+    ],
+    "usage_instructions": "Recomendamos tomarlo sólo o mezclado una parte de Anís Tenis Seco con cuatro partes de agua muy fría."
+  },
+  "display_name": "Anís seco Tenis",
+  "ean": "8410548000011",
+  "extra_info": [
+    null
+  ],
+  "id": "28311",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Agua, alcohol, anís, azucar."
+  },
+  "origin": "Monforte del CId - Alicante",
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/cfaae54c2c1fee2b218dde9552dac9e4.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/cfaae54c2c1fee2b218dde9552dac9e4.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/cfaae54c2c1fee2b218dde9552dac9e4.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/ca655816758ce711c5e6470863b55ae2.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ca655816758ce711c5e6470863b55ae2.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ca655816758ce711c5e6470863b55ae2.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "12.70",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "12.700",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "12.70",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/28311/anis-seco-tenis-botella",
+  "slug": "anis-seco-tenis-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/cfaae54c2c1fee2b218dde9552dac9e4.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

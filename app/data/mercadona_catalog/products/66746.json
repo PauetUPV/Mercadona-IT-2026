@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Don Simón",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 561,
+              "level": 2,
+              "name": "Tinto de verano y sangría",
+              "order": 15
+            }
+          ],
+          "id": 168,
+          "level": 1,
+          "name": "Tinto de verano y sangría",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Don Simón",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Tinto de verano 0,0% sin alcohol limón Don Simón",
+    "legal_name": "Bebida de zumo de uva. Con edulcorantes",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Servir muy frio. Una vez abierto, conservar refrigerado y consumir antes de transcurridos 5 días.",
+    "suppliers": [
+      {
+        "name": "JGC S.A"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Tinto de verano 0,0% sin alcohol limón Don Simón",
+  "ean": "8410261152417",
+  "extra_info": [
+    null
+  ],
+  "id": "66746",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Agua carbonatada, zumo de uva  a partir de concentrado (15%), azúcar de uva, acidulante: ácido cítrico, edulcorante (E-952 y E-954), colorante: E-163, aromas"
+  },
+  "origin": "España",
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/3a87cbc85e13a3bd2126ea70ba6c80b4.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3a87cbc85e13a3bd2126ea70ba6c80b4.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3a87cbc85e13a3bd2126ea70ba6c80b4.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/06c53571f5765682e059a0e72c18f8b5.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/06c53571f5765682e059a0e72c18f8b5.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/06c53571f5765682e059a0e72c18f8b5.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "0.93",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "0.934",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.40",
+    "unit_selector": true,
+    "unit_size": 1.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/66746/tinto-verano-00-sin-alcohol-limon-don-simon-botella",
+  "slug": "tinto-verano-00-sin-alcohol-limon-don-simon-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/3a87cbc85e13a3bd2126ea70ba6c80b4.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

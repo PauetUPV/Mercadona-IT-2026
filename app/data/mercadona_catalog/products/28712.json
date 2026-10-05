@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Beefeater",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 586,
+              "level": 2,
+              "name": "Ginebra",
+              "order": 15
+            }
+          ],
+          "id": 181,
+          "level": 1,
+          "name": "Licores",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": "40.0º",
+    "brand": "Beefeater",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Ginebra London Dry Gin Beefeater",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Ginebra",
+    "mandatory_mentions": "No contiene ninguna de las sustancias o productos que causan alergias o intolerancias recogidos en el anexo II del Reglamento 1169/2011. Nuestros productos están etiquetados de acuerdo a las reglas legales y de mercado sobre etiquetado de bebidas espirituosas",
+    "origin": "Reino Unido (el)",
+    "production_variant": "",
+    "storage_instructions": "Conservar en posición vertical. Conservar lejos de la luz directa del sol.",
+    "suppliers": [
+      {
+        "name": "Pernod Ricard España"
+      }
+    ],
+    "usage_instructions": "Puede consumirse con tónica y un twist de limón"
+  },
+  "display_name": "Ginebra London Dry Gin Beefeater",
+  "ean": "5000299605042",
+  "extra_info": [
+    null
+  ],
+  "id": "28712",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Ginebra (destilados de cereales y botánicos con agua)"
+  },
+  "origin": "Reino Unido (el)",
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/c8daf2871ce636e5135bb6f0772b363a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c8daf2871ce636e5135bb6f0772b363a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c8daf2871ce636e5135bb6f0772b363a.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/3a9a8ad373fcb619252a4696c9fcf049.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3a9a8ad373fcb619252a4696c9fcf049.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3a9a8ad373fcb619252a4696c9fcf049.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "19.29",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "19.286",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "13.50",
+    "unit_selector": true,
+    "unit_size": 0.7
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/28712/ginebra-london-dry-gin-beefeater-botella",
+  "slug": "ginebra-london-dry-gin-beefeater-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/c8daf2871ce636e5135bb6f0772b363a.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

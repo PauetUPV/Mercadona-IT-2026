@@ -1,0 +1,109 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Evax",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 615,
+              "level": 2,
+              "name": "Compresas",
+              "order": 241
+            }
+          ],
+          "id": 190,
+          "level": 1,
+          "name": "Higiene íntima",
+          "order": 241
+        }
+      ],
+      "id": 20,
+      "level": 0,
+      "name": "Cuidado facial y corporal",
+      "order": 241
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Evax",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Compresa sin alas normal Evax cotton like",
+    "legal_name": "",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "Procter & Gamble España"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Compresa sin alas normal Evax cotton like",
+  "ean": "8410108659086",
+  "extra_info": [
+    null
+  ],
+  "id": "7880",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": ""
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/645246b85d8f223302ffbf4a8d33b495.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/645246b85d8f223302ffbf4a8d33b495.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/645246b85d8f223302ffbf4a8d33b495.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/58750e8bd60dace1a94bfd187a5db3af.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/58750e8bd60dace1a94bfd187a5db3af.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/58750e8bd60dace1a94bfd187a5db3af.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "0.14",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "0.143",
+    "selling_method": 0,
+    "size_format": "ud",
+    "tax_percentage": "4.000",
+    "total_units": 20,
+    "unit_name": "ud.",
+    "unit_price": "2.85",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/7880/compresa-sin-alas-normal-evax-cotton-like-paquete",
+  "slug": "compresa-sin-alas-normal-evax-cotton-like-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/645246b85d8f223302ffbf4a8d33b495.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

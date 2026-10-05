@@ -1,0 +1,635 @@
+{
+  "categories": [
+    {
+      "id": 283,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Vacuno",
+      "order": 17,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Carpaccio de vacuno",
+          "id": "2632",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "37.27",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "37.273",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "4.10",
+            "unit_selector": true,
+            "unit_size": 0.11
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/2632/carpaccio-vacuno-bandeja",
+          "slug": "carpaccio-vacuno-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/920087fbcb8bea3e467e0217a5a6605b.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Filetes hígado de vacuno",
+          "id": "2861",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "10.40",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "10.400",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "4.58",
+            "unit_selector": true,
+            "unit_size": 0.44
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/2861/filetes-higado-vacuno-anojo-bandeja",
+          "slug": "filetes-higado-vacuno-anojo-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/24156fe6b0306feb2fce8d37151c4951.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Tacos de vacuno marinado para guisar",
+          "id": "12746",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "para guisar",
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "16.20",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "16.200",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "9.72",
+            "unit_selector": true,
+            "unit_size": 0.6
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/12746/tacos-vacuno-marinado-guisar-bandeja",
+          "slug": "tacos-vacuno-marinado-guisar-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/11d48444a3718c5ed5a2305a7ec166f9.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Filetes de vacuno marinado extra tiernos",
+          "id": "60633",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "extra tiernos",
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "17.70",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "17.700",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "8.85",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/60633/filetes-vacuno-marinado-extra-tiernos-bandeja",
+          "slug": "filetes-vacuno-marinado-extra-tiernos-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/9437daf14d0308544806484662f01064.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Steak Tartar de vacuno marinado",
+          "id": "8308",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "marinado",
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "27.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "27.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "5.40",
+            "unit_selector": true,
+            "unit_size": 0.2
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/8308/steak-tartar-vacuno-marinado-bandeja",
+          "slug": "steak-tartar-vacuno-marinado-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/58d4a4d588449ac3c4d61a055bbcb4a2.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Entrecot de vacuno añojo",
+          "id": "8932",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "26.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "26.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "6.63",
+            "unit_selector": true,
+            "unit_size": 0.25
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/8932/entrecot-vacuno-anojo-paquete",
+          "slug": "entrecot-vacuno-anojo-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/f1689d147753c4db994079c174ab9673.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Lomo de vacuno añojo",
+          "id": "8934",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "23.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "23.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "7.92",
+            "unit_selector": true,
+            "unit_size": 0.337
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/8934/lomo-vacuno-anojo-paquete",
+          "slug": "lomo-vacuno-anojo-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/7d534c725ee434cc5c63c346fefb446d.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Solomillo de vacuno",
+          "id": "8931",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "41.40",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "41.400",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "11.80",
+            "unit_selector": true,
+            "unit_size": 0.285
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/8931/solomillo-vacuno-paquete",
+          "slug": "solomillo-vacuno-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/4d2a9c0c311d70e2ddd490a50f5fd39b.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Filetes de vacuno añojo para plancha",
+          "id": "8936",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "para plancha",
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "19.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "19.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "7.98",
+            "unit_selector": true,
+            "unit_size": 0.42
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/8936/filetes-vacuno-anojo-plancha-bandeja",
+          "slug": "filetes-vacuno-anojo-plancha-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/28c1933c0ccd355992aabcd1663286d1.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Escalopín de vacuno añojo para plancha",
+          "id": "8937",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "para plancha",
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "18.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "18.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "7.59",
+            "unit_selector": true,
+            "unit_size": 0.41
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/8937/escalopin-vacuno-anojo-plancha-bandeja",
+          "slug": "escalopin-vacuno-anojo-plancha-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/87cf6d5942c81820a7ccc300218fe608.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Churrasquito de vacuno añojo",
+          "id": "14485",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "añojo",
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "21.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "21.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.55",
+            "unit_selector": true,
+            "unit_size": 0.165
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14485/churrasquito-vacuno-anojo-bandeja",
+          "slug": "churrasquito-vacuno-anojo-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/ca671a930747bd720275ab34ee0ecfc3.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Entrecot de vacuno angus",
+          "id": "23964",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "38.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "38.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "7.79",
+            "unit_selector": true,
+            "unit_size": 0.205
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/23964/entrecot-vacuno-angus-paquete",
+          "slug": "entrecot-vacuno-angus-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/76bc331c752b86f0f878dab9d194a0b4.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    }
+  ],
+  "id": 40,
+  "is_extended": false,
+  "layout": 1,
+  "name": "Vacuno",
+  "next_category": {
+    "id": 45,
+    "name": "Empanados y elaborados"
+  },
+  "order": 17,
+  "published": true
+}

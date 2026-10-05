@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 904,
+              "level": 2,
+              "name": "Otros Helados",
+              "order": 213
+            }
+          ],
+          "id": 154,
+          "level": 1,
+          "name": "Helados",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Castañas heladas de nata Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Helado Crema",
+    "mandatory_mentions": "Sin gluten. El contenido de sal obedece exclusivamente al sodio presente de forma natural en el alimento",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar a Temperaturas inferiores a -18C. Una vez descongelado no volver a congelar",
+    "suppliers": [
+      {
+        "name": "HELADOS ESTIU, S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Castañas heladas de nata Hacendado",
+  "ean": "8480000641458",
+  "extra_info": [
+    ""
+  ],
+  "id": "64145",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Cobertura especial de chocolate (26%) (azúcar, pasta de cacao, grasa vegetal de coco y palma, manteca de cacao,  lecitina de <strong>soja</strong> (E-322), vainillina, <strong>trazas de leche y de frutos de cáscara</strong>), <strong>leche</strong> desnatada reconstituida, <strong>nata</strong> líquida <strong>(derivado lácteo)</strong>, azúcar, <strong>mantequilla</strong> <strong>(derivado lácteo)</strong>, dextrosa, <strong>lactosa</strong> y proteínas de la <strong>leche</strong>, (emulgente (mono-diglicéridos y ésteres poliglicéridos de ácidos grasos), estabilizantes (gomas de garrofín y guar, carragenanos), <strong>trazas de leche y sulfitos</strong>), <strong>leche</strong> desnatada en polvo y aroma."
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/168223df7e783f76660c02762e9ee9e0.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/168223df7e783f76660c02762e9ee9e0.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/168223df7e783f76660c02762e9ee9e0.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/06496c4b3cfa6d399b6d9799611ebd0d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/06496c4b3cfa6d399b6d9799611ebd0d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/06496c4b3cfa6d399b6d9799611ebd0d.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "9.38",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.08,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "9.375",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": 4,
+    "unit_name": "ud.",
+    "unit_price": "3.00",
+    "unit_selector": true,
+    "unit_size": 0.32
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/64145/castanas-heladas-nata-hacendado-caja",
+  "slug": "castanas-heladas-nata-hacendado-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/168223df7e783f76660c02762e9ee9e0.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

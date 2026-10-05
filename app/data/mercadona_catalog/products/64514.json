@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 869,
+              "level": 2,
+              "name": "Granizados y helados de hielo",
+              "order": 213
+            }
+          ],
+          "id": 154,
+          "level": 1,
+          "name": "Helados",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Flash popitos Hacendado compuesto por sabor naranja, limón, fresa, lima-limón y cola",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "BEBIDA REFRESCANTE AROMATIZADA CON AZÚCAR Y EDULCORANTES",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco",
+    "suppliers": [
+      {
+        "name": "EUROGRANIZADOS"
+      }
+    ],
+    "usage_instructions": "PARA TOMAR LOS POPITOS CONGELADOS, INTRODUCIR LAS UNIDADES SUELTAS EN EL CONGELADOR, A TEMPERATURA INFERIOR A -18ºC, MÍNIMO 24 HORAS ANTES DE SU CONSUMO."
+  },
+  "display_name": "Flash popitos Hacendado",
+  "ean": "8480000645142",
+  "extra_info": [
+    ""
+  ],
+  "id": "64514",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Popito sabor naranja: agua, azúcar, acidulante (ácido cítrico), aroma natural de naranja, estabilizante (goma xantana), colorante (extracto de pimentón), edulcorantes (sucralosa, aspartamo), conservadores (E 202, E 211), antioxidante (ácido ascórbico). Popito sabor limón: : agua, azúcar, acidulante (ácido cítrico), aroma natural, estabilizantes (goma xantana, goma arábiga, E 445, colorante (luteína), edulcorantes (sucralosa, aspartamo), conservadores (E 202, E 211), antioxidante (ácido ascórbico)).Popito sabor fresa: agua, azúcar, acidulante (ácido cítrico), aroma, colorante (antocianinas), estabilizante (goma xantana), edulcorantes (sucralosa, aspartamo), conservadores (E 202, E 211). Popito sabor lima limón: agua, azúcar, acidulante (ácido cítrico), aromas, estabilizantes (goma xantana, goma arábiga, E 445), colorantes (luteína, E 131), edulcorantes (sucralosa, aspartamo), conservadores (E 202, E 211), antioxidante (ácido ascórbico). Popito sabor cola: agua, azúcar, acidulante (ácido cítrico), colorante (E 150d), estabilizante (goma xantana), edulcorantes (sucralosa, aspartamo), conservadores (E 202, E 211), aroma."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/46be1e6613b52ef5021db696adb53827.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/46be1e6613b52ef5021db696adb53827.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/46be1e6613b52ef5021db696adb53827.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/d807dae5f691579bc70b672501496f8f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d807dae5f691579bc70b672501496f8f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d807dae5f691579bc70b672501496f8f.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "1.500",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": 15,
+    "unit_name": "ud.",
+    "unit_price": "1.50",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/64514/flash-popitos-hacendado-paquete",
+  "slug": "flash-popitos-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/46be1e6613b52ef5021db696adb53827.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

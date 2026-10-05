@@ -1,0 +1,114 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 408,
+              "level": 2,
+              "name": "Yogures de sabores",
+              "order": 598
+            }
+          ],
+          "id": 104,
+          "level": 1,
+          "name": "Yogures naturales y sabores",
+          "order": 598
+        }
+      ],
+      "id": 11,
+      "level": 0,
+      "name": "Postres y yogures",
+      "order": 598
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Yogur sabor limón Hacendado",
+    "legal_name": "Yogur sabor a limón",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 1C y 8C.",
+    "suppliers": [
+      {
+        "name": "SCHREIBER FOODS ESPAÑA, S.L"
+      },
+      {
+        "name": "Schreiber Foods España, S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Yogur sabor limón Hacendado",
+  "ean": "8402001048388",
+  "extra_info": [
+    null
+  ],
+  "id": "20041",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Leche</strong> fresca pasteurizada parcialmente desnatada (Origen: España), azúcar, <strong>leche</strong> en polvo desnatada, proteínas de la <strong>leche</strong>, aromas, colorante (curcumina) y fermentos lácticos. Sin gluten."
+  },
+  "origin": null,
+  "packaging": "Pack-4",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/c0979282d56bcf000db771295b59ab32.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c0979282d56bcf000db771295b59ab32.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c0979282d56bcf000db771295b59ab32.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/70ebb5866afc8f41933b86881391019f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/70ebb5866afc8f41933b86881391019f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/70ebb5866afc8f41933b86881391019f.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.125,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "1.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 4,
+    "unit_name": "ud.",
+    "unit_price": "0.75",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/20041/yogur-sabor-limon-hacendado-pack-4",
+  "slug": "yogur-sabor-limon-hacendado-pack-4",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/c0979282d56bcf000db771295b59ab32.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

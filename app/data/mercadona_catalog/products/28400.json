@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Martini",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 589,
+              "level": 2,
+              "name": "Vermouth y aperitivos",
+              "order": 15
+            }
+          ],
+          "id": 181,
+          "level": 1,
+          "name": "Licores",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": "15.0º",
+    "brand": "Martini",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Vermouth blanco Martini",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Vermouth",
+    "mandatory_mentions": "",
+    "origin": "Italia",
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "BACARDI ESPAÑA, S.A."
+      },
+      {
+        "name": "MARTINI & ROSSI, SpA"
+      }
+    ],
+    "usage_instructions": "MARTINI  BIANCO & TONICCon una propuesta de bebida larga para MARTINI  Bianco, la tónica suaviza las notas de la vainilla dulce ofreciendo un final fresco y limpio. Una mezcla a partes iguales con la tónica 50/50 asegura el equilibrio perfecto de sabores, mientras que la copa balón, llena de hielo, ayuda a concentrar la fragancia de los botánicos, para una experiencia aromática más intensa.Llena una copa balón con hielo, mezcla Martini Bianco y tónica a partes iguales y decora con una rodaja de lima."
+  },
+  "display_name": "Vermouth blanco Martini",
+  "ean": "3011932000829",
+  "extra_info": [
+    ""
+  ],
+  "id": "28400",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>dióxido de azufre y sulfitos</strong>.",
+    "ingredients": "Vino, <strong>Contiene Sulfitos</strong>, azúcar, alcohol, extractos aromáticos naturales, Conservadores: <strong>E-224</strong>, aroma natural(vanillina)."
+  },
+  "origin": "Italia",
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/9cfa4e725ca5cdcbb278c4f892b66cdc.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9cfa4e725ca5cdcbb278c4f892b66cdc.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9cfa4e725ca5cdcbb278c4f892b66cdc.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/5d456d84690ec8238b1a6181baded76e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5d456d84690ec8238b1a6181baded76e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5d456d84690ec8238b1a6181baded76e.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "11.90",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "11.900",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "11.90",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/28400/vermouth-bianco-martini-botella",
+  "slug": "vermouth-bianco-martini-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/9cfa4e725ca5cdcbb278c4f892b66cdc.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

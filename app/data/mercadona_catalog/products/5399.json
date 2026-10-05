@@ -1,0 +1,114 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Olives García",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 489,
+              "level": 2,
+              "name": "Pepinillos y otros encurtidos",
+              "order": 9
+            }
+          ],
+          "id": 135,
+          "level": 1,
+          "name": "Aceitunas y encurtidos",
+          "order": 9
+        }
+      ],
+      "id": 15,
+      "level": 0,
+      "name": "Aperitivos",
+      "order": 9
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Olives García",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Cebolla roja Olives García en vinagre",
+    "legal_name": "Encurtido de cebolla",
+    "mandatory_mentions": "",
+    "origin": "Benigánim",
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 2 y 6C. Una vez abierto mantener en refrigeración y consumir antes de 15 días.",
+    "suppliers": [
+      {
+        "name": "OLIVES GARCIA, SA"
+      },
+      {
+        "name": "OLIVES GARCÍA S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Cebolla roja Olives García en vinagre",
+  "ean": "8426188006139",
+  "extra_info": [
+    null
+  ],
+  "id": "5399",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>dióxido de azufre y sulfitos</strong>.",
+    "ingredients": "Cebollas, agua, vinagre, sal, acidulante (E-270), conservadores (E-223 y E-202) y colorantes (E-162 y E-163). Contiene <strong>Sulfitos</strong>."
+  },
+  "origin": "Benigánim",
+  "packaging": "Bote",
+  "photos": [
+    {
+      "perspective": 3,
+      "regular": "https://prod-mercadona.imgix.net/images/20e98ec437560f346494561cf8d9bfb7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/20e98ec437560f346494561cf8d9bfb7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/20e98ec437560f346494561cf8d9bfb7.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/eb5f13be1543d66fc0d931788dccfccd.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/eb5f13be1543d66fc0d931788dccfccd.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/eb5f13be1543d66fc0d931788dccfccd.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.38",
+    "bunch_selector": false,
+    "drained_weight": 0.37,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "8.514",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.15",
+    "unit_selector": true,
+    "unit_size": 0.72
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/5399/cebolla-roja-olives-garcia-vinagre-bote",
+  "slug": "cebolla-roja-olives-garcia-vinagre-bote",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/20e98ec437560f346494561cf8d9bfb7.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

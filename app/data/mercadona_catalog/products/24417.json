@@ -1,0 +1,138 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 513,
+              "level": 2,
+              "name": "Pescado",
+              "order": 213
+            }
+          ],
+          "id": 149,
+          "level": 1,
+          "name": "Pescado",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 276,
+              "level": 2,
+              "name": "Sepia, pulpo y calamar congelado",
+              "order": 442
+            }
+          ],
+          "id": 34,
+          "level": 1,
+          "name": "Pescado congelado",
+          "order": 442
+        }
+      ],
+      "id": 2,
+      "level": 0,
+      "name": "Marisco y pescado",
+      "order": 442
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Calamar grande Hacendado congelado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Calamar grande de la India",
+    "mandatory_mentions": "Producto congelado.",
+    "origin": "España",
+    "production_variant": "Producto de peso variable. Por favor, consulte la etiqueta del producto para conocer el contenido neto del mismo.",
+    "storage_instructions": "Conservar a -18C. Una vez descongelado, no volver a congelar y consumir en 24h",
+    "suppliers": [
+      {
+        "name": "Grupo Profand, S.L."
+      },
+      {
+        "name": "Grupo Profand, S.L.U."
+      }
+    ],
+    "usage_instructions": "Cocinar previamente cocinado."
+  },
+  "display_name": "Calamar grande Hacendado congelado",
+  "ean": "8480000244178",
+  "extra_info": [
+    null
+  ],
+  "id": "24417",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": "congelado",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>moluscos y productos a base de moluscos</strong>. Puede contener <strong>pescado y productos a base de pescado</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>.",
+    "ingredients": "Calamar de la India (Loligo duvauceli) (<strong>moluscos</strong>), agua, sal. Puede contener <strong>pescado</strong>  y/o <strong>crustáceos</strong>."
+  },
+  "origin": "España",
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/f932659cddf67f574bb41f1d4c775830.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f932659cddf67f574bb41f1d4c775830.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f932659cddf67f574bb41f1d4c775830.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/20de9320845b72e42a3ec41eb9f68250.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/20de9320845b72e42a3ec41eb9f68250.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/20de9320845b72e42a3ec41eb9f68250.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "17.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "17.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.50",
+    "unit_selector": true,
+    "unit_size": 0.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/24417/calamar-grande-hacendado-congelado-pieza",
+  "slug": "calamar-grande-hacendado-congelado-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/f932659cddf67f574bb41f1d4c775830.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

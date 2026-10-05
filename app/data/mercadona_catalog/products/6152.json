@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 446,
+              "level": 2,
+              "name": "Pasta rellena",
+              "order": 10
+            }
+          ],
+          "id": 120,
+          "level": 1,
+          "name": "Pasta y fideos",
+          "order": 10
+        }
+      ],
+      "id": 13,
+      "level": 0,
+      "name": "Arroz, legumbres y pasta",
+      "order": 10
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pasta fresca ravioli rellena de calabaza con cebolla Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Pasta alimenticia fresca al huevo rellena de calabaza y crema de quesos",
+    "mandatory_mentions": "",
+    "origin": "Italia",
+    "production_variant": "Variante",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "Bertagni 1882 S.p.a."
+      }
+    ],
+    "usage_instructions": "Modo de Preparacion: no separar la pasta. Hervir, Echar sin separar la pasta, 3  min fuego medio sin remover. No volcar sacar sin espumadera."
+  },
+  "display_name": "Pasta fresca ravioli rellena de calabaza con cebolla Hacendado",
+  "ean": "8006013990163",
+  "extra_info": [
+    ""
+  ],
+  "id": "6152",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>pescado y productos a base de pescado</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>. Puede contener <strong>sw</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "PASTA ALIMENTICIA FRESCA CON RELLENO DE CALABAZA Y QUESO. Ingredientes: Pasta alimenticia fresca con relleno de calabaza y queso. Relleno (60%): Calabaza 39,9 %, nata (<strong>leche</strong>), pan rallado (harina de <strong>trigo</strong>, sal, levadura), aceite de semillas de girasol, queso mozzarella 5,2 (<strong>leche</strong>), queso rallado 4,8 % (<strong>leche</strong>), agua, mantequilla (<strong>leche</strong>), azúcar, sal, harina de arroz, almidón de maíz , salvia, pimienta negra. Pasta (40 %): Harina de <strong>trigo</strong>, <strong>huevos</strong> 28,5 %, semola de <strong>trigo</strong> duro. <strong>Puede contener trazas de soja, crustaceos, pescado, frutos de cáscara (nueces).</strong></strong>"
+  },
+  "origin": "Italia",
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/eec1449156943e7b3b9c1eab105b6443.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/eec1449156943e7b3b9c1eab105b6443.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/eec1449156943e7b3b9c1eab105b6443.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/e4c478a85c4530c4b6925860ee553483.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e4c478a85c4530c4b6925860ee553483.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e4c478a85c4530c4b6925860ee553483.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "7.80",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.800",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.95",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/6152/pasta-fresca-medialunas-calabaza-crema-quesos-hacendado-bandeja",
+  "slug": "pasta-fresca-medialunas-calabaza-crema-quesos-hacendado-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/eec1449156943e7b3b9c1eab105b6443.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

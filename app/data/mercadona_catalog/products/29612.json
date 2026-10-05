@@ -1,0 +1,122 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Aquarius",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 548,
+              "level": 2,
+              "name": "Isotónico",
+              "order": 8
+            }
+          ],
+          "id": 163,
+          "level": 1,
+          "name": "Isotónico y energético",
+          "order": 8
+        }
+      ],
+      "id": 18,
+      "level": 0,
+      "name": "Agua y refrescos",
+      "order": 8
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Aquarius",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Bebida isotónica limón Aquarius zero azúcar",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Bebida refrescante aromatizada. con edulcorantes.",
+    "mandatory_mentions": "Contiene una fuente de fenilalanina.",
+    "origin": null,
+    "production_variant": "-",
+    "storage_instructions": "Proteger de la luz solar. Preservar de olores agresivos. Conservar en lugar limpio, fresco y seco. Servir frío",
+    "suppliers": [
+      {
+        "name": "\"CC European Partners Iberia; S.L.U.\""
+      },
+      {
+        "name": "CC European Partners Iberia, S.L.U."
+      },
+      {
+        "name": "Coca-Cola European Partners Iberia, S.L.U."
+      },
+      {
+        "name": "Coca-Cola Iberian Partners, S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Bebida isotónica limón Aquarius zero azúcar",
+  "ean": "5449000171771",
+  "extra_info": [
+    null
+  ],
+  "id": "29612",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "zero azúcar",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Ingredientes: agua, acidulante ácido cítrico, estabilizantes: E-576, E-414 y E-445, potenciadores del sabor: cloruro sódico, fosfato potásico y fosfato cálcico, edulcorantes: acesulfamo K, sucralosa y aspartamo, *sales minerales: gluconato de zinc y seleniato de sodio y aromas. contiene una fuente de fenilalanina."
+  },
+  "origin": null,
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/72450daac660bb2e1050dc0f91c685b4.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/72450daac660bb2e1050dc0f91c685b4.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/72450daac660bb2e1050dc0f91c685b4.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/778b1d7ab268a13530b71f35d1686745.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/778b1d7ab268a13530b71f35d1686745.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/778b1d7ab268a13530b71f35d1686745.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.13",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "1.127",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.69",
+    "unit_selector": true,
+    "unit_size": 1.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/29612/bebida-isotonica-limon-aquarius-zero-azucar-botella",
+  "slug": "bebida-isotonica-limon-aquarius-zero-azucar-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/72450daac660bb2e1050dc0f91c685b4.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

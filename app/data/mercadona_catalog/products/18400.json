@@ -1,0 +1,112 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 278,
+              "level": 2,
+              "name": "Salazones",
+              "order": 442
+            }
+          ],
+          "id": 36,
+          "level": 1,
+          "name": "Salazones y ahumados",
+          "order": 442
+        }
+      ],
+      "id": 2,
+      "level": 0,
+      "name": "Marisco y pescado",
+      "order": 442
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Filetes de anchoa en aceite de oliva Hacendado",
+    "legal_name": "Filetes de anchoa en aceite de oliva",
+    "mandatory_mentions": "Producto elaborado en Marruecos",
+    "origin": "Marruecos",
+    "production_variant": "",
+    "storage_instructions": "Mantengase entre 3 y 10C.",
+    "suppliers": [
+      {
+        "name": "Flott S.P.A"
+      },
+      {
+        "name": "Flott spa"
+      }
+    ],
+    "usage_instructions": "Sacar del frigorífico 30 minutos antes de consumir.Una vez abierto, cubrir con aceite y consumir antes de 5 días."
+  },
+  "display_name": "Filetes de anchoa en aceite de oliva Hacendado",
+  "ean": "8480000184009",
+  "extra_info": [
+    null
+  ],
+  "id": "18400",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>pescado y productos a base de pescado</strong>.",
+    "ingredients": "<strong>Anchoa</strong> (Engraulis Encrasicolus), aceite de oliva y sal"
+  },
+  "origin": "Marruecos",
+  "packaging": "Lata",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/8171455f30ce725f844a35ee92b06850.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8171455f30ce725f844a35ee92b06850.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8171455f30ce725f844a35ee92b06850.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/8bc0eb87aadec04c6ad7b07c760562a7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8bc0eb87aadec04c6ad7b07c760562a7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8bc0eb87aadec04c6ad7b07c760562a7.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "30.95",
+    "bunch_selector": false,
+    "drained_weight": 0.029,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "44.828",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.30",
+    "unit_selector": true,
+    "unit_size": 0.042
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/18400/filetes-anchoa-aceite-oliva-hacendado-lata",
+  "slug": "filetes-anchoa-aceite-oliva-hacendado-lata",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/8171455f30ce725f844a35ee92b06850.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

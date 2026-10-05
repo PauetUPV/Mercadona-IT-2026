@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Don Simón",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 404,
+              "level": 2,
+              "name": "Fruta + leche",
+              "order": 793
+            }
+          ],
+          "id": 99,
+          "level": 1,
+          "name": "Fruta variada",
+          "order": 793
+        }
+      ],
+      "id": 10,
+      "level": 0,
+      "name": "Zumos",
+      "order": 793
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Don Simón",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Fruta + leche Proteína 20 gr Don Simón con colágeno y vitamina C",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Bebida refrescante mixta de zumo de frutas, leche y proteínas (arroz y colágeno). Con edulcorante. Con vitamina C.",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Agitar antes de servir. Una vez abierto, conservar refrigerado y consumir antes de transcurridos 5 días.",
+    "suppliers": [
+      {
+        "name": "J.GARCÍA CARRIÓN 1890 S.L"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Fruta + leche Proteína 20 gr Don Simón con colágeno y vitamina C",
+  "ean": "8410261644240",
+  "extra_info": [
+    ""
+  ],
+  "id": "24586",
+  "is_bulk": false,
+  "is_new_arrival": true,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "con colágeno y vitamina C",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<p>Agua, zumo de frutas parcialmente a partir de concentrado (20 %) en proporción variable (piña, uva, mango y manzana), leche desnatada (15 %), proteína de arroz (4,3 %), colágeno hidrolizado (2 %), estabilizantes [pectina (E-466) y E-460i], acidulantes (ácido málico y ácido cítrico), aromas, colorante (beta-caroteno), edulcorante (sucralosa) y vitamina C."
+  },
+  "origin": null,
+  "packaging": "Brik",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/41c75f233ccc1ab5937622d493ddb19d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/41c75f233ccc1ab5937622d493ddb19d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/41c75f233ccc1ab5937622d493ddb19d.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/af1695050c991d5a36b81918dd036834.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/af1695050c991d5a36b81918dd036834.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/af1695050c991d5a36b81918dd036834.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "5.000",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.65",
+    "unit_selector": true,
+    "unit_size": 0.33
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/24586/fruta-leche-proteina-20-gr-don-simon-con-colageno-vitamina-c-brik",
+  "slug": "fruta-leche-proteina-20-gr-don-simon-con-colageno-vitamina-c-brik",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/41c75f233ccc1ab5937622d493ddb19d.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,128 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 847,
+              "level": 2,
+              "name": "Bacalao",
+              "order": 442
+            }
+          ],
+          "id": 31,
+          "level": 1,
+          "name": "Pescado fresco",
+          "order": 442
+        }
+      ],
+      "id": 2,
+      "level": 0,
+      "name": "Marisco y pescado",
+      "order": 442
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Bacalao al punto de sal descongelado con agua añadida",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Gadus morhua",
+    "mandatory_mentions": "Envasado en atmósfera protectora. Puede contener espinas.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 0ºC y 4ºC. Una vez abierto, consumir en 24h. Abrir 5 minutos antes de cocinar. Cocinar antes de consumir.",
+    "suppliers": [
+      {
+        "name": "Grupo Profand SLU"
+      },
+      {
+        "name": "Profand Zaragoza SLU"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Bacalao al punto de sal descongelado",
+  "ean": "8402001049224",
+  "extra_info": [
+    "El corte y número de piezas puede variar."
+  ],
+  "id": "87211",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": "descongelado",
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>moluscos y productos a base de moluscos</strong>. Contiene <strong>pescado y productos a base de pescado</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>.",
+    "ingredients": "Bacalao (<strong>pescado</strong>) (Gadus morhua) 90%, agua 9,25% y sal 0,75%. Puede contener trazas de <strong>crustáceos</strong> y <strong>moluscos</strong>."
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/ca53c73b6afd0d72635caaec9e3e3420.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ca53c73b6afd0d72635caaec9e3e3420.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ca53c73b6afd0d72635caaec9e3e3420.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/f70b3e013e0ebde3fa2eb063436804de.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f70b3e013e0ebde3fa2eb063436804de.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f70b3e013e0ebde3fa2eb063436804de.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/9fb082c814fa112fa67b60f6c97d1a7d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9fb082c814fa112fa67b60f6c97d1a7d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9fb082c814fa112fa67b60f6c97d1a7d.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/5e5d8c773eef6b10af706e921bd00f66.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5e5d8c773eef6b10af706e921bd00f66.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5e5d8c773eef6b10af706e921bd00f66.jpeg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "21.10",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "21.100",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "9.50",
+    "unit_selector": true,
+    "unit_size": 0.45
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/87211/bacalao-punto-sal-descongelado-con-agua-anadida-bandeja",
+  "slug": "bacalao-punto-sal-descongelado-con-agua-anadida-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/ca53c73b6afd0d72635caaec9e3e3420.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

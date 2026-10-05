@@ -1,0 +1,144 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 290,
+              "level": 2,
+              "name": "Carne congelada",
+              "order": 17
+            }
+          ],
+          "id": 47,
+          "level": 1,
+          "name": "Carne congelada",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 511,
+              "level": 2,
+              "name": "Carne",
+              "order": 213
+            }
+          ],
+          "id": 148,
+          "level": 1,
+          "name": "Carne",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pierna de lechal entera congelada",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Pierna de cabrito",
+    "mandatory_mentions": "Producto libre de OMG.",
+    "origin": "España",
+    "production_variant": "NO APLICA",
+    "storage_instructions": ". Conservar a <  -18ºC. Una vez descongelado, mantener en refrigeración, no volver a congelar y consumir en 24 h.",
+    "suppliers": [
+      {
+        "name": "EA Group S. Coop"
+      },
+      {
+        "name": "Frigoríficos Cárnicos las Forcas, SLU"
+      },
+      {
+        "name": "Iniciativas Comerciales Dadyma, S.L."
+      },
+      {
+        "name": "Moralejo Selección S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Pierna de lechal entera congelada",
+  "ean": "2105100040739",
+  "extra_info": [
+    null
+  ],
+  "id": "4073",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": "congelada",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": ""
+  },
+  "origin": "España",
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/87f0b79255b638658bad75dce3139871.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/87f0b79255b638658bad75dce3139871.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/87f0b79255b638658bad75dce3139871.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/880bde9aa368246f3d752c6447eb83b6.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/880bde9aa368246f3d752c6447eb83b6.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/880bde9aa368246f3d752c6447eb83b6.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "17.90",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "17.900",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "12.89",
+    "unit_selector": true,
+    "unit_size": 0.72
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/4073/pierna-lechal-entera-congelada-pieza",
+  "slug": "pierna-lechal-entera-congelada-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/87f0b79255b638658bad75dce3139871.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

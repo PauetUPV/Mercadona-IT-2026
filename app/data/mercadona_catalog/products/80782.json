@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 499,
+              "level": 2,
+              "name": "Ensaladilla",
+              "order": 597
+            }
+          ],
+          "id": 142,
+          "level": 1,
+          "name": "Platos preparados fríos",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Ensaladilla Delicias del mar Hacendado con surimi, piña y huevo",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Ensaladilla Cangrejo / Salada Delícias Do Mar",
+    "mandatory_mentions": "Sin gluten. Lote / Consumir preferentemente antes del: ver tapa;",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en el frigorífico entre 1C y 5C. Una vez abierto consumir antes de una semana;",
+    "suppliers": [
+      {
+        "name": "Productos Naturales de la Vega S.L.U"
+      }
+    ],
+    "usage_instructions": "Listo para comer"
+  },
+  "display_name": "Ensaladilla Delicias del mar Hacendado",
+  "ean": "8480000807823",
+  "extra_info": [
+    ""
+  ],
+  "id": "80782",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>frutos de cáscara</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>pescado y productos a base de pescado</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>moluscos y productos a base de moluscos</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Contiene <strong>dióxido de azufre y sulfitos</strong>. Contiene <strong>crustáceos y productos a base de crustáceos</strong>.",
+    "ingredients": "<strong>Surimi </strong>(48%) (<strong>pescado</strong>,  agua, almidón de patata y guisante, azúcar, clara de <strong>huevo</strong>, sal, estabilizadores: sorbitol, E-450, E-451 y E-452,  aroma, aceite de girasol, proteína de <strong>soja</strong>,  potenciadores del sabor: glutamato monosódico y E-640, colorantes: E-120 y  extracto de pimentón, carne de <strong>cangrejo  </strong>(<strong>crustáceos</strong>) (0,1%)),  salsa (25%) (aceite de girasol, kétchup (tomate, jarabe de glucosa, vinagre de  alcohol, almidón modificado de maíz, azúcar, sal, estabilizadores: goma garrofín, goma guar y pectina, acidulante: ácido cítrico, conservantes: sorbato  potásico y benzoato sódico, aroma), jarabe de sacarosa-glucosa, yema de <strong>huevo  </strong>(yema de <strong>huevo </strong>pasteurizada,  sal), vinagre  de vino blanco, aroma, brandy, zumo de limón,  zumo de naranja (zumo concentrado de naranja, conservante: E-220 (contiene <strong>sulfitos</strong>)),  sal, conservante: sorbato potásico, salsa worcester (vinagre de alcohol,  azúcar, agua, sal, sirope de caramelo, especias, aceite de limón),  estabilizador: goma xantana, almidón modificado de maíz (almidón modificado de  maíz, espesante: E-1422), salsa picante (pasta de pimiento cayena, pasta de  jalapeños rojos, vinagre de alcohol (contiene <strong>sulfitos</strong>), agua, sal,  espesante: goma xantana)), piña (18,4%), <strong>huevo  </strong>duro (8,6%). Puede contener trazas de <strong>mostaza</strong>, <strong>frutos secos</strong>, <strong>leche</strong> y <strong>moluscos</strong>."
+  },
+  "origin": null,
+  "packaging": "Tarrina",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/43a1461d20211d7bf5106f1632474d73.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/43a1461d20211d7bf5106f1632474d73.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/43a1461d20211d7bf5106f1632474d73.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/b7438987f1027a89a8ccab012fe67f00.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b7438987f1027a89a8ccab012fe67f00.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b7438987f1027a89a8ccab012fe67f00.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.40",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.400",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.60",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/80782/ensaladilla-cangrejo-hacendado-tarrina",
+  "slug": "ensaladilla-cangrejo-hacendado-tarrina",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/43a1461d20211d7bf5106f1632474d73.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

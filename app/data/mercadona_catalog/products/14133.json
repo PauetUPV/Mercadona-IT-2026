@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Chips Ahoy",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 360,
+              "level": 2,
+              "name": "Con chocolate y rellenas",
+              "order": 18
+            }
+          ],
+          "id": 80,
+          "level": 1,
+          "name": "Galletas",
+          "order": 18
+        }
+      ],
+      "id": 7,
+      "level": 0,
+      "name": "Cereales y galletas",
+      "order": 18
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Chips Ahoy",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Barritas de galleta bañadas en chocolate con leche Chips Ahoy",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Galletas con gotas de chocolate (11 %) parcialmente recubiertas con chocolate con leche (34 %).",
+    "mandatory_mentions": "",
+    "origin": "Francia",
+    "production_variant": "800000023337",
+    "storage_instructions": "Conservar en lugar seco. Proteger del calor.",
+    "suppliers": [
+      {
+        "name": "Mondelez España Commercial, S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Barritas de galleta bañadas en chocolate con leche Chips Ahoy",
+  "ean": "7622210660176",
+  "extra_info": [
+    ""
+  ],
+  "id": "14133",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>cereales que contengan gluten</strong>. Puede contener <strong>huevos y productos a base de huevo</strong>. Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>soja y productos a base de soja</strong>.",
+    "ingredients": "Ingredientes: azúcar, harina de TRIGO 33,5 %, grasas vegetales (palma, shea en proporción variable), pasta de cacao, manteca de cacao, suero de LECHE en polvo, LECHE desnatada en polvo, harina de arroz 1,6 %, grasa de LECHE, gasificantes (carbonatos de amonio,  carbonatos de sodio,  difosfatos), sal, emulgentes (lecitinas de SOJA,  E482,  E476), dextrosa, lactosa (de LECHE), harina de TRIGO malteado 0,1 %, GLUTEN de TRIGO, colorante (beta-caroteno), aromas.PUEDE CONTENER HUEVO."
+  },
+  "origin": "Francia",
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/fc1f3da1290f5b6e78f240714ebe9094.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/fc1f3da1290f5b6e78f240714ebe9094.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/fc1f3da1290f5b6e78f240714ebe9094.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/52bd74051645a59d7f66534f2bdfeb1a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/52bd74051645a59d7f66534f2bdfeb1a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/52bd74051645a59d7f66534f2bdfeb1a.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "10.71",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "10.715",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 5,
+    "unit_name": "barritas",
+    "unit_price": "1.50",
+    "unit_selector": true,
+    "unit_size": 0.14
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/14133/barritas-galleta-banadas-chocolate-con-leche-chips-ahoy-caja",
+  "slug": "barritas-galleta-banadas-chocolate-con-leche-chips-ahoy-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/fc1f3da1290f5b6e78f240714ebe9094.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

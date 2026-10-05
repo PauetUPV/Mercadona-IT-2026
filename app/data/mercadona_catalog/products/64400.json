@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 522,
+              "level": 2,
+              "name": "Tarrinas",
+              "order": 213
+            }
+          ],
+          "id": 154,
+          "level": 1,
+          "name": "Helados",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Helado de chocolate Hacendado con trocitos sabor chocolate",
+    "legal_name": "HELADO DE CREMA DE CHOCOLATE CON TROCITOS SABOR CHOCOLATE.",
+    "mandatory_mentions": "SIN GLUTEN",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en congelación a temperaturas inferiores a -18C Una vez descongelado no volver a congelar.",
+    "suppliers": [
+      {
+        "name": "AIADHESA"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Helado de chocolate Hacendado con trocitos sabor chocolate",
+  "ean": "8480000644008",
+  "extra_info": [
+    ""
+  ],
+  "id": "64400",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>frutos de cáscara</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "HELADO DE CREMA DE  CHOCOLATE CON TROCITOS SABOR CHOCOLATE. HELADO DE CREMA DE CHOCOLATE (93%). Ingredientes:<strong> leche</strong> desnatada  reconstituida, jarabe de glucosa y fructosa, mantequilla (<strong>leche</strong>),  azúcar,<strong> lactosa</strong> y proteínas de <strong>leche</strong>, cacao desgrasado, manteca  de cacao<strong>, </strong>yema de <strong>huevo</strong>, chocolate (contiene lecitina de <strong>soja</strong>),  emulgente (monoglicéridos y diglicéridos de ácidos grasos), estabilizantes  (goma garrofín, alginato sódico, goma guar, carragenanos). Sólidos<strong> </strong>de cacao: 7,8%. TROCITOS SABOR CHOCOLATE (7%).<strong> </strong>Ingredientes: azúcar,  cacao desgrasado, grasa de coco, grasa de coco totalmente  hidrogenada, emulgente (lecitina de <strong>soja</strong>),  sal, aroma. Trazas de <strong>frutos de cáscara</strong>."
+  },
+  "origin": null,
+  "packaging": "Tarrina",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/99bd1a90433c1400501702c7285f3485.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/99bd1a90433c1400501702c7285f3485.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/99bd1a90433c1400501702c7285f3485.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/945a510f76b83522a58be287662a9fe7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/945a510f76b83522a58be287662a9fe7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/945a510f76b83522a58be287662a9fe7.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.20",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "3.200",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.20",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/64400/helado-chocolate-hacendado-con-trocitos-sabor-chocolate-tarrina",
+  "slug": "helado-chocolate-hacendado-con-trocitos-sabor-chocolate-tarrina",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/99bd1a90433c1400501702c7285f3485.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

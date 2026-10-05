@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 419,
+              "level": 2,
+              "name": "Otros postres",
+              "order": 598
+            }
+          ],
+          "id": 111,
+          "level": 1,
+          "name": "Gelatina y otros postres",
+          "order": 598
+        }
+      ],
+      "id": 11,
+      "level": 0,
+      "name": "Postres y yogures",
+      "order": 598
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Yogur azucarado YogoMix Discos Hacendado con disquitos chocolateados",
+    "legal_name": "Yogur azucarado aromatizado y discos de chocolate  cubiertos de azúcar coloreado",
+    "mandatory_mentions": "- Marca de salubridad- Punto verde - Estos dos envases no pueden venderse separadamente- Pictogramas envases: amarillo - Contiene leche, gluten (cebada).  - Puede contener trazas de frutos de cáscara, gluten (trigo) y soja.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Consérvese en frío a + 6C máximo.",
+    "suppliers": [
+      {
+        "name": "EURIAL ULTRA FRAIS S.A.S.U"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Yogur azucarado YogoMix Discos Hacendado con disquitos chocolateados",
+  "ean": "8480000677662",
+  "extra_info": [
+    null
+  ],
+  "id": "67766",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>gb</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Yogur azucarado aromatizado (88%) : <strong>Leche</strong> parcialmente desnatada, azúcar (7.3%), <strong>lactosa</strong> y proteínas de <strong>leche</strong>, gelatina, fermentos lácticos (<strong>leche</strong>), aroma. Discos de chocolate con <strong>leche</strong> recubiertos de azúcar coloreado (12%) : chocolate con <strong>leche</strong> (12%) (azúcar, pasta de cacao, manteca de cacao, <strong>leche</strong> entera en polvo, emulgente (lecitinas)), recubrimiento (azúcar, almidón, agentes de recubrimiento (goma arábiga, cera carnauba, cera de abejas blanca y amarilla), zumo concentrado de uva, concentrado de algas, extracto de <strong>cebada</strong> malteada, colorantes (curcumina, riboflavinas, complejos cúpricos de clorofilas y clorofilinas, carotenoides, rojo de remolacha)). Contiene <strong>leche</strong>, <strong>gluten</strong> (<strong>cebada</strong>). Puede contener trazas de frutos de cascara, gluten (trigo) y soja."
+  },
+  "origin": null,
+  "packaging": "Pack-2",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/b3e44526c575ebd7930296cbb20800ad.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b3e44526c575ebd7930296cbb20800ad.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b3e44526c575ebd7930296cbb20800ad.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/0ea7d03d2dc28b55b16daedaa47e117e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0ea7d03d2dc28b55b16daedaa47e117e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0ea7d03d2dc28b55b16daedaa47e117e.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.33",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": 4,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.15,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "4.334",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 2,
+    "unit_name": "ud.",
+    "unit_price": "1.30",
+    "unit_selector": true,
+    "unit_size": 0.3
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/67766/yogur-azucarado-yogomix-discos-hacendado-con-disquitos-chocolateados-pack-2",
+  "slug": "yogur-azucarado-yogomix-discos-hacendado-con-disquitos-chocolateados-pack-2",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/b3e44526c575ebd7930296cbb20800ad.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

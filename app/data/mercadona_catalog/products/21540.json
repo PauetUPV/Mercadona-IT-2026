@@ -1,0 +1,107 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 330,
+              "level": 2,
+              "name": "Bollería dulce",
+              "order": 515
+            }
+          ],
+          "id": 65,
+          "level": 1,
+          "name": "Bollería de horno",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": "Ingredientes: Crema (31%)* (agua, azúcar, almidón modificado, suerode lecheen polvo, dextrosa, aceite refinado de girasol, espesante (E461), estabilizante (E516), fosfato disódico (E339II), difosfato tetrasódico (E450III)), proteína de leche, harina de arroz, conservador (E202), gelificante (E401), aroma, colorantes (beta-carotenos, extracto de pimentón)), harina de trigo (gluten), margarina (grasa vegetal (palma) y aceites vegetales en proporciones variables (girasol, nabina, soja), agua, emulgente (E471), sal, acidulante (ácido cítrico), antioxidantes (E304, E306), aroma natural, colorante (beta-caroteno)), agua, azúcar, levadura, sal, gluten de trigo, dextrosa, emulgente (E472E), antioxidante (E300), enzimas. Decorada con cacahuetey azúcar. Pintada con huevo..\n\nAlérgenos: suero, leche, trigo, gluten, cacahuete, huevo.\n\nPuede contener trazas de: Soja, Altramuces, Mostaza, Frutos de cáscara y derivados, Moluscos, Pescado, Sésamo, Crustáceos, Apio, Sulfitos.\n\nProducto preparado por Mercadona, S.A. (C/ Alfonso Roig Alfonso, s/n. Albalat dels Sorells 46135, Valencia).",
+    "danger_mentions": "",
+    "description": "Napolitana de crema",
+    "is_prepared_by_mercadona": true,
+    "legal_name": "C.NAPOLITANA CREMA (31%)",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco. Consumo preferente 24 horas desde su cocción.",
+    "suppliers": [
+      {
+        "name": "PANAMAR BAKERY GROUP, S.L."
+      }
+    ],
+    "usage_instructions": "Producto listo para consumo."
+  },
+  "display_name": "Napolitana de crema",
+  "ean": "8402001046872",
+  "extra_info": [
+    ""
+  ],
+  "id": "21540",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>moluscos y productos a base de moluscos</strong>. Puede contener <strong>pescado y productos a base de pescado</strong>. Puede contener <strong>altramuces y productos a base de altramuces</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>. Puede contener <strong>apio y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Puede contener <strong>dióxido de azufre y sulfitos</strong>. Puede contener <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Contiene <strong>cacahuetes y productos a base de cacahuetes</strong>. Puede contener <strong>frutos de cáscara</strong>. Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Crema (31%) (agua, azúcar, almidón modificado, <strong>suero</strong> de <strong>leche</strong> en polvo, dextrosa, aceite refinado de girasol, espesante (E461), estabilizante (E516, fosfato disódico (E339ii), difosfato tetrasódico (E450iii)), proteína de <strong>leche</strong>, harina de arroz, conservador (E202), gelificante (E401), aroma, colorantes (beta-carotenos, extracto de pimentón)), harina de <strong>trigo</strong> (<strong>gluten</strong>), margarina (grasa vegetal (palma) y aceites vegetales en proporciones variables (girasol, nabina, soja), agua, emulgente (E471), sal, acidulante (ácido cítrico), antioxidantes (E304, E306), aroma natural, colorante (beta-caroteno)), agua, azúcar, levadura, sal, <strong>gluten de trigo</strong>, dextrosa, emulgente (E472e), antioxidante (E300), enzimas. Decorada con <strong>cacahuete</strong> y azúcar. Pintada con <strong>huevo</strong>. Puede contener <strong>crustáceos</strong>, <strong>pescado</strong>, <strong>soja</strong>, <strong>frutos de cáscara</strong>, <strong>apio</strong>, <strong>mostaza</strong>, granos de <strong>sésamo</strong>, <strong>sulfitos</strong>, <strong>altramuces</strong>, <strong>moluscos</strong> y productos derivados."
+  },
+  "origin": null,
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 10,
+      "regular": "https://prod-mercadona.imgix.net/images/7da701df38538d298789a53175b055bc.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7da701df38538d298789a53175b055bc.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7da701df38538d298789a53175b055bc.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "7.92",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.917",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.95",
+    "unit_selector": true,
+    "unit_size": 0.12
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/21540/napolitana-crema-31-pieza",
+  "slug": "napolitana-crema-31-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/7da701df38538d298789a53175b055bc.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

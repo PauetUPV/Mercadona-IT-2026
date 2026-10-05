@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "DulZ.Ze",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 579,
+              "level": 2,
+              "name": "Vino lambrusco y espumoso",
+              "order": 15
+            }
+          ],
+          "id": 173,
+          "level": 1,
+          "name": "Vino lambrusco y espumoso",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": "5.5º",
+    "brand": "DulZ.Ze",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Frizzante blanco verdejo DulZ.Ze",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Frizzante",
+    "mandatory_mentions": "Apto para veganos.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Se recomienda guardar en lugar fresco y protegido de la luz solar.",
+    "suppliers": [
+      {
+        "name": "García Carrión 1890, S.L."
+      },
+      {
+        "name": "J.G.C., S.A."
+      }
+    ],
+    "usage_instructions": "Servir muy frío."
+  },
+  "display_name": "Frizzante blanco verdejo DulZ.Ze",
+  "ean": "8402001053801",
+  "extra_info": [
+    ""
+  ],
+  "id": "23972",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>dióxido de azufre y sulfitos</strong>.",
+    "ingredients": "Vino (uvas, conservador: anhídrido sulfuroso (<strong>sulfitos</strong>)), mosto de uva, agente estabilizante: ácido metatartárico, dioxido de carbono."
+  },
+  "origin": null,
+  "packaging": "Lata",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/6b43199caa46c2a61fb03a37a6ee020d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/6b43199caa46c2a61fb03a37a6ee020d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/6b43199caa46c2a61fb03a37a6ee020d.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/e5a9358f2074a3d73b2f60bad2dbd3d0.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e5a9358f2074a3d73b2f60bad2dbd3d0.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e5a9358f2074a3d73b2f60bad2dbd3d0.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.27",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": "        0.95",
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "2.273",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.75",
+    "unit_selector": true,
+    "unit_size": 0.33
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/23972/frizzante-blanco-verdejo-dulzze-lata",
+  "slug": "frizzante-blanco-verdejo-dulzze-lata",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/6b43199caa46c2a61fb03a37a6ee020d.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

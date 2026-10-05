@@ -1,0 +1,109 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Quartett",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 715,
+              "level": 2,
+              "name": "Alimentación húmeda",
+              "order": 443
+            }
+          ],
+          "id": 222,
+          "level": 1,
+          "name": "Gato",
+          "order": 443
+        }
+      ],
+      "id": 25,
+      "level": 0,
+      "name": "Mascotas",
+      "order": 443
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Quartett",
+    "counter_info": null,
+    "danger_mentions": null,
+    "description": "Gelatina gato adulto selección de pescado Quartett",
+    "is_prepared_by_mercadona": false,
+    "legal_name": null,
+    "mandatory_mentions": null,
+    "origin": null,
+    "production_variant": null,
+    "storage_instructions": null,
+    "suppliers": [],
+    "usage_instructions": null
+  },
+  "display_name": "Gelatina gato adulto selección de pescado Quartett",
+  "ean": "5900951301094",
+  "extra_info": [
+    null
+  ],
+  "id": "35267",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": null
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/786e674060bdb8273f461d172e20f582.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/786e674060bdb8273f461d172e20f582.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/786e674060bdb8273f461d172e20f582.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/2e01c538b7c345c9fac9765c5da21915.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/2e01c538b7c345c9fac9765c5da21915.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/2e01c538b7c345c9fac9765c5da21915.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.44",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.085,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.442",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 4,
+    "unit_name": "ud.",
+    "unit_price": "1.85",
+    "unit_selector": true,
+    "unit_size": 0.34
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/35267/gelatina-gato-adulto-seleccion-pescado-quartett-paquete",
+  "slug": "gelatina-gato-adulto-seleccion-pescado-quartett-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/786e674060bdb8273f461d172e20f582.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

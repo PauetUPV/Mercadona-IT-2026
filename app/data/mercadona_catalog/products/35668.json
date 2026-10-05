@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Lactovit",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 604,
+              "level": 2,
+              "name": "Gel",
+              "order": 241
+            }
+          ],
+          "id": 187,
+          "level": 1,
+          "name": "Gel y jabón de manos",
+          "order": 241
+        }
+      ],
+      "id": 20,
+      "level": 0,
+      "name": "Cuidado facial y corporal",
+      "order": 241
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Lactovit",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Gel de baño nutritivo Lactovit piel normal y seca",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "GRUPO AC MARCA (PERSONAL CARE)"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Gel de baño nutritivo Lactovit piel normal y seca",
+  "ean": "8411135007147",
+  "extra_info": [
+    ""
+  ],
+  "id": "35668",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "piel normal y seca",
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": ""
+  },
+  "origin": null,
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/05053a107955497f1762d614e0481923.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/05053a107955497f1762d614e0481923.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/05053a107955497f1762d614e0481923.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/04b9fdcfd5b0dd62f47ef4eed1bb3fd0.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/04b9fdcfd5b0dd62f47ef4eed1bb3fd0.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/04b9fdcfd5b0dd62f47ef4eed1bb3fd0.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.93",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 21,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "100 ml",
+    "reference_price": "0.394",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.95",
+    "unit_selector": true,
+    "unit_size": 0.75
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/35668/gel-bano-nutritivo-lactovit-piel-normal-seca-botella",
+  "slug": "gel-bano-nutritivo-lactovit-piel-normal-seca-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/05053a107955497f1762d614e0481923.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

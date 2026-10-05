@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 395,
+              "level": 2,
+              "name": "Golosinas",
+              "order": 11
+            }
+          ],
+          "id": 97,
+          "level": 1,
+          "name": "Golosinas",
+          "order": 11
+        }
+      ],
+      "id": 9,
+      "level": 0,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Golosinas Mini Mix Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "CARAMELO DE GOMA BRILLO",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "JAKE"
+      },
+      {
+        "name": "Jake"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Golosinas Mini Mix Hacendado",
+  "ean": "8402001052286",
+  "extra_info": [
+    ""
+  ],
+  "id": "24542",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Ingredientes: Jarabe de glucosa,    azúcar, gelatina, agua, acidulante: ácido cítrico, aromas, corrector de    acidez: citrato sódico, agente de recubrimiento: cera carnauba, colorantes:    curcumina, ácido carmínico y azul brillante FCF"
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/ffd2fe7f3c7a669af42ca6c4e8597fd5.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ffd2fe7f3c7a669af42ca6c4e8597fd5.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ffd2fe7f3c7a669af42ca6c4e8597fd5.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/9a9172d4c88c5d0bbec1ff88bdbe143b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9a9172d4c88c5d0bbec1ff88bdbe143b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9a9172d4c88c5d0bbec1ff88bdbe143b.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.33",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.334",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.60",
+    "unit_selector": true,
+    "unit_size": 0.3
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/24542/golosinas-mini-mix-hacendado-paquete",
+  "slug": "golosinas-mini-mix-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/ffd2fe7f3c7a669af42ca6c4e8597fd5.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

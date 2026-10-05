@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 339,
+              "level": 2,
+              "name": "Levadura y preparado repostería",
+              "order": 515
+            }
+          ],
+          "id": 69,
+          "level": 1,
+          "name": "Harina y preparado repostería",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Gasificante repostería casera Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Gasificante para repostería Litines",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar seco. Si se guarda en zona húmeda puede provocarse la reacción de efervescencia haciendo que el sobre se hinche.",
+    "suppliers": [
+      {
+        "name": "JESÚS NAVARRO, S.A."
+      }
+    ],
+    "usage_instructions": "GASIFICANTE REPOSTERÍA CASERA: En la preparación de bollos, magdalenas y otros, añada un sobre blanco (acidulantes) y otro de color (gasificante) por cada 200 g de harina, conseguirá una masa suave y esponjosa. SODA LITINES Y REFRESCOS: En una botella con tapón, añada a 1 litro de agua el contenido de 2 sobres de cada color. Agite y deje que se disuelva. Tapar la botella para no perder gas. Contiene 8 sobres de gasificante y 8 sobres de acidulantes."
+  },
+  "display_name": "Gasificante repostería casera Hacendado",
+  "ean": "8480000290045",
+  "extra_info": [
+    null
+  ],
+  "id": "29004",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Libre de <strong>ax</strong>.",
+    "ingredients": "Gasificante (bicarbonato sódico E-500ii) y acidulantes (ácido málico E-296 y ácido tartárico E-334)."
+  },
+  "origin": "España",
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/80529ada7d3e25ff3acd6254a8ebcebd.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/80529ada7d3e25ff3acd6254a8ebcebd.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/80529ada7d3e25ff3acd6254a8ebcebd.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/87820fff0cb936d7f022a6699bef680a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/87820fff0cb936d7f022a6699bef680a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/87820fff0cb936d7f022a6699bef680a.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "15.91",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "100 g",
+    "reference_price": "1.591",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 8,
+    "unit_name": "sobres",
+    "unit_price": "0.70",
+    "unit_selector": true,
+    "unit_size": 0.044
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/29004/gasificante-reposteria-casera-hacendado-caja",
+  "slug": "gasificante-reposteria-casera-hacendado-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/80529ada7d3e25ff3acd6254a8ebcebd.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,108 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Single",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 718,
+              "level": 2,
+              "name": "Aseo y cuidado",
+              "order": 443
+            }
+          ],
+          "id": 222,
+          "level": 1,
+          "name": "Gato",
+          "order": 443
+        }
+      ],
+      "id": 25,
+      "level": 0,
+      "name": "Mascotas",
+      "order": 443
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": "",
+    "brand": "Single",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Arena para gato de perlas sílice Single",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "",
+    "mandatory_mentions": "",
+    "origin": "",
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [],
+    "usage_instructions": ""
+  },
+  "display_name": "Arena para gato de perlas sílice Single",
+  "ean": "6950119900118",
+  "extra_info": [
+    null
+  ],
+  "id": "90947",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "",
+    "ingredients": ""
+  },
+  "origin": "",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/835c249bc054d7ae1c7f4cf171544c08.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/835c249bc054d7ae1c7f4cf171544c08.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/835c249bc054d7ae1c7f4cf171544c08.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/25d46356ca78e1c7e5173c0fce2fcd8f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/25d46356ca78e1c7e5173c0fce2fcd8f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/25d46356ca78e1c7e5173c0fce2fcd8f.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "0.84",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "0.838",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.35",
+    "unit_selector": true,
+    "unit_size": 4.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/90947/arena-gato-perlas-silice-single-paquete",
+  "slug": "arena-gato-perlas-silice-single-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/835c249bc054d7ae1c7f4cf171544c08.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

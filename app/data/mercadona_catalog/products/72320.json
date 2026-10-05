@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Bosque Verde",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 877,
+              "level": 2,
+              "name": "Insecticida eléctrico y otros",
+              "order": 374
+            }
+          ],
+          "id": 241,
+          "level": 1,
+          "name": "Insecticida y ambientador",
+          "order": 374
+        }
+      ],
+      "id": 26,
+      "level": 0,
+      "name": "Limpieza y hogar",
+      "order": 374
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Bosque Verde",
+    "counter_info": null,
+    "danger_mentions": "EUH 208 - Contiene 1,2-bencisotiazol-3(2H)-ona y Masa de reacción de 5-cloro-2-metil-2H-isotiazol-3-ona y 2-metil-2H-isotiazol-3-ona (3:1). Puede provocar una reacción alérgica. Muy tóxico para los organismos acuáticos, con efectos nocivos duraderos. Puede provocar una reacción alérgica en la piel. EUH 204 - Contiene isocianatos. Puede provocar una reacción alérgica.",
+    "description": "Trampa matacucarachas Bosque Verde",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "TRAMPA MATACUCARACHAS BOSQUE VERDE",
+    "mandatory_mentions": "",
+    "origin": "",
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "FRANCISCO ARAGÓN S.L.U."
+      },
+      {
+        "name": "Francisco Aragon"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Trampa matacucarachas Bosque Verde",
+  "ean": "8480000723208",
+  "extra_info": [
+    ""
+  ],
+  "id": "72320",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": ""
+  },
+  "origin": "",
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/a5b8197ce458afe573140e4e48ca9778.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a5b8197ce458afe573140e4e48ca9778.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a5b8197ce458afe573140e4e48ca9778.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/d1283612bc58e14c3a22b9c7c5f2ee7b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d1283612bc58e14c3a22b9c7c5f2ee7b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d1283612bc58e14c3a22b9c7c5f2ee7b.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "0.49",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "0.492",
+    "selling_method": 0,
+    "size_format": "ud",
+    "tax_percentage": "21.000",
+    "total_units": 6,
+    "unit_name": "ud.",
+    "unit_price": "2.95",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/72320/trampa-matacucarachas-bosque-verde-caja",
+  "slug": "trampa-matacucarachas-bosque-verde-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/a5b8197ce458afe573140e4e48ca9778.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

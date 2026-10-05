@@ -1,0 +1,115 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Deliplus",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 685,
+              "level": 2,
+              "name": "Fitoterapia",
+              "order": 305
+            }
+          ],
+          "id": 213,
+          "level": 1,
+          "name": "Fitoterapia",
+          "order": 305
+        }
+      ],
+      "id": 23,
+      "level": 0,
+      "name": "Fitoterapia y parafarmacia",
+      "order": 305
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Deliplus",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Cápsulas Quemagrasas Deliplus",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Complemento alimenticio elaborado a base de Especies Vegetales y Vitamina C.",
+    "mandatory_mentions": "No superar la dosis diaria expresamente recomendada. Los complementos alimenticios no deben ser utilizados como sustitutos de una dieta variada y equilibrada y un estilo de vida saludable. Mantener fuera del alcance de los niños.Advertencia: no recomendado en embarazo, lactancia y niños menores de 14 años. En personas con diabetes, consultar con su médico antes de consumir el producto.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Ambiente seco y fresco.",
+    "suppliers": [
+      {
+        "name": "LABORATORIOS YNSADIET S.A."
+      },
+      {
+        "name": "Pridaho Farma S.L."
+      }
+    ],
+    "usage_instructions": "Tomar 2 cápsulas al día.1 cápsula en la comida y otra en la cena."
+  },
+  "display_name": "Cápsulas Quemagrasas Deliplus",
+  "ean": "8480000790637",
+  "extra_info": [
+    ""
+  ],
+  "id": "79063",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Ingredientes: Antiaglomerantes (Almidón de maíz, Celulosa, Silicato de magnesio, Estearato de magnesio y Dióxido de silicio), Mango Africano extracto seco IGOB 131 (Mangifera indica sub. Gabonensis, semilla), Coleus Forskohlii extracto seco (Coleus Forskohlii, raiz), Vitamina C (Ascorbato sódico). Componentes de la cubierta de la cápsula: Hipromelosa (hidroxipropilmetilcelulosa) y agua."
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/093324a34d82cd8d40d53c131d5a953f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/093324a34d82cd8d40d53c131d5a953f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/093324a34d82cd8d40d53c131d5a953f.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/9e048cd032993706e00d80487aaf09ac.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9e048cd032993706e00d80487aaf09ac.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9e048cd032993706e00d80487aaf09ac.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "0.13",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "100 g",
+    "reference_price": "22.068",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 30,
+    "unit_name": "cápsulas",
+    "unit_price": "3.95",
+    "unit_selector": true,
+    "unit_size": 0.01785
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/79063/capsulas-quemagrasas-deliplus-elaborado-base-especies-vegetales-vitamina-c-caja",
+  "slug": "capsulas-quemagrasas-deliplus-elaborado-base-especies-vegetales-vitamina-c-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/093324a34d82cd8d40d53c131d5a953f.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

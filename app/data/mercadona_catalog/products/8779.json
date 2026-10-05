@@ -1,0 +1,122 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 539,
+              "level": 2,
+              "name": "Limón",
+              "order": 8
+            }
+          ],
+          "id": 159,
+          "level": 1,
+          "name": "Refresco de naranja y de limón",
+          "order": 8
+        }
+      ],
+      "id": 18,
+      "level": 0,
+      "name": "Agua y refrescos",
+      "order": 8
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Refresco Fanta limón zero azúcares añadidos",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Bebida refrescante de zumo de frutas. con azúcares y edulcorantes",
+    "mandatory_mentions": "Contiene una fuente de fenilalanina.",
+    "origin": null,
+    "production_variant": "-",
+    "storage_instructions": "Proteger de la luz solar. Preservar de olores agresivos. Conservar en lugar limpio, fresco y seco. Servir frío",
+    "suppliers": [
+      {
+        "name": "CC European Partners Iberia, S.L.U."
+      },
+      {
+        "name": "Coca-Cola Europacific Partners Iberia, S.L.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Refresco Fanta limón zero azúcares añadidos",
+  "ean": "5449000324122",
+  "extra_info": [
+    ""
+  ],
+  "id": "8779",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "zero azúcares añadidos",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Agua carbonatada, 6% zumo de limón a partir de concentrado, azúcar, acidulantes: ácido málico (E-296) y ácido cítrico (E-330), edulcorantes: acesulfamo K (E-950), aspartamo y neohesperidina dc (E-959), antioxidante ácido ascórbico (E-300), corrector de acidez citrato sódico (E-331), conservador sorbato potásico (E-202), estabilizantes: goma arábiga (E-414) y ésteres glicéridos de colofonia de madera (E-445), aromas naturales de limón y otros aromas naturales y colorante betacaroteno (E-160a)."
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/a43822de73609245d3e46628eca989ee.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a43822de73609245d3e46628eca989ee.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a43822de73609245d3e46628eca989ee.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/f467de5d2371b9eb57ec020d55509d2c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f467de5d2371b9eb57ec020d55509d2c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f467de5d2371b9eb57ec020d55509d2c.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/63538062cc6f34844a27289a6bd81b8e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/63538062cc6f34844a27289a6bd81b8e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/63538062cc6f34844a27289a6bd81b8e.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.33",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.33,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "2.334",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": 8,
+    "unit_name": "latas",
+    "unit_price": "6.16",
+    "unit_selector": true,
+    "unit_size": 2.64
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/8779/refresco-fanta-limon-zero-azucares-anadidos-pack-8",
+  "slug": "refresco-fanta-limon-zero-azucares-anadidos-pack-8",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/a43822de73609245d3e46628eca989ee.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

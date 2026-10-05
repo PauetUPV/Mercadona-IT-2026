@@ -1,0 +1,109 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Bosque Verde",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 727,
+              "level": 2,
+              "name": "Suavizante",
+              "order": 374
+            }
+          ],
+          "id": 226,
+          "level": 1,
+          "name": "Detergente y suavizante ropa",
+          "order": 374
+        }
+      ],
+      "id": 26,
+      "level": 0,
+      "name": "Limpieza y hogar",
+      "order": 374
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Bosque Verde",
+    "counter_info": null,
+    "danger_mentions": null,
+    "description": "Perfumador ropa Dahlía Bosque Verde",
+    "is_prepared_by_mercadona": false,
+    "legal_name": null,
+    "mandatory_mentions": null,
+    "origin": null,
+    "production_variant": null,
+    "storage_instructions": null,
+    "suppliers": [],
+    "usage_instructions": null
+  },
+  "display_name": "Perfumador ropa Dahlía Bosque Verde",
+  "ean": "8402001051340",
+  "extra_info": [
+    ""
+  ],
+  "id": "24048",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": null
+  },
+  "origin": null,
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/9fc0be4bb2b83e4a278ab9c484d602f8.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9fc0be4bb2b83e4a278ab9c484d602f8.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9fc0be4bb2b83e4a278ab9c484d602f8.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/1be745d3d175c226ce01465a8e8c472f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1be745d3d175c226ce01465a8e8c472f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1be745d3d175c226ce01465a8e8c472f.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.51",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "4.514",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": 36,
+    "unit_name": "lavados",
+    "unit_price": "3.25",
+    "unit_selector": true,
+    "unit_size": 0.72
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/24048/perfumador-ropa-dahlia-bosque-verde-botella",
+  "slug": "perfumador-ropa-dahlia-bosque-verde-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/9fc0be4bb2b83e4a278ab9c484d602f8.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

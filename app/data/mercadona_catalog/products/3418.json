@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 253,
+              "level": 2,
+              "name": "Otras frutas",
+              "order": 306
+            }
+          ],
+          "id": 27,
+          "level": 1,
+          "name": "Fruta",
+          "order": 306
+        }
+      ],
+      "id": 1,
+      "level": 0,
+      "name": "Fruta y verdura",
+      "order": 306
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Paraguayo",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Paraguayo",
+    "mandatory_mentions": "",
+    "origin": "Murcia",
+    "production_variant": "Producto a granel. El contenido neto del mismo se determinará en el punto de venta.",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "Anecoop S. Coop."
+      },
+      {
+        "name": "S.A.T. 1596 Nufri"
+      },
+      {
+        "name": "Tany Nature S.A."
+      },
+      {
+        "name": "UNILAND, S.C."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Paraguayo",
+  "ean": "8480000034182",
+  "extra_info": [
+    null
+  ],
+  "id": "3418",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": ""
+  },
+  "origin": "Murcia",
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 10,
+      "regular": "https://prod-mercadona.imgix.net/images/691d5a89b3753ae06e5770e5891ef709.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/691d5a89b3753ae06e5770e5891ef709.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/691d5a89b3753ae06e5770e5891ef709.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "2.75",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "2.750",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.39",
+    "unit_selector": true,
+    "unit_size": 0.14
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/3418/paraguayo-pieza",
+  "slug": "paraguayo-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/691d5a89b3753ae06e5770e5891ef709.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": "2026-09-09T22:00:00+00:00",
+  "unavailable_weekdays": []
+}

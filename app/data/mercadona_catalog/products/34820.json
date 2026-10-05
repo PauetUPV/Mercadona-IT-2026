@@ -1,0 +1,112 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 479,
+              "level": 2,
+              "name": "Frutos secos",
+              "order": 9
+            }
+          ],
+          "id": 133,
+          "level": 1,
+          "name": "Frutos secos y fruta desecada",
+          "order": 9
+        }
+      ],
+      "id": 15,
+      "level": 0,
+      "name": "Aperitivos",
+      "order": 9
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Cacahuete frito con sal Hacendado pelado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "CACAHUETE FRITO",
+    "mandatory_mentions": "Envasado en atmósfera protectora. Este producto por su tamaño no lo deben consumir menores de 5 años.",
+    "origin": "Argentina",
+    "production_variant": "",
+    "storage_instructions": "Proteger de la luz. Conservar en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "IMPORTACO CASA PONS S.A.U."
+      }
+    ],
+    "usage_instructions": "Una vez abierto el envase, conservarlo cerrado y consumir el producto preferentemente en el plazo de una semana."
+  },
+  "display_name": "Cacahuete frito con sal Hacendado pelado",
+  "ean": "8480000348203",
+  "extra_info": [
+    null
+  ],
+  "id": "34820",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>cacahuetes y productos a base de cacahuetes</strong>. Puede contener <strong>frutos de cáscara</strong>.",
+    "ingredients": "<strong>CACAHUETE</strong>, sal y aceite refinado de girasol. <strong>TRAZAS DE FRUTOS DE CÁSCARA.</strong>"
+  },
+  "origin": "Argentina",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/621404b6085cae9938997dd3f360b029.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/621404b6085cae9938997dd3f360b029.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/621404b6085cae9938997dd3f360b029.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/6d2a3903d103352cd848498115049d37.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/6d2a3903d103352cd848498115049d37.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/6d2a3903d103352cd848498115049d37.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.60",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "3.600",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.90",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/34820/cacahuete-frito-con-sal-hacendado-pelado-paquete",
+  "slug": "cacahuete-frito-con-sal-hacendado-pelado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/621404b6085cae9938997dd3f360b029.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

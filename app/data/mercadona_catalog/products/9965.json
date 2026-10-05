@@ -1,0 +1,112 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 330,
+              "level": 2,
+              "name": "Bollería dulce",
+              "order": 515
+            }
+          ],
+          "id": 65,
+          "level": 1,
+          "name": "Bollería de horno",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Bizcocho con azúcar moreno y nueces",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Bizcocho con azúcar moreno y nueces",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "Pastisart Iberia, S.L.U"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Bizcocho con azúcar moreno y nueces",
+  "ean": "8402001026447",
+  "extra_info": [
+    ""
+  ],
+  "id": "9965",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>sw</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Puede contener <strong>dióxido de azufre y sulfitos</strong>. Contiene <strong>frutos de cáscara</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "Azúcar moreno 20%, harina de <strong>trigo</strong> (<strong>gluten</strong>), aceite de girasol, <strong>huevo</strong> líquido pasteurizado, <strong>nueces</strong> (<strong>frutos de cáscara</strong>) 8%, agua, humectante (glicerina), jarabe de glucosa-fructosa, <strong>leche</strong> entera en polvo, azúcar, corteza de limón, sal, espesante (goma xantana), gasificantes (difosfatos, carbonatos de sodio). Puede contener trazas de <strong>soja</strong>, <strong>sulfitos</strong>, <strong>mostaza</strong> y <strong>otros frutos de cáscara</strong>."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/a1be45d525db48eb2a1cf77ff37b4301.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a1be45d525db48eb2a1cf77ff37b4301.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a1be45d525db48eb2a1cf77ff37b4301.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/b623a1f40bdad70be19405b1e9053c0a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b623a1f40bdad70be19405b1e9053c0a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b623a1f40bdad70be19405b1e9053c0a.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "8.38",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "8.375",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.35",
+    "unit_selector": true,
+    "unit_size": 0.4
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/9965/bizcocho-con-azucar-moreno-nueces-bandeja",
+  "slug": "bizcocho-con-azucar-moreno-nueces-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/a1be45d525db48eb2a1cf77ff37b4301.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

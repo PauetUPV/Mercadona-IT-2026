@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 894,
+              "level": 2,
+              "name": "Bombones",
+              "order": 213
+            }
+          ],
+          "id": 154,
+          "level": 1,
+          "name": "Helados",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Helado bombón pistacho Hacendado sabor almendra con salsa de pistacho",
+    "legal_name": "Helado sabor almendra con cobertura especial de pistacho (30,4%), salsa de pistacho (7,4%)y granillo de pistacho (4,5%)",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar a temperaturas inferiores a -18 c.",
+    "suppliers": [
+      {
+        "name": "Helados Estiu S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Helado bombón pistacho Hacendado sabor almendra con salsa de pistacho",
+  "ean": "8402001045264",
+  "extra_info": [
+    ""
+  ],
+  "id": "21604",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>sa</strong>. Contiene <strong>ml</strong>. Contiene <strong>st</strong>. Puede contener <strong>frutos de cáscara</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Leche</strong> desnatada reconstituida, azúcar, aceite refinado de girasol, grasas vegetales (coco y palma), granillo de <strong>pistacho</strong> (4,5%), <strong>lactosa</strong> y proteínas de la <strong>leche</strong>, <strong>leche</strong> entera en polvo, suero de <strong>leche</strong>, grasa vegetal (coco), pasta de <strong>almendra</strong> (2,9%), pasta de <strong>pistacho</strong> (2,6%), jarabe de glucosa y fructosa, cacao desgrasado en polvo, sal, emulgentes (lecitinas (<strong>soja</strong>), monoglicéridos y diglicéridos de ácidos grasos), estabilizantes (goma garrofín, goma guar, carragenanos), extracto de espirulina, colorante (E 161b) y aroma. Puede contener trazas de otros <strong>frutos de cáscara</strong>."
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/d93c19c2465958d0ae9debbbdbd0c29f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d93c19c2465958d0ae9debbbdbd0c29f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d93c19c2465958d0ae9debbbdbd0c29f.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/461b86eb3765714ede7374e566358b2f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/461b86eb3765714ede7374e566358b2f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/461b86eb3765714ede7374e566358b2f.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "8.52",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "8.519",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": 6,
+    "unit_name": "ud.",
+    "unit_price": "4.60",
+    "unit_selector": true,
+    "unit_size": 0.54
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/21604/helado-bombon-pistacho-hacendado-con-cobertura-salsa-granillo-pistacho-caja",
+  "slug": "helado-bombon-pistacho-hacendado-con-cobertura-salsa-granillo-pistacho-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/d93c19c2465958d0ae9debbbdbd0c29f.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

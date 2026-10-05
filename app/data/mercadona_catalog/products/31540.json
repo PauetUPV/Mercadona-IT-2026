@@ -1,0 +1,143 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 354,
+              "level": 2,
+              "name": "Huevos",
+              "order": 373
+            }
+          ],
+          "id": 77,
+          "level": 1,
+          "name": "Huevos",
+          "order": 373
+        }
+      ],
+      "id": 6,
+      "level": 0,
+      "name": "Huevos, leche y mantequilla",
+      "order": 373
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Huevos grandes L",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "6 huevos de gallinas sueltas en el gallinero",
+    "mandatory_mentions": "",
+    "origin": "Castilla La Mancha",
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "Avícola Barco, S.L."
+      },
+      {
+        "name": "Avícola Mondejana, S.L."
+      },
+      {
+        "name": "GRANJA PINILLA, S.L"
+      },
+      {
+        "name": "Granja Pinilla"
+      },
+      {
+        "name": "Huevos Guillen Canarias"
+      },
+      {
+        "name": "Huevos Guillen Canarias, S.L.U."
+      },
+      {
+        "name": "Huevos Guillen S.L."
+      },
+      {
+        "name": "Marcopolo comercio, S.L. (GRUPO EUROVO)"
+      },
+      {
+        "name": "Mercadona"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Huevos grandes L",
+  "ean": "8402001028250",
+  "extra_info": [
+    ""
+  ],
+  "id": "31540",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": ""
+  },
+  "origin": "Castilla La Mancha",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/f320cc362d58afd514c38aae399c6cec.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f320cc362d58afd514c38aae399c6cec.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f320cc362d58afd514c38aae399c6cec.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/c30680387e1d495aa90d6a99cbbde42c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c30680387e1d495aa90d6a99cbbde42c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c30680387e1d495aa90d6a99cbbde42c.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/87d4542e073597853f9fcbca88f08b77.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/87d4542e073597853f9fcbca88f08b77.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/87d4542e073597853f9fcbca88f08b77.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "0.30",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "dc",
+    "reference_price": "3.600",
+    "selling_method": 0,
+    "size_format": "ud",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.80",
+    "unit_selector": true,
+    "unit_size": 6.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/31540/huevos-grandes-l-paquete",
+  "slug": "huevos-grandes-l-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/f320cc362d58afd514c38aae399c6cec.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

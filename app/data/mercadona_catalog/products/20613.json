@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 413,
+              "level": 2,
+              "name": "Yogures líquidos",
+              "order": 598
+            }
+          ],
+          "id": 108,
+          "level": 1,
+          "name": "Yogures líquidos",
+          "order": 598
+        }
+      ],
+      "id": 11,
+      "level": 0,
+      "name": "Postres y yogures",
+      "order": 598
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Bebida láctea de fresa y plátano Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Leche fermentada para beber con fresa y plátano",
+    "mandatory_mentions": "Sin gluten. Producido en: Ver 2 letras junto a fecha de caducidad.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 1C y 8C. Una vez abierto consumir en 3 días.",
+    "suppliers": [
+      {
+        "name": "Schreiber Foods España S.L."
+      }
+    ],
+    "usage_instructions": "Agitar antes de servir."
+  },
+  "display_name": "Bebida láctea de fresa y plátano Hacendado",
+  "ean": "8480000206138",
+  "extra_info": [
+    null
+  ],
+  "id": "20613",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Leche</strong> pasteurizada parcialmente desnatada (Origen: España), agua azúcar, fruta (2.3%) (fresa (1.15%) y plátano (1.15%)), sólidos <strong>lácteos</strong>, <strong>leche</strong> en polvo desnatada, almidón modificado de maíz, estabilizante (pectina), aromas, fermentos <strong>lácticos</strong>, colorante (carmín y curcumina) y conservador (sorbato potásico)."
+  },
+  "origin": null,
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/f046b855d2fb60c7fc6c10e9bf21b65a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f046b855d2fb60c7fc6c10e9bf21b65a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f046b855d2fb60c7fc6c10e9bf21b65a.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/13f4f4421f1bd69190a525f47caae8dd.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/13f4f4421f1bd69190a525f47caae8dd.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/13f4f4421f1bd69190a525f47caae8dd.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "1.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.50",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/20613/bebida-lactea-fresa-platano-hacendado-botella",
+  "slug": "bebida-lactea-fresa-platano-hacendado-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/f046b855d2fb60c7fc6c10e9bf21b65a.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

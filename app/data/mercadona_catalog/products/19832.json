@@ -1,0 +1,118 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 378,
+              "level": 2,
+              "name": "Azúcar",
+              "order": 11
+            }
+          ],
+          "id": 89,
+          "level": 1,
+          "name": "Azúcar y edulcorante",
+          "order": 11
+        }
+      ],
+      "id": 9,
+      "level": 0,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Azúcar moreno en sobres Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Azúcar Moreno de Caña",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco. El azúcar no caduca",
+    "suppliers": [
+      {
+        "name": "Soc.Coop.Gral Agropecuaria"
+      },
+      {
+        "name": "Sociedad Cooperativa General Agropecuaria"
+      },
+      {
+        "name": "Sociedad Cooperativa General Agropecuaria Acor"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Azúcar moreno en sobres Hacendado",
+  "ean": "8402001010545",
+  "extra_info": [
+    ""
+  ],
+  "id": "19832",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Azúcar moreno de caña"
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/4a853663e8a2e382621dac9f8eb7d4dd.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4a853663e8a2e382621dac9f8eb7d4dd.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4a853663e8a2e382621dac9f8eb7d4dd.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/4367a75a77192bcab027a8507f1fc6cb.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4367a75a77192bcab027a8507f1fc6cb.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4367a75a77192bcab027a8507f1fc6cb.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 50,
+    "unit_name": "sobres",
+    "unit_price": "1.75",
+    "unit_selector": true,
+    "unit_size": 0.35
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/19832/azucar-moreno-cana-sobres-hacendado-caja",
+  "slug": "azucar-moreno-cana-sobres-hacendado-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/4a853663e8a2e382621dac9f8eb7d4dd.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

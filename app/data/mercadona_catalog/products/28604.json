@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Ballantine's",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 584,
+              "level": 2,
+              "name": "Whisky",
+              "order": 15
+            }
+          ],
+          "id": 181,
+          "level": 1,
+          "name": "Licores",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": "40.0º",
+    "brand": "Ballantine's",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Whisky escocés Ballantine's",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Whisky escocés",
+    "mandatory_mentions": "Disfruta de un consumo responsable. 40º",
+    "origin": "Reino Unido (Escocia)",
+    "production_variant": "",
+    "storage_instructions": "Conservar alejada de luces intensas y en lugares con temperatura fresca y constante, en posición vertical.",
+    "suppliers": [
+      {
+        "name": "George Ballantine & Son LTD"
+      },
+      {
+        "name": "Pernod Ricard España"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Whisky escocés Ballantine's",
+  "ean": "5000299606292",
+  "extra_info": [
+    null
+  ],
+  "id": "28604",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Whisky escocés (destilados de malta y cereales con agua); Color (caramelo simple)"
+  },
+  "origin": "Reino Unido (Escocia)",
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/35e8d7fe259d796beafe0e1f113f7067.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/35e8d7fe259d796beafe0e1f113f7067.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/35e8d7fe259d796beafe0e1f113f7067.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/54227b0bfe888bb8d0fc10e371113cfa.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/54227b0bfe888bb8d0fc10e371113cfa.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/54227b0bfe888bb8d0fc10e371113cfa.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "18.93",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "18.929",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "13.25",
+    "unit_selector": true,
+    "unit_size": 0.7
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/28604/whisky-escoces-ballantines-botella",
+  "slug": "whisky-escoces-ballantines-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/35e8d7fe259d796beafe0e1f113f7067.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

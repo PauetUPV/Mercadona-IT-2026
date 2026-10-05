@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 301,
+              "level": 2,
+              "name": "Salchichón",
+              "order": 159
+            }
+          ],
+          "id": 51,
+          "level": 1,
+          "name": "Embutido curado",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Salchichón extra Hacendado lonchas",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Salchichón Extra con proteínas de la leche",
+    "mandatory_mentions": "Envasado en atmósfera protectora.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Mantener refrigerado entre 0C Y 5C. Una vez abierto se recomienda consumir antes de 5 días.",
+    "suppliers": [
+      {
+        "name": "Embutidos Monter S.L.U."
+      }
+    ],
+    "usage_instructions": "Abrir el envase 10 minutos antes de consumir el producto."
+  },
+  "display_name": "Salchichón extra Hacendado lonchas",
+  "ean": "8402001030246",
+  "extra_info": [
+    ""
+  ],
+  "id": "12086",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "lonchas",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Carne de cerdo, panceta, <strong>leche</strong> desnatada en polvo, sal, <strong>lactosa</strong>,dextrosa, especias, proteínas de la <strong>leche</strong>, antioxidante (E-301), aromas, conservadores (E-250, E-252) y colorante (E-120)"
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/efaa6452836b1e6523ad05e38cb56c4e.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/efaa6452836b1e6523ad05e38cb56c4e.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/efaa6452836b1e6523ad05e38cb56c4e.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/946d1944e62d5f1d2b68bba28acf2ff4.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/946d1944e62d5f1d2b68bba28acf2ff4.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/946d1944e62d5f1d2b68bba28acf2ff4.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "12.25",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.05,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "12.250",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 4,
+    "unit_name": "paquetes",
+    "unit_price": "2.45",
+    "unit_selector": true,
+    "unit_size": 0.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/12086/salchichon-extra-hacendado-lonchas",
+  "slug": "salchichon-extra-hacendado-lonchas",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/efaa6452836b1e6523ad05e38cb56c4e.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

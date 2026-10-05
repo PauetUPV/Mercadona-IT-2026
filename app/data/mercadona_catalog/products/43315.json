@@ -1,0 +1,112 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Bosque Verde",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 743,
+              "level": 2,
+              "name": "Limpiahogar",
+              "order": 374
+            }
+          ],
+          "id": 233,
+          "level": 1,
+          "name": "Limpiahogar y friegasuelos",
+          "order": 374
+        }
+      ],
+      "id": 26,
+      "level": 0,
+      "name": "Limpieza y hogar",
+      "order": 374
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Bosque Verde",
+    "counter_info": null,
+    "danger_mentions": "Provoca irritación ocular grave. Contiene Acetato de 4-terc-butilciclohexilo. Puede provocar una reacción alérgica.",
+    "description": "Limpiahogar Aloe Vera Bosque Verde concentrado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "",
+    "mandatory_mentions": "",
+    "origin": "",
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "SPB, S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Limpiahogar Aloe Vera Bosque Verde concentrado",
+  "ean": "8480000433152",
+  "extra_info": [
+    null
+  ],
+  "id": "43315",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": ""
+  },
+  "origin": "",
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/c52b4600f2909ecd893824fd423e58a7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c52b4600f2909ecd893824fd423e58a7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c52b4600f2909ecd893824fd423e58a7.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/270f225d3d7067f559a76d650191a38a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/270f225d3d7067f559a76d650191a38a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/270f225d3d7067f559a76d650191a38a.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.43",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 21,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "1.434",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.15",
+    "unit_selector": true,
+    "unit_size": 1.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/43315/limpiahogar-aloe-vera-bosque-verde-concentrado-botella",
+  "slug": "limpiahogar-aloe-vera-bosque-verde-concentrado-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/c52b4600f2909ecd893824fd423e58a7.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,135 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 513,
+              "level": 2,
+              "name": "Pescado",
+              "order": 213
+            }
+          ],
+          "id": 149,
+          "level": 1,
+          "name": "Pescado",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 274,
+              "level": 2,
+              "name": "Pescado congelado",
+              "order": 442
+            }
+          ],
+          "id": 34,
+          "level": 1,
+          "name": "Pescado congelado",
+          "order": 442
+        }
+      ],
+      "id": 2,
+      "level": 0,
+      "name": "Marisco y pescado",
+      "order": 442
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Filetes de panga Hacendado ultracongelados",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Filetes de Panga con agua añadida",
+    "mandatory_mentions": "",
+    "origin": "Vietnam",
+    "production_variant": "",
+    "storage_instructions": "Conservar a -18C.",
+    "suppliers": [
+      {
+        "name": "Mercadona S.A."
+      }
+    ],
+    "usage_instructions": "Descongelar en el frigorífico (0 - 4ºC) de 12 a 24 horas. Una vez descongelado no volver a congelar."
+  },
+  "display_name": "Filetes de panga Hacendado ultracongelados",
+  "ean": "8480000621917",
+  "extra_info": [
+    null
+  ],
+  "id": "62191",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "ultracongelados",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>pescado y productos a base de pescado</strong>.",
+    "ingredients": "Filetes de Panga (Pangasianodon hypophthalmus) (<strong>Pescado</strong>) (78%), agua (21%), sal, estabilizadores (E451), correctores de la acidez (E331, E332). Puede contener espinas."
+  },
+  "origin": "Vietnam",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/e5cb902b5acb5cd8f005ba60630c6973.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e5cb902b5acb5cd8f005ba60630c6973.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e5cb902b5acb5cd8f005ba60630c6973.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/05e4906eeecfa06547491f386db0bd52.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/05e4906eeecfa06547491f386db0bd52.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/05e4906eeecfa06547491f386db0bd52.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.17",
+    "bunch_selector": false,
+    "drained_weight": 0.9,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": "        4.75",
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.167",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "4.65",
+    "unit_selector": true,
+    "unit_size": null
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/62191/filetes-panga-hacendado-ultracongelados-paquete",
+  "slug": "filetes-panga-hacendado-ultracongelados-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/e5cb902b5acb5cd8f005ba60630c6973.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

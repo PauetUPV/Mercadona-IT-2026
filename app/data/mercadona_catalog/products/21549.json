@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 303,
+              "level": 2,
+              "name": "Bacón",
+              "order": 159
+            }
+          ],
+          "id": 52,
+          "level": 1,
+          "name": "Bacón y salchichas",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Torrezno precocinado Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "TORREZNO PREFRITO",
+    "mandatory_mentions": "Sin gluten",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Mantener refrigerado entre 0C y 5C",
+    "suppliers": [
+      {
+        "name": "INCARLOPSA"
+      }
+    ],
+    "usage_instructions": "o\tFreidora de aire: Retirar el film, introducir la bandeja con el producto con la corteza hacia arriba y calentar a 200ºC entre 17 - 20 minutos.  o\tHorno: Precalentar el horno a 200ºC. Retirar el film, introducir la bandeja con el producto con la corteza hacia arriba y cocinar en horno con calor superior a 200ºC durante 17 - 20 minutos."
+  },
+  "display_name": "Torrezno precocinado Hacendado",
+  "ean": "8402001047053",
+  "extra_info": [
+    ""
+  ],
+  "id": "21549",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Panceta de cerdo curada (Panceta de cerdo,  sal, pimentón, ajo y conservador (E-250))."
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/5108f6b6facdbfc57ce54d4f4d9969d1.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5108f6b6facdbfc57ce54d4f4d9969d1.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5108f6b6facdbfc57ce54d4f4d9969d1.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/3b54da167d1cb06b1d7d80d096604af4.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3b54da167d1cb06b1d7d80d096604af4.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3b54da167d1cb06b1d7d80d096604af4.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "17.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "17.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "7.35",
+    "unit_selector": true,
+    "unit_size": 0.42
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/21549/torrezno-precocinado-hacendado-bandeja",
+  "slug": "torrezno-precocinado-hacendado-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/5108f6b6facdbfc57ce54d4f4d9969d1.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

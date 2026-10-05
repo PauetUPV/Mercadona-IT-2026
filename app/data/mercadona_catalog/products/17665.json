@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 321,
+              "level": 2,
+              "name": "Pan de hamburguesa y wrap",
+              "order": 515
+            }
+          ],
+          "id": 60,
+          "level": 1,
+          "name": "Pan de molde y otras especialidades",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pan de burger Hacendado Rústico",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Pan especial",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Morato Iberia, S.L.U"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Pan de burger Hacendado Rústico",
+  "ean": "8402001057403",
+  "extra_info": [
+    ""
+  ],
+  "id": "17665",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "Rústico",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>centeno y productos derivados</strong>. Libre de <strong>ml</strong>. Puede contener <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Harina de <strong>trigo</strong> (<strong>gluten</strong>) (61%), agua, levadura, aceite refinado de girasol (2,7%), salvado de <strong>trigo</strong> (<strong>gluten</strong>), harina de <strong>centeno</strong> (<strong>gluten</strong>), azúcar, sal, vinagre de vino, masa madre de <strong>trigo</strong> integral inactiva (<strong>gluten</strong>), germen de <strong>trigo</strong> (<strong>gluten</strong>), <strong>gluten</strong> de <strong>trigo</strong>, emulgente (E-772e), conservadores (E-282, E-202, E-200), antioxidante (E-300). Puede contener trazas de <strong>semillas de sésamo</strong>, <strong>soja</strong> y <strong>mostaza</strong>. Sin lactosa."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/17b3a7964421bf5cf816bd81faa8a1b8.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/17b3a7964421bf5cf816bd81faa8a1b8.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/17b3a7964421bf5cf816bd81faa8a1b8.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/ecd93ffdb4244c826dae42f2703b5069.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ecd93ffdb4244c826dae42f2703b5069.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ecd93ffdb4244c826dae42f2703b5069.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.32",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "4.319",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 4,
+    "unit_name": "ud.",
+    "unit_price": "0.95",
+    "unit_selector": true,
+    "unit_size": 0.22
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/17665/pan-burger-hacendado-rustico-paquete",
+  "slug": "pan-burger-hacendado-rustico-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/17b3a7964421bf5cf816bd81faa8a1b8.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

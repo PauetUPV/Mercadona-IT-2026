@@ -1,0 +1,122 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Coca-Cola",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 530,
+              "level": 2,
+              "name": "Cola clásica",
+              "order": 8
+            }
+          ],
+          "id": 158,
+          "level": 1,
+          "name": "Refresco de cola",
+          "order": 8
+        }
+      ],
+      "id": 18,
+      "level": 0,
+      "name": "Agua y refrescos",
+      "order": 8
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Coca-Cola",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Refresco Coca-Cola",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Bebida refrescante aromatizada",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "-",
+    "storage_instructions": "Proteger de la luz solar. Preservar de olores agresivos. Conservar en lugar limpio, fresco y seco.",
+    "suppliers": [
+      {
+        "name": "\"CC European Partners Iberia; S.L.U.\""
+      },
+      {
+        "name": "CC European Partners Iberia, S.L.U."
+      },
+      {
+        "name": "Coca-Cola European Partners Iberia, S.L.U."
+      },
+      {
+        "name": "Coca-Cola Iberian Partners, S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Refresco Coca-Cola",
+  "ean": "5449000034298",
+  "extra_info": [
+    null
+  ],
+  "id": "27348",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Agua carbonatada, azúcar, colorante E-150d, acidulante E-338 y aromas naturales (incluyendo cafeína)."
+  },
+  "origin": null,
+  "packaging": "Pack-2",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/1c6c9390743b38ad5042c4428763a88c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1c6c9390743b38ad5042c4428763a88c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1c6c9390743b38ad5042c4428763a88c.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/4db89dd99a0a54ce0dfd86955be3fc50.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4db89dd99a0a54ce0dfd86955be3fc50.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4db89dd99a0a54ce0dfd86955be3fc50.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "0.95",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 2.0,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "0.950",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": 2,
+    "unit_name": "botellas",
+    "unit_price": "3.80",
+    "unit_selector": true,
+    "unit_size": 4.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/27348/refresco-coca-cola-pack-2",
+  "slug": "refresco-coca-cola-pack-2",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/1c6c9390743b38ad5042c4428763a88c.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,133 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 381,
+              "level": 2,
+              "name": "Chocolate con leche",
+              "order": 11
+            }
+          ],
+          "id": 92,
+          "level": 1,
+          "name": "Chocolate",
+          "order": 11
+        }
+      ],
+      "id": 9,
+      "level": 0,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 339,
+              "level": 2,
+              "name": "Levadura y preparado repostería",
+              "order": 515
+            }
+          ],
+          "id": 69,
+          "level": 1,
+          "name": "Harina y preparado repostería",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Chocolate con leche fundir Hacendado",
+    "legal_name": "CHOCOLATE CON LECHE FUNDIR Y POSTRES",
+    "mandatory_mentions": "SIN GLUTEN",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco, seco y alejado de olores. Temperatura ideal de conservación: 18ºC-20ºC",
+    "suppliers": [
+      {
+        "name": "Sanchis Mira S.A."
+      }
+    ],
+    "usage_instructions": "MICROONDAS: Rallar o trocear el chocolate y colocarlo en un recipiente adecuado y bien tapado. Introducirlo en el microondas y calentar hasta que el chocolate quede totalmente fundido. Remover hasta obtener una masa homogénea. BAÑO MARÍA: Colocar el chocolate troceado en un cazo y éste sobre otro recipiente con agua. Calentar y remover continuamente hasta obtener una masa homogénea."
+  },
+  "display_name": "Chocolate con leche fundir Hacendado",
+  "ean": "8480000125330",
+  "extra_info": [
+    null
+  ],
+  "id": "12533",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>frutos de cáscara</strong>.",
+    "ingredients": "Azúcar, pasta de cacao, <strong>LECHE</strong> entera en polvo (18%) manteca de cacao, <strong>LACTOSA</strong>, emulgente (lecitina de girasol), aroma natural de vainilla. Cacao. 36,5% mínimo. ALÉRGENOS: Contiene <strong>leche</strong>. Trazas de <strong>soja</strong> y <strong>frutos de cáscara</strong>."
+  },
+  "origin": null,
+  "packaging": "Tableta",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/5230162330fda1f7d9e46152ba7a087d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5230162330fda1f7d9e46152ba7a087d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5230162330fda1f7d9e46152ba7a087d.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/e8239a6c6cff71769380a5ac644c8037.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e8239a6c6cff71769380a5ac644c8037.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e8239a6c6cff71769380a5ac644c8037.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "11.25",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "11.250",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.25",
+    "unit_selector": true,
+    "unit_size": 0.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/12533/chocolate-con-leche-fundir-hacendado-tableta",
+  "slug": "chocolate-con-leche-fundir-hacendado-tableta",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/5230162330fda1f7d9e46152ba7a087d.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

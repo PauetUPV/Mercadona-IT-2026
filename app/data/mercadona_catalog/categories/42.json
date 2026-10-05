@@ -1,0 +1,442 @@
+{
+  "categories": [
+    {
+      "id": 285,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Conejo",
+      "order": 17,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Medio conejo troceado",
+          "id": "25972",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "9.40",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "9.400",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "5.64",
+            "unit_selector": true,
+            "unit_size": 0.6
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/25972/medio-conejo-troceado-bandeja",
+          "slug": "medio-conejo-troceado-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/f1dd2afe2729b8a5a95104788147cd27.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Conejo entero",
+          "id": "2797",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Pieza",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "8.60",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "8.600",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "10.41",
+            "unit_selector": true,
+            "unit_size": 1.21
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/2797/conejo-entero-pieza",
+          "slug": "conejo-entero-pieza",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/9d4f2a1f38c18b9e3ea6e4523882a709.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Paletillas de conejo",
+          "id": "25191",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "19.90",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "19.900",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "7.96",
+            "unit_selector": true,
+            "unit_size": 0.4
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/25191/paletillas-conejo-bandeja",
+          "slug": "paletillas-conejo-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/b3db9f16fc82f4d2b39b1e053f7f2cdc.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    },
+    {
+      "id": 284,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Cordero",
+      "order": 17,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Chuletas de cordero palo y riñonada",
+          "id": "21807",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "31.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "31.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "8.99",
+            "unit_selector": true,
+            "unit_size": 0.29
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/21807/chuletas-cordero-palo-rinonada-bandeja",
+          "slug": "chuletas-cordero-palo-rinonada-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/b8b6561a6b4d819835ac11e562558db7.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Filetes hígado de cordero",
+          "id": "2860",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "13.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "13.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "4.42",
+            "unit_selector": true,
+            "unit_size": 0.34
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/2860/filetes-higado-cordero-bandeja",
+          "slug": "filetes-higado-cordero-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/d1cb99db6ba095cc639db66bc24e425a.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Hamburguesa de cordero al romero",
+          "id": "8839",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "14.58",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "14.584",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 2,
+            "unit_name": "ud.",
+            "unit_price": "3.50",
+            "unit_selector": true,
+            "unit_size": 0.24
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/8839/burger-cordero-romero-paquete",
+          "slug": "burger-cordero-romero-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/ea1c49c71c2424324ad4ac73badbfedf.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Trozos de cordero para guisar",
+          "id": "21814",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "12.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "12.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "6.25",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/21814/tacos-cordero-guisar-bandeja",
+          "slug": "tacos-cordero-guisar-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/874e080c6030ece1445e23e9a57108aa.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Chuletas de cordero paletilla",
+          "id": "21810",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "24.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "24.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "7.10",
+            "unit_selector": true,
+            "unit_size": 0.29
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/21810/chuletas-cordero-paletilla-bandeja",
+          "slug": "chuletas-cordero-paletilla-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/0b2b4847f7f916d1e146f58f6ea82d30.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    }
+  ],
+  "id": 42,
+  "is_extended": false,
+  "layout": 1,
+  "name": "Conejo y cordero",
+  "next_category": {
+    "id": 43,
+    "name": "Embutido"
+  },
+  "order": 17,
+  "published": true
+}

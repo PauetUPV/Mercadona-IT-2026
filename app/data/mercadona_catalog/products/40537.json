@@ -1,0 +1,109 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Bosque Verde",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 722,
+              "level": 2,
+              "name": "Detergente líquido y gel",
+              "order": 374
+            }
+          ],
+          "id": 226,
+          "level": 1,
+          "name": "Detergente y suavizante ropa",
+          "order": 374
+        }
+      ],
+      "id": 26,
+      "level": 0,
+      "name": "Limpieza y hogar",
+      "order": 374
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Bosque Verde",
+    "counter_info": null,
+    "danger_mentions": "Provoca irritación ocular grave. Contiene Isoeugenol. Puede Provocar un reacción alergica.",
+    "description": "Detergente ropa de Color Bosque Verde líquido",
+    "legal_name": "",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "Bluesun Cosnumer Brands"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Detergente ropa de Color Bosque Verde líquido",
+  "ean": "8480000405371",
+  "extra_info": [
+    null
+  ],
+  "id": "40537",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": ""
+  },
+  "origin": null,
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/294613f06de31979a209314d0fe409d1.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/294613f06de31979a209314d0fe409d1.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/294613f06de31979a209314d0fe409d1.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/f817e7f7d47079ffe3484b4a115d0bcf.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f817e7f7d47079ffe3484b4a115d0bcf.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f817e7f7d47079ffe3484b4a115d0bcf.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.47",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 21,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "lv",
+    "reference_price": "0.096",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": 46,
+    "unit_name": "lavados",
+    "unit_price": "4.40",
+    "unit_selector": true,
+    "unit_size": 3.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/40537/detergente-ropa-color-bosque-verde-liquido-botella",
+  "slug": "detergente-ropa-color-bosque-verde-liquido-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/294613f06de31979a209314d0fe409d1.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,112 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 860,
+              "level": 2,
+              "name": "Churros",
+              "order": 213
+            }
+          ],
+          "id": 152,
+          "level": 1,
+          "name": "Tartas y churros",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Crepes Hacendado ultracongelados",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Crepe simples, pre-cocido y ultracongelado",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Almacenar a -18ºC. No vuelva a congelar después del proceso de descongelación.",
+    "suppliers": [
+      {
+        "name": "Novadolci S.A."
+      }
+    ],
+    "usage_instructions": "Microondas: Colocar 1 crepe en un recipiente apto para el micrrondas y calentar durante 80 segundos. Sartén: Derretir mantequilla en una sartén. Calentar 1 crepe durante, aproximadamente, 2 minutos a temperaturas moderada. Dar vuelta regularmente."
+  },
+  "display_name": "Crepes Hacendado ultracongelados",
+  "ean": "8480000635280",
+  "extra_info": [
+    null
+  ],
+  "id": "63528",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "Masa (67%): <strong>LECHE</strong>, harina de <strong>TRIGO</strong>, azúcar, <strong>HUEVO</strong> pasteurizado [<strong>HUEVO</strong>, conservante [E202], regulador de acidez [E330]], aceite refinado de girassol, sal, aroma de vainilla [substancias y preparaciones aromatizantes: propilenoglicol (70-75%), agua] y bicarbonato de sódio (E500ii)."
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/e559ed055911abfb4c900719db38ac6a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e559ed055911abfb4c900719db38ac6a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e559ed055911abfb4c900719db38ac6a.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/8a98a332b66634e212e8efa65ebec456.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8a98a332b66634e212e8efa65ebec456.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8a98a332b66634e212e8efa65ebec456.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.13",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.125",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 8,
+    "unit_name": "ud.",
+    "unit_price": "2.45",
+    "unit_selector": true,
+    "unit_size": 0.4
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/63528/crepes-hacendado-ultracongelados-caja",
+  "slug": "crepes-hacendado-ultracongelados-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/e559ed055911abfb4c900719db38ac6a.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

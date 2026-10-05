@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 510,
+              "level": 2,
+              "name": "Pasta",
+              "order": 213
+            }
+          ],
+          "id": 147,
+          "level": 1,
+          "name": "Arroz y pasta",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Canelones de carne Hacendado ultracongelados",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Canelones de carne ultracongelados",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "Información válida a partir del lote 26021X",
+    "storage_instructions": "Producto ultracongelado. Mantener a -18C. No volver a congelar una vez descongelado.",
+    "suppliers": [
+      {
+        "name": "AUDENS FOOD, S.A."
+      },
+      {
+        "name": "Audens Food, S.A."
+      }
+    ],
+    "usage_instructions": "MICROONDAS (Recomendado): retire el film protector de plástico e introduzca el producto, directamente del congelador, en el microondas. Caliente a: 700W durante 8-9 minutos.  1000W durante 7-8 minutos. HORNO: Caliente el horno a 200ºC. Retire el film protector de plástico e introduzca el producto, directamente del congelador, en la rejilla central. Hornee 40 minutos a 200ºC. Si el horno tiene ventilador, hornear durante 25 minutos a 200ºC. No utilizar horno de llama. FREIDORA DE AIRE: Precalentar 5 minutos el equipo a 180ºC. Sin descongelar, retire el film protector de plástico y coloque el producto dentro de la freidora de aire. Caliente 20 minutos a 180ºC para un aparato de 1800W."
+  },
+  "display_name": "Canelones de carne Hacendado ultracongelados",
+  "ean": "8480000866004",
+  "extra_info": [
+    null
+  ],
+  "id": "86600",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "ultracongelados",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>moluscos y productos a base de moluscos</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>soja y productos a base de soja</strong>. Puede contener <strong>pescado y productos a base de pescado</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Agua, <strong>leche</strong> pasteurizada, carnes (24%) de pollo y cerdo, sémola de <strong>trigo</strong>, cebolla (6%), <strong>quesos</strong> (<strong>leche</strong> pasteurizada, sal, fermentos <strong>lácticos</strong>, coagulante microbiano, colorante (E-160b(ii)), endurecedor (E-509)), harina de <strong>trigo</strong>, tomate, aceite de girasol, zumo de tomate, almidón modificado, bebida espirituosa, pan rallado (harina de <strong>trigo</strong>, agua, sal y levadura), vino de licor, sal, especias, salsa de soja (agua, <strong>soja</strong>, <strong>trigo</strong>, sal), clara de <strong>huevo</strong> en polvo, gluten de <strong>trigo</strong>. Contiene <strong>gluten</strong>, <strong>huevo</strong>, <strong>soja</strong>, <strong>leche</strong>. Puede contener trazas de: <strong>crustáceos</strong>, <strong>pescado</strong>, <strong>mostaza</strong>, <strong>moluscos</strong>."
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/321dd61c7086641b56602f6da3cb477b.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/321dd61c7086641b56602f6da3cb477b.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/321dd61c7086641b56602f6da3cb477b.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/b7b36df4e8b2368051ea2353f7cace5d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b7b36df4e8b2368051ea2353f7cace5d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b7b36df4e8b2368051ea2353f7cace5d.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.40",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.400",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 2,
+    "unit_name": "bandejas",
+    "unit_price": "3.24",
+    "unit_selector": true,
+    "unit_size": 0.6
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/86600/canelones-carne-hacendado-ultracongelados-caja",
+  "slug": "canelones-carne-hacendado-ultracongelados-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/321dd61c7086641b56602f6da3cb477b.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,134 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 281,
+              "level": 2,
+              "name": "Pollo",
+              "order": 17
+            }
+          ],
+          "id": 38,
+          "level": 1,
+          "name": "Aves y pollo",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Contramuslos de pollo deshuesados y sin piel",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "CONTRAMUSLO DESHUESADO DE POLLO (sin piel y sin hueso)",
+    "mandatory_mentions": "Envasado en atmósfera protectora",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar de 0 a 4º C",
+    "suppliers": [
+      {
+        "name": "AVICOLA DE LLEIDA S.A.U."
+      },
+      {
+        "name": "Avinatur Producciones Avícolas, S.L.U."
+      },
+      {
+        "name": "Avícola Sánchez S.A."
+      },
+      {
+        "name": "Avícola de Galicia, S.A.U."
+      },
+      {
+        "name": "DOLZ ESPAÑA SL"
+      },
+      {
+        "name": "HIJOS DE JUAN PUJANTE, S.A."
+      },
+      {
+        "name": "INASUR"
+      },
+      {
+        "name": "UVE, S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Contramuslos de pollo deshuesados y sin piel",
+  "ean": "2105100027891",
+  "extra_info": [
+    null
+  ],
+  "id": "2789",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": "deshuesados y sin piel",
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": ""
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/6f014202bb9ed41e5125106c87ef1c74.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/6f014202bb9ed41e5125106c87ef1c74.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/6f014202bb9ed41e5125106c87ef1c74.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/20c56a88b1ab6acdecb3c9bd35aa0980.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/20c56a88b1ab6acdecb3c9bd35aa0980.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/20c56a88b1ab6acdecb3c9bd35aa0980.jpeg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "6.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.58",
+    "unit_selector": true,
+    "unit_size": 0.55
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/2789/contramuslos-pollo-deshuesados-sin-piel-bandeja",
+  "slug": "contramuslos-pollo-deshuesados-sin-piel-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/6f014202bb9ed41e5125106c87ef1c74.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

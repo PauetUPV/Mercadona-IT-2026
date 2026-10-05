@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Holland Corona",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 310,
+              "level": 2,
+              "name": "Queso lonchas",
+              "order": 159
+            }
+          ],
+          "id": 56,
+          "level": 1,
+          "name": "Queso lonchas, rallado y en porciones",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Holland Corona",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Queso lonchas edam de vaca Holland Corona",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Queso Edam 40% MG/ES",
+    "mandatory_mentions": "Envasado en atmósfera protectora.",
+    "origin": "Países Bajos (los)",
+    "production_variant": "",
+    "storage_instructions": "Conservar refrigerado entre: +0C y +7C",
+    "suppliers": [
+      {
+        "name": "FRIESLANDCAMPINA"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Queso lonchas edam de vaca Holland Corona",
+  "ean": "8710912029939",
+  "extra_info": [
+    null
+  ],
+  "id": "50459",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Leche</strong> de vaca pasteurizada, sal, fermentos lácticos, coagulante.No contiene gluten. Apto para vegetarianos."
+  },
+  "origin": "Países Bajos (los)",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/f30a5f14122dc2e4ede36df9dc80a881.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f30a5f14122dc2e4ede36df9dc80a881.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f30a5f14122dc2e4ede36df9dc80a881.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/22ee784ad5e583f15a6cabe340c1e340.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/22ee784ad5e583f15a6cabe340c1e340.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/22ee784ad5e583f15a6cabe340c1e340.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.67",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.667",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.00",
+    "unit_selector": true,
+    "unit_size": 0.3
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/50459/queso-lonchas-edam-vaca-holland-corona-paquete",
+  "slug": "queso-lonchas-edam-vaca-holland-corona-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/f30a5f14122dc2e4ede36df9dc80a881.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

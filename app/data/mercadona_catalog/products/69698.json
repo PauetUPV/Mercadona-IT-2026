@@ -1,0 +1,124 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 268,
+              "level": 2,
+              "name": "Otras verduras y hortalizas",
+              "order": 306
+            }
+          ],
+          "id": 29,
+          "level": 1,
+          "name": "Verdura",
+          "order": 306
+        }
+      ],
+      "id": 1,
+      "level": 0,
+      "name": "Fruta y verdura",
+      "order": 306
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Acelgas",
+    "legal_name": "Acelgas",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "AGRUPACIÓN HORTOFRUTÍCOLA LUCAS OPFH, S.L."
+      },
+      {
+        "name": "Agromediterránea Hortícola, S.L."
+      },
+      {
+        "name": "Agrícolas Promaver, S.L."
+      },
+      {
+        "name": "REYPAMA SAT 751"
+      },
+      {
+        "name": "VERDURAS CURRO, S.L."
+      },
+      {
+        "name": "Verduras Curro ,S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Acelgas",
+  "ean": "8411121005898",
+  "extra_info": [
+    ""
+  ],
+  "id": "69698",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Acelgas"
+  },
+  "origin": null,
+  "packaging": "Manojo",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/b308ebc36fc019c60fcf279bd471359a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b308ebc36fc019c60fcf279bd471359a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b308ebc36fc019c60fcf279bd471359a.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/20fee8a0c65e9125f09d644b3a90738e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/20fee8a0c65e9125f09d644b3a90738e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/20fee8a0c65e9125f09d644b3a90738e.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.69",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "2.688",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.15",
+    "unit_selector": true,
+    "unit_size": 0.8
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/69698/acelgas-paquete",
+  "slug": "acelgas-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/b308ebc36fc019c60fcf279bd471359a.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

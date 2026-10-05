@@ -1,0 +1,133 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 516,
+              "level": 2,
+              "name": "Marisco",
+              "order": 213
+            }
+          ],
+          "id": 150,
+          "level": 1,
+          "name": "Marisco",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 272,
+              "level": 2,
+              "name": "Marisco",
+              "order": 442
+            }
+          ],
+          "id": 32,
+          "level": 1,
+          "name": "Marisco",
+          "order": 442
+        }
+      ],
+      "id": 2,
+      "level": 0,
+      "name": "Marisco y pescado",
+      "order": 442
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Cigala cruda mediana Hacendado ultracongelada",
+    "legal_name": "Cigala mediana 9/12 piezas 400g skin pack ultracongelada",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Mantener a -18ºC.  Cocinar al gusto y servir.",
+    "suppliers": [
+      {
+        "name": "Distribuido por Globalimar Europa, S.L.  para Mercadona"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Cigala cruda mediana Hacendado ultracongelada",
+  "ean": "8480000623225",
+  "extra_info": [
+    ""
+  ],
+  "id": "62322",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>dióxido de azufre y sulfitos</strong>. Contiene <strong>crustáceos y productos a base de crustáceos</strong>.",
+    "ingredients": "<strong>Gamba</strong> (Soloncera melantho, Solenocera crassicornis), agua (7%), estabilizantes(E-451 y E-452), antioxidante: metabi <strong>sulfito</strong> sódico"
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/6726affc76673adb6ba107fc47640225.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/6726affc76673adb6ba107fc47640225.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/6726affc76673adb6ba107fc47640225.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/38ed6020171abab388674d7dd4371d87.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/38ed6020171abab388674d7dd4371d87.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/38ed6020171abab388674d7dd4371d87.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "27.60",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "27.600",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "9.38",
+    "unit_selector": true,
+    "unit_size": 0.34
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/62322/cigala-cruda-mediana-hacendado-ultracongelada-caja",
+  "slug": "cigala-cruda-mediana-hacendado-ultracongelada-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/6726affc76673adb6ba107fc47640225.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

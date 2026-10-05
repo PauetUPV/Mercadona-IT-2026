@@ -1,0 +1,107 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 302,
+              "level": 2,
+              "name": "Lomo y otros",
+              "order": 159
+            }
+          ],
+          "id": 51,
+          "level": 1,
+          "name": "Embutido curado",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Lomo Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Lomo",
+    "mandatory_mentions": "Envoltura no comestible.",
+    "origin": "España",
+    "production_variant": "Producto de peso variable. El contenido neto del mismo puede oscilar entre 330 y 380 gramos.",
+    "storage_instructions": "Conservar en un lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Embutidos Monter S.L.U."
+      }
+    ],
+    "usage_instructions": "Abrir el envase 10 minutos antes de consumir el producto."
+  },
+  "display_name": "Lomo Hacendado",
+  "ean": "2105600540531",
+  "extra_info": [
+    null
+  ],
+  "id": "54053",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Lomo de cerdo, sal, pimentones, dextrosa, ajo,  antioxidantes (E-331, E-301), aromas y conservadores (E-250, E-252). Tratamiento de superficie: conservadores (E-202, E-235). Envoltura no comestible."
+  },
+  "origin": "España",
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/7147e883ae9a96d0f38020aca77e1dd0.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7147e883ae9a96d0f38020aca77e1dd0.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7147e883ae9a96d0f38020aca77e1dd0.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "17.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "17.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "6.13",
+    "unit_selector": true,
+    "unit_size": 0.35
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/54053/lomo-hacendado-pieza",
+  "slug": "lomo-hacendado-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/7147e883ae9a96d0f38020aca77e1dd0.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

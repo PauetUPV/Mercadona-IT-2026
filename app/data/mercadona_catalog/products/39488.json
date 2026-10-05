@@ -1,0 +1,112 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Castillo de Salobreña",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 578,
+              "level": 2,
+              "name": "Vinos dulces y mosto",
+              "order": 15
+            }
+          ],
+          "id": 170,
+          "level": 1,
+          "name": "Vino blanco",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Castillo de Salobreña",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Bebida refrescante aromatizada tinto sin alcohol light Castillo de Salobreña",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "BEBIDA REFRESCANTE AROMATIZADA. CON AZÚCARES Y EDULCORANTES.",
+    "mandatory_mentions": "Con azúcares y edulcorantes. El E-122 pueden tener un efecto negativo sobre la actividad y la atención de los niños. Sin gluten.  Lote y consumir preferentemente antes del ...: Ver parte superior de la botella",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "CONSERVAR EN UN LUGAR FRESCO Y AL ABRIGO DE LA LUZ SOLAR.Una vez abierto , conservar en frio.",
+    "suppliers": [
+      {
+        "name": "Industrias Espadafor S.A."
+      }
+    ],
+    "usage_instructions": "Listo para tomar. Tomar frio"
+  },
+  "display_name": "Bebida refrescante aromatizada tinto sin alcohol light Castillo de Salobreña",
+  "ean": "8432286003338",
+  "extra_info": [
+    null
+  ],
+  "id": "39488",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Agua, azúcares, acidulantes: ácido cítrico y E-296, colorantes: E-122 y E-150d, zumo de manzana (a partir de concentrado 1,4%), extracto de uva, conservantes: E-202 y E-211, edulcorantes: E-952 y E-954, aroma de manzana. (El E-122 puede tener un efecto negativo sobre la actividad y la atención en los niños)"
+  },
+  "origin": "España",
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/217f0e1aa7268ffc0574e146f9120e89.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/217f0e1aa7268ffc0574e146f9120e89.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/217f0e1aa7268ffc0574e146f9120e89.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/d87c63ec50760089e26e9362cc6a9014.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d87c63ec50760089e26e9362cc6a9014.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d87c63ec50760089e26e9362cc6a9014.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.70",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "1.700",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.70",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/39488/bebida-refrescante-aromatizada-tinto-sin-alcohol-light-castillo-salobrena-botella",
+  "slug": "bebida-refrescante-aromatizada-tinto-sin-alcohol-light-castillo-salobrena-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/217f0e1aa7268ffc0574e146f9120e89.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

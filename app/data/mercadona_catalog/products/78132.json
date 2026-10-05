@@ -1,0 +1,107 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Deliplus",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 706,
+              "level": 2,
+              "name": "Accesorios",
+              "order": 14
+            }
+          ],
+          "id": 218,
+          "level": 1,
+          "name": "Higiene y cuidado",
+          "order": 14
+        }
+      ],
+      "id": 24,
+      "level": 0,
+      "name": "Bebé",
+      "order": 14
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": "",
+    "brand": "Deliplus",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Gasas para bebé no tejidas Deliplus para limpieza de ojos y cara",
+    "legal_name": "",
+    "mandatory_mentions": "",
+    "origin": "",
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [],
+    "usage_instructions": ""
+  },
+  "display_name": "Gasas para bebé no tejidas Deliplus",
+  "ean": "5600846269538",
+  "extra_info": [
+    ""
+  ],
+  "id": "78132",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "",
+    "ingredients": ""
+  },
+  "origin": "",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/de6a3878e3ddc47a3d196f29f851b4da.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/de6a3878e3ddc47a3d196f29f851b4da.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/de6a3878e3ddc47a3d196f29f851b4da.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/c1280886882195e05800e9b381a0a4d6.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c1280886882195e05800e9b381a0a4d6.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c1280886882195e05800e9b381a0a4d6.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "0.02",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "0.020",
+    "selling_method": 0,
+    "size_format": "ud",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.97",
+    "unit_selector": true,
+    "unit_size": 100.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/78132/gasas-bebe-tejidas-deliplus-limpieza-ojos-cara-paquete",
+  "slug": "gasas-bebe-tejidas-deliplus-limpieza-ojos-cara-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/de6a3878e3ddc47a3d196f29f851b4da.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

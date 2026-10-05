@@ -1,0 +1,118 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 821,
+              "level": 2,
+              "name": "Galletas desayuno",
+              "order": 18
+            }
+          ],
+          "id": 80,
+          "level": 1,
+          "name": "Galletas",
+          "order": 18
+        }
+      ],
+      "id": 7,
+      "level": 0,
+      "name": "Cereales y galletas",
+      "order": 18
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Galletas tostadas Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Galleta",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Almacenar en lugar fresco y seco. Proteger de los rayos solares. Una vez abierto, mantener en las mismas condiciones y cerrar después de cada uso.",
+    "suppliers": [
+      {
+        "name": "CEREALTO FOODS CORPORATE S.L.U."
+      },
+      {
+        "name": "CEREALTO SIRO FOODS S.L."
+      },
+      {
+        "name": "GALLETAS GULLON, S.A"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Galletas tostadas Hacendado",
+  "ean": "8480000143242",
+  "extra_info": [
+    null
+  ],
+  "id": "14325",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>mostaza y productos derivados</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>dióxido de azufre y sulfitos</strong>. Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Harina de <strong>trigo</strong>, azúcar, aceite refinado de girasol alto oleico, jarabe de glucosa y fructosa, gasificantes (carbonato ácido de amonio y carbonato ácido de sodio), sal, colorante (caramelo amónico), aromas, emulgente (lecitinas (<strong>soja</strong>)), antioxidante (<strong>metabisulfito</strong> sódico), <strong>leche</strong> desnatada en polvo. <strong>Puede contener trazas de mostaza</strong>."
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/8fcb3ebdcf12885842e55d64a5ae741a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8fcb3ebdcf12885842e55d64a5ae741a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8fcb3ebdcf12885842e55d64a5ae741a.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/54378a04744c51925bd8822b954f81aa.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/54378a04744c51925bd8822b954f81aa.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/54378a04744c51925bd8822b954f81aa.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.69",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "1.688",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 4,
+    "unit_name": "ud.",
+    "unit_price": "1.35",
+    "unit_selector": true,
+    "unit_size": 0.8
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/14325/galletas-tostadas-hacendado-paquete",
+  "slug": "galletas-tostadas-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/8fcb3ebdcf12885842e55d64a5ae741a.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

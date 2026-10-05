@@ -1,0 +1,128 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Deliplus",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 674,
+              "level": 2,
+              "name": "Colorete",
+              "order": 422
+            }
+          ],
+          "id": 207,
+          "level": 1,
+          "name": "Colorete y polvos",
+          "order": 422
+        }
+      ],
+      "id": 22,
+      "level": 0,
+      "name": "Maquillaje",
+      "order": 422
+    }
+  ],
+  "color_variants": [
+    {
+      "color": "#f19290",
+      "color_description": "02 coral",
+      "merca_code": "80395",
+      "status": null
+    },
+    {
+      "color": "#c7726d",
+      "color_description": "03 rojo",
+      "merca_code": "80396",
+      "status": null
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Deliplus",
+    "counter_info": null,
+    "danger_mentions": null,
+    "description": "Colorete compacto Blush Mate Deliplus 03 rojo",
+    "is_prepared_by_mercadona": false,
+    "legal_name": null,
+    "mandatory_mentions": null,
+    "origin": null,
+    "production_variant": null,
+    "storage_instructions": null,
+    "suppliers": [],
+    "usage_instructions": null
+  },
+  "display_name": "Colorete compacto Blush Mate Deliplus 03 rojo",
+  "ean": "8480000803962",
+  "extra_info": [
+    ""
+  ],
+  "id": "80396",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "03 rojo",
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": null
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 10,
+      "regular": "https://prod-mercadona.imgix.net/images/ea60b4f4abd5f82ab09a74b7750d66db.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ea60b4f4abd5f82ab09a74b7750d66db.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ea60b4f4abd5f82ab09a74b7750d66db.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/caa2909e39ce46fe83e52377783fa3e7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/caa2909e39ce46fe83e52377783fa3e7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/caa2909e39ce46fe83e52377783fa3e7.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/e7538a4a9a0713ab01a7adf17229192c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e7538a4a9a0713ab01a7adf17229192c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e7538a4a9a0713ab01a7adf17229192c.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 21,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "5.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "21.000",
+    "total_units": 1,
+    "unit_name": "ud.",
+    "unit_price": "5.00",
+    "unit_selector": true,
+    "unit_size": 0.005
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/80396/colorete-compacto-blush-mate-deliplus-03-rojo",
+  "slug": "colorete-compacto-blush-mate-deliplus-03-rojo",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/ea60b4f4abd5f82ab09a74b7750d66db.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,107 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 331,
+              "level": 2,
+              "name": "Bollería salada",
+              "order": 515
+            }
+          ],
+          "id": 65,
+          "level": 1,
+          "name": "Bollería de horno",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": "Ingredientes: Harina de trigo, cebolla frita (cebolla, aceite de oliva, sal, acidulante: e-330), guisantes cocidos, aceite de girasol, agua, pan rallado (harina de trigo, agua, sal, levadura), clara de huevo cocida, sal, azúcar, yema de huevo cocida, pimentón rojo dulce, huevo líquido pasteurizado.\n\nAlérgenos: trigo, huevo.\n\nPuede contener trazas de: Altramuces, Soja, Leche y sus derivados (incluida lactosa), Mostaza, Frutos de cáscara y derivados, Moluscos, Sésamo, Pescado, Crustáceos, Apio, Cacahuetes, Sulfitos.\n\nProducto preparado por Mercadona, S.A. (C/ Alfonso Roig Alfonso, s/n. Albalat dels Sorells 46135, Valencia).",
+    "danger_mentions": "",
+    "description": "Empanadilla de guisantes",
+    "is_prepared_by_mercadona": true,
+    "legal_name": "Empanadilla de guisantes",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en un lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Dupan,S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Empanadilla de guisantes",
+  "ean": "2105900846227",
+  "extra_info": [
+    ""
+  ],
+  "id": "84622",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>pescado y productos a base de pescado</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Contiene <strong>trigo y productos derivados</strong>.",
+    "ingredients": "Harina de <strong>trigo</strong>,cebolla frita (cebolla, aceite de oliva, sal, acidulante: E-330), guisantes cocidos, aceite de girasol, agua, pan rallado (harina de <strong>trigo</strong>, agua, sal, levadura), clara de <strong>huevo</strong> cocida, sal, azúcar, yema de <strong>huevo</strong> cocida, pimentón rojo dulce, <strong>huevo</strong> líquido pasteurizado. Puede contener trazas de <strong>pescado</strong> (<strong>atún</strong>), <strong>soja, sésamo, leche</strong> y <strong>mostaza</strong>."
+  },
+  "origin": null,
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 10,
+      "regular": "https://prod-mercadona.imgix.net/images/313452735fb330dc3c64b70008a86331.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/313452735fb330dc3c64b70008a86331.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/313452735fb330dc3c64b70008a86331.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "14.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "14.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.40",
+    "unit_selector": true,
+    "unit_size": 0.1
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/84622/empanadilla-guisantes-13-pieza",
+  "slug": "empanadilla-guisantes-13-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/313452735fb330dc3c64b70008a86331.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

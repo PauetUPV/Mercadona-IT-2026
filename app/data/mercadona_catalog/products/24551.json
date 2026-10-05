@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Don Simón",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 404,
+              "level": 2,
+              "name": "Fruta + leche",
+              "order": 793
+            }
+          ],
+          "id": 99,
+          "level": 1,
+          "name": "Fruta variada",
+          "order": 793
+        }
+      ],
+      "id": 10,
+      "level": 0,
+      "name": "Zumos",
+      "order": 793
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Don Simón",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Fruta + leche tropical Don Simón sin azúcares añadidos y zero materia grasa",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Bebida refrescante mixta de zumo de frutas y leche. Con edulcorante.",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Agitar antes de servir. Una vez abierto, conservar refrigerado y consumir antes de transcurridos 5 días.",
+    "suppliers": [
+      {
+        "name": "JGC S.A"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Fruta + leche tropical Don Simón sin azúcares añadidos y zero materia grasa",
+  "ean": "8410261640082",
+  "extra_info": [
+    ""
+  ],
+  "id": "24551",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "sin azúcares añadidos y zero materia grasa",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Agua, zumo de frutas parcialmente a partir de concentrado (35 %) (piña, uva, mango y manzana), <strong>leche desnatada (10%)</strong>, estabilizante: E-466, acidulante: ácido cítrico, aroma, colorante: betacaroteno, vitaminas A, C y E, edulcorante: sucralosa"
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/420a9a4345afa117de8088e765eadeef.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/420a9a4345afa117de8088e765eadeef.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/420a9a4345afa117de8088e765eadeef.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/e11dfad2e4122c3b6cfbb8f3af2527f4.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e11dfad2e4122c3b6cfbb8f3af2527f4.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e11dfad2e4122c3b6cfbb8f3af2527f4.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.41",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.33,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "1.415",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": 3,
+    "unit_name": "mini briks",
+    "unit_price": "1.40",
+    "unit_selector": true,
+    "unit_size": 0.99
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/24551/fruta-leche-tropical-don-simon-sin-azucares-anadidos-zero-materia-grasa",
+  "slug": "fruta-leche-tropical-don-simon-sin-azucares-anadidos-zero-materia-grasa",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/420a9a4345afa117de8088e765eadeef.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

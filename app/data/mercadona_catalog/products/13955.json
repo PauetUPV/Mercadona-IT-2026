@@ -1,0 +1,122 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Spieler",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 552,
+              "level": 2,
+              "name": "Combinado de cerveza",
+              "order": 15
+            }
+          ],
+          "id": 164,
+          "level": 1,
+          "name": "Cerveza",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Spieler",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Bebida cider con gas Spieler sabor a manzana",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "SIDRA",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "HEINEKEN ESPAÑA SA"
+      },
+      {
+        "name": "Heineken España S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Bebida cider con gas Spieler sabor a manzana",
+  "ean": "8411090720143",
+  "extra_info": [
+    ""
+  ],
+  "id": "13955",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "sabor a manzana",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>dióxido de azufre y sulfitos</strong>.",
+    "ingredients": "Zumo de manzana(a partir de concentrado), agua, azúcar, correctores de la acidez ácido málico, colorante caramelo natural, antioxidantes <strong>Metabisulfito</strong> potásico y aroma natural. <strong>Contiene SULFITOS</strong>."
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/1d13d9bc8164221075766435a023b553.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1d13d9bc8164221075766435a023b553.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1d13d9bc8164221075766435a023b553.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/acc6dec372c1998870137993c9125080.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/acc6dec372c1998870137993c9125080.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/acc6dec372c1998870137993c9125080.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/f54b9d03193ccd9e6cc273fbcd49ac27.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f54b9d03193ccd9e6cc273fbcd49ac27.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f54b9d03193ccd9e6cc273fbcd49ac27.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.16",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": 21,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.25,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "3.160",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": 6,
+    "unit_name": "botellines",
+    "unit_price": "4.74",
+    "unit_selector": true,
+    "unit_size": 1.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/13955/bebida-cider-con-gas-spieler-sabor-manzana",
+  "slug": "bebida-cider-con-gas-spieler-sabor-manzana",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/1d13d9bc8164221075766435a023b553.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

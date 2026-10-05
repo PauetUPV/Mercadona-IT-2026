@@ -1,0 +1,110 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 313,
+              "level": 2,
+              "name": "Queso especialidades",
+              "order": 159
+            }
+          ],
+          "id": 53,
+          "level": 1,
+          "name": "Queso untable, fresco y especialidades",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Queso blando mezcla Hacendado",
+    "legal_name": "PASTA BLANDA MEZ V/C TOMME HACENDADO 140G 6U",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Refrigeración entre 1 y 8 ºC",
+    "suppliers": [
+      {
+        "name": "Formatgería Granja Rinya S.L."
+      }
+    ],
+    "usage_instructions": "Listo para su consumo una vez abierto, sin necesidad de ningún tipo de transformación. El queso es un producto vivo que gana carácter y cremosidad a lo largo de su vida útil. Recomendamos sacar de la nevera 10 min antes de su consumo."
+  },
+  "display_name": "Queso blando mezcla Hacendado",
+  "ean": "8480000055224",
+  "extra_info": [
+    null
+  ],
+  "id": "5522",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>ml</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Leche</strong> pasteurizada de vaca ( 80%), <strong>leche</strong> pasteurizada de cabra (20%), <strong>nata</strong>, sal, coagulante de <strong>leche</strong> microbiano, estabilizante (cloruro cálcico), fermentos lácticos y de afinado. Origen de la leche: España"
+  },
+  "origin": "España",
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 3,
+      "regular": "https://prod-mercadona.imgix.net/images/92a340b111e0ea4759bb75d697e7225c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/92a340b111e0ea4759bb75d697e7225c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/92a340b111e0ea4759bb75d697e7225c.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/cff2c69f4845dec5b864db4a1d0b1af5.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/cff2c69f4845dec5b864db4a1d0b1af5.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/cff2c69f4845dec5b864db4a1d0b1af5.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "16.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 4,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "16.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.24",
+    "unit_selector": true,
+    "unit_size": 0.14
+  },
+  "product_information": null,
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/5522/queso-blando-mezcla-hacendado-pieza",
+  "slug": "queso-blando-mezcla-hacendado-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/92a340b111e0ea4759bb75d697e7225c.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Armando",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 443,
+              "level": 2,
+              "name": "Macarrones, pajaritas y hélices",
+              "order": 10
+            }
+          ],
+          "id": 120,
+          "level": 1,
+          "name": "Pasta y fideos",
+          "order": 10
+        }
+      ],
+      "id": 13,
+      "level": 0,
+      "name": "Arroz, legumbres y pasta",
+      "order": 10
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Armando",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pasta fusilli Armando",
+    "legal_name": "FUSILLI",
+    "mandatory_mentions": "",
+    "origin": "Italia",
+    "production_variant": "Variante",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "De Matteis Agroalimentare Spa"
+      }
+    ],
+    "usage_instructions": "9 - 11 minutos"
+  },
+  "display_name": "Pasta fusilli Armando",
+  "ean": "8005709104952",
+  "extra_info": [
+    ""
+  ],
+  "id": "6357",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "sémola de <strong>trigo</strong> duro. Puede contener trazas de <strong>huevos</strong> y <strong>soja</strong>."
+  },
+  "origin": "Italia",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/cbaafa95873386c212e067da6c6e2a95.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/cbaafa95873386c212e067da6c6e2a95.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/cbaafa95873386c212e067da6c6e2a95.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/b59f7d268b15cca60d772166fa2684c7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b59f7d268b15cca60d772166fa2684c7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b59f7d268b15cca60d772166fa2684c7.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.80",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "2.800",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.40",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/6357/pasta-fusilli-armando-paquete",
+  "slug": "pasta-fusilli-armando-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/cbaafa95873386c212e067da6c6e2a95.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

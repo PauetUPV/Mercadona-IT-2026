@@ -1,0 +1,112 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Valor",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 374,
+              "level": 2,
+              "name": "Chocolate a la taza",
+              "order": 16
+            }
+          ],
+          "id": 86,
+          "level": 1,
+          "name": "Cacao soluble y chocolate a la taza",
+          "order": 16
+        }
+      ],
+      "id": 8,
+      "level": 0,
+      "name": "Cacao, café e infusiones",
+      "order": 16
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Valor",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Cacao en polvo a la taza Valor",
+    "legal_name": "Preparado alimenticio al cacao para su consumo cocido (con 20% de cacao desgrasado en polvo)",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco, alejado de olores.",
+    "suppliers": [
+      {
+        "name": "Chocolates Valor"
+      },
+      {
+        "name": "Chocolates Valor,S.A."
+      }
+    ],
+    "usage_instructions": "1. Pon la leche a calentar y, cuando esté tibia, añádele el producto: cuatro cucharadas soperas bien colmadas por taza (85 g) por cada 250 ml de leche. 2. Remuévelo mientras cuece a fuego lento y, cuando esté a punto de hervir, retíralo. 3. Déjalo reposar unos minutos antes de servir. También puedes guardarlo en la nevera y calentarlo para el desayuno."
+  },
+  "display_name": "Cacao en polvo a la taza Valor",
+  "ean": "8410109000528",
+  "extra_info": [
+    null
+  ],
+  "id": "12017",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>soja y productos a base de soja</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Azúcar, cacao desgrasado en polvo (20%), almidón de maíz, emulgente: lecitina de <strong>soja</strong>, aromas. Puede contener: <strong>leche</strong>. Sin gluten."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/a0392e5bf2054011a51b3fb0853aea93.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a0392e5bf2054011a51b3fb0853aea93.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a0392e5bf2054011a51b3fb0853aea93.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/f27b8db51504aa400001c4f89db3b32c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f27b8db51504aa400001c4f89db3b32c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f27b8db51504aa400001c4f89db3b32c.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "8.20",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "8.200",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "4.10",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/12017/cacao-polvo-taza-valor-paquete",
+  "slug": "cacao-polvo-taza-valor-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/a0392e5bf2054011a51b3fb0853aea93.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

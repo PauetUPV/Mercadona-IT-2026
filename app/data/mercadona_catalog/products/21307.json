@@ -1,0 +1,114 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 410,
+              "level": 2,
+              "name": "Bífidus naturales",
+              "order": 598
+            }
+          ],
+          "id": 105,
+          "level": 1,
+          "name": "Bífidus",
+          "order": 598
+        }
+      ],
+      "id": 11,
+      "level": 0,
+      "name": "Postres y yogures",
+      "order": 598
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Bífidus natural probióticos Hacendado",
+    "legal_name": "Leche fermentada natural con Bífidus",
+    "mandatory_mentions": "Contenido en lactosa: <0.01g/100g.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 1C y 8C.",
+    "suppliers": [
+      {
+        "name": "Schreiber Foods España, S.L"
+      },
+      {
+        "name": "Schreiber Foods España, S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Bífidus natural probióticos Hacendado",
+  "ean": "8402001041006",
+  "extra_info": [
+    ""
+  ],
+  "id": "21307",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Leche</strong> fresca pasteurizada entera (Origen: España), proteínas de la <strong>leche</strong>, <strong>leche</strong> en polvo desnatada, lactasa, bifidobacterias (<strong>leche</strong>) y fermentos lácticos. Sin gluten. Sin lactosa."
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/64de7c245336def13dce8ac2143fc0f4.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/64de7c245336def13dce8ac2143fc0f4.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/64de7c245336def13dce8ac2143fc0f4.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/c623ecad547a9d274f356c6ef19fbd59.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c623ecad547a9d274f356c6ef19fbd59.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c623ecad547a9d274f356c6ef19fbd59.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.60",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": 4,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.125,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "1.600",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 6,
+    "unit_name": "ud.",
+    "unit_price": "1.20",
+    "unit_selector": true,
+    "unit_size": 0.75
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/21307/bifidus-natural-hacendado-pack-6",
+  "slug": "bifidus-natural-hacendado-pack-6",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/64de7c245336def13dce8ac2143fc0f4.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

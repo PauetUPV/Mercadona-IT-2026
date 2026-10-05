@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 386,
+              "level": 2,
+              "name": "Chocolatinas",
+              "order": 11
+            }
+          ],
+          "id": 92,
+          "level": 1,
+          "name": "Chocolate",
+          "order": 11
+        }
+      ],
+      "id": 9,
+      "level": 0,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Barritas de chocolate con leche Hacendado rellenas de leche",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "BARRITAS DE CHOCOLATE CON LECHE CON RELLENO DE LECHE.",
+    "mandatory_mentions": "Apto para celíacos.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "No se necesitan condiciones específicas de conservación durante la vida comercial del producto, aunque es recomendable mantener en lugar seco, fresco y alejado de olores. Conservar en lugar fresco, seco y alejado de olores.",
+    "suppliers": [
+      {
+        "name": "Dulces Olmedo García, S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Barritas de chocolate con leche Hacendado rellenas de leche",
+  "ean": "8402001057168",
+  "extra_info": [
+    ""
+  ],
+  "id": "17702",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "rellenas de leche",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>frutos de cáscara</strong>.",
+    "ingredients": "Relleno de <strong>leche</strong> (60%) [azúcar, grasas vegetales (palmiste, palma) en proporciones variables, <strong>leche</strong> desnatada en polvo (19%), <strong>leche</strong> entera en polvo (11%), emulgente (lecitina de <strong>soja</strong>), vainillina], Chocolate con <strong>leche</strong> (40%) [azúcar, manteca de cacao, <strong>leche</strong> entera en polvo, <strong>leche</strong> desnatada en polvo, pasta de cacao, jarabe de glucosa caramelizado, emulgente (lecitina de <strong>soja</strong>), aroma natural de vanilla]. Contiene <strong>leche</strong> y <strong>soja</strong>. Puede contener <strong>frutos de cáscara</strong>."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/80ed20278bfdf737f42b6c581d92bc8a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/80ed20278bfdf737f42b6c581d92bc8a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/80ed20278bfdf737f42b6c581d92bc8a.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/e78744192669112dcb3f2b70713603c9.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e78744192669112dcb3f2b70713603c9.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e78744192669112dcb3f2b70713603c9.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "11.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "11.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 16,
+    "unit_name": "ud.",
+    "unit_price": "2.20",
+    "unit_selector": true,
+    "unit_size": 0.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/17702/barritas-chocolate-con-leche-hacendado-rellenas-leche-paquete",
+  "slug": "barritas-chocolate-con-leche-hacendado-rellenas-leche-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/80ed20278bfdf737f42b6c581d92bc8a.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

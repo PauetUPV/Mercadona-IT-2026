@@ -1,0 +1,135 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "MareDeus",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 513,
+              "level": 2,
+              "name": "Pescado",
+              "order": 213
+            }
+          ],
+          "id": 149,
+          "level": 1,
+          "name": "Pescado",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 274,
+              "level": 2,
+              "name": "Pescado congelado",
+              "order": 442
+            }
+          ],
+          "id": 34,
+          "level": 1,
+          "name": "Pescado congelado",
+          "order": 442
+        }
+      ],
+      "id": 2,
+      "level": 0,
+      "name": "Marisco y pescado",
+      "order": 442
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "MareDeus",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Filetes de bacalao MareDeus ultracongelado en su punto de sal",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Gadus Morhua",
+    "mandatory_mentions": "Sin espinas. A diferencia del \"Bacalao tradicional\", hemos añadido el punto óptimo de sal, para obtener así un producto \"ligeramente\" salado y listo para cocinar, no necesita ser desalado para su consumo. El Bacalao es un pescado de las aguas frías del Norte, que se utiliza en una gran variedad de recetas.",
+    "origin": "Noruega/Rusia",
+    "production_variant": "",
+    "storage_instructions": "Producto Congelado. Mantener a -18C.",
+    "suppliers": [
+      {
+        "name": "MareDeus Food Solutions, S.L."
+      }
+    ],
+    "usage_instructions": "Para obtener un resultado óptimo, le recomendamos sacar el producto de su envase y dejarlo en el frigorífico durante 12 horas antes de su cocinado. Una vez descongelado consumir en 24 horas. Para no alterar la calidad del producto, no volver a congelar una vez descongelado."
+  },
+  "display_name": "Filetes de bacalao MareDeus ultracongelado",
+  "ean": "8436542052023",
+  "extra_info": [
+    ""
+  ],
+  "id": "24016",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "ultracongelado",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>pescado y productos a base de pescado</strong>.",
+    "ingredients": "<strong>Bacalao</strong> (<strong>Gadus Morhua</strong>) 90%, agua 8% y sal 2%."
+  },
+  "origin": "Noruega/Rusia",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/26b601980426f52cbc8cf1a76b4f7aa0.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/26b601980426f52cbc8cf1a76b4f7aa0.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/26b601980426f52cbc8cf1a76b4f7aa0.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/589946d6585de4ddae7f530d43974f6d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/589946d6585de4ddae7f530d43974f6d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/589946d6585de4ddae7f530d43974f6d.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "19.73",
+    "bunch_selector": false,
+    "drained_weight": 0.375,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "19.734",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "7.40",
+    "unit_selector": true,
+    "unit_size": null
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/24016/filetes-bacalao-maredeus-ultracongelado-punto-sal-paquete",
+  "slug": "filetes-bacalao-maredeus-ultracongelado-punto-sal-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/26b601980426f52cbc8cf1a76b4f7aa0.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

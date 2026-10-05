@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Milka",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 381,
+              "level": 2,
+              "name": "Chocolate con leche",
+              "order": 11
+            }
+          ],
+          "id": 92,
+          "level": 1,
+          "name": "Chocolate",
+          "order": 11
+        }
+      ],
+      "id": 9,
+      "level": 0,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Milka",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Chocolate con leche Milka galleta Oreo",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Chocolate con leche de los Alpes relleno de galleta con cacao (16 %) entre dos capas cremosas lácteas (38 %) con sabor a vainilla.",
+    "mandatory_mentions": "7 % de leche desnatada en polvo en el relleno cremoso lácteo.",
+    "origin": "Austria",
+    "production_variant": "800000050539",
+    "storage_instructions": "Conservar en lugar seco. Proteger del calor.",
+    "suppliers": [
+      {
+        "name": "Mondelez España Commercial, S.L."
+      },
+      {
+        "name": "Mondelez Portugal, Unipessoal, Lda"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Chocolate con leche Milka galleta Oreo",
+  "ean": "7622210293381",
+  "extra_info": [
+    null
+  ],
+  "id": "12018",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "galleta Oreo",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>frutos de cáscara</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>sh</strong>.",
+    "ingredients": "Ingredientes: azúcar, grasas vegetales (palma, palmiste), harina de TRIGO, LECHE desnatada en polvo, manteca de cacao, pasta de cacao, suero de LECHE en polvo, grasa de LECHE, cacao magro en polvo (1,1 %), almidón de TRIGO, jarabe de glucosa, emulgente (lecitinas de SOJA), pasta de AVELLANA, sal, gasificantes (E501,  E500,  E503), corrector de acidez (E524), aromas. PUEDE CONTENER OTROS FRUTOS DE CÁSCARA."
+  },
+  "origin": "Austria",
+  "packaging": "Tableta",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/4f587fdaf84f52cbe726fcf6050a8f7b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4f587fdaf84f52cbe726fcf6050a8f7b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4f587fdaf84f52cbe726fcf6050a8f7b.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/2c8b366fbf63a0237f23afd200e9f9b5.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/2c8b366fbf63a0237f23afd200e9f9b5.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/2c8b366fbf63a0237f23afd200e9f9b5.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "9.83",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "9.834",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.95",
+    "unit_selector": true,
+    "unit_size": 0.3
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/12018/chocolate-con-leche-milka-galleta-oreo-tableta",
+  "slug": "chocolate-con-leche-milka-galleta-oreo-tableta",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/4f587fdaf84f52cbe726fcf6050a8f7b.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

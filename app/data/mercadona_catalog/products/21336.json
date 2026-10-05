@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 410,
+              "level": 2,
+              "name": "Bífidus naturales",
+              "order": 598
+            }
+          ],
+          "id": 105,
+          "level": 1,
+          "name": "Bífidus",
+          "order": 598
+        }
+      ],
+      "id": 11,
+      "level": 0,
+      "name": "Postres y yogures",
+      "order": 598
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Bífidus natural probióticos Hacendado con coco, almendras y chocolate",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Leche fermentada natural con bífidus, chocolate, almendras y coco",
+    "mandatory_mentions": "Los cultivos vivos del yogur o de la leche fermentada mejoran la digestión de la lactosa del producto en las personas con problemas para digerir la lactosa.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 1 C y 8 C.",
+    "suppliers": [
+      {
+        "name": "Fabricado por: Schreiber. SCHREIBER FOODS ESPAÑA S.L."
+      },
+      {
+        "name": "Schreiber Foods España, S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Bífidus natural probióticos Hacendado con coco, almendras y chocolate",
+  "ean": "8480000213365",
+  "extra_info": [
+    ""
+  ],
+  "id": "21336",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "con coco, almendras y chocolate",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>sa</strong>. Contiene <strong>frutos de cáscara</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>soja y productos a base de soja</strong>.",
+    "ingredients": "<strong>Leche</strong> fermentada (83,3%) [<strong>Leche</strong> fresca pasteurizada entera, <strong>leche</strong> en polvo desnatada, proteínas de la <strong>leche</strong>, fermentos lácticos y bifidobacterias (<strong>leche</strong>)]. Mezcla de chocolate, <strong>almendras</strong> y coco (16,7%) [trozos de chocolate (7,5%) (masa de cacao, azúcar, emulgente (lecitinas)), trozos de <strong>almendras</strong> tostadas (5,7%) y coco laminado tostado (3,5%)]. Puede contener otros <strong>cereales con gluten</strong>, otros <strong>frutos de cáscara</strong> y <strong>soja</strong>."
+  },
+  "origin": null,
+  "packaging": "Tarrina",
+  "photos": [
+    {
+      "perspective": 3,
+      "regular": "https://prod-mercadona.imgix.net/images/75d41661781cf50582a896c5f5607390.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/75d41661781cf50582a896c5f5607390.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/75d41661781cf50582a896c5f5607390.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/ff1fb830a88a0c82f701b90451cbaf9b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ff1fb830a88a0c82f701b90451cbaf9b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ff1fb830a88a0c82f701b90451cbaf9b.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.94",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.945",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.25",
+    "unit_selector": true,
+    "unit_size": 0.18
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/21336/bifidus-natural-probiotico-hacendado-con-coco-almendras-chocolate-tarrina",
+  "slug": "bifidus-natural-probiotico-hacendado-con-coco-almendras-chocolate-tarrina",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/75d41661781cf50582a896c5f5607390.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

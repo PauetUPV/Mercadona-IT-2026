@@ -1,0 +1,114 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 320,
+              "level": 2,
+              "name": "Otros panes",
+              "order": 515
+            }
+          ],
+          "id": 60,
+          "level": 1,
+          "name": "Pan de molde y otras especialidades",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pan Brioche Hacendado",
+    "legal_name": "Brioche",
+    "mandatory_mentions": "",
+    "origin": "Francia",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "BRIOCHES FONTENEAU"
+      },
+      {
+        "name": "Fabricado por: Brioches Fonteneau"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Pan Brioche Hacendado",
+  "ean": "8402001034138",
+  "extra_info": [
+    ""
+  ],
+  "id": "22899",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>trigo y productos derivados</strong>.",
+    "ingredients": "Harina de <strong>trigo</strong> (<strong>gluten</strong>), agua, <strong>huevos</strong>, azúcar, <strong>mantequilla</strong> concentrada (6,5%), masa madre (harina de <strong>trigo</strong>, agua, sal), jarabe de azúcar invertido, emulgente (E-471), levadura, sal, aromas naturales (contiene harina de <strong>trigo</strong> y alcohol), <strong>gluten</strong> de <strong>trigo</strong>, espesante (E-466), conservador (E-282), colorante (E-160a), agente de tratamiento de la harina (E-300)."
+  },
+  "origin": "Francia",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/093aa5fd71175cc58f2cdecd129572cf.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/093aa5fd71175cc58f2cdecd129572cf.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/093aa5fd71175cc58f2cdecd129572cf.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/58803af6edd8bcefebfbbc8d6c9e5464.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/58803af6edd8bcefebfbbc8d6c9e5464.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/58803af6edd8bcefebfbbc8d6c9e5464.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.88",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.875",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 14,
+    "unit_name": "rebanadas",
+    "unit_price": "2.35",
+    "unit_selector": true,
+    "unit_size": 0.4
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/22899/pan-brioche-hacendado-paquete",
+  "slug": "pan-brioche-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/093aa5fd71175cc58f2cdecd129572cf.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,112 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 330,
+              "level": 2,
+              "name": "Bollería dulce",
+              "order": 515
+            }
+          ],
+          "id": 65,
+          "level": 1,
+          "name": "Bollería de horno",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Torta pasas y nueces Pascua",
+    "legal_name": "Torta de pasas y nueces",
+    "mandatory_mentions": "Producto de bollería descongelado.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Producto de bollería descongelado. No volver a congelar. Para un consumo óptimo del producto se aconseja: Mantener dentro del envase en un lugar fresco y seco. Consumir antes de 2 días desde su fecha de compra. Lote: ver envase",
+    "suppliers": [
+      {
+        "name": "La Tahona de Utiel, S.L."
+      },
+      {
+        "name": "La Tahona de Utiel, S.L.U"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Torta pasas y nueces Pascua",
+  "ean": "2105900842359",
+  "extra_info": [
+    ""
+  ],
+  "id": "84235",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>sh</strong>. Puede contener <strong>sa</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Puede contener <strong>dióxido de azufre y sulfitos</strong>. Contiene <strong>frutos de cáscara</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>sw</strong>.",
+    "ingredients": "Harina de <strong>trigo</strong> (<strong>gluten</strong>), pasas (19.09%) [pasas y aceites vegetales (algodón y girasol)], azúcar, agua, <strong>nueces</strong> (9,71%), <strong>huevo</strong> líquido pasteurizado, aceite de girasol, margarina [grasa vegetal (coco), aceite vegetal (girasol), agua, sal,  acidulante (ácido cítrico), conservador (E-200), emulgentes (E-471 y E-322) y antioxidantes (E-304i y E-306)], levadura, mejorante panario [<strong>gluten</strong> de <strong>trigo</strong>, harina de <strong>trigo</strong> (<strong>gluten</strong>), emulgentes (E-471, E-481, E-472e), agente antiaglomerante (E-170), agente de tratamiento de la harina (ácido ascórbico) y enzimas], <strong>gluten</strong> de <strong>trigo</strong>, sal, almidón de maíz, aroma y goma xantana. Puede contener trazas de <strong>sulfitos</strong>, <strong>leche</strong>, <strong>soja</strong>, otros <strong>frutos de cáscara</strong> y <strong>mostaza</strong>."
+  },
+  "origin": null,
+  "packaging": "Bolsa",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/38536f7a3ac052f998f6a39a5150e331.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/38536f7a3ac052f998f6a39a5150e331.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/38536f7a3ac052f998f6a39a5150e331.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/adb5dfd751192c8e34b4dffb17a5bdf9.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/adb5dfd751192c8e34b4dffb17a5bdf9.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/adb5dfd751192c8e34b4dffb17a5bdf9.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "10.91",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": "        3.80",
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "10.910",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.60",
+    "unit_selector": true,
+    "unit_size": 0.33
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/84235/torta-pasas-nueces-pascua-bolsa",
+  "slug": "torta-pasas-nueces-pascua-bolsa",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/38536f7a3ac052f998f6a39a5150e331.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

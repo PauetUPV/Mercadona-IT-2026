@@ -1,0 +1,133 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Sabroz",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 441,
+              "level": 2,
+              "name": "Arroz",
+              "order": 10
+            }
+          ],
+          "id": 118,
+          "level": 1,
+          "name": "Arroz",
+          "order": 10
+        }
+      ],
+      "id": 13,
+      "level": 0,
+      "name": "Arroz, legumbres y pasta",
+      "order": 10
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 839,
+              "level": 2,
+              "name": "Arroz",
+              "order": 597
+            }
+          ],
+          "id": 140,
+          "level": 1,
+          "name": "Platos preparados calientes",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Sabroz",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Arroz cocido redondo Sabroz Brillante",
+    "legal_name": "Arroz procesado",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar a temperatura ambiente en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Herba Ricemills. S.L.U."
+      }
+    ],
+    "usage_instructions": "Microondas(1 minuto) : 1 Abre ligeramente el envase.  2 Caliéntalo un minuto en el microondas. 3 Ten cuidado al desprender la tapa que que el envase estará caliente. Sarten: Calienta 2 minutos con un poco de aceite."
+  },
+  "display_name": "Arroz cocido redondo Sabroz",
+  "ean": "8410184040723",
+  "extra_info": [
+    null
+  ],
+  "id": "22279",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Arroz cocido 97% (agua, arroz vaporizado). aceite de oliva virgen (2%). sal. emulgente:lecitina de girasol. Sin gluten"
+  },
+  "origin": null,
+  "packaging": "Pack-2",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/b87d489084215ea73d35d6c2d465f39e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b87d489084215ea73d35d6c2d465f39e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b87d489084215ea73d35d6c2d465f39e.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/17021892799fd29056da8e6b50a24485.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/17021892799fd29056da8e6b50a24485.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/17021892799fd29056da8e6b50a24485.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.20",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.125,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "4.200",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 2,
+    "unit_name": "vasitos",
+    "unit_price": "1.05",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/22279/arroz-cocido-redondo-sabroz-brillante-pack-2",
+  "slug": "arroz-cocido-redondo-sabroz-brillante-pack-2",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/b87d489084215ea73d35d6c2d465f39e.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

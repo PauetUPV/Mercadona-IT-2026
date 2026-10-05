@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 303,
+              "level": 2,
+              "name": "Bacón",
+              "order": 159
+            }
+          ],
+          "id": 52,
+          "level": 1,
+          "name": "Bacón y salchichas",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Bacón Hacendado cintas",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Bacon ahumado natural",
+    "mandatory_mentions": "Envasado en atmósfera protectora / Pack 2 indivisible / ABRIR AQUÍ / Teléfono de atención al cliente Mercadona: 800 500 220/ SIN GLUTEN (logo) / RECICLA Al Amarillo (logo)",
+    "origin": null,
+    "production_variant": "Este producto se fabrica en dos fabricas: en Cárnicas 1 con número de registro ES 10.00121/B UE y en Cárnicas 3 con número de registro 10.027342/B UE",
+    "storage_instructions": "Mantener entre 0C y 5C / Consumir preferentemente antes del/lote: ver envase",
+    "suppliers": [
+      {
+        "name": "CASA TARRADELLAS, S.A."
+      }
+    ],
+    "usage_instructions": "1- Precalentar la sartén.  2- Añadir las cintas de bacon.  3- Cocinarlas durante 8 minutos a fuego medio. COCINAR ANTES DE CONSUMIR"
+  },
+  "display_name": "Bacón Hacendado cintas",
+  "ean": "8402001048333",
+  "extra_info": [
+    ""
+  ],
+  "id": "16252",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "cintas",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Panceta de cerdo (98%), sal, dextrosa, estabilizante (E-451i), antioxidante (ascorbato sódico), extracto de especias, conservador (nitrito sódico)."
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/9f4bbcd3b575f55df7aa9cea15ed0266.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9f4bbcd3b575f55df7aa9cea15ed0266.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9f4bbcd3b575f55df7aa9cea15ed0266.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/5a71232090c3408a643290daea356e9f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5a71232090c3408a643290daea356e9f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5a71232090c3408a643290daea356e9f.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "7.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.13,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 2,
+    "unit_name": "paquetes",
+    "unit_price": "1.95",
+    "unit_selector": true,
+    "unit_size": 0.26
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/16252/bacon-hacendado-cintas",
+  "slug": "bacon-hacendado-cintas",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/9f4bbcd3b575f55df7aa9cea15ed0266.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,130 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 386,
+              "level": 2,
+              "name": "Chocolatinas",
+              "order": 11
+            }
+          ],
+          "id": 92,
+          "level": 1,
+          "name": "Chocolate",
+          "order": 11
+        }
+      ],
+      "id": 9,
+      "level": 0,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Piruleta Pascua de chocolate Hacendado",
+    "legal_name": "PIRULETAS PASCUA",
+    "mandatory_mentions": "Sin gluten",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco (12ºC y 20ºC), seco y alejado de olores extraños.",
+    "suppliers": [
+      {
+        "name": "Kokoa Origens S.L."
+      },
+      {
+        "name": "Kokoa Origens SL"
+      }
+    ],
+    "usage_instructions": "Producto listo para consumir."
+  },
+  "display_name": "Piruleta Pascua de chocolate Hacendado",
+  "ean": "8421699222221",
+  "extra_info": [
+    "Modelo sujeto a disponibilidad."
+  ],
+  "id": "52827",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>soja y productos a base de soja</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<p>Chocolate con leche (85%): azúcar, leche entera en polvo, manteca de cacao, pasta de cacao, emulgente (lecitina de soja), aroma natural de vainilla. Cacao 30% mínimo. Sólidos de leche 21% mínimo. Decoración: azúcar, manteca de cacao, pasta de cacao, leche entera en polvo, cacao desgrasado en polvo, emulgentes (lecitina de girasol, lecitina de soja), aroma natural de vainilla, colorantes (E-160c, E-141, E-120, E-161b). Puede contener Frutos de Cáscara ."
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/46c201d9b67e1fa03bbae95fb8b427c3.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/46c201d9b67e1fa03bbae95fb8b427c3.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/46c201d9b67e1fa03bbae95fb8b427c3.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/740eda7b927d1407782969516e4dd270.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/740eda7b927d1407782969516e4dd270.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/740eda7b927d1407782969516e4dd270.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/a1d99770cbf67012093d604d2d15f009.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a1d99770cbf67012093d604d2d15f009.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a1d99770cbf67012093d604d2d15f009.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/3fc7bec159158bd317d828e0b49a594e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3fc7bec159158bd317d828e0b49a594e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3fc7bec159158bd317d828e0b49a594e.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/50278ab6c62f8c59ed6ab8e559eee557.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/50278ab6c62f8c59ed6ab8e559eee557.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/50278ab6c62f8c59ed6ab8e559eee557.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "28.57",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": "        1.70",
+    "price_decreased": false,
+    "reference_format": "100 g",
+    "reference_price": "2.858",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 1,
+    "unit_name": "ud.",
+    "unit_price": "1.00",
+    "unit_selector": true,
+    "unit_size": 0.035
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/52827/piruleta-chocolate-con-leche-pascua-hacendado",
+  "slug": "piruleta-chocolate-con-leche-pascua-hacendado",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/46c201d9b67e1fa03bbae95fb8b427c3.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,114 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 302,
+              "level": 2,
+              "name": "Lomo y otros",
+              "order": 159
+            }
+          ],
+          "id": 51,
+          "level": 1,
+          "name": "Embutido curado",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Lomo de cebo ibérico 50% raza ibérica cortado a máquina envasado al vacío",
+    "legal_name": "Lomo de cebo ibérico 50% raza ibérica",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "Producto de peso variable. El contenido neto del mismo puede oscilar entre 100g-120g.",
+    "storage_instructions": "Conservar en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "INCARLOPSA"
+      },
+      {
+        "name": "Inds. Cárnicas Loriente Piqueras, S.A. (INCARLOPSA)."
+      }
+    ],
+    "usage_instructions": "Para apreciar todas las cualidades del producto recomendamos: abrir el envase 10 minutos antes de ser consumido y una vez abierto, conservar en refrigeración y consumir en un plazo de 7 días."
+  },
+  "display_name": "Lomo de cebo ibérico 50% raza ibérica cortado a máquina",
+  "ean": "8402001041693",
+  "extra_info": [
+    ""
+  ],
+  "id": "15103",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Lomo de cerdo de cebo ibérico, sal, especias, azúcar, aceite de oliva, dextrosa, antioxidante (E-301) y conservadores (E-250 y E-252). Puede contener trazas de proteína de soja."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/f8b10ccd5de406cbcdbb401d1ad53ef4.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f8b10ccd5de406cbcdbb401d1ad53ef4.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f8b10ccd5de406cbcdbb401d1ad53ef4.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/8db72ff4e8fc9bf1dc322f3c21d96c45.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8db72ff4e8fc9bf1dc322f3c21d96c45.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8db72ff4e8fc9bf1dc322f3c21d96c45.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "57.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "57.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "6.33",
+    "unit_selector": true,
+    "unit_size": 0.11
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/15103/lomo-cebo-iberico-50-raza-iberica-cortado-maquina-envasado-vacio-paquete",
+  "slug": "lomo-cebo-iberico-50-raza-iberica-cortado-maquina-envasado-vacio-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/f8b10ccd5de406cbcdbb401d1ad53ef4.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

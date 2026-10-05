@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 486,
+              "level": 2,
+              "name": "Aceitunas negras",
+              "order": 9
+            }
+          ],
+          "id": 135,
+          "level": 1,
+          "name": "Aceitunas y encurtidos",
+          "order": 9
+        }
+      ],
+      "id": 15,
+      "level": 0,
+      "name": "Aperitivos",
+      "order": 9
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Aceitunas negras en rodajas Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Aceitunas negras en rodajas",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar a temperatura ambiente y protegido de la luz. Una vez abierto, refrigerar y consumir antes de 7 días",
+    "suppliers": [
+      {
+        "name": "Aceitunas Guadalquivir, S. L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Aceitunas negras en rodajas Hacendado",
+  "ean": "8402001023811",
+  "extra_info": [
+    ""
+  ],
+  "id": "8309",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Aceitunas, sal y estabilizante: gluconato ferroso"
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/4cc12679f0a56049713fc09731163d79.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4cc12679f0a56049713fc09731163d79.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4cc12679f0a56049713fc09731163d79.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/f3d9ab2cbf0a2f15dd914036424dcf4a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f3d9ab2cbf0a2f15dd914036424dcf4a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f3d9ab2cbf0a2f15dd914036424dcf4a.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "12.84",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.037,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "12.838",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 4,
+    "unit_name": "botes",
+    "unit_price": "1.90",
+    "unit_selector": true,
+    "unit_size": 0.148
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/8309/aceitunas-negras-hacendado-rodajas",
+  "slug": "aceitunas-negras-hacendado-rodajas",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/4cc12679f0a56049713fc09731163d79.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

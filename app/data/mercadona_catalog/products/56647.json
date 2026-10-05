@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 491,
+              "level": 2,
+              "name": "Pizzas refrigeradas",
+              "order": 597
+            }
+          ],
+          "id": 138,
+          "level": 1,
+          "name": "Pizzas",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pizza atún y bacón Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Pizza con atún y bacon",
+    "mandatory_mentions": "PRODUCTO PRECOCINADO REFRIGERADO / ENVASADO EN ATMÓSFERA PROTECTORA /  COCIDA AL HORNO DE PIEDRA/Teléfono de atención al cliente Mercadona: 800 500 220 /  RECICLA Amarillo (logo) / CON PLÁSTICO RECICLADO",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Puede congelarse justo después de su compra. Mantener entre 0ºC y 5ºC. Consumir preferentemente antes del/Lote: Ver envase",
+    "suppliers": [
+      {
+        "name": "CASA TARRADELLAS, S.A."
+      }
+    ],
+    "usage_instructions": "PREPARACIÓN HORNO 1 -Precalentar el horno hasta 220ºC (calor superior e inferior, sin ventilación). 2 - Retirar el envoltorio  y colocar la pizza en la rejilla del horno a media altura. 3 - Cocerla durante al menos 10 minutos. Si añade otros ingredientes el tiempo de cocción podría incrementarse. 4 - Antes de servir, dejar enfriar la pizza al menos un minuto. PREPARACIÓN AIRFRYER 1 - Retirar el envoltorio  y colocar la pizza en en cajón del Airfryer. 2 - Cocerla durante 10 minutos a 160ºC. Si añade otros ingredientes el tiempo de cocción podría incrementarse. 3 - Antes de servir, dejar enfriar la pizza al menos un minuto.. COCER ANTES DE CONSUMIR. NO UTILIZAR MICROONDAS U OTROS MÉTODOS DE PREPARACIÓN."
+  },
+  "display_name": "Pizza atún y bacón Hacendado",
+  "ean": "8480000566478",
+  "extra_info": [
+    null
+  ],
+  "id": "56647",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>pescado y productos a base de pescado</strong>.",
+    "ingredients": "Harina de <strong>trigo</strong>, <strong>queso* mozzarell</strong>a (24%), bacon ahumado natural (15%<strong>), t</strong>omate, agua, atún (4%), aceite <strong>refinad</strong>o de girasol, sal, lactosa, levadura, estabilizante (trifosfato pentasódico), dextrosa, especias, orégano, antioxidante (ascorbato sódico), aromas, conservador (nitrito sódico). Puede contener trazas de soja y mostaza. *Queso elaborado con leche pasteurizada."
+  },
+  "origin": null,
+  "packaging": "Pack-2",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/f9cd7c45b880709a4b1f001dd0ae68f5.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f9cd7c45b880709a4b1f001dd0ae68f5.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f9cd7c45b880709a4b1f001dd0ae68f5.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/71da92474dc35eaf9e5bf1ea51699766.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/71da92474dc35eaf9e5bf1ea51699766.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/71da92474dc35eaf9e5bf1ea51699766.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.59",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.22,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.591",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 2,
+    "unit_name": "ud.",
+    "unit_price": "2.90",
+    "unit_selector": true,
+    "unit_size": 0.44
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/56647/pizza-atun-bacon-hacendado-pack-2",
+  "slug": "pizza-atun-bacon-hacendado-pack-2",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/f9cd7c45b880709a4b1f001dd0ae68f5.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

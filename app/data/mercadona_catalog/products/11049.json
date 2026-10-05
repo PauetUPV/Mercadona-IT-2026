@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 370,
+              "level": 2,
+              "name": "Café soluble",
+              "order": 16
+            }
+          ],
+          "id": 84,
+          "level": 1,
+          "name": "Café soluble y otras bebidas",
+          "order": 16
+        }
+      ],
+      "id": 8,
+      "level": 0,
+      "name": "Cacao, café e infusiones",
+      "order": 16
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Café soluble classic en sobres Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Café soluble",
+    "mandatory_mentions": "Alto contenido en fibra. Recicla al azul",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Guardar el envase bien cerrado en lugar fresco y seco. Proteger de la luz solar y de los olores agresivos",
+    "suppliers": [
+      {
+        "name": "Productos Solubles, S.A."
+      }
+    ],
+    "usage_instructions": "Añada el contenido de un sobre en una taza y agregue agua. También se puede añadir leche."
+  },
+  "display_name": "Café soluble classic en sobres Hacendado",
+  "ean": "8402001031878",
+  "extra_info": [
+    ""
+  ],
+  "id": "11049",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "100% café soluble"
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/d409387b8f192af34480c5d3c6421814.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d409387b8f192af34480c5d3c6421814.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d409387b8f192af34480c5d3c6421814.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/4ad27db14b1164f3522706f5de35a634.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4ad27db14b1164f3522706f5de35a634.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4ad27db14b1164f3522706f5de35a634.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "55.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "100 g",
+    "reference_price": "5.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 10,
+    "unit_name": "sobres",
+    "unit_price": "1.10",
+    "unit_selector": true,
+    "unit_size": 0.02
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/11049/cafe-soluble-clasico-hacendado-sobres-caja",
+  "slug": "cafe-soluble-clasico-hacendado-sobres-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/d409387b8f192af34480c5d3c6421814.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

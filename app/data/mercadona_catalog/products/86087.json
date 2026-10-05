@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 407,
+              "level": 2,
+              "name": "Yogures desnatados",
+              "order": 598
+            }
+          ],
+          "id": 103,
+          "level": 1,
+          "name": "Yogures desnatados",
+          "order": 598
+        }
+      ],
+      "id": 11,
+      "level": 0,
+      "name": "Postres y yogures",
+      "order": 598
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Postre lácteo con fruta Hacendado 0% MG 0% azúcares añadidos 2 manzana, 2 mango, 2 piña y 2 fresa",
+    "legal_name": "Leche fermentada desnatada con piña, fresa, manzana y mango. Con edulcorantes",
+    "mandatory_mentions": "Sin gluten. Producido en: Ver 2 letras junto a fecha de caducidad.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 1ºC y 8ºC.",
+    "suppliers": [
+      {
+        "name": "Schreiber Foods España, S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Postre lácteo con fruta Hacendado 0% MG 0% azúcares añadidos",
+  "ean": "8480000860873",
+  "extra_info": [
+    ""
+  ],
+  "id": "86087",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Leche</strong> fresca pasteurizada desnatada (Origen: España), piña (11,9%) (trozos y pulpa), fresa (10,5%), manzana (10,5%) (trozos y pulpa), mango (10%), <strong>leche</strong> en polvo desnatada, proteínas de la <strong>leche</strong>, gelatina, aromas, concentrado de<strong> </strong>zanahoria y zanahoria negra, edulcorantes (acesulfamo potásico y sucralosa), fermentos<strong> lácticos </strong>y colorante (beta-caroteno)."
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/01ef76f0c2b6dbdf1c6ccf8384805fdf.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/01ef76f0c2b6dbdf1c6ccf8384805fdf.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/01ef76f0c2b6dbdf1c6ccf8384805fdf.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/559d8f356109470c3bc35551fa595056.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/559d8f356109470c3bc35551fa595056.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/559d8f356109470c3bc35551fa595056.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": 4,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.125,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "2.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 8,
+    "unit_name": "ud.",
+    "unit_price": "2.00",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/86087/postre-lacteo-con-fruta-hacendado-0-mg-0-sin-azucares-anadidos-2-manzana-2-mango-2-pina-2-fresa-pack-8",
+  "slug": "postre-lacteo-con-fruta-hacendado-0-mg-0-sin-azucares-anadidos-2-manzana-2-mango-2-pina-2-fresa-pack-8",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/01ef76f0c2b6dbdf1c6ccf8384805fdf.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

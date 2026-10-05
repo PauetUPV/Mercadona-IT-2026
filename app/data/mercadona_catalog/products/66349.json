@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Torre Oria",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 569,
+              "level": 2,
+              "name": "Otros vinos tintos",
+              "order": 15
+            }
+          ],
+          "id": 169,
+          "level": 1,
+          "name": "Vino tinto",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": "13.5º",
+    "brand": "Torre Oria",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Vino tinto tempranillo syrah suave Caperucita tinta Torre Oria",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Vino Tinto",
+    "mandatory_mentions": "Una vez abierto el envase, se recomienda consumir en tres días",
+    "origin": "Varietal",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y protegido de la luz solar.",
+    "suppliers": [
+      {
+        "name": "Torre Oria SL"
+      },
+      {
+        "name": "Torreoria S.L."
+      }
+    ],
+    "usage_instructions": "Servir entre 17-18 C."
+  },
+  "display_name": "Vino tinto tempranillo syrah suave Caperucita tinta Torre Oria",
+  "ean": "8410744008675",
+  "extra_info": [
+    ""
+  ],
+  "id": "66349",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>dióxido de azufre y sulfitos</strong>.",
+    "ingredients": "Uva, agentes estabilizantes (Goma Arábiga, Poliaspartato de Potasio), Correctores de la acidez (Ácido Málico(L-), Ácido Láctico), Conservadores (Dicarbonato de Dimetilo), antioxidantes <strong>(Anhídrido Sulfuroso).</strong> <strong>Sulfitos.</strong>"
+  },
+  "origin": "Varietal",
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/1abdd9a56440a4f1b336385f9278d9a7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1abdd9a56440a4f1b336385f9278d9a7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1abdd9a56440a4f1b336385f9278d9a7.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/0dc2ebaad9f0ac580025287430b50f69.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0dc2ebaad9f0ac580025287430b50f69.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0dc2ebaad9f0ac580025287430b50f69.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.47",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "2.467",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.85",
+    "unit_selector": true,
+    "unit_size": 0.75
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/66349/vino-tinto-caperucita-tinta-torre-oria-suave-tempranillo-botella",
+  "slug": "vino-tinto-caperucita-tinta-torre-oria-suave-tempranillo-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/1abdd9a56440a4f1b336385f9278d9a7.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

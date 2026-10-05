@@ -1,0 +1,135 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 514,
+              "level": 2,
+              "name": "Pescado rebozado",
+              "order": 213
+            }
+          ],
+          "id": 884,
+          "level": 1,
+          "name": "Rebozados",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 275,
+              "level": 2,
+              "name": "Pescado rebozado congelado",
+              "order": 442
+            }
+          ],
+          "id": 34,
+          "level": 1,
+          "name": "Pescado congelado",
+          "order": 442
+        }
+      ],
+      "id": 2,
+      "level": 0,
+      "name": "Marisco y pescado",
+      "order": 442
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Filetes de boquerón en tempura Hacendado ultracongelado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "BOQUERÓN EN TEMPURA. PRECOCINADO ULTRACONGELADO",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Mantener a = -18C",
+    "suppliers": [
+      {
+        "name": "CONGALSA S.L."
+      }
+    ],
+    "usage_instructions": "FREIDORA: No es necesario descongelar. Freír en abundante aceite caliente (180ºC) durante 1:30 - 2 minutos aproximadamente, hasta que estén bien dorados. SARTÉN: No es necesario descongelar. Calentar el aceite a 180ºC, sin que este llegue a humear. Freír durante 1:30 - 2 minutos. Déles la vuelta a mitad de la fritura para formar una cobertura más crujiente. Freír hasta que estén dorados. HORNO: Precalentar el horno a 230ºC. Colocar el producto, sin descongelar, sobre la bandeja del horno con papel de horno. Hornear con calor por arriba y por abajo con el ventilador encendido. Colocar la bandeja a media altura durante 10 -12 minutos aproximadamente. FREIDORA DE AIRE: No descongelar. Colocar las unidades separadas entre sí para que se cocinen uniformemente. Cocinar durante 6 minutos a 200ºC."
+  },
+  "display_name": "Filetes de boquerón en tempura Hacendado ultracongelado",
+  "ean": "8480000631145",
+  "extra_info": [
+    null
+  ],
+  "id": "63114",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "ultracongelado",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>. Puede contener <strong>moluscos y productos a base de moluscos</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>pescado y productos a base de pescado</strong>.",
+    "ingredients": "<strong>Boquerón</strong> (<strong>pescado</strong>) (50%); tempura (50%): Agua, pan rallado [harina de <strong>trigo</strong> (<strong>gluten</strong>), agua, sal, levadura], harina de <strong>trigo</strong> (<strong>gluten</strong>), aceite de girasol, clara de <strong>huevo</strong>, almidón, gasificantes (E-450i, E-500ii), sal y zumo de limón concentrado. Puede contener trazas de <strong>moluscos</strong>, <strong>crustáceos</strong>, <strong>soja</strong> y <strong>mostaza</strong>."
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/81657b20ec5d521083bd0bf83b4fc013.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/81657b20ec5d521083bd0bf83b4fc013.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/81657b20ec5d521083bd0bf83b4fc013.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/b54d388031a1f30d0b1d3174a2067b8e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b54d388031a1f30d0b1d3174a2067b8e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b54d388031a1f30d0b1d3174a2067b8e.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "9.38",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "9.375",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.75",
+    "unit_selector": true,
+    "unit_size": 0.4
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/63114/filetes-boqueron-tempura-hacendado-ultracongelado-paquete",
+  "slug": "filetes-boqueron-tempura-hacendado-ultracongelado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/81657b20ec5d521083bd0bf83b4fc013.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,134 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Deliplus",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 626,
+              "level": 2,
+              "name": "Laca de uñas",
+              "order": 241
+            }
+          ],
+          "id": 194,
+          "level": 1,
+          "name": "Manicura y pedicura",
+          "order": 241
+        }
+      ],
+      "id": 20,
+      "level": 0,
+      "name": "Cuidado facial y corporal",
+      "order": 241
+    }
+  ],
+  "color_variants": [
+    {
+      "color": "#ffffff",
+      "color_description": "01 blanco punta",
+      "merca_code": "41692",
+      "status": null
+    },
+    {
+      "color": "#ffd4ce",
+      "color_description": "03 rosa",
+      "merca_code": "41685",
+      "status": null
+    },
+    {
+      "color": "#e7e7e7",
+      "color_description": "06 blanco milky",
+      "merca_code": "23021",
+      "status": null
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Deliplus",
+    "counter_info": null,
+    "danger_mentions": null,
+    "description": "Laca de uñas manicura francesa Deliplus 06 blanco milky",
+    "is_prepared_by_mercadona": false,
+    "legal_name": null,
+    "mandatory_mentions": null,
+    "origin": null,
+    "production_variant": null,
+    "storage_instructions": null,
+    "suppliers": [],
+    "usage_instructions": null
+  },
+  "display_name": "Laca de uñas manicura francesa Deliplus 06 blanco milky",
+  "ean": "8480000230218",
+  "extra_info": [
+    ""
+  ],
+  "id": "23021",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "06 blanco milky",
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": null
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/0db4702442230ded318a82c9a2caec6b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0db4702442230ded318a82c9a2caec6b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0db4702442230ded318a82c9a2caec6b.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 11,
+      "regular": "https://prod-mercadona.imgix.net/images/1a83ac087e3a08c5aa75ee9dc18dd689.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1a83ac087e3a08c5aa75ee9dc18dd689.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1a83ac087e3a08c5aa75ee9dc18dd689.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/932666261487238f2ab5b2f0a776583e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/932666261487238f2ab5b2f0a776583e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/932666261487238f2ab5b2f0a776583e.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.75",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 21,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "2.750",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": 1,
+    "unit_name": "ud.",
+    "unit_price": "2.75",
+    "unit_selector": true,
+    "unit_size": 0.011
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/23021/laca-unas-manicura-francesa-deliplus-06-blanco",
+  "slug": "laca-unas-manicura-francesa-deliplus-06-blanco",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/0db4702442230ded318a82c9a2caec6b.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

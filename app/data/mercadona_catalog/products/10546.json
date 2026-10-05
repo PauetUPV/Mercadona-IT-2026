@@ -1,0 +1,115 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 343,
+              "level": 2,
+              "name": "Leche semidesnatada",
+              "order": 373
+            }
+          ],
+          "id": 72,
+          "level": 1,
+          "name": "Leche y bebidas vegetales",
+          "order": 373
+        }
+      ],
+      "id": 6,
+      "level": 0,
+      "name": "Huevos, leche y mantequilla",
+      "order": 373
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Leche semidesnatada sin lactosa Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Leche semidesnatada de vaca UHT sin lactosa",
+    "mandatory_mentions": "Sin lactosa. No apta para alérgicos a la proteína de la leche de vaca. La lactosa (azúcar natural de la leche), está convertida en glucosa y galactosa. Granjas 100% Nacionales",
+    "origin": "Córdoba",
+    "production_variant": "",
+    "storage_instructions": "No almacenar a más de 30ºC. No almacenar ni transportar con productos no alimentarios, en especial con productos de limpieza o que desprendan olores. Mantener en lugar fresco y seco. Una vez abierto el envase, conservar en el frigorífico con el tapón colocado y consumir antes de 3 días.",
+    "suppliers": [
+      {
+        "name": "COVAP S. COOP. AND. GANADERA DEL VALLE DE LOS PEDROCHES"
+      },
+      {
+        "name": "Iparlat, S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Leche semidesnatada sin lactosa Hacendado",
+  "ean": "8480000105462",
+  "extra_info": [
+    null
+  ],
+  "id": "10546",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Leche</strong> semidesnatada y lactasa. Origen de la leche: España"
+  },
+  "origin": "Córdoba",
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/cb6c51dc548abac574de376046426d67.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/cb6c51dc548abac574de376046426d67.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/cb6c51dc548abac574de376046426d67.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/5383478a8abf144c403243f4832b973a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5383478a8abf144c403243f4832b973a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5383478a8abf144c403243f4832b973a.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.08",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 4,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "1.080",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.62",
+    "unit_selector": true,
+    "unit_size": 1.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/10546/leche-semidesnatada-sin-lactosa-hacendado-botella",
+  "slug": "leche-semidesnatada-sin-lactosa-hacendado-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/cb6c51dc548abac574de376046426d67.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

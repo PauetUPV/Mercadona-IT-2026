@@ -1,0 +1,103 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 816,
+              "level": 2,
+              "name": "Merluza",
+              "order": 442
+            }
+          ],
+          "id": 31,
+          "level": 1,
+          "name": "Pescado fresco",
+          "order": 442
+        }
+      ],
+      "id": 2,
+      "level": 0,
+      "name": "Marisco y pescado",
+      "order": 442
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": "Los productos del mostrador de pescadería pueden contener trazas de: pescado, moluscos, crustáceos y sulfitos.",
+    "danger_mentions": "",
+    "description": "Merluza sin aletas y sin escamas",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Merluccius capensis/ paradoxus.",
+    "mandatory_mentions": "",
+    "origin": "Namibia y Sudáfrica",
+    "production_variant": "Al tratarse de un producto de peso variable la unidad de consumo adquirida puede oscilar entre 1000 y 3000 g. Por favor, consulte la etiqueta del producto para conocer el contenido neto del mismo.",
+    "storage_instructions": "Conservar entre 0-4C",
+    "suppliers": [],
+    "usage_instructions": ""
+  },
+  "display_name": "Merluza sin aletas y sin escamas",
+  "ean": "8480000826107",
+  "extra_info": [
+    null
+  ],
+  "id": "82610.3",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>pescado y productos a base de pescado</strong>.",
+    "ingredients": "<strong>Pescado</strong>."
+  },
+  "origin": "Namibia y Sudáfrica",
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 7,
+      "regular": "https://prod-mercadona.imgix.net/images/fe6762be2b524bd5bcd015202b222dc4.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/fe6762be2b524bd5bcd015202b222dc4.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/fe6762be2b524bd5bcd015202b222dc4.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "11.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "11.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "13.34",
+    "unit_selector": true,
+    "unit_size": 1.16
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/82610.3/merluza-sin-aletas-sin-escamas-pieza",
+  "slug": "merluza-sin-aletas-sin-escamas-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/fe6762be2b524bd5bcd015202b222dc4.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

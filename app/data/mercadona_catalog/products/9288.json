@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hero Solo",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 691,
+              "level": 2,
+              "name": "Tarritos salados",
+              "order": 14
+            }
+          ],
+          "id": 216,
+          "level": 1,
+          "name": "Alimentación infantil",
+          "order": 14
+        }
+      ],
+      "id": 24,
+      "level": 0,
+      "name": "Bebé",
+      "order": 14
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hero Solo",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Papilla verduritas con pollo Hero Solo buenas noches +6 meses",
+    "legal_name": "Alimento Infantil. Verduras con Pollo.",
+    "mandatory_mentions": "Más 6 meses.",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco. Una vez abierto se conserva 24 horas en el frigorífico.",
+    "suppliers": [
+      {
+        "name": "Hero España, S.A."
+      }
+    ],
+    "usage_instructions": "Recomendamos abrir el frasco y remover suavemente con una cuchara no metálica antes y después de calentar al baño maria o en microondas. Probar antes de dar al bebé. No añadir sal."
+  },
+  "display_name": "Papilla verduritas con pollo Hero Solo buenas noches +6 meses",
+  "ean": "8410175013903",
+  "extra_info": [
+    ""
+  ],
+  "id": "9288",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>apio y productos derivados</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<p>Verduras (38%) (zanahoria (20%), tomate (7%), cebolla (6%), apio), patata (28%), agua de cocción, carne de pollo (8%), leche entera (8%), aceite de oliva virgen extra (1,6%). Sin gluten."
+  },
+  "origin": "España",
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/4d652bb5fdc000460b7a15e94de9acf8.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4d652bb5fdc000460b7a15e94de9acf8.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4d652bb5fdc000460b7a15e94de9acf8.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/7bff655a7df0871fdeffa962e97aa7f6.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7bff655a7df0871fdeffa962e97aa7f6.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7bff655a7df0871fdeffa962e97aa7f6.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "7.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.19,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 2,
+    "unit_name": "tarritos",
+    "unit_price": "2.85",
+    "unit_selector": true,
+    "unit_size": 0.38
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/9288/papilla-verduritas-con-pollo-hero-baby-buenas-noches-6-meses-pack-2",
+  "slug": "papilla-verduritas-con-pollo-hero-baby-buenas-noches-6-meses-pack-2",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/4d652bb5fdc000460b7a15e94de9acf8.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

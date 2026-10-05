@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Para Pecar",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 569,
+              "level": 2,
+              "name": "Otros vinos tintos",
+              "order": 15
+            }
+          ],
+          "id": 169,
+          "level": 1,
+          "name": "Vino tinto",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": "14.0º",
+    "brand": "Para Pecar",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Vino tinto Bobal Para Pecar",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Vino tinto",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Mantener alejado de ambientes con fuertes olores, no someter a cambios bruscos de temperatura y no exponer a fuentes de calor ni a la luz directa",
+    "suppliers": [
+      {
+        "name": "Vicente Gandia Pla, S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Vino tinto Bobal Para Pecar",
+  "ean": "8480000707277",
+  "extra_info": [
+    null
+  ],
+  "id": "70727",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>dióxido de azufre y sulfitos</strong>.",
+    "ingredients": "Uva, mosto de uva concentrado, correctores de la acidez (ácido Tartárico[L(+)], ácido láctico), conservadores y antioxidantes (<strong>anhídrido sulfuroso),</strong> agentes estabilizantes (goma arábiga, manoproteínas de levadura, poliaspartato de potasio). Embotellado en atmósfera protectora"
+  },
+  "origin": "España",
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/ce4906d5aee9cbf5d8dc16ef2815a3d2.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ce4906d5aee9cbf5d8dc16ef2815a3d2.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ce4906d5aee9cbf5d8dc16ef2815a3d2.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/2ddbc6bc328ee265e6c9054c8234b109.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/2ddbc6bc328ee265e6c9054c8234b109.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/2ddbc6bc328ee265e6c9054c8234b109.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.87",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 21,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "3.867",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.90",
+    "unit_selector": true,
+    "unit_size": 0.75
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/70727/vino-tinto-bobal-pecar-botella",
+  "slug": "vino-tinto-bobal-pecar-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/ce4906d5aee9cbf5d8dc16ef2815a3d2.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

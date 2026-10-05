@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Deliplus",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 600,
+              "level": 2,
+              "name": "Cepillo de dientes",
+              "order": 241
+            }
+          ],
+          "id": 186,
+          "level": 1,
+          "name": "Higiene bucal",
+          "order": 241
+        }
+      ],
+      "id": 20,
+      "level": 0,
+      "name": "Cuidado facial y corporal",
+      "order": 241
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Deliplus",
+    "counter_info": null,
+    "danger_mentions": null,
+    "description": "Cepillo dental Medio Deliplus + Action",
+    "legal_name": null,
+    "mandatory_mentions": null,
+    "origin": null,
+    "production_variant": null,
+    "storage_instructions": null,
+    "suppliers": [],
+    "usage_instructions": null
+  },
+  "display_name": "Cepillo dental Medio Deliplus + Action",
+  "ean": "8402001028625",
+  "extra_info": [
+    "Modelo sujeto a disponibilidad."
+  ],
+  "id": "11631",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": null
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/a25793abdf7a4290fcc0c11501bf1ccf.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a25793abdf7a4290fcc0c11501bf1ccf.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a25793abdf7a4290fcc0c11501bf1ccf.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/929361435fe2921d8b0de4045a7937e9.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/929361435fe2921d8b0de4045a7937e9.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/929361435fe2921d8b0de4045a7937e9.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 4,
+      "regular": "https://prod-mercadona.imgix.net/images/83077a9bb2aecf8e681f93ff5fde2675.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/83077a9bb2aecf8e681f93ff5fde2675.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/83077a9bb2aecf8e681f93ff5fde2675.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "1.500",
+    "selling_method": 0,
+    "size_format": "ud",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.50",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/11631/cepillo-dental-medio-deliplus-action-paquete",
+  "slug": "cepillo-dental-medio-deliplus-action-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/a25793abdf7a4290fcc0c11501bf1ccf.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

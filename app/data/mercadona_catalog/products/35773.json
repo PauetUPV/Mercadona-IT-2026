@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 504,
+              "level": 2,
+              "name": "Verdura",
+              "order": 213
+            }
+          ],
+          "id": 145,
+          "level": 1,
+          "name": "Fruta y verdura",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Migas de coliflor Hacendado ultracongeladas",
+    "legal_name": "Coliflor en grano con hierbas ultracongelada",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar  a -18ºC.  Para no alterar la calidad de este producto, aconsejamos no volver a congelarlo una vez descongelado.",
+    "suppliers": [
+      {
+        "name": "Gelagri Ibérica. S.L."
+      }
+    ],
+    "usage_instructions": "No es necesario descongelar previamente. SARTÉN: Para 450g: Agregar la mezcla en una sartén precalentada con un poco de aceite. Tape y cocine a fuego medio durante 8 minutos, revolviendo de vez en cuando. Retire la tapa y continúe cocinando durante 1  a 2 minutos. Revuelva bien antes de servir."
+  },
+  "display_name": "Migas de coliflor Hacendado ultracongeladas",
+  "ean": "8402001010064",
+  "extra_info": [
+    ""
+  ],
+  "id": "35773",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Coliflor en grano, perejil picado, cebolla, sal y ajo. Origen: España"
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/dd48edffea66ff30354eada4961f0e17.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/dd48edffea66ff30354eada4961f0e17.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/dd48edffea66ff30354eada4961f0e17.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/26e1b4c1d7848643a537cba1300e0c7b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/26e1b4c1d7848643a537cba1300e0c7b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/26e1b4c1d7848643a537cba1300e0c7b.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.44",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "3.445",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.55",
+    "unit_selector": true,
+    "unit_size": 0.45
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/35773/migas-coliflor-hacendado-ultracongeladas-paquete",
+  "slug": "migas-coliflor-hacendado-ultracongeladas-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/dd48edffea66ff30354eada4961f0e17.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

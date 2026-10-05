@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 339,
+              "level": 2,
+              "name": "Levadura y preparado repostería",
+              "order": 515
+            }
+          ],
+          "id": 69,
+          "level": 1,
+          "name": "Harina y preparado repostería",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Preparado en polvo gelatina maracuyá Hacendado",
+    "legal_name": "Preparado en polvo para hacer gelatina con sabor a maracuyá, con azúcar y edulcorante",
+    "mandatory_mentions": "Puede añadirse fruta fresca al preparado pero no mezclar frutas tropicales y algunas otras frutas ácidas (kiwi, mango, piña) ya que impiden que cuaje la gelatina. Para utilizar estas frutas puede hacerlo en almíbar o cocidas (al vapor o con agua caliente) antes de mezclarlo con la gelatina.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar a Temperatura ambiente, en sitio fresco y seco. Una vez preparado, mantener en el frigorífico y consumir antes de 48h.",
+    "suppliers": [
+      {
+        "name": "FOOD REBELS S.L."
+      }
+    ],
+    "usage_instructions": "Disolver el contenido de la bolsa en 500 ml de agua hirviendo. Añadir 500 ml de agua fría y remover. Verter en el molde y dejar enfriar en el frigorífico hasta que se cuaje. Se aconseja tapar el producto. Para desmoldar surmergir el molde en agua muy caliente durante unos segundos."
+  },
+  "display_name": "Preparado en polvo gelatina maracuyá Hacendado",
+  "ean": "8402001041839",
+  "extra_info": [
+    ""
+  ],
+  "id": "15275",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Azúcar, gelatina (11,1%), correctores de acidez: ácido cítrico, citrato trisódico; aromas,colorantes: beta-caroteno, concentrado de zanahoria; vitamina C, edulcorante:sucralosa."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/576fef3bd271c8ccd803179510f5dfce.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/576fef3bd271c8ccd803179510f5dfce.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/576fef3bd271c8ccd803179510f5dfce.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/03f7182a76255d5b74f245ef0e48c854.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/03f7182a76255d5b74f245ef0e48c854.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/03f7182a76255d5b74f245ef0e48c854.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "9.83",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "9.832",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.75",
+    "unit_selector": true,
+    "unit_size": 0.178
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/15275/preparado-polvo-gelatina-maracuya-hacendado-paquete",
+  "slug": "preparado-polvo-gelatina-maracuya-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/576fef3bd271c8ccd803179510f5dfce.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

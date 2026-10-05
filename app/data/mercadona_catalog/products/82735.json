@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 320,
+              "level": 2,
+              "name": "Otros panes",
+              "order": 515
+            }
+          ],
+          "id": 60,
+          "level": 1,
+          "name": "Pan de molde y otras especialidades",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Hogaza sin gluten cortada",
+    "legal_name": "Producto horneado elaborado a partir de mezcla de almidones y harinas sin gluten.",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en un lugar fresco y seco, manteniendo el envase cerrado, protegido de la luz solar.",
+    "suppliers": [
+      {
+        "name": "Airos Delicatessen S.L"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Hogaza sin gluten",
+  "ean": "8480000827357",
+  "extra_info": [
+    null
+  ],
+  "id": "82735",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "Agua, almidones (maíz, tapioca), harinas (arroz, trigo sarraceno, mijo), jarabe de arroz, aceite refinado de girasol, azúcar, levadura, fibras vegetales, proteína vegetal, sal, espesantes (hidroxipropilmetilcelulosa, goma xantana), aroma, conservadores (ácido sórbico, propionato cálcico). Puede contener trazas de <strong>huevo</strong>, <strong>soja</strong>, <strong>mostaza</strong>, <strong>granos de sésamo</strong>."
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/af38980c089d2ef99559f4ecaa47cc7d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/af38980c089d2ef99559f4ecaa47cc7d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/af38980c089d2ef99559f4ecaa47cc7d.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/b29586b1b6e115978da15b5a6c63890e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b29586b1b6e115978da15b5a6c63890e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b29586b1b6e115978da15b5a6c63890e.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "9.87",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 4,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "9.867",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.96",
+    "unit_selector": true,
+    "unit_size": 0.3
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/82735/hogaza-sin-gluten-cortada-paquete",
+  "slug": "hogaza-sin-gluten-cortada-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/af38980c089d2ef99559f4ecaa47cc7d.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

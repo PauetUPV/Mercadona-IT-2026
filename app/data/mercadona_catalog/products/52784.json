@@ -1,0 +1,109 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 280,
+              "level": 2,
+              "name": "Cerdo",
+              "order": 17
+            }
+          ],
+          "id": 37,
+          "level": 1,
+          "name": "Cerdo",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Codillo de cerdo",
+    "legal_name": "CODILLO DE PALETA DE CERDO SIN PIEL",
+    "mandatory_mentions": "UNA VEZ ABIERTO CONSUMIR EN 48H.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "CONSERVAR ENTRE 0 - 5ºC",
+    "suppliers": [
+      {
+        "name": "HERMANOS MORAN S.L."
+      }
+    ],
+    "usage_instructions": "COCINAR COMPLETAMENTE ANTES DE CONSUMIR."
+  },
+  "display_name": "Codillo de cerdo",
+  "ean": "8402001020919",
+  "extra_info": [
+    ""
+  ],
+  "id": "52784",
+  "is_bulk": true,
+  "is_variable_weight": true,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": ""
+  },
+  "origin": null,
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/270d67501960334e55db141922ec2c1f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/270d67501960334e55db141922ec2c1f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/270d67501960334e55db141922ec2c1f.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/1366a2367772641e914c225b9806f9d9.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1366a2367772641e914c225b9806f9d9.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1366a2367772641e914c225b9806f9d9.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "6.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "5.70",
+    "unit_selector": true,
+    "unit_size": 0.95
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/52784/codillo-cerdo-pieza",
+  "slug": "codillo-cerdo-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/270d67501960334e55db141922ec2c1f.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": "2026-04-11T22:00:00+00:00",
+  "unavailable_weekdays": []
+}

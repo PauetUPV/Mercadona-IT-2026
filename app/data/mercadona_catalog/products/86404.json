@@ -1,0 +1,106 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Paletas Marpa",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 298,
+              "level": 2,
+              "name": "Jamón serrano",
+              "order": 159
+            }
+          ],
+          "id": 50,
+          "level": 1,
+          "name": "Jamón serrano",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Paletas Marpa",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Paleta curada Paletas Marpa lonchas",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Paleta Curada",
+    "mandatory_mentions": "Envasado en atmósfera protectora",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar refrigerado entre 0º C y 5º C",
+    "suppliers": [
+      {
+        "name": "Paletas Marpa, S.L"
+      }
+    ],
+    "usage_instructions": "Sacar el sobre del frigorífico 2 horas antes de su consumo. Abrir el envase 15 minutos antes de consumirlo"
+  },
+  "display_name": "Paleta curada Paletas Marpa lonchas",
+  "ean": "8437003894473",
+  "extra_info": [
+    ""
+  ],
+  "id": "86404",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Paleta de cerdo 50% duroc (95,8%), Sal, Azúcar, Corrector de la acidez (E-331iii), Conservadores (E-252, E-250) y Antioxidante (E-301)."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/08b26cb262625ec4073ce6a5daf80175.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/08b26cb262625ec4073ce6a5daf80175.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/08b26cb262625ec4073ce6a5daf80175.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "20.83",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "20.834",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.50",
+    "unit_selector": true,
+    "unit_size": 0.12
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/86404/paleta-curada-lonchas-paletas-marpa-paquete",
+  "slug": "paleta-curada-lonchas-paletas-marpa-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/08b26cb262625ec4073ce6a5daf80175.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

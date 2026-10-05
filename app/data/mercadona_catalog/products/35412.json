@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 843,
+              "level": 2,
+              "name": "Salsas para carnes",
+              "order": 7
+            }
+          ],
+          "id": 117,
+          "level": 1,
+          "name": "Otras salsas",
+          "order": 7
+        }
+      ],
+      "id": 12,
+      "level": 0,
+      "name": "Aceite, especias y salsas",
+      "order": 7
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Salsa curry Tikka Masala Hacendado picante",
+    "legal_name": "Curry Tikka Masala",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en un lugar fresco y seco, alejado de la luz. Una vez abierto, refrigerar a 1-4C y cosumir en un plazo de 2 días.",
+    "suppliers": [
+      {
+        "name": "Mercadona S.A."
+      }
+    ],
+    "usage_instructions": "Olla o Sartén: a fuego lento junto a lo que desee mezclar, 10-15 mins. Microondas: 1min"
+  },
+  "display_name": "Salsa curry Tikka Masala Hacendado picante",
+  "ean": "8402001007750",
+  "extra_info": [
+    null
+  ],
+  "id": "35412",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>huevos y productos a base de huevo</strong>. Puede contener <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Puede contener <strong>pescado y productos a base de pescado</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>trigo y productos derivados</strong>. Contiene <strong>frutos de cáscara</strong>. Contiene <strong>mostaza y productos derivados</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>cereales que contengan gluten</strong>. Puede contener <strong>cacahuetes y productos a base de cacahuetes</strong>.",
+    "ingredients": "Tomate (27,45%), nata (<strong>leche</strong>) 18,1%, leche de coco (16,7%), agua (16%), aceite de salvado de arroz (4,7%), azúcar (3%), jenjibre (2,8%), ajo (2,8%), cebolla (2,8%) especias (2,3%) (semillas de cilantro, chile en polvo, comino, clavo, cúrcuma, <strong>mostaza</strong>, canela, cardamomo y nuez moscada), almidón de tapioca modificado (1,4%) (E1442), sal (1,2%), vinagre destilado (0,4%), <strong>anacados</strong> (0,3%), pimentón (0,05%) (E160c). <strong>Puede contener cacahuetes, trigo (gluten), soja, sésamo, crustáceos, huevo y pescado.</strong>"
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/10d9d4c3a66655996a17513dca01d11b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/10d9d4c3a66655996a17513dca01d11b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/10d9d4c3a66655996a17513dca01d11b.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/5816b0b6978a853488cf1514278be3f5.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5816b0b6978a853488cf1514278be3f5.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5816b0b6978a853488cf1514278be3f5.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "11.11",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "11.112",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.00",
+    "unit_selector": true,
+    "unit_size": 0.18
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/35412/salsa-curry-tikka-masala-hacendado-picante-paquete",
+  "slug": "salsa-curry-tikka-masala-hacendado-picante-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/10d9d4c3a66655996a17513dca01d11b.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

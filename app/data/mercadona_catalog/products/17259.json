@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 440,
+              "level": 2,
+              "name": "Otras salsas",
+              "order": 7
+            }
+          ],
+          "id": 117,
+          "level": 1,
+          "name": "Otras salsas",
+          "order": 7
+        }
+      ],
+      "id": 12,
+      "level": 0,
+      "name": "Aceite, especias y salsas",
+      "order": 7
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Salsa de Trufa",
+    "legal_name": "Salsa de trufas",
+    "mandatory_mentions": "",
+    "origin": "Italia",
+    "production_variant": "",
+    "storage_instructions": "Una vez abierto conservar en frigorífico y sonsumir en un plazo de 7 días.",
+    "suppliers": [
+      {
+        "name": "D.O.S. SRL"
+      }
+    ],
+    "usage_instructions": "UTILIZACIÓN: ideal para tapas, asta, pizza, carne y pescado."
+  },
+  "display_name": "Salsa de Trufa",
+  "ean": "8020950004011",
+  "extra_info": [
+    ""
+  ],
+  "id": "17259",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>dióxido de azufre y sulfitos</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Champiñones (Agaricus bisporus), aceite de oliva virgen extra, aceite de girasol, olivas negras, Trufa Negra de Verano (Tuber Aestivum Vitt.) 5%, harina de patata, sal aromas. Puede contener trazas de <strong>nuezes</strong>, <strong>leche</strong> y productos a base de <strong>leche</strong>, <strong>soja</strong> y <strong>sulfitos</strong>."
+  },
+  "origin": "Italia",
+  "packaging": "Bote",
+  "photos": [
+    {
+      "perspective": 3,
+      "regular": "https://prod-mercadona.imgix.net/images/5cc6e29dc5753bd3e518ffa264cfc631.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5cc6e29dc5753bd3e518ffa264cfc631.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5cc6e29dc5753bd3e518ffa264cfc631.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/d2d59fdb6b520954a400718011d4ff7c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d2d59fdb6b520954a400718011d4ff7c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d2d59fdb6b520954a400718011d4ff7c.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "38.75",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "38.750",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.10",
+    "unit_selector": true,
+    "unit_size": 0.08
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/17259/salsa-trufas-bote",
+  "slug": "salsa-trufas-bote",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/5cc6e29dc5753bd3e518ffa264cfc631.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

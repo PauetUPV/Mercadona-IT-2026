@@ -1,0 +1,122 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Listo para Comer",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 878,
+              "level": 2,
+              "name": "Platos calientes",
+              "order": 597
+            }
+          ],
+          "id": 897,
+          "level": 1,
+          "name": "Listo para Comer",
+          "order": 597
+        },
+        {
+          "categories": [
+            {
+              "id": 500,
+              "level": 2,
+              "name": "Tortilla",
+              "order": 597
+            }
+          ],
+          "id": 140,
+          "level": 1,
+          "name": "Platos preparados calientes",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Listo para Comer",
+    "counter_info": "Ingredientes: Patata 57%, huevo pasteurizado 28% (huevo, sal, conservador: E211; acidulante: E330), cebolla frita 11% (cebolla, aceite refinado de girasol), aceite refinado de girasol, aceite de oliva virgen.\n\nAlérgenos: huevo.\n\nPuede contener trazas de: Altramuces, Soja, Leche y sus derivados (incluida lactosa), Mostaza, Frutos de cáscara y derivados, Moluscos, Pescado, Sésamo, Crustáceos, Gluten, Apio, Cacahuetes, Sulfitos.\n\nProducto preparado por Mercadona, S.A. (C/ Alfonso Roig Alfonso, s/n. Albalat dels Sorells 46135, Valencia).",
+    "danger_mentions": null,
+    "description": "Pincho tortilla de patata con cebolla Listo para Comer",
+    "is_prepared_by_mercadona": true,
+    "legal_name": null,
+    "mandatory_mentions": null,
+    "origin": null,
+    "production_variant": null,
+    "storage_instructions": null,
+    "suppliers": [],
+    "usage_instructions": null
+  },
+  "display_name": "Pincho tortilla de patata con cebolla Listo para Comer",
+  "ean": "8480000600936",
+  "extra_info": [
+    null
+  ],
+  "id": "60093",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": null
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/20d4960edd12efb27ebed2e3048590fc.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/20d4960edd12efb27ebed2e3048590fc.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/20d4960edd12efb27ebed2e3048590fc.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/50a84643e91a2defdc54c33200dd3741.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/50a84643e91a2defdc54c33200dd3741.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/50a84643e91a2defdc54c33200dd3741.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "9.72",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "9.723",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.10",
+    "unit_selector": true,
+    "unit_size": 0.215
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/60093/pincho-tortilla-patata-con-cebolla-listo-comer",
+  "slug": "pincho-tortilla-patata-con-cebolla-listo-comer",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/20d4960edd12efb27ebed2e3048590fc.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

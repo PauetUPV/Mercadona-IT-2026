@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 350,
+              "level": 2,
+              "name": "Batidos",
+              "order": 373
+            }
+          ],
+          "id": 72,
+          "level": 1,
+          "name": "Leche y bebidas vegetales",
+          "order": 373
+        }
+      ],
+      "id": 6,
+      "level": 0,
+      "name": "Huevos, leche y mantequilla",
+      "order": 373
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Batido de chocolate Hacendado 0% sin azúcares añadidos",
+    "legal_name": "Batido sabor a chocolate UHT. Preparado lácteo. Con edulcorante. Sin lactosa. Sin azúcares añadidos. Contiene azúcares naturalmente presentes.",
+    "mandatory_mentions": "Sin lactosa y sin azúcares añadidos. Contiene azúcares naturalmente presentes. No apto para alérgicos a las proteínas de la leche. La lactosa (azúcar natural de la leche) está convertida en glucosa y galactosa.",
+    "origin": "Origen de la leche: España",
+    "production_variant": "",
+    "storage_instructions": "Mantener en lugar fresco y seco. Una vez abierto el envase, conservar en el frigorífico y consumir antes de 3 días.",
+    "suppliers": [
+      {
+        "name": "Iparlat, S.A."
+      }
+    ],
+    "usage_instructions": "Agitar antes de su consumo."
+  },
+  "display_name": "Batido de chocolate Hacendado 0% sin azúcares añadidos",
+  "ean": "8402001028618",
+  "extra_info": [
+    null
+  ],
+  "id": "22967",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Leche</strong> parcialmente desnatada (2,1% grasa), permeado de <strong>leche</strong>, cacao desgrasado (1,4%), estabilizantes (E 407, E 412, E 418 y E 451), edulcorante (acesulfamo K), aroma y enzima (lactasa). Origen de la leche: España"
+  },
+  "origin": "Origen de la leche: España",
+  "packaging": "Pack-6",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/a4e0c0bf1672115a7bc19b82b78ddbc3.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a4e0c0bf1672115a7bc19b82b78ddbc3.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a4e0c0bf1672115a7bc19b82b78ddbc3.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/2515c4f0fd8fe6330b4c4b7ac0830128.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/2515c4f0fd8fe6330b4c4b7ac0830128.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/2515c4f0fd8fe6330b4c4b7ac0830128.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.54",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.2,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "1.542",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": 6,
+    "unit_name": "mini briks",
+    "unit_price": "1.85",
+    "unit_selector": true,
+    "unit_size": 1.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/22967/batido-chocolate-hacendado-0-sin-azucares-anadidos-pack-6",
+  "slug": "batido-chocolate-hacendado-0-sin-azucares-anadidos-pack-6",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/a4e0c0bf1672115a7bc19b82b78ddbc3.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

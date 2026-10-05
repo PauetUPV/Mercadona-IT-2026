@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 498,
+              "level": 2,
+              "name": "Otros",
+              "order": 597
+            }
+          ],
+          "id": 140,
+          "level": 1,
+          "name": "Platos preparados calientes",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Burgers vegetales Hacendado con calabaza",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Preparación de comida vegetal con calabaza.",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Almacenar a 0 C / +4 C. Producto envasado en atmósfera protectora. Una vez abierto, mantener refrigerado y consumir en 24 horas.",
+    "suppliers": [
+      {
+        "name": "Kioene spa"
+      }
+    ],
+    "usage_instructions": "Consumir después de cocinar. En sartén: retire el producto del envase y cocine a fuego medio con solo una gota de aceite durante 8 minutos, dándole la vuelta a la mitad de la cocción. En freidora de aire: retire el producto del envase y cocine a 180 C durante 10 minutos."
+  },
+  "display_name": "Burgers vegetales Hacendado con calabaza",
+  "ean": "8402001041808",
+  "extra_info": [
+    ""
+  ],
+  "id": "15269",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "con calabaza",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>altramuces y productos a base de altramuces</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>apio y productos derivados</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "<strong>Ingredientes:</strong>  calabaza 40%, aceite de semilla de girasol, cebolla caramelizada 10% (cebolla, aceite de semilla de girasol, azúcar  de caña), zanahorias 9%, harina de <strong>SOJA</strong> reestructurada, harina de <strong>TRIGO</strong>, almidones, hojuelas de patata, gluten  de <strong>TRIGO</strong>, fibra de guisante, proteína de <strong>SOJA</strong>, cebolla 1%, perejil, sal, polvo de calabaza 0,9%, espesante:  metilcelulosa; ajo deshidratado, conservador: sorbato potásico; agua, aroma natural, polvo de romero, levadura de  cerveza. Puede contener <strong>APIO</strong>, <strong>MOSTAZA</strong> y <strong>ALTRAMUCES</strong>."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/26c04ee599092c750b83cb8f1563b228.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/26c04ee599092c750b83cb8f1563b228.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/26c04ee599092c750b83cb8f1563b228.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/349e7ab943eba7d5e738aa78ad799145.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/349e7ab943eba7d5e738aa78ad799145.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/349e7ab943eba7d5e738aa78ad799145.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "11.25",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": "        2.00",
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "11.250",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 2,
+    "unit_name": "ud.",
+    "unit_price": "1.80",
+    "unit_selector": true,
+    "unit_size": 0.16
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/15269/hamburguesas-vegetales-hacendado-con-calabaza-paquete",
+  "slug": "hamburguesas-vegetales-hacendado-con-calabaza-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/26c04ee599092c750b83cb8f1563b228.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

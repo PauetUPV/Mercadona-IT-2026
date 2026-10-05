@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 318,
+              "level": 2,
+              "name": "Pan de molde",
+              "order": 515
+            }
+          ],
+          "id": 60,
+          "level": 1,
+          "name": "Pan de molde y otras especialidades",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pan de molde 100% integral familiar Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Pan de molde integral de trigo y cebada 100%",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Juan y Juan Industrial S.L.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Pan de molde 100% integral familiar Hacendado",
+  "ean": "8480000838865",
+  "extra_info": [
+    ""
+  ],
+  "id": "83886",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>go</strong>. Contiene <strong>gb</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Harina    integral de <strong>trigo </strong>(<strong>gluten</strong>) (57%), agua, levadura, aceite de girasol, sal, harina de haba, fibra de <strong>avena </strong>(<strong>gluten</strong>),    espesante: goma guar, conservadores: E-282 y E-200, harina integral de <strong>cebada</strong>    malteada tostada (<strong>gluten</strong>) (0.2%), emulgentes: E-481 agente de tratamiento de    la harina: ácido ascórbico y aroma. <strong>Puede contener trazas de semillas de  sésamo, </strong><strong>soja, mostaz</strong><strong>a y productos derivados</strong>."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/bb4bc87dd5cde05303b1e222c2131fb0.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/bb4bc87dd5cde05303b1e222c2131fb0.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/bb4bc87dd5cde05303b1e222c2131fb0.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/90fded3e3f9bf16688afdbe7c464aee7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/90fded3e3f9bf16688afdbe7c464aee7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/90fded3e3f9bf16688afdbe7c464aee7.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.40",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "1.403",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 26,
+    "unit_name": "rebanadas",
+    "unit_price": "1.15",
+    "unit_selector": true,
+    "unit_size": 0.82
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/83886/pan-molde-100-integral-familiar-hacendado-paquete",
+  "slug": "pan-molde-100-integral-familiar-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/bb4bc87dd5cde05303b1e222c2131fb0.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

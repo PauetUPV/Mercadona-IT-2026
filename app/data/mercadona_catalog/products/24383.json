@@ -1,0 +1,147 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 513,
+              "level": 2,
+              "name": "Pescado",
+              "order": 213
+            }
+          ],
+          "id": 149,
+          "level": 1,
+          "name": "Pescado",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 274,
+              "level": 2,
+              "name": "Pescado congelado",
+              "order": 442
+            }
+          ],
+          "id": 34,
+          "level": 1,
+          "name": "Pescado congelado",
+          "order": 442
+        }
+      ],
+      "id": 2,
+      "level": 0,
+      "name": "Marisco y pescado",
+      "order": 442
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Rodaja de tintorera sin piel Hacendado ultracongelada",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Prionace glauca",
+    "mandatory_mentions": "",
+    "origin": "Japón",
+    "production_variant": "Producto etiquetado con peso comprendido entre 200 y 550gr",
+    "storage_instructions": "Conservar a temperatura igual o inferior a -18ºC (ver fecha de consumo preferente en el envase). Para no alterar la calidad de este producto, no volver a congelar una vez descongelado.",
+    "suppliers": [
+      {
+        "name": "Unión Martín S.L."
+      }
+    ],
+    "usage_instructions": "Retirar el producto del envase y descongelar siempre en frigorífico sobre una rejilla durante 12 horas. Una vez descongelado, conservar en refrigeración y consumir antes de 24 horas."
+  },
+  "display_name": "Rodaja de tintorera sin piel Hacendado ultracongelada",
+  "ean": "2105100243833",
+  "extra_info": [
+    "El corte y número de piezas puede variar."
+  ],
+  "id": "24383",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": "ultracongelada",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>pescado y productos a base de pescado</strong>. Puede contener <strong>moluscos y productos a base de moluscos</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>.",
+    "ingredients": "<strong>Tintorera</strong>. Por su naturaleza este producto pierde agua al descongelar. Puede contener trazas de <strong>crustáceos y moluscos.</strong>"
+  },
+  "origin": "Japón",
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/24a794f1dafba6d1f269ba7c5f52f86e.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/24a794f1dafba6d1f269ba7c5f52f86e.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/24a794f1dafba6d1f269ba7c5f52f86e.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/847e702dab4d688bf517cac59b009ee9.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/847e702dab4d688bf517cac59b009ee9.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/847e702dab4d688bf517cac59b009ee9.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/2d1e725aec05b408fe391454f61e1eeb.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/2d1e725aec05b408fe391454f61e1eeb.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/2d1e725aec05b408fe391454f61e1eeb.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/d036cf85742400a20d6fd5c2f9a769bf.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d036cf85742400a20d6fd5c2f9a769bf.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d036cf85742400a20d6fd5c2f9a769bf.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "8.25",
+    "bunch_selector": false,
+    "drained_weight": 0.45,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "8.250",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.71",
+    "unit_selector": true,
+    "unit_size": null
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/24383/rodaja-tintorera-sin-piel-hacendado-ultracongelada-pieza",
+  "slug": "rodaja-tintorera-sin-piel-hacendado-ultracongelada-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/24a794f1dafba6d1f269ba7c5f52f86e.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

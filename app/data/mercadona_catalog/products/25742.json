@@ -1,0 +1,103 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 317,
+              "level": 2,
+              "name": "Pan de bocadillo",
+              "order": 515
+            }
+          ],
+          "id": 59,
+          "level": 1,
+          "name": "Pan de horno",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": "Los productos preparados en el horno de Mercadona pueden contener como ingrediente o como traza los siguientes alérgenos: gluten, crustáceos, huevos, pescado, cacahuetes, soja, leche y derivados, frutos de cáscara, apio, mostaza, sésamo, sulfitos, altramuces y moluscos. Producto preparado por Mercadona, S.A. C/ Alfonso Roig Alfonso, s/n. Albalat dels Sorells 46135 (Valencia).",
+    "danger_mentions": "",
+    "description": "Panecillo de trigo integral 30%",
+    "legal_name": "25742 PAN ELABORADO CON HARINA INTEGRAL DE TRIGO 30%",
+    "mandatory_mentions": "",
+    "origin": "ESPAÑA",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco. Consumo preferente 24 horas desde su cocción.",
+    "suppliers": [
+      {
+        "name": "PANAMAR BAKERY GROUP, S.L."
+      }
+    ],
+    "usage_instructions": "Producto listo para consumo."
+  },
+  "display_name": "Panecillo de trigo integral 30%",
+  "ean": "8425514007826",
+  "extra_info": [
+    "Contiene gluten."
+  ],
+  "id": "25742",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Puede contener <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Harina de <strong>trigo</strong> (<strong>gluten</strong>), agua, harina integral de <strong>trigo</strong> 21%* (<strong>gluten</strong>), sal, levadura, antioxidante E 300. Puede contener trazas de <strong>leche</strong>, <strong>soja</strong>, granos de <strong>sésamo</strong>, <strong>mostaza</strong> y productos derivados. *El 21% de harina integral sobre el producto, equivale a 30% sobre total de harinas."
+  },
+  "origin": "ESPAÑA",
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/bdb16a08947fb8e7347cea3fb90095fb.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/bdb16a08947fb8e7347cea3fb90095fb.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/bdb16a08947fb8e7347cea3fb90095fb.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 1,
+    "unit_name": "ud.",
+    "unit_price": "0.35",
+    "unit_selector": true,
+    "unit_size": 0.07
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/25742/panecillo-trigo-integral-30",
+  "slug": "panecillo-trigo-integral-30",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/bdb16a08947fb8e7347cea3fb90095fb.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

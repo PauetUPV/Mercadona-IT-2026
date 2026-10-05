@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Sanex",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 604,
+              "level": 2,
+              "name": "Gel",
+              "order": 241
+            }
+          ],
+          "id": 187,
+          "level": 1,
+          "name": "Gel y jabón de manos",
+          "order": 241
+        }
+      ],
+      "id": 20,
+      "level": 0,
+      "name": "Cuidado facial y corporal",
+      "order": 241
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Sanex",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Gel de baño Hidratante y protector Sanex para todo tipo de piel",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "Colgate Palmolive España S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Gel de baño Hidratante y protector Sanex para todo tipo de piel",
+  "ean": "8718951519619",
+  "extra_info": [
+    ""
+  ],
+  "id": "67906",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "para todo tipo de piel",
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": ""
+  },
+  "origin": null,
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/74a2658349e5f49b2cb0b096aeb7e5a9.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/74a2658349e5f49b2cb0b096aeb7e5a9.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/74a2658349e5f49b2cb0b096aeb7e5a9.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/9dd6f55d8f11124a7a0cf51699743825.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9dd6f55d8f11124a7a0cf51699743825.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9dd6f55d8f11124a7a0cf51699743825.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.47",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "100 ml",
+    "reference_price": "0.448",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.80",
+    "unit_selector": true,
+    "unit_size": 0.85
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/67906/gel-bano-hidratante-protector-sanex-tipo-piel-botella",
+  "slug": "gel-bano-hidratante-protector-sanex-tipo-piel-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/74a2658349e5f49b2cb0b096aeb7e5a9.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

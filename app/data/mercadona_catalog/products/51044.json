@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Burgo de Arias",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 305,
+              "level": 2,
+              "name": "Queso fresco",
+              "order": 159
+            }
+          ],
+          "id": 53,
+          "level": 1,
+          "name": "Queso untable, fresco y especialidades",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Burgo de Arias",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Queso fresco de vaca Burgo de Arias",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Queso Blanco Pasterizado",
+    "mandatory_mentions": "Sin conservantesSin aromas",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 2º y 8ºC",
+    "suppliers": [
+      {
+        "name": "Mantequerias Arias"
+      },
+      {
+        "name": "Mantequerías Arias S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Queso fresco de vaca Burgo de Arias",
+  "ean": "8413100611175",
+  "extra_info": [
+    null
+  ],
+  "id": "51044",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Leche</strong> pasterizada de vaca, cuajo y sal. Fabricado en una planta donde también se elaboran productos de leche de cabra. Sin gluten"
+  },
+  "origin": "España",
+  "packaging": "Pack-3",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/d086320f12ec29078e54e13b280fdece.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d086320f12ec29078e54e13b280fdece.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d086320f12ec29078e54e13b280fdece.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/8b7ec2847d9613cc1f627c697ca5f003.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8b7ec2847d9613cc1f627c697ca5f003.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8b7ec2847d9613cc1f627c697ca5f003.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "15.74",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.072,
+    "previous_unit_price": "        3.40",
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "15.741",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 3,
+    "unit_name": "tarrinas",
+    "unit_price": "3.40",
+    "unit_selector": true,
+    "unit_size": 0.216
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/51044/queso-fresco-vaca-burgo-arias-pack-3",
+  "slug": "queso-fresco-vaca-burgo-arias-pack-3",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/d086320f12ec29078e54e13b280fdece.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

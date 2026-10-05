@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "La Hacienda del ibérico",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 301,
+              "level": 2,
+              "name": "Salchichón",
+              "order": 159
+            }
+          ],
+          "id": 51,
+          "level": 1,
+          "name": "Embutido curado",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "La Hacienda del ibérico",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Salchichón ibérico extra La Hacienda del ibérico lonchas",
+    "legal_name": "SALCHICHÓN IBÉRICO EXTRA",
+    "mandatory_mentions": "Envasado en atmósfera protectora.",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Mantener refrigerado entre 0C y 5C",
+    "suppliers": [
+      {
+        "name": "INCARLOPSA"
+      }
+    ],
+    "usage_instructions": "Para abrir, tire de la pestaña abrir aquí situada en uno de los ángulos. Para apreciar todas las cualidades del producto recomendamos: sacar el envase 2 horas antes del frigorífico, abrir el envase 15 minutos antes de su consumo. Una vez abierto conservar en el frigorífico y consumir antes de 7 días."
+  },
+  "display_name": "Salchichón ibérico extra La Hacienda del ibérico lonchas",
+  "ean": "8480000606983",
+  "extra_info": [
+    null
+  ],
+  "id": "60698",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Carne y grasa de cerdo ibérico, sal, dextrosa,  proteína de soja, especias, aromas,  estabilizantes (E-451i, E-450i), poten<strong>ciad</strong>or de sabor (E-621), antioxidante  (E-301), conservadores (E-250, E-252) y colorante (E-120)."
+  },
+  "origin": "España",
+  "packaging": "Pack-4",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/2155b81a513f54858341f330c4247f30.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/2155b81a513f54858341f330c4247f30.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/2155b81a513f54858341f330c4247f30.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/36b625c30b32853557c2772982393033.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/36b625c30b32853557c2772982393033.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/36b625c30b32853557c2772982393033.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "18.40",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.03125,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "18.400",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 4,
+    "unit_name": "paquetes",
+    "unit_price": "2.30",
+    "unit_selector": true,
+    "unit_size": 0.125
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/60698/salchichon-iberico-extra-hacienda-iberico-lonchas-pack-4",
+  "slug": "salchichon-iberico-extra-hacienda-iberico-lonchas-pack-4",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/2155b81a513f54858341f330c4247f30.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

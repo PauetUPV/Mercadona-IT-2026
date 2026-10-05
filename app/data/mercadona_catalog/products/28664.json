@@ -1,0 +1,119 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Monster",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 540,
+              "level": 2,
+              "name": "Energético",
+              "order": 8
+            }
+          ],
+          "id": 163,
+          "level": 1,
+          "name": "Isotónico y energético",
+          "order": 8
+        }
+      ],
+      "id": 18,
+      "level": 0,
+      "name": "Agua y refrescos",
+      "order": 8
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Monster",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Bebida energética Energy Monster",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Bebida energética carbonatada con taurina, ginseng, L-carnitina y vitaminas del grupo B. Con azúcares y edulcorante.",
+    "mandatory_mentions": "Contenido elevado de cafeína: No recomendado para niños ni mujeres embarazadas o en período de lactancia, o personas sensibles a la cafeína (32mg/100ml). Consumir responsablemente.",
+    "origin": null,
+    "production_variant": "-",
+    "storage_instructions": "Proteger de la luz solar. Preservar de olores agresivos. Conservar en lugar limpio, fresco y seco. Servir frío",
+    "suppliers": [
+      {
+        "name": "CC Europacific Partners Iberia, S.L.U."
+      },
+      {
+        "name": "CC European Partners Iberia, S.L.U."
+      },
+      {
+        "name": "Monster Energy Limited"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Bebida energética Energy Monster",
+  "ean": "5060517883805",
+  "extra_info": [
+    ""
+  ],
+  "id": "28664",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Ingredientes: agua carbonatada, sacarosa, jarabe de glucosa, acidulante (ácido cítrico), aromas, taurina (0.4%), corrector de acidez (citratos de sodio), extracto de raíz de panax ginseng (0.08%), L-carnitina L-tartrato (0.04%), conservadores (ácido sórbico, ácido benzoico), cafeína (0.03%), colorante (antocianinas), vitaminas (B3, B6, B2, B12), edulcorante (sucralosa), cloruro sódico, d-glucuronolactona, extracto de semilla de guaraná (0.002%), inositol, maltodextrina."
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/bac5a9b6212f8ab25484f13fc808652e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/bac5a9b6212f8ab25484f13fc808652e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/bac5a9b6212f8ab25484f13fc808652e.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/af9eef7151fcd74c29816e799db21504.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/af9eef7151fcd74c29816e799db21504.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/af9eef7151fcd74c29816e799db21504.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.64",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.5,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "2.640",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": 4,
+    "unit_name": "latas",
+    "unit_price": "5.28",
+    "unit_selector": true,
+    "unit_size": 2.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/28664/bebida-energetica-energy-monster-pack-4",
+  "slug": "bebida-energetica-energy-monster-pack-4",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/bac5a9b6212f8ab25484f13fc808652e.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

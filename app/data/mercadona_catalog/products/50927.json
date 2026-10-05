@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 307,
+              "level": 2,
+              "name": "Queso tierno",
+              "order": 159
+            }
+          ],
+          "id": 54,
+          "level": 1,
+          "name": "Queso curado, semicurado y tierno",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Queso tierno de cabra Hacendado",
+    "legal_name": "Queso tierno de cabra",
+    "mandatory_mentions": "Corteza no comestible",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Mantener en refrigeración",
+    "suppliers": [
+      {
+        "name": "Central Quesera Montesinos S.L.U"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Queso tierno de cabra Hacendado",
+  "ean": "8480000509277",
+  "extra_info": [
+    null
+  ],
+  "id": "50927",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Libre de <strong>dióxido de azufre y sulfitos</strong>. Libre de <strong>cacahuetes y productos a base de cacahuetes</strong>. Libre de <strong>soja y productos a base de soja</strong>. Libre de <strong>apio y productos derivados</strong>. Libre de <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Libre de <strong>altramuces y productos a base de altramuces</strong>. Libre de <strong>pescado y productos a base de pescado</strong>. Libre de <strong>mostaza y productos derivados</strong>. Libre de <strong>moluscos y productos a base de moluscos</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Libre de <strong>huevos y productos a base de huevo</strong>. Libre de <strong>frutos de cáscara</strong>. Libre de <strong>crustáceos y productos a base de crustáceos</strong>. Libre de <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "<strong>Leche </strong>de cabra pasteurizada, sal, cuajo microbiano y fermentos lácticos. En corteza: conservador (E-281 y E-235).<p>Origen de la leche: España"
+  },
+  "origin": null,
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/1bdc83cbb5f54b2f53090ffd0055964a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1bdc83cbb5f54b2f53090ffd0055964a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1bdc83cbb5f54b2f53090ffd0055964a.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/4c18f9d559668747b754de85ba903b1b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4c18f9d559668747b754de85ba903b1b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4c18f9d559668747b754de85ba903b1b.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "15.05",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "15.050",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "5.27",
+    "unit_selector": true,
+    "unit_size": 0.35
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/50927/queso-tierno-cabra-hacendado-pieza",
+  "slug": "queso-tierno-cabra-hacendado-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/1bdc83cbb5f54b2f53090ffd0055964a.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

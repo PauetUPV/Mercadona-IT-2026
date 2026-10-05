@@ -1,0 +1,133 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 381,
+              "level": 2,
+              "name": "Chocolate con leche",
+              "order": 11
+            }
+          ],
+          "id": 92,
+          "level": 1,
+          "name": "Chocolate",
+          "order": 11
+        }
+      ],
+      "id": 9,
+      "level": 0,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 340,
+              "level": 2,
+              "name": "Decoración",
+              "order": 515
+            }
+          ],
+          "id": 71,
+          "level": 1,
+          "name": "Velas y decoración",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Fideos de chocolate Hacendado especial repostería y postres",
+    "legal_name": "Fideos de chocolate 100g. Especial Repostería y Postres",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco, seco y alejado de olores. Temperatura ideal de conservación: 18ºC-20ºC.",
+    "suppliers": [
+      {
+        "name": "Sanchis Mira, S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Fideos de chocolate Hacendado",
+  "ean": "8480000322272",
+  "extra_info": [
+    null
+  ],
+  "id": "32227",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Azúcar, pasta de cacao, manteca de cacao, emulgente: lecitina de <strong>soja</strong>, aroma: vainillina. Cacao: 41% mínimo.  Contiene <strong>soja</strong>. Trazas de <strong>leche</strong>."
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/2edc66f0eb9284ea9039f1c605336b9f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/2edc66f0eb9284ea9039f1c605336b9f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/2edc66f0eb9284ea9039f1c605336b9f.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/3240ee13603855aaf278b35f19544a13.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3240ee13603855aaf278b35f19544a13.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3240ee13603855aaf278b35f19544a13.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "17.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "17.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.75",
+    "unit_selector": true,
+    "unit_size": 0.1
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/32227/fideos-chocolate-hacendado-especial-reposteria-postres-paquete",
+  "slug": "fideos-chocolate-hacendado-especial-reposteria-postres-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/2edc66f0eb9284ea9039f1c605336b9f.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

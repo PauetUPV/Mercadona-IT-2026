@@ -1,0 +1,126 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 484,
+              "level": 2,
+              "name": "Aceitunas verdes",
+              "order": 9
+            }
+          ],
+          "id": 135,
+          "level": 1,
+          "name": "Aceitunas y encurtidos",
+          "order": 9
+        }
+      ],
+      "id": 15,
+      "level": 0,
+      "name": "Aperitivos",
+      "order": 9
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Aceitunas verdes con hueso Hacendado",
+    "legal_name": "Aceitunas verdes con hueso. Variedad: manzanilla. Categoría primera.",
+    "mandatory_mentions": "Producto pasteurizado.",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco. Evitar la exposición prolongada a la luz solar. Una vez abierto conservar refrigerado y consumir antes de 15 días.",
+    "suppliers": [
+      {
+        "name": "Aceitunas Cazorla S.L."
+      },
+      {
+        "name": "Fabricado por: ÁNGEL CAMACHO ALIMENTACIÓN, S.L."
+      },
+      {
+        "name": "La Española Alimentaria Alcoyana, S.A."
+      },
+      {
+        "name": "Manzanilla Olive, SCA"
+      },
+      {
+        "name": "Oleand Manzanilla Olive S.C.A."
+      },
+      {
+        "name": "Ángel Camacho Alimentación, S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Aceitunas verdes con hueso Hacendado",
+  "ean": "8402001001529",
+  "extra_info": [
+    ""
+  ],
+  "id": "33120",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Aceitunas, agua, sal, potenciadores del sabor: glutamato monosódico, inosinato disódico y guanilato disódico, acidulantes: ácido láctico y ácido cítrico, antioxidante: ácido ascórbico."
+  },
+  "origin": "España",
+  "packaging": "Tarro",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/0863e9008db82471b207db659c4c69a6.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0863e9008db82471b207db659c4c69a6.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0863e9008db82471b207db659c4c69a6.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/d19d7f7247a785d4c4b10b2c7f4706bd.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d19d7f7247a785d4c4b10b2c7f4706bd.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d19d7f7247a785d4c4b10b2c7f4706bd.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.14",
+    "bunch_selector": false,
+    "drained_weight": 0.53,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.567",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.95",
+    "unit_selector": true,
+    "unit_size": 0.935
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/33120/aceitunas-manzanilla-sabor-anchoa-hacendado-con-hueso-calibre-grande-tarro",
+  "slug": "aceitunas-manzanilla-sabor-anchoa-hacendado-con-hueso-calibre-grande-tarro",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/0863e9008db82471b207db659c4c69a6.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

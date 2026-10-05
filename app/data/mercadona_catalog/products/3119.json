@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 251,
+              "level": 2,
+              "name": "Manzana y pera",
+              "order": 306
+            }
+          ],
+          "id": 27,
+          "level": 1,
+          "name": "Fruta",
+          "order": 306
+        }
+      ],
+      "id": 1,
+      "level": 0,
+      "name": "Fruta y verdura",
+      "order": 306
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pera Conferencia",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Pera conferencia",
+    "mandatory_mentions": "Calibre 60.",
+    "origin": null,
+    "production_variant": "Producto a granel.",
+    "storage_instructions": "Conservar a temperatura ambiente.",
+    "suppliers": [
+      {
+        "name": "Cortijo Cuevas S.L."
+      },
+      {
+        "name": "HERMANOS FERNANDEZ LOPEZ"
+      },
+      {
+        "name": "NUFRI"
+      },
+      {
+        "name": "S.A.T. 1596 Nufri"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Pera Conferencia",
+  "ean": "2105434031199",
+  "extra_info": [
+    null
+  ],
+  "id": "3119",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": ""
+  },
+  "origin": null,
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 10,
+      "regular": "https://prod-mercadona.imgix.net/images/debea7dc78060cb9cab5c608e7f9eb27.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/debea7dc78060cb9cab5c608e7f9eb27.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/debea7dc78060cb9cab5c608e7f9eb27.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "2.75",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "2.750",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.50",
+    "unit_selector": true,
+    "unit_size": 0.18
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/3119/pera-conferencia-pieza",
+  "slug": "pera-conferencia-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/debea7dc78060cb9cab5c608e7f9eb27.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

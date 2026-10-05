@@ -1,0 +1,119 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 469,
+              "level": 2,
+              "name": "Caldo líquido",
+              "order": 215
+            }
+          ],
+          "id": 129,
+          "level": 1,
+          "name": "Sopa y caldo",
+          "order": 215
+        }
+      ],
+      "id": 14,
+      "level": 0,
+      "name": "Conservas, caldos y cremas",
+      "order": 215
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Caldo de pescado Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Caldo de pescado",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco. Una vez abierto, conservar en frigorífico y consumir antes de 3 días.",
+    "suppliers": [
+      {
+        "name": "ALINTER ALIMENTACIÓN, S.A.U"
+      },
+      {
+        "name": "Alinter Alimentación, S.A.U"
+      },
+      {
+        "name": "Interal, S.A."
+      }
+    ],
+    "usage_instructions": "Listo para consumir. Agitar antes de usar. Consomé: Verter el caldo en un cazo y calentar a fuego lento, removiendo de vez en cuando. Sírvalo tal cual o acompañado de unas gambas peladas, salteadas en la sartén. También puede añadir algo de vino blanco o Jerez para darle un toque especial o sustituir las gambas por pasta o arroz para darle mayor consistencia. Sopa: Verter el caldo en un cazo. Llevar a ebullición y añadir unas gambas peladas y unos trozos de pescado (rape, mero, rosada, etc.) dejando cocer hasta que los ingredientes estén en su punto. Guisos: Sustituir el agua añadida a paellas, zarzuelas de pescado, fideuas o pescados al horno, a la parrilla, etc...por el caldo para obtener platos más sabrosos."
+  },
+  "display_name": "Caldo de pescado Hacendado",
+  "ean": "8402001013911",
+  "extra_info": [
+    null
+  ],
+  "id": "7325",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>pescado y productos a base de pescado</strong>. Libre de <strong>mostaza y productos derivados</strong>. Libre de <strong>apio y productos derivados</strong>. Libre de <strong>cereales que contengan gluten</strong>. Libre de <strong>leche y sus derivados (incluida la lactosa)</strong>. Libre de <strong>huevos y productos a base de huevo</strong>. Contiene <strong>crustáceos y productos a base de crustáceos</strong>.",
+    "ingredients": "Agua, <strong>marisco</strong> 5,8% [<strong>gamba</strong> (<strong>crustáceos</strong>), <strong>bogavante</strong> (<strong>crustáceos</strong>)], hortalizas (tomate, zanahoria, cebolla), <strong>pescado</strong> 2,1%, aromas naturales (contienen <strong>pescado</strong> y <strong>crustáceos</strong>), sal, especias, aceite de oliva."
+  },
+  "origin": null,
+  "packaging": "Brik",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/449bcde120352282518671422bce0c82.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/449bcde120352282518671422bce0c82.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/449bcde120352282518671422bce0c82.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/7015ed54b33a4edd2fa55c590844ea98.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7015ed54b33a4edd2fa55c590844ea98.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7015ed54b33a4edd2fa55c590844ea98.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "0.95",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "0.950",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.95",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/7325/caldo-pescado-hacendado-brick",
+  "slug": "caldo-pescado-hacendado-brick",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/449bcde120352282518671422bce0c82.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

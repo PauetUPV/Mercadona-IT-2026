@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 862,
+              "level": 2,
+              "name": "Base de pizza",
+              "order": 597
+            }
+          ],
+          "id": 138,
+          "level": 1,
+          "name": "Pizzas",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Masa fresca pizza Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Masa Fresca Pizza",
+    "mandatory_mentions": "ENVASADO EN ATMÓSFERA PROTECTORA / 2 MASAS REDONDAS / elaborada con el corazón del trigo con harina de nuestro propio molino / MASA CRUDA. CONSUMIR DESPUÉS DE HORNEAR /  CORTAR CON TIJERAS / Teléfono de atención al cliente Mercadona: 800 500 220 / PUNTO VERDE (logo) / RECICLA (logo amarillo y azul) / SUGERENCIA DE PRESENTACIÓN / ABRIR AQUÍ /Evitar que el papel toque las paredes del horno. La temperatura del horno no debe ser superior a 220ºC",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Puede congelarse justo después de su compra / Manténgase entre 0C y 5C / Consumir preferentemente antes del/lote:",
+    "suppliers": [
+      {
+        "name": "CASA TARRADELLAS, S.A."
+      }
+    ],
+    "usage_instructions": "1 - Precalentar el horno a 220C. (programa calor inferior, sin ventilación). Mantener la masa en el frigorífico hasta el momento de su uso. 2 - Desenrollar la masa con el papel de cocción y colocarla sobre la rejilla del horno fría. 3 - Cubrir la masa con una ligera capa de salsa de tomate sin llegar hasta los bordes. 4 - Repartir encima los ingredientes escogidos. 5 - Colocar la rejilla con la pizza a media altura y cocer la pizza unos 15 minutos. 6 - Para acabar de dorar los ingredientes, cambiar la función del horno a calor superior e inferior y cocer entre 3 y 5 minutos adicionales."
+  },
+  "display_name": "Masa fresca pizza Hacendado",
+  "ean": "8402001036163",
+  "extra_info": [
+    ""
+  ],
+  "id": "13985",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Harina de <strong>trigo</strong>, agua, aceite de oliva (3,8%), sal, alcohol y levadura. Puede contener trazas de derivados <strong>lácteos</strong>, <strong>soja</strong> y <strong>mostaza</strong>."
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/d5ba64cc5c3fccf0c4575b61fb71040d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d5ba64cc5c3fccf0c4575b61fb71040d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d5ba64cc5c3fccf0c4575b61fb71040d.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/8b2f74b93d67be3904b54863dfb3a643.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8b2f74b93d67be3904b54863dfb3a643.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8b2f74b93d67be3904b54863dfb3a643.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.93",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.28,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "3.929",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 2,
+    "unit_name": "ud.",
+    "unit_price": "2.20",
+    "unit_selector": true,
+    "unit_size": 0.56
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/13985/masa-fresca-pizza-hacendado",
+  "slug": "masa-fresca-pizza-hacendado",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/d5ba64cc5c3fccf0c4575b61fb71040d.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

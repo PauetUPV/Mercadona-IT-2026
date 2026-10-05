@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 394,
+              "level": 2,
+              "name": "Caramelos",
+              "order": 11
+            }
+          ],
+          "id": 95,
+          "level": 1,
+          "name": "Chicles y caramelos",
+          "order": 11
+        }
+      ],
+      "id": 9,
+      "level": 0,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Caramelos café Hacendado 0% azúcares",
+    "legal_name": "Caramelos de café con edulcorantes sin azúcares",
+    "mandatory_mentions": "Un consumo excesivo puede producir efectos laxantes. Contiene cafeína. No recomendado para niños ni mujeres embarazadas (50 mg de cafeína por 100g de producto).",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Cantalou, S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Caramelos café Hacendado 0% azúcares",
+  "ean": "3215690801913",
+  "extra_info": [
+    ""
+  ],
+  "id": "65123",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Edulcorantes (jarabe de maltitol, isomalt, acesulfamo K), <strong>nata</strong>, café soluble (1,4%), sal, extracto de café (0,5%), aroma, colorante (E150a), <strong>leche</strong> desnatada en polvo, emulgente (lecitinas). Sin gluten."
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/54347a2d774d1ae92d25bc8e7496b036.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/54347a2d774d1ae92d25bc8e7496b036.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/54347a2d774d1ae92d25bc8e7496b036.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/1f9d26e5786f385cda61cbb15a42e509.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1f9d26e5786f385cda61cbb15a42e509.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1f9d26e5786f385cda61cbb15a42e509.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "12.78",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "12.778",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.15",
+    "unit_selector": true,
+    "unit_size": 0.09
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/65123/caramelos-cafe-hacendado-0-azucares-paquete",
+  "slug": "caramelos-cafe-hacendado-0-azucares-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/54347a2d774d1ae92d25bc8e7496b036.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 467,
+              "level": 2,
+              "name": "Conservas verdura",
+              "order": 215
+            }
+          ],
+          "id": 127,
+          "level": 1,
+          "name": "Conservas de verdura y frutas",
+          "order": 215
+        }
+      ],
+      "id": 14,
+      "level": 0,
+      "name": "Conservas, caldos y cremas",
+      "order": 215
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Champiñón laminado Hacendado",
+    "legal_name": "Champiñones laminados. Agaricus Bisporus (Cultivado)",
+    "mandatory_mentions": "",
+    "origin": "Producto de España",
+    "production_variant": "",
+    "storage_instructions": "Una vez abierto, conservar refrigerado y consumir antes de 5 días.",
+    "suppliers": [
+      {
+        "name": "Conservas el Cidacos S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Champiñón laminado Hacendado",
+  "ean": "8480000166166",
+  "extra_info": [
+    null
+  ],
+  "id": "16616",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Champiñones (Agaricus bisporus), agua, sal, antioxidantes: ácidos cítrico y <strong>disulfito sódico</strong>."
+  },
+  "origin": "Producto de España",
+  "packaging": "Pack-3",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/3cd99cb7145b94f63805588ec374b019.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3cd99cb7145b94f63805588ec374b019.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3cd99cb7145b94f63805588ec374b019.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/38122da17e3b289464668dde7fe19e20.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/38122da17e3b289464668dde7fe19e20.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/38122da17e3b289464668dde7fe19e20.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.00",
+    "bunch_selector": false,
+    "drained_weight": 0.255,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.085,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.059",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 3,
+    "unit_name": "latas",
+    "unit_price": "1.80",
+    "unit_selector": true,
+    "unit_size": 0.45
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/16616/champinon-laminado-hacendado-pack-3",
+  "slug": "champinon-laminado-hacendado-pack-3",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/3cd99cb7145b94f63805588ec374b019.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

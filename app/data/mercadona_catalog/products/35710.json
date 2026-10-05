@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Comportillo",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 563,
+              "level": 2,
+              "name": "Rioja",
+              "order": 15
+            }
+          ],
+          "id": 169,
+          "level": 1,
+          "name": "Vino tinto",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Comportillo",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Vino tinto crianza Comportillo DO Rioja",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Vino tinto",
+    "mandatory_mentions": "APTO PARA VEGANOS",
+    "origin": "DO Calificada Rioja",
+    "production_variant": "",
+    "storage_instructions": "Consumir entre 17 y 18C.",
+    "suppliers": [
+      {
+        "name": "Bodegas Ontañón"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Vino tinto crianza Comportillo DO Rioja",
+  "ean": "8411767164294",
+  "extra_info": [
+    ""
+  ],
+  "id": "35710",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "DO Rioja",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>dióxido de azufre y sulfitos</strong>.",
+    "ingredients": "Uva, correctores de la acidez (ácido Tartárico[L(+)], ácido láctico), conservadores y antioxidantes (a<strong>nhídrido sulfuroso, metabisulfito de potasio,</strong> ácido L-ascórbico), agentes estabilizantes (ácido metatartárico, poliaspartato de potasio, goma arábiga)."
+  },
+  "origin": "DO Calificada Rioja",
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/c6ec22f479bbeafb97b0f6f9b65fa37b.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c6ec22f479bbeafb97b0f6f9b65fa37b.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c6ec22f479bbeafb97b0f6f9b65fa37b.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/eac446817253de5d8f3c52bdd5d4752f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/eac446817253de5d8f3c52bdd5d4752f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/eac446817253de5d8f3c52bdd5d4752f.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.87",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "3.867",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.90",
+    "unit_selector": true,
+    "unit_size": 0.75
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/35710/vino-tinto-do-rioja-comportillo-crianza-botella",
+  "slug": "vino-tinto-do-rioja-comportillo-crianza-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/c6ec22f479bbeafb97b0f6f9b65fa37b.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

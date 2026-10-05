@@ -1,0 +1,122 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 468,
+              "level": 2,
+              "name": "Conservas fruta",
+              "order": 215
+            }
+          ],
+          "id": 127,
+          "level": 1,
+          "name": "Conservas de verdura y frutas",
+          "order": 215
+        }
+      ],
+      "id": 14,
+      "level": 0,
+      "name": "Conservas, caldos y cremas",
+      "order": 215
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Piña en su jugo Hacendado rodajas",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Piña en su jugo",
+    "mandatory_mentions": "",
+    "origin": "Indonesia",
+    "production_variant": "",
+    "storage_instructions": "Mantener en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Industrias Videca SA"
+      },
+      {
+        "name": "Mercadona S.A."
+      }
+    ],
+    "usage_instructions": "Una vez abierta, se recomienda cambiar el contenido sobrante a un recipiente no metalico, conservar en el frigorifico y consumir antes de 3 dias."
+  },
+  "display_name": "Piña en su jugo Hacendado rodajas",
+  "ean": "8410037002274",
+  "extra_info": [
+    null
+  ],
+  "id": "15203",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "rodajas",
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": "Piña, Zumo de piña"
+  },
+  "origin": "Indonesia",
+  "packaging": "Pack-3",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/4d8bf0206b1f578973cd80fdf7d85179.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4d8bf0206b1f578973cd80fdf7d85179.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4d8bf0206b1f578973cd80fdf7d85179.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/213f5caea59911c3bff51557eab2f774.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/213f5caea59911c3bff51557eab2f774.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/213f5caea59911c3bff51557eab2f774.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/7fa9f08161228e8ed8169e1cd079de74.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7fa9f08161228e8ed8169e1cd079de74.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7fa9f08161228e8ed8169e1cd079de74.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.08",
+    "bunch_selector": false,
+    "drained_weight": 0.42,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.14,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 3,
+    "unit_name": "latas",
+    "unit_price": "2.10",
+    "unit_selector": true,
+    "unit_size": 0.681
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/15203/pina-jugo-hacendado-rodajas-pack-3",
+  "slug": "pina-jugo-hacendado-rodajas-pack-3",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/4d8bf0206b1f578973cd80fdf7d85179.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 522,
+              "level": 2,
+              "name": "Tarrinas",
+              "order": 213
+            }
+          ],
+          "id": 154,
+          "level": 1,
+          "name": "Helados",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Helado capuccino Hacendado con sirope de café",
+    "legal_name": "HELADO DE CAFÉ Y SABOR NATA CON SIROPE DE CAFÉ Y GRANOS DE CHOCOLATE AL CAFÉ HELADO DE CAFÉ Y SABOR NATA (80,5%).",
+    "mandatory_mentions": "SIN GLUTEN",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en congelación a temperaturas inferiores a -18 C. Una vez descongelado no volver a congelar.",
+    "suppliers": [
+      {
+        "name": "A.I.A.D.H.E.S.A.-Helados Alacant"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Helado capuccino Hacendado con sirope de café",
+  "ean": "8402001010255",
+  "extra_info": [
+    ""
+  ],
+  "id": "52563",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>HELADO DE CAFÉ Y SABOR NATA CON SIROPE DE CAFÉ Y GRANOS DE CHOCOLATE AL CAFÉ. HELADO DE CAFÉ Y SABOR NATA (80,5%) Ingredientes: leche desnatada reconstituida, azúcar, grasas vegetales (coco, palma), agua, jarabe de glucosa y fructosa, lactosa y proteínas de leche, café soluble (1%), emulgente (monoglicéridos y diglicéridos de ácidos grasos), estabilizantes (goma garrofín, goma guar, carragenanos), aromas.SIROPE DE CAFÉ (16%). Ingredientes: jarabe de glucosa, agua, azúcar, leche condensada desnatada (leche desnatada, azúcar), café soluble (4,5%), grasa de coco, cacao desgrasado, espesante(carragenanos), emulgente (monoglicéridos y diglicéridos de ácidos grasos), sal.GRANOS DE CHOCOLATE AL CAFÉ (3,5%). Ingredientes: azúcar, chocolate negro, extracto de café, agente de recubrimiento (goma arábiga, goma laca), jarabe de glucosa. Trazas de soja."
+  },
+  "origin": "España",
+  "packaging": "Tarrina",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/4d276db05fbc5a0149130e7e846be31d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4d276db05fbc5a0149130e7e846be31d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4d276db05fbc5a0149130e7e846be31d.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/5d8a40f684a14349f2b60b5df6d53485.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5d8a40f684a14349f2b60b5df6d53485.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5d8a40f684a14349f2b60b5df6d53485.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.42",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "3.422",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.25",
+    "unit_selector": true,
+    "unit_size": 0.95
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/52563/helado-capuccino-hacendado-tarrina",
+  "slug": "helado-capuccino-hacendado-tarrina",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/4d276db05fbc5a0149130e7e846be31d.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

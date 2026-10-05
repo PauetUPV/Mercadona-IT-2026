@@ -1,0 +1,119 @@
+{
+  "badges": {
+    "is_water": true,
+    "requires_age_check": false
+  },
+  "brand": "Solán de Cabras",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 525,
+              "level": 2,
+              "name": "Agua sin gas",
+              "order": 8
+            }
+          ],
+          "id": 156,
+          "level": 1,
+          "name": "Agua",
+          "order": 8
+        }
+      ],
+      "id": 18,
+      "level": 0,
+      "name": "Agua y refrescos",
+      "order": 8
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Solán de Cabras",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Agua mineral grande Solán de Cabras mineralización débil",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Agua Mineral Natural",
+    "mandatory_mentions": "",
+    "origin": "Manantial Solan de Cabras",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco, limpio y seco. Proteger de olores agresivos",
+    "suppliers": [
+      {
+        "name": "Aguas Solan de Cabras, S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Agua mineral grande Solán de Cabras",
+  "ean": "8411547001092",
+  "extra_info": [
+    ""
+  ],
+  "id": "27327",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Bicarbonato (284 mg/l), Calcio (60 mg/l), Magnesio (26.7 mg/l),Sodio (4.8 mg/l),Potasio  (1.0 mg/l)"
+  },
+  "origin": "Manantial Solan de Cabras",
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/f4fec39a0a59025b5b6713eeb2f248a2.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f4fec39a0a59025b5b6713eeb2f248a2.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f4fec39a0a59025b5b6713eeb2f248a2.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/0c81dd99da6dc6a4209446598bdfcfb8.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0c81dd99da6dc6a4209446598bdfcfb8.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0c81dd99da6dc6a4209446598bdfcfb8.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/cd0f047169d133846f15430cba16d987.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/cd0f047169d133846f15430cba16d987.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/cd0f047169d133846f15430cba16d987.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "0.57",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 1.5,
+    "previous_unit_price": "        5.34",
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "0.567",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": 6,
+    "unit_name": "botellas",
+    "unit_price": "5.10",
+    "unit_selector": true,
+    "unit_size": 9.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/27327/agua-mineral-grande-solan-cabras-mineralizacion-debil-pack-6",
+  "slug": "agua-mineral-grande-solan-cabras-mineralizacion-debil-pack-6",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/f4fec39a0a59025b5b6713eeb2f248a2.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

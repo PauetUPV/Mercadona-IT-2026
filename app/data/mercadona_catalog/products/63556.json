@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 491,
+              "level": 2,
+              "name": "Pizzas refrigeradas",
+              "order": 597
+            }
+          ],
+          "id": 138,
+          "level": 1,
+          "name": "Pizzas",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pizza pepperoni Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Pizza Fresca Pepperoni",
+    "mandatory_mentions": "PRODUCTO PRECOCINADO REFRIGERADO / ENVASADO EN ATMÓSFERA PROTECTORA /  COCIDA AL HORNO DE PIEDRA/Teléfono de atención al cliente Mercadona: 800 500 220 /  RECICLA Amarillo (logo) / CON PLÁSTICO RECICLADO",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Puede congelarse justo después de su compra. Mantener entre 0ºC y 5ºC. Consumir preferentemente antes del/Lote: Ver envase",
+    "suppliers": [
+      {
+        "name": "CASA TARRADELLAS, S.A."
+      }
+    ],
+    "usage_instructions": "1 - Precalentar el horno a 220ºC durante 8-10 minutos. 2 - Retirar el envoltorio de plástico. 3 - Colocar la pizza en la rejilla del horno a media altura. 4 - Cocerla durante 5-8 minutos aproximadamente."
+  },
+  "display_name": "Pizza pepperoni Hacendado",
+  "ean": "8480000635563",
+  "extra_info": [
+    null
+  ],
+  "id": "63556",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Harina de <strong>trigo</strong>, <strong>queso* mozzarell</strong>a (23%), pepperoni (15%) (carne de cerdo, sal, especias, dextrosa, antioxidantes (extracto de romero, ascorbato sódico), conservador (nitrito sódico)), tomate, agua, aceite refinado de girasol, sal, <strong>levadur</strong>a, lactosa, especias, orégano. Puede contener trazas de soja y mostaza. *Queso elaborado con leche pasteurizada."
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/6db726d8aac94e7b03c60045840d851f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/6db726d8aac94e7b03c60045840d851f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/6db726d8aac94e7b03c60045840d851f.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/22269da1d7f4b7b12f47c39e6126fcdd.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/22269da1d7f4b7b12f47c39e6126fcdd.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/22269da1d7f4b7b12f47c39e6126fcdd.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "7.07",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.074",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.90",
+    "unit_selector": true,
+    "unit_size": 0.41
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/63556/pizza-pepperoni-hacendado",
+  "slug": "pizza-pepperoni-hacendado",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/6db726d8aac94e7b03c60045840d851f.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

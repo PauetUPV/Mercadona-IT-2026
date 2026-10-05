@@ -1,0 +1,125 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 337,
+              "level": 2,
+              "name": "Harina",
+              "order": 515
+            }
+          ],
+          "id": 69,
+          "level": 1,
+          "name": "Harina y preparado repostería",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Harina de fuerza Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Harina de fuerza para hacer pan casero",
+    "mandatory_mentions": "Elaborado 100% con harina de trigo de fuerza.",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservese en sitio fresco, seco y aislado del suelo.",
+    "suppliers": [
+      {
+        "name": "Cerealien Bischheim GmbH"
+      },
+      {
+        "name": "Harinas de Castilla la Mancha. S.L."
+      },
+      {
+        "name": "Harinera del Mar Siglo XXI, S.L."
+      },
+      {
+        "name": "Harineras Villamayor, S.A."
+      },
+      {
+        "name": "Produzido em Portugal por Cerealis Produtos Alimentares, S.A."
+      }
+    ],
+    "usage_instructions": "Ideal para hacer pan casero"
+  },
+  "display_name": "Harina de fuerza Hacendado",
+  "ean": "8402001018169",
+  "extra_info": [
+    ""
+  ],
+  "id": "29019",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Harina de <strong>trigo</strong>. Contiene <strong>gluten</strong>"
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/260991e90e046d164ed3899c89966058.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/260991e90e046d164ed3899c89966058.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/260991e90e046d164ed3899c89966058.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/d8db7f5676e4a767f178cbb946cebca1.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d8db7f5676e4a767f178cbb946cebca1.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d8db7f5676e4a767f178cbb946cebca1.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "0.95",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 4,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "0.950",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.95",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/29019/harina-fuerza-hacendado-paquete",
+  "slug": "harina-fuerza-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/260991e90e046d164ed3899c89966058.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

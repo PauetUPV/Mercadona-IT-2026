@@ -1,0 +1,117 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 395,
+              "level": 2,
+              "name": "Golosinas",
+              "order": 11
+            }
+          ],
+          "id": 97,
+          "level": 1,
+          "name": "Golosinas",
+          "order": 11
+        }
+      ],
+      "id": 9,
+      "level": 0,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Golosinas tubos Hacendado sabor fresa y nata",
+    "legal_name": "Geles Rellenos",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco",
+    "suppliers": [
+      {
+        "name": "Fabricado por: VIDAL GOLOSINAS, S.A."
+      },
+      {
+        "name": "VIDAL GOLOSINAS, S.A"
+      },
+      {
+        "name": "VIDAL GOLOSINAS, S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Golosinas tubos Hacendado sabor fresa y nata",
+  "ean": "8402001042027",
+  "extra_info": [
+    ""
+  ],
+  "id": "65064",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": "<p>Azúcar, jarabe de glucosa y fructosa, almidón de maíz, jarabe de azúcar invertido, grasa de palma, dextrosa, gelatina; humectante: glicerina; acidulante: ácido cítrico, ácido málico; almidón de patata, sal; corrector de acidez: lactato sódico; aromas; emulgente: E471; conservador: sorbato potásico; agente de recubrimiento: goma laca, cera de abejas, colorantes: E120."
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/795c267350269cd0bcd0f9d761d2e31d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/795c267350269cd0bcd0f9d761d2e31d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/795c267350269cd0bcd0f9d761d2e31d.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/5d3ccdfff5e7014479ec3acde6f0ad63.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5d3ccdfff5e7014479ec3acde6f0ad63.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5d3ccdfff5e7014479ec3acde6f0ad63.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.47",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.469",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.75",
+    "unit_selector": true,
+    "unit_size": 0.32
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/65064/golosinas-tubos-fresa-hacendado-rellenos-caja",
+  "slug": "golosinas-tubos-fresa-hacendado-rellenos-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/795c267350269cd0bcd0f9d761d2e31d.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

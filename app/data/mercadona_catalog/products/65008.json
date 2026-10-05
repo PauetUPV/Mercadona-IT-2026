@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 395,
+              "level": 2,
+              "name": "Golosinas",
+              "order": 11
+            }
+          ],
+          "id": 97,
+          "level": 1,
+          "name": "Golosinas",
+          "order": 11
+        }
+      ],
+      "id": 9,
+      "level": 0,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Golosinas Xuxes Top Ten Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Surtido de caramelos y golosinas.",
+    "mandatory_mentions": "Sin Gluten. Advertencia: Por su tamaño, no es recomendable que los caramelos los consuman menores de 5 años. En caso de consumo por parte de un menor, se recomienda hacerlo bajo la supervisión de un adulto.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco, preferiblemente entre 10C y 25C, y protegido de la luz solar. Para mantener sus características, conservarlo cerrado y consumir en 15 días trassu apertura.",
+    "suppliers": [
+      {
+        "name": "Chic-kles Gum, S.L.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Golosinas Xuxes Top Ten Hacendado",
+  "ean": "8480000650085",
+  "extra_info": [
+    null
+  ],
+  "id": "65008",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Azúcar, jarabe de glucosa, agua, jarabe de glucosa y fructosa, gelatina, almidón, acidulantes: ácido cítrico, ácido málico y ácido láctico, dextrosa, almidón modificado, humectante: glicerina, jarabe de azúcar invertido, gelificante: pectinas, grasa vegetal de palma, aromas, concentrados vegetales: limón, cártamo, rábano, zanahoria, grosella negra, tomate, calabaza y manzana, colorantes: curcumina, azul brillante FCF, rojo de remolacha, ácido carmínico y carbón vegetal, correctores de acidez: citratos de sodio y lactato sódico, sal, conservador: sorbato potásico, agentes de recubrimiento: cera de carnauba y cera de abeja, blanca y amarilla, emulgente: monoglicéridos y diglicéridos de ácidos grasos."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/5f61eafe5d27b27e46b2d8f63a8f517a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5f61eafe5d27b27e46b2d8f63a8f517a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5f61eafe5d27b27e46b2d8f63a8f517a.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/50671e0e0ea7d48ab8802ae3df820d7c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/50671e0e0ea7d48ab8802ae3df820d7c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/50671e0e0ea7d48ab8802ae3df820d7c.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "9.26",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "9.260",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 20,
+    "unit_name": "ud.",
+    "unit_price": "1.25",
+    "unit_selector": true,
+    "unit_size": 0.135
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/65008/golosinas-xuxes-top-ten-hacendado-paquete",
+  "slug": "golosinas-xuxes-top-ten-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/5f61eafe5d27b27e46b2d8f63a8f517a.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

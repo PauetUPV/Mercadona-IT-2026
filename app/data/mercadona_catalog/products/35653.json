@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 504,
+              "level": 2,
+              "name": "Verdura",
+              "order": 213
+            }
+          ],
+          "id": 145,
+          "level": 1,
+          "name": "Fruta y verdura",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pisto de verduras Hacendado ultracongelado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Pisto de verduras ultracongelado",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar a -18ºC. Para no alterar la calidad de este producto, aconsejamos no volver a congelarlo una vez descongelado.",
+    "suppliers": [
+      {
+        "name": "Ultracongelados Virto S.A.U"
+      },
+      {
+        "name": "Ultracongelados Virto S.A.U."
+      }
+    ],
+    "usage_instructions": "SARTÉN: Vierta el pisto de verduras sin descongelar, en una sartén con 2 cucharadas de aceite. Rehogue a fuego medio durante 8 minutos removiendo continuamente.  MICROONDAS 850 W: Vierta el pisto de verduras sin descongelar, en un recipiente apto para microondas. Cocine a máxima potencia durante 8 minutos removiendo a mitad de proceso. Ajuste los tiempos en función de la potencia del microondas y de la cantidad de producto utilizada."
+  },
+  "display_name": "Pisto de verduras Hacendado ultracongelado",
+  "ean": "8402001008863",
+  "extra_info": [
+    null
+  ],
+  "id": "35653",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "ultracongelado",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Verduras asadas en proporción variable (55%)  (calabacín, pimiento rojo, pimiento verde, cebolla y berenjena), salsa de tomate  (tomate concentrado, tomate, agua, cebolla prefrita (cebolla y aceite refinado de  girasol), aceite refinado de girasol, azúcar, almidón, sal, ajo, aceite de oliva virgen  y pimienta negra) y tomate."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/e417f79b0e10e4ac6bbdf8dcf7f0fb92.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e417f79b0e10e4ac6bbdf8dcf7f0fb92.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e417f79b0e10e4ac6bbdf8dcf7f0fb92.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/36b6c86ab221fd3fe97b745d62febc6d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/36b6c86ab221fd3fe97b745d62febc6d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/36b6c86ab221fd3fe97b745d62febc6d.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.67",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "4.667",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.10",
+    "unit_selector": true,
+    "unit_size": 0.45
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/35653/pisto-verduras-hacendado-ultracongelado-paquete",
+  "slug": "pisto-verduras-hacendado-ultracongelado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/e417f79b0e10e4ac6bbdf8dcf7f0fb92.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

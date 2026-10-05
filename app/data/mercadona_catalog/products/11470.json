@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 377,
+              "level": 2,
+              "name": "Infusiones",
+              "order": 16
+            }
+          ],
+          "id": 88,
+          "level": 1,
+          "name": "Té e infusiones",
+          "order": 16
+        }
+      ],
+      "id": 8,
+      "level": 0,
+      "name": "Cacao, café e infusiones",
+      "order": 16
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Infusión Laxsen sabor menta Hacendado",
+    "legal_name": "Laxsen. Sen con cola de caballo y menta. Complemento alimenticio.",
+    "mandatory_mentions": "Condiciones de uso: 1 bolsita al día. Tomar preferiblemente por la noche. No superar la cantidad diaria recomendada. Los complementos alimenticios no deben reemplazar una alimentación variada y equilibrada y un modo de vida sano. No tomar en caso de embarazo o lactancia. No administrar a niños menores de 12 años. No prolongar su consumo más de una semana sin la recomendación de un especialista. No tomar en caso de molestias abdominales. Es recomendable seguir una dieta adecuada, rica en fibra y practicar actividad física. Mantener fuera del alcance y vista de los niños más pequeños.",
+    "origin": null,
+    "production_variant": "El sen ayuda al tránsito intestinal normal.",
+    "storage_instructions": "Manténgase en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Martínez y Cantó, S.L."
+      }
+    ],
+    "usage_instructions": "Verter 200 ml de agua hirviendo sobre la bolsita y dejar en infusión durante 5-8 minutos. Importante: No introducir la bolsita en el microondas."
+  },
+  "display_name": "Infusión Laxsen sabor menta Hacendado",
+  "ean": "8480000114709",
+  "extra_info": [
+    null
+  ],
+  "id": "11470",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Por filtro: Sen (Cassia angustifolia, folículos) 40% (600 mg), sen (Cassia angustifolia, hojas) 20% (300 mg), cola de caballo (Equisetum arvense, partes aéreas) 20% (300 mg), menta (Mentha x piperita L. hojas) 20% (300 mg)."
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/f98929d515ff98881c54675f7bf6a42e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f98929d515ff98881c54675f7bf6a42e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f98929d515ff98881c54675f7bf6a42e.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/1dfb49af3f04f45369c41d132029f02c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1dfb49af3f04f45369c41d132029f02c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1dfb49af3f04f45369c41d132029f02c.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "35.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "100 g",
+    "reference_price": "3.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 20,
+    "unit_name": "bolsitas",
+    "unit_price": "1.05",
+    "unit_selector": true,
+    "unit_size": 0.03
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/11470/infusion-laxsen-sabor-menta-hacendado-caja",
+  "slug": "infusion-laxsen-sabor-menta-hacendado-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/f98929d515ff98881c54675f7bf6a42e.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

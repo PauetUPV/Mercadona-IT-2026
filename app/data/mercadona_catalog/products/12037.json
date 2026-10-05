@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 381,
+              "level": 2,
+              "name": "Chocolate con leche",
+              "order": 11
+            }
+          ],
+          "id": 92,
+          "level": 1,
+          "name": "Chocolate",
+          "order": 11
+        }
+      ],
+      "id": 9,
+      "level": 0,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Chocolate extrafino con leche Hacendado almendras enteras",
+    "legal_name": "CHOCOLATE EXTRAFINO CON LECHE CON ALMENDRAS ENTERAS",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco, seco y alejado de olores. Temperatura ideal de conservación: 18ºC-20ºC.",
+    "suppliers": [
+      {
+        "name": "SANCHIS MIRA S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Chocolate extrafino con leche Hacendado almendras enteras",
+  "ean": "8480000120373",
+  "extra_info": [
+    null
+  ],
+  "id": "12037",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>sa</strong>. Contiene <strong>frutos de cáscara</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Azúcar, <strong>ALMENDRAS</strong> enteras (25%), manteca de cacao, <strong>LECHE</strong> entera  en polvo, pasta de cacao, LECHE descremada en polvo, pasta de AVELLANA, emulgente: lecitinas. Cacao: 31,8% mínimo (en el chocolate). <strong>ALÉRGENOS: Puede contener otros frutos de cáscara y soja.   SIN GLUTEN</strong>"
+  },
+  "origin": "España",
+  "packaging": "Tableta",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/2108bcd0f61db865e8504f9f12371050.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/2108bcd0f61db865e8504f9f12371050.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/2108bcd0f61db865e8504f9f12371050.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/1692cbbf37cc33835a4b6f38c256b9fd.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1692cbbf37cc33835a4b6f38c256b9fd.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1692cbbf37cc33835a4b6f38c256b9fd.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "10.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "10.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.00",
+    "unit_selector": true,
+    "unit_size": 0.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/12037/chocolate-extrafino-con-leche-hacendado-almendras-enteras-tableta",
+  "slug": "chocolate-extrafino-con-leche-hacendado-almendras-enteras-tableta",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/2108bcd0f61db865e8504f9f12371050.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

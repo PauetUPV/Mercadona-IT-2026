@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Mar De Uvas",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 577,
+              "level": 2,
+              "name": "Vino rosado",
+              "order": 15
+            }
+          ],
+          "id": 171,
+          "level": 1,
+          "name": "Vino rosado",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": "12.5º",
+    "brand": "Mar De Uvas",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Vino rosado tempranillo garnacha Mar De Uvas DO Navarra",
+    "legal_name": "Vino Rosado.",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Almacenar en un lugar fresco y seco, alejado de la luz solar.",
+    "suppliers": [
+      {
+        "name": "Bodegas Príncipe de Viana"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Vino rosado tempranillo garnacha Mar De Uvas DO Navarra",
+  "ean": "8402001053627",
+  "extra_info": [
+    ""
+  ],
+  "id": "24078",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>dióxido de azufre y sulfitos</strong>.",
+    "ingredients": "Ingredientes principal: Uvas, Conservador: <strong>Sulfitos</strong>, Antioxidante: Ácido ascórbico, Agente estabilizante: Ácido metatartárico"
+  },
+  "origin": null,
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/108ceffa3f7d2dda2bb5549f53df65c8.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/108ceffa3f7d2dda2bb5549f53df65c8.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/108ceffa3f7d2dda2bb5549f53df65c8.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/808859ac3133c00493f9c45403b5da23.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/808859ac3133c00493f9c45403b5da23.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/808859ac3133c00493f9c45403b5da23.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "3.000",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.25",
+    "unit_selector": true,
+    "unit_size": 0.75
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/24078/vino-rosado-tempranillo-garnacha-mar-uvas-do-navarra-botella",
+  "slug": "vino-rosado-tempranillo-garnacha-mar-uvas-do-navarra-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/108ceffa3f7d2dda2bb5549f53df65c8.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

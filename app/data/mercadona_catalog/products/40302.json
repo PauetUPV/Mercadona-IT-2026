@@ -1,0 +1,114 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Cárnicas Gállego",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 301,
+              "level": 2,
+              "name": "Salchichón",
+              "order": 159
+            }
+          ],
+          "id": 51,
+          "level": 1,
+          "name": "Embutido curado",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Cárnicas Gállego",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Longaniza de Aragón extra Cárnicas Gállego",
+    "legal_name": "Longaniza de Aragón (curada)",
+    "mandatory_mentions": "Sin gluten",
+    "origin": "Zaragoza",
+    "production_variant": "",
+    "storage_instructions": "Conservar en un sitio fresco y seco",
+    "suppliers": [
+      {
+        "name": "CARNICAS GALLEGO, S.A.U."
+      },
+      {
+        "name": "Carnicas Gallego"
+      }
+    ],
+    "usage_instructions": "Abrir el paquete unos minutos antes de su consumo"
+  },
+  "display_name": "Longaniza de Aragón extra Cárnicas Gállego",
+  "ean": "8428511012541",
+  "extra_info": [
+    null
+  ],
+  "id": "40302",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Carne de cerdo (94%), sal, dextrina, lactosa, dextrosa, especias, antioxidantes (E 301 y E 331iii), conservadores (E 252 y E 250), colorante (E 120). Tripa fina de cerdo."
+  },
+  "origin": "Zaragoza",
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/ef67663238b6777e3bb65f024795cceb.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ef67663238b6777e3bb65f024795cceb.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ef67663238b6777e3bb65f024795cceb.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/aadfc4ffd1a636ac4b65897147046a9c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/aadfc4ffd1a636ac4b65897147046a9c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/aadfc4ffd1a636ac4b65897147046a9c.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "13.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "13.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.25",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/40302/longaniza-aragon-extra-carnicas-gallego-pieza",
+  "slug": "longaniza-aragon-extra-carnicas-gallego-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/ef67663238b6777e3bb65f024795cceb.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 431,
+              "level": 2,
+              "name": "Otras especias",
+              "order": 7
+            }
+          ],
+          "id": 115,
+          "level": 1,
+          "name": "Especias",
+          "order": 7
+        }
+      ],
+      "id": 12,
+      "level": 0,
+      "name": "Aceite, especias y salsas",
+      "order": 7
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Cebolla en polvo Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Cebolla",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "JESÚS NAVARRO, S.A."
+      },
+      {
+        "name": "Jesús Navarro, S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Cebolla en polvo Hacendado",
+  "ean": "8480000341389",
+  "extra_info": [
+    null
+  ],
+  "id": "34138",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Libre de <strong>cereales que contengan gluten</strong>. Libre de <strong>trigo y productos derivados</strong>.",
+    "ingredients": "<p>Cebolla"
+  },
+  "origin": "España",
+  "packaging": "Bote",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/4e60df323518b37ef8fcc6be6103526e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4e60df323518b37ef8fcc6be6103526e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4e60df323518b37ef8fcc6be6103526e.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/ea7027a8f99edc3751f5468b9d120954.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ea7027a8f99edc3751f5468b9d120954.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ea7027a8f99edc3751f5468b9d120954.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "15.67",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 4,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "15.667",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.94",
+    "unit_selector": true,
+    "unit_size": 0.06
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/34138/cebolla-polvo-hacendado-bote",
+  "slug": "cebolla-polvo-hacendado-bote",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/4e60df323518b37ef8fcc6be6103526e.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 372,
+              "level": 2,
+              "name": "Bebidas frías",
+              "order": 16
+            }
+          ],
+          "id": 84,
+          "level": 1,
+          "name": "Café soluble y otras bebidas",
+          "order": 16
+        }
+      ],
+      "id": 8,
+      "level": 0,
+      "name": "Cacao, café e infusiones",
+      "order": 16
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Café con leche descafeinado Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Bebida de café con leche semidesnatada, pasterizada, 2.4% materia grasa",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Cónservese entre +2 C y +8C",
+    "suppliers": [
+      {
+        "name": "Molkerei Gropper GmbH & Co. KG"
+      }
+    ],
+    "usage_instructions": "Agitar antes de consumir"
+  },
+  "display_name": "Café con leche descafeinado Hacendado",
+  "ean": "8480000106728",
+  "extra_info": [
+    null
+  ],
+  "id": "10672",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "74% <strong>leche</strong> semidesnatada, 18% café descafeinado Arábica, 5% crema de <strong>leche</strong>, azúcar, estabilizantes: carbonatos de sodio, carragenanos."
+  },
+  "origin": null,
+  "packaging": "Vaso",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/83a4f4b01c38d63142b2646afe4e1fa7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/83a4f4b01c38d63142b2646afe4e1fa7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/83a4f4b01c38d63142b2646afe4e1fa7.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/270078038cfa058891b0fc42494d9f09.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/270078038cfa058891b0fc42494d9f09.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/270078038cfa058891b0fc42494d9f09.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "3.000",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.75",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/10672/cafe-con-leche-descafeinado-hacendado-vaso",
+  "slug": "cafe-con-leche-descafeinado-hacendado-vaso",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/83a4f4b01c38d63142b2646afe4e1fa7.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

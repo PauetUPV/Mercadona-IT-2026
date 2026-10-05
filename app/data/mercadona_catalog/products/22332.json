@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "La Carloteña",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 292,
+              "level": 2,
+              "name": "Pavo y otros",
+              "order": 159
+            }
+          ],
+          "id": 48,
+          "level": 1,
+          "name": "Aves y jamón cocido",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "La Carloteña",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pechuguita de pollo 99% La Carloteña asada al horno lonchas",
+    "legal_name": "PECHUGUITA DE POLLO ASADA AL HORNO",
+    "mandatory_mentions": "Envasado en atmósfera protectora.",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar refrigerado entre 0 y 5ºC. Una vez abierto el envase, consumir antes de 48 horas.",
+    "suppliers": [
+      {
+        "name": "Carloteña de Asados S.L."
+      }
+    ],
+    "usage_instructions": "Consumir en frío o en caliente."
+  },
+  "display_name": "Pechuguita de pollo 99% La Carloteña asada al horno lonchas",
+  "ean": "8437010848230",
+  "extra_info": [
+    ""
+  ],
+  "id": "22332",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Libre de <strong>cereales que contengan gluten</strong>. Puede contener <strong>frutos de cáscara</strong>. Libre de <strong>ml</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "Pechuga de pollo (99%), sal, estabilizante (E-452), dextrosa, antioxidante (E-301), aroma, conservador (E-250). Puede contener trazas de <strong>soja</strong>, proteínas de la <strong>leche</strong>, frutos de <strong>cáscara</strong> y <strong>huevo</strong>. Sin <strong>gluten</strong>. Sin <strong>lactosa</strong>."
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/1e13c330e4bce89f5a37d8e709c976a0.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1e13c330e4bce89f5a37d8e709c976a0.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1e13c330e4bce89f5a37d8e709c976a0.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/c3893d1d3b5ff935d5ae57acdee23f2e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c3893d1d3b5ff935d5ae57acdee23f2e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c3893d1d3b5ff935d5ae57acdee23f2e.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "20.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "20.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.50",
+    "unit_selector": true,
+    "unit_size": 0.125
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/22332/pechuguita-pollo-asada-carlotena-lonchas-paquete",
+  "slug": "pechuguita-pollo-asada-carlotena-lonchas-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/1e13c330e4bce89f5a37d8e709c976a0.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

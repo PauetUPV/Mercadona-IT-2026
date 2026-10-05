@@ -1,0 +1,122 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Steinburg",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 550,
+              "level": 2,
+              "name": "Cerveza botella y botellín",
+              "order": 15
+            }
+          ],
+          "id": 164,
+          "level": 1,
+          "name": "Cerveza",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": "5.6º",
+    "brand": "Steinburg",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Cerveza especial Steinburg",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Cerveza",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "Brouwerij Martens"
+      },
+      {
+        "name": "Font Salem S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Cerveza especial Steinburg",
+  "ean": "8402001014239",
+  "extra_info": [
+    null
+  ],
+  "id": "52652",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>gb</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Contiene malta de <strong>cebada</strong>"
+  },
+  "origin": null,
+  "packaging": "Pack-12",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/ad4dda19aa47e3244e45beac185629c8.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ad4dda19aa47e3244e45beac185629c8.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ad4dda19aa47e3244e45beac185629c8.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/dafdb51cc71c0cbd45e848ab5c7f11f3.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/dafdb51cc71c0cbd45e848ab5c7f11f3.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/dafdb51cc71c0cbd45e848ab5c7f11f3.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/dcfd85be964442e05bd68c919343627a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/dcfd85be964442e05bd68c919343627a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/dcfd85be964442e05bd68c919343627a.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.56",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": 21,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.25,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "1.560",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": 12,
+    "unit_name": "botellines",
+    "unit_price": "4.68",
+    "unit_selector": true,
+    "unit_size": 3.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/52652/cerveza-especial-steinburg-pack-12",
+  "slug": "cerveza-especial-steinburg-pack-12",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/ad4dda19aa47e3244e45beac185629c8.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

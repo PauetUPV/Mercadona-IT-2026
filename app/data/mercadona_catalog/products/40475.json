@@ -1,0 +1,119 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 256,
+              "level": 2,
+              "name": "Cebolla y ajo",
+              "order": 306
+            }
+          ],
+          "id": 29,
+          "level": 1,
+          "name": "Verdura",
+          "order": 306
+        }
+      ],
+      "id": 1,
+      "level": 0,
+      "name": "Fruta y verdura",
+      "order": 306
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Picada de ajo y perejil",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Salsa Boloñesa",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Entre +2ºC y +8ºC",
+    "suppliers": [
+      {
+        "name": "SALSES FRUITS S&P, S.L"
+      },
+      {
+        "name": "salses fruits s&amp;p.s.l"
+      },
+      {
+        "name": "salses fruits s&p.s.l"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Picada de ajo y perejil",
+  "ean": "8437004983411",
+  "extra_info": [
+    ""
+  ],
+  "id": "40475",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>sa</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>apio y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>cereales que contengan gluten</strong>. Puede contener <strong>dióxido de azufre y sulfitos</strong>. Puede contener <strong>frutos de cáscara</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>huevos y productos a base de huevo</strong>. Puede contener <strong>trigo y productos derivados</strong>. Puede contener <strong>sh</strong>.",
+    "ingredients": "<p>Tomate frito (tomate, aceite de girasol, azúcar, almidón modificado de patata, sal, cebolla y ajo), paleta de cerdo, agua, ternera, cebolla, aceite de oliva virgen extra (1,6%), zanahoria, sal, conservantes: sorbato potásico y ácido sórbico, ajo y orégano."
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/736f2be4a71ddeef9fb68dc3b4189b41.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/736f2be4a71ddeef9fb68dc3b4189b41.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/736f2be4a71ddeef9fb68dc3b4189b41.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/4c7e0aeae8e831252140693df20d0e6d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4c7e0aeae8e831252140693df20d0e6d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4c7e0aeae8e831252140693df20d0e6d.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "15.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "15.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.50",
+    "unit_selector": true,
+    "unit_size": 0.1
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/40475/picada-ajo-perejil-bandeja",
+  "slug": "picada-ajo-perejil-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/736f2be4a71ddeef9fb68dc3b4189b41.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,114 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 304,
+              "level": 2,
+              "name": "Salchichas",
+              "order": 159
+            }
+          ],
+          "id": 52,
+          "level": 1,
+          "name": "Bacón y salchichas",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Salchichas cocidas estilo Viena con queso Hacendado de pollo y cerdo sabor ahumado",
+    "legal_name": "Salchichas cocidas de pollo y cerdo sabor ahumado estilo Viena con Queso.",
+    "mandatory_mentions": "Sin gluten. Salchichas Sin fécula.",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar refrigerado entre 0C y 5C. Una vez abiertos los paquetes, conservarlos refrigerados y consumirlos antes de 7 días.",
+    "suppliers": [
+      {
+        "name": "INCARLOPSA"
+      },
+      {
+        "name": "MERCADONA"
+      }
+    ],
+    "usage_instructions": "Prepararlas escaldadas: Cuando el agua comience a hervir, retirar el recipiente del fuego e introducir las salchichas durante 5 min."
+  },
+  "display_name": "Salchichas cocidas estilo Viena con queso Hacendado de pollo y cerdo sabor ahumado",
+  "ean": "8480000530301",
+  "extra_info": [
+    null
+  ],
+  "id": "53030",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Carne separada mecánicamente de pollo, agua, grasa de cerdo, <strong>queso</strong> fundido (10%) [<strong>queso</strong>, agua, proteínas de la <strong>leche, leche</strong> desnatada  en polvo, sal de fundido (E-331), sal, aroma], sal, plasma de cerdo, aromas, estabilizador (E-450), extractos de especias, aroma de humo, antioxidante (E-316) y conservador (E-250)."
+  },
+  "origin": "España",
+  "packaging": "Pack-2",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/866ff7ce472d2428ea28b52f90f2b823.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/866ff7ce472d2428ea28b52f90f2b823.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/866ff7ce472d2428ea28b52f90f2b823.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/11ab864c0f65b6d58a17f401ca7b166e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/11ab864c0f65b6d58a17f401ca7b166e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/11ab864c0f65b6d58a17f401ca7b166e.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.25",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.2,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "4.250",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 2,
+    "unit_name": "paquetes",
+    "unit_price": "1.70",
+    "unit_selector": true,
+    "unit_size": 0.4
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/53030/salchichas-cocidas-estilo-viena-con-queso-hacendado-pollo-cerdo-sabor-ahumado-pack-2",
+  "slug": "salchichas-cocidas-estilo-viena-con-queso-hacendado-pollo-cerdo-sabor-ahumado-pack-2",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/866ff7ce472d2428ea28b52f90f2b823.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

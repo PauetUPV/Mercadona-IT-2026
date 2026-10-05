@@ -1,0 +1,115 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 484,
+              "level": 2,
+              "name": "Aceitunas verdes",
+              "order": 9
+            }
+          ],
+          "id": 135,
+          "level": 1,
+          "name": "Aceitunas y encurtidos",
+          "order": 9
+        }
+      ],
+      "id": 15,
+      "level": 0,
+      "name": "Aperitivos",
+      "order": 9
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Aceitunas verdes rellenas de anchoa Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Aceitunas verdes rellenas de anchoa",
+    "mandatory_mentions": "Consumir preferentemente antes del fin de/ Lote: ver envase. Excepcionalmente puede contener hueso o resto de hueso",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Consumir dentro d elos 14 días después de la apertura. Una vez abierto, conservar cerrado en el frigorífico con el máximo de líquido posible.",
+    "suppliers": [
+      {
+        "name": "CANDIDO MIRO, S.A."
+      },
+      {
+        "name": "Mercadona"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Aceitunas verdes rellenas de anchoa Hacendado",
+  "ean": "8402001001314",
+  "extra_info": [
+    ""
+  ],
+  "id": "22910",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>pescado y productos a base de pescado</strong>.",
+    "ingredients": "Agua, aceitunas, sal, relleno de anchoa (6%)* (agua, anchoa (<strong>pescado</strong>), estabilizante: alginato sódico), potenciadores del sabor: glutamato de monosodio, inosinato disódico y guanilato disódico, acidulante: ácido cítrico, antioxidante. Ácido ascórbico. (*) sobre peso neto escurrido."
+  },
+  "origin": "España",
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/a8be4414722e79192b356a7f3ababbc0.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a8be4414722e79192b356a7f3ababbc0.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a8be4414722e79192b356a7f3ababbc0.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/147e157397a7a8abc748fc93d378e53d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/147e157397a7a8abc748fc93d378e53d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/147e157397a7a8abc748fc93d378e53d.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.86",
+    "bunch_selector": false,
+    "drained_weight": 0.45,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.15,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.667",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 3,
+    "unit_name": "botes",
+    "unit_price": "3.00",
+    "unit_selector": true,
+    "unit_size": 1.05
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/22910/aceitunas-manzanilla-rellenas-anchoa-hacendado-pack-3",
+  "slug": "aceitunas-manzanilla-rellenas-anchoa-hacendado-pack-3",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/a8be4414722e79192b356a7f3ababbc0.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

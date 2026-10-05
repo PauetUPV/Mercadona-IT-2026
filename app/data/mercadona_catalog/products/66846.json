@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Mar de Uvas",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 571,
+              "level": 2,
+              "name": "Rioja y otras denominaciones",
+              "order": 15
+            }
+          ],
+          "id": 170,
+          "level": 1,
+          "name": "Vino blanco",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": "13.0º",
+    "brand": "Mar de Uvas",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Vino blanco Godello Mar de Uvas DO Monterrei",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Vino blanco",
+    "mandatory_mentions": "Variedad: Godello. Notas de cata: Color amarillo pajizo, limpio y transparente. Aromas primarios: limón, frutas blancas. Ligera textura grasa, goloso y afrutado. Maridaje: Pescados, arroces, risotos, platos de cuchara, quesos.",
+    "origin": "Denominación de origen Monterrei",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y protegido de la luz solar.",
+    "suppliers": [
+      {
+        "name": "Crego e Monaguillo, S.L."
+      }
+    ],
+    "usage_instructions": "Temperatura de servicio: Consumir entre 9-12C"
+  },
+  "display_name": "Vino blanco Godello Mar de Uvas DO Monterrei",
+  "ean": "8480000668462",
+  "extra_info": [
+    ""
+  ],
+  "id": "66846",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "DO Monterrei",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>dióxido de azufre y sulfitos</strong>.",
+    "ingredients": "Uva, agentes estabilizantes (E-456), Conservadores <strong>(sulfitos</strong> <strong>E-228</strong>, E-300)."
+  },
+  "origin": "Denominación de origen Monterrei",
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/60309ea6adef1b773bebfc632d664f8f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/60309ea6adef1b773bebfc632d664f8f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/60309ea6adef1b773bebfc632d664f8f.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/d8aa274a96ce6f510ca57c958f88739f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d8aa274a96ce6f510ca57c958f88739f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d8aa274a96ce6f510ca57c958f88739f.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "8.67",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "8.667",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "6.50",
+    "unit_selector": true,
+    "unit_size": 0.75
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/66846/vino-blanco-godello-do-monterrei-mar-uvas-botella",
+  "slug": "vino-blanco-godello-do-monterrei-mar-uvas-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/60309ea6adef1b773bebfc632d664f8f.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

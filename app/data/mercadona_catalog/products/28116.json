@@ -1,0 +1,140 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Enervit Sport",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 540,
+              "level": 2,
+              "name": "Energético",
+              "order": 8
+            }
+          ],
+          "id": 163,
+          "level": 1,
+          "name": "Isotónico y energético",
+          "order": 8
+        }
+      ],
+      "id": 18,
+      "level": 0,
+      "name": "Agua y refrescos",
+      "order": 8
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 685,
+              "level": 2,
+              "name": "Fitoterapia",
+              "order": 305
+            }
+          ],
+          "id": 213,
+          "level": 1,
+          "name": "Fitoterapia",
+          "order": 305
+        }
+      ],
+      "id": 23,
+      "level": 0,
+      "name": "Fitoterapia y parafarmacia",
+      "order": 305
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Enervit Sport",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Gel energético con cafeína Enervit Sport sabor cítricos",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Gel Energético - Producto Energético Con Hidratos De Carbono, Vitaminas Y Cafeína. Producto Para Deportistas. Sabor Cítricos.",
+    "mandatory_mentions": "Producto para deportistas.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar al resguardo de la luz en un lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Enervit Nutrition, S.L."
+      },
+      {
+        "name": "Enervit Nutrition, S.L.U"
+      },
+      {
+        "name": "Enervit S.p.A"
+      }
+    ],
+    "usage_instructions": "Consumir 3-4 envases (dosis recomendada) a pequeños sorbos a intervalos regulares durante la práctica deportiva en caso de un esfuerzo físico intenso y prolongado."
+  },
+  "display_name": "Gel energético con cafeína Enervit Sport sabor cítricos",
+  "ean": "8007640982941",
+  "extra_info": [
+    ""
+  ],
+  "id": "28116",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Libre de <strong>pescado y productos a base de pescado</strong>.",
+    "ingredients": "<p>Jarabe de glucosa-fructosa (43,6%*) - Jarabe de fructosa (26%*) - Agua - Maltodextrina (1,6%*) - Espesante: carboximetilcelulosa - Aromas - Acidulante: ácido citrico - L-Alanina (0,32%) - L-Leucina (0,32%) - Conservante: sorbato potásico - L-Isoleucina (0,16%) - L-Valina (0,16%) - Cafeína (0,08%) - Complejo de vitaminas (nicotinamida, D-pantotenato cálcico, clorhidrato de piridoxina, riboflavina, clorhidrato de tiamina) - Antioxidante: ácido ascórbico.  Puede contener trazas de soja, leche, cereales que contengan gluten, frutos de cascara."
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/cb4ff0ea67c48a91b55b45f54e83a958.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/cb4ff0ea67c48a91b55b45f54e83a958.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/cb4ff0ea67c48a91b55b45f54e83a958.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/bb838e789a510a39d9f4e66e61b17e43.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/bb838e789a510a39d9f4e66e61b17e43.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/bb838e789a510a39d9f4e66e61b17e43.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "40.76",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.032,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "40.761",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 3,
+    "unit_name": "sobres",
+    "unit_price": "3.75",
+    "unit_selector": true,
+    "unit_size": 0.096
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/28116/gel-energetico-con-cafeina-enervit-sport-sabor-citricos-pack-3",
+  "slug": "gel-energetico-con-cafeina-enervit-sport-sabor-citricos-pack-3",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/cb4ff0ea67c48a91b55b45f54e83a958.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

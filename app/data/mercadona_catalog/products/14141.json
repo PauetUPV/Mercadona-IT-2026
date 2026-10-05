@@ -1,0 +1,120 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 358,
+              "level": 2,
+              "name": "Tortitas",
+              "order": 18
+            }
+          ],
+          "id": 79,
+          "level": 1,
+          "name": "Tortitas",
+          "order": 18
+        }
+      ],
+      "id": 7,
+      "level": 0,
+      "name": "Cereales y galletas",
+      "order": 18
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Tortitas de arroz con chocolate blanco sabor yogur Hacendado",
+    "legal_name": "TORTITAS DE ARROZ CHOCOLATE BLANCO SABOR YOGUR. PRODUCTO DE ARROZ EXTRUSIONADO CON CHOCOLATE BLANCO SABOR YOGUR",
+    "mandatory_mentions": "Sin gluten.",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco. Abrir el envase un minuto antes de consumir.",
+    "suppliers": [
+      {
+        "name": "CEREALTO SIRO FOODS S.L."
+      },
+      {
+        "name": "GRUPO SIRO"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Tortitas de arroz con chocolate blanco sabor yogur Hacendado",
+  "ean": "8480000141415",
+  "extra_info": [
+    null
+  ],
+  "id": "14141",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Chocolate blanco sabor yogur ( leche ) (54%) [azúcar, mantec<strong>a de </strong>cacao, leche entera en polvo, yogur pasteurizado después de la ferm<strong>entac</strong>ión de leche desnatada en polvo (5%), dext<strong>rina, g</strong>rasa lác<strong>tea anh</strong>idra ( leche ), emulgente<strong> (le</strong>citina de soja ), aromas], arroz (45%), sal. Puede contener tra<strong>zas de frutos de cáscara.</strong>"
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/06d5eaf5e7e3c88e3ccfe35f77c42e5a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/06d5eaf5e7e3c88e3ccfe35f77c42e5a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/06d5eaf5e7e3c88e3ccfe35f77c42e5a.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/1bd448ea025abef31c0046a90565c223.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1bd448ea025abef31c0046a90565c223.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1bd448ea025abef31c0046a90565c223.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/55105d90371a0d4ceddaafa328d87f8d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/55105d90371a0d4ceddaafa328d87f8d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/55105d90371a0d4ceddaafa328d87f8d.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "15.83",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "15.834",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 4,
+    "unit_name": "packs",
+    "unit_price": "1.90",
+    "unit_selector": true,
+    "unit_size": 0.12
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/14141/tortitas-arroz-con-chocolate-blanco-sabor-yogur-hacendado-paquete",
+  "slug": "tortitas-arroz-con-chocolate-blanco-sabor-yogur-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/06d5eaf5e7e3c88e3ccfe35f77c42e5a.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,2025 @@
+{
+  "categories": [
+    {
+      "id": 318,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Pan de molde",
+      "order": 515,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 5,
+              "level": 0,
+              "name": "Panadería y pastelería",
+              "order": 515
+            }
+          ],
+          "display_name": "Pan de molde blanco sin corteza Hacendado",
+          "id": "82322",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.33",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "2.334",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": 16,
+            "unit_name": "rebanadas",
+            "unit_price": "1.05",
+            "unit_selector": true,
+            "unit_size": 0.45
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/82322/pan-molde-blanco-sin-corteza-hacendado-paquete",
+          "slug": "pan-molde-blanco-sin-corteza-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/7931704a16106081eb2e0d81c340306c.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 5,
+              "level": 0,
+              "name": "Panadería y pastelería",
+              "order": 515
+            }
+          ],
+          "display_name": "Pan de molde blanco familiar Hacendado",
+          "id": "82324",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "1.40",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "1.403",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": 26,
+            "unit_name": "rebanadas",
+            "unit_price": "1.15",
+            "unit_selector": true,
+            "unit_size": 0.82
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/82324/pan-molde-blanco-familiar-hacendado-paquete",
+          "slug": "pan-molde-blanco-familiar-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/84cbbb09e0aaec1b17a520a4b171247e.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 5,
+              "level": 0,
+              "name": "Panadería y pastelería",
+              "order": 515
+            }
+          ],
+          "display_name": "Pan de molde blanco Hacendado",
+          "id": "13810",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "1.74",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "1.740",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": 16,
+            "unit_name": "rebanadas",
+            "unit_price": "0.80",
+            "unit_selector": true,
+            "unit_size": 0.46
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/13810/pan-molde-blanco-hacendado-paquete",
+          "slug": "pan-molde-blanco-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/37367d7a79c63686cbdb1cdad6b5e927.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 5,
+              "level": 0,
+              "name": "Panadería y pastelería",
+              "order": 515
+            }
+          ],
+          "display_name": "Pan de molde 100% integral familiar Hacendado",
+          "id": "83886",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "1.40",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "1.403",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": 26,
+            "unit_name": "rebanadas",
+            "unit_price": "1.15",
+            "unit_selector": true,
+            "unit_size": 0.82
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/83886/pan-molde-100-integral-familiar-hacendado-paquete",
+          "slug": "pan-molde-100-integral-familiar-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/bb4bc87dd5cde05303b1e222c2131fb0.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 5,
+              "level": 0,
+              "name": "Panadería y pastelería",
+              "order": 515
+            }
+          ],
+          "display_name": "Pan de molde 100% integral Hacendado",
+          "id": "82328",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "1.96",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "1.957",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": 16,
+            "unit_name": "rebanadas",
+            "unit_price": "0.90",
+            "unit_selector": true,
+            "unit_size": 0.46
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/82328/pan-molde-100-integral-hacendado-0-mg-0-azucares-anadidos-paquete",
+          "slug": "pan-molde-100-integral-hacendado-0-mg-0-azucares-anadidos-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/4257949726923aaa0bbdef3e1e90f753.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 5,
+              "level": 0,
+              "name": "Panadería y pastelería",
+              "order": 515
+            }
+          ],
+          "display_name": "Pan de molde 100% integral sin corteza Hacendado",
+          "id": "23643",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.44",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "2.445",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": 16,
+            "unit_name": "rebanadas",
+            "unit_price": "1.10",
+            "unit_selector": true,
+            "unit_size": 0.45
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/23643/pan-molde-100-integral-sin-corteza-hacendado-0-azucares-anadidos-paquete",
+          "slug": "pan-molde-100-integral-sin-corteza-hacendado-0-azucares-anadidos-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/3c3a0ceabc49c8022b255bb92751d3d5.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 5,
+              "level": 0,
+              "name": "Panadería y pastelería",
+              "order": 515
+            }
+          ],
+          "display_name": "Pan de molde blanco natural rústico Hacendado",
+          "id": "23359",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.36",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "2.364",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": 14,
+            "unit_name": "rebanadas",
+            "unit_price": "1.30",
+            "unit_selector": true,
+            "unit_size": 0.55
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/23359/pan-molde-blanco-natural-rustico-hacendado-0-azucares-anadidos-paquete",
+          "slug": "pan-molde-blanco-natural-rustico-hacendado-0-azucares-anadidos-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/f959357511174b86d32065978125d81e.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 5,
+              "level": 0,
+              "name": "Panadería y pastelería",
+              "order": 515
+            }
+          ],
+          "display_name": "Pan de molde blanco rebanada gruesa Hacendado",
+          "id": "82326",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.07",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "2.074",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": 16,
+            "unit_name": "rebanadas",
+            "unit_price": "1.70",
+            "unit_selector": true,
+            "unit_size": 0.82
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/82326/pan-molde-blanco-rebanada-gruesa-hacendado-paquete",
+          "slug": "pan-molde-blanco-rebanada-gruesa-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/36c7da80953cdce669a40896b9b4acaf.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 5,
+              "level": 0,
+              "name": "Panadería y pastelería",
+              "order": 515
+            }
+          ],
+          "display_name": "Pan de molde cereales sin gluten Hacendado",
+          "id": "86750",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "5.83",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 4,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "5.830",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": 14,
+            "unit_name": "rebanadas",
+            "unit_price": "2.74",
+            "unit_selector": true,
+            "unit_size": 0.47
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/86750/pan-molde-cereales-sin-gluten-hacendado-paquete",
+          "slug": "pan-molde-cereales-sin-gluten-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/a8c90aab11776a9f62a00b0a10634ad7.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 5,
+              "level": 0,
+              "name": "Panadería y pastelería",
+              "order": 515
+            }
+          ],
+          "display_name": "Pan de molde sin gluten blanco Hacendado",
+          "id": "35711",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "5.48",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "5.480",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": 14,
+            "unit_name": "rebanadas",
+            "unit_price": "2.74",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/35711/pan-molde-sin-gluten-blanco-hacendado-paquete",
+          "slug": "pan-molde-sin-gluten-blanco-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/4b2fd6f2a42c76ccb71db2be51fa7ec5.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    },
+    {
+      "id": 320,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Otros panes",
+      "order": 515,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 5,
+              "level": 0,
+              "name": "Panadería y pastelería",
+              "order": 515
+            }
+          ],
+          "display_name": "Pan de molde integral con 20% avena 5% trigo sarraceno Hacendado",
+          "id": "18294",
+          "is_new_arrival": true,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.73",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "2.728",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": 14,
+            "unit_name": "rebanadas",
+            "unit_price": "1.50",
+            "unit_selector": true,
+            "unit_size": 0.55
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/18294/pan-molde-integral-con-20-avena-5-trigo-sarraceno-hacendado-paquete",
+          "slug": "pan-molde-integral-con-20-avena-5-trigo-sarraceno-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/f3ccd8c0b23f1583738c49f03fb2e254.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 5,
+              "level": 0,
+              "name": "Panadería y pastelería",
+              "order": 515
+            }
+          ],
+          "display_name": "Pan 5 semillas",
+          "id": "83558",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "3.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.50",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/83558/pan-5-semillas-cortado-paquete",
+          "slug": "pan-5-semillas-cortado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/a350fb1c5677d63b916ef0ecc3183df5.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 5,
+              "level": 0,
+              "name": "Panadería y pastelería",
+              "order": 515
+            }
+          ],
+          "display_name": "Barra de pan tradicional",
+          "id": "83560",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "1.83",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "1.829",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.28",
+            "unit_selector": true,
+            "unit_size": 0.7
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/83560/barra-pan-tradicional-cortada-paquete",
+          "slug": "barra-pan-tradicional-cortada-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/25c4bc7eecd7bb503f2339aac9059af4.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 5,
+              "level": 0,
+              "name": "Panadería y pastelería",
+              "order": 515
+            }
+          ],
+          "display_name": "Pan de molde espelta 100% integral Hacendado natural",
+          "id": "14961",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "3.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": 16,
+            "unit_name": "rebanadas",
+            "unit_price": "1.65",
+            "unit_selector": true,
+            "unit_size": 0.55
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14961/pan-molde-espelta-100-integral-hacendado-natural-paquete",
+          "slug": "pan-molde-espelta-100-integral-hacendado-natural-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/174093fd98d687d6f3e191a0207cc828.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 5,
+              "level": 0,
+              "name": "Panadería y pastelería",
+              "order": 515
+            }
+          ],
+          "display_name": "Pan de molde semillas y pipas de calabaza Hacendado",
+          "id": "83869",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.67",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "2.673",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": 14,
+            "unit_name": "rebanadas",
+            "unit_price": "1.55",
+            "unit_selector": true,
+            "unit_size": 0.58
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/83869/pan-molde-semillas-pipas-calabaza-hacendado-paquete",
+          "slug": "pan-molde-semillas-pipas-calabaza-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/2c503fa3d2fb1a21bf062e8a9b9affae.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 5,
+              "level": 0,
+              "name": "Panadería y pastelería",
+              "order": 515
+            }
+          ],
+          "display_name": "Pan de molde con 55% centeno Hacendado",
+          "id": "82302",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "1.88",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "1.875",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": 16,
+            "unit_name": "rebanadas",
+            "unit_price": "1.35",
+            "unit_selector": true,
+            "unit_size": 0.72
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/82302/pan-molde-con-55-centeno-hacendado-paquete",
+          "slug": "pan-molde-con-55-centeno-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/f9b68761bf2dfe1c91dabcb96b64afe5.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 5,
+              "level": 0,
+              "name": "Panadería y pastelería",
+              "order": 515
+            }
+          ],
+          "display_name": "Pan de molde 12 cereales y semillas Hacendado",
+          "id": "83547",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.21",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "2.206",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": 16,
+            "unit_name": "rebanadas",
+            "unit_price": "1.50",
+            "unit_selector": true,
+            "unit_size": 0.68
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/83547/pan-molde-12-cereales-semillas-hacendado-paquete",
+          "slug": "pan-molde-12-cereales-semillas-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/bf669c3d9063dfe4e7ba8f105f36b704.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 5,
+              "level": 0,
+              "name": "Panadería y pastelería",
+              "order": 515
+            }
+          ],
+          "display_name": "Hogaza sin gluten",
+          "id": "82735",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "9.87",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 4,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "9.867",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.96",
+            "unit_selector": true,
+            "unit_size": 0.3
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/82735/hogaza-sin-gluten-cortada-paquete",
+          "slug": "hogaza-sin-gluten-cortada-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/af38980c089d2ef99559f4ecaa47cc7d.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 5,
+              "level": 0,
+              "name": "Panadería y pastelería",
+              "order": 515
+            }
+          ],
+          "display_name": "Pan Brioche Hacendado",
+          "id": "22899",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "5.88",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "5.875",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 14,
+            "unit_name": "rebanadas",
+            "unit_price": "2.35",
+            "unit_selector": true,
+            "unit_size": 0.4
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/22899/pan-brioche-hacendado-paquete",
+          "slug": "pan-brioche-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/093aa5fd71175cc58f2cdecd129572cf.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 5,
+              "level": 0,
+              "name": "Panadería y pastelería",
+              "order": 515
+            }
+          ],
+          "display_name": "Pan Bagel Hacendado",
+          "id": "23843",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "4.73",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 4,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "4.734",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": 4,
+            "unit_name": "ud.",
+            "unit_price": "1.42",
+            "unit_selector": true,
+            "unit_size": 0.3
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/23843/pan-bagel-hacendado-paquete",
+          "slug": "pan-bagel-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/043c6fcbfadeded3d49b292df2f1e624.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 5,
+              "level": 0,
+              "name": "Panadería y pastelería",
+              "order": 515
+            }
+          ],
+          "display_name": "Pan redondo sin gluten Hacendado",
+          "id": "35849",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "12.06",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 4,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "12.063",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": 2,
+            "unit_name": "ud.",
+            "unit_price": "1.93",
+            "unit_selector": true,
+            "unit_size": 0.16
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/35849/pan-redondo-sin-gluten-hacendado-paquete",
+          "slug": "pan-redondo-sin-gluten-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/a3a8bd862ae9048c2fb1b2c56523bcad.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 5,
+              "level": 0,
+              "name": "Panadería y pastelería",
+              "order": 515
+            }
+          ],
+          "display_name": "Media Hogaza integral de avena, semillas de girasol y sésamo Hacendado rebanado",
+          "id": "9369",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "rebanado",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.71",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "2.715",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.95",
+            "unit_selector": true,
+            "unit_size": 0.35
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/9369/media-hogaza-integral-avena-semillas-girasol-sesamo-rebanado-paquete",
+          "slug": "media-hogaza-integral-avena-semillas-girasol-sesamo-rebanado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/411167ca6e14c8c0278906d3d559f83f.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 5,
+              "level": 0,
+              "name": "Panadería y pastelería",
+              "order": 515
+            }
+          ],
+          "display_name": "Pan de molde 15% maíz Hacendado",
+          "id": "17667",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "3.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": 14,
+            "unit_name": "rebanadas",
+            "unit_price": "1.65",
+            "unit_selector": true,
+            "unit_size": 0.55
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/17667/pan-molde-15-maiz-hacendado-paquete",
+          "slug": "pan-molde-15-maiz-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/086d7d02eb8e3c7412942bbdb6e7e04d.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    },
+    {
+      "id": 321,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Pan de hamburguesa y wrap",
+      "order": 515,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 5,
+              "level": 0,
+              "name": "Panadería y pastelería",
+              "order": 515
+            }
+          ],
+          "display_name": "Tortillas de trigo Hacendado",
+          "id": "80859",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.19",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "3.195",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": 10,
+            "unit_name": "ud.",
+            "unit_price": "1.15",
+            "unit_selector": true,
+            "unit_size": 0.36
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/80859/tortillas-trigo-hacendado-paquete",
+          "slug": "tortillas-trigo-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/ed65b3b242f3ea0ffb63bdc75878a1d7.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 5,
+              "level": 0,
+              "name": "Panadería y pastelería",
+              "order": 515
+            }
+          ],
+          "display_name": "Pan hot dog Hacendado",
+          "id": "82332",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.73",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "2.728",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": 6,
+            "unit_name": "ud.",
+            "unit_price": "0.90",
+            "unit_selector": true,
+            "unit_size": 0.33
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/82332/pan-hot-dog-hacendado-paquete",
+          "slug": "pan-hot-dog-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/1a4384796c10baa72355deb00039cbd4.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 5,
+              "level": 0,
+              "name": "Panadería y pastelería",
+              "order": 515
+            }
+          ],
+          "display_name": "Maxi pan de burger Hacendado",
+          "id": "13803",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.83",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "2.834",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": 4,
+            "unit_name": "ud.",
+            "unit_price": "0.85",
+            "unit_selector": true,
+            "unit_size": 0.3
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/13803/pan-maxi-hamburguesa-hacendado-paquete",
+          "slug": "pan-maxi-hamburguesa-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/004af95bdcfc0463e7d806f7919fc90a.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 5,
+              "level": 0,
+              "name": "Panadería y pastelería",
+              "order": 515
+            }
+          ],
+          "display_name": "Tortillas de trigo integrales Hacendado",
+          "id": "80942",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "4.31",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "4.306",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": 10,
+            "unit_name": "ud.",
+            "unit_price": "1.55",
+            "unit_selector": true,
+            "unit_size": 0.36
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/80942/tortillas-trigo-integrales-hacendado-paquete",
+          "slug": "tortillas-trigo-integrales-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/d1fdbb3de0ddaacc3f3f76526fd2bc4a.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 5,
+              "level": 0,
+              "name": "Panadería y pastelería",
+              "order": 515
+            }
+          ],
+          "display_name": "Pan de burger Brioche Hacendado",
+          "id": "52602",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "7.33",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "7.334",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 2,
+            "unit_name": "ud.",
+            "unit_price": "1.10",
+            "unit_selector": true,
+            "unit_size": 0.15
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/52602/pan-hamburguesa-brioche-hacendado-paquete",
+          "slug": "pan-hamburguesa-brioche-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/c4f9f0e92cd76bbb10bb9761df1ca7b6.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 5,
+              "level": 0,
+              "name": "Panadería y pastelería",
+              "order": 515
+            }
+          ],
+          "display_name": "Maxi tortillas de trigo Hacendado",
+          "id": "80870",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "4.17",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "4.167",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": 6,
+            "unit_name": "ud.",
+            "unit_price": "1.50",
+            "unit_selector": true,
+            "unit_size": 0.36
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/80870/maxi-tortillas-trigo-hacendado-paquete",
+          "slug": "maxi-tortillas-trigo-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/9bbd7b9434f81a70eb1514d235587d1f.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 5,
+              "level": 0,
+              "name": "Panadería y pastelería",
+              "order": 515
+            }
+          ],
+          "display_name": "Mini tortillas de trigo Hacendado",
+          "id": "80939",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "5.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 4,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.15,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "5.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": 12,
+            "unit_name": "ud.",
+            "unit_price": "1.65",
+            "unit_selector": true,
+            "unit_size": 0.3
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/80939/mini-tortillas-trigo-hacendado-paquete",
+          "slug": "mini-tortillas-trigo-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/bfd4d4b76e3f4a1010dca604777e65b9.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 5,
+              "level": 0,
+              "name": "Panadería y pastelería",
+              "order": 515
+            }
+          ],
+          "display_name": "Mini pan de burger Hacendado",
+          "id": "84429",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "7.58",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "7.576",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": 8,
+            "unit_name": "ud.",
+            "unit_price": "1.25",
+            "unit_selector": true,
+            "unit_size": 0.165
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/84429/pan-mini-bocados-hacendado-paquete",
+          "slug": "pan-mini-bocados-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/2bd3a8a79f94c5c3e9c4763d912e6e75.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 5,
+              "level": 0,
+              "name": "Panadería y pastelería",
+              "order": 515
+            }
+          ],
+          "display_name": "Pan de burger Hacendado Rústico 100% integral",
+          "id": "21960",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "3.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": 4,
+            "unit_name": "ud.",
+            "unit_price": "1.05",
+            "unit_selector": true,
+            "unit_size": 0.3
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/21960/pan-hamburguesa-hacendado-rustico-100-integral-paquete",
+          "slug": "pan-hamburguesa-hacendado-rustico-100-integral-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/8c4c82b8e3fad5489f4aecb68809f547.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 5,
+              "level": 0,
+              "name": "Panadería y pastelería",
+              "order": 515
+            }
+          ],
+          "display_name": "Tortillas de avena 51% Hacendado",
+          "id": "80531",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "5.14",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "5.139",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": 6,
+            "unit_name": "ud.",
+            "unit_price": "1.85",
+            "unit_selector": true,
+            "unit_size": 0.36
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/80531/tortillas-avena-51-hacendado-paquete",
+          "slug": "tortillas-avena-51-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/52880df57b58670b6e58e1cae226663d.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 5,
+              "level": 0,
+              "name": "Panadería y pastelería",
+              "order": 515
+            }
+          ],
+          "display_name": "Tortillas de maíz Hacendado",
+          "id": "86328",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "8.89",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "8.895",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": 8,
+            "unit_name": "ud.",
+            "unit_price": "1.85",
+            "unit_selector": true,
+            "unit_size": 0.208
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/86328/tortillas-maiz-hacendado-paquete",
+          "slug": "tortillas-maiz-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/5846b002f93e90fe75ef639f619bf409.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 5,
+              "level": 0,
+              "name": "Panadería y pastelería",
+              "order": 515
+            }
+          ],
+          "display_name": "Pan de pita Mission",
+          "id": "14378",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "6.67",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "6.667",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": 5,
+            "unit_name": "ud.",
+            "unit_price": "2.00",
+            "unit_selector": true,
+            "unit_size": 0.3
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14378/pan-pita-mission-paquete",
+          "slug": "pan-pita-mission-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/4af89bf80e15b2a11b57f8e001013cc4.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 5,
+              "level": 0,
+              "name": "Panadería y pastelería",
+              "order": 515
+            }
+          ],
+          "display_name": "Piadina Hacendado",
+          "id": "21448",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "5.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "5.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": 4,
+            "unit_name": "ud.",
+            "unit_price": "2.20",
+            "unit_selector": true,
+            "unit_size": 0.4
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/21448/piadina-hacendado-paquete",
+          "slug": "piadina-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/1eb3252461b1e62ff0cbdacb2cbc1304.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 5,
+              "level": 0,
+              "name": "Panadería y pastelería",
+              "order": 515
+            }
+          ],
+          "display_name": "Pan hot dog Brioche Hacendado",
+          "id": "17613",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "6.20",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "6.200",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 4,
+            "unit_name": "ud.",
+            "unit_price": "1.55",
+            "unit_selector": true,
+            "unit_size": 0.25
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/17613/pan-hot-dog-brioche-hacendado-paquete",
+          "slug": "pan-hot-dog-brioche-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/242b6385ccc272660fde58a0024094d5.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 5,
+              "level": 0,
+              "name": "Panadería y pastelería",
+              "order": 515
+            }
+          ],
+          "display_name": "Tortillas de trigo Delibreads 30 cm",
+          "id": "17567",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "30 cm",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.67",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "3.672",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": 8,
+            "unit_name": "ud.",
+            "unit_price": "2.35",
+            "unit_selector": true,
+            "unit_size": 0.64
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/17567/tortillas-trigo-delibreads-30-cm-paquete",
+          "slug": "tortillas-trigo-delibreads-30-cm-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/b40bf5cda59aa0d7c49fe769c6ad3314.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 5,
+              "level": 0,
+              "name": "Panadería y pastelería",
+              "order": 515
+            }
+          ],
+          "display_name": "Pan de burger Hacendado Rústico",
+          "id": "17665",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "Rústico",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "4.32",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "4.319",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": 4,
+            "unit_name": "ud.",
+            "unit_price": "0.95",
+            "unit_selector": true,
+            "unit_size": 0.22
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/17665/pan-burger-hacendado-rustico-paquete",
+          "slug": "pan-burger-hacendado-rustico-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/17b3a7964421bf5cf816bd81faa8a1b8.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    }
+  ],
+  "id": 60,
+  "is_extended": false,
+  "layout": 1,
+  "name": "Pan de molde y otras especialidades",
+  "next_category": {
+    "id": 62,
+    "name": "Pan tostado y rallado"
+  },
+  "order": 515,
+  "published": true
+}

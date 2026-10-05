@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Casón Histórico",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 558,
+              "level": 2,
+              "name": "Vino blanco de mesa",
+              "order": 15
+            }
+          ],
+          "id": 170,
+          "level": 1,
+          "name": "Vino blanco",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": "11.0º",
+    "brand": "Casón Histórico",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Vino blanco Casón Histórico",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Vino blanco sin DOP/IGP",
+    "mandatory_mentions": "Apto para veganos.",
+    "origin": "Producto de España",
+    "production_variant": "",
+    "storage_instructions": "Conservación en lugar fresco, protegido de la luz y el ruido.",
+    "suppliers": [
+      {
+        "name": "García Carrión 1890, S.L."
+      },
+      {
+        "name": "JGC S.A"
+      }
+    ],
+    "usage_instructions": "Servir entre 4º y 6ºC"
+  },
+  "display_name": "Vino blanco Casón Histórico",
+  "ean": "8480000661272",
+  "extra_info": [
+    ""
+  ],
+  "id": "66127",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>dióxido de azufre y sulfitos</strong>.",
+    "ingredients": "Uvas, conservadores y antioxidantes <strong>(sulfitos)</strong>, agentes estabilizantes (ácido láctico y ácido metatartárico)."
+  },
+  "origin": "Producto de España",
+  "packaging": "Brik",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/cba9111659578a10cba501895fc1280a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/cba9111659578a10cba501895fc1280a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/cba9111659578a10cba501895fc1280a.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/ba781879d8093f7bb58054209d408e82.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ba781879d8093f7bb58054209d408e82.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ba781879d8093f7bb58054209d408e82.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "0.95",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "0.950",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.95",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/66127/vino-blanco-cason-historico-brick",
+  "slug": "vino-blanco-cason-historico-brick",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/cba9111659578a10cba501895fc1280a.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

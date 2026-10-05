@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "La Selva",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 303,
+              "level": 2,
+              "name": "Bacón",
+              "order": 159
+            }
+          ],
+          "id": 52,
+          "level": 1,
+          "name": "Bacón y salchichas",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "La Selva",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Panceta curada sin corteza La Selva lonchas",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "PANCETA CURADA",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 0 C y 5 C.",
+    "suppliers": [
+      {
+        "name": "Joaquim Albertí, S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Panceta curada sin corteza La Selva lonchas",
+  "ean": "8410973583363",
+  "extra_info": [
+    null
+  ],
+  "id": "29606",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "lonchas",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Panceta de cerdo, sal, azúcar, conservadores (E262, E252, E250), especias, extractos de especias."
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/e36d77fec872a6ca1491b09b9531dea7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e36d77fec872a6ca1491b09b9531dea7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e36d77fec872a6ca1491b09b9531dea7.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/9d07551f9c1d357c9c680cab3a24718a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9d07551f9c1d357c9c680cab3a24718a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9d07551f9c1d357c9c680cab3a24718a.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "12.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": "        2.65",
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "12.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.50",
+    "unit_selector": true,
+    "unit_size": 0.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/29606/panceta-curada-sin-corteza-selva-lonchas-paquete",
+  "slug": "panceta-curada-sin-corteza-selva-lonchas-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/e36d77fec872a6ca1491b09b9531dea7.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

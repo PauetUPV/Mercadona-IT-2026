@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 330,
+              "level": 2,
+              "name": "Bollería dulce",
+              "order": 515
+            }
+          ],
+          "id": 65,
+          "level": 1,
+          "name": "Bollería de horno",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Bizcocho azúcar sin gluten",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Bizcocho azúcar sin gluten sin lactosa",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Mantener a temperatura inferior o igual a -18ºC. No volver a congelar el producto una vez que ha sido descongelado. Una vez abierto el envase, debe permanecer en un lugar fresco y seco, y consumirse en un plazo máximo de 10 días.",
+    "suppliers": [
+      {
+        "name": "Brioixpan S.L."
+      }
+    ],
+    "usage_instructions": "Descongelar 30 minutos antes de su consumo. Método de descongelado: colocar sobre una superficie lisa boca a arriba, sin nada encima. No descongelar uno encima del otro. Producto listo para su consumo."
+  },
+  "display_name": "Bizcocho azúcar sin gluten",
+  "ean": "8402001038211",
+  "extra_info": [
+    ""
+  ],
+  "id": "14443",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>huevos y productos a base de huevo</strong>. Libre de <strong>leche y sus derivados (incluida la lactosa)</strong>. Libre de <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Azúcar, <strong>HUEVO</strong> líquido pasteurizado, aceite refinado de girasol, fécula de patata, fécula de tapioca, harina de arroz, almidón de maíz, humectante (glicerina), gasificantes (difosfato disódico, bicarbonato sódico, carbonato cálcico y sulfato cálcico), azúcar invertido líquido, espesante (goma xantana), sal, ralladura de limón, proteína de patata, corrector de acidez (ácido cítrico). Sin gluten. Sin lactosa. Contiene <strong>huevo</strong>."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/1ccc3f49b202571f5a415c93689309cd.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1ccc3f49b202571f5a415c93689309cd.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1ccc3f49b202571f5a415c93689309cd.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/cd548123363cbc720fb463b87b54580b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/cd548123363cbc720fb463b87b54580b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/cd548123363cbc720fb463b87b54580b.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "9.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "9.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.85",
+    "unit_selector": true,
+    "unit_size": 0.3
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/14443/bizcocho-azucar-sin-gluten-paquete",
+  "slug": "bizcocho-azucar-sin-gluten-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/1ccc3f49b202571f5a415c93689309cd.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

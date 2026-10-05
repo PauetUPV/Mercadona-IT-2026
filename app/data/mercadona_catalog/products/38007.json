@@ -1,0 +1,107 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Granzoo",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 721,
+              "level": 2,
+              "name": "Otros",
+              "order": 443
+            }
+          ],
+          "id": 225,
+          "level": 1,
+          "name": "Otros",
+          "order": 443
+        }
+      ],
+      "id": 25,
+      "level": 0,
+      "name": "Mascotas",
+      "order": 443
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": "",
+    "brand": "Granzoo",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Alimento completo conejos enanos Granzoo",
+    "legal_name": "",
+    "mandatory_mentions": "",
+    "origin": "",
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [],
+    "usage_instructions": ""
+  },
+  "display_name": "Alimento completo conejos enanos Granzoo",
+  "ean": "8410909241589",
+  "extra_info": [
+    null
+  ],
+  "id": "38007",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "",
+    "ingredients": ""
+  },
+  "origin": "",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/5c9beda4b732f73ef50e0d266c0082bf.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5c9beda4b732f73ef50e0d266c0082bf.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5c9beda4b732f73ef50e0d266c0082bf.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 6,
+      "regular": "https://prod-mercadona.imgix.net/images/0c74f82f4ab71abb681e8983eba91d5e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0c74f82f4ab71abb681e8983eba91d5e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0c74f82f4ab71abb681e8983eba91d5e.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.13",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "2.125",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.70",
+    "unit_selector": true,
+    "unit_size": 0.8
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/38007/alimento-completo-conejos-enanos-granzoo-paquete",
+  "slug": "alimento-completo-conejos-enanos-granzoo-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/5c9beda4b732f73ef50e0d266c0082bf.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

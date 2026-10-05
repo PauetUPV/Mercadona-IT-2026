@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Danacol",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 866,
+              "level": 2,
+              "name": "Colesterol y otros",
+              "order": 598
+            }
+          ],
+          "id": 108,
+          "level": 1,
+          "name": "Yogures líquidos",
+          "order": 598
+        }
+      ],
+      "id": 11,
+      "level": 0,
+      "name": "Postres y yogures",
+      "order": 598
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Danacol",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Bebida láctea de fresa Danacol 0% azúcares añadidos 0% MG Danone",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "LECHE FERMENTADA DESNATADA CON EDULCORANTES, ESTEROLES VEGETALES AÑADIDOS Y FRESA.",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Consérvese en frío entre 2ºC y 6ºC",
+    "suppliers": [
+      {
+        "name": "Danone S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Bebida láctea de fresa Danacol 0% azúcares añadidos 0% MG",
+  "ean": "8410500017538",
+  "extra_info": [
+    ""
+  ],
+  "id": "20941",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "0% azúcares añadidos 0% MG",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Leche</strong> pasteurizada desnatada, concentrado de <strong>sólidos lácteos</strong> rehidratado, éster de esterol vegetal (2,6%, del cual 1,6% esterol vegetal libre), pulpa de fresa (1%), <strong>leche</strong> desnatada en polvo, colorante (carmines), aroma, fermentos lácticos y edulcorantes (acesulfamo K y sucralosa). Origen de la leche: España."
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/03f5fb476185c58c325dd979d1e09e49.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/03f5fb476185c58c325dd979d1e09e49.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/03f5fb476185c58c325dd979d1e09e49.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/dcde3077edde054e45eb1244d1ed29a3.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/dcde3077edde054e45eb1244d1ed29a3.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/dcde3077edde054e45eb1244d1ed29a3.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.90",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.1,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.900",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 10,
+    "unit_name": "mini botellas",
+    "unit_price": "5.90",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/20941/bebida-lactea-fresa-danacol-0-azucares-anadidos-danone-pack-10",
+  "slug": "bebida-lactea-fresa-danacol-0-azucares-anadidos-danone-pack-10",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/03f5fb476185c58c325dd979d1e09e49.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

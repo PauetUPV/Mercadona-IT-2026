@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 499,
+              "level": 2,
+              "name": "Ensaladilla",
+              "order": 597
+            }
+          ],
+          "id": 142,
+          "level": 1,
+          "name": "Platos preparados fríos",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Patatas con allioli Hacendado",
+    "legal_name": "Patatas con Allioli",
+    "mandatory_mentions": "Envasado en atmósfera protectora.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en el frigorífico entre 1 ºC y 4 ºC. Una vez abierto consumir antes de 48 horas.",
+    "suppliers": [
+      {
+        "name": "Nueva Cocina Mediterránea 2002 S.L."
+      }
+    ],
+    "usage_instructions": "Listo para comer."
+  },
+  "display_name": "Patatas con allioli Hacendado",
+  "ean": "8480000677983",
+  "extra_info": [
+    null
+  ],
+  "id": "67798",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>pescado y productos a base de pescado</strong>. Contiene <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "Patata 71%, salsa allioli 27% (aceite  de girasol, <strong>HUEVO</strong> pasteurizado, ajo, sal, jugo de limón concentrado, conservante: E202), agua, perejil, conservantes: E202, E211, aroma natural. Puede contener trazas de <strong>PESCADO</strong>."
+  },
+  "origin": null,
+  "packaging": "Tarrina",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/0fcb44221de105ac6132768b660dc7c3.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0fcb44221de105ac6132768b660dc7c3.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0fcb44221de105ac6132768b660dc7c3.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/66d6030eb6791eb36b148ef75c99dc52.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/66d6030eb6791eb36b148ef75c99dc52.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/66d6030eb6791eb36b148ef75c99dc52.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.20",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.200",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.55",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/67798/patatas-con-allioli-hacendado-tarrina",
+  "slug": "patatas-con-allioli-hacendado-tarrina",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/0fcb44221de105ac6132768b660dc7c3.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

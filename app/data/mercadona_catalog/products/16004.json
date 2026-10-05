@@ -1,0 +1,109 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 460,
+              "level": 2,
+              "name": "Tomate",
+              "order": 215
+            }
+          ],
+          "id": 126,
+          "level": 1,
+          "name": "Tomate",
+          "order": 215
+        }
+      ],
+      "id": 14,
+      "level": 0,
+      "name": "Conservas, caldos y cremas",
+      "order": 215
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Tomate para untar Hacendado con aceite de oliva",
+    "legal_name": "Tomate parar untar",
+    "mandatory_mentions": "con aceite de oliva",
+    "origin": "Producto de España",
+    "production_variant": "",
+    "storage_instructions": "Una vez abierto el envase, conservar en el frigorífico y consumir como máximo en 5 días.",
+    "suppliers": [
+      {
+        "name": "Conservas el Cidacos S.A."
+      }
+    ],
+    "usage_instructions": "Agitar bien antes de usar"
+  },
+  "display_name": "Tomate para untar Hacendado con aceite de oliva",
+  "ean": "8410313296328",
+  "extra_info": [
+    null
+  ],
+  "id": "16004",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Tomate fresco, aceite de oliva (4%) y sal."
+  },
+  "origin": "Producto de España",
+  "packaging": "Pack-2",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/b8ca7f5ae2254c2a3ffe8a69772a8065.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b8ca7f5ae2254c2a3ffe8a69772a8065.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b8ca7f5ae2254c2a3ffe8a69772a8065.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/e710bdce2357da79855a0fbac896ea40.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e710bdce2357da79855a0fbac896ea40.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e710bdce2357da79855a0fbac896ea40.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.16",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.16,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.157",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 2,
+    "unit_name": "tarritos",
+    "unit_price": "1.65",
+    "unit_selector": true,
+    "unit_size": 0.32
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/16004/tomate-untar-hacendado-con-aceite-oliva-pack-2",
+  "slug": "tomate-untar-hacendado-con-aceite-oliva-pack-2",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/b8ca7f5ae2254c2a3ffe8a69772a8065.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

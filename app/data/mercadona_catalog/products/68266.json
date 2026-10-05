@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 418,
+              "level": 2,
+              "name": "Natillas",
+              "order": 598
+            }
+          ],
+          "id": 110,
+          "level": 1,
+          "name": "Flan y natillas",
+          "order": 598
+        }
+      ],
+      "id": 11,
+      "level": 0,
+      "name": "Postres y yogures",
+      "order": 598
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Natillas sabor vainilla con galleta Hacendado",
+    "legal_name": "Postre lácteo sabor a vainilla con galleta",
+    "mandatory_mentions": "No apto para personas diabéticas o alérgicos a la leche, al gluten, a la mostaza, al huevo, a la soja o a los sulfitos.",
+    "origin": "Valencia, España.",
+    "production_variant": "",
+    "storage_instructions": "Conservar en frío entre 1C y 8C.",
+    "suppliers": [
+      {
+        "name": "Postres lácteos Romar S.L."
+      }
+    ],
+    "usage_instructions": "Una vez abierto el envase, el producto está listo para consumir."
+  },
+  "display_name": "Natillas sabor vainilla con galleta Hacendado",
+  "ean": "8437001300143",
+  "extra_info": [
+    null
+  ],
+  "id": "68266",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>mostaza y productos derivados</strong>. Contiene <strong>cereales que contengan gluten</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>dióxido de azufre y sulfitos</strong>. Puede contener <strong>huevos y productos a base de huevo</strong>. Contiene <strong>ml</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Leche</strong> desnatada, producto a base de mazada (<strong>leche</strong>) y grasa vegetal (mazada (<strong>leche</strong>), grasa vegetal no hidrogenada (palmiste y palma), nata (<strong>leche</strong>), azúcar, agua, glucosa, humectante (sorbitol), proteínas de <strong>leche</strong>, emulgentes (E-472b, E-435, E-475) y estabilizantes (E-331, goma garrofín y carragenano)), azúcar, galleta (<strong>gluten</strong>) (4%), almidón modificado de maíz, estabilizantes (carragenano y goma guar), aroma, canela, conservador (sorbato potásico) y colorante (E-160b(ii)). Galleta: Harina de trigo (<strong>gluten</strong>), azúcar, aceite de girasol alto oléico, jarabe de glucosa y fructosa, gasificantes (E-500i, E-503i), sal, suero lácteo en polvo (<strong>leche</strong>), antioxidante (E-223 (<strong>sulfitos</strong>)), emulgente (lecitina de girasol) y aroma. Puede contener trazas de <strong>soja</strong> , <strong>mostaza</strong> y <strong>huevo</strong>"
+  },
+  "origin": "Valencia, España.",
+  "packaging": "Pack-4",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/91b637de3f473e48be71cfee0693a3a3.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/91b637de3f473e48be71cfee0693a3a3.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/91b637de3f473e48be71cfee0693a3a3.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/749534844b7b92deba81c5569a0e315e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/749534844b7b92deba81c5569a0e315e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/749534844b7b92deba81c5569a0e315e.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.30",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.125,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "2.300",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 4,
+    "unit_name": "ud.",
+    "unit_price": "1.15",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/68266/natillas-sabor-vainilla-con-galleta-hacendado-pack-4",
+  "slug": "natillas-sabor-vainilla-con-galleta-hacendado-pack-4",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/91b637de3f473e48be71cfee0693a3a3.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

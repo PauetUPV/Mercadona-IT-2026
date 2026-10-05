@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 802,
+              "level": 2,
+              "name": "Alubias",
+              "order": 10
+            }
+          ],
+          "id": 121,
+          "level": 1,
+          "name": "Legumbres",
+          "order": 10
+        }
+      ],
+      "id": 13,
+      "level": 0,
+      "name": "Arroz, legumbres y pasta",
+      "order": 10
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Alubia roja Hacendado categoría extra",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Alubia Roja",
+    "mandatory_mentions": "",
+    "origin": "Alubia. Origen: USA / Feijo, Origem: EUA",
+    "production_variant": "Según la época del año podría variar los orígenes del producto.",
+    "storage_instructions": "Conservar en lugar fresco, seco y oscuro",
+    "suppliers": [
+      {
+        "name": "SEPROLESA"
+      }
+    ],
+    "usage_instructions": "1. Una ración media está entre 90 y 100 g de alubias en seco. Poner las alubias a remojo en 3 partes de agua por 1 de alubias, de 12 a 16 horas y en las zonas de agua duras se recomienda utilizar agua descalcificada o en su defecto agua embotellada. El tiempo de cocción comienza una vez el agua empieza a hervir, es recomendable no interrumpir su ebullición. 2. Tiempos de cocción orientativos: Aguas duras/cazuela: 1 h. 45 min. Aguas duras/olla presión: 20-45 min. Aguas blandas/cazuela: 1 h. 15 min. Aguas blandas/olla presión: 15-40 min. 3. Cazuela: se recomienda fuego medio."
+  },
+  "display_name": "Alubia roja Hacendado",
+  "ean": "8480000676092",
+  "extra_info": [
+    ""
+  ],
+  "id": "67609",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Alubia Roja."
+  },
+  "origin": "Alubia. Origen: USA / Feijo, Origem: EUA",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/176a8ea1981b85fa0d906ed9f9a27145.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/176a8ea1981b85fa0d906ed9f9a27145.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/176a8ea1981b85fa0d906ed9f9a27145.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/0061715220948c32c940f38bdd0aa205.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0061715220948c32c940f38bdd0aa205.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0061715220948c32c940f38bdd0aa205.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": "        3.10",
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "3.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.00",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/67609/alubia-roja-hacendado-categoria-extra-paquete",
+  "slug": "alubia-roja-hacendado-categoria-extra-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/176a8ea1981b85fa0d906ed9f9a27145.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

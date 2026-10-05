@@ -1,0 +1,119 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 852,
+              "level": 2,
+              "name": "Marisco de concha",
+              "order": 442
+            }
+          ],
+          "id": 32,
+          "level": 1,
+          "name": "Marisco",
+          "order": 442
+        }
+      ],
+      "id": 2,
+      "level": 0,
+      "name": "Marisco y pescado",
+      "order": 442
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Mejillón mediterráneo",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Mejillón mediterráneo bandeja",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Mantener refrigerado entre 2ºC y 5ºC. No se puede congelar.Envasado en atmósfera protectora.",
+    "suppliers": [
+      {
+        "name": "Fabricado por: MARISCOS ANTÓN E HIJOS SL"
+      }
+    ],
+    "usage_instructions": "En olla: Coloque los mejillones en una olla caliente y cocine hasta que se abran completamente (4-5 min). En microondas: Pinche el plástico transparente en dos puntos. Introduzca en microondas de 800w  11-12 min.Saque los mejillones del microondas, retire el plástico y sírvalos."
+  },
+  "display_name": "Mejillón mediterráneo",
+  "ean": "8402001053436",
+  "extra_info": [
+    ""
+  ],
+  "id": "85499",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>moluscos y productos a base de moluscos</strong>.",
+    "ingredients": "<strong>Mejillón</strong> mediterráneo"
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/6d35f871fd522a7138410fba1d291b1f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/6d35f871fd522a7138410fba1d291b1f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/6d35f871fd522a7138410fba1d291b1f.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/f4de1022850ed8cfb2dfce3324f682be.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f4de1022850ed8cfb2dfce3324f682be.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f4de1022850ed8cfb2dfce3324f682be.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/d6247451370ffe0145e8919135681f79.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d6247451370ffe0145e8919135681f79.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d6247451370ffe0145e8919135681f79.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.80",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.800",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "5.80",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/85499/mejillon-mediterraneo-bandeja",
+  "slug": "mejillon-mediterraneo-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/6d35f871fd522a7138410fba1d291b1f.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": "2026-07-25T22:00:00+00:00",
+  "unavailable_weekdays": []
+}

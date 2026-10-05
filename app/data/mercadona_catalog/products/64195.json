@@ -1,0 +1,114 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 869,
+              "level": 2,
+              "name": "Granizados y helados de hielo",
+              "order": 213
+            }
+          ],
+          "id": 154,
+          "level": 1,
+          "name": "Helados",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Helado hielo sabor chocolate Hacendado",
+    "legal_name": "Sorbete de chocolate",
+    "mandatory_mentions": "Sin gluten",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en congelación a temperaturas inferiores a -18 C. Una vez descongelado no volver a congelar",
+    "suppliers": [
+      {
+        "name": "A.I.A.D.H.E.S.A."
+      },
+      {
+        "name": "A.I.A.D.H.E.S.A.-Helados Alacant"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Helado hielo sabor chocolate Hacendado",
+  "ean": "8480000641953",
+  "extra_info": [
+    ""
+  ],
+  "id": "64195",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "(ES)HELADO DE AGUA SABOR A CHOCOLATE. </p>Ingredientes: agua, azúcar, lactosa y proteínas de la <strong>leche</strong>, jarabe de glucosa y fructosa, cacao desgrasado (2,8%), estabilizantes (goma guar, carragenanos).(PT) GELADO DE ÁGUA SABOR A CHOCOLATE. </p>Ingredientes: água, açúcar, lactose e proteína do <strong>leite</strong>, xarope de glicose e frutose, cacau magro (2,8%), estabilizadores (goma de guar, carragenina)."
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/05eae40c58c8d2143a21e4fffd89d044.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/05eae40c58c8d2143a21e4fffd89d044.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/05eae40c58c8d2143a21e4fffd89d044.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/1a6eea7970720315acdedc71925807e9.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1a6eea7970720315acdedc71925807e9.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1a6eea7970720315acdedc71925807e9.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.07",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "3.067",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": 10,
+    "unit_name": "ud.",
+    "unit_price": "2.30",
+    "unit_selector": true,
+    "unit_size": 0.75
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/64195/helado-sabor-chocolate-hacendado-caja",
+  "slug": "helado-sabor-chocolate-hacendado-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/05eae40c58c8d2143a21e4fffd89d044.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

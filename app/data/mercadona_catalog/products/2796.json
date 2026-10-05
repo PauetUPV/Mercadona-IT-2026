@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 282,
+              "level": 2,
+              "name": "Pavo y otras aves",
+              "order": 17
+            }
+          ],
+          "id": 38,
+          "level": 1,
+          "name": "Aves y pollo",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Codornices",
+    "legal_name": "Codornices",
+    "mandatory_mentions": "Envasado en atmósfera protectora. Producto fresco",
+    "origin": "origen: España",
+    "production_variant": "Producto de peso variable. En contenido neto del mismo puede oscilar entre 260 y 360 gramos.",
+    "storage_instructions": "Conservar entre 0C y 4C. Una vez abierto el envase consumir en 48 horas.",
+    "suppliers": [
+      {
+        "name": "Aeropic, S.A."
+      }
+    ],
+    "usage_instructions": "Cocinar completamente antes de su consumo"
+  },
+  "display_name": "Codornices",
+  "ean": "2105100027969",
+  "extra_info": [
+    null
+  ],
+  "id": "2796",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": ""
+  },
+  "origin": "origen: España",
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/02ac7c0bdb153d47d679639e0745d71c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/02ac7c0bdb153d47d679639e0745d71c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/02ac7c0bdb153d47d679639e0745d71c.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/044a362f0978ffe9dac43113330ccefe.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/044a362f0978ffe9dac43113330ccefe.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/044a362f0978ffe9dac43113330ccefe.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "12.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "12.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "4.20",
+    "unit_selector": true,
+    "unit_size": 0.35
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/2796/codornices-bandeja",
+  "slug": "codornices-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/02ac7c0bdb153d47d679639e0745d71c.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

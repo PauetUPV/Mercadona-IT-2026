@@ -1,0 +1,114 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Pata Negra",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 566,
+              "level": 2,
+              "name": "Castilla la Mancha",
+              "order": 15
+            }
+          ],
+          "id": 169,
+          "level": 1,
+          "name": "Vino tinto",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": "13.0º",
+    "brand": "Pata Negra",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Vino tinto tempranillo reserva Pata Negra DO Valdepeñas",
+    "legal_name": "Vino tinto Reserva D.O.P Valdepeñas",
+    "mandatory_mentions": "",
+    "origin": "R.E.CLM 96/CR",
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "Embotellado por Grupo de Bodegas Vinartis SA"
+      },
+      {
+        "name": "GRUPO DE BODEGAS VINARTIS S.A"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Vino tinto tempranillo reserva Pata Negra DO Valdepeñas",
+  "ean": "8410415370728",
+  "extra_info": [
+    ""
+  ],
+  "id": "13875",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>dióxido de azufre y sulfitos</strong>.",
+    "ingredients": "Vino Tinto"
+  },
+  "origin": "R.E.CLM 96/CR",
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/e843a458a3cad004b53c3bb35b2c73a1.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e843a458a3cad004b53c3bb35b2c73a1.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e843a458a3cad004b53c3bb35b2c73a1.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/e786bbd060b557b206ecb436c820ce5b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e786bbd060b557b206ecb436c820ce5b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e786bbd060b557b206ecb436c820ce5b.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.33",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "3.334",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.50",
+    "unit_selector": true,
+    "unit_size": 0.75
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/13875/vino-tinto-do-valdepenas-pata-negra-reserva-botella",
+  "slug": "vino-tinto-do-valdepenas-pata-negra-reserva-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/e843a458a3cad004b53c3bb35b2c73a1.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

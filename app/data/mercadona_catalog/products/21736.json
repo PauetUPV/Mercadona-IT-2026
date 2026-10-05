@@ -1,0 +1,119 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Falke",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 555,
+              "level": 2,
+              "name": "Cerveza lata",
+              "order": 15
+            }
+          ],
+          "id": 166,
+          "level": 1,
+          "name": "Cerveza sin alcohol",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Falke",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Cerveza 0,0% sin alcohol tostada Falke",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Cerveza sin alcohol",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar el producto en un lugar limpio, seco y bien ventilado, protegido de la lluvia y alejado de otros productos, alimenticios o no, que puedan impartirle olores o sabores extraños. Almacenar preferiblemente entre 5 y 15C, evitando temperaturas superiores a 25C. Evitar exposiciones directas a la luz del sol o fuentes de calor. No congelar el producto.",
+    "suppliers": [
+      {
+        "name": "Heineken España, S.A."
+      }
+    ],
+    "usage_instructions": "El producto deberá servirse entre 2y 4C para obtener sus máximas cualidades organolépticas. Ver fecha de consumo preferente en envase. Utilizar un abridor adecuado para evitar roturas en la botella. Para lata, usar anilla sin cambiar de posición ni girarla. No ingerir si detecta que se ha violado el cierre."
+  },
+  "display_name": "Cerveza 0,0% sin alcohol tostada Falke",
+  "ean": "8411090310528",
+  "extra_info": [
+    ""
+  ],
+  "id": "21736",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>gb</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Agua, malta de <strong>cebada</strong>, lúpulo, extracto de lúpulo y aroma natural. Este producto se elabora con malta de <strong>cebada</strong>. Contiene <strong>gluten</strong>."
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/52903fd023f4ad9b76c2f8849830b5c4.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/52903fd023f4ad9b76c2f8849830b5c4.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/52903fd023f4ad9b76c2f8849830b5c4.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/cd0d937ed4614e250a81426408a761ad.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/cd0d937ed4614e250a81426408a761ad.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/cd0d937ed4614e250a81426408a761ad.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/ce019fc34e2a684b2b7f5f3df7c68875.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ce019fc34e2a684b2b7f5f3df7c68875.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ce019fc34e2a684b2b7f5f3df7c68875.jpeg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.39",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.33,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "1.394",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": 8,
+    "unit_name": "latas",
+    "unit_price": "3.68",
+    "unit_selector": true,
+    "unit_size": 2.64
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/21736/cerveza-00-sin-alcohol-tostada-falke",
+  "slug": "cerveza-00-sin-alcohol-tostada-falke",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/52903fd023f4ad9b76c2f8849830b5c4.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

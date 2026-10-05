@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 282,
+              "level": 2,
+              "name": "Pavo y otras aves",
+              "order": 17
+            }
+          ],
+          "id": 38,
+          "level": 1,
+          "name": "Aves y pollo",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Filetes pechuga de pavo marinados extra tiernos",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "FILETE DE PAVO EXTRATIERNO BD/500 G",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "Este producto es de peso variable. Su contenido neto puede variar entre 500 - 700 g.",
+    "storage_instructions": "Conservar refrigerado entre 0 y 4C.",
+    "suppliers": [
+      {
+        "name": "PROCAVI S.L."
+      }
+    ],
+    "usage_instructions": "Una vez abierto consumir preferentemente antes de 24 horas. Cocinar completamente antes de su consumo."
+  },
+  "display_name": "Filetes pechuga de pavo marinados extra tiernos",
+  "ean": "8436039788039",
+  "extra_info": [
+    ""
+  ],
+  "id": "14031",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": "extra tiernos",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Pechuga de pavo (93%), agua, sal, dextrosa de maíz, aromas, maltodextrina de maíz, estabilizantes (E-451 y E-407), antioxidantes (E-331 y E-300) y conservadores (E-326, E-261 y E-250)"
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/318df4e871788930aa2ab0a668a236e9.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/318df4e871788930aa2ab0a668a236e9.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/318df4e871788930aa2ab0a668a236e9.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/5bb9523e2fd18488bd0ed92502ed2cc5.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5bb9523e2fd18488bd0ed92502ed2cc5.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5bb9523e2fd18488bd0ed92502ed2cc5.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "9.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "9.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "5.40",
+    "unit_selector": true,
+    "unit_size": 0.6
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/14031/filetes-pechuga-pavo-extra-tiernos-bandeja",
+  "slug": "filetes-pechuga-pavo-extra-tiernos-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/318df4e871788930aa2ab0a668a236e9.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,117 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 467,
+              "level": 2,
+              "name": "Conservas verdura",
+              "order": 215
+            }
+          ],
+          "id": 127,
+          "level": 1,
+          "name": "Conservas de verdura y frutas",
+          "order": 215
+        }
+      ],
+      "id": 14,
+      "level": 0,
+      "name": "Conservas, caldos y cremas",
+      "order": 215
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Guisantes extra Hacendado",
+    "legal_name": "Guisantes",
+    "mandatory_mentions": "",
+    "origin": "Producto de España",
+    "production_variant": "",
+    "storage_instructions": "Una vez abierto, conservar refrigerado y consumir antes de 5 días.",
+    "suppliers": [
+      {
+        "name": "CONSERVAS EL CIDACOS S.A."
+      },
+      {
+        "name": "Compre y Compare S.A."
+      },
+      {
+        "name": "Conservas el Cidacos S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Guisantes extra Hacendado",
+  "ean": "8402001000782",
+  "extra_info": [
+    null
+  ],
+  "id": "16415",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Guisantes, agua, azúcar y sal."
+  },
+  "origin": "Producto de España",
+  "packaging": "Pack-3",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/94c16b610ccee72d27455e6b5efa93dd.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/94c16b610ccee72d27455e6b5efa93dd.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/94c16b610ccee72d27455e6b5efa93dd.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/928bd7df95479915f60136b5f249b4eb.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/928bd7df95479915f60136b5f249b4eb.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/928bd7df95479915f60136b5f249b4eb.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.15",
+    "bunch_selector": false,
+    "drained_weight": 0.36,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.12,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "4.862",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 3,
+    "unit_name": "latas",
+    "unit_price": "1.75",
+    "unit_selector": true,
+    "unit_size": 0.555
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/16415/guisantes-extra-hacendado-pack-3",
+  "slug": "guisantes-extra-hacendado-pack-3",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/94c16b610ccee72d27455e6b5efa93dd.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

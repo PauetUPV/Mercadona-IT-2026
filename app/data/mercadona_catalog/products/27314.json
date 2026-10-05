@@ -1,0 +1,119 @@
+{
+  "badges": {
+    "is_water": true,
+    "requires_age_check": false
+  },
+  "brand": "Bezoya",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 525,
+              "level": 2,
+              "name": "Agua sin gas",
+              "order": 8
+            }
+          ],
+          "id": 156,
+          "level": 1,
+          "name": "Agua",
+          "order": 8
+        }
+      ],
+      "id": 18,
+      "level": 0,
+      "name": "Agua y refrescos",
+      "order": 8
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Bezoya",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Agua mineral grande Bezoya mineralización muy débil",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Agua mineral natural de mineralización muy débil",
+    "mandatory_mentions": "Indicada para la preparación de alimentos infantiles. Beber 2L de agua al día, procedente de cualquier fuente, contribuye a mantener las funciones físicas y cognitivas normales.",
+    "origin": "Manantial Bezoya Trescasas de Trescasas (Segovia) o Bezoya de Ortigosa del Monte (Segovia)",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco, seco y preservado de olores intensos. Proteger de la luz solar.",
+    "suppliers": [
+      {
+        "name": "Calidad Pascual, SAU."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Agua mineral grande Bezoya",
+  "ean": "8410128160036",
+  "extra_info": [
+    ""
+  ],
+  "id": "27314",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Agua mineral natural de mineralización muy débil"
+  },
+  "origin": "Manantial Bezoya Trescasas de Trescasas (Segovia) o Bezoya de Ortigosa del Monte (Segovia)",
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/2af69bfbbbb9b2279a1200f3ca67c6d4.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/2af69bfbbbb9b2279a1200f3ca67c6d4.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/2af69bfbbbb9b2279a1200f3ca67c6d4.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/3facf066a8d7a311a8f3e2ac996fc64b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3facf066a8d7a311a8f3e2ac996fc64b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3facf066a8d7a311a8f3e2ac996fc64b.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 4,
+      "regular": "https://prod-mercadona.imgix.net/images/3ca325243bea605ae4cc3eea9140bc6c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3ca325243bea605ae4cc3eea9140bc6c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3ca325243bea605ae4cc3eea9140bc6c.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "0.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 1.5,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "0.500",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": 6,
+    "unit_name": "botellas",
+    "unit_price": "4.50",
+    "unit_selector": true,
+    "unit_size": 9.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/27314/agua-mineral-grande-bezoya-mineralizacion-muy-debil-pack-6",
+  "slug": "agua-mineral-grande-bezoya-mineralizacion-muy-debil-pack-6",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/2af69bfbbbb9b2279a1200f3ca67c6d4.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

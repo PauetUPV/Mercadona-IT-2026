@@ -1,0 +1,122 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Fanta",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 537,
+              "level": 2,
+              "name": "Naranja",
+              "order": 8
+            }
+          ],
+          "id": 159,
+          "level": 1,
+          "name": "Refresco de naranja y de limón",
+          "order": 8
+        }
+      ],
+      "id": 18,
+      "level": 0,
+      "name": "Agua y refrescos",
+      "order": 8
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Fanta",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Refresco Fanta naranja zero azúcares añadidos",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Bebida refrescante de zumo de frutas. sin azúcares añadidos. con edulcorantes",
+    "mandatory_mentions": "Zero calorías. Con edulcorantes. Contiene una fuente de fenilalanina. Sin azúcares añadidos. Contiene azúcares naturalmente presentes en el zumo de naranja.",
+    "origin": null,
+    "production_variant": "-",
+    "storage_instructions": "Proteger de la luz solar. Preservar de olores agresivos. Conservar en lugar limpio, fresco y seco. Servir frío",
+    "suppliers": [
+      {
+        "name": "\"CC European Partners Iberia; S.L.U.\""
+      },
+      {
+        "name": "CC European Partners Iberia, S.L.U."
+      },
+      {
+        "name": "Coca-Cola European Partners Iberia, S.L.U."
+      },
+      {
+        "name": "Coca-Cola Iberian Partners, S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Refresco Fanta naranja zero azúcares añadidos",
+  "ean": "5449000103758",
+  "extra_info": [
+    null
+  ],
+  "id": "27510",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "naranja zero azúcares añadidos",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Ingredientes: agua carbonatada, 4% zumo de naranja *a partir de concentrado, zumo de limon concentrado, acidulantes: ácido cítrico y ácido málico, edulcorantes: acesulfamo K, aspartamo y sacarina sódica, corrector de acidez: citratos de sodio, conservador sorbato potásico, aromas naturales de naranja y otros aromas naturales, antioxidante ácido ascórbico, estabilizante goma guar y colorante carotenes. ** contiene azúcares naturalmente presences en el zumo de naranja y limon."
+  },
+  "origin": null,
+  "packaging": "Lata",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/bdfbc11243450cf7147421c26a111976.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/bdfbc11243450cf7147421c26a111976.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/bdfbc11243450cf7147421c26a111976.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/0d494c96154a0b416968a25b68c8ecf9.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0d494c96154a0b416968a25b68c8ecf9.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0d494c96154a0b416968a25b68c8ecf9.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.42",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": "        0.80",
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "2.425",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.80",
+    "unit_selector": true,
+    "unit_size": 0.33
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/27510/refresco-fanta-naranja-zero-azucares-anadidos-lata",
+  "slug": "refresco-fanta-naranja-zero-azucares-anadidos-lata",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/bdfbc11243450cf7147421c26a111976.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

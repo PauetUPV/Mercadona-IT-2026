@@ -1,0 +1,112 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Davida",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 569,
+              "level": 2,
+              "name": "Otros vinos tintos",
+              "order": 15
+            }
+          ],
+          "id": 169,
+          "level": 1,
+          "name": "Vino tinto",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": "14.5º",
+    "brand": "Davida",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Vino tinto sin sulfitos añadidos Davida DO Navarra vegano",
+    "legal_name": "Vino Tinto",
+    "mandatory_mentions": "Sin sulfitos añadidos",
+    "origin": "D.O. Navarra",
+    "production_variant": "",
+    "storage_instructions": "Recomendable entre 10C-15C.",
+    "suppliers": [
+      {
+        "name": "Vintae Luxury Wine Specialists S.L.U."
+      },
+      {
+        "name": "Vintae Luxury Wines"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Vino tinto sin sulfitos añadidos Davida DO Navarra",
+  "ean": "8435065600209",
+  "extra_info": [
+    ""
+  ],
+  "id": "37005",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Uva, agentes estabilizantes (poliaspartato de potasio, goma arábiga)."
+  },
+  "origin": "D.O. Navarra",
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/f2e301c6e83b6ce46f0ef23daf24e355.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f2e301c6e83b6ce46f0ef23daf24e355.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f2e301c6e83b6ce46f0ef23daf24e355.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/7eaa762cf0a431ea457d10cb775d05ca.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7eaa762cf0a431ea457d10cb775d05ca.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7eaa762cf0a431ea457d10cb775d05ca.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.20",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 21,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "5.200",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.90",
+    "unit_selector": true,
+    "unit_size": 0.75
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/37005/vino-tinto-sin-sulfitos-anadidos-davida-do-navarra-vegano-botella",
+  "slug": "vino-tinto-sin-sulfitos-anadidos-davida-do-navarra-vegano-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/f2e301c6e83b6ce46f0ef23daf24e355.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

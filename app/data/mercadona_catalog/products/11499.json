@@ -1,0 +1,109 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 314,
+              "level": 2,
+              "name": "Paté",
+              "order": 159
+            }
+          ],
+          "id": 58,
+          "level": 1,
+          "name": "Paté y sobrasada",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Paté de cerdo ibérico con trufa negra Hacendado",
+    "legal_name": "Paté de higado de cerdo",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar freco y seco",
+    "suppliers": [
+      {
+        "name": "ARGAL ALIMENTACIÓN, S.A."
+      }
+    ],
+    "usage_instructions": "Una vez abierto mantener en refigeracion y consumir antes de los 7 días"
+  },
+  "display_name": "Paté de cerdo ibérico con trufa negra Hacendado",
+  "ean": "8402001023002",
+  "extra_info": [
+    ""
+  ],
+  "id": "11499",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Higado de cedo ibérico (25%), tocino de cerdo, hígado de cerdo, afua, trufa negra (4,5%), décula de patata, sal, aromas, azúcar, antioxidante (E330), estabilizantes (E451i, E452ii) y conservadores (E202, E250)"
+  },
+  "origin": null,
+  "packaging": "Lata",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/53e6bb4950ee0ff4cffec05b52f74380.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/53e6bb4950ee0ff4cffec05b52f74380.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/53e6bb4950ee0ff4cffec05b52f74380.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/04ff8c905026a860bce6434cac11086c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/04ff8c905026a860bce6434cac11086c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/04ff8c905026a860bce6434cac11086c.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "16.15",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "16.154",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.10",
+    "unit_selector": true,
+    "unit_size": 0.13
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/11499/pate-cerdo-iberico-con-trufa-negra-hacendado-lata",
+  "slug": "pate-cerdo-iberico-con-trufa-negra-hacendado-lata",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/53e6bb4950ee0ff4cffec05b52f74380.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,112 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 479,
+              "level": 2,
+              "name": "Frutos secos",
+              "order": 9
+            }
+          ],
+          "id": 133,
+          "level": 1,
+          "name": "Frutos secos y fruta desecada",
+          "order": 9
+        }
+      ],
+      "id": 15,
+      "level": 0,
+      "name": "Aperitivos",
+      "order": 9
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Almendra tostada y salada Hacendado con piel",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "ALMENDRA TOSTADA SAL",
+    "mandatory_mentions": "Envasado en atmósfera protectora. Este producto por su tamaño no lo deben consumir menores de 5 años.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Proteger de la luz. Conservar en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "IMPORTACO CASA PONS S.A.U."
+      }
+    ],
+    "usage_instructions": "Una vez abierto el envase, conservarlo cerrado y consumir el producto preferentemente en el plazo de una semana."
+  },
+  "display_name": "Almendra tostada y salada Hacendado con piel",
+  "ean": "8402001032707",
+  "extra_info": [
+    ""
+  ],
+  "id": "11960",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>sa</strong>. Puede contener <strong>cacahuetes y productos a base de cacahuetes</strong>. Puede contener <strong>frutos de cáscara</strong>.",
+    "ingredients": "<strong>Almendras</strong> y sal. <strong>Trazas de cacahuete y otros frutos de cáscara.</strong>"
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/43d5b21b2cbc97b548532678e85163c1.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/43d5b21b2cbc97b548532678e85163c1.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/43d5b21b2cbc97b548532678e85163c1.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/d36faf049d2f96248ac5e2be0f006ea0.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d36faf049d2f96248ac5e2be0f006ea0.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d36faf049d2f96248ac5e2be0f006ea0.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "12.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "12.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.40",
+    "unit_selector": true,
+    "unit_size": 0.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/11960/almendra-tostada-salada-hacendado-con-piel-paquete",
+  "slug": "almendra-tostada-salada-hacendado-con-piel-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/43d5b21b2cbc97b548532678e85163c1.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

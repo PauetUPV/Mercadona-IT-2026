@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 450,
+              "level": 2,
+              "name": "Atún",
+              "order": 215
+            }
+          ],
+          "id": 122,
+          "level": 1,
+          "name": "Atún y otras conservas de pescado",
+          "order": 215
+        }
+      ],
+      "id": 14,
+      "level": 0,
+      "name": "Conservas, caldos y cremas",
+      "order": 215
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Atún listado al natural Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Atún Listado Natural",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco. Una vez abierta la lata, si no consume el producto en el momento, guárdelo en el frigorífico en un envase no metálico y consúmalo antes de 24 horas",
+    "suppliers": [
+      {
+        "name": "ESCURIS, S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Atún listado al natural Hacendado",
+  "ean": "8402001032554",
+  "extra_info": [
+    ""
+  ],
+  "id": "12911",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>pescado y productos a base de pescado</strong>.",
+    "ingredients": "<strong>Atún Listado, Agua y Sal</strong>"
+  },
+  "origin": null,
+  "packaging": "Lata",
+  "photos": [
+    {
+      "perspective": 3,
+      "regular": "https://prod-mercadona.imgix.net/images/2081279781b45dc5b89ebb64a9b0b4f3.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/2081279781b45dc5b89ebb64a9b0b4f3.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/2081279781b45dc5b89ebb64a9b0b4f3.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/cd28584374c0eea4671671f1492d5556.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/cd28584374c0eea4671671f1492d5556.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/cd28584374c0eea4671671f1492d5556.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "7.79",
+    "bunch_selector": false,
+    "drained_weight": 0.27,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "11.112",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.00",
+    "unit_selector": true,
+    "unit_size": 0.385
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/12911/atun-listado-natural-hacendado-lata",
+  "slug": "atun-listado-natural-hacendado-lata",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/2081279781b45dc5b89ebb64a9b0b4f3.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

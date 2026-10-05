@@ -1,0 +1,135 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 435,
+              "level": 2,
+              "name": "Tomate frito",
+              "order": 7
+            }
+          ],
+          "id": 117,
+          "level": 1,
+          "name": "Otras salsas",
+          "order": 7
+        }
+      ],
+      "id": 12,
+      "level": 0,
+      "name": "Aceite, especias y salsas",
+      "order": 7
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 460,
+              "level": 2,
+              "name": "Tomate",
+              "order": 215
+            }
+          ],
+          "id": 126,
+          "level": 1,
+          "name": "Tomate",
+          "order": 215
+        }
+      ],
+      "id": 14,
+      "level": 0,
+      "name": "Conservas, caldos y cremas",
+      "order": 215
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Tomate frito Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Tomate Frito",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Una vez abierto, conservar refrigerado y consumir antes de 5 días.",
+    "suppliers": [
+      {
+        "name": "Conservas el Cidacos S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Tomate frito Hacendado",
+  "ean": "8480000171511",
+  "extra_info": [
+    null
+  ],
+  "id": "17151",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Tomate, aceite refinado de girasol, azúcar, almidón de maíz, sal, cebolla, ajo y conservador (sorbato potásico)."
+  },
+  "origin": "España",
+  "packaging": "Pack-3",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/bef3c040943e4b6dd59b15f565ec4f08.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/bef3c040943e4b6dd59b15f565ec4f08.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/bef3c040943e4b6dd59b15f565ec4f08.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/3d7b4d67ca236b97f3eded176eff0339.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3d7b4d67ca236b97f3eded176eff0339.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3d7b4d67ca236b97f3eded176eff0339.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.51",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.21,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "1.508",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 3,
+    "unit_name": "mini briks",
+    "unit_price": "0.95",
+    "unit_selector": true,
+    "unit_size": 0.63
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/17151/tomate-frito-hacendado-pack-3",
+  "slug": "tomate-frito-hacendado-pack-3",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/bef3c040943e4b6dd59b15f565ec4f08.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

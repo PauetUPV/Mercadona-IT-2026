@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Heineken",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 550,
+              "level": 2,
+              "name": "Cerveza botella y botellín",
+              "order": 15
+            }
+          ],
+          "id": 164,
+          "level": 1,
+          "name": "Cerveza",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": "5.0º",
+    "brand": "Heineken",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Cerveza Heineken",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Cerveza",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar el producto en un lugar limpio, seco y bien ventilado, protegido de la lluvia y alejado de otros productos, alimenticios o no, que puedan impartirle olores o sabores extraños. Almacenar preferiblemente entre 5 y 15C, evitando temperaturas superiores a 25C. Evitar exposiciones directas a la luz del sol o fuentes de calor. No congelar el producto.",
+    "suppliers": [
+      {
+        "name": "Heineken España S.A."
+      }
+    ],
+    "usage_instructions": "El producto deberá servirse entre 0 y 3C para obtener sus máximas cualidades organolépticas. Ver fecha de consumo preferente en envase. Utilizar un abridor adecuado para evitar roturas en la botella. Para lata, usar anilla sin cambiar de posición ni girarla. No ingerir si detecta que se ha violado el cierre."
+  },
+  "display_name": "Cerveza Heineken",
+  "ean": "8712000018825",
+  "extra_info": [
+    null
+  ],
+  "id": "70745",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>gb</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Agua, malta de <strong>cebada</strong> y extracto de lúpulo. Este producto se elabora con malta de <strong>cebada</strong>. Contiene <strong>gluten</strong>."
+  },
+  "origin": null,
+  "packaging": "Botellín",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/91be989e7a4b74a4850ed89082be7de3.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/91be989e7a4b74a4850ed89082be7de3.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/91be989e7a4b74a4850ed89082be7de3.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/8c5ff3dd5cebafd71e6c7fc64f292fd5.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8c5ff3dd5cebafd71e6c7fc64f292fd5.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8c5ff3dd5cebafd71e6c7fc64f292fd5.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.80",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 21,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "2.800",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.70",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/70745/cerveza-heineken-botellin",
+  "slug": "cerveza-heineken-botellin",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/91be989e7a4b74a4850ed89082be7de3.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

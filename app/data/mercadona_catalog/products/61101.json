@@ -1,0 +1,119 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 504,
+              "level": 2,
+              "name": "Verdura",
+              "order": 213
+            }
+          ],
+          "id": 145,
+          "level": 1,
+          "name": "Fruta y verdura",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Ensaladilla Hacendado ultracongelada",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Ensaladilla ultracongelada",
+    "mandatory_mentions": "*El contenido de sal obedece exclusivamente al sodio presente de forma natural en el alimento.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar a -18 ºC. Una vez descongelado no volver a congelar.",
+    "suppliers": [
+      {
+        "name": "Ultracongelados Virto, S.A."
+      },
+      {
+        "name": "Ultracongelados Virto, S.A.U"
+      },
+      {
+        "name": "Ultracongelados Virto, S.A.U."
+      }
+    ],
+    "usage_instructions": "Cocción 4-6 min."
+  },
+  "display_name": "Ensaladilla Hacendado ultracongelada",
+  "ean": "8480000611017",
+  "extra_info": [
+    null
+  ],
+  "id": "61101",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "ultracongelada",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Patata, zanahoria, judía verde troceada  y guisantes."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/2207791ea61f6613e34ad96bb909d9ab.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/2207791ea61f6613e34ad96bb909d9ab.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/2207791ea61f6613e34ad96bb909d9ab.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/410ca70ce861f53602d32bf440d65ef8.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/410ca70ce861f53602d32bf440d65ef8.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/410ca70ce861f53602d32bf440d65ef8.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.10",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "1.100",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.10",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/61101/ensaladilla-hacendado-ultracongelada-paquete",
+  "slug": "ensaladilla-hacendado-ultracongelada-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/2207791ea61f6613e34ad96bb909d9ab.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

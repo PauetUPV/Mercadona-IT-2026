@@ -1,0 +1,109 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Natura",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 718,
+              "level": 2,
+              "name": "Aseo y cuidado",
+              "order": 443
+            }
+          ],
+          "id": 222,
+          "level": 1,
+          "name": "Gato",
+          "order": 443
+        }
+      ],
+      "id": 25,
+      "level": 0,
+      "name": "Mascotas",
+      "order": 443
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Natura",
+    "counter_info": null,
+    "danger_mentions": null,
+    "description": "Malta para gato Natura con queso",
+    "is_prepared_by_mercadona": false,
+    "legal_name": null,
+    "mandatory_mentions": null,
+    "origin": null,
+    "production_variant": null,
+    "storage_instructions": null,
+    "suppliers": [],
+    "usage_instructions": null
+  },
+  "display_name": "Malta para gato Natura con queso",
+  "ean": "4008239268594",
+  "extra_info": [
+    null
+  ],
+  "id": "52098",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "con queso",
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": null
+  },
+  "origin": null,
+  "packaging": "Tubo",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/2baa4a05a71339b0772b83fd3ed330bb.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/2baa4a05a71339b0772b83fd3ed330bb.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/2baa4a05a71339b0772b83fd3ed330bb.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 4,
+      "regular": "https://prod-mercadona.imgix.net/images/ddf64dd3f604c54a7d16cbbee1c39cb6.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ddf64dd3f604c54a7d16cbbee1c39cb6.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ddf64dd3f604c54a7d16cbbee1c39cb6.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "40.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "40.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "4.00",
+    "unit_selector": true,
+    "unit_size": 0.1
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/52098/malta-gato-natura-con-queso-tubo",
+  "slug": "malta-gato-natura-con-queso-tubo",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/2baa4a05a71339b0772b83fd3ed330bb.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

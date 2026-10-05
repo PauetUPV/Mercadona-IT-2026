@@ -1,0 +1,121 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 286,
+              "level": 2,
+              "name": "Embutido",
+              "order": 17
+            }
+          ],
+          "id": 43,
+          "level": 1,
+          "name": "Embutido",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Chorizo picante aperitivo",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Chorizo picante aperitivo",
+    "mandatory_mentions": " Envasado en atmósfera protectora.",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar de 0 a 4C. Una vez abierto consumir en 48 horas.",
+    "suppliers": [
+      {
+        "name": "El Horreo Embutidos Saludables, S.L."
+      },
+      {
+        "name": "Embutidos F. Martinez R. S.A."
+      },
+      {
+        "name": "Fábrica de Embutidos Onteniente, S.L."
+      },
+      {
+        "name": "Rualco S.A"
+      }
+    ],
+    "usage_instructions": "Cocinar completamente, a fuego lento, antes de su consumo.  Para plancha,freir, barbacoa"
+  },
+  "display_name": "Chorizo picante aperitivo",
+  "ean": "2105100060478",
+  "extra_info": [
+    ""
+  ],
+  "id": "6047",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Carne y grasa de cerdo, pimentón, sal, sacarosa, especias, cayena, almidón, ajo, fibra de guisante, reguladores dela acidez (E-262, E-325), aromas naturales, antioxidante E-301, colorante E-120. Tripa natural de cerdo. Sin gluten. Sin lactosa."
+  },
+  "origin": "España",
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/e475404e502ae6d6335ab3d9a89a3b4e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e475404e502ae6d6335ab3d9a89a3b4e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e475404e502ae6d6335ab3d9a89a3b4e.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/ce848530abf507d58c04b544fa249eeb.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ce848530abf507d58c04b544fa249eeb.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ce848530abf507d58c04b544fa249eeb.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "8.65",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "8.650",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.59",
+    "unit_selector": true,
+    "unit_size": 0.3
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/6047/chorizo-picante-aperitivo-bandeja",
+  "slug": "chorizo-picante-aperitivo-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/e475404e502ae6d6335ab3d9a89a3b4e.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,112 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Jamar",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 468,
+              "level": 2,
+              "name": "Conservas fruta",
+              "order": 215
+            }
+          ],
+          "id": 127,
+          "level": 1,
+          "name": "Conservas de verdura y frutas",
+          "order": 215
+        }
+      ],
+      "id": 14,
+      "level": 0,
+      "name": "Conservas, caldos y cremas",
+      "order": 215
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Jamar",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Postre de manzana Jamar",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Postre de manzana",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en un lugar seco y fresco. Una vez abierto conservar en frío y consumir antes de 5 días.",
+    "suppliers": [
+      {
+        "name": "Z.P.S. \"JAMAR\" Szczepaniak sp.j."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Postre de manzana Jamar",
+  "ean": "5906716201562",
+  "extra_info": [
+    null
+  ],
+  "id": "15086",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Manzana 94%, azúcar, regulador de acidez: ácido cítrico, antioxidante: ácido ascórbico."
+  },
+  "origin": null,
+  "packaging": "Tarro",
+  "photos": [
+    {
+      "perspective": 3,
+      "regular": "https://prod-mercadona.imgix.net/images/3365e8aa9279ee048b4ddcb7d44b47b3.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3365e8aa9279ee048b4ddcb7d44b47b3.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3365e8aa9279ee048b4ddcb7d44b47b3.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/b18e8f1db7b6adc56ba3c21733aeae69.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b18e8f1db7b6adc56ba3c21733aeae69.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b18e8f1db7b6adc56ba3c21733aeae69.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.68",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "2.677",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.90",
+    "unit_selector": true,
+    "unit_size": 0.71
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/15086/postre-manzana-jamar-tarro",
+  "slug": "postre-manzana-jamar-tarro",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/3365e8aa9279ee048b4ddcb7d44b47b3.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

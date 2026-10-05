@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 251,
+              "level": 2,
+              "name": "Manzana y pera",
+              "order": 306
+            }
+          ],
+          "id": 27,
+          "level": 1,
+          "name": "Fruta",
+          "order": 306
+        }
+      ],
+      "id": 1,
+      "level": 0,
+      "name": "Fruta y verdura",
+      "order": 306
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Manzana Golden",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Manzana Golden",
+    "mandatory_mentions": "",
+    "origin": "España / Portugal / Francia / Italia",
+    "production_variant": "Producto a granel.",
+    "storage_instructions": "Conservar en lugar fresco",
+    "suppliers": [
+      {
+        "name": "Cortijo Cuevas S.L."
+      },
+      {
+        "name": "Frutas Patrícia Pilar, SA"
+      },
+      {
+        "name": "NUFRI"
+      },
+      {
+        "name": "S.A.T. 1596 Nufri"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Manzana Golden",
+  "ean": "2105445030280",
+  "extra_info": [
+    null
+  ],
+  "id": "3028",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Manzana Golden"
+  },
+  "origin": "España / Portugal / Francia / Italia",
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 10,
+      "regular": "https://prod-mercadona.imgix.net/images/12cc1ef38a5b781f364ca22e46a25ad7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/12cc1ef38a5b781f364ca22e46a25ad7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/12cc1ef38a5b781f364ca22e46a25ad7.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "2.40",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "2.400",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.48",
+    "unit_selector": true,
+    "unit_size": 0.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/3028/manzana-golden-pieza",
+  "slug": "manzana-golden-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/12cc1ef38a5b781f364ca22e46a25ad7.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

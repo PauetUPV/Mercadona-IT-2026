@@ -1,0 +1,125 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 343,
+              "level": 2,
+              "name": "Leche semidesnatada",
+              "order": 373
+            }
+          ],
+          "id": 72,
+          "level": 1,
+          "name": "Leche y bebidas vegetales",
+          "order": 373
+        }
+      ],
+      "id": 6,
+      "level": 0,
+      "name": "Huevos, leche y mantequilla",
+      "order": 373
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Leche semidesnatada sin lactosa Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Leche semidesnatada de vaca UHT sin lactosa con vitaminas A, D, E y Ácido fólico",
+    "mandatory_mentions": "Sin lactosa. No apta para alérgicos a la proteína de la leche de vaca. La lactosa (azúcar natural de la leche), está convertida en glucosa y galactosa. Granjas 100% Nacionales",
+    "origin": "Córdoba",
+    "production_variant": "",
+    "storage_instructions": "Mantener en lugar fresco y seco. Una vez abierto el envase, conservar en el frigorífico y consumir antes de 3 días.",
+    "suppliers": [
+      {
+        "name": "COVAP S. COOP. AND. GANADERA DEL VALLE DE LOS PEDROCHES"
+      },
+      {
+        "name": "Iparlat, S.A."
+      },
+      {
+        "name": "LACTIBER LEON, S.L"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Leche semidesnatada sin lactosa Hacendado",
+  "ean": "8480000104717",
+  "extra_info": [
+    ""
+  ],
+  "id": "10721",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Leche</strong> semidesnatada, lactasa y vitaminas A, D, E y B9 (ácido fólico). Origen de la leche: España"
+  },
+  "origin": "Córdoba",
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/6b02e742d27be2ee2db0994bc431fe99.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/6b02e742d27be2ee2db0994bc431fe99.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/6b02e742d27be2ee2db0994bc431fe99.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/18c98138368f17ff2ec502d7f8e8bb7e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/18c98138368f17ff2ec502d7f8e8bb7e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/18c98138368f17ff2ec502d7f8e8bb7e.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/38c200407fcc2372eaae84bc54941ffd.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/38c200407fcc2372eaae84bc54941ffd.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/38c200407fcc2372eaae84bc54941ffd.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "0.94",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 1.0,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "0.940",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "4.000",
+    "total_units": 6,
+    "unit_name": "briks",
+    "unit_price": "5.64",
+    "unit_selector": true,
+    "unit_size": 6.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/10721/leche-semidesnatada-sin-lactosa-hacendado-pack-6",
+  "slug": "leche-semidesnatada-sin-lactosa-hacendado-pack-6",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/6b02e742d27be2ee2db0994bc431fe99.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

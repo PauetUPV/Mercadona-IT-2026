@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Bosque Verde",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 722,
+              "level": 2,
+              "name": "Detergente líquido y gel",
+              "order": 374
+            }
+          ],
+          "id": 226,
+          "level": 1,
+          "name": "Detergente y suavizante ropa",
+          "order": 374
+        }
+      ],
+      "id": 26,
+      "level": 0,
+      "name": "Limpieza y hogar",
+      "order": 374
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Bosque Verde",
+    "counter_info": null,
+    "danger_mentions": "Provoca irritación ocular grave. Puede provocar una reacción alérgica en la piel.",
+    "description": "Detergente ropa jabón natural de Marsella Bosque Verde líquido",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "Inquiba"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Detergente ropa jabón natural de Marsella Bosque Verde líquido",
+  "ean": "8402001024627",
+  "extra_info": [
+    null
+  ],
+  "id": "86397",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "líquido",
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": ""
+  },
+  "origin": null,
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/102bbb82bf71a7846528e2d2daef4567.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/102bbb82bf71a7846528e2d2daef4567.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/102bbb82bf71a7846528e2d2daef4567.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/bc0a34e2a6ec258533bbe332de1677cd.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/bc0a34e2a6ec258533bbe332de1677cd.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/bc0a34e2a6ec258533bbe332de1677cd.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.17",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "lv",
+    "reference_price": "0.070",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": 50,
+    "unit_name": "lavados",
+    "unit_price": "3.50",
+    "unit_selector": true,
+    "unit_size": 3.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/86397/detergente-ropa-jabon-natural-marsella-bosque-verde-liquido-botella",
+  "slug": "detergente-ropa-jabon-natural-marsella-bosque-verde-liquido-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/102bbb82bf71a7846528e2d2daef4567.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 867,
+              "level": 2,
+              "name": "Yogures naturales",
+              "order": 598
+            }
+          ],
+          "id": 104,
+          "level": 1,
+          "name": "Yogures naturales y sabores",
+          "order": 598
+        }
+      ],
+      "id": 11,
+      "level": 0,
+      "name": "Postres y yogures",
+      "order": 598
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Kéfir natural sabor suave",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Kéfir",
+    "mandatory_mentions": "Sin gluten",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 1 y 8C.",
+    "suppliers": [
+      {
+        "name": "Arte Láctico Caprino. S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Kéfir natural sabor suave",
+  "ean": "8436547770137",
+  "extra_info": [
+    null
+  ],
+  "id": "20029",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "sabor suave",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Leche</strong> pasteurizada de vaca. <strong>nata</strong> (<strong>leche</strong> de vaca pasteurizada). <strong>leche</strong> en polvo desnatada pasteurizada de vaca y fermentos <strong>lácticos</strong> <strong>kéfir</strong> (cepas de lactococcus,leuconostoc,lactobacillus y Streptococcus)."
+  },
+  "origin": null,
+  "packaging": "Bote",
+  "photos": [
+    {
+      "perspective": 3,
+      "regular": "https://prod-mercadona.imgix.net/images/996e614f475b8cd286f9a4c15643edea.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/996e614f475b8cd286f9a4c15643edea.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/996e614f475b8cd286f9a4c15643edea.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/97d6bc267a6cd64e159b28b9a0668b8b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/97d6bc267a6cd64e159b28b9a0668b8b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/97d6bc267a6cd64e159b28b9a0668b8b.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.20",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "2.200",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.10",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/20029/kefir-natural-sabor-suave-bote",
+  "slug": "kefir-natural-sabor-suave-bote",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/996e614f475b8cd286f9a4c15643edea.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

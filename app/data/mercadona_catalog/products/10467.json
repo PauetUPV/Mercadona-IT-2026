@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 287,
+              "level": 2,
+              "name": "Hamburguesas",
+              "order": 17
+            }
+          ],
+          "id": 44,
+          "level": 1,
+          "name": "Hamburguesas y picadas",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Mini burgers de pollo",
+    "legal_name": "BURGER MEAT POLLO MINI",
+    "mandatory_mentions": "Sin gluten. Sin lactosa. Sin soja. Envasado en atmósfera protectora.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en refrigeración entre 0 y 4C. Una vez abierto consumir antes de 48 horas",
+    "suppliers": [
+      {
+        "name": "Frescos y Elaborados Delisano SAU"
+      }
+    ],
+    "usage_instructions": "Cocinar a fuego lento completamente antes de su consumo. Tiempo aproximado: 2 minutos por cada lado."
+  },
+  "display_name": "Mini burgers de pollo",
+  "ean": "8436021417237",
+  "extra_info": [
+    null
+  ],
+  "id": "10467",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>dióxido de azufre y sulfitos</strong>.",
+    "ingredients": "Carne de pollo 90%, agua, vegetales (arroz), fibra vegetal (contiene guisante), especias, aromas, sal, antioxidantes (E-301, E-331), conservador (E-221) (<strong>sulfito</strong>), colorante (E-120). Contiene trazas de <strong>pavo.</strong>"
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/4a2cb5989f97fa42b4dcdf415abd6fcd.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4a2cb5989f97fa42b4dcdf415abd6fcd.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4a2cb5989f97fa42b4dcdf415abd6fcd.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/150f1525f3943bb8a47f201fb8a416e4.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/150f1525f3943bb8a47f201fb8a416e4.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/150f1525f3943bb8a47f201fb8a416e4.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "10.36",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "10.358",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 8,
+    "unit_name": "ud.",
+    "unit_price": "2.90",
+    "unit_selector": true,
+    "unit_size": 0.28
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/10467/mini-burgers-pollo-bandeja",
+  "slug": "mini-burgers-pollo-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/4a2cb5989f97fa42b4dcdf415abd6fcd.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

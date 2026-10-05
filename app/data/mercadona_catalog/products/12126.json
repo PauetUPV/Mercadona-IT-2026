@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Valor",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 382,
+              "level": 2,
+              "name": "Chocolate negro",
+              "order": 11
+            }
+          ],
+          "id": 92,
+          "level": 1,
+          "name": "Chocolate",
+          "order": 11
+        }
+      ],
+      "id": 9,
+      "level": 0,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Valor",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Chocolate puro Valor",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Chocolate",
+    "mandatory_mentions": "Cacao: 52% mínimo",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco, alejado de olores.",
+    "suppliers": [
+      {
+        "name": "Chocolates Valor,S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Chocolate puro Valor",
+  "ean": "8410109000023",
+  "extra_info": [
+    null
+  ],
+  "id": "12126",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>sh</strong>. Puede contener <strong>sa</strong>. Contiene <strong>soja y productos a base de soja</strong>. Puede contener <strong>frutos de cáscara</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Azúcar, pasta de cacao, manteca de cacao, emulgente: lecitina de <strong>soja</strong>, aroma. Puede contener trazas de <strong>leche</strong>, <strong>avellana</strong> y <strong>almendra</strong>"
+  },
+  "origin": null,
+  "packaging": "Tableta",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/aa913b2fa1c66a54865c286a31ccb51c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/aa913b2fa1c66a54865c286a31ccb51c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/aa913b2fa1c66a54865c286a31ccb51c.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/08993396dca286a6cb7cb8abe6e360e2.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/08993396dca286a6cb7cb8abe6e360e2.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/08993396dca286a6cb7cb8abe6e360e2.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "16.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "16.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "4.95",
+    "unit_selector": true,
+    "unit_size": 0.3
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/12126/chocolate-puro-valor-tableta",
+  "slug": "chocolate-puro-valor-tableta",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/aa913b2fa1c66a54865c286a31ccb51c.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

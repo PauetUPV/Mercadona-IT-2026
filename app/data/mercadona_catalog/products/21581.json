@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 312,
+              "level": 2,
+              "name": "Queso rallado",
+              "order": 159
+            }
+          ],
+          "id": 56,
+          "level": 1,
+          "name": "Queso lonchas, rallado y en porciones",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Queso rallado 4 quesos Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "MEZCLA DE 4 QUESOS RALLADOS (EMMENTAL, CHEDDAR, GOUDA, QUESO CURADO)",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en frío entre 0 ºC y 8 ºC",
+    "suppliers": [
+      {
+        "name": "QUESERIA LAFUENTE S.A.U"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Queso rallado 4 quesos Hacendado",
+  "ean": "8402001044434",
+  "extra_info": [
+    ""
+  ],
+  "id": "21581",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Libre de <strong>dióxido de azufre y sulfitos</strong>. Libre de <strong>cacahuetes y productos a base de cacahuetes</strong>. Libre de <strong>soja y productos a base de soja</strong>. Libre de <strong>apio y productos derivados</strong>. Libre de <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Libre de <strong>altramuces y productos a base de altramuces</strong>. Libre de <strong>pescado y productos a base de pescado</strong>. Libre de <strong>mostaza y productos derivados</strong>. Libre de <strong>moluscos y productos a base de moluscos</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Libre de <strong>huevos y productos a base de huevo</strong>. Libre de <strong>frutos de cáscara</strong>. Libre de <strong>crustáceos y productos a base de crustáceos</strong>. Libre de <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "<p>45% Queso Emmental (LECHE pasteurizada de vaca, sal, fermentos lácticos, coagulante microbiano), 30% Queso Cheddar (LECHE pasteurizada de vaca, sal, fermentos lácticos, coagulante microbiano, colorante (E-160a)), 20% Queso Gouda (LECHE pasteurizada de vaca, sal, fermentos lácticos, coagulante microbiano), 5% Queso curado (LECHE pasteurizada de vaca, CABRA y OVEJA, coagulante microbiano, sal, conservador (E-202)). Antiaglomerante (almidón). Sin gluten."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/9bdb83693cb107ef8e90da30dea2e26e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9bdb83693cb107ef8e90da30dea2e26e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9bdb83693cb107ef8e90da30dea2e26e.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/f8ff36772cc83144c2f29aed0f510f8a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f8ff36772cc83144c2f29aed0f510f8a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f8ff36772cc83144c2f29aed0f510f8a.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "8.75",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "8.750",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.75",
+    "unit_selector": true,
+    "unit_size": 0.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/21581/queso-rallado-4-quesos-hacendado-paquete",
+  "slug": "queso-rallado-4-quesos-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/9bdb83693cb107ef8e90da30dea2e26e.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

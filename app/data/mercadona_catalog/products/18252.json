@@ -1,0 +1,109 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 455,
+              "level": 2,
+              "name": "Sardinas",
+              "order": 215
+            }
+          ],
+          "id": 122,
+          "level": 1,
+          "name": "Atún y otras conservas de pescado",
+          "order": 215
+        }
+      ],
+      "id": 14,
+      "level": 0,
+      "name": "Conservas, caldos y cremas",
+      "order": 215
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Sardinas en aceite de oliva Hacendado",
+    "legal_name": "Sardinas en aceite de oliva",
+    "mandatory_mentions": "Elaborado con sardinas frescas.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco. Una vez abierto, mantener en refrigeración entre 0 °C y 4 °C y consumir en 24 horas.",
+    "suppliers": [
+      {
+        "name": "Societé  Nouvelle Aveiro Maroc"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Sardinas en aceite de oliva Hacendado",
+  "ean": "8402001015069",
+  "extra_info": [
+    ""
+  ],
+  "id": "18252",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>pescado y productos a base de pescado</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>.",
+    "ingredients": "<strong>Sardina</strong> (Sardina Pilchardus) (70%), aceite de oliva (29%) y sal. Puede contener <strong>crustáceos</strong>."
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/22f67f1cf65e87c4b203b7f0cc08691f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/22f67f1cf65e87c4b203b7f0cc08691f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/22f67f1cf65e87c4b203b7f0cc08691f.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/743b1dd2ce7360e70f4dcb7ece24774b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/743b1dd2ce7360e70f4dcb7ece24774b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/743b1dd2ce7360e70f4dcb7ece24774b.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "8.75",
+    "bunch_selector": false,
+    "drained_weight": 0.172,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.086,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "12.210",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 2,
+    "unit_name": "latas",
+    "unit_price": "2.10",
+    "unit_selector": true,
+    "unit_size": 0.24
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/18252/sardinas-aceite-oliva-hacendado-pack-2",
+  "slug": "sardinas-aceite-oliva-hacendado-pack-2",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/22f67f1cf65e87c4b203b7f0cc08691f.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

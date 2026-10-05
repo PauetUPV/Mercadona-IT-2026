@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 318,
+              "level": 2,
+              "name": "Pan de molde",
+              "order": 515
+            }
+          ],
+          "id": 60,
+          "level": 1,
+          "name": "Pan de molde y otras especialidades",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pan de molde cereales sin gluten Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Pan Molde Cereales sin gluten",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Amaritta Food S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Pan de molde cereales sin gluten Hacendado",
+  "ean": "8480000867506",
+  "extra_info": [
+    ""
+  ],
+  "id": "86750",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Puede contener <strong>mostaza y productos derivados</strong>.",
+    "ingredients": "<p>Agua, almidones (maíz (11%), tapioca, patata), fibras vegetales (fructooligosacáridos, psyllium, bambú) semillas (lino (3%), girasol, amapola), aceite de girasol, harina de arroz (4%) , levadura, humectante (glicerina), sal, proteína vegetal, colorante (betacaroteno), estabilizantes (hidroxipropilcelulosa, goma xantana), conservantes (propionato cálcico, ácido sórbico) y aromas. Puede contener trazas de SÉSAMO y MOSTAZA"
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/a8c90aab11776a9f62a00b0a10634ad7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a8c90aab11776a9f62a00b0a10634ad7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a8c90aab11776a9f62a00b0a10634ad7.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/0775089f81f65129af01f4bdc9cd47a2.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0775089f81f65129af01f4bdc9cd47a2.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0775089f81f65129af01f4bdc9cd47a2.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.83",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 4,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.830",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 14,
+    "unit_name": "rebanadas",
+    "unit_price": "2.74",
+    "unit_selector": true,
+    "unit_size": 0.47
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/86750/pan-molde-cereales-sin-gluten-hacendado-paquete",
+  "slug": "pan-molde-cereales-sin-gluten-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/a8c90aab11776a9f62a00b0a10634ad7.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,112 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 287,
+              "level": 2,
+              "name": "Hamburguesas",
+              "order": 17
+            }
+          ],
+          "id": 44,
+          "level": 1,
+          "name": "Hamburguesas y picadas",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Burger americana gruesas",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "BURGER MEAT VACUNO CERDO AMERICANA",
+    "mandatory_mentions": "Sin gluten. Sin lactosa. Sin soja. Envasado en atmósfera protectora.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en refrigeración entre 0 y 4C. Una vez abierto consumir antes de 48 horas",
+    "suppliers": [
+      {
+        "name": "Frescos y Elaborados Delisano SAU"
+      }
+    ],
+    "usage_instructions": "Precalentar la plancha/sartén y sellar la hamburguesa por ambos lados a fuego alto. Bajar la intensidad del fuego y terminar de cocinar por ambos lados."
+  },
+  "display_name": "Burger americana gruesas",
+  "ean": "8436021410078",
+  "extra_info": [
+    null
+  ],
+  "id": "3979",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>dióxido de azufre y sulfitos</strong>.",
+    "ingredients": "Carne de vacuno 40%, carne de cerdo 39,5%, bacon 6,5% (panceta de cerdo (87%), agua (9,6%), sal, azúcar, estabilizador (E-451), antioxidante (E-316) y conservador (E-250)), agua, maíz, fibra vegetal,  aromas, pepinillos [pepinillos, vinagre de vino, sal y conservador (E-223) (<strong>sulfitos</strong>)], kétchup [azúcar, tomate, almidón modificado, sal, especias, colorante (E-150c), espesante (E-415)] sal, especias, antioxidantes (E-301, E-331), conservador (E-221) (<strong>sulfito</strong>) y colorante (E-120)."
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/b7ebf4e3c94b8649ad4ab4262d41b09e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b7ebf4e3c94b8649ad4ab4262d41b09e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b7ebf4e3c94b8649ad4ab4262d41b09e.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/96aee981a075afcc66e0359028035b25.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/96aee981a075afcc66e0359028035b25.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/96aee981a075afcc66e0359028035b25.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "8.89",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "8.889",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 2,
+    "unit_name": "ud.",
+    "unit_price": "3.20",
+    "unit_selector": true,
+    "unit_size": 0.36
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/3979/burger-americana-gruesas-bandeja",
+  "slug": "burger-americana-gruesas-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/b7ebf4e3c94b8649ad4ab4262d41b09e.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

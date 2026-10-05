@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Noel",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 293,
+              "level": 2,
+              "name": "Jamón cocido",
+              "order": 159
+            }
+          ],
+          "id": 48,
+          "level": 1,
+          "name": "Aves y jamón cocido",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Noel",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Lacón al horno Noel lonchas",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Paleta cocida extra al horno sabor ahumado.",
+    "mandatory_mentions": "Sin gluten. Envasado en atmósfera protectora.",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Manténgase refrigerado entre 0ºC y 5ºC. Una vez abierto el envase consumir en 48 horas.",
+    "suppliers": [
+      {
+        "name": "Noel Alimentaria S.A.U."
+      }
+    ],
+    "usage_instructions": "Abrir diez minutos antes de consumir."
+  },
+  "display_name": "Lacón al horno Noel lonchas",
+  "ean": "8410783326754",
+  "extra_info": [
+    ""
+  ],
+  "id": "59216",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "lonchas",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Paleta de cerdo (85%), agua, sal, conservadores (lactato de potasio, nitrito de sodio), estabilizantes (tripolifosfato de sodio, carragenato), azúcar, jarabe de glucosa, cloruro de potasio, regulador de la acidez (bicarbonato de sodio), antioxidante (eritorbato de sodio), aroma, aroma de humo. Sin gluten."
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/5e0c24eee8f4ac0955eff1911f87d34e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5e0c24eee8f4ac0955eff1911f87d34e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5e0c24eee8f4ac0955eff1911f87d34e.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/0188f30e01f6ba79439e1c5a6fc44f88.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0188f30e01f6ba79439e1c5a6fc44f88.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0188f30e01f6ba79439e1c5a6fc44f88.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "10.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "10.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.10",
+    "unit_selector": true,
+    "unit_size": 0.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/59216/lacon-horno-noel-lonchas-paquete",
+  "slug": "lacon-horno-noel-lonchas-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/5e0c24eee8f4ac0955eff1911f87d34e.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

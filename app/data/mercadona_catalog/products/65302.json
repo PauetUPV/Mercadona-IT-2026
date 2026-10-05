@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 394,
+              "level": 2,
+              "name": "Caramelos",
+              "order": 11
+            }
+          ],
+          "id": 95,
+          "level": 1,
+          "name": "Chicles y caramelos",
+          "order": 11
+        }
+      ],
+      "id": 9,
+      "level": 0,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Caramelos nata Hacendado 0% azúcares",
+    "legal_name": "Caramelos de nata con edulcorantes sin azúcares",
+    "mandatory_mentions": "Un consumo excesivo puede producir efectos laxantes.",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Cantalou, S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Caramelos nata Hacendado 0% azúcares",
+  "ean": "3215690801906",
+  "extra_info": [
+    ""
+  ],
+  "id": "65302",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Edulcorantes (jarabe de maltitol, isomalt, acesulfamo K), nata (9%), sal, aromas (<strong>leche</strong>, toffee), <strong>leche</strong> desnatada en polvo, colorante (E150a), emulgente (lecitinas). Sin gluten."
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/f254cebca9e75e726e259e6c333cdd71.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f254cebca9e75e726e259e6c333cdd71.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f254cebca9e75e726e259e6c333cdd71.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/28c73dcb7940082adababb7845076199.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/28c73dcb7940082adababb7845076199.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/28c73dcb7940082adababb7845076199.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "12.78",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "12.778",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.15",
+    "unit_selector": true,
+    "unit_size": 0.09
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/65302/caramelos-nata-hacendado-0-azucares-paquete",
+  "slug": "caramelos-nata-hacendado-0-azucares-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/f254cebca9e75e726e259e6c333cdd71.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

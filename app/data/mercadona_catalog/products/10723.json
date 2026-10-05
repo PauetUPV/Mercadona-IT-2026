@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Puleva",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 348,
+              "level": 2,
+              "name": "Leche Infantil",
+              "order": 373
+            }
+          ],
+          "id": 72,
+          "level": 1,
+          "name": "Leche y bebidas vegetales",
+          "order": 373
+        }
+      ],
+      "id": 6,
+      "level": 0,
+      "name": "Huevos, leche y mantequilla",
+      "order": 373
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Puleva",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Bebida láctea crecimiento y desarrollo Puleva Max + 3 años",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Bebida láctea infantil con Omega 3, sin lactosa. UHT",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Una vez abierto el envase debe conservarse en frio, siendo aconsejable su consumo en los 3 días siguientes",
+    "suppliers": [
+      {
+        "name": "Lactalis Puleva, S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Bebida láctea crecimiento y desarrollo Puleva Max",
+  "ean": "8411700010015",
+  "extra_info": [
+    null
+  ],
+  "id": "10723",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "Max",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>pescado y productos a base de pescado</strong>.",
+    "ingredients": "<strong>Leche</strong> semidesnatada, agua, aceites vegetales (girasol alto oleico y oliva), sales minerales (citrato tripotásico, fosfato tricálcico, pirofosfato de hierro, sulfato de zinc), aceite de <strong>pescado</strong> rico en DHA, emulgentes (lecitinas (<strong>soja</strong>)), aromas, vitaminas (A, D, E, B1, B2, B3, B6, B12, B5, B8, B9 y C), antioxidantes (extracto rico en tocoferoles y ascorbil palmitato) y lactasa."
+  },
+  "origin": null,
+  "packaging": "Brik",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/63a31f1eab7450bc05d98750db05312d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/63a31f1eab7450bc05d98750db05312d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/63a31f1eab7450bc05d98750db05312d.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/7d575b1b34f06ef992577a4e73952140.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7d575b1b34f06ef992577a4e73952140.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7d575b1b34f06ef992577a4e73952140.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.79",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": "        1.79",
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "1.790",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.79",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/10723/bebida-lactea-crecimiento-desarrollo-puleva-max-3-anos-brick",
+  "slug": "bebida-lactea-crecimiento-desarrollo-puleva-max-3-anos-brick",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/63a31f1eab7450bc05d98750db05312d.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 314,
+              "level": 2,
+              "name": "Paté",
+              "order": 159
+            }
+          ],
+          "id": 58,
+          "level": 1,
+          "name": "Paté y sobrasada",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Paté de cerdo sabor suave Hacendado",
+    "legal_name": "Paté de hígado de cerdo sabor suave",
+    "mandatory_mentions": "Sin gluten y sin lactosa",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco. Una vez abierto mantener refrigerado y consumir un plazo de 3 días.",
+    "suppliers": [
+      {
+        "name": "INDUSTRIAS FRIGORÍFICAS DEL LOURO, S.A."
+      }
+    ],
+    "usage_instructions": "Producto listo para su consumo.Una vez abierto, mantener refrigerado."
+  },
+  "display_name": "Paté de cerdo sabor suave Hacendado",
+  "ean": "8402001036262",
+  "extra_info": [
+    ""
+  ],
+  "id": "14739",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Tocino y papada de cerdo, agua, hígado de cerdo (16,6%), almidón, cebolla, sal, proteína de cerdo, azúcar, aromas[ aroma,maltodextrina,aceite vegetal,sal,emulsionante(ésteres mono, di y triglicéridos de ácidos grasos),colorante (extracto de pimentón) y antioxidante( extracto rico en tocoferoles)],dextrosa, especias y conservador (nitrito sódico)."
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/3a50f855f76a5d59961b054972bc6ea2.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3a50f855f76a5d59961b054972bc6ea2.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3a50f855f76a5d59961b054972bc6ea2.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/0a85ead38eeab72aaee91f96f4d6eb7b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0a85ead38eeab72aaee91f96f4d6eb7b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0a85ead38eeab72aaee91f96f4d6eb7b.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.17",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.1,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.167",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 3,
+    "unit_name": "latas",
+    "unit_price": "1.55",
+    "unit_selector": true,
+    "unit_size": 0.3
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/14739/pate-cerdo-sabor-suave-hacendado",
+  "slug": "pate-cerdo-sabor-suave-hacendado",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/3a50f855f76a5d59961b054972bc6ea2.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

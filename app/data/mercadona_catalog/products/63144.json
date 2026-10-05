@@ -1,0 +1,135 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 514,
+              "level": 2,
+              "name": "Pescado rebozado",
+              "order": 213
+            }
+          ],
+          "id": 884,
+          "level": 1,
+          "name": "Rebozados",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 275,
+              "level": 2,
+              "name": "Pescado rebozado congelado",
+              "order": 442
+            }
+          ],
+          "id": 34,
+          "level": 1,
+          "name": "Pescado congelado",
+          "order": 442
+        }
+      ],
+      "id": 2,
+      "level": 0,
+      "name": "Marisco y pescado",
+      "order": 442
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Langostino caballitos rebozados Hacendado ultracongelados",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "LANGOSTINO REBOZADO (CABALLITOS). PRECOCINADO ULTRACONGELADO",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Mantener a = -18C",
+    "suppliers": [
+      {
+        "name": "CONGALSA S.L."
+      }
+    ],
+    "usage_instructions": "Freidora/ Sartén: No descongelar. Freír en abundante aceite muy caliente (180ºC) durante 5 - 6 minutos. Deles la vuelta a la mitad de la fritura para formar una cobertura más crujiente. Freír hasta que estén bien doradas. Freidora de aire: No descongelar. Colocar el producto sin tocarse. Cocinar durante 8 minutos a 200ºC. Dejar reposar durante 1 minutos antes de comerlo."
+  },
+  "display_name": "Langostino caballitos rebozados Hacendado ultracongelados",
+  "ean": "8480000631442",
+  "extra_info": [
+    null
+  ],
+  "id": "63144",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "ultracongelados",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>pescado y productos a base de pescado</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>dióxido de azufre y sulfitos</strong>. Contiene <strong>crustáceos y productos a base de crustáceos</strong>.",
+    "ingredients": "<strong>LANGOSTINO</strong> (40%) (<strong>CRUSTÁCEO</strong>) [<strong>LANGOSTINO</strong>, agua, sal, correctores de la acidez (E-500, E-331), estabilizante (E-640) y antioxidante (E-223) (<strong>SULFITOS</strong>)], rebozado (60%): harina de <strong>TRIGO</strong> (<strong>GLUTEN</strong>), agua, aceite de girasol, azúcar, almidón, sal, gasificantes (E-450, E-500), potenciador del sabor (E-621), ajo en polvo, antioxidante (E-300), corrector de la acidez (E-330) y colorante (E-101). Puede contener trazas de <strong>pescado</strong>, <strong>soja</strong> y <strong>mostaza</strong>."
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/e2e846deaf50af61d693a1303c554dc1.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e2e846deaf50af61d693a1303c554dc1.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e2e846deaf50af61d693a1303c554dc1.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/5d1e68e3831bcaa0a01fcd0bc2e870d4.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5d1e68e3831bcaa0a01fcd0bc2e870d4.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5d1e68e3831bcaa0a01fcd0bc2e870d4.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "10.83",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "10.834",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.25",
+    "unit_selector": true,
+    "unit_size": 0.3
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/63144/langostino-caballitos-rebozados-hacendado-ultracongelados-paquete",
+  "slug": "langostino-caballitos-rebozados-hacendado-ultracongelados-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/e2e846deaf50af61d693a1303c554dc1.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

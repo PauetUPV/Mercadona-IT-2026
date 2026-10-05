@@ -1,0 +1,112 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "La Piara",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 314,
+              "level": 2,
+              "name": "Paté",
+              "order": 159
+            }
+          ],
+          "id": 58,
+          "level": 1,
+          "name": "Paté y sobrasada",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "La Piara",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Paté de cerdo La Piara tapa negra",
+    "legal_name": "PATÉ DE HÍGADO DE CERDO",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "IMPORTANTE: Una vez abierto, conservar a 4 ºC y consumir en 48 h.",
+    "suppliers": [
+      {
+        "name": "LP FOODIES S.A.U."
+      },
+      {
+        "name": "La Piara S.A.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Paté de cerdo La Piara tapa negra",
+  "ean": "8412500010816",
+  "extra_info": [
+    null
+  ],
+  "id": "52108",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Hígado de cerdo (28%), tocino, papada de cerdo, agua, magro de cabeza de cerdo, proteína de cerdo, harina de arroz, fibra vegetal, sal, conservador (nitrito sódico), aromas."
+  },
+  "origin": "España",
+  "packaging": "Pack-3",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/a4613d4048efad9b5059a390629b4bcb.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a4613d4048efad9b5059a390629b4bcb.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a4613d4048efad9b5059a390629b4bcb.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/36ea92b62fb84c33ec1d4db004910ec3.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/36ea92b62fb84c33ec1d4db004910ec3.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/36ea92b62fb84c33ec1d4db004910ec3.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "15.13",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.087,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "15.135",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 3,
+    "unit_name": "latas",
+    "unit_price": "3.95",
+    "unit_selector": true,
+    "unit_size": 0.261
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/52108/pate-cerdo-piara-tapa-negra-pack-3",
+  "slug": "pate-cerdo-piara-tapa-negra-pack-3",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/a4613d4048efad9b5059a390629b4bcb.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

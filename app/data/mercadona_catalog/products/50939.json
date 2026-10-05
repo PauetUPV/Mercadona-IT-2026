@@ -1,0 +1,110 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 825,
+              "level": 2,
+              "name": "Queso semicurado",
+              "order": 159
+            }
+          ],
+          "id": 54,
+          "level": 1,
+          "name": "Queso curado, semicurado y tierno",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Queso mezcla semicurado Hacendado",
+    "legal_name": "Queso de mezcla madurado",
+    "mandatory_mentions": "Corteza no comestible: contiene conservadores (E-202 y E-235) y colorante (E-153). Origen de la leche: España",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco. Se recomienda abrir el envase 15 minutos antes de su consumo y una vez abierto mantener en refrigeración.",
+    "suppliers": [
+      {
+        "name": "Queserías Entrepinares S.A.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Queso mezcla semicurado Hacendado",
+  "ean": "8480000509390",
+  "extra_info": [
+    null
+  ],
+  "id": "50939",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Libre de <strong>huevos y productos a base de huevo</strong>. Libre de <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "<strong>Leche </strong>[pasteurizada de vaca (50%*), pasteurizada de oveja (20%*) y pasteurizada de cabra (15%*)], sal, cuajo**, estabilizante (cloruro cálcico) y fermentos lácticos. *Promedios mínimos. **Origen no animal.SIN GLUTEN, SIN HUEVO."
+  },
+  "origin": null,
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 3,
+      "regular": "https://prod-mercadona.imgix.net/images/da13590b60e560c4b554ea789b6c27da.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/da13590b60e560c4b554ea789b6c27da.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/da13590b60e560c4b554ea789b6c27da.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/262bb4c39a440e186a6ca78bdc2326d1.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/262bb4c39a440e186a6ca78bdc2326d1.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/262bb4c39a440e186a6ca78bdc2326d1.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "18.00",
+    "unit_selector": true,
+    "unit_size": 3.0
+  },
+  "product_information": null,
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/50939/queso-mezcla-semicurado-hacendado-pieza",
+  "slug": "queso-mezcla-semicurado-hacendado-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/da13590b60e560c4b554ea789b6c27da.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

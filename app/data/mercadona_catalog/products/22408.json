@@ -1,0 +1,109 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 383,
+              "level": 2,
+              "name": "Chocolate blanco",
+              "order": 11
+            }
+          ],
+          "id": 92,
+          "level": 1,
+          "name": "Chocolate",
+          "order": 11
+        }
+      ],
+      "id": 9,
+      "level": 0,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Chocolate blanco Fussion Hacendado relleno con cremoso de coco y almendras troceadas",
+    "legal_name": "CHOCOLATE BLANCO CON RELLENO CREMOSO DE COCO Y ALMENDRAS TROCEADAS",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco, seco y alejado de olores. Temperatura ideal de conservación: 18ºC-20ºC.",
+    "suppliers": [
+      {
+        "name": "SANCHIS MIRA S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Chocolate blanco Fussion Hacendado relleno con cremoso de coco y almendras troceadas",
+  "ean": "8480000224088",
+  "extra_info": [
+    null
+  ],
+  "id": "22408",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>sa</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>frutos de cáscara</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Chocolate blanco (57%) [azúcar, manteca de cacao, <strong>LECHE</strong> entera en polvo, suero <strong>LÁCTEO</strong> en polvo, materia grasa <strong>LÁCTEA </strong>anhidra, emulgentes (lecitinas (<strong>SOJA</strong>), E-476), aromas], grasas vegetales en proporciones variables (karité, coco, girasol), azúcar, <strong>LECHE</strong> desnatada en polvo, coco rallado (4,1%),<strong> ALMENDRA </strong>tostada (1,6%), barquillo [azúcar, harina de <strong>TRIGO (GLUTEN</strong>), grasas vegetales de girasol y nabina, materia grasa <strong>LÁCTEA</strong> anhidra, <strong>LACTOSA</strong>, proteínas de <strong>LECHE</strong>, sal, extracto de malta de <strong>CEBADA (GLUTEN</strong>), gasificante: bicarbonato sódico, antioxidante: E-306], emulgente: lecitinas (<strong>SOJA</strong>), aromas.  <strong>Puede contener otros frutos de cáscara y mostaza</strong>."
+  },
+  "origin": "España",
+  "packaging": "Tableta",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/5601a7757d00c099f8ae91e7a45a0a38.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5601a7757d00c099f8ae91e7a45a0a38.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5601a7757d00c099f8ae91e7a45a0a38.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/fef9f7c3804875f8fb5bcb051c529eb2.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/fef9f7c3804875f8fb5bcb051c529eb2.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/fef9f7c3804875f8fb5bcb051c529eb2.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "13.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "13.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.35",
+    "unit_selector": true,
+    "unit_size": 0.1
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/22408/chocolate-blanco-fussion-hacendado-relleno-con-cremoso-coco-almendras-troceadas-tableta",
+  "slug": "chocolate-blanco-fussion-hacendado-relleno-con-cremoso-coco-almendras-troceadas-tableta",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/5601a7757d00c099f8ae91e7a45a0a38.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

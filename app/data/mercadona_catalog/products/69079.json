@@ -1,0 +1,143 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 256,
+              "level": 2,
+              "name": "Cebolla y ajo",
+              "order": 306
+            }
+          ],
+          "id": 29,
+          "level": 1,
+          "name": "Verdura",
+          "order": 306
+        }
+      ],
+      "id": 1,
+      "level": 0,
+      "name": "Fruta y verdura",
+      "order": 306
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Cebollas",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Cebolla",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco",
+    "suppliers": [
+      {
+        "name": "CEBOLLAS MARCHITE S.L."
+      },
+      {
+        "name": "Cebollas Consuay"
+      },
+      {
+        "name": "Cebollas Consuay S.L."
+      },
+      {
+        "name": "Cebollas Tara, S.L."
+      },
+      {
+        "name": "Constantino Adrian, S.L"
+      },
+      {
+        "name": "Duart Blay J.J. S.L."
+      },
+      {
+        "name": "J.A.Corell S.L."
+      },
+      {
+        "name": "Juan Cladera, S.L."
+      },
+      {
+        "name": "Navarro Darder S.L"
+      },
+      {
+        "name": "S.A.T. 4917 Marchite"
+      },
+      {
+        "name": "SAT Agorreta 721 NA"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Cebollas",
+  "ean": "5600319261069",
+  "extra_info": [
+    null
+  ],
+  "id": "69079",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": ""
+  },
+  "origin": null,
+  "packaging": "Malla",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/c8d94c6563bfadc845df944fe483bfca.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c8d94c6563bfadc845df944fe483bfca.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c8d94c6563bfadc845df944fe483bfca.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/32436771b24a39bb9ea59e9a5def0445.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/32436771b24a39bb9ea59e9a5def0445.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/32436771b24a39bb9ea59e9a5def0445.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.60",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": "        3.60",
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "1.600",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.20",
+    "unit_selector": true,
+    "unit_size": 2.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/69079/cebollas-malla",
+  "slug": "cebollas-malla",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/c8d94c6563bfadc845df944fe483bfca.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

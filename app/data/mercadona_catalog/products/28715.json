@@ -1,0 +1,119 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Larios",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 586,
+              "level": 2,
+              "name": "Ginebra",
+              "order": 15
+            }
+          ],
+          "id": 181,
+          "level": 1,
+          "name": "Licores",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": "37.5º",
+    "brand": "Larios",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Ginebra London Dry Gin Larios",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Ginebra",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "lugar fresco, oscuro y con temperatura constante, preferiblemente en posición vertical, lejos de la luz solar directa y fuentes de calor para mantener su frescura, aromas cítricos y calidad, ya que como destilado blanco no caduca pero sí pierde sus propiedades organolépticas con el tiempo si se expone a la luz y el calor",
+    "suppliers": [
+      {
+        "name": "Beam Suntory Spain S.L"
+      },
+      {
+        "name": "Maxxium"
+      },
+      {
+        "name": "Maxxium España, S.L"
+      }
+    ],
+    "usage_instructions": "Enfría la copa con hielo abundante y retira el agua sobrante.Sirve 5 cl de Larios Dry a baja altura para evitar expandir los aromas.Añade la tónica suavemente para conservar el carbónico, remueve despacio.Perfuma el borde de la copa con las pieles de naranja y limón e introdúcelas"
+  },
+  "display_name": "Ginebra London Dry Gin Larios",
+  "ean": "8410854601230",
+  "extra_info": [
+    null
+  ],
+  "id": "28715",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>bayas de enebro salvaje que se unen a los cítricos más refrescantes: limón y naranja del Mediterráneo"
+  },
+  "origin": "España",
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/ec3338cb4c593ac6d7dcbc3e8040695b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ec3338cb4c593ac6d7dcbc3e8040695b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ec3338cb4c593ac6d7dcbc3e8040695b.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/b0515abfdded8ddcb658858c487f80c0.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b0515abfdded8ddcb658858c487f80c0.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b0515abfdded8ddcb658858c487f80c0.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "10.95",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "10.950",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "10.95",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/28715/ginebra-london-dry-gin-larios-botella",
+  "slug": "ginebra-london-dry-gin-larios-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/ec3338cb4c593ac6d7dcbc3e8040695b.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

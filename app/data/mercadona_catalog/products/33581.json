@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 475,
+              "level": 2,
+              "name": "Snacks",
+              "order": 9
+            }
+          ],
+          "id": 132,
+          "level": 1,
+          "name": "Patatas fritas y snacks",
+          "order": 9
+        }
+      ],
+      "id": 15,
+      "level": 0,
+      "name": "Aperitivos",
+      "order": 9
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Cuquis Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Aperitivo Horneado de maíz. # Aperitivo de milho feito no forno",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Manténgase en lugar fresco, seco y alejado de la luz",
+    "suppliers": [
+      {
+        "name": "Alimentos Sanygran S,L"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Cuquis Hacendado",
+  "ean": "8480000335814",
+  "extra_info": [
+    null
+  ],
+  "id": "33581",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Sémola de maíz, aceite de girasol (17%)*, y sal"
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/8ea3248c4e2b51815ee1cf960b24c7d3.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8ea3248c4e2b51815ee1cf960b24c7d3.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8ea3248c4e2b51815ee1cf960b24c7d3.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/fd5f35687f87ec02ad313fb40f313442.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/fd5f35687f87ec02ad313fb40f313442.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/fd5f35687f87ec02ad313fb40f313442.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "9.38",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "9.375",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.75",
+    "unit_selector": true,
+    "unit_size": 0.08
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/33581/cuquis-hacendado-paquete",
+  "slug": "cuquis-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/8ea3248c4e2b51815ee1cf960b24c7d3.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

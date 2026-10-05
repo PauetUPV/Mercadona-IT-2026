@@ -1,0 +1,133 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 887,
+              "level": 2,
+              "name": "Marisco de concha y otros",
+              "order": 213
+            }
+          ],
+          "id": 150,
+          "level": 1,
+          "name": "Marisco",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 852,
+              "level": 2,
+              "name": "Marisco de concha",
+              "order": 442
+            }
+          ],
+          "id": 32,
+          "level": 1,
+          "name": "Marisco",
+          "order": 442
+        }
+      ],
+      "id": 2,
+      "level": 0,
+      "name": "Marisco y pescado",
+      "order": 442
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Mejillón de Chile entero cocido Hacendado ultracongelado",
+    "legal_name": "Mytilus chilensis.",
+    "mandatory_mentions": "Método de producción: De cria en Chile .",
+    "origin": "Chile",
+    "production_variant": "",
+    "storage_instructions": "Ultracongelado.Conservar a temperatura igual o inferior a -18ºC ( ver fecha de consumo preferente en el envase). Para no alterar la calidad de este producto, no volver a congelar una vez descongelado.",
+    "suppliers": [
+      {
+        "name": "Mascato, S.A."
+      }
+    ],
+    "usage_instructions": "Siempre cocinar el producto congelado. Calentamiento en microondas, calentamiento en bolsa al baño maria y calentamiento fuera de la bolsa. Ver instrucciones en el envase"
+  },
+  "display_name": "Mejillón de Chile entero cocido Hacendado ultracongelado",
+  "ean": "8435035300320",
+  "extra_info": [
+    ""
+  ],
+  "id": "62401",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>moluscos y productos a base de moluscos</strong>.",
+    "ingredients": "<strong>Molusco</strong>."
+  },
+  "origin": "Chile",
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/b4e4b2663ea1d17228e8500f39b911d3.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b4e4b2663ea1d17228e8500f39b911d3.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b4e4b2663ea1d17228e8500f39b911d3.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/0b8a4e102408b4edfed693362efad1be.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0b8a4e102408b4edfed693362efad1be.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0b8a4e102408b4edfed693362efad1be.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "7.22",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.223",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.25",
+    "unit_selector": true,
+    "unit_size": 0.45
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/62401/mejillon-chile-entero-cocido-hacendado-ultracongelado-caja",
+  "slug": "mejillon-chile-entero-cocido-hacendado-ultracongelado-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/b4e4b2663ea1d17228e8500f39b911d3.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

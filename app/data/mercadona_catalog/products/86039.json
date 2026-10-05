@@ -1,0 +1,109 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 398,
+              "level": 2,
+              "name": "Melocotón",
+              "order": 793
+            }
+          ],
+          "id": 100,
+          "level": 1,
+          "name": "Melocotón y piña",
+          "order": 793
+        }
+      ],
+      "id": 10,
+      "level": 0,
+      "name": "Zumos",
+      "order": 793
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Zumo de melocotón y uva Hacendado",
+    "legal_name": "Zumo de melocotón uva parcialmente a partir de concentrado",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Mantener en lugar fresco y seco. Una vez abierto se debe conservar en el frigorífico y consumir antes de 5 días.",
+    "suppliers": [
+      {
+        "name": "Juver Alimentación S.L.U."
+      }
+    ],
+    "usage_instructions": "Agitar antes de servir"
+  },
+  "display_name": "Zumo de melocotón y uva Hacendado",
+  "ean": "8480000860392",
+  "extra_info": [
+    null
+  ],
+  "id": "86039",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Puré de melocotón (57,5%), zumo de uva a partir de concentrado (42,5%) y antioxidante (ácido ascórbico)"
+  },
+  "origin": "España",
+  "packaging": "Brick",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/01533e20d284536adadb30678a1569bf.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/01533e20d284536adadb30678a1569bf.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/01533e20d284536adadb30678a1569bf.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/f89daea59b7c255a31e32f486a97aecb.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f89daea59b7c255a31e32f486a97aecb.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f89daea59b7c255a31e32f486a97aecb.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "1.000",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.00",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/86039/zumo-melocoton-uva-hacendado-brick",
+  "slug": "zumo-melocoton-uva-hacendado-brick",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/01533e20d284536adadb30678a1569bf.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

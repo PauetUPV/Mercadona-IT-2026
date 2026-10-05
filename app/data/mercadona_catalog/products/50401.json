@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 305,
+              "level": 2,
+              "name": "Queso fresco",
+              "order": 159
+            }
+          ],
+          "id": 53,
+          "level": 1,
+          "name": "Queso untable, fresco y especialidades",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Queso fresco servilleta tradicional de vaca Hacendado",
+    "legal_name": "Queso fresco de vaca",
+    "mandatory_mentions": "Se trata de un queso totalmente blanco, sin corteza definida. El interior presenta un corte cerrado, con algún que otro ojo mecánico de aspecto gelatinoso y brillante. El sabor es dulce, con un punto salado, lechoso y con una textura al paladar gomosa. Dirigido a todo el público en general excepto a personas con intolerancia a la leche y sus derivados.",
+    "origin": "Valencia, España.",
+    "production_variant": "",
+    "storage_instructions": "Conservar en frío entre 1°C y 6°C.",
+    "suppliers": [
+      {
+        "name": "Formatgería Granja Rinya, S.L."
+      }
+    ],
+    "usage_instructions": "Refrigerado: listo para su consumo una vez abierto, sin necesidad de ningún tipo de transformación."
+  },
+  "display_name": "Queso fresco servilleta tradicional de vaca Hacendado",
+  "ean": "8480000504012",
+  "extra_info": [
+    null
+  ],
+  "id": "50401",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>ml</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Leche</strong> pasteurizada de vaca, sal, coagulante microbiano, cloruro cálcico y conservador (sorbato potásico).   Origen de la leche: España"
+  },
+  "origin": "Valencia, España.",
+  "packaging": "Tarrina",
+  "photos": [
+    {
+      "perspective": 3,
+      "regular": "https://prod-mercadona.imgix.net/images/fb685671e9adb0f00c699c00d98c8ab9.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/fb685671e9adb0f00c699c00d98c8ab9.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/fb685671e9adb0f00c699c00d98c8ab9.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/8df63ef15dfe1ac8da4e82542481571a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8df63ef15dfe1ac8da4e82542481571a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8df63ef15dfe1ac8da4e82542481571a.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "9.60",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "9.600",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.40",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/50401/queso-fresco-servilleta-tradicional-vaca-hacendado-tarrina",
+  "slug": "queso-fresco-servilleta-tradicional-vaca-hacendado-tarrina",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/fb685671e9adb0f00c699c00d98c8ab9.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

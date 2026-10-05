@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 347,
+              "level": 2,
+              "name": "Bebidas vegetales",
+              "order": 373
+            }
+          ],
+          "id": 72,
+          "level": 1,
+          "name": "Leche y bebidas vegetales",
+          "order": 373
+        }
+      ],
+      "id": 6,
+      "level": 0,
+      "name": "Huevos, leche y mantequilla",
+      "order": 373
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Bebida de avena con calcio barista Hacendado sin azúcares añadidos",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Bebida de avena UHT.",
+    "mandatory_mentions": "",
+    "origin": "Vagos",
+    "production_variant": "",
+    "storage_instructions": "Conservar en un lugar fresco y seco. Una vez abierto conservar en el frigorifico y consumir antes de 4 dias.",
+    "suppliers": [
+      {
+        "name": "WHITE & GREEN NATURAL, S.A."
+      }
+    ],
+    "usage_instructions": "Agitar bien antes de consumir. No necessita frío antes de abrir el envase"
+  },
+  "display_name": "Bebida de avena con calcio barista Hacendado sin azúcares añadidos",
+  "ean": "8480000861672",
+  "extra_info": [
+    ""
+  ],
+  "id": "86167",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "sin azúcares añadidos",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>go</strong>. Contiene <strong>cereales que contengan gluten</strong>. Puede contener <strong>soja y productos a base de soja</strong>.",
+    "ingredients": "Agua, <strong>avena</strong> (10%), aceite de coco, maltodextrina, fosfato tricálcico (calcio), sal marina, estabilizantes (goma gellan y goma xantana) y vitaminas B2, B12 y D."
+  },
+  "origin": "Vagos",
+  "packaging": "Brik",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/6418531f9054c82e7084945ad9febc23.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/6418531f9054c82e7084945ad9febc23.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/6418531f9054c82e7084945ad9febc23.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/0497add364073e07efca0b54a68f3c2a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0497add364073e07efca0b54a68f3c2a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0497add364073e07efca0b54a68f3c2a.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.20",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "1.200",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.20",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/86167/bebida-avena-sin-azucares-anadidos-hacendado-brick",
+  "slug": "bebida-avena-sin-azucares-anadidos-hacendado-brick",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/6418531f9054c82e7084945ad9febc23.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Bosque Verde",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 736,
+              "level": 2,
+              "name": "Limpieza cocina",
+              "order": 374
+            }
+          ],
+          "id": 230,
+          "level": 1,
+          "name": "Limpieza cocina",
+          "order": 374
+        }
+      ],
+      "id": 26,
+      "level": 0,
+      "name": "Limpieza y hogar",
+      "order": 374
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Bosque Verde",
+    "counter_info": null,
+    "danger_mentions": "Provoca irritación ocular grave. Contiene 1,2bencisotiazol3(2H)ona.Puede provocar una reacción alérgica.",
+    "description": "Limpiador Vitrocerámicas Bosque Verde 3 en 1",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "SPB, S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Limpiador Vitrocerámicas Bosque Verde 3 en 1",
+  "ean": "8480000440006",
+  "extra_info": [
+    null
+  ],
+  "id": "44000",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "3 en 1",
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": ""
+  },
+  "origin": null,
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/3c713ff77bf63de895463d7ab8c9f9d7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3c713ff77bf63de895463d7ab8c9f9d7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3c713ff77bf63de895463d7ab8c9f9d7.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/fddd9658ea5f48283d1e6f2e891533ad.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/fddd9658ea5f48283d1e6f2e891533ad.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/fddd9658ea5f48283d1e6f2e891533ad.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.40",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "3.400",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.70",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/44000/limpiador-vitroceramicas-bosque-verde-3-1-botella",
+  "slug": "limpiador-vitroceramicas-bosque-verde-3-1-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/3c713ff77bf63de895463d7ab8c9f9d7.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

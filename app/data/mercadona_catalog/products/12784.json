@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 493,
+              "level": 2,
+              "name": "Roscas, quiche y baguettes",
+              "order": 597
+            }
+          ],
+          "id": 138,
+          "level": 1,
+          "name": "Pizzas",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Focaccia con tomates cherry Hacendado",
+    "legal_name": "FOCACCIA",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Listo para comer o, como se desee, calentar en el horno, después de quitar el envase, a 200/220C durante 2-3 minutos o en una freidora de aire a 180C durante 3 minutos. Refrigerado 0 / +4ºC",
+    "suppliers": [
+      {
+        "name": "Mandorla Mística, S.L."
+      }
+    ],
+    "usage_instructions": "Listo para comer o, como se desee, calentar en el horno, después de quitar el envase, a 200/220C durante 2-3 minutos o en una freidora de aire a 180C durante 3 minutos."
+  },
+  "display_name": "Focaccia con tomates cherry Hacendado",
+  "ean": "8402001031106",
+  "extra_info": [
+    ""
+  ],
+  "id": "12784",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Puede contener <strong>pescado y productos a base de pescado</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>frutos de cáscara</strong>. Puede contener <strong>huevos y productos a base de huevo</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>gb</strong>.",
+    "ingredients": "Harina de <strong>TRIGO (gluten)</strong>, tomates cherry 31,5%, agua, aceite vegetal de girasol refinado alto oleico, aceite de oliva virgen extra, levadura, sal, extracto de maltosa (<strong>CEBADA</strong> <strong>(gluten)</strong>, maíz), especias (romero, salvia, laurel, semillas de hinojo, semillas de cilantro, orégano, pimienta, perejil, ajo, mejorana en proporción variable), aromas. Puede contener trazas de <strong>LECHE</strong> y sus derivados, <strong>HUEVOS, FRUTOS DE CÁSCARA, SOJA, PESCADO</strong>, semillas de <strong>SÉSAMO, MOSTAZA</strong>."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/e9ec4b201edfdcc489e7b32fe2664527.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e9ec4b201edfdcc489e7b32fe2664527.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e9ec4b201edfdcc489e7b32fe2664527.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/3b085ede3dd611bae5761d8f7ea9864f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3b085ede3dd611bae5761d8f7ea9864f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3b085ede3dd611bae5761d8f7ea9864f.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "12.19",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "12.188",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.95",
+    "unit_selector": true,
+    "unit_size": 0.16
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/12784/focaccia-con-tomates-cherry-hacendado-paquete",
+  "slug": "focaccia-con-tomates-cherry-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/e9ec4b201edfdcc489e7b32fe2664527.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

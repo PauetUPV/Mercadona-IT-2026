@@ -1,0 +1,105 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Dj Mariio",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 836,
+              "level": 2,
+              "name": "Lotes hombre",
+              "order": 241
+            }
+          ],
+          "id": 196,
+          "level": 1,
+          "name": "Perfume y colonia",
+          "order": 241
+        }
+      ],
+      "id": 20,
+      "level": 0,
+      "name": "Cuidado facial y corporal",
+      "order": 241
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Dj Mariio",
+    "counter_info": null,
+    "danger_mentions": null,
+    "description": "Lote hombre Dj Mariio contiene eau de toilette 100 ml, desodorante 75 ml y spray bucal 10 ml",
+    "legal_name": null,
+    "mandatory_mentions": null,
+    "origin": null,
+    "production_variant": null,
+    "storage_instructions": null,
+    "suppliers": [],
+    "usage_instructions": null
+  },
+  "display_name": "Lote hombre Dj Mariio",
+  "ean": "8402001033742",
+  "extra_info": [
+    "Nota olfativa Aromática maderada"
+  ],
+  "id": "19939",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": null
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/75412992e44974f897e4e88bd3762f64.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/75412992e44974f897e4e88bd3762f64.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/75412992e44974f897e4e88bd3762f64.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/bc8b8de556016257f20ee8b528bc90a4.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/bc8b8de556016257f20ee8b528bc90a4.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/bc8b8de556016257f20ee8b528bc90a4.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "10.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "10.000",
+    "selling_method": 0,
+    "size_format": "ud",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "10.00",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/19939/lote-hombre-dj-mariio-contiene-eau-toilette-100-ml-desodorante-75-ml-spray-bucal-10-ml-caja",
+  "slug": "lote-hombre-dj-mariio-contiene-eau-toilette-100-ml-desodorante-75-ml-spray-bucal-10-ml-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/75412992e44974f897e4e88bd3762f64.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

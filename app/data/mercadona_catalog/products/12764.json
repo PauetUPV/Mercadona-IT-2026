@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 484,
+              "level": 2,
+              "name": "Aceitunas verdes",
+              "order": 9
+            }
+          ],
+          "id": 135,
+          "level": 1,
+          "name": "Aceitunas y encurtidos",
+          "order": 9
+        }
+      ],
+      "id": 15,
+      "level": 0,
+      "name": "Aperitivos",
+      "order": 9
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Aceitunas verdes rellenas de anchoa Hacendado selección",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Aceitunas verdes rellenas de pasta de anchoa",
+    "mandatory_mentions": "Producto pasteurizado. / Categoría: selecta.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Consumir dentro de los 7 días después de la apertura. Una vez abierto, conservar cerrado en el frigorífico con el máximo de líquido posible. Servir frías.",
+    "suppliers": [
+      {
+        "name": "La Española Alimentaria Alcoyana, S.A."
+      },
+      {
+        "name": "Olispania Aceitunas, S.L."
+      }
+    ],
+    "usage_instructions": "Listo para ser consumido."
+  },
+  "display_name": "Aceitunas verdes rellenas de anchoa Hacendado",
+  "ean": "8402001030895",
+  "extra_info": [
+    ""
+  ],
+  "id": "12764",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>pescado y productos a base de pescado</strong>.",
+    "ingredients": "Aceitunas verdes, pasta de anchoa 6%* (agua, anchoa (<strong>pescado</strong>), espesante: E-401), sal, potenciador del sabor: E-621, acidulantes: E-330 y E-270, antioxidante: E-300. *Referencia al peso neto escurrido."
+  },
+  "origin": null,
+  "packaging": "Bote",
+  "photos": [
+    {
+      "perspective": 3,
+      "regular": "https://prod-mercadona.imgix.net/images/5c5c1e3a579e445bb5d1d5df540b7799.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5c5c1e3a579e445bb5d1d5df540b7799.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5c5c1e3a579e445bb5d1d5df540b7799.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/02950cba6bd4fbd7e0f0b25716dbe1d6.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/02950cba6bd4fbd7e0f0b25716dbe1d6.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/02950cba6bd4fbd7e0f0b25716dbe1d6.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.04",
+    "bunch_selector": false,
+    "drained_weight": 0.35,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "9.572",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.35",
+    "unit_selector": true,
+    "unit_size": 0.83
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/12764/aceitunas-verdes-rellenas-anchoa-hacendado-seleccion-bote",
+  "slug": "aceitunas-verdes-rellenas-anchoa-hacendado-seleccion-bote",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/5c5c1e3a579e445bb5d1d5df540b7799.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

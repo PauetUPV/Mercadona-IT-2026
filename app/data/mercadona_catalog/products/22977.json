@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Cabré & Sabaté",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 795,
+              "level": 2,
+              "name": "Cava brut",
+              "order": 15
+            }
+          ],
+          "id": 174,
+          "level": 1,
+          "name": "Sidra y cava",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": "11.5º",
+    "brand": "Cabré & Sabaté",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Cava brut Cabré & Sabaté",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Vino blanco DOP Cava Brut",
+    "mandatory_mentions": "Apto para veganos.",
+    "origin": "Producto de España",
+    "production_variant": "",
+    "storage_instructions": "Conservación en lugar fresco, protegido de la luz y el ruido.",
+    "suppliers": [
+      {
+        "name": "JAUME SERRA"
+      },
+      {
+        "name": "Jaume Serra"
+      }
+    ],
+    "usage_instructions": "Servir entre 6º y 8ºC"
+  },
+  "display_name": "Cava brut Cabré & Sabaté",
+  "ean": "8480000229779",
+  "extra_info": [
+    null
+  ],
+  "id": "22977",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>dióxido de azufre y sulfitos</strong>.",
+    "ingredients": "Uvas, azúcar, correctores de la acidez (ácido Tartárico[L(+)]), conservadores y antioxidantes (<strong>sulfitos).</strong>"
+  },
+  "origin": "Producto de España",
+  "packaging": "Benjamín",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/ccceddeeae10a1b0f4f5f33bc247221b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ccceddeeae10a1b0f4f5f33bc247221b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ccceddeeae10a1b0f4f5f33bc247221b.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/ec12e7b7d79b40ae6449f88a964ec1df.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ec12e7b7d79b40ae6449f88a964ec1df.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ec12e7b7d79b40ae6449f88a964ec1df.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "8.75",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 21,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "8.750",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.75",
+    "unit_selector": true,
+    "unit_size": 0.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/22977/cava-brut-cabre-sabate-benjamin",
+  "slug": "cava-brut-cabre-sabate-benjamin",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/ccceddeeae10a1b0f4f5f33bc247221b.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

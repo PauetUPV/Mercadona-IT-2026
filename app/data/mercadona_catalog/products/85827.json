@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Susana",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 862,
+              "level": 2,
+              "name": "Base de pizza",
+              "order": 597
+            }
+          ],
+          "id": 138,
+          "level": 1,
+          "name": "Pizzas",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Susana",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Cocas de dacsa Susana congeladas",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Coques de Dacsa",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar a -12 C",
+    "suppliers": [
+      {
+        "name": "Coques de dacsa Susana"
+      }
+    ],
+    "usage_instructions": "Poner al fuego una sarten, con dos gotas de aceite. Cuando esté bien caliente poner la coca sin descongelar, y dorar por una parte y despues darle la vuelta. 1 min aprox. Se consume relleno tanto de dulce como salado."
+  },
+  "display_name": "Cocas de dacsa Susana congeladas",
+  "ean": "2105900858275",
+  "extra_info": [
+    null
+  ],
+  "id": "85827",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "congeladas",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Agua,<strong> harina de</strong> <strong>trigo</strong>, harina de maíz (4%), aceite de girasol y sal"
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/4c86809a84d0c994882066c7d6369900.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4c86809a84d0c994882066c7d6369900.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4c86809a84d0c994882066c7d6369900.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/db6926787a8e5adbc6221e48bc136a52.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/db6926787a8e5adbc6221e48bc136a52.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/db6926787a8e5adbc6221e48bc136a52.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.45",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "3.455",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 10,
+    "unit_name": "ud.",
+    "unit_price": "1.90",
+    "unit_selector": true,
+    "unit_size": 0.55
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/85827/cocas-dacsa-susana-congeladas-paquete",
+  "slug": "cocas-dacsa-susana-congeladas-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/4c86809a84d0c994882066c7d6369900.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

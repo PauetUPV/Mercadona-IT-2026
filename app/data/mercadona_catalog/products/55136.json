@@ -1,0 +1,123 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 292,
+              "level": 2,
+              "name": "Pavo y otros",
+              "order": 159
+            }
+          ],
+          "id": 48,
+          "level": 1,
+          "name": "Aves y jamón cocido",
+          "order": 159
+        },
+        {
+          "categories": [
+            {
+              "id": 301,
+              "level": 2,
+              "name": "Salchichón",
+              "order": 159
+            }
+          ],
+          "id": 51,
+          "level": 1,
+          "name": "Embutido curado",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Longaniza de pavo Imperial extra Hacendado",
+    "legal_name": "Longaniza de pavo Extra con proteínas de la leche",
+    "mandatory_mentions": "Envoltura no comestible. Envasado en atmósfera protectora. 30% MENOS GRASA que una longaniza de CERDO convencional",
+    "origin": "España",
+    "production_variant": "El producto tendrá el RGS España 10.04194/GE CE si se envasa en la planta de producción de Les Planes d'Hostoles, o el RGS España 10.13260/GE CE si se envasa en la planta de producción de Serinyà.",
+    "storage_instructions": "Conservar en un lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Embutidos Monter S.L.U."
+      }
+    ],
+    "usage_instructions": "Abrir el envase 10 minutos antes de consumir el producto."
+  },
+  "display_name": "Longaniza de pavo Imperial extra Hacendado",
+  "ean": "8480000551368",
+  "extra_info": [
+    ""
+  ],
+  "id": "55136",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Carne (137 g para obtener 100 g de producto final) y grasa de pavo, sal, <strong>leche</strong> desnatada en polvo, <strong>lactosa</strong>, dextrina, dextrosa, proteínas de la <strong>leche</strong>, especias, aromas, antioxidante (E-301) y conservadores (E-250, E-252). Tratamiento de superficie: conservadores (E-202, E-235)."
+  },
+  "origin": "España",
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/4093763502649349ae957fce8993e19c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4093763502649349ae957fce8993e19c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4093763502649349ae957fce8993e19c.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/3c2a72dbaf833b07d4f795b1341f38a9.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3c2a72dbaf833b07d4f795b1341f38a9.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3c2a72dbaf833b07d4f795b1341f38a9.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "17.87",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "17.873",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "4.20",
+    "unit_selector": true,
+    "unit_size": 0.235
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/55136/longaniza-pavo-imperial-extra-hacendado-pieza",
+  "slug": "longaniza-pavo-imperial-extra-hacendado-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/4093763502649349ae957fce8993e19c.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

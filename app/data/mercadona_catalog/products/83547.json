@@ -1,0 +1,131 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 320,
+              "level": 2,
+              "name": "Otros panes",
+              "order": 515
+            }
+          ],
+          "id": 60,
+          "level": 1,
+          "name": "Pan de molde y otras especialidades",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pan de molde 12 cereales y semillas Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Pan de molde 12 Cereales y Semillas. Pan de molde",
+    "mandatory_mentions": "Sin lactosa",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco",
+    "suppliers": [
+      {
+        "name": "CEREALTO ANTEQUERA, SL"
+      },
+      {
+        "name": "CEREALTO. CEREALTO ANTEQUERA, SL"
+      },
+      {
+        "name": "Horno de Paterna 2020, S.A.U"
+      },
+      {
+        "name": "MORATO IBERIA S.L.U"
+      },
+      {
+        "name": "Morato Iberia, S.L.U"
+      },
+      {
+        "name": "Morato Iberia, SLU"
+      },
+      {
+        "name": "SIRO PATERNA, SA. La familia"
+      }
+    ],
+    "usage_instructions": "Consejos para mantener el pan más fresco: 1- Conservar la primera rebanada. 2- Cerrar siempre la bolsa después de su utilización. 3- Mantener en lugar fresco y seco (no es necesario guardar en frigorífico)."
+  },
+  "display_name": "Pan de molde 12 cereales y semillas Hacendado",
+  "ean": "8402001026508",
+  "extra_info": [
+    ""
+  ],
+  "id": "83547",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>centeno y productos derivados</strong>. Contiene <strong>go</strong>. Contiene <strong>gb</strong>. Contiene <strong>cereales que contengan gluten</strong>. Puede contener <strong>granos de sésamo y productos a base de granos de sésamo</strong>.",
+    "ingredients": "Harina integral de <strong>trigo </strong>(gluten) (29%), agua, h<strong>arina </strong>de trigo (gluten) (16%), levadura, semillas de <strong>giras</strong>ol (3,8%), trigo troceado <strong>(gluten)</strong> (2,9%), harina de maíz (2,6%), centeno troceado (<strong>glute</strong>n) (2,6%), aceite refinado de girasol (1,5%), sémola de maíz (1,3%),<strong> azúc</strong>ar, gluten de trigo, sal, copos de avena (glut<strong>en) (</strong>0,9%), semillas de lino marrón (0,4%), arroz integral troceado (0,4%), vinagre de vino, avena troc<strong>eada (g</strong>luten) (0,3%), harina de centeno (<strong>gluten) (0</strong>,3%), copos de cebada (gluten) (0,2%), semillas de mij<strong>o (0,2%)</strong>, copos de centeno (gluten) (0,1%), harina de trigo espelta (gluten) (0,1%), triticale troceado (gluten) (0,1%)<strong>, harina de alforfón (0,1%), emulgentes (E-471, E-47</strong>2e), conservadores (E-282, E-200, E-202), antioxidante (E-300). Puede contener trazas de semillas de sésamo, soja y mostaza."
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/bf669c3d9063dfe4e7ba8f105f36b704.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/bf669c3d9063dfe4e7ba8f105f36b704.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/bf669c3d9063dfe4e7ba8f105f36b704.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/9ae959c43549aedb7f30cc0430d431a4.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9ae959c43549aedb7f30cc0430d431a4.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9ae959c43549aedb7f30cc0430d431a4.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.21",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "2.206",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 16,
+    "unit_name": "rebanadas",
+    "unit_price": "1.50",
+    "unit_selector": true,
+    "unit_size": 0.68
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/83547/pan-molde-12-cereales-semillas-hacendado-paquete",
+  "slug": "pan-molde-12-cereales-semillas-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/bf669c3d9063dfe4e7ba8f105f36b704.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

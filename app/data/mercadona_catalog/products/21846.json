@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 886,
+              "level": 2,
+              "name": "Verdura rebozada y otros",
+              "order": 213
+            }
+          ],
+          "id": 884,
+          "level": 1,
+          "name": "Rebozados",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Bocaditos de queso y chile Hot Cheese Hacendado ultracongelados",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Hot Cheese. Piezas de queso fundido y chile jalapeño empanadas y prefritas ultracongeladas.",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Producto ultracongelado. Mantener a -18C. No volver a congelar una vez descongelado.",
+    "suppliers": [
+      {
+        "name": "Audens Food, S.A."
+      }
+    ],
+    "usage_instructions": "Freidora de aire: 1- Precalentar 1 min. a 190ºC, 2 - Introducir el producto congelado, 3 - Freir 6 min. a 190ºC, 4 - Dejar reposar. Horno: 1 - Precalentar a 200ºC, 2 -Introducir el producto congelado, 3 - Hornear 11-12 min. a 200ºC. 4 - Dejar reposar."
+  },
+  "display_name": "Bocaditos de queso y chile Hot Cheese Hacendado ultracongelados",
+  "ean": "8402001052118",
+  "extra_info": [
+    ""
+  ],
+  "id": "21846",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "ultracongelados",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>pescado y productos a base de pescado</strong>. Puede contener <strong>huevos y productos a base de huevo</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Queso fundido (26%) [queso (<strong>leche</strong>), agua, mantequilla (<strong>leche</strong>), almidón modificado, proteínas de la <strong>leche</strong>, sales de fundido (E-331, E-339), suero de <strong>leche</strong>, sal, aroma (contiene <strong>leche</strong>), colorante (E-160a)], agua, pimiento, pan rallado (harina de <strong>trigo</strong> (<strong>gluten</strong>), agua, sal, levadura), almidón modificado, almidón de maíz, preparado para empanar (harina de <strong>trigo</strong> (<strong>gluten</strong>), agua, aceite de oliva, sal, gasificantes (E-450i, E-500ii)), harina de <strong>trigo</strong> (<strong>gluten</strong>), queso (2%) (<strong>leche</strong> pasteurizada, sal, cuajo microbiano, fermentos lácteos, colorante (E-160a)), chile jalapeño (0,5%), sal, aceite refinado de girasol, almidón de <strong>trigo</strong> (<strong>gluten</strong>), estabilizantes (E-461, E-415),  dextrosa, gasificantes (E-500, E-450), especias. Contiene <strong>gluten</strong>, <strong>leche</strong>. Puede contener trazas de: <strong>huevo</strong>, <strong>pescado</strong>, <strong>soja</strong>, <strong>mostaza</strong>."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/f67c1ef7a89bf901033e6df1c8d8db1a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f67c1ef7a89bf901033e6df1c8d8db1a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f67c1ef7a89bf901033e6df1c8d8db1a.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/abc0ffd0d50bae802747c2ad01dea5ad.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/abc0ffd0d50bae802747c2ad01dea5ad.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/abc0ffd0d50bae802747c2ad01dea5ad.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "7.67",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.667",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.30",
+    "unit_selector": true,
+    "unit_size": 0.3
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/21846/bocaditos-queso-chile-hot-cheese-hacendado-ultracongelados-paquete",
+  "slug": "bocaditos-queso-chile-hot-cheese-hacendado-ultracongelados-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/f67c1ef7a89bf901033e6df1c8d8db1a.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

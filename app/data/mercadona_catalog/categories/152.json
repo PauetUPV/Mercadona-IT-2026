@@ -1,0 +1,903 @@
+{
+  "categories": [
+    {
+      "id": 518,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Tartas",
+      "order": 213,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Tarta red velvet Hacendado congelada",
+          "id": "87607",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": null,
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "14.29",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "14.286",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 10,
+            "unit_name": "raciones",
+            "unit_price": "10.00",
+            "unit_selector": true,
+            "unit_size": 0.7
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/87607/tarta-red-velvet-hacendado-congelada-bizcocho-con-crema-queso",
+          "slug": "tarta-red-velvet-hacendado-congelada-bizcocho-con-crema-queso",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/ee87940756d0c87f0a2546c93ad6d18e.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Tarta Ferrer bombón crujiente Hacendado congelada",
+          "id": "87609",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": null,
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "13.38",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "13.381",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 8,
+            "unit_name": "raciones",
+            "unit_price": "9.50",
+            "unit_selector": true,
+            "unit_size": 0.71
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/87609/tarta-ferrer-bombon-crujiente-hacendado-congelada-rellena-con-trufa",
+          "slug": "tarta-ferrer-bombon-crujiente-hacendado-congelada-rellena-con-trufa",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/d9411b738be324270ca21d6f2b789ab1.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Tarta tres chocolates Hacendado congelada",
+          "id": "87599",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": null,
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "10.80",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "10.796",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 8,
+            "unit_name": "raciones",
+            "unit_price": "9.50",
+            "unit_selector": true,
+            "unit_size": 0.88
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/87599/tarta-tres-chocolates-hacendado-congelada-sin-gluten",
+          "slug": "tarta-tres-chocolates-hacendado-congelada-sin-gluten",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/fa6aa84e8f11dc1fa80fe774455e30c3.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Mousse de queso Hacendado congelado",
+          "id": "87601",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": null,
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "15.38",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "15.385",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "raciones",
+            "unit_price": "8.00",
+            "unit_selector": true,
+            "unit_size": 0.52
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/87601/mousse-queso-hacendado-congelado-con-arandanos-sin-gluten",
+          "slug": "mousse-queso-hacendado-congelado-con-arandanos-sin-gluten",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/aac7d8418f95619b694460dded597098.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Tarta de la abuela Hacendado congelada",
+          "id": "14344",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "9.83",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "9.834",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "11.80",
+            "unit_selector": true,
+            "unit_size": 1.2
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14344/tarta-abuela-hacendado-congelada-galleta-con-chocolate-nata-bandeja",
+          "slug": "tarta-abuela-hacendado-congelada-galleta-con-chocolate-nata-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/fd153b2a614b2e4dc90193a63e56fe0a.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Tarta San Marcos Hacendado congelada",
+          "id": "87598",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": null,
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "7.82",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "7.819",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 24,
+            "unit_name": "raciones",
+            "unit_price": "12.90",
+            "unit_selector": true,
+            "unit_size": 1.65
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/87598/tarta-san-marcos-hacendado-congelada-rellena-con-nata",
+          "slug": "tarta-san-marcos-hacendado-congelada-rellena-con-nata",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/99f506287fc7a2de8c37c1df0b225576.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Tarta San Marcos Hacendado congelada",
+          "id": "8687",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": null,
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "12.17",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "12.172",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 8,
+            "unit_name": "raciones",
+            "unit_price": "9.25",
+            "unit_selector": true,
+            "unit_size": 0.76
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/8687/tarta-san-marcos-hacendado-congelada-rellena-con-nata",
+          "slug": "tarta-san-marcos-hacendado-congelada-rellena-con-nata",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/7f23e142ac3e9ef8b99913829dc3d57d.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Tarta selva negra Hacendado congelada",
+          "id": "87602",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": null,
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "7.84",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "7.843",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 30,
+            "unit_name": "raciones",
+            "unit_price": "14.90",
+            "unit_selector": true,
+            "unit_size": 1.9
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/87602/tarta-selva-negra-hacendado-congelada-trufa-crema-cacao",
+          "slug": "tarta-selva-negra-hacendado-congelada-trufa-crema-cacao",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/4ed6f471f7487b6a10a5e8fb1b9dc589.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Trenza hojaldre de mantequilla Hacendado congelada",
+          "id": "87616",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "congelada",
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "15.12",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "15.117",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "6.50",
+            "unit_selector": true,
+            "unit_size": 0.43
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/87616/trenza-hojaldre-mantequilla-hacendado-congelada-bandeja",
+          "slug": "trenza-hojaldre-mantequilla-hacendado-congelada-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/013775bc9301b5808eb9211164fde3de.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Tarta Cookies & Cream Hacendado congelada",
+          "id": "6063",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": null,
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "13.25",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "13.254",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 10,
+            "unit_name": "raciones",
+            "unit_price": "11.00",
+            "unit_selector": true,
+            "unit_size": 0.83
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/6063/tarta-cookies-cream-hacendado-congelada",
+          "slug": "tarta-cookies-cream-hacendado-congelada",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/9e4ebd0f87829bd26e14fff30af45661.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Tarta de queso Hacendado congelada",
+          "id": "9641",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": null,
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "11.36",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "11.364",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 10,
+            "unit_name": "raciones",
+            "unit_price": "10.00",
+            "unit_selector": true,
+            "unit_size": 0.88
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/9641/tarta-queso-hacendado-congelada",
+          "slug": "tarta-queso-hacendado-congelada",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/3b8d87796e76adc7b248bacfbe25d62b.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    },
+    {
+      "id": 859,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Tartas infantiles",
+      "order": 213,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Tarta infantil deportes Hacendado congelada",
+          "id": "17626",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "9.20",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "9.200",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "13.80",
+            "unit_selector": true,
+            "unit_size": 1.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/17626/tarta-infantil-deportes-hacendado-congelada-bandeja",
+          "slug": "tarta-infantil-deportes-hacendado-congelada-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/ba6ee0e908cc96bf1ad8c6bbb4659bc3.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Tarta infantil cantantes Hacendado congelada",
+          "id": "17627",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "9.20",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "9.200",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "13.80",
+            "unit_selector": true,
+            "unit_size": 1.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/17627/tarta-infantil-cantantes-hacendado-congelada-bandeja",
+          "slug": "tarta-infantil-cantantes-hacendado-congelada-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/9375c7272e2daebd710ae0823f32760a.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Tarta infantil Paw Patrol Hacendado congelada",
+          "id": "17628",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "congelada",
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "9.20",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "9.200",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "13.80",
+            "unit_selector": true,
+            "unit_size": 1.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/17628/tarta-infantil-paw-patrol-hacendado-congelada-bandeja",
+          "slug": "tarta-infantil-paw-patrol-hacendado-congelada-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/119c0029a397218b2d475455e5ecfc6c.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    },
+    {
+      "id": 860,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Churros",
+      "order": 213,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Churros Hacendado ultracongelados",
+          "id": "15545",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "ultracongelados",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "3.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.50",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/15545/churros-hacendado-ultracongelados-paquete",
+          "slug": "churros-hacendado-ultracongelados-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/4509b39692e5a9a82df03a3730444e88.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Porras Hacendado congeladas",
+          "id": "15137",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "8.33",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "8.334",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "ud.",
+            "unit_price": "2.00",
+            "unit_selector": true,
+            "unit_size": 0.24
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/15137/porras-hacendado-congeladas-paquete",
+          "slug": "porras-hacendado-congeladas-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/73b27fe176f9e5aedd9a2c6f9219aed0.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Crepes Hacendado ultracongelados",
+          "id": "63528",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "6.13",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "6.125",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 8,
+            "unit_name": "ud.",
+            "unit_price": "2.45",
+            "unit_selector": true,
+            "unit_size": 0.4
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/63528/crepes-hacendado-ultracongelados-caja",
+          "slug": "crepes-hacendado-ultracongelados-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/e559ed055911abfb4c900719db38ac6a.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    }
+  ],
+  "id": 152,
+  "is_extended": false,
+  "layout": 1,
+  "name": "Tartas y churros",
+  "next_category": {
+    "id": 122,
+    "name": "Atún y otras conservas de pescado"
+  },
+  "order": 213,
+  "published": true
+}

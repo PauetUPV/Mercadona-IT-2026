@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 474,
+              "level": 2,
+              "name": "Patatas fritas",
+              "order": 9
+            }
+          ],
+          "id": 132,
+          "level": 1,
+          "name": "Patatas fritas y snacks",
+          "order": 9
+        }
+      ],
+      "id": 15,
+      "level": 0,
+      "name": "Aperitivos",
+      "order": 9
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Patatas fritas sabor limón y pimienta Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Patatas fritas con sabor a limón y pimienta",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Manténgase en un lugar fresco, seco y alejado de la luz. Una vez abierta, cerrar la bolsa y consumir en 3 días.",
+    "suppliers": [
+      {
+        "name": "RUBIO SNACKS"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Patatas fritas sabor limón y pimienta Hacendado",
+  "ean": "8402001021879",
+  "extra_info": [
+    null
+  ],
+  "id": "8246",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Patatas1, aceite refinado de girasol, aceite de oliva y aroma con sabor a limón y pimienta [aroma natural, sal, regulador de acidez (ácido cítrico y ácido tartárico), potenciador del sabor (glutamato monosódico) y pimienta]. 1Origen: UE"
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/78ed4b144e6c7e01e1ff94f47d486bdc.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/78ed4b144e6c7e01e1ff94f47d486bdc.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/78ed4b144e6c7e01e1ff94f47d486bdc.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/329c6058f872129926ee4ebab6c9f940.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/329c6058f872129926ee4ebab6c9f940.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/329c6058f872129926ee4ebab6c9f940.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "8.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "8.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.20",
+    "unit_selector": true,
+    "unit_size": 0.15
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/8246/patatas-fritas-sabor-limon-pimienta-hacendado-paquete",
+  "slug": "patatas-fritas-sabor-limon-pimienta-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/78ed4b144e6c7e01e1ff94f47d486bdc.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 522,
+              "level": 2,
+              "name": "Tarrinas",
+              "order": 213
+            }
+          ],
+          "id": 154,
+          "level": 1,
+          "name": "Helados",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Helado salted caramel Hacendado con salsa de caramelo salado",
+    "legal_name": "Helado crema de caramelo con salsa de caramelo salado (10 %) y trozos de caramelo salado (8 %).",
+    "mandatory_mentions": "Público en general con excepción de las personas alérgicas y/o intolerantes a los alérgenos presentes en el etiquetado.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservación Conservar a temperaturas inferiores a -18ºC",
+    "suppliers": [
+      {
+        "name": "Froneri Ice Cream Deutschland GmbH,"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Helado salted caramel Hacendado con salsa de caramelo salado",
+  "ean": "8480000229960",
+  "extra_info": [
+    ""
+  ],
+  "id": "22996",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>cereales que contengan gluten</strong>. Puede contener <strong>cacahuetes y productos a base de cacahuetes</strong>. Puede contener <strong>frutos de cáscara</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "<strong>Nata</strong> (32 %), <strong>leche</strong> concentrada desnatada reconstituida, salsa de caramelo salado [leche condensada (<strong>leche</strong>, azúcar), agua, jarabe de glucosa, materia grasa <strong>láctea</strong> anhidra, sal (0,15 %), emulgente (monoglicéridos y diglicéridos de ácidos grasos),estabilizante (pectinas)], trozos de caramelo salado [azúcar, <strong>mantequilla</strong>, jarabe de glucosa, grasa de coco, sal (0,08 %), emulgente (lecitinas), gasificante (carbonatos de sodio)], leche condensada (<strong>leche</strong>, azúcar), yema de <strong>huevo</strong>, <strong>leche</strong> desnatada en polvo, jarabe de glucosa, caramelo (1 %) (azúcar, agua, jarabe de glucosa), emulgente(monoglicéridos y diglicéridos de ácidos grasos). Puede contener <strong>cacahuetes</strong>, <strong>frutos de cáscara</strong>, <strong>gluten</strong> y <strong>soja</strong>. Porcentajes expresados sobre el producto acabado"
+  },
+  "origin": null,
+  "packaging": "Bote",
+  "photos": [
+    {
+      "perspective": 3,
+      "regular": "https://prod-mercadona.imgix.net/images/d97bd6a7e1dc54098ded160c8c683708.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d97bd6a7e1dc54098ded160c8c683708.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d97bd6a7e1dc54098ded160c8c683708.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/c198f14da4a3f44a76ed033e0ec602eb.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c198f14da4a3f44a76ed033e0ec602eb.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c198f14da4a3f44a76ed033e0ec602eb.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "6.500",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.25",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/22996/helado-caramelo-con-salsa-caramelo-salado-trozos-caramelo-hacendado-bote",
+  "slug": "helado-caramelo-con-salsa-caramelo-salado-trozos-caramelo-hacendado-bote",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/d97bd6a7e1dc54098ded160c8c683708.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

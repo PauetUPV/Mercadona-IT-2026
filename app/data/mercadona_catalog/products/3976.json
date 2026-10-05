@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 287,
+              "level": 2,
+              "name": "Hamburguesas",
+              "order": 17
+            }
+          ],
+          "id": 44,
+          "level": 1,
+          "name": "Hamburguesas y picadas",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Burger de pavo y espinacas",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "BURGER DE PAVO ESPINACAS 240 G",
+    "mandatory_mentions": "Envasado en atmósfera protectora.",
+    "origin": "España",
+    "production_variant": "Este producto es de peso fijo. Su contenido neto es de 240g.",
+    "storage_instructions": "Conservar refrigerado entre 0 y 4C",
+    "suppliers": [
+      {
+        "name": "PROCAVI S.L"
+      },
+      {
+        "name": "PROCAVI S.L."
+      }
+    ],
+    "usage_instructions": "Una vez abierto consumir preferentemente antes de 24 horas. Cocinar completamente antes de su consumo."
+  },
+  "display_name": "Burger de pavo y espinacas",
+  "ean": "8436039786349",
+  "extra_info": [
+    null
+  ],
+  "id": "3976",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>PREPARADO DE CARNE BURGER MEAT. Ingredientes: carne de pavo (60%), espinacas (19%), agua, proteína de soja, sal, fécula de patatas, cebolla, perejil, ajo, azúcar, dextrina de maíz, cereales, aromas y especias, corrector de acidez (E-338 y E-330), Estabilizante (E-420), conservador (E-221) y antioxidantes (E-301, E331, E-306 y E-304i). Contiene sulfito."
+  },
+  "origin": "España",
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/1d1f1d7f7d3f0498b4d958f493612fdd.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1d1f1d7f7d3f0498b4d958f493612fdd.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1d1f1d7f7d3f0498b4d958f493612fdd.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/93d51beef4403e9aa7cde60e903f2336.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/93d51beef4403e9aa7cde60e903f2336.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/93d51beef4403e9aa7cde60e903f2336.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "10.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "10.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 2,
+    "unit_name": "ud.",
+    "unit_price": "2.40",
+    "unit_selector": true,
+    "unit_size": 0.24
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/3976/burger-pavo-espinacas-bandeja",
+  "slug": "burger-pavo-espinacas-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/1d1f1d7f7d3f0498b4d958f493612fdd.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

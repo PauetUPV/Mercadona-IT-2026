@@ -1,0 +1,940 @@
+{
+  "categories": [
+    {
+      "id": 289,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Arreglos",
+      "order": 17,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Mini pelotas de cerdo y vacuno",
+          "id": "35863",
+          "is_new_arrival": true,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "12.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "12.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "4.13",
+            "unit_selector": true,
+            "unit_size": 0.33
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/35863/mini-pelotas-cerdo-vacuno-bandeja",
+          "slug": "mini-pelotas-cerdo-vacuno-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/d5d24020e45f3bad3cb3873f983c30bc.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Arreglo para puchero vacuno, cerdo y pollo",
+          "id": "3497",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "vacuno, cerdo y pollo",
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "6.70",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "6.700",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "7.44",
+            "unit_selector": true,
+            "unit_size": 1.11
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/3497/arreglo-puchero-vacuno-cerdo-pollo-bandeja",
+          "slug": "arreglo-puchero-vacuno-cerdo-pollo-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/876a3e52b23c6ad5e1aeafec3c2af206.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Arreglo para arroz al horno",
+          "id": "3556",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "7.60",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "7.600",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "5.78",
+            "unit_selector": true,
+            "unit_size": 0.76
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/3556/arreglo-arroz-horno-bandeja",
+          "slug": "arreglo-arroz-horno-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/2d5272785682be97d2306418fb408473.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Pelota para cocido de cerdo",
+          "id": "52782",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "7.25",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "7.250",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.03",
+            "unit_selector": true,
+            "unit_size": 0.28
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/52782/pelota-cocido-cerdo-bandeja",
+          "slug": "pelota-cocido-cerdo-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/614b36b7e356ddf706fca89f3b09d6e8.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Trozo de vacuno para cocido",
+          "id": "2692",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "15.10",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "15.100",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "4.53",
+            "unit_selector": true,
+            "unit_size": 0.3
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/2692/trozo-vacuno-cocido-bandeja",
+          "slug": "trozo-vacuno-cocido-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/bf9788dfae690f81cb7b78582ac97665.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Compango",
+          "id": "53011",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "10.40",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "10.400",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.60",
+            "unit_selector": true,
+            "unit_size": 0.25
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/53011/compango-asturiano-paquete",
+          "slug": "compango-asturiano-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/226b5802f4d919f96a891b0f769c7b7d.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Hueso garrón",
+          "id": "58307",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Pieza",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "4.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "4.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.16",
+            "unit_selector": true,
+            "unit_size": 0.29
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/58307/hueso-garron-incarlopsa-pieza",
+          "slug": "hueso-garron-incarlopsa-pieza",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/1f6928a432081cf7c4bb36c66a4dd305.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Osobuco de cerdo",
+          "id": "2690",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "8.20",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "8.200",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.89",
+            "unit_selector": true,
+            "unit_size": 0.23
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/2690/osobuco-cerdo-bandeja",
+          "slug": "osobuco-cerdo-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/f9a05e66e09bb43beb685e126186a470.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Espinazo de cerdo",
+          "id": "2689",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "7.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "7.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.10",
+            "unit_selector": true,
+            "unit_size": 0.3
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/2689/espinazo-cerdo-bandeja",
+          "slug": "espinazo-cerdo-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/de635ff66d55441719c739295bea6984.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Arreglo para paella con pollo y conejo",
+          "id": "88180",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "7.30",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "7.300",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "6.86",
+            "unit_selector": true,
+            "unit_size": 0.94
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/88180/arreglo-paella-con-pollo-conejo-bandeja",
+          "slug": "arreglo-paella-con-pollo-conejo-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/4aef73e66f565d98399166d3527f0017.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Gallina",
+          "id": "2854",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "5.80",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "5.800",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.94",
+            "unit_selector": true,
+            "unit_size": 0.68
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/2854/cuarto-gallina-bandeja",
+          "slug": "cuarto-gallina-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/3a435a25f201d6f10e93a77329cf70d9.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Manos de cerdo",
+          "id": "2851",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "7.80",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "7.800",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.90",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/2851/manos-cerdo-bandeja",
+          "slug": "manos-cerdo-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/f4fadadb46a1e5864af2836e7fd30667.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Costilla de vacuno",
+          "id": "3499",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "15.30",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "15.300",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.83",
+            "unit_selector": true,
+            "unit_size": 0.25
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/3499/costilla-vacuno-bandeja",
+          "slug": "costilla-vacuno-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/559f907d86bcca16c1ce12dcf21e585f.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Tocino de cerdo",
+          "id": "35805",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "7.80",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "7.800",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.48",
+            "unit_selector": true,
+            "unit_size": 0.19
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/35805/tocino-cerdo-paquete",
+          "slug": "tocino-cerdo-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/6cee93e950f90e9a87c02915720d426c.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Chorizo asturiano",
+          "id": "59154",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "11.20",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "11.200",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.80",
+            "unit_selector": true,
+            "unit_size": 0.25
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/59154/chorizo-asturiano-paquete",
+          "slug": "chorizo-asturiano-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/3d84b1601315da535a58c7b4e0670c99.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Hueso blanco de cerdo salado",
+          "id": "1892",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "5.40",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "5.400",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.89",
+            "unit_selector": true,
+            "unit_size": 0.35
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/1892/hueso-blanco-cerdo-salado-bandeja",
+          "slug": "hueso-blanco-cerdo-salado-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/a130e788eeb23455464b28c63c6210c6.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Rabo de cerdo",
+          "id": "2635",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "8.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "8.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.00",
+            "unit_selector": true,
+            "unit_size": 0.25
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/2635/rabo-cerdo-bandeja",
+          "slug": "rabo-cerdo-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/94363719b9f4f25e12459892d2a18969.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Hueso vacuno",
+          "id": "86330",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "6.20",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "6.200",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.41",
+            "unit_selector": true,
+            "unit_size": 0.55
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/86330/hueso-vacuno-bandeja",
+          "slug": "hueso-vacuno-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/6684b6aea00dcb564133ff7ea4b87e64.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    }
+  ],
+  "id": 46,
+  "is_extended": false,
+  "layout": 1,
+  "name": "Arreglos",
+  "next_category": {
+    "id": 38,
+    "name": "Aves y pollo"
+  },
+  "order": 17,
+  "published": true
+}

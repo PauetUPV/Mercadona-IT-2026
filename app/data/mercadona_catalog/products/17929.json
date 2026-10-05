@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 360,
+              "level": 2,
+              "name": "Con chocolate y rellenas",
+              "order": 18
+            }
+          ],
+          "id": 80,
+          "level": 1,
+          "name": "Galletas",
+          "order": 18
+        }
+      ],
+      "id": 7,
+      "level": 0,
+      "name": "Cereales y galletas",
+      "order": 18
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Galletas rebuenas Hacendado rellenas de chocolate blanco",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Galleta sandwich rellena de crema chocolate",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Almacenar en lugar fresco y seco. Proteger de los rayos solares. Una vez abierto, mantener en las mismas condiciones y cerrar después de cada uso.",
+    "suppliers": [
+      {
+        "name": "GALLETAS GULLON, S.A"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Galletas rebuenas Hacendado rellenas de chocolate blanco",
+  "ean": "8402001057335",
+  "extra_info": [
+    ""
+  ],
+  "id": "17929",
+  "is_bulk": false,
+  "is_new_arrival": true,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "rellenas de chocolate blanco",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>dióxido de azufre y sulfitos</strong>. Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Crema sabor chocolate blanco [azúcar, grasas vegetales (palma, palmiste), suero de <strong>leche</strong> en polvo, manteca de cacao, <strong>leche</strong> en polvo, almidón de <strong>trigo</strong>, emulgente (lecitinas [contienen <strong>soja</strong>]), sal, aroma], harina de <strong>trigo</strong>, azúcar, aceite refinado de girasol alto oleico, cacao desgrasado en polvo [cacao desgrasado en polvo, corrector de acidez (carbonato potásico)], suero de <strong>leche</strong> en polvo, gasificantes (carbonato ácido de amonio, carbonato ácido de sodio), jarabe de glucosa y fructosa, sal, emulgente [lecitinas (<strong>soja</strong>)], proteínas de la <strong>leche</strong>, antioxidante (metabisulfito sódico), <strong>leche</strong> desnatada en polvo. <strong>Puede contener trazas de mostaza.</strong>"
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 3,
+      "regular": "https://prod-mercadona.imgix.net/images/e9d1d6050e0547d549fa52bc6e60391e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e9d1d6050e0547d549fa52bc6e60391e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e9d1d6050e0547d549fa52bc6e60391e.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/318421d911a260cf192e938b642ca205.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/318421d911a260cf192e938b642ca205.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/318421d911a260cf192e938b642ca205.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.90",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "2.900",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.45",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/17929/galletas-rebuenas-hacendado-rellenas-chocolate-blanco-paquete",
+  "slug": "galletas-rebuenas-hacendado-rellenas-chocolate-blanco-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/e9d1d6050e0547d549fa52bc6e60391e.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

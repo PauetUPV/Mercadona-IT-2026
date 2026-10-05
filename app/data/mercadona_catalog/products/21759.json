@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 357,
+              "level": 2,
+              "name": "Barritas de cereales",
+              "order": 18
+            }
+          ],
+          "id": 78,
+          "level": 1,
+          "name": "Cereales",
+          "order": 18
+        }
+      ],
+      "id": 7,
+      "level": 0,
+      "name": "Cereales y galletas",
+      "order": 18
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Barritas de cereales plátano y cacao Hacendado 0% azúcares añadidos",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Barrita de cereales y plátano 0% azúcares añadidos",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco, seco y protegido de la luz",
+    "suppliers": [
+      {
+        "name": "CEREALTO FOODS CORPORATE S.L.U."
+      },
+      {
+        "name": "CEREALTO INDUSTRIAL SPAIN S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Barritas de cereales plátano y cacao Hacendado 0% azúcares añadidos",
+  "ean": "8402001049873",
+  "extra_info": [
+    ""
+  ],
+  "id": "21759",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "0% azúcares añadidos",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>go</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Cereales crujientes (51%) (<strong>trigo</strong> espelta integral (<strong>gluten</strong>), <strong>avena</strong> integral (<strong>gluten</strong>), harina (arroz, trigo (<strong>gluten</strong>)), maíz), fibras vegetales (achicoria, garbanzo, maíz), dados de plátano (7%) (puré concentrado de manzana, puré concentrado de plátano (0,7%), gelificante (pectina), fibra de cítricos, aroma), humectante (glicerina), aceite refinado de girasol alto oleico, cacao desgrasado en polvo (0,5%), sal, emulgente (lecitina de <strong>soja</strong>), aromas, corrector de la acidez (ácido cítrico), antioxidante (extracto rico en tocoferoles). <strong>Puede contener trazas de frutos de cáscara, leche, huevos y mostaza</strong>. Contiene azúcares naturalmente presentes."
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/0b1cb7ce015f70ca741f498a0a092fe0.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0b1cb7ce015f70ca741f498a0a092fe0.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0b1cb7ce015f70ca741f498a0a092fe0.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/91a2841d2b867acab20f627c0c9f8848.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/91a2841d2b867acab20f627c0c9f8848.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/91a2841d2b867acab20f627c0c9f8848.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "13.75",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "13.750",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 6,
+    "unit_name": "barritas",
+    "unit_price": "1.65",
+    "unit_selector": true,
+    "unit_size": 0.12
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/21759/barritas-cereales-hacendado-sabor-platano-0-azucares-anadidos-caja",
+  "slug": "barritas-cereales-hacendado-sabor-platano-0-azucares-anadidos-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/0b1cb7ce015f70ca741f498a0a092fe0.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,129 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 353,
+              "level": 2,
+              "name": "Nata",
+              "order": 373
+            }
+          ],
+          "id": 75,
+          "level": 1,
+          "name": "Mantequilla y margarina",
+          "order": 373
+        }
+      ],
+      "id": 6,
+      "level": 0,
+      "name": "Huevos, leche y mantequilla",
+      "order": 373
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Nata para montar Hacendado",
+    "legal_name": "Nata UHT para montar",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "Variante",
+    "storage_instructions": "Conservar en un lugar fresco y seco. Una vez abierto el envase, conservar en el frigorífico y consumir antes de 3 días. Agitar antes de usar.",
+    "suppliers": [
+      {
+        "name": "Corporación Alimentaria Peñasanta,"
+      },
+      {
+        "name": "Distribuido por: Mercadona S.A."
+      },
+      {
+        "name": "Iparlat, S.A."
+      }
+    ],
+    "usage_instructions": "PREPARACIÓN: La nata debe permanecer en el frigorífico (3ºC-8ºC) al menos 24 horas antes de su montado (no congelar). Colocar el recipiente para montar durante 15 minutos en el congelador. Llenar el recipiente hasta 1/3 de su capacidad. Montar (el tiempo varía con la potencia de la batidora). Añadir azúcar al gusto del consumidor hacia el final del montado. Una vez montada la nata, conservar en el frigorífico y consumir antes de 24 horas. Agitar antes de usar."
+  },
+  "display_name": "Nata para montar Hacendado",
+  "ean": "8402001017742",
+  "extra_info": [
+    null
+  ],
+  "id": "10276",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>x99</strong>.",
+    "ingredients": "<strong>Nata</strong> y estabilizantes (carragenanos, E 451, celulosa y E 466)."
+  },
+  "origin": "España",
+  "packaging": "Brik",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/016b6b32c05e1f972273bf8dbf2b2f8a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/016b6b32c05e1f972273bf8dbf2b2f8a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/016b6b32c05e1f972273bf8dbf2b2f8a.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/52ec214c2e7d4bdc3b0508dd44b6da5c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/52ec214c2e7d4bdc3b0508dd44b6da5c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/52ec214c2e7d4bdc3b0508dd44b6da5c.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/8652133628f7f6e19ed1d84764110181.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8652133628f7f6e19ed1d84764110181.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8652133628f7f6e19ed1d84764110181.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/4a913850d1048114b119dd1f6e7989b7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4a913850d1048114b119dd1f6e7989b7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4a913850d1048114b119dd1f6e7989b7.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.90",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "3.900",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.95",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/10276/nata-montar-hacendado-brick",
+  "slug": "nata-montar-hacendado-brick",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/016b6b32c05e1f972273bf8dbf2b2f8a.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

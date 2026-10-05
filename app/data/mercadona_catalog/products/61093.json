@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 826,
+              "level": 2,
+              "name": "Fruta",
+              "order": 213
+            }
+          ],
+          "id": 145,
+          "level": 1,
+          "name": "Fruta y verdura",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Arándanos enteros Hacendado ultracongelados",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Arándanos ultracongelado",
+    "mandatory_mentions": "",
+    "origin": "Marruecos",
+    "production_variant": "",
+    "storage_instructions": "En congelador: Sin estrellas 3 días. Una estrella 1 semana. Dos estrellas 1 mes. Tres o cuatro estrellas ver fecha de consumo preferente.",
+    "suppliers": [
+      {
+        "name": "Crop's Fruits NV"
+      },
+      {
+        "name": "Mercadona S.A."
+      }
+    ],
+    "usage_instructions": "Para elaboraciones calientes: utilizar sin descongelar. Para elaboraciones frías: utilizar a conveniencia. Si desea consumirlo descongelado introduzca la fruta en el frigorífico  durante 5 horas colocándola sobre un plato a una sola capa."
+  },
+  "display_name": "Arándanos enteros Hacendado ultracongelados",
+  "ean": "8480000610935",
+  "extra_info": [
+    null
+  ],
+  "id": "61093",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "ultracongelados",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "100% Arándanos"
+  },
+  "origin": "Marruecos",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/816d6a2275f1cada7d00c665d6a371bf.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/816d6a2275f1cada7d00c665d6a371bf.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/816d6a2275f1cada7d00c665d6a371bf.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/083b7c4d1f38a09d42181d3cd577e0eb.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/083b7c4d1f38a09d42181d3cd577e0eb.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/083b7c4d1f38a09d42181d3cd577e0eb.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "7.17",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.167",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.15",
+    "unit_selector": true,
+    "unit_size": 0.3
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/61093/arandanos-enteros-hacendado-ultracongelados-paquete",
+  "slug": "arandanos-enteros-hacendado-ultracongelados-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/816d6a2275f1cada7d00c665d6a371bf.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

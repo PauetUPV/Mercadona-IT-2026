@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 316,
+              "level": 2,
+              "name": "Barra de pan",
+              "order": 515
+            }
+          ],
+          "id": 59,
+          "level": 1,
+          "name": "Pan de horno",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "2 Baguettes para hornear",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Pan precocido envasado en atmósfera protectora",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Consérvese en lugar fresco y seco. Una vez descongelado no volver a congelar. Envasado en atmósfera protectora",
+    "suppliers": [
+      {
+        "name": "Panificadora de Alcalá S. L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "2 Baguettes para hornear",
+  "ean": "8480000602350",
+  "extra_info": [
+    null
+  ],
+  "id": "60235",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>mostaza y productos derivados</strong>.",
+    "ingredients": "Harina de <strong>trigo</strong> (<strong>gluten</strong>), agua, masa madre de trigo natural 15% (<strong>gluten</strong>),levaura, sal, masa madre de trigo inactiva (<strong>gluten</strong>), antioxidante: ácido ascórbico, conservador: E-262. Puede contener trazas de <strong>soja</strong> y <strong>mostaza</strong>"
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/724bbd112c2835ae8ecdd3a72f08af70.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/724bbd112c2835ae8ecdd3a72f08af70.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/724bbd112c2835ae8ecdd3a72f08af70.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/32395480fc082bbb36be5693679ce10b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/32395480fc082bbb36be5693679ce10b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/32395480fc082bbb36be5693679ce10b.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.33",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "4.334",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 2,
+    "unit_name": "ud.",
+    "unit_price": "1.30",
+    "unit_selector": true,
+    "unit_size": 0.3
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/60235/2-baguettes-hornear-paquete",
+  "slug": "2-baguettes-hornear-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/724bbd112c2835ae8ecdd3a72f08af70.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

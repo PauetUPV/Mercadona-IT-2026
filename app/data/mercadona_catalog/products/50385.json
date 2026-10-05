@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 310,
+              "level": 2,
+              "name": "Queso lonchas",
+              "order": 159
+            }
+          ],
+          "id": 56,
+          "level": 1,
+          "name": "Queso lonchas, rallado y en porciones",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Queso lonchas tierno mezcla Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Queso de mezcla madurado",
+    "mandatory_mentions": "Sin conservantes ni colorantes.Origen de la leche: España",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Bajo atmósfera modificada. Conservar en frío. Se recomienda abrir el envase 15 minutos antes de su consumo y una vez abierto consumir antes de 5 días.",
+    "suppliers": [
+      {
+        "name": "Queserías Entrepinares S.A.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Queso lonchas tierno mezcla Hacendado",
+  "ean": "2105600503857",
+  "extra_info": [
+    ""
+  ],
+  "id": "50385",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Libre de <strong>huevos y productos a base de huevo</strong>. Libre de <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "<strong>Leche</strong> pasteurizada de: [vaca(min. 60%), oveja (min. 15%), cabra (min. 10%]), sal, cuajo y fermentos lácticos. SIN GLUTEN, SIN HUEVO"
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/64c70ea48d0a710780a67971c70f7e54.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/64c70ea48d0a710780a67971c70f7e54.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/64c70ea48d0a710780a67971c70f7e54.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/9bdaaf9eb58e04955c047e50030f057b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9bdaaf9eb58e04955c047e50030f057b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9bdaaf9eb58e04955c047e50030f057b.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "9.95",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "9.950",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 10,
+    "unit_name": "lonchas",
+    "unit_price": "2.49",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/50385/queso-lonchas-tierno-mezcla-entrepinares-paquete",
+  "slug": "queso-lonchas-tierno-mezcla-entrepinares-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/64c70ea48d0a710780a67971c70f7e54.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

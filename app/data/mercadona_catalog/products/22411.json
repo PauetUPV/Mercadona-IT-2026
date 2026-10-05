@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 467,
+              "level": 2,
+              "name": "Conservas verdura",
+              "order": 215
+            }
+          ],
+          "id": 127,
+          "level": 1,
+          "name": "Conservas de verdura y frutas",
+          "order": 215
+        }
+      ],
+      "id": 14,
+      "level": 0,
+      "name": "Conservas, caldos y cremas",
+      "order": 215
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Verduras asadas Hacendado",
+    "legal_name": "Verduras Asadas",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en frío entre 1ºC y 4ºC",
+    "suppliers": [
+      {
+        "name": "Elaborados Naturales de la Ribera, S.L."
+      }
+    ],
+    "usage_instructions": "MODO DE PREPARACIÓN: En frío: producto listo para consumir, sírvase frío. En caliente: perforar el envase y calentar 1 minuto a 800W de potencia."
+  },
+  "display_name": "Verduras asadas Hacendado",
+  "ean": "8480000224118",
+  "extra_info": [
+    ""
+  ],
+  "id": "22411",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Pimiento (34%), cebolla (31%), berenjena (30%), aceite refinado de girasol, aceite de oliva virgen y sal."
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/b7df739e3d54b14c67b1fc80dc20a509.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b7df739e3d54b14c67b1fc80dc20a509.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b7df739e3d54b14c67b1fc80dc20a509.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/f6cda3353c948b084dfccf74c68e8eb1.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f6cda3353c948b084dfccf74c68e8eb1.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f6cda3353c948b084dfccf74c68e8eb1.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "10.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "10.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.90",
+    "unit_selector": true,
+    "unit_size": 0.29
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/22411/verduras-asadas-hacendado-bandeja",
+  "slug": "verduras-asadas-hacendado-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/b7df739e3d54b14c67b1fc80dc20a509.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

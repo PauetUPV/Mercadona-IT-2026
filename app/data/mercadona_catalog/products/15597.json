@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 360,
+              "level": 2,
+              "name": "Con chocolate y rellenas",
+              "order": 18
+            }
+          ],
+          "id": 80,
+          "level": 1,
+          "name": "Galletas",
+          "order": 18
+        }
+      ],
+      "id": 7,
+      "level": 0,
+      "name": "Cereales y galletas",
+      "order": 18
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Galletas de cacao Caocream Hacendado rellenas de crema",
+    "legal_name": "Galleta de cacao rellena de crema",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Almacenar en lugar fresco y seco. Proteger de los rayos solares. Una vez abierto, mantener en las mismas condiciones y cerrar después de cada uso.",
+    "suppliers": [
+      {
+        "name": "GALLETAS GULLON, S.A"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Galletas de cacao Caocream Hacendado rellenas de crema",
+  "ean": "8480000155979",
+  "extra_info": [
+    ""
+  ],
+  "id": "15597",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>mostaza y productos derivados</strong>. Contiene <strong>soja y productos a base de soja</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Harina de <strong>trigo</strong>, crema 29% [azúcar, almidón de <strong>trigo</strong>, grasa vegetal (palma y palmiste), aroma, emulgente (lecitina de <strong>soja</strong>), aroma natural], azúcar, aceite vegetal (girasol alto oleico), cacao desgrasado en polvo 5% (con correctores de acidez: carbonato potásico y carbonato sódico), gasificantes (carbonato ácido de sodio, carbonato ácido de amonio), sal, emulgente (lecitina de <strong>soja</strong>), aroma. <strong>Puede contener trazas de leche y mostaza</strong>."
+  },
+  "origin": "España",
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/e5fba1c4e9d6ade8b5cae4227093475e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e5fba1c4e9d6ade8b5cae4227093475e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e5fba1c4e9d6ade8b5cae4227093475e.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/3bbb798e7e63717ac377458b9e610a79.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3bbb798e7e63717ac377458b9e610a79.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3bbb798e7e63717ac377458b9e610a79.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.52",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "3.523",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 10,
+    "unit_name": "paquetes",
+    "unit_price": "1.55",
+    "unit_selector": true,
+    "unit_size": 0.44
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/15597/galletas-caocream-hacendado-rellenas-crema-caja",
+  "slug": "galletas-caocream-hacendado-rellenas-crema-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/e5fba1c4e9d6ade8b5cae4227093475e.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,118 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 255,
+              "level": 2,
+              "name": "Ensalada preparada",
+              "order": 306
+            }
+          ],
+          "id": 28,
+          "level": 1,
+          "name": "Lechuga y ensalada preparada",
+          "order": 306
+        }
+      ],
+      "id": 1,
+      "level": 0,
+      "name": "Fruta y verdura",
+      "order": 306
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Ensalada queso de cabra compuesta por brotes, manzana, queso de cabra, frutos secos y vinagreta balsámica, incluye tenedor",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Comida preparada a base de hortalizas frescas, manzana, queso de cabra, frutos secos y vinagreta.",
+    "mandatory_mentions": "Envasado en atmósfera protectora. Incluye tenedor.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Para apreciar mejor sus cualidades se recomienda consumirlo todo una vez abierto el envase. Conservar entre 1 y 4°C.",
+    "suppliers": [
+      {
+        "name": "Verdifresh, S.L.U."
+      }
+    ],
+    "usage_instructions": "ABRE, MEZCLA ¡Y LISTO!"
+  },
+  "display_name": "Ensalada queso de cabra",
+  "ean": "8480000694744",
+  "extra_info": [
+    ""
+  ],
+  "id": "69474",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>sw</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>dióxido de azufre y sulfitos</strong>. Contiene <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Contiene <strong>cacahuetes y productos a base de cacahuetes</strong>. Contiene <strong>frutos de cáscara</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>pescado y productos a base de pescado</strong>.",
+    "ingredients": "Mezcla de hortalizas en proporción variable 31% (mezcla de brotes(lechuga Batavia verde, lechuga Batavia roja y lechuga Lollo rosso), brotes de espinaca y rúcula), vinagreta balsámica 24% (agua, vinagre balsámico de Módena (vinagre de vino, mosto de uva concentrado, mosto de uva cocido, colorante (E150d)y conservador (<strong>Metabisulfito potásico</strong>)), azúcar, aceite de oliva, sal, colorante (E150d), estabilizante (E414), correctores de la acidez (E262 y E500) y conservador (E202)), manzana roja* 18% (manzana roja y antioxidante (ascorbato de calcio)), <strong>queso</strong> de cabra fresco* 15% (<strong>leche</strong> de cabra pasteurizada, cuajo, sal, antiaglomerante (E460ii)), fibra cítrica y conservador (E202)), <strong>nueces</strong>* 6% y uvas pasas* 5% (uvas pasas y aceite de algodón). Trazas de <strong>cacahuetes</strong>, <strong>frutos de cáscara</strong>, <strong>sésamo</strong>, <strong>soja</strong>, <strong>pescado</strong>, <strong>sulfitos</strong> y <strong>gluten</strong>."
+  },
+  "origin": null,
+  "packaging": "Bol",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/bc6e6327f48aa24e184e5a2df7bc3c85.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/bc6e6327f48aa24e184e5a2df7bc3c85.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/bc6e6327f48aa24e184e5a2df7bc3c85.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/822cb5d1896135aade3e82addb60eb9b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/822cb5d1896135aade3e82addb60eb9b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/822cb5d1896135aade3e82addb60eb9b.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/7316a25d6969f2ee2572e7bd184bad86.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7316a25d6969f2ee2572e7bd184bad86.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7316a25d6969f2ee2572e7bd184bad86.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "18.30",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "18.301",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.80",
+    "unit_selector": true,
+    "unit_size": 0.153
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/69474/ensalada-queso-cabra-compuesta-brotes-manzana-queso-cabra-frutos-secos-vinagreta-balsamica-incluye-tenedor-bol",
+  "slug": "ensalada-queso-cabra-compuesta-brotes-manzana-queso-cabra-frutos-secos-vinagreta-balsamica-incluye-tenedor-bol",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/bc6e6327f48aa24e184e5a2df7bc3c85.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

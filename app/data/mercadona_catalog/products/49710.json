@@ -1,0 +1,107 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Bosque Verde",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 838,
+              "level": 2,
+              "name": "Servilletas",
+              "order": 374
+            }
+          ],
+          "id": 238,
+          "level": 1,
+          "name": "Papel higiénico y celulosa",
+          "order": 374
+        }
+      ],
+      "id": 26,
+      "level": 0,
+      "name": "Limpieza y hogar",
+      "order": 374
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": "",
+    "brand": "Bosque Verde",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Servilleta papel decorada Resistente Bosque Verde 2 capas 33 x 32 cm",
+    "legal_name": "",
+    "mandatory_mentions": "",
+    "origin": "",
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [],
+    "usage_instructions": ""
+  },
+  "display_name": "Servilleta papel decorada Resistente Bosque Verde",
+  "ean": "8480000497109",
+  "extra_info": [
+    null
+  ],
+  "id": "49710",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "",
+    "ingredients": ""
+  },
+  "origin": "",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/be92c287be9f035ad4938c6280743b42.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/be92c287be9f035ad4938c6280743b42.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/be92c287be9f035ad4938c6280743b42.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/c99d41f814381c3bfa3bf465afb91b25.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c99d41f814381c3bfa3bf465afb91b25.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c99d41f814381c3bfa3bf465afb91b25.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "0.02",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "0.021",
+    "selling_method": 0,
+    "size_format": "ud",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.05",
+    "unit_selector": true,
+    "unit_size": 100.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/49710/servilleta-papel-decorada-resistente-bosque-verde-2-capas-33-x-32-cm-paquete",
+  "slug": "servilleta-papel-decorada-resistente-bosque-verde-2-capas-33-x-32-cm-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/be92c287be9f035ad4938c6280743b42.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

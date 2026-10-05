@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 283,
+              "level": 2,
+              "name": "Vacuno",
+              "order": 17
+            }
+          ],
+          "id": 40,
+          "level": 1,
+          "name": "Vacuno",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Churrasquito de vacuno añojo",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "CHURRASQUITO",
+    "mandatory_mentions": "Envasado al vacio",
+    "origin": null,
+    "production_variant": "Producto de peso variable, el contenido neto puede oscilar entre 150g y 200g",
+    "storage_instructions": "Conservar de 0 a 5C. Una vez abierto consumir en 24 horas",
+    "suppliers": [
+      {
+        "name": "Elaborados Cárnicos Medina S.A.U."
+      }
+    ],
+    "usage_instructions": "Cocinar completamente antes de su consumo. Se recomienda cocinado en sarten/plancha a fuego medio-alto 3 minutos aproximadamente (girantdo ambos lados), en horno 10 minutos a 200ºC o en freidora sin aceite (airfryer) 6 minutos a 200ºC."
+  },
+  "display_name": "Churrasquito de vacuno añojo",
+  "ean": "8436569263570",
+  "extra_info": [
+    ""
+  ],
+  "id": "14485",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": "añojo",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "CHURRASQUITO"
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/ca671a930747bd720275ab34ee0ecfc3.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ca671a930747bd720275ab34ee0ecfc3.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ca671a930747bd720275ab34ee0ecfc3.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/50c44342c6aaf5c49ee8925be7f2c4f4.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/50c44342c6aaf5c49ee8925be7f2c4f4.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/50c44342c6aaf5c49ee8925be7f2c4f4.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "21.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "21.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.55",
+    "unit_selector": true,
+    "unit_size": 0.165
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/14485/churrasquito-vacuno-anojo-bandeja",
+  "slug": "churrasquito-vacuno-anojo-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/ca671a930747bd720275ab34ee0ecfc3.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

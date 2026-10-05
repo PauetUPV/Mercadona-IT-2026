@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 825,
+              "level": 2,
+              "name": "Queso semicurado",
+              "order": 159
+            }
+          ],
+          "id": 54,
+          "level": 1,
+          "name": "Queso curado, semicurado y tierno",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Queso semicurado sin lactosa mezcla Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Queso de mezcla madurado",
+    "mandatory_mentions": "Corteza plástica no comestible: Contiene conservadores (E-202 y E-235) y colorantes (E-153)\tOrigen de la leche: España",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Mantener en refrigeración.Se recomienda sacar del frío 15 minutos antes de consumir.",
+    "suppliers": [
+      {
+        "name": "Queserías Entrepinares S.A.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Queso semicurado sin lactosa mezcla Hacendado",
+  "ean": "8402001059742",
+  "extra_info": [
+    null
+  ],
+  "id": "50941",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Libre de <strong>huevos y productos a base de huevo</strong>. Libre de <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "<strong>Leche </strong>[pasteurizada de vaca (50%*), pasteurizada de oveja (20%*), pasteurizada de cabra (15%*)], sal, lactasa, cuajo**, estabilizante (cloruro cálcico) y fermentos lácticos. SIN GLUTEN, SIN HUEVO. *Promedios mínimos. **Origen no animal.<p>Contenido en lactosa &lt;0,01%. No apto para alérgicos a la proteína de leche."
+  },
+  "origin": null,
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/72d74e624439e4a4cff9da77eea90c6b.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/72d74e624439e4a4cff9da77eea90c6b.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/72d74e624439e4a4cff9da77eea90c6b.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/3ba90a59b2dfd960b3f7d83a0e071997.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3ba90a59b2dfd960b3f7d83a0e071997.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3ba90a59b2dfd960b3f7d83a0e071997.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "13.10",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 4,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "13.100",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "5.63",
+    "unit_selector": true,
+    "unit_size": 0.43
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/50941/queso-semicurado-sin-lactosa-mezcla-hacendado-pieza",
+  "slug": "queso-semicurado-sin-lactosa-mezcla-hacendado-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/72d74e624439e4a4cff9da77eea90c6b.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

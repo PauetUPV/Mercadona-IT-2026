@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": true,
+    "requires_age_check": false
+  },
+  "brand": "Lanjarón",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 525,
+              "level": 2,
+              "name": "Agua sin gas",
+              "order": 8
+            }
+          ],
+          "id": 156,
+          "level": 1,
+          "name": "Agua",
+          "order": 8
+        }
+      ],
+      "id": 18,
+      "level": 0,
+      "name": "Agua y refrescos",
+      "order": 8
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Lanjarón",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Agua mineral grande Lanjarón mineralización débil",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Agua Mineral Natural de mineralización débil. Indicada para la preparación de alimentos infantiles y dietas pobres en sodio.",
+    "mandatory_mentions": "Exija que se abra la botella en su presencia. Por su seguridad, no reutilizar este envase.",
+    "origin": "Manantial Salud (Lanjarón - Granada)",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar limpio, fresco y seco. Proteger de la luz solar y de olores agresivos. Evitar contacto directo con el suelo. Exija que se abra la botella en su presencia. Por su seguridad, no reutilizar este envase. Una vez abierto el envase mantener en frío y consumir en los 2-3 días siguientes a su apertura. Evitar contacto directo con el suelo. No reutilizar este envase. Consumir preferentemente antes de la fecha indicada en el lote (ver botella)",
+    "suppliers": [
+      {
+        "name": "AGUAS FONT VELLA Y LANJARON S.A."
+      },
+      {
+        "name": "Aguas Danone, S.A."
+      }
+    ],
+    "usage_instructions": "El agua contribuye a mantener las funciones físicas y cognitivas normales con una ingesta diaria de al menos 2L de agua al día, procedente de cualquier fuente. Es importante una dieta variada y equilibrada y un estilo de vida saludable."
+  },
+  "display_name": "Agua mineral grande Lanjarón",
+  "ean": "8410728180120",
+  "extra_info": [
+    ""
+  ],
+  "id": "27216",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Composición (en mg/L):  Bicarbonatos 108  Calcio 28,9  Magnesio 11,4  Sodio 5,9. Conductividad (uS/cm) 200 (CNTA-2018)"
+  },
+  "origin": "Manantial Salud (Lanjarón - Granada)",
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/d78cbd348d580e41e5f944591acd1f3b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d78cbd348d580e41e5f944591acd1f3b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d78cbd348d580e41e5f944591acd1f3b.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/5b2b24f38909346534f79c9258f840c6.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5b2b24f38909346534f79c9258f840c6.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5b2b24f38909346534f79c9258f840c6.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "0.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.0,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "0.500",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.75",
+    "unit_selector": true,
+    "unit_size": 1.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/27216/agua-mineral-grande-lanjaron-botella",
+  "slug": "agua-mineral-grande-lanjaron-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/d78cbd348d580e41e5f944591acd1f3b.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

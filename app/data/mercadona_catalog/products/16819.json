@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Atardecer",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 571,
+              "level": 2,
+              "name": "Rioja y otras denominaciones",
+              "order": 15
+            }
+          ],
+          "id": 170,
+          "level": 1,
+          "name": "Vino blanco",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": "13.5º",
+    "brand": "Atardecer",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Vino blanco Chardonnay Atardecer DO Somontano",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Vino blanco",
+    "mandatory_mentions": "Variedad Chardonnay",
+    "origin": "Denominación de Origen Somontano",
+    "production_variant": "Añada 2023",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "Bodegas Viñas del Vero"
+      },
+      {
+        "name": "Viñas del Vero"
+      }
+    ],
+    "usage_instructions": "Temperatura de consumo recomendada 7º-9º C"
+  },
+  "display_name": "Vino blanco Chardonnay Atardecer DO Somontano",
+  "ean": "8480000168191",
+  "extra_info": [
+    ""
+  ],
+  "id": "16819",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "DO Somontano",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>dióxido de azufre y sulfitos</strong>.",
+    "ingredients": "Uva, correctores de la acidez (ácido Tartárico[L(+)]), conservadores y antioxidantes (<strong>anhídrido sulfuroso),</strong>(ácido L(+) ascórbico), activadores de fermentación alcohólica y maloláctica(bis<strong>ulfito </strong>de amonio), agentes estabilizantes (ácido cítrico). C<strong>ontiene sulfitos</strong>"
+  },
+  "origin": "Denominación de Origen Somontano",
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/df7832fa0e148731a08e10be0d007c6a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/df7832fa0e148731a08e10be0d007c6a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/df7832fa0e148731a08e10be0d007c6a.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/9bd65f1907c9281c918f20f349d7be4a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9bd65f1907c9281c918f20f349d7be4a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9bd65f1907c9281c918f20f349d7be4a.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.80",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "4.800",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.60",
+    "unit_selector": true,
+    "unit_size": 0.75
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/16819/vino-blanco-do-somontano-atardecer-chardonnay-botella",
+  "slug": "vino-blanco-do-somontano-atardecer-chardonnay-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/df7832fa0e148731a08e10be0d007c6a.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

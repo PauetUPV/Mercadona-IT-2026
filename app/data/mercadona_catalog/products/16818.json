@@ -1,0 +1,137 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 518,
+              "level": 2,
+              "name": "Tartas",
+              "order": 213
+            }
+          ],
+          "id": 152,
+          "level": 1,
+          "name": "Tartas y churros",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 837,
+              "level": 2,
+              "name": "Pastelería",
+              "order": 515
+            }
+          ],
+          "id": 68,
+          "level": 1,
+          "name": "Tartas y pasteles",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Tarta corazón crujiente San Valentín Hacendado congelada",
+    "legal_name": "PRODUCTO DE PASTELERÍA CONGELADO",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Producto congelado. Mantener la cadena de frío a -18ºC. Al descogelar, conservar un máximo de 48 horas en nevera (2-6ºC). No volver a congelar una vez descongelado",
+    "suppliers": [
+      {
+        "name": "PASTISFRED, S.L.U"
+      }
+    ],
+    "usage_instructions": "MODO DESCONGELACIÓN: 3 horas y 45 minutos en nevera o 2 horas y 15 minutos a temperatura ambiente. No volver a congelar una vez descongelado."
+  },
+  "display_name": "Tarta corazón crujiente San Valentín Hacendado congelada",
+  "ean": "8480000168184",
+  "extra_info": [
+    ""
+  ],
+  "id": "16818",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>gb</strong>. Contiene <strong>soja y productos a base de soja</strong>. Puede contener <strong>cacahuetes y productos a base de cacahuetes</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Contiene <strong>frutos de cáscara</strong>. Puede contener <strong>st</strong>. Puede contener <strong>sw</strong>. Contiene <strong>sh</strong>. Puede contener <strong>sa</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Relleno con nata (45%) (<strong>nata (leche)</strong>, <strong>mazada (leche)</strong>, azúcar, agua, grasa vegetal de palmiste totalmente hidrogenada, suero de <strong>leche</strong> en polvo, dextrosa, espesante (almidón modificado), maltodextrina, gelatina, <strong>lactosa (leche)</strong>, emulgentes (lecitina de <strong>soja</strong>, E-435, E-471), estabilizantes (goma xantana, carragenato), aromas, sal), bizcocho calado (21%) (agua, azúcar, <strong>huevo</strong>, harina de <strong>trigo (gluten)</strong>, jarabe de glucosa y fructosa, <strong>leche</strong> en polvo, maltodextrina, emulgentes (E-471, E-477), gasificantes (E-450i, E- 500ii), conservador (ácido sórbico), sal, corrector de acidez (ácido cítrico)), brillo rojo (18%) (jarabe de glucosa, yema de<strong> huevo</strong>, agua, azúcar, caramelo, estabilizantes (E-422, E-440), conservador (E-202), colorantes (E-160b(ii), E-129 (puede tener efectos negativos sobre la actividad y la atención de los niños)), aroma), relleno de crema de cacao (10%) (azúcar, aceite refinado de girasol, galleta fina troceada (harina de <strong>trigo (gluten)</strong>, azúcar, grasa <strong>láctea (leche)</strong> anhidra,<strong> leche </strong>desnatada en polvo, harina de <strong>cebada (gluten)</strong>, sal), <strong>avellana</strong>,<strong> leche </strong>desnatada en polvo, cacao desgrasado en polvo, emulgente (lecitina de <strong>soja</strong>), aroma, antioxidante (extracto de romero)), aceite refinado de girasol. Puede contener trazas de <strong>cacahuete</strong> y otros <strong>frutos de cáscara</strong>."
+  },
+  "origin": "España",
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 10,
+      "regular": "https://prod-mercadona.imgix.net/images/7adc084ce9d2764c8943fb8c35d8a53f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7adc084ce9d2764c8943fb8c35d8a53f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7adc084ce9d2764c8943fb8c35d8a53f.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/590eee03c8cfd634b13c644f85d068a4.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/590eee03c8cfd634b13c644f85d068a4.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/590eee03c8cfd634b13c644f85d068a4.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/9e85ccfc32f817d02a44c95ffaaa10f2.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9e85ccfc32f817d02a44c95ffaaa10f2.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9e85ccfc32f817d02a44c95ffaaa10f2.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "21.88",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "21.875",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "7.00",
+    "unit_selector": true,
+    "unit_size": 0.32
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/16818/tarta-corazon-relleno-nata-crema-avellana-crujiente-san-valentin-hacendado-congelado-caja",
+  "slug": "tarta-corazon-relleno-nata-crema-avellana-crujiente-san-valentin-hacendado-congelado-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/7adc084ce9d2764c8943fb8c35d8a53f.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

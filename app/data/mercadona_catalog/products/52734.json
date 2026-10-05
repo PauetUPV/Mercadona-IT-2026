@@ -1,0 +1,119 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 486,
+              "level": 2,
+              "name": "Aceitunas negras",
+              "order": 9
+            }
+          ],
+          "id": 135,
+          "level": 1,
+          "name": "Aceitunas y encurtidos",
+          "order": 9
+        }
+      ],
+      "id": 15,
+      "level": 0,
+      "name": "Aperitivos",
+      "order": 9
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Aceitunas negras sin hueso Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Aceitunas verdes con relleno a base de anchoas",
+    "mandatory_mentions": "Sin potenciadores del sabor.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco al abrigo de la luz y del calor. Una vez abierto, conservar el producto en el frigorífico en un recipiente adecuado y consumir en 15 días.",
+    "suppliers": [
+      {
+        "name": "Centros Comerciales Carrefour S.A."
+      },
+      {
+        "name": "Centros Comerciales Carrefour Sa"
+      },
+      {
+        "name": "MERCADONA, S.A."
+      }
+    ],
+    "usage_instructions": "Las aceitunas son deshuesadas mecánicamente, a pesar de todas las precauciones tomadas durante la preparación puede que excepcionalmente algún hueso, o fragmento de hueso, se encuentre en el producto."
+  },
+  "display_name": "Aceitunas negras sin hueso Hacendado",
+  "ean": "8402001015014",
+  "extra_info": [
+    ""
+  ],
+  "id": "52734",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>pescado y productos a base de pescado</strong>.",
+    "ingredients": "Agua, aceitunas verdes, relleno a base de <strong>anchoa</strong> 4% (<strong>PESCADO</strong>) (agua, <strong>anchoa</strong> (<strong>PESCADO</strong>)), estabilizante: alginato sódico, sal, aroma natural, correctores de acidez: ácido láctico y ácido cítrico, antioxidante: ácido ascórbico."
+  },
+  "origin": null,
+  "packaging": "Bote",
+  "photos": [
+    {
+      "perspective": 3,
+      "regular": "https://prod-mercadona.imgix.net/images/8ea381beaef3459b5bc9a08d9eabf509.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8ea381beaef3459b5bc9a08d9eabf509.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8ea381beaef3459b5bc9a08d9eabf509.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/bccf6880c7ff5e881432e4ee41840ebc.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/bccf6880c7ff5e881432e4ee41840ebc.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/bccf6880c7ff5e881432e4ee41840ebc.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.00",
+    "bunch_selector": false,
+    "drained_weight": 0.15,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.05",
+    "unit_selector": true,
+    "unit_size": 0.35
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/52734/aceitunas-negras-hacendado-sin-hueso-bote",
+  "slug": "aceitunas-negras-hacendado-sin-hueso-bote",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/8ea381beaef3459b5bc9a08d9eabf509.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

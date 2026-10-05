@@ -1,0 +1,119 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 420,
+              "level": 2,
+              "name": "Aceite de oliva",
+              "order": 7
+            }
+          ],
+          "id": 112,
+          "level": 1,
+          "name": "Aceite, vinagre y sal",
+          "order": 7
+        }
+      ],
+      "id": 12,
+      "level": 0,
+      "name": "Aceite, especias y salsas",
+      "order": 7
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Aceite de oliva virgen extra Hacendado Gran Selección",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Aceite de Oliva Virgen Extra",
+    "mandatory_mentions": "Aceite de oliva de categoría superior obtenido directamente de aceitunas y sólo mediante procedimientos mecánicos.",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco, seco y alejado de la luz.",
+    "suppliers": [
+      {
+        "name": "Oleoestepa S.C.A."
+      },
+      {
+        "name": "Oleoestepa, S.Coop.And."
+      },
+      {
+        "name": "SOVENA ESPAÑA S.A.U."
+      }
+    ],
+    "usage_instructions": "Para su consumo en crudo, guisos y fritos."
+  },
+  "display_name": "Aceite de oliva virgen extra Hacendado Gran Selección",
+  "ean": "8480000047069",
+  "extra_info": [
+    ""
+  ],
+  "id": "4706",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "Gran Selección",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Ingredientes: Aceite de Oliva Virgen Extra"
+  },
+  "origin": "España",
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/c60e6e09dc2037a291515d3b15af376c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c60e6e09dc2037a291515d3b15af376c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c60e6e09dc2037a291515d3b15af376c.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/02264f323d0d43b0345a4010371e290f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/02264f323d0d43b0345a4010371e290f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/02264f323d0d43b0345a4010371e290f.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "7.33",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": "        5.75",
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "7.334",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "5.50",
+    "unit_selector": true,
+    "unit_size": 0.75
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/4706/aceite-oliva-virgen-extra-hacendado-gran-seleccion-botella",
+  "slug": "aceite-oliva-virgen-extra-hacendado-gran-seleccion-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/c60e6e09dc2037a291515d3b15af376c.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

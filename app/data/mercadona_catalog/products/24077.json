@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Finca La Malcriada",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 791,
+              "level": 2,
+              "name": "Vinos semidulces",
+              "order": 15
+            }
+          ],
+          "id": 170,
+          "level": 1,
+          "name": "Vino blanco",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": "11.0º",
+    "brand": "Finca La Malcriada",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Vino blanco semidulce verdejo Finca La Malcriada",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Vino blanco verdejo",
+    "mandatory_mentions": "Consumo moderado",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservese en lugar fresco y protegido de la luz solar",
+    "suppliers": [
+      {
+        "name": "Virgen de las Viñas Bodega y Almazara Sociedad Cooperativa de Castilla la Mancha"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Vino blanco semidulce verdejo Finca La Malcriada",
+  "ean": "8402001054136",
+  "extra_info": [
+    ""
+  ],
+  "id": "24077",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>dióxido de azufre y sulfitos</strong>. Libre de <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "Uvas,mosto de uva concentrado, correctores de la acidez (contiene ácido málico y/o ácido cítrico y/o ácido  tartárico y/o ácido láctico), agentes estabilizantes (contiene acido metatartarico y/o manoproteina de levadura), conservador  (<strong>anhidrido sulfuroso (sulfitos)</strong>, dicarbonato de dimetilo) y antioxidantes (ácido L-ascórbico). Embotellado en atmósfera protectora."
+  },
+  "origin": null,
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/4a970739f40ed8173b14c81d4fd93a7d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4a970739f40ed8173b14c81d4fd93a7d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4a970739f40ed8173b14c81d4fd93a7d.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/c6bd6ce80c8729109ca7b1f4e50ff68c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c6bd6ce80c8729109ca7b1f4e50ff68c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c6bd6ce80c8729109ca7b1f4e50ff68c.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.27",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "2.267",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.70",
+    "unit_selector": true,
+    "unit_size": 0.75
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/24077/vino-blanco-semidulce-verdejo-finca-malcriada-botella",
+  "slug": "vino-blanco-semidulce-verdejo-finca-malcriada-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/4a970739f40ed8173b14c81d4fd93a7d.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

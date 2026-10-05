@@ -1,0 +1,117 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 305,
+              "level": 2,
+              "name": "Queso fresco",
+              "order": 159
+            }
+          ],
+          "id": 53,
+          "level": 1,
+          "name": "Queso untable, fresco y especialidades",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Mozzarella fresca de vaca Hacendado en perlas",
+    "legal_name": "Queso fresco",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en frío entre 0 °C y 8 °C",
+    "suppliers": [
+      {
+        "name": "QUESERIA LAFUENTE S.A.U"
+      },
+      {
+        "name": "Quesería Lafuente, S.A."
+      },
+      {
+        "name": "Quesería Lafuente, S.A.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Mozzarella fresca de vaca Hacendado en perlas",
+  "ean": "8422241807712",
+  "extra_info": [
+    null
+  ],
+  "id": "51052",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Libre de <strong>dióxido de azufre y sulfitos</strong>. Libre de <strong>cacahuetes y productos a base de cacahuetes</strong>. Libre de <strong>soja y productos a base de soja</strong>. Libre de <strong>apio y productos derivados</strong>. Libre de <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Libre de <strong>leche y sus derivados (incluida la lactosa)</strong>. Libre de <strong>pescado y productos a base de pescado</strong>. Libre de <strong>mostaza y productos derivados</strong>. Libre de <strong>moluscos y productos a base de moluscos</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Libre de <strong>huevos y productos a base de huevo</strong>. Libre de <strong>frutos de cáscara</strong>. Libre de <strong>crustáceos y productos a base de crustáceos</strong>. Libre de <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "<strong>Leche</strong> pasteurizada de vaca, coagulante microbiano, corrector de acidez (ácido cítrico) y sal.  Origen de la leche: (España)"
+  },
+  "origin": "España",
+  "packaging": "Tarrina",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/d603407549e943bb79d0b03d3c8147c8.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d603407549e943bb79d0b03d3c8147c8.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d603407549e943bb79d0b03d3c8147c8.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/09514e171496700cbcf42c3ccd2011b2.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/09514e171496700cbcf42c3ccd2011b2.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/09514e171496700cbcf42c3ccd2011b2.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.33",
+    "bunch_selector": false,
+    "drained_weight": 0.15,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "12.667",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.90",
+    "unit_selector": true,
+    "unit_size": 0.3
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/51052/mozzarella-fresca-vaca-hacendado-perlas-tarrina",
+  "slug": "mozzarella-fresca-vaca-hacendado-perlas-tarrina",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/d603407549e943bb79d0b03d3c8147c8.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

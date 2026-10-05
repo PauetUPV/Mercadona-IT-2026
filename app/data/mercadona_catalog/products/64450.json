@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 521,
+              "level": 2,
+              "name": "Sándwiches",
+              "order": 213
+            }
+          ],
+          "id": 154,
+          "level": 1,
+          "name": "Helados",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Mini helado sándwich sabor nata Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Helado sabor a nata con galleta (21,4%), cobertura especial chocolate con leche (10,7%), trocitos de chocolate (7,3%) y almendra (2,5%)",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en congelación a temperaturas inferiores a -18 c. Una vez descongelado, no volver a congelar.",
+    "suppliers": [
+      {
+        "name": "Fabricado por: HELADOS ESTIU, S.A."
+      },
+      {
+        "name": "HELADOS ESTIU, S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Mini helado sándwich sabor nata Hacendado",
+  "ean": "8480000644503",
+  "extra_info": [
+    ""
+  ],
+  "id": "64450",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>sa</strong>. Contiene <strong>ml</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>frutos de cáscara</strong>. Puede contener <strong>mostaza y productos derivados</strong>.",
+    "ingredients": "<strong>Leche</strong> desnatada reconstituida, azúcar, harina de <strong>trigo (gluten)</strong>, grasas vegetales (coco y palma), pasta de cacao, <strong>lactosa</strong> y proteínas de la <strong>leche</strong>, jarabe de glucosa y fructosa, <strong>almendra</strong> tostada (2,5%), grasa vegetal (palma), manteca de cacao, jarabe de glucosa, grasa vegetal (coco), cacao desgrasado en polvo, <strong>leche</strong> desnatada en polvo, materia grasa <strong>láctea</strong> anhidra, sal, extracto de malta de <strong>cebada (gluten)</strong>, suero de <strong>leche</strong>, emulgentes (lecitinas (<strong>soja)</strong>, monoglicéridos y diglicéridos de ácidos grasos), estabilizantes (goma garrofín, goma guar, carragenanos), gasificantes (E 503i) y (E 500), vainillina, aroma natural, aromas y aroma de <strong>nata</strong>. Puede contener trazas de <strong>mostaza</strong> y otros <strong>frutos de cáscara</strong>."
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/8377ad6da890e39e401eff40a1262577.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8377ad6da890e39e401eff40a1262577.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8377ad6da890e39e401eff40a1262577.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/9aa5cd8cb2f81e9bc4ab55db90ed07cd.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9aa5cd8cb2f81e9bc4ab55db90ed07cd.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9aa5cd8cb2f81e9bc4ab55db90ed07cd.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.42",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.08,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "5.417",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": 6,
+    "unit_name": "ud.",
+    "unit_price": "2.60",
+    "unit_selector": true,
+    "unit_size": 0.48
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/64450/helado-mini-sandwich-nata-hacendado-caja",
+  "slug": "helado-mini-sandwich-nata-hacendado-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/8377ad6da890e39e401eff40a1262577.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

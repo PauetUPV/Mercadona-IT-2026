@@ -1,0 +1,109 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 419,
+              "level": 2,
+              "name": "Otros postres",
+              "order": 598
+            }
+          ],
+          "id": 111,
+          "level": 1,
+          "name": "Gelatina y otros postres",
+          "order": 598
+        }
+      ],
+      "id": 11,
+      "level": 0,
+      "name": "Postres y yogures",
+      "order": 598
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Postre Capricho Hacendado de yema de huevo",
+    "legal_name": "Capricho de yema",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en frio entre 1 y 8º C.",
+    "suppliers": [
+      {
+        "name": "Postres Lácteos Romar S.L."
+      }
+    ],
+    "usage_instructions": "Listo para consumir una vez abierto"
+  },
+  "display_name": "Postre Capricho Hacendado de yema de huevo",
+  "ean": "8402001043536",
+  "extra_info": [
+    ""
+  ],
+  "id": "19947",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>ml</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>frutos de cáscara</strong>. Contiene <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "Azúcar, yema de <strong>huevo</strong> (28%), agua, <strong>huevo</strong>, almidón modificado de maíz, limón en polvo (zumo concentrado de limón y aroma natural de limón), estabilizantes: goma xantana y carragenano y colorante: E-160b(ii). Puede contener trazas de <strong>leche</strong>, <strong>frutos de cáscara</strong> y <strong>soja</strong>."
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/ddcbdfd7439ddaa663efa395c17a56a8.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ddcbdfd7439ddaa663efa395c17a56a8.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ddcbdfd7439ddaa663efa395c17a56a8.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/1f365331b5d84f57d5132cca71499fc4.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1f365331b5d84f57d5132cca71499fc4.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1f365331b5d84f57d5132cca71499fc4.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "14.17",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.06,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "14.167",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 2,
+    "unit_name": "ud.",
+    "unit_price": "1.70",
+    "unit_selector": true,
+    "unit_size": 1.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/19947/postre-capricho-hacendado-yema-huevo",
+  "slug": "postre-capricho-hacendado-yema-huevo",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/ddcbdfd7439ddaa663efa395c17a56a8.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

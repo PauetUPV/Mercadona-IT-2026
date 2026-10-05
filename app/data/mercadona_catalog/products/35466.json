@@ -1,0 +1,112 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 411,
+              "level": 2,
+              "name": "Postres de soja",
+              "order": 598
+            }
+          ],
+          "id": 106,
+          "level": 1,
+          "name": "Postres de soja",
+          "order": 598
+        }
+      ],
+      "id": 11,
+      "level": 0,
+      "name": "Postres y yogures",
+      "order": 598
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Postre de soja sabor chocolate Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "POSTRE A BASE DE SOJA CON CHOCOLATE EN POLVO",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "Andros La Serna SLU"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Postre de soja sabor chocolate Hacendado",
+  "ean": "8402001007972",
+  "extra_info": [
+    ""
+  ],
+  "id": "35466",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Bebida de soja 79.4%  (agua, habas de soja 6%*), azúcar, chocolate  en polvo 2.2% (cacao en polvo, az<strong>úcar</strong>), almidón modificado, c<strong>acao</strong> desgrasado en  polvo, espesante: carragenanos; sal, aroma.*sobre  el producto terminado"
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/5419526b9b24c3314a992916260e1cf7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5419526b9b24c3314a992916260e1cf7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5419526b9b24c3314a992916260e1cf7.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/c419fe56fc8d66c86b3d05fa19ffd6fc.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c419fe56fc8d66c86b3d05fa19ffd6fc.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c419fe56fc8d66c86b3d05fa19ffd6fc.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.88",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.1,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "3.875",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 4,
+    "unit_name": "ud.",
+    "unit_price": "1.55",
+    "unit_selector": true,
+    "unit_size": 0.4
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/35466/postre-soja-hacendado-sabor-chocolate-pack-4",
+  "slug": "postre-soja-hacendado-sabor-chocolate-pack-4",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/5419526b9b24c3314a992916260e1cf7.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

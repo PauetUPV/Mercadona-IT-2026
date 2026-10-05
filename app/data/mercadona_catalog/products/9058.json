@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hero Solo",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 691,
+              "level": 2,
+              "name": "Tarritos salados",
+              "order": 14
+            }
+          ],
+          "id": 216,
+          "level": 1,
+          "name": "Alimentación infantil",
+          "order": 14
+        }
+      ],
+      "id": 24,
+      "level": 0,
+      "name": "Bebé",
+      "order": 14
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hero Solo",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Papilla verduritas con pollo y ternera Hero Solo +6 meses",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Alimento Infantil. Verduras con Pollo y Ternera .",
+    "mandatory_mentions": "Más 6 meses.",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco. Una vez abierto se conserva 24 horas en el frigorífico.",
+    "suppliers": [
+      {
+        "name": "Hero España, S.A."
+      }
+    ],
+    "usage_instructions": "Recomendamos abrir el frasco y remover suavemente con una cuchara no metálica antes y después de calentar al baño María o microondas. Probar antes de dar al bebé. No añadir sal."
+  },
+  "display_name": "Papilla verduritas con pollo y ternera Hero Solo +6 meses",
+  "ean": "8410175050021",
+  "extra_info": [
+    ""
+  ],
+  "id": "9058",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "+6 meses",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Verduras y legumbres (45%) (zanahoria (14%), judías verdes (10%), tomate (9%), cebolla, guisantes, brócoli (3%)), patata (27%), agua de cocción, carne de pollo (6%), carne de ternera (2%), aceite de oliva virgen extra (2%)."
+  },
+  "origin": "España",
+  "packaging": "Tarrito",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/e9bc85e5aa1facd74517d87e04e0c175.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e9bc85e5aa1facd74517d87e04e0c175.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e9bc85e5aa1facd74517d87e04e0c175.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/64d49f7538977983b96e2cebaa1ee473.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/64d49f7538977983b96e2cebaa1ee473.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/64d49f7538977983b96e2cebaa1ee473.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "7.66",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": "        1.85",
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.660",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.80",
+    "unit_selector": true,
+    "unit_size": 0.235
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/9058/papilla-verduritas-con-pollo-ternera-hero-baby-6-meses-tarrito",
+  "slug": "papilla-verduritas-con-pollo-ternera-hero-baby-6-meses-tarrito",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/e9bc85e5aa1facd74517d87e04e0c175.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

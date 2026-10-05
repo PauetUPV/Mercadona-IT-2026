@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 288,
+              "level": 2,
+              "name": "Empanados y elaborados",
+              "order": 17
+            }
+          ],
+          "id": 45,
+          "level": 1,
+          "name": "Empanados y elaborados",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pollo Koreano con salsa",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "POLLO KOREANO",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Refrigerado: 0º a 4 º. Cocinar completamente (75ºC) antes de su consumo",
+    "suppliers": [
+      {
+        "name": "JOVISERRANO,SLU"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Pollo Koreano con salsa",
+  "ean": "8436548785543",
+  "extra_info": [
+    ""
+  ],
+  "id": "21565",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": "con salsa",
+  "nutrition_information": {
+    "allergens": "Libre de <strong>leche y sus derivados (incluida la lactosa)</strong>. Libre de <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "INGREDIENTES: Carne de muslo de pollo marinado 87%: carne de pollo 80%, agua, conservadores (E-326 y E-262), maltodextrina, sal, aromas naturales, azúcar, almidón, especias, antioxidantes (E-331 y E-301), fibras vegetales, dextrosa y extracto de especias. Cobertura 13%: harina de arroz, agua, almidones, aceite refinado de girasol, harina de maíz, gasificantes (E-450 y E-500), sal, almidón modificado, extracto de especias, especias, fibra vegetal, azúcar y espesante (E-461).Salsa: Salsa teriyaki (45,9%) [Salsa de S<strong>OJA </strong>(agua, semillas de S<strong>OJA,</strong> maíz, sal, colorante (E150c)), jarabe de glucosa, agua, azúcar, dextrosa, preparado de vinagre de arroz (vinagre de arroz, agua, vinagre de alcohol, pasta de arroz fermentada, sal), preparado de Mirin (jarabe de glucosa, agua, azúcar, pasta de arroz fermentada, vinagre de arroz, alcohol), almidón modificado, puré de jengibre, sal, conservador (E202), corrector de la acidez (E270)], agua, azúcar invertido, caldoconcentrado de carne [Agua, sal, aromas, extracto de carne (3%), extracto de levadura, grasa de vacuno (1%), zumo concentrado de cebolla, almidón modificado de maíz, acidulante (E330), espesante (E415), ajo en polvo, aceite refinado de girasol, antioxidante (extracto de romero)], salsa agridulce picante [agua, azúcar, chile, vinagre de alcohol, sal, ajo, espesante (E415), pimentón, conservador (E202), acidulante (E270), aromas y aceite de nabina], aceite refinado de girasol, aderezo sabor ahumado [Agua, jarabe de glucosa-fructosa, puré de cebollas caramelizadas (13%) (cebolla, azúcar de caña, sal), sal, zumo de cebolla concentrado, jarabe de glucosa, vinagre de alcohol, almidón, aceite refinado de girasol, azúcar ahumado (azúcar, maltodextrina, humo), aroma de humo, aromas], tomate concentrado, estabilizantes (E412 y E415), conservador (E202), colorante (E160c) y cayena molida"
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/ac37019a80dc87068739a38554e06fce.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ac37019a80dc87068739a38554e06fce.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ac37019a80dc87068739a38554e06fce.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/68e600477ce5335029c7844b5854e42e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/68e600477ce5335029c7844b5854e42e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/68e600477ce5335029c7844b5854e42e.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "9.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "9.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.42",
+    "unit_selector": true,
+    "unit_size": 0.38
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/21565/pollo-koreano-con-salsa-bandeja",
+  "slug": "pollo-koreano-con-salsa-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/ac37019a80dc87068739a38554e06fce.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": "2026-09-19T22:00:00+00:00",
+  "unavailable_weekdays": []
+}

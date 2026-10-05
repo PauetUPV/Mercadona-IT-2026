@@ -1,0 +1,143 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 253,
+              "level": 2,
+              "name": "Otras frutas",
+              "order": 306
+            }
+          ],
+          "id": 27,
+          "level": 1,
+          "name": "Fruta",
+          "order": 306
+        }
+      ],
+      "id": 1,
+      "level": 0,
+      "name": "Fruta y verdura",
+      "order": 306
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Fresas",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Arándano",
+    "mandatory_mentions": "No son alimentos transgénicos (OGM). No ha recibido tratamientos Inonizantes.",
+    "origin": "Bélgica",
+    "production_variant": "Producto fresco. La variedad y el calibre puede variar en función de la campaña.",
+    "storage_instructions": "Conservación entre 2ºC y 4ºC. Vida útil 10 días.",
+    "suppliers": [
+      {
+        "name": "Bargosa, S.A.U."
+      },
+      {
+        "name": "Citruslife, S.L."
+      },
+      {
+        "name": "Driscoll's of Europe BV"
+      },
+      {
+        "name": "Garcia Mateo & Sinova S.L."
+      },
+      {
+        "name": "Ideal Fruits"
+      },
+      {
+        "name": "Ideal Fruits S.L."
+      },
+      {
+        "name": "Ideal fruits S.L."
+      },
+      {
+        "name": "Moguer, Cuna de Platero SCA"
+      },
+      {
+        "name": "S.COOP.AndaluzaMoguerCunadePlatero"
+      },
+      {
+        "name": "Surexport Compañía Agraria S.L"
+      },
+      {
+        "name": "Viveros Campiñas S.Coop. A"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Fresas",
+  "ean": "2303723002947",
+  "extra_info": [
+    ""
+  ],
+  "id": "3723",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Arándano"
+  },
+  "origin": "Bélgica",
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 10,
+      "regular": "https://prod-mercadona.imgix.net/images/8ccb20e6eb42b600e1a9579481903593.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8ccb20e6eb42b600e1a9579481903593.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8ccb20e6eb42b600e1a9579481903593.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/c44459bad7ce2bb4eb036f60f2c033e2.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c44459bad7ce2bb4eb036f60f2c033e2.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c44459bad7ce2bb4eb036f60f2c033e2.jpeg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "7.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.00",
+    "unit_selector": true,
+    "unit_size": 0.4
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/3723/fresas-bandeja",
+  "slug": "fresas-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/8ccb20e6eb42b600e1a9579481903593.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

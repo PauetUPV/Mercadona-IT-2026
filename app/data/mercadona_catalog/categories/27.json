@@ -1,0 +1,2635 @@
+{
+  "categories": [
+    {
+      "id": 853,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Plátano y uva",
+      "order": 306,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "Plátano de Canarias IGP",
+          "id": "3819",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Pieza",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "2.30",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "2.300",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.39",
+            "unit_selector": true,
+            "unit_size": 0.17
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/3819/platano-canarias-igp-pieza",
+          "slug": "platano-canarias-igp-pieza",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/e4a37940916985bf5ca166e266580c37.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "Banana",
+          "id": "3824",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Pieza",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "1.55",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "1.550",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.28",
+            "unit_selector": true,
+            "unit_size": 0.18
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/3824/banana-pieza",
+          "slug": "banana-pieza",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/69edef3541bbf3f4b7173c9d617a5698.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "Plátano macho",
+          "id": "3132",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Pieza",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "2.90",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 4,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "2.900",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.81",
+            "unit_selector": true,
+            "unit_size": 0.28
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/3132/platano-macho-pieza",
+          "slug": "platano-macho-pieza",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/c22baa2a17de06fbf8477ef25392b7ca.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "Uva blanca sin semillas",
+          "id": "3313",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "sin semillas",
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "2.75",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "2.750",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.65",
+            "unit_selector": true,
+            "unit_size": 0.6
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/3313/uva-blanca-sin-semillas-bandeja",
+          "slug": "uva-blanca-sin-semillas-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/4cc23dd3258bf7fdc6bc8510583b46a9.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "Uva roja sin semillas",
+          "id": "3321",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "sin semillas",
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "3.75",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "3.750",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.25",
+            "unit_selector": true,
+            "unit_size": 0.6
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/3321/uva-roja-sin-semillas-bandeja",
+          "slug": "uva-roja-sin-semillas-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/1d074082d78bd3883eece473526a79bb.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    },
+    {
+      "id": 251,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Manzana y pera",
+      "order": 306,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "Manzana Golden",
+          "id": "3028",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Pieza",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "2.40",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "2.400",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.48",
+            "unit_selector": true,
+            "unit_size": 0.2
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/3028/manzana-golden-pieza",
+          "slug": "manzana-golden-pieza",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/12cc1ef38a5b781f364ca22e46a25ad7.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "Manzanas Golden",
+          "id": "3269",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": null,
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "2.20",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "2.200",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.30",
+            "unit_selector": true,
+            "unit_size": 1.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/3269/manzanas-golden-bolsa",
+          "slug": "manzanas-golden-bolsa",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/022fa8e1cd6c9d9ee18a41ed06d71c35.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "Pera Conferencia",
+          "id": "3119",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Pieza",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "2.75",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "2.750",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.55",
+            "unit_selector": true,
+            "unit_size": 0.2
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/3119/pera-conferencia-pieza",
+          "slug": "pera-conferencia-pieza",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/debea7dc78060cb9cab5c608e7f9eb27.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "Peras Conferencia",
+          "id": "14470",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": null,
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "2.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "2.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.68",
+            "unit_selector": true,
+            "unit_size": 1.07
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14470/peras-conferencia",
+          "slug": "peras-conferencia",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/158b08c139cba5362b335f8b0a715cc8.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "Manzana roja dulce",
+          "id": "8177",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Pieza",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "2.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "2.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.40",
+            "unit_selector": true,
+            "unit_size": 0.2
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/8177/manzana-roja-dulce-pieza",
+          "slug": "manzana-roja-dulce-pieza",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/4287bde2a6bab7877b74f79e7d989d8c.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "Manzanas rojas dulces",
+          "id": "8280",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": null,
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "1.80",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "1.800",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.70",
+            "unit_selector": true,
+            "unit_size": 1.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/8280/manzanas-rojas-dulces-bolsa",
+          "slug": "manzanas-rojas-dulces-bolsa",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/87f801433e34719ba9bdc226616e7511.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "Pera Ercolina",
+          "id": "3170",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Pieza",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "2.90",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "2.900",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.29",
+            "unit_selector": true,
+            "unit_size": 0.1
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/3170/pera-ercolina-pieza",
+          "slug": "pera-ercolina-pieza",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/533ebe592abe9ee9a6b79cb1b3a7e8ed.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "Manzana Granny Smith",
+          "id": "3021",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Pieza",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "2.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "2.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.45",
+            "unit_selector": true,
+            "unit_size": 0.18
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/3021/manzana-granny-smith-pieza",
+          "slug": "manzana-granny-smith-pieza",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/fea3470bee0679f0e081916ec48c0b36.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "Manzana roja acidulce",
+          "id": "8175",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Pieza",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "2.90",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "2.900",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.90",
+            "unit_selector": true,
+            "unit_size": 0.31
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/8175/manzana-roja-acidulce-pieza",
+          "slug": "manzana-roja-acidulce-pieza",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/22301daf320667073b7662206e508c36.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "Manzanas rojas acidulces",
+          "id": "8268",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": null,
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "2.60",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "2.600",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "4.21",
+            "unit_selector": true,
+            "unit_size": 1.62
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/8268/manzanas-rojas-acidulces-bolsa",
+          "slug": "manzanas-rojas-acidulces-bolsa",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/e65f4165ef836b54f4cb49b719b269bd.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    },
+    {
+      "id": 249,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Melón y sandía",
+      "order": 306,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "1/4 Sandía baja en semillas",
+          "id": "3505.2",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "1/4 Pieza",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "1.15",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "1.150",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.08",
+            "unit_selector": true,
+            "unit_size": 1.81
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/3505.2/14-sandia-baja-semillas-14-pieza",
+          "slug": "14-sandia-baja-semillas-14-pieza",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/691e1274d514dac5d35bd5c952f8c1f6.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": "2026-09-21T22:00:00+00:00",
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "Media sandía baja en semillas",
+          "id": "3505.1",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "1/2 Pieza",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "1.15",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "1.150",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.99",
+            "unit_selector": true,
+            "unit_size": 3.47
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/3505.1/media-sandia-baja-semillas-12-pieza",
+          "slug": "media-sandia-baja-semillas-12-pieza",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/6f968b5212959c76552ae95c4fd8b619.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": "2026-09-21T22:00:00+00:00",
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "Sandía baja en semillas",
+          "id": "3529",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Pieza",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "0.70",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "0.700",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "4.87",
+            "unit_selector": true,
+            "unit_size": 6.96
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/3529/sandia-baja-semillas-pieza",
+          "slug": "sandia-baja-semillas-pieza",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/5a83042e3754877c18b14e2cbf64a973.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": "2026-09-21T22:00:00+00:00",
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "Medio melón piel de sapo",
+          "id": "3515",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "1/2 Pieza",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "1.35",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "1.350",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.16",
+            "unit_selector": true,
+            "unit_size": 1.6
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/3515/medio-melon-piel-sapo-12-pieza",
+          "slug": "medio-melon-piel-sapo-12-pieza",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/2d034c1b80642d033f7b5aecd3fb8269.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "Melón piel de sapo",
+          "id": "3506",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Pieza",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "0.90",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "0.900",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.89",
+            "unit_selector": true,
+            "unit_size": 3.21
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/3506/melon-piel-sapo-pieza",
+          "slug": "melon-piel-sapo-pieza",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/bd4459355f58bc265a2c6720b688e3c3.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    },
+    {
+      "id": 247,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Cítricos",
+      "order": 306,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "Limones",
+          "id": "3236",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Malla",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.65",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": "        2.80",
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "2.650",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.65",
+            "unit_selector": true,
+            "unit_size": 1.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/3236/limones-malla",
+          "slug": "limones-malla",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/71af62c5aab9056773f8934f4dce3768.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "Limón",
+          "id": "3210",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Pieza",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "2.85",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "2.850",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.57",
+            "unit_selector": true,
+            "unit_size": 0.2
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/3210/limon-pieza",
+          "slug": "limon-pieza",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/dde3a9f03e3b8abc1ebf690a29c9631d.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "Mandarina",
+          "id": "3238",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Pieza",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "2.65",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "2.650",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.29",
+            "unit_selector": true,
+            "unit_size": 0.11
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/3238/mandarina-pieza",
+          "slug": "mandarina-pieza",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/7fde4546900f0fbd38e02be6cc4ea6ed.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "Naranja de mesa",
+          "id": "3235",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Pieza",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "2.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "2.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.78",
+            "unit_selector": true,
+            "unit_size": 0.31
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/3235/naranja-mesa-pieza",
+          "slug": "naranja-mesa-pieza",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/e9ff28c3b115649df7138f0f51dd1f9f.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "Naranjas",
+          "id": "3277",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Malla",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "1.95",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "1.950",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "5.85",
+            "unit_selector": true,
+            "unit_size": 3.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/3277/naranjas-malla",
+          "slug": "naranjas-malla",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/57b7fbaaf28231102addf8f7eb4f14b8.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "Pomelo",
+          "id": "3202",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Pieza",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "3.30",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "3.300",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.19",
+            "unit_selector": true,
+            "unit_size": 0.36
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/3202/pomelo-pieza",
+          "slug": "pomelo-pieza",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/33aa4801e7e15cc82d0caa406b3fb363.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "Lima",
+          "id": "3897",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Pieza",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "4.40",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "4.400",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.31",
+            "unit_selector": true,
+            "unit_size": 0.07
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/3897/lima-pieza",
+          "slug": "lima-pieza",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/89f9d5452102413e378048f258bc0d9c.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    },
+    {
+      "id": 250,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Fruta tropical",
+      "order": 306,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "Kiwi verde",
+          "id": "3820",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Pieza",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "4.65",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "4.650",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.51",
+            "unit_selector": true,
+            "unit_size": 0.11
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/3820/kiwi-verde-pieza",
+          "slug": "kiwi-verde-pieza",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/49e3e74a455daf4169248dfb52ae9a6d.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "Kiwis verdes",
+          "id": "3832",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "4.55",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": 1.0,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "4.550",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "4.87",
+            "unit_selector": true,
+            "unit_size": 1.07
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/3832/kiwis-verdes-bandeja",
+          "slug": "kiwis-verdes-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/e887a535440a80f19a036df7d70f124a.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "Kiwis amarillos",
+          "id": "3839",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "6.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "6.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.77",
+            "unit_selector": true,
+            "unit_size": 0.58
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/3839/kiwis-amarillos-bandeja",
+          "slug": "kiwis-amarillos-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/c68209d5df52ad0af0087511c706c56b.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "Aguacate",
+          "id": "3830",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Pieza",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "5.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "5.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.65",
+            "unit_selector": true,
+            "unit_size": 0.33
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/3830/aguacate-pieza",
+          "slug": "aguacate-pieza",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/b1dee7e254871996d81c69a656fa4304.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "Aguacates",
+          "id": "3858",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": null,
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "5.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.6,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "5.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.65",
+            "unit_selector": true,
+            "unit_size": 0.73
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/3858/aguacates-bandeja",
+          "slug": "aguacates-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/3626a39afce23381b73d55fb7a4a3c7d.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "Piña",
+          "id": "3076",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Pieza",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "2.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "2.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.68",
+            "unit_selector": true,
+            "unit_size": 1.84
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/3076/pina-pieza",
+          "slug": "pina-pieza",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/9dd42248e51d82317d3e48eaa166d56e.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "Piña natural a rodajas",
+          "id": "3024",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "a rodajas",
+          "packaging": "Bote",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "6.55",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "6.550",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.80",
+            "unit_selector": true,
+            "unit_size": 0.58
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/3024/pina-natural-rodajas-bote",
+          "slug": "pina-natural-rodajas-bote",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/447329070430fee9d487dd3124975cb8.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "Guacamole Hacendado",
+          "id": "3840",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Tarrina",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "7.90",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "7.900",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.95",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/3840/guacamole-hacendado-95-aguacate-fresco-tarrina",
+          "slug": "guacamole-hacendado-95-aguacate-fresco-tarrina",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/5c3a7d00a6c79339f48bae00593089ed.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "Guacamole Hacendado",
+          "id": "3852",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Tarrina",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "9.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "9.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.80",
+            "unit_selector": true,
+            "unit_size": 0.2
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/3852/guacamole-hacendado-95-aguacate-fresco-tarrina",
+          "slug": "guacamole-hacendado-95-aguacate-fresco-tarrina",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/66c3481e7af13e610aa808949d18a5f3.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "Mango",
+          "id": "3050",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Pieza",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "3.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "3.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.32",
+            "unit_selector": true,
+            "unit_size": 0.44
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/3050/mango-pieza",
+          "slug": "mango-pieza",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/05ba87e8e2d78124318a9dee667b3d07.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "Papaya",
+          "id": "3026",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Pieza",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "5.25",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "5.250",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.26",
+            "unit_selector": true,
+            "unit_size": 0.62
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/3026/papaya-pieza",
+          "slug": "papaya-pieza",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/e01d68c0435d10972f813077441c6c4c.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    },
+    {
+      "id": 253,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Otras frutas",
+      "order": 306,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "Nectarina pulpa amarilla",
+          "id": "3427",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Pieza",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "2.75",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "2.750",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.58",
+            "unit_selector": true,
+            "unit_size": 0.21
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/3427/nectarina-pieza",
+          "slug": "nectarina-pieza",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/20e84bbe5a2b90b67b1db93175e39458.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "Fresas",
+          "id": "3723",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "7.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "7.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.00",
+            "unit_selector": true,
+            "unit_size": 0.4
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/3723/fresas-bandeja",
+          "slug": "fresas-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/8ccb20e6eb42b600e1a9579481903593.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "Ciruela roja",
+          "id": "3601",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Pieza",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "3.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "3.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.46",
+            "unit_selector": true,
+            "unit_size": 0.13
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/3601/ciruela-roja-pieza",
+          "slug": "ciruela-roja-pieza",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/af108535bb88819532b16faa498c35e0.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "Frambuesas",
+          "id": "5500",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "15.80",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "15.800",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.16",
+            "unit_selector": true,
+            "unit_size": 0.2
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/5500/frambuesa-bandeja",
+          "slug": "frambuesa-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/6745b8dda0a443232ff2b6f70ad1b88e.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "Ciruela amarilla",
+          "id": "3649",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Pieza",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "3.80",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "3.800",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.49",
+            "unit_selector": true,
+            "unit_size": 0.13
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/3649/ciruela-amarilla-pieza",
+          "slug": "ciruela-amarilla-pieza",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/8fad8d907b05cc7e8589a6b1867d67e4.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "Moras",
+          "id": "14379",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "16.95",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "16.950",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.88",
+            "unit_selector": true,
+            "unit_size": 0.17
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14379/moras-bandeja",
+          "slug": "moras-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/46b3eda6e89530b3f91913dac37af457.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "Arándanos",
+          "id": "5501",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Vaso",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "14.89",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "14.889",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.35",
+            "unit_selector": true,
+            "unit_size": 0.225
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/5501/arandanos-vaso",
+          "slug": "arandanos-vaso",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/a5073f7984f7ca2b4cca209439afa9ef.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "Arándanos",
+          "id": "5507",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Tarrina",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "13.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "13.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "6.50",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/5507/arandanos-tarrina",
+          "slug": "arandanos-tarrina",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/7d54e6811369f227bf2fd9e5c5b6a69a.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "Melocotones amarillos",
+          "id": "3422",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": null,
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "2.90",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "2.900",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.18",
+            "unit_selector": true,
+            "unit_size": 0.75
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/3422/melocotones-amarillos-mini-bandeja",
+          "slug": "melocotones-amarillos-mini-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/7505b5345e81af9cf2639506cbbb10ab.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": "2026-09-30T22:00:00+00:00",
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "Melocotón amarillo",
+          "id": "3433",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Pieza",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "3.30",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "3.300",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.73",
+            "unit_selector": true,
+            "unit_size": 0.22
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/3433/melocoton-amarillo-pieza",
+          "slug": "melocoton-amarillo-pieza",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/f35d55c8327707287795c1b5f2f07862.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "Higos",
+          "id": "8905",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": null,
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "5.90",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "5.900",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.36",
+            "unit_selector": true,
+            "unit_size": 0.4
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/8905/higos-bandeja",
+          "slug": "higos-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/3f1aa888c8002668388d332b751d40e2.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 1,
+              "level": 0,
+              "name": "Fruta y verdura",
+              "order": 306
+            }
+          ],
+          "display_name": "Ciruelas Claudia",
+          "id": "5962",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": null,
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "4.40",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "4.400",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.20",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/5962/ciruela-claudia-bandeja",
+          "slug": "ciruela-claudia-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/30ad5884657d8477378a91fb9913e449.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    }
+  ],
+  "id": 27,
+  "is_extended": false,
+  "layout": 1,
+  "name": "Fruta",
+  "next_category": {
+    "id": 28,
+    "name": "Lechuga y ensalada preparada"
+  },
+  "order": 306,
+  "published": true
+}

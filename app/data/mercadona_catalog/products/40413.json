@@ -1,0 +1,105 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Deliplus",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 637,
+              "level": 2,
+              "name": "Protector solar y aftersun",
+              "order": 241
+            }
+          ],
+          "id": 198,
+          "level": 1,
+          "name": "Protector solar y aftersun",
+          "order": 241
+        }
+      ],
+      "id": 20,
+      "level": 0,
+      "name": "Cuidado facial y corporal",
+      "order": 241
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Deliplus",
+    "counter_info": null,
+    "danger_mentions": null,
+    "description": "Protector labial Deliplus FPS 15",
+    "legal_name": null,
+    "mandatory_mentions": null,
+    "origin": null,
+    "production_variant": null,
+    "storage_instructions": null,
+    "suppliers": [],
+    "usage_instructions": null
+  },
+  "display_name": "Protector labial Deliplus FPS 15",
+  "ean": "8480000404138",
+  "extra_info": [
+    ""
+  ],
+  "id": "40413",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": null
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/4999d10a9c452b1a9de1d6e8b2142c0f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4999d10a9c452b1a9de1d6e8b2142c0f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4999d10a9c452b1a9de1d6e8b2142c0f.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/bc0164b78241f226d0d388e98c1ba9b2.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/bc0164b78241f226d0d388e98c1ba9b2.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/bc0164b78241f226d0d388e98c1ba9b2.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 21,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "1.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "21.000",
+    "total_units": 1,
+    "unit_name": "ud.",
+    "unit_price": "1.50",
+    "unit_selector": true,
+    "unit_size": 0.004
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/40413/protector-labial-deliplus-fps-15-paquete",
+  "slug": "protector-labial-deliplus-fps-15-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/4999d10a9c452b1a9de1d6e8b2142c0f.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

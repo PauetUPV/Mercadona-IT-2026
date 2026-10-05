@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Don Simón",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 546,
+              "level": 2,
+              "name": "Otros refrescos sin gas",
+              "order": 8
+            }
+          ],
+          "id": 162,
+          "level": 1,
+          "name": "Refresco de té y sin gas",
+          "order": 8
+        }
+      ],
+      "id": 18,
+      "level": 0,
+      "name": "Agua y refrescos",
+      "order": 8
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Don Simón",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Limonada natural sin gas light Don Simón",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Bebida refrescante de zumo de frutas.",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "-",
+    "storage_instructions": "Una vez abierto el envase, conservar en el frigorífico y consumir antes de transcurridos 5 días. Agitar antes de servir, para distribuir homogéneamente la pulpa",
+    "suppliers": [
+      {
+        "name": "JGC S.A"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Limonada natural sin gas light Don Simón",
+  "ean": "8410261657424",
+  "extra_info": [
+    ""
+  ],
+  "id": "27965",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Agua, zumo de limón (15%), azúcar, antioxidante: ácido ascórbico, aromas, colorante: beta caroteno, edulcorante: sucralosa"
+  },
+  "origin": "España",
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/51de1809221a60b2e29ce39c59dadd52.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/51de1809221a60b2e29ce39c59dadd52.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/51de1809221a60b2e29ce39c59dadd52.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/08766c8443f926ada6a68b9e9b28f42b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/08766c8443f926ada6a68b9e9b28f42b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/08766c8443f926ada6a68b9e9b28f42b.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "0.90",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "0.900",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.35",
+    "unit_selector": true,
+    "unit_size": 1.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/27965/limonada-natural-don-simon-light-sin-gas-botella",
+  "slug": "limonada-natural-don-simon-light-sin-gas-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/51de1809221a60b2e29ce39c59dadd52.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

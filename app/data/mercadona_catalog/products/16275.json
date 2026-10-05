@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Foodsy",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 339,
+              "level": 2,
+              "name": "Levadura y preparado repostería",
+              "order": 515
+            }
+          ],
+          "id": 69,
+          "level": 1,
+          "name": "Harina y preparado repostería",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Foodsy",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Gelatina neutra en láminas Foodsy",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Hojas de gelatina neutra",
+    "mandatory_mentions": "No mezclar frutas tropicales y algunas otras frutas ácidas (kiwi, mango, piña) ya que impiden que cuaje la gelatina. Para utilizar estas frutas puede hacerlo en almíbar o cocidas.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar seco y libre de olores",
+    "suppliers": [
+      {
+        "name": "FOOD REBELS S.L."
+      }
+    ],
+    "usage_instructions": "Remojar las hojas de gelatina en agua fría 5-7 min. En platos calientes añadir a la preparación en caliente (no hirviendo) y remover hasta su completa disolución. En platos fríos, remover y calentar ligeramente la gelatina hasta que se disuelva por completo (no hervir). A continuación añadir lentamente la mezcla fría a la gelatina. No hacer al contrario. Dejar enfriar la mezcla resultante durante al menos 4 horas antes de servir."
+  },
+  "display_name": "Gelatina neutra en láminas Foodsy",
+  "ean": "8437028997005",
+  "extra_info": [
+    ""
+  ],
+  "id": "16275",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>100% gelatina (de cerdo)."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/2d4ed30e7d3dcd3b525e01c5c5a8ace0.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/2d4ed30e7d3dcd3b525e01c5c5a8ace0.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/2d4ed30e7d3dcd3b525e01c5c5a8ace0.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/358dca5edc4c4fb325d0dc1661db8778.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/358dca5edc4c4fb325d0dc1661db8778.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/358dca5edc4c4fb325d0dc1661db8778.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "60.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "100 g",
+    "reference_price": "6.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 12,
+    "unit_name": "láminas",
+    "unit_price": "1.20",
+    "unit_selector": true,
+    "unit_size": 0.02
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/16275/gelatina-neutra-laminas-foodsy-paquete",
+  "slug": "gelatina-neutra-laminas-foodsy-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/2d4ed30e7d3dcd3b525e01c5c5a8ace0.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

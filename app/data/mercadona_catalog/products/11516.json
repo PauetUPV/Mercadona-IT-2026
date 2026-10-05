@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 304,
+              "level": 2,
+              "name": "Salchichas",
+              "order": 159
+            }
+          ],
+          "id": 52,
+          "level": 1,
+          "name": "Bacón y salchichas",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Salchichas cocidas de cerdo Hacendado estilo parrillero",
+    "legal_name": "Salchicha Estilo Parrillero",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Mantener entre 0ºC y 5ºC.  Una vez abierto el paquete, conservar refrigerado y consumir antes de 2 días",
+    "suppliers": [
+      {
+        "name": "INCARLOPSA"
+      }
+    ],
+    "usage_instructions": "A la parrilla o sartén: 6 - 8 minutos hasta dorado al gusto."
+  },
+  "display_name": "Salchichas cocidas de cerdo Hacendado estilo parrillero",
+  "ean": "8402001027246",
+  "extra_info": [
+    ""
+  ],
+  "id": "11516",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Carne de cerdo (88%),  agua, sal, azúcar, dextrosa, hierbas, gelatina de cerdo, especias,  estabilizante (E-450), proteína vegetal hidrolizada, extractos de especias,  aroma natural y pimiento rojo. Embutido en tripa natural de cerdo."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/a4422aeb427938f9309efa518752f4e8.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a4422aeb427938f9309efa518752f4e8.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a4422aeb427938f9309efa518752f4e8.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/c3b40efe5528c9df6edb7485ccaeb15c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c3b40efe5528c9df6edb7485ccaeb15c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c3b40efe5528c9df6edb7485ccaeb15c.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "8.67",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "8.667",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.60",
+    "unit_selector": true,
+    "unit_size": 0.3
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/11516/salchichas-cocidas-estilo-parrillero-hacendado-cerdo-paquete",
+  "slug": "salchichas-cocidas-estilo-parrillero-hacendado-cerdo-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/a4422aeb427938f9309efa518752f4e8.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

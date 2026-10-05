@@ -1,0 +1,2938 @@
+{
+  "categories": [
+    {
+      "id": 821,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Galletas desayuno",
+      "order": 18,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Galletas María dorada Hacendado",
+          "id": "14132",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "1.69",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "1.688",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 4,
+            "unit_name": "ud.",
+            "unit_price": "1.35",
+            "unit_selector": true,
+            "unit_size": 0.8
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14132/galletas-maria-dorada-hacendado-paquete",
+          "slug": "galletas-maria-dorada-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/a1fbb541426747b002d4c18da50a4385.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Galletas Divertidas con cereales Hacendado",
+          "id": "22688",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "4.62",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "4.623",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 10,
+            "unit_name": "paquetes",
+            "unit_price": "1.90",
+            "unit_selector": true,
+            "unit_size": 0.411
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/22688/galletas-divertidas-con-cereales-hacendado-caja",
+          "slug": "galletas-divertidas-con-cereales-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/433061e3686a0a7a718cfcf4b2f6e5d8.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Galletas tostadas Tosta Rica",
+          "id": "14087",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "4.39",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "4.386",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 3,
+            "unit_name": "paquetes",
+            "unit_price": "2.50",
+            "unit_selector": true,
+            "unit_size": 0.57
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14087/galletas-tostadas-tosta-rica-cuetara-caja",
+          "slug": "galletas-tostadas-tosta-rica-cuetara-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/dc7e9c020591f437f8baaa7fd3270e3f.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Galletas tostadas Animadas Hacendado",
+          "id": "86913",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.25",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "2.250",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 4,
+            "unit_name": "ud.",
+            "unit_price": "1.80",
+            "unit_selector": true,
+            "unit_size": 0.8
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/86913/galletas-tostadas-animadas-hacendado-paquete",
+          "slug": "galletas-tostadas-animadas-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/214e3ad5e609ed46993451f20e561f8b.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Galletas tostadas Hacendado",
+          "id": "14325",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "1.69",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "1.688",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 4,
+            "unit_name": "ud.",
+            "unit_price": "1.35",
+            "unit_selector": true,
+            "unit_size": 0.8
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14325/galletas-tostadas-hacendado-paquete",
+          "slug": "galletas-tostadas-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/8fcb3ebdcf12885842e55d64a5ae741a.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Galletas Relieve Hacendado",
+          "id": "14197",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.09",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "2.094",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 3,
+            "unit_name": "ud.",
+            "unit_price": "1.35",
+            "unit_selector": true,
+            "unit_size": 0.645
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14197/galletas-relieve-hacendado-paquete",
+          "slug": "galletas-relieve-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/3ef36f19c98f2928440a85e6c7359950.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Galletas María dorada Hacendado 0% azúcares añadidos",
+          "id": "13502",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.75",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "3.750",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 2,
+            "unit_name": "paquetes",
+            "unit_price": "1.50",
+            "unit_selector": true,
+            "unit_size": 0.4
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/13502/galletas-maria-dorada-hacendado-0-azucares-anadidos-caja",
+          "slug": "galletas-maria-dorada-hacendado-0-azucares-anadidos-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/5927f1495c4552e57fd8a30827497e34.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Galletas María sin gluten y sin lactosa Hacendado",
+          "id": "14235",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "7.80",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "7.805",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.60",
+            "unit_selector": true,
+            "unit_size": 0.205
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14235/galletas-maria-sin-gluten-sin-lactosa-hacendado-paquete",
+          "slug": "galletas-maria-sin-gluten-sin-lactosa-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/ef9269e1c7f037d478f1329b5b762c14.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Galletas tradicionales Hacendado",
+          "id": "14423",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.58",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "3.584",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 2,
+            "unit_name": "paquetes",
+            "unit_price": "2.15",
+            "unit_selector": true,
+            "unit_size": 0.6
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14423/galletas-tradicionales-hacendado-caja",
+          "slug": "galletas-tradicionales-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/7c70d7b0b6c3cf2795d0be29a6112004.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Galletas María Hacendado",
+          "id": "14102",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "1.69",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "1.688",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 4,
+            "unit_name": "ud.",
+            "unit_price": "1.35",
+            "unit_selector": true,
+            "unit_size": 0.8
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14102/galletas-maria-hacendado-paquete",
+          "slug": "galletas-maria-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/11fb16cd4d93c1d07149041ae474faff.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Galletas canela Hacendado",
+          "id": "14430",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "3.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 2,
+            "unit_name": "paquetes",
+            "unit_price": "1.50",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14430/galletas-canela-hacendado-caja",
+          "slug": "galletas-canela-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/bf16fa6580b1e9f6eb9352a942b0bed2.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Galletas caramelizadas Lotus Biscoff",
+          "id": "14140",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "Biscoff",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "8.60",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "8.603",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 12,
+            "unit_name": "ud.",
+            "unit_price": "1.60",
+            "unit_selector": true,
+            "unit_size": 0.186
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14140/galletas-caramelizadas-lotus-biscoff-paquete",
+          "slug": "galletas-caramelizadas-lotus-biscoff-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/5563e0f563ab97a575c2842aec27303a.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Galletas de mantequilla Hacendado Belgas",
+          "id": "14581",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "9.17",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "9.167",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "paquetes",
+            "unit_price": "1.65",
+            "unit_selector": true,
+            "unit_size": 0.18
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14581/galletas-mantequilla-hacendado-belgas-caja",
+          "slug": "galletas-mantequilla-hacendado-belgas-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/54465354f40024cfb25d5af62dbe7132.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Pastas de aceite Hacendado",
+          "id": "60586",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "5.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "5.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "ud.",
+            "unit_price": "1.25",
+            "unit_selector": true,
+            "unit_size": 0.25
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/60586/pastas-aceite-hacendado-caja",
+          "slug": "pastas-aceite-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/387b56ecbbcd28b1c171be0ada5d0ff4.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    },
+    {
+      "id": 361,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Galletas integrales y digestive",
+      "order": 18,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Galletas avena y semillas Hacendado",
+          "id": "17639",
+          "is_new_arrival": true,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "5.94",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "5.938",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 8,
+            "unit_name": "paquetes",
+            "unit_price": "1.90",
+            "unit_selector": true,
+            "unit_size": 0.32
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/17639/galletas-avena-semillas-hacendado-caja",
+          "slug": "galletas-avena-semillas-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/71828b868d151641d2504c3c4055ed20.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Galletas Digestive Hacendado",
+          "id": "14214",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "1.94",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "1.938",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 2,
+            "unit_name": "ud.",
+            "unit_price": "1.55",
+            "unit_selector": true,
+            "unit_size": 0.8
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14214/galletas-digestive-hacendado-paquete",
+          "slug": "galletas-digestive-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/ce8fd1030d7611f0c587139dae8ff383.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Galletas avena Hacendado",
+          "id": "14213",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.35",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "2.353",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.00",
+            "unit_selector": true,
+            "unit_size": 0.425
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14213/galletas-digestive-avena-hacendado-paquete",
+          "slug": "galletas-digestive-avena-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/5cb1294df7912f8bbaffedeb8a3117c8.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Galletas Digestive 0% azúcares añadidos Hacendado",
+          "id": "14200",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "3.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.40",
+            "unit_selector": true,
+            "unit_size": 0.4
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14200/galletas-digestive-0-azucares-anadidos-hacendado-paquete",
+          "slug": "galletas-digestive-0-azucares-anadidos-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/29c34f080618e9f33361771d5683e210.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Galletas de espelta Hacendado 0% azúcares añadidos",
+          "id": "14242",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "6.25",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "6.250",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.25",
+            "unit_selector": true,
+            "unit_size": 0.2
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14242/galletas-espelta-hacendado-0-azucares-anadidos-paquete",
+          "slug": "galletas-espelta-hacendado-0-azucares-anadidos-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/f4728c6877bec8f45d07ee1ddbab02fa.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Galletas María Integral Hacendado",
+          "id": "14006",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "1.69",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "1.688",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 4,
+            "unit_name": "ud.",
+            "unit_price": "1.35",
+            "unit_selector": true,
+            "unit_size": 0.8
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14006/galletas-maria-integral-hacendado-paquete",
+          "slug": "galletas-maria-integral-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/6ab122415b5cd79908406764981a3625.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Galletas Digestive manzana & avena Hacendado",
+          "id": "14215",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "4.30",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "4.297",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 8,
+            "unit_name": "paquetes",
+            "unit_price": "1.65",
+            "unit_selector": true,
+            "unit_size": 0.384
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14215/galletas-digestive-manzana-avena-hacendado-caja",
+          "slug": "galletas-digestive-manzana-avena-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/500583d75d43433a64dbec896cc8d655.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Galletas avena Hacendado",
+          "id": "14210",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "4.30",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "4.297",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 8,
+            "unit_name": "paquetes",
+            "unit_price": "1.65",
+            "unit_selector": true,
+            "unit_size": 0.384
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14210/galletas-digestive-avena-hacendado-caja",
+          "slug": "galletas-digestive-avena-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/88184d8f578b677f9edfbb48fc3c901d.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Galletas Digestive choco y avena Hacendado",
+          "id": "14054",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "5.47",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "5.469",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "paquetes",
+            "unit_price": "1.75",
+            "unit_selector": true,
+            "unit_size": 0.32
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14054/galletas-digestive-choco-avena-hacendado-caja",
+          "slug": "galletas-digestive-choco-avena-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/9f4146ed31e55c532f4ec111585cb0bd.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    },
+    {
+      "id": 360,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Con chocolate y rellenas",
+      "order": 18,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Galletas con avena sabor Choco Orange con relleno de crema de chocolate Hacendado",
+          "id": "17922",
+          "is_new_arrival": true,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "5.95",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "5.953",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 5,
+            "unit_name": "paquetes",
+            "unit_price": "1.25",
+            "unit_selector": true,
+            "unit_size": 0.21
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/17922/galletas-con-avena-sabor-choco-orange-con-relleno-crema-chocolate-hacendado-caja",
+          "slug": "galletas-con-avena-sabor-choco-orange-con-relleno-crema-chocolate-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/e05e749aa872d0245d650f39666e30d8.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Barquillos de cacao rellenos con crema de leche y de avellanas Knoppers",
+          "id": "17731",
+          "is_new_arrival": true,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": null,
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "10.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.025,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "10.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 5,
+            "unit_name": "paquetes",
+            "unit_price": "1.25",
+            "unit_selector": true,
+            "unit_size": 0.125
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/17731/barquillos-rellenos-con-crema-leche-avellanas-knoppers",
+          "slug": "barquillos-rellenos-con-crema-leche-avellanas-knoppers",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/56e2a764d3b97924dd7a15de32a86f4b.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Galletas rebuenas Hacendado rellenas de chocolate blanco",
+          "id": "17929",
+          "is_new_arrival": true,
+          "limit": 999,
+          "main_feature": "rellenas de chocolate blanco",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.90",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "2.900",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.45",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/17929/galletas-rebuenas-hacendado-rellenas-chocolate-blanco-paquete",
+          "slug": "galletas-rebuenas-hacendado-rellenas-chocolate-blanco-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/e9d1d6050e0547d549fa52bc6e60391e.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Galletas Choco Bom Gullón con chips de chocolate recubiertas de chocolate blanco",
+          "id": "17928",
+          "is_new_arrival": true,
+          "limit": 999,
+          "main_feature": "con chips de chocolate recubiertas de chocolate blanco",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "10.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "10.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.00",
+            "unit_selector": true,
+            "unit_size": 0.1
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/17928/galletas-choco-bom-gullon-con-chips-chocolate-recubiertas-chocolate-blanco-paquete",
+          "slug": "galletas-choco-bom-gullon-con-chips-chocolate-recubiertas-chocolate-blanco-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/4438867f420a92f7236225a30f19823a.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Galletas Cookies Hacendado",
+          "id": "14212",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "6.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "6.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.35",
+            "unit_selector": true,
+            "unit_size": 0.225
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14212/galletas-cookies-hacendado-40-pepitas-chocolate-paquete",
+          "slug": "galletas-cookies-hacendado-40-pepitas-chocolate-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/8ce98b32ae942aa485f68c03e674f858.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Mini galletas Cookies Hacendado",
+          "id": "14161",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "8.75",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "8.750",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 4,
+            "unit_name": "bolsitas",
+            "unit_price": "1.40",
+            "unit_selector": true,
+            "unit_size": 0.16
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14161/galletas-mini-cookies-hacendado-caja",
+          "slug": "galletas-mini-cookies-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/cd39afc44412e0786e9830d6d7e960a1.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Galletas rebuenas Hacendado rellenas de chocolate",
+          "id": "14157",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.60",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "2.600",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.30",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14157/galletas-rebuenas-hacendado-rellenas-chocolate-paquete",
+          "slug": "galletas-rebuenas-hacendado-rellenas-chocolate-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/77aa3673bc39603fc56d5bfc3abf197a.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Galletas Chocominis sabor chocolate Hacendado",
+          "id": "14159",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.70",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "3.700",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.85",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14159/galletas-chocominis-sabor-chocolate-hacendado-caja",
+          "slug": "galletas-chocominis-sabor-chocolate-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/c4b883003d2ed5b43723c5761426e0d2.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Galletas Digestive chocolate con leche Hacendado",
+          "id": "14131",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "4.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "4.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.35",
+            "unit_selector": true,
+            "unit_size": 0.3
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14131/galletas-digestive-chocolate-con-leche-hacendado-paquete",
+          "slug": "galletas-digestive-chocolate-con-leche-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/9cc53b960bd7e0aa69c37adb61c68f69.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Galletas Roditas bañadas con chocolate blanco Hacendado",
+          "id": "13811",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "7.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "7.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 4,
+            "unit_name": "paquetes",
+            "unit_price": "2.10",
+            "unit_selector": true,
+            "unit_size": 0.3
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/13811/galletas-roditas-banadas-con-chocolate-blanco-hacendado-caja",
+          "slug": "galletas-roditas-banadas-con-chocolate-blanco-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/bf66850ad09b5446b92c013c7426270d.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Mini galletas caritas Hacendado con crema de cacao",
+          "id": "14085",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "4.26",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "4.256",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 8,
+            "unit_name": "paquetes",
+            "unit_price": "1.40",
+            "unit_selector": true,
+            "unit_size": 0.329
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14085/galletas-mini-caritas-hacendado-con-crema-cacao-caja",
+          "slug": "galletas-mini-caritas-hacendado-con-crema-cacao-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/0a600d4d3c2f924da76e5d332c73c42d.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Galletas de cacao Caocream Hacendado rellenas de crema",
+          "id": "15597",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.52",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "3.523",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 10,
+            "unit_name": "paquetes",
+            "unit_price": "1.55",
+            "unit_selector": true,
+            "unit_size": 0.44
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/15597/galletas-caocream-hacendado-rellenas-crema-caja",
+          "slug": "galletas-caocream-hacendado-rellenas-crema-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/e5fba1c4e9d6ade8b5cae4227093475e.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Mini galletas de cacao Caocream Hacendado rellenas de crema",
+          "id": "20277",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "9.38",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "9.375",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 4,
+            "unit_name": "paquetes",
+            "unit_price": "1.50",
+            "unit_selector": true,
+            "unit_size": 0.16
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/20277/galletas-mini-caocream-cacao-hacendado-rellenas-crema-caja",
+          "slug": "galletas-mini-caocream-cacao-hacendado-rellenas-crema-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/918dcf98f8ad7b97884e2fce4a646c19.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Galletas Choco negro con chocolatina Hacendado",
+          "id": "14639",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "9.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "9.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 4,
+            "unit_name": "paquetes",
+            "unit_price": "1.35",
+            "unit_selector": true,
+            "unit_size": 0.15
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14639/galletas-choco-negro-con-chocolatina-hacendado-caja",
+          "slug": "galletas-choco-negro-con-chocolatina-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/d25d7f175088776a80ff69d2c4569b32.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Barritas de galleta bañadas en chocolate con leche Chips Ahoy",
+          "id": "14133",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "10.71",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "10.715",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 5,
+            "unit_name": "barritas",
+            "unit_price": "1.50",
+            "unit_selector": true,
+            "unit_size": 0.14
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14133/barritas-galleta-banadas-chocolate-con-leche-chips-ahoy-caja",
+          "slug": "barritas-galleta-banadas-chocolate-con-leche-chips-ahoy-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/fc1f3da1290f5b6e78f240714ebe9094.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Galletas con chocolate y crema de leche Hacendado",
+          "id": "14038",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "9.89",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "9.889",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 8,
+            "unit_name": "paquetes",
+            "unit_price": "2.65",
+            "unit_selector": true,
+            "unit_size": 0.268
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14038/galletas-con-chocolate-crema-leche-hacendado-caja",
+          "slug": "galletas-con-chocolate-crema-leche-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/507271ff3760f7aafa67951e0fc6b219.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Galletas de cacao Caocream bañadas de chocolate blanco Hacendado rellenas de crema",
+          "id": "14153",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "rellenas de crema",
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "7.74",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "7.739",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "paquetes",
+            "unit_price": "1.95",
+            "unit_selector": true,
+            "unit_size": 0.252
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14153/galletas-caocream-chocolate-blanco-hacendado-rellenas-crema-caja",
+          "slug": "galletas-caocream-chocolate-blanco-hacendado-rellenas-crema-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/6a6439a7225197317ed31e180fee6bd2.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Galletas rellenas de chocolate Hacendado 0% azúcares añadidos",
+          "id": "15844",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "0% azúcares añadidos",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "5.60",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "5.600",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.40",
+            "unit_selector": true,
+            "unit_size": 0.25
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/15844/galletas-rellenas-chocolate-hacendado-0-azucares-anadidos-paquete",
+          "slug": "galletas-rellenas-chocolate-hacendado-0-azucares-anadidos-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/6ae9d11b416fdd767b6ffba9e9fcc9cc.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Barquillos rellenos sabor nata Hacendado",
+          "id": "14576",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "4.76",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "4.762",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.00",
+            "unit_selector": true,
+            "unit_size": 0.21
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14576/barquillos-rellenos-sabor-nata-hacendado-paquete",
+          "slug": "barquillos-rellenos-sabor-nata-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/657237a00e02650cc2f8cbbf9d04ae47.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Barquillos rellenos con crema de cacao Hacendado",
+          "id": "14239",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "5.71",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "5.715",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.00",
+            "unit_selector": true,
+            "unit_size": 0.175
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14239/barquillos-rellenos-con-crema-cacao-hacendado-paquete",
+          "slug": "barquillos-rellenos-con-crema-cacao-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/f399b0865ad23b6df2245a647be537e0.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Galletas con chocolate blanco Hacendado",
+          "id": "14151",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "5.51",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "5.509",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "paquetes",
+            "unit_price": "1.30",
+            "unit_selector": true,
+            "unit_size": 0.2358
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14151/galletas-con-chocolate-blanco-hacendado-caja",
+          "slug": "galletas-con-chocolate-blanco-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/a6b5344fd22d79ca6ec8ad94d12feadb.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Galletas Digestive avena chocolate con leche Hacendado",
+          "id": "52594",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "5.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "5.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.40",
+            "unit_selector": true,
+            "unit_size": 0.28
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/52594/galletas-digestive-avena-chocolate-con-leche-hacendado-paquete",
+          "slug": "galletas-digestive-avena-chocolate-con-leche-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/3e17ecf7274093b44ef500a4482fdc3b.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Barquillos rellenos de nata Hacendado 0% azúcares añadidos",
+          "id": "14136",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "5.24",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "5.239",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.10",
+            "unit_selector": true,
+            "unit_size": 0.21
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14136/barquillos-rellenos-nata-hacendado-0-azucares-anadidos-paquete",
+          "slug": "barquillos-rellenos-nata-hacendado-0-azucares-anadidos-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/52b9d6d6eb268af80e7597356a50ad4a.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Galletas cookies sin gluten y sin lactosa Hacendado",
+          "id": "14637",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "10.25",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "10.250",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.05",
+            "unit_selector": true,
+            "unit_size": 0.2
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14637/galletas-cookies-sin-gluten-sin-lactosa-hacendado-paquete",
+          "slug": "galletas-cookies-sin-gluten-sin-lactosa-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/5aa1b9df52517498adddb0ed8d4bebb0.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Galletas Choco leche con chocolatina Hacendado",
+          "id": "14641",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "9.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "9.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 4,
+            "unit_name": "paquetes",
+            "unit_price": "1.35",
+            "unit_selector": true,
+            "unit_size": 0.15
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14641/galletas-choco-leche-con-chocolatina-hacendado-caja",
+          "slug": "galletas-choco-leche-con-chocolatina-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/8391b82efd2c1caf4348ee2a05c8fd01.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Tartaletas con relleno de fresa Hacendado",
+          "id": "14173",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "7.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "7.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.05",
+            "unit_selector": true,
+            "unit_size": 0.15
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14173/tartaletes-con-relleno-fresa-hacendado-paquete",
+          "slug": "tartaletes-con-relleno-fresa-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/ac82b496a41f9ae75007d5cb2d1153db.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Barquillos con crema de avellanas Hacendado",
+          "id": "14241",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "6.40",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "6.400",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.60",
+            "unit_selector": true,
+            "unit_size": 0.25
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14241/barquillos-con-crema-avellanas-hacendado-paquete",
+          "slug": "barquillos-con-crema-avellanas-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/c51ba88a8aa175eeea842266506ef7bc.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Rosquillas de chocolate con leche y coco Hacendado",
+          "id": "13656",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "5.83",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "5.834",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.75",
+            "unit_selector": true,
+            "unit_size": 0.3
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/13656/rosquillas-chocolate-con-leche-coco-hacendado-caja",
+          "slug": "rosquillas-chocolate-con-leche-coco-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/b5cc245fcd571b06777d72c09c1493f8.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Galletas Crunchy Choc Hacendado",
+          "id": "23064",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "5.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "5.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.60",
+            "unit_selector": true,
+            "unit_size": 0.52
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/23064/galletas-crunchy-choc-hacendado-con-arroz-inflado-chocolateado-chips-chocolate-caja",
+          "slug": "galletas-crunchy-choc-hacendado-con-arroz-inflado-chocolateado-chips-chocolate-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/dcc2123704170392e06ab1913a66f432.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Galletas Divertidas chocolate con leche Hacendado",
+          "id": "52592",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "7.17",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "7.172",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "paquetes",
+            "unit_price": "1.80",
+            "unit_selector": true,
+            "unit_size": 0.251
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/52592/galletas-divertidas-chocolate-con-leche-hacendado-caja",
+          "slug": "galletas-divertidas-chocolate-con-leche-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/51d47accde858f947c0e6c9cb093a70a.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Galletas Classic Choc Hacendado",
+          "id": "21986",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "4.95",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "4.946",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "paquetes",
+            "unit_price": "1.35",
+            "unit_selector": true,
+            "unit_size": 0.273
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/21986/galletas-classic-choc-hacendado-caja",
+          "slug": "galletas-classic-choc-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/89c37f3708daadedcb8d5d5f41f2dde0.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    },
+    {
+      "id": 822,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Galletas surtidas",
+      "order": 18,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Surtido de galletas y barquillos Hacendado",
+          "id": "14711",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "4.40",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "4.400",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.20",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14711/surtido-galletas-barquillos-hacendado-paquete",
+          "slug": "surtido-galletas-barquillos-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/35255774d8971d460f7b63f9f56ce55b.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Surtido de pastas artesanas Hacendado",
+          "id": "14587",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "4.70",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "4.700",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 1,
+            "unit_name": "bandeja",
+            "unit_price": "2.35",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14587/surtido-pastas-artesanas-hacendado-caja",
+          "slug": "surtido-pastas-artesanas-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/9e54b56b77df48a29e0cd5e7409ce81c.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Obleas para helado Hacendado",
+          "id": "15953",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "13.46",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "13.462",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 24,
+            "unit_name": "ud.",
+            "unit_price": "0.70",
+            "unit_selector": true,
+            "unit_size": 0.052
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/15953/obleas-helado-hacendado-paquete",
+          "slug": "obleas-helado-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/7b42c3270718d22d03263dc39d1ce6b6.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    }
+  ],
+  "id": 80,
+  "is_extended": false,
+  "layout": 1,
+  "name": "Galletas",
+  "next_category": {
+    "id": 79,
+    "name": "Tortitas"
+  },
+  "order": 18,
+  "published": true
+}

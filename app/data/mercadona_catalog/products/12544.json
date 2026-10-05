@@ -1,0 +1,133 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 382,
+              "level": 2,
+              "name": "Chocolate negro",
+              "order": 11
+            }
+          ],
+          "id": 92,
+          "level": 1,
+          "name": "Chocolate",
+          "order": 11
+        }
+      ],
+      "id": 9,
+      "level": 0,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 339,
+              "level": 2,
+              "name": "Levadura y preparado repostería",
+              "order": 515
+            }
+          ],
+          "id": 69,
+          "level": 1,
+          "name": "Harina y preparado repostería",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Gotas de chocolate negro para fundir Hacendado",
+    "legal_name": "GOTAS DE CHOCOLATE PARA FUNDIR",
+    "mandatory_mentions": "SIN GLUTEN",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco, seco y alejado de olores. Temperatura ideal de conservación: 18ºC-20ºC",
+    "suppliers": [
+      {
+        "name": "Sanchis Mira S.A."
+      }
+    ],
+    "usage_instructions": "BAÑO MARÍA: Fundir al baño María removiendo de vez en cuando. MICROONDAS: Introducir las gotas en un recipiente apto para microondas. Calentar durante periodos de 2 minutos a potencia media. Vigilar y remover el chocolate hasta obtener el punto 'fondue'. A LA TAZA: Verter y calentar un poco de leche en un cazo. Añadir las gotas de chocolate removiendo constantemente. Añadir más leche al gusto."
+  },
+  "display_name": "Gotas de chocolate negro para fundir Hacendado",
+  "ean": "8480000125446",
+  "extra_info": [
+    null
+  ],
+  "id": "12544",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>frutos de cáscara</strong>.",
+    "ingredients": "Azúcar, pasta de cacao, manteca de cacao, emulgentes (lecitina de girasol, E-476), aroma natural de vainilla. Cacao: 44% mínimo. ALÉRGENOS: Trazas de <strong>frutos de cáscara</strong>, <strong>leche</strong> y <strong>soja</strong>."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/5a6ad3c58e5310b8079675594f796bab.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5a6ad3c58e5310b8079675594f796bab.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5a6ad3c58e5310b8079675594f796bab.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/7279c3189f9b4714a57daf3aa316d300.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7279c3189f9b4714a57daf3aa316d300.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7279c3189f9b4714a57daf3aa316d300.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "11.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "11.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.75",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/12544/gotas-chocolate-negro-fundir-hacendado-paquete",
+  "slug": "gotas-chocolate-negro-fundir-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/5a6ad3c58e5310b8079675594f796bab.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

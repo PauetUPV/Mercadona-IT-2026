@@ -1,0 +1,117 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Colagen",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 685,
+              "level": 2,
+              "name": "Fitoterapia",
+              "order": 305
+            }
+          ],
+          "id": 213,
+          "level": 1,
+          "name": "Fitoterapia",
+          "order": 305
+        }
+      ],
+      "id": 23,
+      "level": 0,
+      "name": "Fitoterapia y parafarmacia",
+      "order": 305
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Colagen",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Colágeno soluble sabor limón Colagen complemento alimenticio Deliplus",
+    "legal_name": "Complemento alimenticio a base de colágeno, magnesio, vitamina C y ácido hialurónico. Con edulcorante.",
+    "mandatory_mentions": "Otros valores nutricionales por 12g (1 cacito): Colágeno 10g; Hialuronato de sodio (del cuál ácido hialurónico) 23.8mg. No superar la dosis diaria expresamente recomendada. Los complementos alimenticios no deben ser utilizados como sustitutos de una dieta variada y equilibrada y un estilo de vida saludable. Mantener fuera del alcance de los niños.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco, seco y alejado de la luz. Conservar a temperatura entre 5 - 30C. Mantener el envase siempre cerrado. Una vez abierto consumir antes de 60 días.",
+    "suppliers": [
+      {
+        "name": "LABORATORIOS ADMIRA, S.L."
+      }
+    ],
+    "usage_instructions": "Tomar 1 cacito completo (12 g aprox.), disuelto en 150 ml agua. Mezclar hasta total disolución."
+  },
+  "display_name": "Colágeno soluble sabor limón Colagen",
+  "ean": "8402001008276",
+  "extra_info": [
+    ""
+  ],
+  "id": "35588",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Colágeno hidrolizado porcino, Citrato de magnesio, Aroma de limón, Maltodextrina, Corrector de acidez (Ácido cítrico), Edulcorante (Sucralosa), Vitamina C (Ácido L-ascórbico), Hialuronato sódico."
+  },
+  "origin": null,
+  "packaging": "Bote",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/b373e369d67ce9234fcc5cd617cbf5df.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b373e369d67ce9234fcc5cd617cbf5df.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b373e369d67ce9234fcc5cd617cbf5df.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/9e13db408fac296e746ca322a9572448.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9e13db408fac296e746ca322a9572448.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9e13db408fac296e746ca322a9572448.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/56c7602a57dc93d11fb89d8e7bcd4056.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/56c7602a57dc93d11fb89d8e7bcd4056.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/56c7602a57dc93d11fb89d8e7bcd4056.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "21.20",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "100 g",
+    "reference_price": "2.120",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "5.30",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/35588/colageno-soluble-sabor-limon-colagen-complemento-alimenticio-deliplus-bote",
+  "slug": "colageno-soluble-sabor-limon-colagen-complemento-alimenticio-deliplus-bote",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/b373e369d67ce9234fcc5cd617cbf5df.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

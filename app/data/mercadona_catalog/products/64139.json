@@ -1,0 +1,119 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 524,
+              "level": 2,
+              "name": "Hielo",
+              "order": 213
+            }
+          ],
+          "id": 155,
+          "level": 1,
+          "name": "Hielo",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Hielo cocktail",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Hielo Coctel",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar a una temperatura entre -5C y -25C.",
+    "suppliers": [
+      {
+        "name": "Cubi Playa S.L."
+      },
+      {
+        "name": "Nazarena del Hielo S.L"
+      },
+      {
+        "name": "Sierra Nevada Fábrica De Cubitos S.L"
+      }
+    ],
+    "usage_instructions": "Mantener en congelación. Producto listo para consumo"
+  },
+  "display_name": "Hielo cocktail",
+  "ean": "8402001035333",
+  "extra_info": [
+    null
+  ],
+  "id": "64139",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Agua filtrada, osmotizada y clorada"
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/58a58d2dac231f62b518bdb84368e9fd.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/58a58d2dac231f62b518bdb84368e9fd.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/58a58d2dac231f62b518bdb84368e9fd.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/480c92ff6dce15e23f59c72299bea9c4.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/480c92ff6dce15e23f59c72299bea9c4.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/480c92ff6dce15e23f59c72299bea9c4.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "0.75",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "0.750",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.50",
+    "unit_selector": true,
+    "unit_size": 2.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/64139/hielo-cocktail-paquete",
+  "slug": "hielo-cocktail-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/58a58d2dac231f62b518bdb84368e9fd.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

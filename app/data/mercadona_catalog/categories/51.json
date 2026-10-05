@@ -1,0 +1,2379 @@
+{
+  "categories": [
+    {
+      "id": 301,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Salchichón",
+      "order": 159,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 4,
+              "level": 0,
+              "name": "Charcutería y quesos",
+              "order": 159
+            }
+          ],
+          "display_name": "Fuet espetec Hacendado",
+          "id": "55108",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Pieza",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "2.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "ud",
+            "reference_price": "2.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.50",
+            "unit_selector": true,
+            "unit_size": 0.24
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/55108/fuet-espetec-extra-hacendado",
+          "slug": "fuet-espetec-extra-hacendado",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/48278c0256b60b572544a0edf0427c6c.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 4,
+              "level": 0,
+              "name": "Charcutería y quesos",
+              "order": 159
+            }
+          ],
+          "display_name": "Salchichón extra Hacendado lonchas",
+          "id": "59085",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "lonchas",
+          "packaging": "Pack-4",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "7.29",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.06,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "7.292",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 4,
+            "unit_name": "paquetes",
+            "unit_price": "1.75",
+            "unit_selector": true,
+            "unit_size": 0.24
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/59085/salchichon-extra-hacendado-lonchas-pack-4",
+          "slug": "salchichon-extra-hacendado-lonchas-pack-4",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/15e558ca440ad3f1a7f40d1f92c0d6da.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 4,
+              "level": 0,
+              "name": "Charcutería y quesos",
+              "order": 159
+            }
+          ],
+          "display_name": "Sticks longaniza extra Hacendado",
+          "id": "59078",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "22.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "22.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 5,
+            "unit_name": "sticks",
+            "unit_price": "1.10",
+            "unit_selector": true,
+            "unit_size": 0.05
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/59078/sticks-longaniza-extra-hacendado-paquete",
+          "slug": "sticks-longaniza-extra-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/045933b7238ece7f9e1a3ce781526df6.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 4,
+              "level": 0,
+              "name": "Charcutería y quesos",
+              "order": 159
+            }
+          ],
+          "display_name": "Longaniza de Pascua extra Hacendado",
+          "id": "21435",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "15.56",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "15.556",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.80",
+            "unit_selector": true,
+            "unit_size": 0.18
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/21435/longaniza-pascua-extra-hacendado-paquete",
+          "slug": "longaniza-pascua-extra-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/bcc32ed658fc6d727c773f5f03ceee9f.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 4,
+              "level": 0,
+              "name": "Charcutería y quesos",
+              "order": 159
+            }
+          ],
+          "display_name": "Salchichón extra Hacendado lonchas",
+          "id": "12086",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "lonchas",
+          "packaging": null,
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "12.25",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.05,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "12.250",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 4,
+            "unit_name": "paquetes",
+            "unit_price": "2.45",
+            "unit_selector": true,
+            "unit_size": 0.2
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/12086/salchichon-extra-hacendado-lonchas",
+          "slug": "salchichon-extra-hacendado-lonchas",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/efaa6452836b1e6523ad05e38cb56c4e.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 4,
+              "level": 0,
+              "name": "Charcutería y quesos",
+              "order": 159
+            }
+          ],
+          "display_name": "Longaniza de payés extra Hacendado lonchas",
+          "id": "20150",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "lonchas",
+          "packaging": null,
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "16.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.0375,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "16.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 4,
+            "unit_name": "paquetes",
+            "unit_price": "2.40",
+            "unit_selector": true,
+            "unit_size": 0.15
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/20150/longaniza-payes-extra-hacendado-lonchas",
+          "slug": "longaniza-payes-extra-hacendado-lonchas",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/a76781766d5a384a107426655cc9868c.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 4,
+              "level": 0,
+              "name": "Charcutería y quesos",
+              "order": 159
+            }
+          ],
+          "display_name": "Salami extra Hacendado lonchas",
+          "id": "59090",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "lonchas",
+          "packaging": "Pack-4",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "7.29",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.06,
+            "previous_unit_price": "        1.85",
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "7.292",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 4,
+            "unit_name": "paquetes",
+            "unit_price": "1.75",
+            "unit_selector": true,
+            "unit_size": 0.24
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/59090/salami-extra-hacendado-lonchas-pack-4",
+          "slug": "salami-extra-hacendado-lonchas-pack-4",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/d279f0bbaa09074303eae6d33b239af4.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 4,
+              "level": 0,
+              "name": "Charcutería y quesos",
+              "order": 159
+            }
+          ],
+          "display_name": "Salchichón de cebo ibérico cortado a máquina",
+          "id": "15109",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "29.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "29.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.19",
+            "unit_selector": true,
+            "unit_size": 0.11
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/15109/salchichon-cebo-iberico-cortado-maquina-envasado-vacio-paquete",
+          "slug": "salchichon-cebo-iberico-cortado-maquina-envasado-vacio-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/b4df3d3cd4883471d9ab1681ef6421e0.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 4,
+              "level": 0,
+              "name": "Charcutería y quesos",
+              "order": 159
+            }
+          ],
+          "display_name": "Salchichón de bellota ibérico cortado a máquina",
+          "id": "15116",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "37.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "37.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "4.07",
+            "unit_selector": true,
+            "unit_size": 0.11
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/15116/salchichon-bellota-iberico-cortado-maquina-envasado-vacio-paquete",
+          "slug": "salchichon-bellota-iberico-cortado-maquina-envasado-vacio-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/2e0d17852ad2a4c908fcf35742ce63ce.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 4,
+              "level": 0,
+              "name": "Charcutería y quesos",
+              "order": 159
+            }
+          ],
+          "display_name": "Salchichón ibérico extra La Hacienda del ibérico lonchas",
+          "id": "60698",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Pack-4",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "18.40",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.03125,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "18.400",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 4,
+            "unit_name": "paquetes",
+            "unit_price": "2.30",
+            "unit_selector": true,
+            "unit_size": 0.125
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/60698/salchichon-iberico-extra-hacienda-iberico-lonchas-pack-4",
+          "slug": "salchichon-iberico-extra-hacienda-iberico-lonchas-pack-4",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/2155b81a513f54858341f330c4247f30.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 4,
+              "level": 0,
+              "name": "Charcutería y quesos",
+              "order": 159
+            }
+          ],
+          "display_name": "Longaniza clásica extra Hacendado",
+          "id": "55125",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Pieza",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "2.80",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "ud",
+            "reference_price": "2.800",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.80",
+            "unit_selector": true,
+            "unit_size": 0.28
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/55125/longaniza-clasica-extra-hacendado",
+          "slug": "longaniza-clasica-extra-hacendado",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/3a4c2f18bebb054b79f110585f424b4d.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 4,
+              "level": 0,
+              "name": "Charcutería y quesos",
+              "order": 159
+            }
+          ],
+          "display_name": "Longaniza de payés extra Hacendado",
+          "id": "16282",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Pieza",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "3.95",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "ud",
+            "reference_price": "3.950",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.95",
+            "unit_selector": true,
+            "unit_size": 0.28
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/16282/longaniza-payes-extra-hacendado-pieza",
+          "slug": "longaniza-payes-extra-hacendado-pieza",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/3cee025f342e7413413a3fdc25b37c22.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 4,
+              "level": 0,
+              "name": "Charcutería y quesos",
+              "order": 159
+            }
+          ],
+          "display_name": "Salami montañés extra El Pozo",
+          "id": "55028",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Pieza",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "1.85",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "ud",
+            "reference_price": "1.850",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.85",
+            "unit_selector": true,
+            "unit_size": 0.2
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/55028/salami-montanes-extra-pozo",
+          "slug": "salami-montanes-extra-pozo",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/ba603d567afcd3410f7ade71c4ba8512.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 4,
+              "level": 0,
+              "name": "Charcutería y quesos",
+              "order": 159
+            }
+          ],
+          "display_name": "Salchichón cular ibérico extra La Hacienda del ibérico",
+          "id": "58159",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Pieza",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "17.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "17.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "8.50",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/58159/salchichon-cular-iberico-extra-hacienda-iberico-pieza",
+          "slug": "salchichon-cular-iberico-extra-hacienda-iberico-pieza",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/27c7d31a62690fc18656d9b229685f90.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 4,
+              "level": 0,
+              "name": "Charcutería y quesos",
+              "order": 159
+            }
+          ],
+          "display_name": "Mini salchichón ibérico extra La Hacienda del ibérico",
+          "id": "58248",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Pieza",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "13.25",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "13.250",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.65",
+            "unit_selector": true,
+            "unit_size": 0.2
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/58248/mini-salchichon-iberico-extra-hacienda-iberico-pieza",
+          "slug": "mini-salchichon-iberico-extra-hacienda-iberico-pieza",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/903ab8d040b24e8e6418557225ab8196.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 4,
+              "level": 0,
+              "name": "Charcutería y quesos",
+              "order": 159
+            }
+          ],
+          "display_name": "Longaniza de Aragón extra Cárnicas Gállego",
+          "id": "40302",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Pieza",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "13.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "13.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.25",
+            "unit_selector": true,
+            "unit_size": 0.25
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/40302/longaniza-aragon-extra-carnicas-gallego-pieza",
+          "slug": "longaniza-aragon-extra-carnicas-gallego-pieza",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/ef67663238b6777e3bb65f024795cceb.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 4,
+              "level": 0,
+              "name": "Charcutería y quesos",
+              "order": 159
+            }
+          ],
+          "display_name": "Longaniza de pavo extra Hacendado lonchas",
+          "id": "59165",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "lonchas",
+          "packaging": "Pack-4",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "22.40",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.03125,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "22.400",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 4,
+            "unit_name": "paquetes",
+            "unit_price": "2.80",
+            "unit_selector": true,
+            "unit_size": 0.125
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/59165/longaniza-pavo-extra-hacendado-lonchas-pack-4",
+          "slug": "longaniza-pavo-extra-hacendado-lonchas-pack-4",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/869824136a75badac404e2ec0522ce0b.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 4,
+              "level": 0,
+              "name": "Charcutería y quesos",
+              "order": 159
+            }
+          ],
+          "display_name": "Salchichón de pavo extra Hacendado lonchas",
+          "id": "59159",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "lonchas",
+          "packaging": "Pack-4",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "18.67",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.0375,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "18.667",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 4,
+            "unit_name": "paquetes",
+            "unit_price": "2.80",
+            "unit_selector": true,
+            "unit_size": 0.15
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/59159/salchichon-pavo-extra-hacendado-lonchas-pack-4",
+          "slug": "salchichon-pavo-extra-hacendado-lonchas-pack-4",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/e52cc37d238bef484922733955772aab.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 4,
+              "level": 0,
+              "name": "Charcutería y quesos",
+              "order": 159
+            }
+          ],
+          "display_name": "Pepperoni Hacendado lonchas",
+          "id": "60964",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "21.33",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "21.334",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.60",
+            "unit_selector": true,
+            "unit_size": 0.075
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/60964/pepperoni-lonchas-hacendado-paquete",
+          "slug": "pepperoni-lonchas-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/93aa87d3317ec621febadb831d1b56ca.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 4,
+              "level": 0,
+              "name": "Charcutería y quesos",
+              "order": 159
+            }
+          ],
+          "display_name": "Salami extra pimienta Hacendado finas lonchas",
+          "id": "16485",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "finas lonchas",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "17.39",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "17.392",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.00",
+            "unit_selector": true,
+            "unit_size": 0.115
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/16485/salami-extra-pimienta-hacendado-finas-lonchas-paquete",
+          "slug": "salami-extra-pimienta-hacendado-finas-lonchas-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/4c8304cc153e5612ca57bff904345a34.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 4,
+              "level": 0,
+              "name": "Charcutería y quesos",
+              "order": 159
+            }
+          ],
+          "display_name": "Salchichón extra pimienta Hacendado finas lonchas",
+          "id": "16484",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "finas lonchas",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "17.39",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "17.392",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.00",
+            "unit_selector": true,
+            "unit_size": 0.115
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/16484/salchichon-extra-pimienta-hacendado-finas-lonchas-paquete",
+          "slug": "salchichon-extra-pimienta-hacendado-finas-lonchas-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/5fa3acd24ba6e64b931f85daf4f9f03a.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    },
+    {
+      "id": 824,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Chorizo",
+      "order": 159,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 4,
+              "level": 0,
+              "name": "Charcutería y quesos",
+              "order": 159
+            }
+          ],
+          "display_name": "Chorizo Pamplona extra Hacendado lonchas",
+          "id": "12073",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "lonchas",
+          "packaging": null,
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "7.29",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.06,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "7.292",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 4,
+            "unit_name": "paquetes",
+            "unit_price": "1.75",
+            "unit_selector": true,
+            "unit_size": 0.24
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/12073/chorizo-pamplona-extra-hacendado-lonchas",
+          "slug": "chorizo-pamplona-extra-hacendado-lonchas",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/0c970bbd9ecdc4e0216f49729fbda2a2.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 4,
+              "level": 0,
+              "name": "Charcutería y quesos",
+              "order": 159
+            }
+          ],
+          "display_name": "Chorizo extra Hacendado lonchas",
+          "id": "59086",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "lonchas",
+          "packaging": "Pack-4",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "7.29",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.06,
+            "previous_unit_price": "        1.85",
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "7.292",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 4,
+            "unit_name": "paquetes",
+            "unit_price": "1.75",
+            "unit_selector": true,
+            "unit_size": 0.24
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/59086/chorizo-extra-hacendado-lonchas-pack-4",
+          "slug": "chorizo-extra-hacendado-lonchas-pack-4",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/a3c8d81c0bf6455519355907265b3f98.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 4,
+              "level": 0,
+              "name": "Charcutería y quesos",
+              "order": 159
+            }
+          ],
+          "display_name": "Chorizo de pavo extra Hacendado lonchas",
+          "id": "59158",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "lonchas",
+          "packaging": "Pack-4",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "18.67",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.0375,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "18.667",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 4,
+            "unit_name": "paquetes",
+            "unit_price": "2.80",
+            "unit_selector": true,
+            "unit_size": 0.15
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/59158/chorizo-pavo-extra-hacendado-lonchas-pack-4",
+          "slug": "chorizo-pavo-extra-hacendado-lonchas-pack-4",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/597365a2bf9807a16a511d2258fe6166.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 4,
+              "level": 0,
+              "name": "Charcutería y quesos",
+              "order": 159
+            }
+          ],
+          "display_name": "Chorizo ibérico extra La Hacienda del ibérico lonchas",
+          "id": "60699",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Pack-4",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "18.40",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.03125,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "18.400",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 4,
+            "unit_name": "paquetes",
+            "unit_price": "2.30",
+            "unit_selector": true,
+            "unit_size": 0.125
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/60699/chorizo-iberico-extra-hacienda-iberico-lonchas-pack-4",
+          "slug": "chorizo-iberico-extra-hacienda-iberico-lonchas-pack-4",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/c32bb936689c715d78f1fdbc684978fb.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 4,
+              "level": 0,
+              "name": "Charcutería y quesos",
+              "order": 159
+            }
+          ],
+          "display_name": "Chorizo picante extra Hacendado",
+          "id": "54210",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Pieza",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "8.89",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "8.893",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.49",
+            "unit_selector": true,
+            "unit_size": 0.28
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/54210/chorizo-picante-extra-hacendado-pieza",
+          "slug": "chorizo-picante-extra-hacendado-pieza",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/d371c010a00bffc13ace25768fe416a4.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 4,
+              "level": 0,
+              "name": "Charcutería y quesos",
+              "order": 159
+            }
+          ],
+          "display_name": "Taquitos de chorizo extra Revilla",
+          "id": "55135",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Pack-2",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "12.75",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.1,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "12.750",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 2,
+            "unit_name": "paquetes",
+            "unit_price": "2.55",
+            "unit_selector": true,
+            "unit_size": 0.2
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/55135/taquitos-chorizo-extra-revilla-pack-2",
+          "slug": "taquitos-chorizo-extra-revilla-pack-2",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/00eb1e67f1f06f8ab4c173dbbfeca958.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 4,
+              "level": 0,
+              "name": "Charcutería y quesos",
+              "order": 159
+            }
+          ],
+          "display_name": "Chorizo picante extra Hacendado lonchas",
+          "id": "12084",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "lonchas",
+          "packaging": null,
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "10.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.06,
+            "previous_unit_price": "        2.50",
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "10.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 4,
+            "unit_name": "paquetes",
+            "unit_price": "2.40",
+            "unit_selector": true,
+            "unit_size": 0.24
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/12084/chorizo-picante-extra-hacendado-lonchas",
+          "slug": "chorizo-picante-extra-hacendado-lonchas",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/c733c61cd1bc7a16ed32cf82d7bc1620.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 4,
+              "level": 0,
+              "name": "Charcutería y quesos",
+              "order": 159
+            }
+          ],
+          "display_name": "Chorizo extra pimienta Hacendado finas lonchas",
+          "id": "59080",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "finas lonchas",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "18.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "18.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.85",
+            "unit_selector": true,
+            "unit_size": 0.1
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/59080/chorizo-extra-pimienta-hacendado-finas-lonchas-paquete",
+          "slug": "chorizo-extra-pimienta-hacendado-finas-lonchas-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/81f1695cec923c15abc720e678eb1816.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 4,
+              "level": 0,
+              "name": "Charcutería y quesos",
+              "order": 159
+            }
+          ],
+          "display_name": "Chorizo de cebo ibérico cortado a máquina",
+          "id": "15104",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "29.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "29.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.19",
+            "unit_selector": true,
+            "unit_size": 0.11
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/15104/chorizo-cebo-iberico-cortado-maquina-envasado-vacio-paquete",
+          "slug": "chorizo-cebo-iberico-cortado-maquina-envasado-vacio-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/1ea1d475289b0cfe3e0770e66a49fa40.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 4,
+              "level": 0,
+              "name": "Charcutería y quesos",
+              "order": 159
+            }
+          ],
+          "display_name": "Chorizo de bellota ibérico cortado a máquina",
+          "id": "15112",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "37.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "37.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "4.07",
+            "unit_selector": true,
+            "unit_size": 0.11
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/15112/chorizo-bellota-iberico-cortado-maquina-envasado-vacio-paquete",
+          "slug": "chorizo-bellota-iberico-cortado-maquina-envasado-vacio-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/fdf62ab2a949c283cab3dc986f2273bc.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 4,
+              "level": 0,
+              "name": "Charcutería y quesos",
+              "order": 159
+            }
+          ],
+          "display_name": "Chorizo dulce extra Hacendado",
+          "id": "54209",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Pieza",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "8.89",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "8.893",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.49",
+            "unit_selector": true,
+            "unit_size": 0.28
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/54209/chorizo-dulce-extra-hacendado-pieza",
+          "slug": "chorizo-dulce-extra-hacendado-pieza",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/87a27bdd0d2ebaba9be032cc9d798f3e.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 4,
+              "level": 0,
+              "name": "Charcutería y quesos",
+              "order": 159
+            }
+          ],
+          "display_name": "Mini chorizo ibérico extra La Hacienda del ibérico",
+          "id": "58247",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Pieza",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "13.25",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "13.250",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.65",
+            "unit_selector": true,
+            "unit_size": 0.2
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/58247/mini-chorizo-iberico-extra-hacienda-iberico-pieza",
+          "slug": "mini-chorizo-iberico-extra-hacienda-iberico-pieza",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/dc134ad77e68f1b9e89b4c2ce4f35ad4.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 4,
+              "level": 0,
+              "name": "Charcutería y quesos",
+              "order": 159
+            }
+          ],
+          "display_name": "Chorizo de Tarancón Bricio",
+          "id": "54105",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Pieza",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "3.05",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "ud",
+            "reference_price": "3.050",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.05",
+            "unit_selector": true,
+            "unit_size": 0.35
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/54105/chorizo-tarancon-bricio",
+          "slug": "chorizo-tarancon-bricio",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/4b8175b7ecd7036cf61607512296492b.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 4,
+              "level": 0,
+              "name": "Charcutería y quesos",
+              "order": 159
+            }
+          ],
+          "display_name": "Chorizo cular ibérico extra La Hacienda del ibérico",
+          "id": "58160",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Pieza",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "17.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "17.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "8.50",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/58160/chorizo-cular-iberico-extra-hacienda-iberico-pieza",
+          "slug": "chorizo-cular-iberico-extra-hacienda-iberico-pieza",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/0d34bb57bf8937b93a13f1738056ec2a.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 4,
+              "level": 0,
+              "name": "Charcutería y quesos",
+              "order": 159
+            }
+          ],
+          "display_name": "Chorizo sarta dulce extra de León Hacendado",
+          "id": "23145",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Pieza",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "12.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "12.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "4.20",
+            "unit_selector": true,
+            "unit_size": 0.35
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/23145/chorizo-sarta-extra-ahumado-leon-pieza",
+          "slug": "chorizo-sarta-extra-ahumado-leon-pieza",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/55f73ec8e2dc43d2b052f6caedde4caf.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 4,
+              "level": 0,
+              "name": "Charcutería y quesos",
+              "order": 159
+            }
+          ],
+          "display_name": "Chorizo sarta picante extra de León Hacendado",
+          "id": "23146",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Pieza",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "12.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "12.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "4.20",
+            "unit_selector": true,
+            "unit_size": 0.35
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/23146/chorizo-sarta-extra-picante-ahumado-leon-pieza",
+          "slug": "chorizo-sarta-extra-picante-ahumado-leon-pieza",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/6fb54d37d3c626d7de58668ea3cac3cb.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 4,
+              "level": 0,
+              "name": "Charcutería y quesos",
+              "order": 159
+            }
+          ],
+          "display_name": "Chorizo ibérico La Hacienda del ibérico",
+          "id": "17462",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Pieza",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "12.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "12.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.50",
+            "unit_selector": true,
+            "unit_size": 0.2
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/17462/chorizo-iberico-hacienda-iberico-pieza",
+          "slug": "chorizo-iberico-hacienda-iberico-pieza",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/2cdd81f03a9c13f42da8eeb32ac255c8.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    },
+    {
+      "id": 302,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Lomo y otros",
+      "order": 159,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 4,
+              "level": 0,
+              "name": "Charcutería y quesos",
+              "order": 159
+            }
+          ],
+          "display_name": "Lomo embuchado Hacendado lonchas",
+          "id": "86444",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "lonchas",
+          "packaging": null,
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "17.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.0375,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "17.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 4,
+            "unit_name": "paquetes",
+            "unit_price": "2.55",
+            "unit_selector": true,
+            "unit_size": 0.15
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/86444/lomo-embuchado-hacendado-lonchas",
+          "slug": "lomo-embuchado-hacendado-lonchas",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/fe5275c25f5a00ab4496b3191040ed6f.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 4,
+              "level": 0,
+              "name": "Charcutería y quesos",
+              "order": 159
+            }
+          ],
+          "display_name": "Cabecero de lomo Hacendado lonchas",
+          "id": "86442",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "lonchas",
+          "packaging": null,
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "18.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.0375,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "18.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 4,
+            "unit_name": "paquetes",
+            "unit_price": "2.70",
+            "unit_selector": true,
+            "unit_size": 0.15
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/86442/cabecero-lomo-hacendado-lonchas",
+          "slug": "cabecero-lomo-hacendado-lonchas",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/7e9aca9ecdc532b220dceddb5d100659.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 4,
+              "level": 0,
+              "name": "Charcutería y quesos",
+              "order": 159
+            }
+          ],
+          "display_name": "Lomo de cebo ibérico 50% raza ibérica cortado a máquina",
+          "id": "15103",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "57.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "57.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "6.33",
+            "unit_selector": true,
+            "unit_size": 0.11
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/15103/lomo-cebo-iberico-50-raza-iberica-cortado-maquina-envasado-vacio-paquete",
+          "slug": "lomo-cebo-iberico-50-raza-iberica-cortado-maquina-envasado-vacio-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/f8b10ccd5de406cbcdbb401d1ad53ef4.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 4,
+              "level": 0,
+              "name": "Charcutería y quesos",
+              "order": 159
+            }
+          ],
+          "display_name": "Lomo de bellota ibérico 50% raza ibérica cortado a máquina",
+          "id": "15110",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "67.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "67.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "7.43",
+            "unit_selector": true,
+            "unit_size": 0.11
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/15110/lomo-bellota-iberico-50-raza-iberica-cortado-maquina-envasado-vacio-paquete",
+          "slug": "lomo-bellota-iberico-50-raza-iberica-cortado-maquina-envasado-vacio-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/1243802fa08933cc1c0c6cba99b451f1.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 4,
+              "level": 0,
+              "name": "Charcutería y quesos",
+              "order": 159
+            }
+          ],
+          "display_name": "Surtido de ibéricos La Hacienda del ibérico lonchas",
+          "id": "58230",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "lonchas",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "33.75",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "33.750",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "6.75",
+            "unit_selector": true,
+            "unit_size": 0.2
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/58230/surtido-ibericos-hacienda-iberico-contiene-jamon-cebo-chorizo-cana-lomo-cebo-salchichon-paquete",
+          "slug": "surtido-ibericos-hacienda-iberico-contiene-jamon-cebo-chorizo-cana-lomo-cebo-salchichon-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/b08cabeafda55ce6da99e8052ef56d4b.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 4,
+              "level": 0,
+              "name": "Charcutería y quesos",
+              "order": 159
+            }
+          ],
+          "display_name": "Lomo de pavo Hacendado lonchas",
+          "id": "12282",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "lonchas",
+          "packaging": null,
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "25.60",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.03125,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "25.600",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 4,
+            "unit_name": "paquetes",
+            "unit_price": "3.20",
+            "unit_selector": true,
+            "unit_size": 0.125
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/12282/lomo-pavo-hacendado-lonchas",
+          "slug": "lomo-pavo-hacendado-lonchas",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/ab4213a1cad06e813609fe4589af0837.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 4,
+              "level": 0,
+              "name": "Charcutería y quesos",
+              "order": 159
+            }
+          ],
+          "display_name": "Lomo Hacendado",
+          "id": "54053",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Pieza",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "17.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "17.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "6.13",
+            "unit_selector": true,
+            "unit_size": 0.35
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/54053/lomo-hacendado-pieza",
+          "slug": "lomo-hacendado-pieza",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/7147e883ae9a96d0f38020aca77e1dd0.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 4,
+              "level": 0,
+              "name": "Charcutería y quesos",
+              "order": 159
+            }
+          ],
+          "display_name": "Caña de lomo cebo ibérico La Hacienda del ibérico",
+          "id": "58166",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Pieza",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "47.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "47.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "23.75",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/58166/cana-lomo-cebo-iberico-hacienda-iberico-pieza",
+          "slug": "cana-lomo-cebo-iberico-hacienda-iberico-pieza",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/7a62611bc2ae77f2f46c2275d9294735.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    }
+  ],
+  "id": 51,
+  "is_extended": false,
+  "layout": 1,
+  "name": "Embutido curado",
+  "next_category": {
+    "id": 50,
+    "name": "Jamón serrano"
+  },
+  "order": 159,
+  "published": true
+}

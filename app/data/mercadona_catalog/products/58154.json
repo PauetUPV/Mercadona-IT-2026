@@ -1,0 +1,112 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "La Hacienda del Ibérico",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 298,
+              "level": 2,
+              "name": "Jamón serrano",
+              "order": 159
+            }
+          ],
+          "id": 50,
+          "level": 1,
+          "name": "Jamón serrano",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "La Hacienda del Ibérico",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Paleta de cebo ibérica 50% La Hacienda del Ibérico",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Paleta de Cebo Ibérico",
+    "mandatory_mentions": "Sin gluten. Producto sujeto a pérdida de peso por desecación. Certificado por CALICER PI/0517/12",
+    "origin": "España",
+    "production_variant": "Producto de peso variable: el contenido neto podrá oscilar entre 4,3 y 5,3 kg",
+    "storage_instructions": "Mantener en lugar fresco y seco. Periodo máximo de conservación 5 meses.",
+    "suppliers": [
+      {
+        "name": "INCARLOPSA"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Paleta de cebo ibérica 50% La Hacienda del Ibérico",
+  "ean": "8480000581549",
+  "extra_info": [
+    ""
+  ],
+  "id": "58154",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Paleta de cerdo de cebo ibérico, sal, azúcar, antioxidantes (E-331, E-301) y conservadores (E-252, E-250)."
+  },
+  "origin": "España",
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/42358aee690bf582a9eeea3e7f5b86fe.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/42358aee690bf582a9eeea3e7f5b86fe.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/42358aee690bf582a9eeea3e7f5b86fe.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/9caae4b4a1866c0eac9b92a257a953b7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9caae4b4a1866c0eac9b92a257a953b7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9caae4b4a1866c0eac9b92a257a953b7.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "18.75",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "18.750",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "75.00",
+    "unit_selector": true,
+    "unit_size": 5.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/58154/paleta-cebo-iberica-hacienda-iberico-pieza",
+  "slug": "paleta-cebo-iberica-hacienda-iberico-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/42358aee690bf582a9eeea3e7f5b86fe.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

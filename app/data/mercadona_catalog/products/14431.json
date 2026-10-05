@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 317,
+              "level": 2,
+              "name": "Pan de bocadillo",
+              "order": 515
+            }
+          ],
+          "id": 59,
+          "level": 1,
+          "name": "Pan de horno",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "6 Panes de leche 3%",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "PAN CON LECHE 3%",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco. Consumo preferente 24 horas desde su descongelación.",
+    "suppliers": [
+      {
+        "name": "PANAMAR BAKERY GROUP, S.L."
+      }
+    ],
+    "usage_instructions": "Producto listo para consumo."
+  },
+  "display_name": "6 Panes de leche 3%",
+  "ean": "8402001037733",
+  "extra_info": [
+    "Consumir preferentemente antes de 24 horas desde su entrega."
+  ],
+  "id": "14431",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Puede contener <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Harina de <strong>trigo</strong> (<strong>gluten</strong>), agua, <strong>leche</strong> en polvo 3%, margarina (grasas vegetales (palma, coco) en proporciones variables y aceites vegetales (girasol, nabina, soja) en proporciones variables, agua, sal, emulgente E471, aroma, corrector de la acidez (ácido cítrico), conservador E202), azúcar, levadura, sal, aroma. Puede contener trazas de <strong>soja</strong>, granos de <strong>sésamo</strong>, <strong>mostaza</strong> y productos derivados."
+  },
+  "origin": null,
+  "packaging": "Bolsa",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/40e7eb342245e8ac03222b69274cebb2.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/40e7eb342245e8ac03222b69274cebb2.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/40e7eb342245e8ac03222b69274cebb2.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/84f38a0234cd8adc2964a30d12a3d5ae.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/84f38a0234cd8adc2964a30d12a3d5ae.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/84f38a0234cd8adc2964a30d12a3d5ae.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.15",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "3.146",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 6,
+    "unit_name": "ud.",
+    "unit_price": "1.51",
+    "unit_selector": true,
+    "unit_size": 0.48
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/14431/6-panes-leche-3-bolsa",
+  "slug": "6-panes-leche-3-bolsa",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/40e7eb342245e8ac03222b69274cebb2.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

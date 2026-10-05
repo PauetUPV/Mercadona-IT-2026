@@ -1,0 +1,135 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 514,
+              "level": 2,
+              "name": "Pescado rebozado",
+              "order": 213
+            }
+          ],
+          "id": 884,
+          "level": 1,
+          "name": "Rebozados",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 275,
+              "level": 2,
+              "name": "Pescado rebozado congelado",
+              "order": 442
+            }
+          ],
+          "id": 34,
+          "level": 1,
+          "name": "Pescado congelado",
+          "order": 442
+        }
+      ],
+      "id": 2,
+      "level": 0,
+      "name": "Marisco y pescado",
+      "order": 442
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Chipirones enharinados Hacendado ultracongelado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "CHIPIRÓN ENHARINADO. PRECOCINADO ULTRACONGELADO",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Mantener a =-18C",
+    "suppliers": [
+      {
+        "name": "CONGALSA S.L."
+      }
+    ],
+    "usage_instructions": "FREIDORA: No descongelar el producto. Freír en abundante aceite muy caliente (180ºC) durante 1-1:30 minutos hasta que estén bien dorados. SARTÉN: No descongelar el producto. Freír en abundante aceite muy caliente (180ºC) durante 1:30- 2 minutos hasta que estén bien dorados. Darles la vuelta durante la fritura, para formar una cubierta crujiente. FREIDORA DE AIRE:  No descongelar.  Colocar las unidades separadas entre sí para que se cocinen uniformemente. Cocinar durante 7 minutos a 200ºC."
+  },
+  "display_name": "Chipirones enharinados Hacendado ultracongelado",
+  "ean": "8480000267757",
+  "extra_info": [
+    ""
+  ],
+  "id": "26775",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "ultracongelado",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>pescado y productos a base de pescado</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>moluscos y productos a base de moluscos</strong>.",
+    "ingredients": "<strong>CALAMAR</strong> (<strong>MOLUSCO</strong>) (62%) (<strong>CALAMAR</strong>, agua y sal), enharinado (38%): pan rallado [harina de <strong>TRIGO</strong> (<strong>GLUTEN</strong>), agua, sal, levadura], aceite de girasol, agua, harina de <strong>TRIGO</strong> (<strong>GLUTEN</strong>), clara de <strong>HUEVO</strong> en polvo, harina de arroz, almidón modificado de maíz, dextrina de tapioca, sal, gasificantes (E-450, E-500) y dextrosa. Puede contener trazas de <strong>CRUSTÁCEOS</strong>, <strong>PESCADO</strong>, <strong>LECHE</strong>, <strong>SOJA</strong> y <strong>MOSTAZA</strong>."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/cd8f429297f82e06b79f7c8d8a481464.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/cd8f429297f82e06b79f7c8d8a481464.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/cd8f429297f82e06b79f7c8d8a481464.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/19be5e163c14cd9a97fa1406f766c6df.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/19be5e163c14cd9a97fa1406f766c6df.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/19be5e163c14cd9a97fa1406f766c6df.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "15.23",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "15.231",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "4.95",
+    "unit_selector": true,
+    "unit_size": 0.325
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/26775/chipirones-enharinados-hacendado-ultracongelado-paquete",
+  "slug": "chipirones-enharinados-hacendado-ultracongelado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/cd8f429297f82e06b79f7c8d8a481464.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 357,
+              "level": 2,
+              "name": "Barritas de cereales",
+              "order": 18
+            }
+          ],
+          "id": 78,
+          "level": 1,
+          "name": "Cereales",
+          "order": 18
+        }
+      ],
+      "id": 7,
+      "level": 0,
+      "name": "Cereales y galletas",
+      "order": 18
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Barritas de galleta y arándanos Hacendado",
+    "legal_name": "Galletas con relleno aromatizado de arándanos y bañadas con una cobertura de crema blanca",
+    "mandatory_mentions": "",
+    "origin": "Países Bajos (los)",
+    "production_variant": "Variante",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "Mercadona"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Barritas de galleta y arándanos Hacendado",
+  "ean": "8402001013829",
+  "extra_info": [
+    ""
+  ],
+  "id": "52494",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>gb</strong>. Puede contener <strong>go</strong>. Puede contener <strong>frutos de cáscara</strong>. Puede contener <strong>cacahuetes y productos a base de cacahuetes</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>cereales que contengan gluten</strong>. Puede contener <strong>gs</strong>.",
+    "ingredients": "Harina de TRIGO (GLUTEN), 30% relleno de arándanos [humectante (glicerina), fructosa, dextrosa, azúcar, 3 % puré de arándanos concentrado, jarabe de glucosa, gelificante (pectina), correctores de la acidez (ácido cítrico, citrato de sodio, ácido málico, citrato de calcio), colorante alimenticio (concentrado de hibisco y zanahoria), aromatizante natural], azúcar, 8 % cobertura compuesto blanco [azúcar, grasa vegetal (palma, semilla de palma), suero en polvo (LECHE), emulsionante (lecitina de SOJA), aromatizante], aceite vegetal (nabina), almidón de TRIGO (GLUTEN), inulina, suero en polvo (LECHE), sal, agentes leudantes (bicarbonato sódico, bicarbonato de amonio), emulsionante (lecitina de semilla de nabina), aromatizante, ácido (ácido cítrico), HUEVO de corral."
+  },
+  "origin": "Países Bajos (los)",
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/bc497eb0b952cf2bbd08e0e3d7f6e991.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/bc497eb0b952cf2bbd08e0e3d7f6e991.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/bc497eb0b952cf2bbd08e0e3d7f6e991.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/c9f00eed55ee17ee350cca5e7cff6736.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c9f00eed55ee17ee350cca5e7cff6736.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c9f00eed55ee17ee350cca5e7cff6736.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "12.40",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "12.400",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 5,
+    "unit_name": "barritas",
+    "unit_price": "1.55",
+    "unit_selector": true,
+    "unit_size": 0.125
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/52494/barritas-galleta-rellenas-arandanos-hacendado-caja",
+  "slug": "barritas-galleta-rellenas-arandanos-hacendado-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/bc497eb0b952cf2bbd08e0e3d7f6e991.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

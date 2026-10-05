@@ -1,0 +1,110 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 251,
+              "level": 2,
+              "name": "Manzana y pera",
+              "order": 306
+            }
+          ],
+          "id": 27,
+          "level": 1,
+          "name": "Fruta",
+          "order": 306
+        }
+      ],
+      "id": 1,
+      "level": 0,
+      "name": "Fruta y verdura",
+      "order": 306
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Manzana roja dulce",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Manzana Roja dulce",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "Producto a granel, el contenido neto del mismo se determinará en el punto de venta.",
+    "storage_instructions": "Conservese en lugar fresco.",
+    "suppliers": [
+      {
+        "name": "Catafruit"
+      },
+      {
+        "name": "Vip. Coop. Soc. Agrícola."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Manzana roja dulce",
+  "ean": "2308280001785",
+  "extra_info": [
+    null
+  ],
+  "id": "8177",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": ""
+  },
+  "origin": null,
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 10,
+      "regular": "https://prod-mercadona.imgix.net/images/4287bde2a6bab7877b74f79e7d989d8c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4287bde2a6bab7877b74f79e7d989d8c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4287bde2a6bab7877b74f79e7d989d8c.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "2.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "2.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.40",
+    "unit_selector": true,
+    "unit_size": 0.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/8177/manzana-roja-dulce-pieza",
+  "slug": "manzana-roja-dulce-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/4287bde2a6bab7877b74f79e7d989d8c.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

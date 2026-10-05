@@ -1,0 +1,122 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Schweppes",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 539,
+              "level": 2,
+              "name": "Limón",
+              "order": 8
+            }
+          ],
+          "id": 159,
+          "level": 1,
+          "name": "Refresco de naranja y de limón",
+          "order": 8
+        }
+      ],
+      "id": 18,
+      "level": 0,
+      "name": "Agua y refrescos",
+      "order": 8
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Schweppes",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Refresco limón Schweppes original",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Bebida refrescante de extractos. Con azúcares y edulcorantes.",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Mantener en lugar fresco y seco. Proteger de la luz solar y de olores intensos.",
+    "suppliers": [
+      {
+        "name": "Schweppes, S.A. \"Envasado con licencia de schweppes international limited.\""
+      },
+      {
+        "name": "Schweppes, S.A. Envasado con licencia de schweppes international limited."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Refresco limón Schweppes original",
+  "ean": "8410600008030",
+  "extra_info": [
+    null
+  ],
+  "id": "27761",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "original",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Agua, azúcar, zumo de limón procedente de concentrado (2,5%), extractos de limón (0,5%), anhídrido carbónico, acidulante: ácido cítrico, aroma natural de limón con otros aromas naturales, edulcorantes: ciclamato sódico y sucralosa, estabilizantes: octenilsuccinato sódico de almidón, ésteres glicéridos de colofonia de madera y acetato de isobutirato de sacarosa, conservador: sorbato potásico."
+  },
+  "origin": null,
+  "packaging": "Pack-8",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/bfbaff8a377e302eae2f392fccda9b55.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/bfbaff8a377e302eae2f392fccda9b55.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/bfbaff8a377e302eae2f392fccda9b55.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/20a5d6ed8271720c50395c3e5be7bf81.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/20a5d6ed8271720c50395c3e5be7bf81.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/20a5d6ed8271720c50395c3e5be7bf81.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/3e82f539ae4fc3c0da5b9c1c679c6234.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3e82f539ae4fc3c0da5b9c1c679c6234.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3e82f539ae4fc3c0da5b9c1c679c6234.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.91",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.33,
+    "previous_unit_price": "        5.20",
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "1.910",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": 8,
+    "unit_name": "latas",
+    "unit_price": "5.04",
+    "unit_selector": true,
+    "unit_size": 2.64
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/27761/refresco-limon-schweppes-original-pack-8",
+  "slug": "refresco-limon-schweppes-original-pack-8",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/bfbaff8a377e302eae2f392fccda9b55.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

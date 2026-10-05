@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "El Pozo",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 301,
+              "level": 2,
+              "name": "Salchichón",
+              "order": 159
+            }
+          ],
+          "id": 51,
+          "level": 1,
+          "name": "Embutido curado",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "El Pozo",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Salami montañés extra El Pozo",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "SALAMI EXTRA",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "-",
+    "storage_instructions": "Conservar en un lugar fresco y seco o refrigerado.",
+    "suppliers": [
+      {
+        "name": "ELPOZO ALIMENTACION SA"
+      },
+      {
+        "name": "ELPOZO ALIMENTACIÓN S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Salami montañés extra El Pozo",
+  "ean": "8410843011866",
+  "extra_info": [
+    ""
+  ],
+  "id": "55028",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Libre de <strong>huevos y productos a base de huevo</strong>. Libre de <strong>ca</strong>. Libre de <strong>moluscos y productos a base de moluscos</strong>. Libre de <strong>cereales que contengan gluten</strong>. Libre de <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Libre de <strong>mostaza y productos derivados</strong>. Libre de <strong>apio y productos derivados</strong>. Libre de <strong>frutos de cáscara</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>soja y productos a base de soja</strong>. Libre de <strong>cacahuetes y productos a base de cacahuetes</strong>. Libre de <strong>fa</strong>.",
+    "ingredients": "Carne de cerdo (106g de carne para obtener 100g de producto),tocino de cerdo, LECHE en polvo, sal, maltodextrina de maíz, dextrosa de maíz,proteína de SOJA, especias, antioxidante (E-316), conservadores (E-250, E-252)y colorante (E-120)."
+  },
+  "origin": null,
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/ba603d567afcd3410f7ade71c4ba8512.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ba603d567afcd3410f7ade71c4ba8512.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ba603d567afcd3410f7ade71c4ba8512.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/64dfa1825c690abe48958953f8413426.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/64dfa1825c690abe48958953f8413426.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/64dfa1825c690abe48958953f8413426.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "1.85",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "1.850",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.85",
+    "unit_selector": true,
+    "unit_size": 0.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/55028/salami-montanes-extra-pozo",
+  "slug": "salami-montanes-extra-pozo",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/ba603d567afcd3410f7ade71c4ba8512.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

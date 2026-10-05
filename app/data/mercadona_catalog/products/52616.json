@@ -1,0 +1,126 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Rimmel London",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 671,
+              "level": 2,
+              "name": "Correctores y prebase",
+              "order": 422
+            }
+          ],
+          "id": 206,
+          "level": 1,
+          "name": "Bases de maquillaje y corrector",
+          "order": 422
+        }
+      ],
+      "id": 22,
+      "level": 0,
+      "name": "Maquillaje",
+      "order": 422
+    }
+  ],
+  "color_variants": [
+    {
+      "color": "#f0e0d3",
+      "color_description": "20 fair",
+      "merca_code": "52616",
+      "status": null
+    },
+    {
+      "color": "#f0d8bc",
+      "color_description": "40 ivory",
+      "merca_code": "7980",
+      "status": null
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Rimmel London",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Multi corrector Rimmel London 20 fair",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "Coty Iberia"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Multi corrector Rimmel London 20 fair",
+  "ean": "3616301273127",
+  "extra_info": [
+    ""
+  ],
+  "id": "52616",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "20 fair",
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": ""
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 10,
+      "regular": "https://prod-mercadona.imgix.net/images/0cd935e9620026c63dae83cd34c0c26e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0cd935e9620026c63dae83cd34c0c26e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0cd935e9620026c63dae83cd34c0c26e.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/bb39cb6ca7e48044b568c5d3abf3c1f1.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/bb39cb6ca7e48044b568c5d3abf3c1f1.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/bb39cb6ca7e48044b568c5d3abf3c1f1.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.95",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "6.950",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": 1,
+    "unit_name": "ud.",
+    "unit_price": "6.95",
+    "unit_selector": true,
+    "unit_size": 0.01
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/52616/multi-corrector-rimmel-20-fair",
+  "slug": "multi-corrector-rimmel-20-fair",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/0cd935e9620026c63dae83cd34c0c26e.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

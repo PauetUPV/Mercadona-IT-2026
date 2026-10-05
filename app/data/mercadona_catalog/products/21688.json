@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 386,
+              "level": 2,
+              "name": "Chocolatinas",
+              "order": 11
+            }
+          ],
+          "id": 92,
+          "level": 1,
+          "name": "Chocolate",
+          "order": 11
+        }
+      ],
+      "id": 9,
+      "level": 0,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Barritas crujientes Hacendado recubiertas de chocolate con leche",
+    "legal_name": "BARRITAS CRUJIENTES RECUBIERTAS DE CHOCOLATE CON LECHE",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco, seco y no expuesto a la luz solar",
+    "suppliers": [
+      {
+        "name": "Dulces Olmedo Garcia, S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Barritas crujientes Hacendado recubiertas de chocolate con leche",
+  "ean": "8402001050398",
+  "extra_info": [
+    ""
+  ],
+  "id": "21688",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Chocolate con <strong>leche</strong> (69%) [azúcar, <strong>leche</strong> entera en polvo, manteca de cacao, pasta de cacao, emulgente (lecitina de <strong>soja</strong>)], harina de <strong>trigo</strong> (<strong>gluten</strong>), azúcar, grasa vegetal totalmente hidrogenada (palma), glucosa en polvo, cacao desgrasado en polvo, jarabe de azúcar caramelizado, grasa vegetal de palma, emulgente (lecitina <strong>soja</strong>), gasificante (bicarbonato sódico), aromas, sal.Puede contener <strong>frutos secos de cáscara</strong> y <strong>mostaza.</strong>"
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/e75a00d806adbe658cde0af338de7208.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e75a00d806adbe658cde0af338de7208.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e75a00d806adbe658cde0af338de7208.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/ccd17a46ff028616e54a321eccdbbf32.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ccd17a46ff028616e54a321eccdbbf32.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ccd17a46ff028616e54a321eccdbbf32.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "15.38",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "15.385",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 3,
+    "unit_name": "ud.",
+    "unit_price": "1.00",
+    "unit_selector": true,
+    "unit_size": 0.0645
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/21688/barritas-crujientes-hacendado-recubiertas-chocolate-con-leche-paquete",
+  "slug": "barritas-crujientes-hacendado-recubiertas-chocolate-con-leche-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/e75a00d806adbe658cde0af338de7208.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

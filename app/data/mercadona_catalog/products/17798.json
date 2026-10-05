@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "La Hacienda del Ibérico",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 298,
+              "level": 2,
+              "name": "Jamón serrano",
+              "order": 159
+            }
+          ],
+          "id": 50,
+          "level": 1,
+          "name": "Jamón serrano",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "La Hacienda del Ibérico",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Jamón de cebo ibérico 50% raza ibérica La Hacienda del Ibérico lonchas",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Jamón de cebo ibérico 50% raza ibérica",
+    "mandatory_mentions": "Certificado por CALICER nº PI/0517/12. Envasado en atmósfera protectora.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar refrigerado entre 0ºC y 5ºC.",
+    "suppliers": [
+      {
+        "name": "Inds. Cárnicas Loriente Piqueras, S.A. (INCARLOPSA)."
+      }
+    ],
+    "usage_instructions": "Para apreciar todas las cualidades de nuestro producto recomendamos sacarlo 2 horas antes del frigorífico y abrir el envase 15 minutos antes de su consumo. Una vez abierto, conservar en el frigorífico y consumir antes de 7 días."
+  },
+  "display_name": "Jamón de cebo ibérico 50% raza ibérica La Hacienda del Ibérico lonchas",
+  "ean": "8402001058684",
+  "extra_info": [
+    ""
+  ],
+  "id": "17798",
+  "is_bulk": false,
+  "is_new_arrival": true,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "lonchas",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Jamón de    cerdo de cebo ibérico, sal, azúcar, antioxidantes (E-331,E-301) y    conservadores (E-252, E-250)"
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/d38a7543650a2ad490363c999ce73574.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d38a7543650a2ad490363c999ce73574.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d38a7543650a2ad490363c999ce73574.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/6a50df1c039fcdc78a1cf140983b1147.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/6a50df1c039fcdc78a1cf140983b1147.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/6a50df1c039fcdc78a1cf140983b1147.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "48.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "48.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.40",
+    "unit_selector": true,
+    "unit_size": 0.05
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/17798/jamon-cebo-iberico-50-raza-iberica-hacienda-iberico-lonchas-paquete",
+  "slug": "jamon-cebo-iberico-50-raza-iberica-hacienda-iberico-lonchas-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/d38a7543650a2ad490363c999ce73574.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,122 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 255,
+              "level": 2,
+              "name": "Ensalada preparada",
+              "order": 306
+            }
+          ],
+          "id": 28,
+          "level": 1,
+          "name": "Lechuga y ensalada preparada",
+          "order": 306
+        }
+      ],
+      "id": 1,
+      "level": 0,
+      "name": "Fruta y verdura",
+      "order": 306
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Ensalada ensatún compuesta por zanahoria, mozzarella, aceitunas verdes, lechuga iceberg, lechuga hoja de roble, maíz, atún en aceite vegetal, tomate cherry, aceite, sal y vinagre, incluye tenedor",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Comida preparada a base de hortalizas frescas, atún en aceite vegetal, queso, aceitunas, maíz, aceite de oliva virgen, vinagre y sal.",
+    "mandatory_mentions": "Mezclar y consumir. Envasado en atmósfera protectora. Incluye tenedor.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Para apreciar mejor sus cualidades se recomienda consumirlo todo una vez abierto el envase. Conservar entre 1 y 4°C.",
+    "suppliers": [
+      {
+        "name": "Mesturados Canarios, S.L."
+      },
+      {
+        "name": "Verdifresh, S.L.U."
+      }
+    ],
+    "usage_instructions": "Abrir, añadir el atún, la mozzarela, las aceitunas, aliñar y consumir."
+  },
+  "display_name": "Ensalada ensatún",
+  "ean": "8437013139441",
+  "extra_info": [
+    ""
+  ],
+  "id": "69872",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>frutos de cáscara</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>pescado y productos a base de pescado</strong>.",
+    "ingredients": "Mezcla de hortalizas en proporcion variable 42% ( tomate cherry, lechuga hoja de roble verde, zanahoria y lechuga iceberg), <strong>atún</strong> en aceite vegetal (<strong>atun</strong>, aceite de girasol y sal), maíz dulce en grano 12% (maíz dulce, azúcar y sal), <strong>queso de leche</strong> de vaca blanco pasteurizado 8% (<strong>leche</strong> pasteurizada, sal, cuajo y acidulante (E330)), aceitunas verdes deshuesadas 8% (aceitunas, agua, sal, acidulantes (E 270 y 330) y antioxidante (E300)), aceite de oliva virgen extras 6%, vinagre de vino 4% (vinagre de vino y conservador <strong>aníhidrido sulfuroso</strong>) y sal 0,4% (sal iodada y antiaglomerante (E535). Trazas de <strong>gluten</strong> y <strong>frutos de cáscara</strong>."
+  },
+  "origin": null,
+  "packaging": "Bol",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/ecd1fafa10a9fc8dd2be3910685117b6.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ecd1fafa10a9fc8dd2be3910685117b6.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ecd1fafa10a9fc8dd2be3910685117b6.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/bfed06a81c8467813a1439f5507e2995.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/bfed06a81c8467813a1439f5507e2995.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/bfed06a81c8467813a1439f5507e2995.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/68d7af0b702e148594c4f5b86d2561f2.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/68d7af0b702e148594c4f5b86d2561f2.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/68d7af0b702e148594c4f5b86d2561f2.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "10.40",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "10.400",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.60",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/69872/ensalada-ensatun-compuesta-zanahoria-mozzarella-aceitunas-verdes-lechuga-iceberg-lechuga-hoja-roble-maiz-atun-aceite-vegetal-tomate-cherry-aceite-sal-vinagre-incluye-tenedor-bol",
+  "slug": "ensalada-ensatun-compuesta-zanahoria-mozzarella-aceitunas-verdes-lechuga-iceberg-lechuga-hoja-roble-maiz-atun-aceite-vegetal-tomate-cherry-aceite-sal-vinagre-incluye-tenedor-bol",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/ecd1fafa10a9fc8dd2be3910685117b6.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

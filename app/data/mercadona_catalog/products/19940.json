@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 364,
+              "level": 2,
+              "name": "Cápsulas compatibles Nespresso",
+              "order": 16
+            }
+          ],
+          "id": 81,
+          "level": 1,
+          "name": "Café cápsula y monodosis",
+          "order": 16
+        }
+      ],
+      "id": 8,
+      "level": 0,
+      "name": "Cacao, café e infusiones",
+      "order": 16
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Café en cápsula ristretto Hacendado compatibles máquinas Nespresso",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Café molido de tueste natural en cápsulas para el sistema Nespresso",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "DELICA AG"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Café en cápsula ristretto Hacendado",
+  "ean": "8402001043277",
+  "extra_info": [
+    ""
+  ],
+  "id": "19940",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": ""
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/89a2bd9abd1c25f1e322a2cb14846e38.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/89a2bd9abd1c25f1e322a2cb14846e38.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/89a2bd9abd1c25f1e322a2cb14846e38.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/6bbb99ea929742e318e8db945a8c2827.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/6bbb99ea929742e318e8db945a8c2827.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/6bbb99ea929742e318e8db945a8c2827.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "0.19",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "0.190",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 20,
+    "unit_name": "cápsulas",
+    "unit_price": "3.80",
+    "unit_selector": true,
+    "unit_size": 0.11
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/19940/cafe-capsula-ristretto-hacendado-compatibles-maquinas-nespresso-caja",
+  "slug": "cafe-capsula-ristretto-hacendado-compatibles-maquinas-nespresso-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/89a2bd9abd1c25f1e322a2cb14846e38.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,112 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 322,
+              "level": 2,
+              "name": "Pan tostado",
+              "order": 515
+            }
+          ],
+          "id": 62,
+          "level": 1,
+          "name": "Pan tostado y rallado",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pan tostado con tomate Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Pan tostado con tomate y orégano",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco. No exponer a la luz solar.",
+    "suppliers": [
+      {
+        "name": "Anitín Panes Especiales S.L.U."
+      }
+    ],
+    "usage_instructions": "Una vez abierto para apreciar mejor sus cualidades se recomienda consumir antes de 5 días."
+  },
+  "display_name": "Pan tostado con tomate Hacendado",
+  "ean": "8423102203704",
+  "extra_info": [
+    null
+  ],
+  "id": "82190",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>cereales que contengan gluten</strong>. Puede contener <strong>cacahuetes y productos a base de cacahuetes</strong>.",
+    "ingredients": "Harina de <strong>trigo (gluten)</strong>, aceite refinado de girasol (24%), tomate en polvo deshidratado (10%), aceite refinado de girasol alto oleico, levadura, sal, orégano (0,4%), azúcar y agente de tratamiento de la harina: ácido ascórbico. Puede contener trazas de <strong>cacahuete</strong>, <strong>soja</strong>, <strong>derivados lácteos, mostaza</strong>  y <strong>sésamo</strong>."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/6e9f47916f81a70709740fc6f61d703d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/6e9f47916f81a70709740fc6f61d703d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/6e9f47916f81a70709740fc6f61d703d.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/5a32ba21d477ec1e9de271483ba430b4.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5a32ba21d477ec1e9de271483ba430b4.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5a32ba21d477ec1e9de271483ba430b4.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "7.65",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.648",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.30",
+    "unit_selector": true,
+    "unit_size": 0.17
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/82190/pan-tostado-con-tomate-hacendado-paquete",
+  "slug": "pan-tostado-con-tomate-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/6e9f47916f81a70709740fc6f61d703d.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

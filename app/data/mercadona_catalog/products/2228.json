@@ -1,0 +1,135 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 290,
+              "level": 2,
+              "name": "Carne congelada",
+              "order": 17
+            }
+          ],
+          "id": 47,
+          "level": 1,
+          "name": "Carne congelada",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 511,
+              "level": 2,
+              "name": "Carne",
+              "order": 213
+            }
+          ],
+          "id": 148,
+          "level": 1,
+          "name": "Carne",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Solomillo de cerdo marinado congelado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Congelado preparado solomillo marinado. Preparado de carne congelado con agua añadida",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar a -18C. En caso de descongelar, no volver a congelar y consumir en 24h. Cocinar completamente antes de su consumo.",
+    "suppliers": [
+      {
+        "name": "Coopecarn Girona S.L.U"
+      }
+    ],
+    "usage_instructions": "Sacar del envase. Sin descongelar, cocinar el solomillo en el horno precalentado a 160ºC durante 90 minutos girando la pieza a la mitad."
+  },
+  "display_name": "Solomillo de cerdo marinado congelado",
+  "ean": "2105100022285",
+  "extra_info": [
+    null
+  ],
+  "id": "2228",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": "congelado",
+  "nutrition_information": {
+    "allergens": "Libre de <strong>cereales que contengan gluten</strong>. Libre de <strong>ml</strong>.",
+    "ingredients": "Solomillo de cerdo (71,4 %), agua, sal, extracto de levadura, maltodextrina, proteína de cerdo, fibra vegetal, antioxidantes (E-331, E-301), estabilizante (E-407)."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/ca9de27c3cc48047eb795200ae5f5a5f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ca9de27c3cc48047eb795200ae5f5a5f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ca9de27c3cc48047eb795200ae5f5a5f.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/deaec6fbd5b7af0a787e9e727fa1da70.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/deaec6fbd5b7af0a787e9e727fa1da70.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/deaec6fbd5b7af0a787e9e727fa1da70.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "7.80",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.800",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "6.24",
+    "unit_selector": true,
+    "unit_size": 0.8
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/2228/solomillo-cerdo-marinado-congelado-paquete",
+  "slug": "solomillo-cerdo-marinado-congelado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/ca9de27c3cc48047eb795200ae5f5a5f.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}
