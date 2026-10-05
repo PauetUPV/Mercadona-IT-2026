@@ -13,19 +13,26 @@ from app.logic import interprete, llm, mensajes
 from app.logic.sesiones import Sesion
 from app.logic.texto import hoy
 
-SISTEMA_INTERPRETE = """Eres el módulo de comprensión de Merche, una asistente de Mercadona que planifica la comida de la semana.
+SISTEMA_INTERPRETE = """Eres el módulo de comprensión de Merche, una asistente de Mercadona que ayuda con la comida: desde una idea
+para cenar esta noche hasta el plan de toda la semana. NO des por hecho que el usuario quiere un plan semanal: muchas veces
+solo quiere una idea, un plato o resolver una comida.
 Tu única tarea es clasificar el último mensaje del usuario y devolver SOLO un JSON con el esquema indicado.
 
 Acciones (campo `accion`):
-- "plan": el usuario da o cambia datos del plan (personas, presupuesto, días, comida/cena, dietas o alergias, días que no cocina) o pide un plan nuevo.
+- "sugerir": pide IDEAS o recomendaciones sin nombrar un plato concreto ("¿qué puedo cenar esta noche con pasta?", "el martes no me apetece cocinar, ¿qué me recomiendas?", "algo especial para el domingo", "tengo pollo y arroz, ¿qué hago?", "me apetece algo ligero"). Rellena `ingredientes` (lo que tiene o quiere usar: "pasta", "pollo"), `estilo` ("ligero", "especial", "rapido", "barato") y `dia`/`momento` si los dice. Si no quiere cocinar ese día, pon el día también en `sin_cocinar`.
+- "plan": pide un plan o menú de VARIOS días ("hazme el menú de la semana", "¿me propones un menú ligero para esta semana?") o da/cambia datos de su plan (personas, presupuesto, días, comida/cena, dietas, días que no cocina). Si dice cómo lo quiere ("más ligero", "barato"), rellena `estilo`.
 - "pedir_plato": pide un plato concreto ("quiero pollo al curry", "me apetece lentejas el martes", "pizza para cenar hoy"). `plato` = el nombre del plato tal como lo dice (sin verbos ni días); `dia` y `momento` si los dice. Si en el mismo mensaje da personas, presupuesto, etc., rellénalos también.
-- "cambiar_plato": quiere OTRO plato distinto en un día, sin decir cuál ("cambia el martes"). `dia` es obligatorio (minúsculas y con tilde: lunes, martes, miércoles, jueves, viernes, sábado, domingo); `momento` solo si dice comida o cena.
+- "cambiar_plato": quiere cambiar platos de SU plan ("cambia el martes", "cambia el lunes y el martes por algo de pescado", "cambia las hamburguesas", "cambia la pasta por arroz", "cámbiame la cena del jueves por algo ligero", "cambia todo"). Rellena:
+  `dias_cambio` (días a cambiar, minúsculas y con tilde: lunes, martes, miércoles, jueves, viernes, sábado, domingo), o `objetivo` si nombra el plato en vez del día ("hamburguesas", "pasta"), o `todo` true si quiere cambiarlo todo;
+  `por` con lo que quiere en su lugar, tal cual lo dice ("lentejas", "pescado", "algo ligero", "vegetariano"); `momento` solo si dice comida o cena.
+  Lo que va tras "por" es SOLO para ese plato: "por algo vegetariano" NO va en `excluir` (no cambia su dieta). "Cambia X" nunca es "pedir_plato".
 - "evitar": SOLO rechaza algo, sin pedir nada más ("no quiero pollo al curry", "nada de pizza", "sin cebolla", "no me apetecen lentejas"). Lo rechazado va en `no_quiere`.
 - "anadir_extra": quiere añadir un producto suelto a su compra (leche, café...). `producto` en singular y genérico.
 - "quitar_extra": quiere quitar uno de esos productos sueltos. `producto` igual.
 - "consultar": PREGUNTA algo sobre su plan o sus datos, sin pedir cambios ("¿qué como el martes?", "¿cómo se hace la tortilla?", "¿qué lleva el del lunes?", "¿y qué lleva?", "¿cuánto me va a costar?", "¿para cuántos era?", "¿esto es sano?"). Una pregunta NUNCA es "plan". Rellena `tema`:
   "menu" (qué se come y cuándo), "receta" (cómo se prepara), "ingredientes" (qué lleva), "coste" (cuánto cuesta), "en_casa" (qué hay que tener en casa), "preferencias" (personas, presupuesto, dieta... que dijo), "otro" (cualquier otra pregunta).
   Rellena `dia`/`momento` si los dice y `plato` con el nombre del plato si lo nombra. Si `tema` es "otro", contesta tú en `respuesta` usando SOLO los datos del estado (ingredientes, instrucciones), sin cifras ni precios.
+- "opinion": comentario, queja o sugerencia sobre productos de Mercadona o sobre la compra ("las latas de atún vienen con demasiado aceite", "el pan llegó duro", "echo de menos el tofu ahumado", "la lasaña estaba buenísima"). Rellena `puntos_clave`: 1 a 3 frases cortas y neutras con lo esencial, empezando por el producto ("Latas de atún: demasiado aceite"). Tiene prioridad sobre "evitar".
 - "charla": saludos, agradecimientos o cualquier cosa que no cambie el plan ni sea una pregunta sobre él.
 
 Campo `respuesta` (siempre): lo que Merche diría al usuario, una o dos frases en español de España, cercanas, tuteando. En "plan", "pedir_plato", "evitar", "cambiar_plato", "anadir_extra" y "quitar_extra" escríbelo como si la acción fuera a salir bien, SIN cifras, SIN precios y SIN nombrar platos ni productos concretos (el plan se muestra aparte; el sistema te corrige si algo falla). Campo `conclusion` (opcional): una pregunta muy corta que va después del plan, p. ej. "¿Qué te parece?".
@@ -86,6 +93,7 @@ def interpretar(mensaje: str, sesion: Sesion) -> interprete.Interpretacion:
         resultado = interprete.interpretar(mensaje)
         llm.log.debug("Mensaje %r entendido por el PLAN B (reglas): accion=%s", mensaje[:60], resultado.accion)
         return resultado
+    resultado._fuente = "gemini"
     resultado.excluir = [e for e in resultado.excluir if e in interprete.ETIQUETAS]
     resultado.permitir = [e for e in resultado.permitir if e in interprete.ETIQUETAS]
     llm.log.debug("Mensaje %r entendido por GEMINI: %s", mensaje[:60], resultado.model_dump(exclude_none=True, exclude_defaults=True))
@@ -102,18 +110,23 @@ def redactar(hechos: dict, i: interprete.Interpretacion) -> tuple[str, Optional[
     siempre el código (plantillas) para que lo que se le dice al usuario sea exacto.
     """
     texto = (i.respuesta or "").strip()
+    if hechos.get("tipo") in ("ideas", "cambio_plato"):  # nombres exactos de recetas: los pone el código
+        llm.log.debug("Respuesta: ideas del recetario (codigo)")
+        return mensajes.redactar(hechos)
+    if hechos.get("tipo") == "opinion":  # el texto es fijo: la tarjeta "Enviado a Mercadona" lleva lo importante
+        return mensajes.redactar(hechos)
     if hechos.get("tipo") == "consulta":
         # Lo concreto (menú, receta, ingredientes, coste...) lo contesta el código con los datos; lo abierto, Gemini
         if hechos["tema"] == "otro" and texto and not _CON_CIFRAS.search(texto):
-            llm.log.debug("Respuesta: consulta abierta contestada por el interprete")
+            llm.log.debug("Respuesta: consulta abierta contestada por %s", i._fuente.upper())
             return texto, None
         llm.log.debug("Respuesta: consulta '%s' contestada con los datos de la sesion", hechos["tema"])
         return hechos["texto"], None
     if hechos.get("tipo") == "charla" and texto:
-        llm.log.debug("Respuesta: texto propuesto por el interprete (charla)")
+        llm.log.debug("Respuesta: texto escrito por %s (charla)", i._fuente.upper())
         return texto, None
     if hechos.get("exito") and texto and not _CON_CIFRAS.search(texto) and not hechos.get("parecido"):
-        llm.log.debug("Respuesta: texto propuesto por el interprete")
+        llm.log.debug("Respuesta: texto escrito por %s", i._fuente.upper())
         return texto, (i.conclusion or None)
     llm.log.debug("Respuesta: PLANTILLA del codigo (resultado=%s)", hechos.get("tipo"))
     return mensajes.redactar(hechos)

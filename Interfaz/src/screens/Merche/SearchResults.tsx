@@ -13,7 +13,7 @@ export function SearchResults({
   consulta: string;
   resultados: Producto[] | null;
   added: string[];
-  onToggle: (id: string) => void;
+  onToggle: (producto: Producto) => void;
   onPreguntarMerche: () => void;
 }) {
   return (
@@ -33,7 +33,7 @@ export function SearchResults({
               key={producto.id}
               producto={producto}
               added={added.includes(producto.id)}
-              onToggle={() => onToggle(producto.id)}
+              onToggle={() => onToggle(producto)}
             />
           ))}
         </div>

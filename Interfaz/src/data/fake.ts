@@ -210,7 +210,7 @@ function sesionDe(session_id: string): Sesion {
 
 function lista(body: { session_id: string }): ListaResponse {
   sesionDe(body.session_id).listas += 1;
-  return { lista_id: `l_${id()}`, mensaje: "Guardada. Luego te pregunto qué tal salió." };
+  return { lista_id: `l_${id()}`, mensaje: "Lista guardada. ¿En qué tienda vas a hacer la compra?", sugerencias: ["Paterna", "Alboraya"] };
 }
 
 // Next dish of the plan to ask about: only after a saved list, at most 3 per list.
@@ -231,7 +231,7 @@ function feedback(req: FeedbackRequest): FeedbackResponse {
   const s = sesionDe(req.session_id);
   if (!s.valorados.includes(req.sujeto.id)) s.valorados.push(req.sujeto.id);
   if (req.valor === "negativo" && !req.motivo)
-    return { mensaje: "Vaya, lo siento. ¿Qué falló?", sugerencias: ["Estaba soso", "Muy caro", "No me gustó"] };
+    return { mensaje: "Vaya, lo siento. ¿Qué falló?", sugerencias: ["Estaba soso", "Muy caro", "Mucho trabajo", "No me gustó"] };
   const gracias = req.valor === "positivo" ? "¡Me alegro!" : "Gracias, no te lo volveré a proponer.";
   const siguiente = pendiente(s);
   return siguiente

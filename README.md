@@ -11,7 +11,7 @@ venv\Scripts\activate        # Linux/Mac: source venv/bin/activate
 pip install -r requirements.txt -r requirements-dev.txt
 # .env con LLM_API_KEY (Gemini). Sin clave el chat funciona igualmente con el plan B por reglas
 uvicorn main:app --reload
-pytest                       # 131 tests, sin red ni Gemini
+pytest                       # 178 tests, sin red ni Gemini
 ```
 
 Swagger en http://localhost:8000/docs
@@ -52,6 +52,5 @@ mensaje → Gemini clasifica (1 llamada) → el código ejecuta y comprueba viab
 
 ## Pendiente
 
-- Valoración de productos (hoy el feedback pregunta por recetas) y que el feedback influya más en los planes
 - Ampliar el recetario o cargarlo de una fuente externa si hace falta más variedad
 - Persistencia en base de datos si el proyecto crece (hoy: ficheros JSON en `.estado/`)

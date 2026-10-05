@@ -2,38 +2,23 @@
 from typing import Optional
 
 from app.logic import sesiones, sugerencias
-from app.logic.sesiones import Sesion
-from app.models.schemas import ChatResponse, MensajeChat, SujetoPendiente
-
-MAX_FEEDBACK_POR_LISTA = 3  # para no agobiar: como mucho 3 platos por lista guardada
+from app.logic.feedback import sujeto_pendiente
+from app.models.schemas import ChatResponse, MensajeChat
 
 
-def valorados(sesion: Sesion) -> set[str]:
-    return {f["sujeto"]["id"] for f in sesion.feedback if f["sujeto"]["tipo"] == "receta"}
-
-
-def sujeto_pendiente(sesion: Sesion) -> Optional[SujetoPendiente]:
-    """Siguiente plato del plan por valorar. Solo después de guardar una lista (es lo que sí se compró)."""
-    if sesion.plan is None or not sesion.listas:
-        return None
-    hechos = valorados(sesion)
-    if len(hechos) >= MAX_FEEDBACK_POR_LISTA * len(sesion.listas):
-        return None
-    for recetas in sesion.plan.dias.values():
-        for r in recetas:
-            if r.id not in hechos:
-                imagen = r.ingredientes[0].producto.thumbnail if r.ingredientes else None
-                return SujetoPendiente(tipo="receta", id=r.id, nombre=r.nombre, imagen=imagen)
-    return None
-
-
-def bienvenida(session_id: Optional[str]) -> ChatResponse:
+def bienvenida(session_id: Optional[str], sesion_anterior: Optional[str] = None) -> ChatResponse:
     """Primer mensaje de Merche al abrir la conversación; depende del estado de la sesión."""
-    sesion = sesiones.obtener(session_id)
+    sesion = sesiones.obtener(session_id, sesion_anterior)
     pendiente = sujeto_pendiente(sesion)
     chips: list[str] = []
     if pendiente:
-        mensaje = f"¡Hola otra vez! ¿Qué tal salió «{pendiente.nombre}»?"
+        ultima = sesion.listas[-1].get("sujetos", []) if sesion.listas else []
+        valorados = {f["sujeto"]["id"] for f in sesion.feedback}
+        primera = not any(s["id"] in valorados for s in ultima)  # aún no ha contado nada de esta compra
+        mensaje = (
+            f"¡Hola otra vez! ¿Qué tal fue la compra? Empecemos por «{pendiente.nombre}»: ¿qué tal salió?"
+            if primera else f"¡Hola otra vez! ¿Qué tal salió «{pendiente.nombre}»?"
+        )
     elif sesion.listas:
         mensaje = "¡Gracias por tus valoraciones! ¿Preparamos la semana que viene?"
         chips = [sugerencias.PEDIR_PLAN]

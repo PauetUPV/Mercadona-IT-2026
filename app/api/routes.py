@@ -41,9 +41,9 @@ def ver_chat(session_id: str):
 
 
 @router.get("/bienvenida", response_model=ChatResponse, response_model_exclude_none=True)
-def bienvenida(session_id: Optional[str] = None):
+def bienvenida(session_id: Optional[str] = None, sesion_anterior: Optional[str] = None):
     """Primer mensaje de Merche al abrir la conversación (saludo, o pregunta de feedback si procede)."""
-    return apertura.bienvenida(session_id)
+    return apertura.bienvenida(session_id, sesion_anterior)
 
 
 @router.post("/lista", response_model=ListaResponse, response_model_exclude_none=True)

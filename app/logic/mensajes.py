@@ -5,6 +5,8 @@ salvo el importe mínimo cuando el presupuesto es imposible.
 """
 from typing import Optional
 
+from app.logic import ideas
+
 
 def euros(x: float) -> str:
     return f"{x:.2f}".replace(".", ",") + " €"
@@ -38,6 +40,11 @@ def redactar(h: dict) -> tuple[str, Optional[str]]:
             texto += " Lo más parecido: " + " o ".join(h["alternativas"]) + "."
     elif tipo == "plato_excluido":
         texto = f"«{h['plato']}» lleva {' y '.join(h['etiquetas'])}, y me dijiste que lo evitas. Prueba con otro plato."
+    elif tipo == "ideas":
+        return ideas.texto(h)
+    elif tipo == "opinion":
+        texto = "Gracias por contárnoslo. Se lo he hecho llegar a Mercadona."
+        conclusion = "¿Preparamos lo de la semana que viene?"
     elif tipo == "consulta":
         texto = h["texto"]
     elif tipo == "evitado":
@@ -47,6 +54,12 @@ def redactar(h: dict) -> tuple[str, Optional[str]]:
             texto = f"Entendido, no te pondré {' ni '.join(h['evitados'])}."
         if h.get("cambios"):
             texto += " He cambiado " + "; ".join(f"el {d} por {n}" for d, n in h["cambios"].items()) + "."
+    elif tipo == "cambio_plato" and len(h.get("cambios", {})) > 1:
+        partes = [f"el {d}, {n}" for d, n in h["cambios"].items()]
+        texto = "Hecho. Ahora tienes " + "; ".join(partes[:-1]) + " y " + partes[-1] + "."
+        if h.get("no_estaban"):
+            texto += f" (El {' ni el '.join(h['no_estaban'])} no estaba en tu plan.)"
+        conclusion = "¿Te encaja?"
     elif tipo == "cambio_plato":
         texto = f"He cambiado el plato del {h['dia']}: ahora es {h['nuevo']}."
         conclusion = "¿Te encaja?"
@@ -65,7 +78,8 @@ def redactar(h: dict) -> tuple[str, Optional[str]]:
     elif tipo == "rechazo":
         texto = h.get("motivo", "No puedo hacer eso.")
     elif tipo == "pregunta_comensales" and h.get("plato"):
-        texto = _no_exacto(h) + f"¡Apuntado: {h['plato']}! ¿Para cuántas personas es y para qué día?"
+        para = "y para qué día" if not h.get("dia_pedido") else ""
+        texto = _no_exacto(h) + f"¡Apuntado: {h['plato']}! ¿Para cuántas personas es{(' ' + para) if para else ''}?"
     elif tipo == "pregunta_comensales":
         texto = "¿Para cuántas personas es el plan? Puedes decirme también tu presupuesto y qué días no cocinas."
     elif tipo == "sin_plan":

@@ -8,19 +8,20 @@ import zlib
 from typing import Optional
 
 from app.data import catalogo
-from app.logic import agente, apertura, consultas, planificador, sesiones, sugerencias
+from app.logic import agente, apertura, cambios, consultas, feedback, ideas, planificador, sesiones, sugerencias
 from app.logic.carrito import total_plan
 from app.logic.errores import DatosInvalidos, Inviable, NoEncontrado, SinAlternativa
 from app.logic.interprete import _PALABRAS_DIETA as ETIQUETA_DE_PALABRA, Interpretacion
 from app.logic.planificador import Peticion
 from app.logic.sesiones import Sesion
-from app.logic.texto import DIAS_SEMANA, norm
-from app.models.schemas import ChatRequest, ChatResponse, FeedbackRequest, FeedbackResponse, ListaRequest, ListaResponse, MensajeChat, PlanResponse
+from app.logic.texto import DIAS_SEMANA, hoy, norm
+from app.models.schemas import ChatRequest, ChatResponse, Enviado, FeedbackRequest, FeedbackResponse, ListaRequest, ListaResponse, MensajeChat, PlanResponse
 
 # NUEVO: Importamos el cerebro de la IA
 from app.logic.llm import consultar_llm
 
 DIAS_POR_DEFECTO = DIAS_SEMANA[:5]  # lunes a viernes
+TIENDAS = ["Paterna", "Alboraya"]  # solo para elegir dónde se hará la compra; no se conecta a nada
 
 def _platos(plan: PlanResponse) -> dict[str, list[str]]:
     return {d: [r.nombre for r in rs] for d, rs in plan.dias.items()}
@@ -33,10 +34,18 @@ def _plan_con_hechos(sesion: Sesion, i: Interpretacion) -> tuple[dict, Optional[
     excluir = sorted((set(sesion.excluir) | set(i.excluir)) - set(i.permitir))
     momentos = list(i.momentos or sesion.momentos)
     sin_cocinar = sorted(set(sesion.sin_cocinar) | set(i.sin_cocinar))
-    dias = list(i.dias or (sesion.plan.dias if sesion.plan else None) or sesion.dias or DIAS_POR_DEFECTO)
+    platos_sueltos = [f["dia"] or hoy() for f in sesion.fijos] if sesion.fijos and not sesion.plan else None
+    dias = list(i.dias or (sesion.plan.dias if sesion.plan else None) or sesion.dias or platos_sueltos or DIAS_POR_DEFECTO)
     for d in i.sin_cocinar:  # un día marcado como "no cocino" también es un día del plan
         if all(norm(d) != norm(x) for x in dias):
             dias.append(d)
+
+    if i.estilo == "ligero":
+        sesion.prefiere_ligero = True
+    elif i.estilo == "barato":
+        sesion.prefiere_barato = True
+    elif i.estilo == "rapido":
+        sesion.prefiere_facil = True
 
     def guardar_preferencias(con_presupuesto: bool = True):
         sesion.comensales = comensales
@@ -59,6 +68,10 @@ def _plan_con_hechos(sesion: Sesion, i: Interpretacion) -> tuple[dict, Optional[
         rechazadas=set(sesion.rechazadas),
         fijos=[(f["dia"], f["momento"], f["receta_id"]) for f in sesion.fijos],
         semilla=zlib.crc32(sesion.id.encode()),
+        favoritas=set(sesion.favoritas),
+        prefiere_barato=sesion.prefiere_barato,
+        prefiere_facil=sesion.prefiere_facil,
+        prefiere_ligero=sesion.prefiere_ligero,
     )
     try:
         plan = planificador.generar_plan(peticion, extras=sesion.plan.extras if sesion.plan else [])
@@ -109,7 +122,7 @@ def _pedir_plato(sesion: Sesion, i: Interpretacion, rechazadas_ahora: set[str] =
     dia = next((d for d in DIAS_SEMANA if i.dia and norm(d) == norm(i.dia)), None)
     sesion.fijos = [f for f in sesion.fijos if not (dia and f["dia"] == dia and f["momento"] == i.momento)]
     sesion.fijos.append({"dia": dia, "momento": i.momento, "receta_id": receta.id})
-    extra = {"plato": receta.nombre, "pedido": i.plato, "parecido": parecido < 1}
+    extra = {"plato": receta.nombre, "pedido": i.plato, "parecido": parecido < 1, "dia_pedido": dia}
 
     cambia_comensales = i.comensales and i.comensales != sesion.comensales
     if sesion.plan is not None and not cambia_comensales:
@@ -138,22 +151,8 @@ def _pedir_plato(sesion: Sesion, i: Interpretacion, rechazadas_ahora: set[str] =
 
 
 def _cambiar_plato(sesion: Sesion, i: Interpretacion) -> tuple[dict, Optional[PlanResponse]]:
-    if sesion.plan is None:
-        return {"tipo": "sin_plan"}, None
-    if not i.dia:
-        return {"tipo": "rechazo", "exito": False, "motivo": "¿Qué día quieres cambiar?"}, None
-    try:
-        nuevo = planificador.cambiar_plato(
-            sesion.plan, i.dia, i.momento, sesion.presupuesto, set(sesion.excluir), set(sesion.rechazadas)
-        )
-    except (NoEncontrado, SinAlternativa) as e:
-        tipo = "sin_alternativa" if isinstance(e, SinAlternativa) else "rechazo"
-        return {"tipo": tipo, "exito": False, "motivo": str(e)}, None
-    dia = next(d for d in nuevo.dias if norm(d) == norm(i.dia))
-    sesion.plan = nuevo
-    sesion.fijos = [f for f in sesion.fijos if not (f["dia"] == dia and (i.momento is None or f["momento"] == i.momento))]
-    sesion.ultima_receta = nuevo.dias[dia][0].id
-    return {"tipo": "cambio_plato", "exito": True, "dia": dia, "nuevo": " y ".join(r.nombre for r in nuevo.dias[dia])}, nuevo
+    """Ver cambios.py: días, platos nombrados o todo, y "por X" como criterio solo para ese hueco."""
+    return cambios.cambiar(sesion, i)
 
 
 def _extra(sesion: Sesion, i: Interpretacion, anadir: bool) -> tuple[dict, Optional[PlanResponse]]:
@@ -161,7 +160,7 @@ def _extra(sesion: Sesion, i: Interpretacion, anadir: bool) -> tuple[dict, Optio
         return {"tipo": "sin_plan"}, None
     busqueda = i.producto or ""
     if anadir:
-        producto = catalogo.mejor_producto(busqueda)
+        producto = catalogo.mejor_producto(busqueda, set(sesion.productos_favoritos), set(sesion.productos_rechazados))
         if producto is None:
             return {"tipo": "producto_no_encontrado", "exito": False, "busqueda": busqueda}, None
         nuevo = planificador.anadir_extra(sesion.plan, producto)
@@ -223,12 +222,15 @@ def _quitar_vetados_del_plan(sesion: Sesion, vetadas: set[str]) -> dict[str, str
 
 
 def procesar(req: ChatRequest) -> ChatResponse:
-    sesion = sesiones.obtener(req.session_id)
+    sesion = sesiones.obtener(req.session_id, req.sesion_anterior)
     if req.plan is not None:  # el usuario lo ha editado: lo que ve manda sobre lo que teníamos guardado
         sesion.plan = req.plan
     sesion.mensajes.append(MensajeChat(rol="usuario", texto=req.mensaje))
 
     i = agente.interpretar(req.mensaje, sesion)
+    if i.accion == "pedir_plato" and not (i.plato or "").strip():
+        # Gemini a veces arrastra la acción anterior ("solo para mí" tras pedir un plato): sin plato, son datos del plan
+        i.accion = "plan" if i.aporta_datos or sesion.fijos else "charla"
     plan_antes = sesion.plan
     vetadas, vetadas_nombres = _aplicar_rechazos(sesion, i)
     if i.accion == "evitar" or (vetadas_nombres and i.accion == "charla"):
@@ -238,6 +240,14 @@ def procesar(req: ChatRequest) -> ChatResponse:
         plan = sesion.plan if sesion.plan is not plan_antes else None
     elif i.accion == "plan":
         hechos, plan = _plan_con_hechos(sesion, i)
+    elif i.accion == "opinion":  # comentario para Mercadona: se "envía" y se propone seguir con la semana
+        puntos = [p.strip() for p in i.puntos_clave if p.strip()][:3] or [req.mensaje.strip()]
+        sesion.opiniones.append({"texto": req.mensaje, "puntos": puntos})
+        hechos, plan = {"tipo": "opinion", "exito": True, "puntos": puntos}, None
+    elif i.accion == "sugerir" or (i.accion == "consultar" and i.tema == "menu" and sesion.plan is None):
+        # Ideas sueltas, sin crear plan: "¿qué ceno con pasta?", "¿qué me recomiendas?"
+        sin_cocinar = bool(i.sin_cocinar) or bool(i.dia and i.dia in sesion.sin_cocinar)
+        hechos, plan = ideas.proponer(sesion, i, sin_cocinar), None
     elif i.accion == "consultar":  # una pregunta nunca cambia el plan
         hechos, plan = consultas.responder(sesion, i), None
     elif i.accion == "pedir_plato":
@@ -260,8 +270,10 @@ def procesar(req: ChatRequest) -> ChatResponse:
     sesion.mensajes.append(MensajeChat(rol="asistente", texto=mensaje))
     sesiones.guardar(sesion)
     chips = sugerencias.para(hechos, sesion)
+    enviado = Enviado(puntos=hechos["puntos"]) if hechos.get("tipo") == "opinion" else None
     return ChatResponse(
-        session_id=sesion.id, mensaje=mensaje, mensaje_conclusion=conclusion, plan=plan, sugerencias=chips or None
+        session_id=sesion.id, mensaje=mensaje, mensaje_conclusion=conclusion, plan=plan, sugerencias=chips or None,
+        enviado=enviado,
     )
 
 
@@ -273,26 +285,20 @@ def guardar_lista(req: ListaRequest) -> ListaResponse:
         if catalogo.get_producto(linea.producto_id) is None:
             raise DatosInvalidos(f"El producto {linea.producto_id} no existe")
     lista_id = "l_" + uuid.uuid4().hex[:4]
-    sesion.listas.append(
-        {"lista_id": lista_id, "plan_id": req.plan_id, "nombre": req.nombre, "lineas": [l.model_dump() for l in req.lineas]}
-    )
+    sesion.listas.append({
+        "lista_id": lista_id, "plan_id": req.plan_id, "nombre": req.nombre,
+        "lineas": [l.model_dump() for l in req.lineas],
+        "sujetos": feedback.sujetos_de_lista(sesion, req.lineas),  # qué se compró: de eso preguntará luego
+    })
     sesiones.guardar(sesion)
-    return ListaResponse(lista_id=lista_id, mensaje="Guardada. Luego te pregunto qué tal salió.")
+    return ListaResponse(lista_id=lista_id, mensaje="Lista guardada. ¿En qué tienda vas a hacer la compra?", sugerencias=TIENDAS)
 
 
 def registrar_feedback(req: FeedbackRequest) -> FeedbackResponse:
-    """Provisional: guarda la valoración y, si es negativa sobre una receta, no la vuelve a proponer."""
+    """Guarda la valoración, aprende de ella (ver feedback.py) y encadena la siguiente pregunta."""
     sesion = sesiones.buscar(req.session_id)
     if sesion is None:
         raise NoEncontrado(f"Sesión {req.session_id} no existe")
-    sesion.feedback.append(req.model_dump())
-    if req.valor == "negativo" and req.sujeto.tipo == "receta" and req.sujeto.id not in sesion.rechazadas:
-        sesion.rechazadas.append(req.sujeto.id)
+    respuesta = feedback.registrar(sesion, req)
     sesiones.guardar(sesion)
-    if req.valor == "negativo" and not req.motivo:  # primero entendemos qué falló; luego seguimos preguntando
-        return FeedbackResponse(mensaje="Vaya, lo siento. ¿Qué falló?", sugerencias=["Estaba soso", "Muy caro", "No me gustó"])
-    gracias = "¡Me alegro!" if req.valor == "positivo" else "Gracias, no te lo volveré a proponer."
-    siguiente = apertura.sujeto_pendiente(sesion)
-    if siguiente:
-        return FeedbackResponse(mensaje=f"{gracias} ¿Y qué tal salió «{siguiente.nombre}»?", feedback=siguiente)
-    return FeedbackResponse(mensaje=f"{gracias} Lo tendré en cuenta para la próxima semana.")
+    return respuesta

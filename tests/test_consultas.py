@@ -92,7 +92,8 @@ def test_preferencias_y_en_casa():
 
 
 def test_preguntas_sin_plan():
-    assert "Aún no tienes plan" in chat("¿qué como el martes?", "vacia")["mensaje"]
+    r = chat("¿qué como el martes?", "vacia")  # sin plan: en vez de "no tienes plan", ideas para ese día
+    assert r["mensaje"].startswith("Te propongo para el martes:") and "plan" not in r
     assert "¿De qué plato?" in chat("¿y qué lleva?", "vacia2")["mensaje"]
 
 

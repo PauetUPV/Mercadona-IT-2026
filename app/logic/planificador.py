@@ -6,10 +6,11 @@ import math
 import random
 import uuid
 from dataclasses import dataclass, field
-from typing import Optional
+from typing import Callable, Optional
 
 from app.data.catalogo import get_receta, get_recetas
 from app.logic.carrito import EPS, en_casa_de, escalar_receta, total_plan
+from app.logic.ideas import puntuacion_ligera
 from app.logic.errores import DatosInvalidos, Inviable, NoEncontrado, SinAlternativa
 from app.logic.texto import DIAS_SEMANA, MOMENTOS, norm, orden_semana
 from app.models.schemas import Ingrediente, PlanResponse, Producto, Receta
@@ -28,6 +29,10 @@ class Peticion:
     rechazadas: set[str] = field(default_factory=set)  # ids de receta que no se quieren
     fijos: list[tuple[Optional[str], Optional[str], str]] = field(default_factory=list)  # (dia, momento, receta_id) pedidos por el usuario
     semilla: int = 0  # orden de las recetas: misma semilla, mismo plan (cada sesión usa la suya, para variar)
+    favoritas: set[str] = field(default_factory=set)  # recetas con 👍: van primero
+    prefiere_barato: bool = False  # dijo "muy caro": primero las más baratas
+    prefiere_facil: bool = False  # dijo "mucho trabajo": primero las de menos ingredientes
+    prefiere_ligero: bool = False  # pidió comer "más ligero": primero ensaladas, cremas, plancha...
 
 
 def _validar(p: Peticion) -> list[str]:
@@ -90,6 +95,13 @@ def _seleccion_inicial(p: Peticion, dias: list[str]) -> dict[tuple[str, str], Re
     }
     for pool in pools.values():  # mezcla estable: evita cinco platos de pollo seguidos (las recetas van por familias)
         random.Random(p.semilla).shuffle(pool)
+        # Gustos aprendidos del feedback (dentro de cada grupo se mantiene el orden de la mezcla)
+        pool.sort(key=lambda r: (
+            r.id not in p.favoritas,
+            r.precio_estimado if p.prefiere_barato else 0,
+            len(r.ingredientes) if p.prefiere_facil else 0,
+            -puntuacion_ligera(r) if p.prefiere_ligero else 0,
+        ))
     usadas = {"cocinar": 0, "listo_para_comer": 0}
     asignacion = {}
     for dia in dias:
@@ -155,12 +167,21 @@ def cambiar_plato(
     presupuesto: Optional[float] = None,
     excluir: Optional[set[str]] = None,
     rechazadas: Optional[set[str]] = None,
+    filtro: Optional[Callable[[Receta], bool]] = None,
+    orden: Optional[Callable[[Receta, Receta], tuple]] = None,
+    solo_ids: Optional[set[str]] = None,
 ) -> PlanResponse:
-    """Sustituye el plato de `dia` (y `momento`, si se indica) por otro del mismo tipo y precio parecido."""
+    """Sustituye el plato de `dia` (y `momento`, si se indica) por otro.
+
+    Sin criterio: otro del mismo tipo y precio parecido. Con `filtro`/`orden` ("por algo de pescado", "por lentejas"):
+    el que mejor encaje, de cualquier tipo. `solo_ids`: cambia solo esos platos del día ("cambia las hamburguesas")."""
     clave = next((d for d in plan.dias if norm(d) == norm(dia)), None)
     if clave is None:
         raise NoEncontrado(f"El plan no tiene el día {dia!r}")
-    objetivos = [r for r in plan.dias[clave] if momento is None or r.momento == momento]
+    objetivos = [
+        r for r in plan.dias[clave]
+        if (momento is None or r.momento == momento) and (solo_ids is None or r.id in solo_ids)
+    ]
     if not objetivos:
         raise NoEncontrado(f"El {dia} no tiene {momento}")
 
@@ -169,8 +190,13 @@ def cambiar_plato(
     nuevo = plan
     for objetivo in objetivos:
         usadas = {r.id for rs in nuevo.dias.values() for r in rs}
-        candidatas = [r for r in _pool(objetivo.tipo, excluir, rechazadas) if r.id not in usadas]
-        candidatas.sort(key=lambda r: abs(r.precio_estimado - objetivo.precio_estimado))
+        if filtro is None:
+            candidatas = [r for r in _pool(objetivo.tipo, excluir, rechazadas) if r.id not in usadas]
+            candidatas.sort(key=lambda r: abs(r.precio_estimado - objetivo.precio_estimado))
+        else:
+            todas = _pool("cocinar", excluir, rechazadas) + _pool("listo_para_comer", excluir, rechazadas)
+            candidatas = [r for r in todas if r.id not in usadas and filtro(r)]
+            candidatas.sort(key=lambda r: orden(r, objetivo) if orden else abs(r.precio_estimado - objetivo.precio_estimado))
         elegida = None
         for cand in candidatas:
             escalada = escalar_receta(cand, objetivo.raciones, objetivo.momento)
@@ -181,7 +207,7 @@ def cambiar_plato(
                 elegida = tentativa
                 break
         if elegida is None:
-            raise SinAlternativa(f"No tengo otro plato parecido para el {clave} que cumpla las condiciones")
+            raise SinAlternativa(clave)  # el día; el mensaje lo redacta quien llama, según lo que se pidió
         nuevo = elegida
     recetas = [r for rs in nuevo.dias.values() for r in rs]
     return nuevo.model_copy(update={"id": uuid.uuid4().hex[:8], "en_casa": en_casa_de(recetas)})

@@ -126,6 +126,13 @@ def responder(sesion: Sesion, i: Interpretacion) -> dict:
             partes.append("evitas " + ", ".join(sesion.excluir))
         if sesion.sin_cocinar:
             partes.append("no cocinas el " + " ni el ".join(sesion.sin_cocinar))
+        if sesion.favoritas:
+            nombres = [r.nombre for rid in sesion.favoritas if (r := catalogo.get_receta(rid))]
+            partes.append("te gustaron " + ", ".join(nombres))
+        if sesion.prefiere_barato:
+            partes.append("prefieres opciones baratas")
+        if sesion.prefiere_facil:
+            partes.append("prefieres platos sencillos")
         if sesion.fijos:
             nombres = [r.nombre for f in sesion.fijos if (r := catalogo.get_receta(f["receta_id"]))]
             if nombres:

@@ -99,7 +99,7 @@ def buscar_productos(
     return resultado
 
 
-def mejor_producto(consulta: str) -> Optional[Producto]:
+def mejor_producto(consulta: str, favoritos: frozenset = frozenset(), rechazados: frozenset = frozenset()) -> Optional[Producto]:
     """Producto que mejor encaja con lo que pide el usuario ("leche", "café molido"...).
 
     Prefiere nombres que empiezan por la consulta, luego marca Hacendado, luego el más barato
@@ -111,13 +111,14 @@ def mejor_producto(consulta: str) -> Optional[Producto]:
     candidatos = [
         p
         for p in _indice().values()
-        if q in _norm(p.nombre) and p.categoria not in CATEGORIAS_NO_ALIMENTACION
+        if q in _norm(p.nombre) and p.categoria not in CATEGORIAS_NO_ALIMENTACION and p.id not in rechazados
     ]
     if not candidatos:
         return None
     return min(
         candidatos,
         key=lambda p: (
+            p.id not in favoritos,  # el que le gustó (feedback 👍), primero
             not _norm(p.nombre).startswith(q),
             "hacendado" not in _norm(p.nombre),
             p.precio_referencia if p.precio_referencia is not None else p.precio,
@@ -201,7 +202,9 @@ def buscar_receta(texto: str) -> tuple[Optional[Receta], float, list[Receta]]:
         comunes = len(set(pedidas) & set(nombre))
         if comunes:
             # más palabras en común; a igualdad, que contenga la primera palabra pedida (el plato, no el acompañamiento)
-            puntuadas.append(((comunes, pedidas[0] in nombre, comunes / len(nombre), -len(nombre)), r))
+            puntuadas.append((
+                (comunes, pedidas[0] in nombre, nombre[:1] == pedidas[:1], comunes / len(nombre), -len(nombre)), r
+            ))  # ...y si empata, el que empieza igual que lo pedido ("arroz con pollo" -> "Arroz con pollo y verduras")
     if not puntuadas:
         return None, 0.0, []
     puntuadas.sort(key=lambda x: x[0], reverse=True)

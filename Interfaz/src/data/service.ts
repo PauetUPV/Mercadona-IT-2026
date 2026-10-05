@@ -51,11 +51,20 @@ function recordarSesion(id: string) {
 }
 
 let sessionId = leerSesion();
+// After "Volver", the previous session id is sent once so the backend carries over the user's
+// long-term memory (saved lists to ask about, likes and dislikes, diet). The chat itself starts empty.
+let sesionAnterior: string | undefined;
 
 // Call when the user starts a conversation from scratch ("Volver"), so the
 // backend doesn't carry context the user thinks is gone.
 export function nuevaSesion() {
+  sesionAnterior = sessionId;
   recordarSesion(nuevoId());
+}
+
+// Once the backend has created the new session (and inherited), there is nothing left to pass on.
+function heredado() {
+  sesionAnterior = undefined;
 }
 
 const respuestaChat = (r: ChatResponse): RespuestaChat => ({
@@ -64,6 +73,7 @@ const respuestaChat = (r: ChatResponse): RespuestaChat => ({
   plan: r.plan ?? undefined, // null/absent = nothing changed
   sugerencias: r.sugerencias ?? undefined,
   feedback: r.feedback ?? undefined,
+  enviado: r.enviado ?? undefined,
 });
 
 // Classic search: "tomate" -> every product that mentions tomate.
@@ -73,17 +83,20 @@ export function buscarProductos(consulta: string): Promise<Producto[]> {
 
 // Merche's opening line when the screen opens: a greeting, or "how did X turn out?" (with `feedback`).
 export async function bienvenida(): Promise<RespuestaChat> {
-  const r = await request<ChatResponse>(`/bienvenida?session_id=${encodeURIComponent(sessionId)}`);
+  const anterior = sesionAnterior ? `&sesion_anterior=${encodeURIComponent(sesionAnterior)}` : "";
+  const r = await request<ChatResponse>(`/bienvenida?session_id=${encodeURIComponent(sessionId)}${anterior}`);
   recordarSesion(r.session_id);
+  heredado();
   return respuestaChat(r);
 }
 
 // "comidas de lunes a jueves para 4, 90 €, el martes no cocino"
 // Pass `planEditado` only if the user edited the plan since the last response.
 export async function enviarMensaje(texto: string, planEditado?: Plan): Promise<RespuestaChat> {
-  const peticion: ChatRequest = { session_id: sessionId, mensaje: texto, plan: planEditado };
+  const peticion: ChatRequest = { session_id: sessionId, mensaje: texto, plan: planEditado, sesion_anterior: sesionAnterior };
   const r = await post<ChatResponse>("/chat", peticion);
   recordarSesion(r.session_id);
+  heredado();
   return respuestaChat(r);
 }
 

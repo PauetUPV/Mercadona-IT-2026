@@ -31,7 +31,8 @@ def test_cambiar_plato():
     i = interpretar("cambia el lunes")
     assert (i.accion, i.dia, i.momento) == ("cambiar_plato", "lunes", None)
     assert interpretar("cambia la cena del martes").momento == "cena"
-    assert interpretar("cambia otro plato").accion == "charla"  # falta el día
+    i = interpretar("cambia otro plato")  # falta el día: el chat lo pregunta
+    assert (i.accion, i.dias_cambio, i.objetivo, i.todo) == ("cambiar_plato", [], None, False)
 
 
 def test_extras():

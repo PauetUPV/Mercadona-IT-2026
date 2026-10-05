@@ -1,8 +1,8 @@
 import { Fragment, useEffect, useRef, useState, type ReactNode } from "react";
 import { Icon } from "../../components/Icon";
-import type { LineaLista, MensajeChat, Plan, Receta, SujetoPendiente } from "../../data/types";
+import type { Enviado, MensajeChat, Plan, Receta, SujetoPendiente } from "../../data/types";
 import { capitalizar, formatCantidad, formatPrecio } from "../../lib/formato";
-import { costeIngrediente, diasOrdenados, imagenReceta, listaCompra, totalLista } from "../../lib/lista";
+import { costeIngrediente, diasOrdenados, imagenReceta, listaCompra, totalLista, type LineaCompra } from "../../lib/lista";
 
 const redondear = (eur: number) => Math.round(eur * 100) / 100;
 
@@ -14,6 +14,7 @@ const claveReceta = (dia: string, recetaId: string) => `${dia}-${recetaId}`;
 export interface Chips {
   textos: string[];
   motivoDe?: SujetoPendiente;
+  tiendaDe?: string; // after saving a list: the chips are stores, for that list id (local only)
 }
 
 // State C: conversation with Merche, plus the plan she proposes.
@@ -25,7 +26,6 @@ export function ChatThread({
   conclusion,
   chips,
   cargando,
-  onAddAll,
   onGuardarLista,
   onPlanEditado,
   onChip,
@@ -37,8 +37,7 @@ export function ChatThread({
   conclusion?: string; // Merche's closing line, shown AFTER the plan
   chips?: Chips;
   cargando: boolean;
-  onAddAll: (ids: string[]) => void;
-  onGuardarLista: (lineas: LineaLista[], planId?: string) => void;
+  onGuardarLista: (lineas: LineaCompra[], planId?: string) => void;
   onPlanEditado: (plan: Plan | undefined) => void; // the plan as the user edited it, or undefined if untouched
   onChip: (texto: string, chips: Chips) => void;
   onFeedback: (mensajeId: string, sujeto: SujetoPendiente, valor: "positivo" | "negativo") => void;
@@ -248,13 +247,7 @@ export function ChatThread({
           <div className="mt-4 flex flex-wrap gap-2.5">
             <button
               type="button"
-              onClick={() => {
-                onAddAll(lineas.map((l) => l.producto.id));
-                onGuardarLista(
-                  lineas.map((l) => ({ producto_id: l.producto.id, unidades: l.envases })),
-                  plan.id,
-                );
-              }}
+              onClick={() => onGuardarLista(lineas, plan.id)}
               className="flex h-12 flex-1 items-center justify-center gap-2 rounded-full bg-brand px-5 text-sm font-bold text-white transition hover:bg-brand-hover sm:flex-none"
             >
               <Icon name="plus" size={20} />
@@ -278,6 +271,7 @@ export function ChatThread({
           ) : (
             <Fragment key={m.id}>
               <MensajeMerche>{m.texto}</MensajeMerche>
+              {m.enviado && <TarjetaEnviado enviado={m.enviado} />}
               {m.feedback && (
                 <TarjetaValoracion
                   sujeto={m.feedback}
@@ -318,6 +312,28 @@ export function ChatThread({
       )}
       <div ref={finRef} />
     </section>
+  );
+}
+
+// The user's comment, as passed on to Mercadona: who it went to and the key points.
+function TarjetaEnviado({ enviado }: { enviado: Enviado }) {
+  return (
+    <div className="ml-14 max-w-[520px] rounded-[20px] border border-black/6 bg-white p-4 shadow-[0_8px_30px_rgba(28,52,42,0.07)]">
+      <p className="flex items-center gap-2 text-[13px] font-bold uppercase tracking-[0.08em] text-brand">
+        <span className="grid h-6 w-6 place-items-center rounded-full bg-brand text-white">
+          <Icon name="check" size={14} strokeWidth={2.6} />
+        </span>
+        Enviado a {enviado.destinatario}
+      </p>
+      <ul className="mt-2.5 space-y-1.5">
+        {enviado.puntos.map((p) => (
+          <li key={p} className="flex gap-2 text-[15px] leading-snug">
+            <span aria-hidden className="text-brand">•</span>
+            <span>{p}</span>
+          </li>
+        ))}
+      </ul>
+    </div>
   );
 }
 

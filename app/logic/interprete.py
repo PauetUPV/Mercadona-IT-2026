@@ -6,12 +6,17 @@ Ambos devuelven la misma `Interpretacion`.
 import re
 from typing import Literal, Optional
 
-from pydantic import BaseModel, Field
+from pydantic import BaseModel, Field, PrivateAttr
 
 from app.data.catalogo import _tokens_plato, buscar_receta
+from app.logic import ideas
 from app.logic.texto import DIAS_SEMANA, dia_mas, hoy, norm
 
-Accion = Literal["plan", "pedir_plato", "evitar", "cambiar_plato", "anadir_extra", "quitar_extra", "consultar", "charla"]
+Accion = Literal[
+    "sugerir", "plan", "pedir_plato", "evitar", "cambiar_plato", "anadir_extra", "quitar_extra", "consultar", "opinion", "charla"
+]
+# Cómo quiere que sea la comida ("algo ligero", "algo especial", "rápido", "barato")
+Estilo = Literal["ligero", "especial", "rapido", "barato"]
 # Sobre qué pregunta el usuario (acción "consultar"); la respuesta sale de los datos de la sesión
 Tema = Literal["menu", "receta", "ingredientes", "coste", "en_casa", "preferencias", "otro"]
 Momento = Literal["comida", "cena"]
@@ -32,6 +37,15 @@ class Interpretacion(BaseModel):
     momento: Optional[Momento] = None  # cambiar_plato / pedir_plato: comida o cena
     plato: Optional[str] = None  # pedir_plato / consultar: el plato del que habla, p. ej. "pollo al curry"
     tema: Optional[Tema] = None  # consultar: de qué pregunta
+    # cambiar_plato: qué se cambia (días, un plato por su nombre o todo) y con qué ("lentejas", "algo de pescado")
+    dias_cambio: list[str] = Field(default_factory=list)
+    objetivo: Optional[str] = None  # plato del plan nombrado en vez del día: "las hamburguesas", "la pasta"
+    todo: bool = False  # "cambia todo"
+    por: Optional[str] = None  # lo que quiere en su lugar, tal cual: "lentejas", "pescado", "algo vegetariano"
+    puntos_clave: list[str] = Field(default_factory=list)  # opinion: lo esencial del comentario para Mercadona
+    ingredientes: list[str] = Field(default_factory=list)  # sugerir: lo que tiene o quiere usar ("pollo", "pasta")
+    estilo: Optional[Estilo] = None  # sugerir / plan: cómo lo quiere
+    _fuente: str = PrivateAttr(default="reglas")  # quién lo interpretó: "gemini" o "reglas" (solo para el log)
     producto: Optional[str] = None  # anadir_extra / quitar_extra: "leche", "café"...
     no_quiere: list[str] = Field(default_factory=list)  # platos o ingredientes que rechaza: "pollo al curry", "cebolla"
     permitir: list[str] = Field(default_factory=list)  # etiquetas que vuelve a admitir ("ya no soy vegetariano")
@@ -130,7 +144,7 @@ def _plato_pedido(n: str) -> Optional[str]:
     m = re.search(r"\b(?:quiero|quisiera|me apetece|me gustaria|hazme|preparame|ponme|pon|anade|mejor)\s+(?:comer\s+|cenar\s+)?(.+)", n)
     if not m:
         return None
-    texto = re.split(r"[.,;!?]|\s+(?:para|el|los|hoy|manana|esta|que|y somos|somos|pero|mejor|y)\b", m.group(1))[0].strip()
+    texto = re.split(r"[.,;!?]|\s+(?:para|el|los|hoy|manana|esta|que|y somos|somos|pero|mejor)\b", m.group(1))[0].strip()
     texto = re.sub(r"^(?:(?:mucho|muchisimo|un poco de|algo de|un|una|unos|unas|el|la|los|las|de)\s+)+", "", texto)
     if not texto or re.search(r"\b(?:plan|menu|presupuesto|euros?|personas|comida y cena)\b", texto):
         return None
@@ -213,6 +227,58 @@ _PIDE_ALGO = re.compile(
 )
 
 
+_CAMBIO = re.compile(
+    r"\b(?:cambia|cambiame|cambiar|cambiarme|cambias|cambies|sustituye|sustituyeme|sustituir|reemplaza|reemplazar)\b"
+    r"|\b(?:pon|ponme) otr[oa] (?:cosa|plato)\b|\botro plato\b|\botra cosa\b"
+)
+_TODO = re.compile(r"\b(?:todo|todos los platos|todos|el plan entero|el plan|el menu entero|el menu|toda la semana)\b")
+
+
+def _cambio(res: Interpretacion, resto: str, cena, comida) -> Interpretacion:
+    """"Cambia el lunes", "cambia el lunes y el martes por algo de pescado", "cambia las hamburguesas", "cambia todo".
+
+    Lo que va tras "por" es CON QUÉ cambiarlo (un plato o un criterio), no una dieta nueva: "por algo vegetariano"
+    no hace vegetariano al usuario, solo elige un plato vegetariano para ese hueco."""
+    antes, _, despues = resto.partition(" por ")
+    dias_cambio = _dias_en(antes)
+    res.accion = "cambiar_plato"
+    res.excluir, res.momentos, res.dias, res.sin_cocinar = [], None, None, []
+    res.dias_cambio, res.dia = dias_cambio, dias_cambio[0] if len(dias_cambio) == 1 else None
+    res.momento = "cena" if cena and not comida else ("comida" if comida and not cena else None)
+    res.todo = bool(_TODO.search(antes)) and not dias_cambio
+    if not dias_cambio and not res.todo:
+        objetivo = re.sub(r"\b(?:el plato de|el plato del|la receta de|el|la|los|las|de|del|me|un|una|plato)\b", " ", antes)
+        objetivo = re.sub(r"\b(?:comida|cena|por favor|puedes|podrias)\b|[?¿!.,]", " ", objetivo)
+        objetivo = re.sub(r"\s+", " ", objetivo).strip()
+        nombra_algo = [t for t in _tokens_plato(objetivo) if t not in ("otro", "otra", "cosa", "algo", "ese", "esto", "eso")]
+        res.objetivo = objetivo if nombra_algo else None  # "cambia otro plato" no nombra ningún plato
+    por = re.sub(r"^(?:un|una|unos|unas|algo de|algo|otro|otra)\s+", "", despues.strip(" ?.!,")).strip()
+    res.por = por or None
+    res.estilo = _estilo(despues) if despues else None
+    return res
+
+
+_SUGERIR = re.compile(
+    r"\b(?:recomiend\w*|recomendar|recomendacion\w*|sugier\w*|sugerir|sugerencias?|ideas?|propon\w*|ocurre)\b"
+    r"|\bque (?:puedo|podria|podemos) (?:cenar|comer|hacer|preparar|cocinar)\b"
+    r"|\bque (?:hago|preparo|cocino|hacemos) (?:con|de|hoy|esta|para)\b"
+    r"|\bme apetece algo\b|\balgo (?:ligero|rico|especial|rapido|facil|sano|distinto|diferente)\b"
+    r"|\bque (?:ceno|como|cenamos|comemos) (?:hoy|esta noche)?\s*(?:con|que no)\b"
+)
+
+
+def _estilo(n: str) -> Optional[str]:
+    if re.search(r"\b(?:ligero|ligera|ligeros|sano|sana|saludable|light|poca grasa)\b", n):
+        return "ligero"
+    if re.search(r"\b(?:especial|celebrar|celebracion|invitados|capricho|cumpleanos)\b", n):
+        return "especial"
+    if re.search(r"\b(?:rapido|rapida|facil|sencillo|sencilla|poco tiempo|no tengo tiempo|prisa)\b", n):
+        return "rapido"
+    if re.search(r"\b(?:barato|barata|economico|economica|ahorrar)\b", n):
+        return "barato"
+    return None
+
+
 def _es_pregunta(mensaje: str, n: str) -> bool:
     return ("?" in mensaje or bool(_INTERROGATIVO.match(n))) and not _PIDE_ALGO.search(n)
 
@@ -233,8 +299,30 @@ def _tema(n: str, dias: list[str]) -> str:
     return "otro"
 
 
+# Comentarios sobre productos o la compra ("las latas de atún vienen con demasiado aceite", "el pan llegó duro")
+_OPINION = re.compile(
+    r"\b(?:viene|vienen|venia|venian|llega|llegan|llego|llegaron|trae|traen|traia|traian|sabe a|saben a|sabia|sabian)\b"
+    r"|\b(?:envase|envases|lata|latas|paquete|bote|bandeja|caducad\w*|mal estado|podrid\w*|calidad)\b"
+    r"|\b(?:queja|reclamacion|sugerencia|deberiais|deberian|podriais|echo de menos|no encuentro)\b"
+    r"|\b(?:estaba|estaban|estuvo)\s+(?:muy\s+|demasiado\s+|un poco\s+)?(?:buen\w*|ric\w*|mal\w*|sos\w*|salad\w*|dur\w*|sec\w*|frio|crud\w*)"
+)
+
+
+def _puntos_clave(mensaje: str) -> list[str]:
+    """Frases del mensaje que son el comentario en sí, limpias de relleno ("oye", "por cierto"...)."""
+    puntos = []
+    for frase in re.split(r"[.;!?¡¿]+|\s+pero\s+", mensaje):
+        limpia = re.sub(r"^(?:oye|mira|por cierto|una cosa|ah|bueno|y|que|pues)[,\s]+", "", frase.strip(), flags=re.I).strip(" ,")
+        if limpia and _OPINION.search(norm(limpia)):
+            puntos.append(limpia[0].upper() + limpia[1:])
+    return puntos or [mensaje.strip()]
+
+
 def interpretar(mensaje: str) -> Interpretacion:
     res = Interpretacion()
+    if _OPINION.search(norm(mensaje)):  # va antes que nada: "vienen con demasiado aceite" no es pedir ni rechazar
+        res.accion, res.puntos_clave = "opinion", _puntos_clave(mensaje)
+        return res
     n = _negaciones(norm(mensaje), res)  # a partir de aquí, `n` ya no contiene lo que el usuario rechaza
 
     # Personas: vale la ÚLTIMA cifra ("somos 4... bueno, somos 3")
@@ -278,21 +366,33 @@ def interpretar(mensaje: str) -> Interpretacion:
     elif cena:
         res.momentos = ["cena"]
 
-    if re.search(r"\b(cambia|cambiame|cambiar|sustituye|sustituir|otro plato|otra cosa)\b", n) and not res.excluir:
-        if len(dias) == 1:
-            res.accion, res.dia = "cambiar_plato", dias[0]
-            res.momento = "cena" if cena and not comida else ("comida" if comida and not cena else None)
-            res.dias = res.momentos = None  # no es una petición de nuevo plan
-            return res
-        res.accion = "charla"
-        res.respuesta = "¿Qué día quieres cambiar?"
-        return res
+    cambio = _CAMBIO.search(n)
+    if cambio:
+        return _cambio(res, n[cambio.end():], cena, comida)
 
-    if re.fullmatch(r"\W*(gracias|muchas gracias|vale|ok|perfecto|genial)\W*", n):
+    if re.fullmatch(r"\W*(?:(?:ahora )?no,? )?(gracias|muchas gracias|vale|ok|perfecto|genial)\W*", n) or re.fullmatch(r"\W*ahora no\W*", n):
         res.respuesta = "¡De nada! Aquí estoy para lo que necesites."
         return res
     if re.fullmatch(r"\W*(hola|buenas|buenos dias|buenas tardes|hey)\W*", n):
         res.respuesta = "¡Hola! Soy Merche. Dime para cuántas personas es el plan y lo preparo."
+        return res
+
+    res.estilo = _estilo(n)
+
+    # Ideas sin plan ("¿qué puedo cenar con pasta?", "¿qué me recomiendas?", "tengo pollo y arroz, ¿qué hago?").
+    # Un menú o plan para varios días sí es un plan ("¿me propones un menú para la semana?").
+    menu_de_varios_dias = re.search(r"\b(?:menu|plan)\b", n) and (re.search(r"\bsemana\b", n) or len(dias) > 1)
+    if _SUGERIR.search(n) and not menu_de_varios_dias and not (res.comensales or res.presupuesto is not None):
+        dias_pedidos = res.sin_cocinar or dias
+        res.accion, res.ingredientes = "sugerir", ideas.ingredientes_en(n)
+        res.dia = dias_pedidos[0] if len(dias_pedidos) == 1 else None
+        res.momento = "cena" if cena and not comida else ("comida" if comida and not cena else None)
+        res.dias = res.momentos = None
+        return res
+    if menu_de_varios_dias and re.search(
+        r"\b(?:propon\w*|hazme|haz|prepara\w*|organiza\w*|planifica\w*|quiero|necesito|ayuda\w*|ayudas)\b", n
+    ):
+        res.accion = "plan"  # "¿me propones un menú para la semana?" (con su estilo, si lo dice)
         return res
 
     # Preguntas sobre lo que ya hay ("¿qué como el martes?", "¿cómo se hace la tortilla?"): nunca cambian el plan

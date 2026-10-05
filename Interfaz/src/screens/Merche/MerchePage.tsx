@@ -1,8 +1,9 @@
 import { useEffect, useRef, useState } from "react";
 import { Icon } from "../../components/Icon";
 import { bienvenida, buscarProductos, enviarMensaje, guardarLista, nuevaSesion, valorar } from "../../data/service";
-import type { Intencion, LineaLista, MensajeChat, Plan, Producto, RespuestaChat, SujetoPendiente } from "../../data/types";
+import type { Enviado, Intencion, ListaGuardada, MensajeChat, Plan, Producto, RespuestaChat, SujetoPendiente } from "../../data/types";
 import { decidirIntencion } from "../../lib/intencion";
+import { totalLista, type LineaCompra } from "../../lib/lista";
 import { ChatThread, type Chips } from "./ChatThread";
 import { IntroBlock } from "./IntroBlock";
 import { SearchBar } from "./SearchBar";
@@ -26,25 +27,31 @@ type Vista =
 type Respuesta = RespuestaChat & { chips?: Chips };
 
 const SIN_CONEXION = "Ahora mismo no puedo conectar. Inténtalo de nuevo en un momento.";
+// Used if the backend can't be reached when saving: the list is still saved in "Listas".
+const TIENDAS = ["Paterna", "Alboraya"];
+const PREGUNTA_TIENDA = "Lista guardada. ¿En qué tienda vas a hacer la compra?";
 
 let nMensajes = 0;
-const deMerche = (texto: string, feedback?: SujetoPendiente): MensajeChat => ({
+const deMerche = (texto: string, feedback?: SujetoPendiente, enviado?: Enviado): MensajeChat => ({
   id: `m${++nMensajes}`,
   autor: "merche",
   texto,
   feedback,
+  enviado,
 });
 const delUsuario = (texto: string): MensajeChat => ({ id: `u${++nMensajes}`, autor: "usuario", texto });
 
 export function MerchePage({
   added,
   onToggle,
-  onAddAll,
+  onListaGuardada,
+  onTienda,
   onNotice,
 }: {
   added: string[];
-  onToggle: (id: string) => void;
-  onAddAll: (ids: string[]) => void;
+  onToggle: (producto: Producto) => void;
+  onListaGuardada: (lista: ListaGuardada) => void;
+  onTienda: (listaId: string, tienda: string) => void;
   onNotice: (texto: string) => void;
 }) {
   const [vista, setVista] = useState<Vista>({ tipo: "vacio" });
@@ -62,6 +69,10 @@ export function MerchePage({
   useEffect(() => {
     if (abierto.current) return;
     abierto.current = true;
+    abrir();
+  }, []);
+
+  function abrir() {
     bienvenida()
       .then((r) => {
         if (!r.feedback) return;
@@ -72,7 +83,7 @@ export function MerchePage({
         );
       })
       .catch(() => undefined); // no backend: the intro block is enough
-  }, []);
+  }
 
   const chipsDe = (r: { sugerencias?: string[] | null }, motivoDe?: SujetoPendiente): Chips | undefined =>
     r.sugerencias && r.sugerencias.length > 0 ? { textos: r.sugerencias, motivoDe } : undefined;
@@ -91,7 +102,7 @@ export function MerchePage({
     } catch {
       respuesta = { mensaje: SIN_CONEXION };
     }
-    const merche = deMerche(respuesta.mensaje, respuesta.feedback);
+    const merche = deMerche(respuesta.mensaje, respuesta.feedback, respuesta.enviado);
     if (respuesta.plan) setPlanEditado(undefined); // a new plan starts clean
     setVista((v) =>
       v.tipo === "conversacion"
@@ -135,8 +146,9 @@ export function MerchePage({
     });
   }
 
-  // A chip is either a message for Merche or, after a thumbs down, the reason why.
+  // A chip is a message for Merche, the reason for a thumbs down, or the store for a saved list.
   function pulsarChip(textoChip: string, chips: Chips) {
+    if (chips.tiendaDe) return elegirTienda(chips.tiendaDe, textoChip);
     if (!chips.motivoDe) return preguntarAMerche(textoChip);
     const sujeto = chips.motivoDe;
     return turno(textoChip, async () => {
@@ -145,17 +157,47 @@ export function MerchePage({
     });
   }
 
-  // "Añadir en una nueva lista": the backend needs to know what was bought to ask later how it went.
-  async function guardar(lineas: LineaLista[], planId?: string) {
+  // "Añadir en una nueva lista": saved in the "Listas" tab, and the backend records what was bought
+  // so Merche can ask how it went next time. Then: which store will you shop at?
+  async function guardar(lineas: LineaCompra[], planId?: string) {
+    const fecha = new Date();
+    let id = `local-${fecha.getTime()}`;
+    let pregunta = PREGUNTA_TIENDA;
+    let tiendas = TIENDAS;
     try {
-      const r = await guardarLista(lineas, planId);
-      if (r.mensaje) {
-        const mensaje = deMerche(r.mensaje);
-        setVista((v) => (v.tipo === "conversacion" ? { ...v, mensajes: [...v.mensajes, mensaje], conclusion: undefined } : v));
-      }
+      const r = await guardarLista(lineas.map((l) => ({ producto_id: l.producto.id, unidades: l.envases })), planId);
+      id = r.lista_id;
+      pregunta = r.mensaje ?? pregunta;
+      tiendas = r.sugerencias && r.sugerencias.length > 0 ? r.sugerencias : tiendas;
     } catch {
-      onNotice("No se ha podido guardar la lista en Merche");
+      // offline: the list is still kept locally
     }
+    onListaGuardada({
+      id,
+      nombre: `Lista del ${fecha.toLocaleDateString("es-ES", { day: "numeric", month: "long" })}`,
+      fecha: fecha.toISOString(),
+      lineas: lineas.map(({ producto, envases, subtotal }) => ({ producto, envases, subtotal })),
+      total: totalLista(lineas),
+    });
+    onNotice("Lista guardada en «Listas»");
+    const mensaje = deMerche(pregunta);
+    setVista((v) =>
+      v.tipo === "conversacion"
+        ? { ...v, mensajes: [...v.mensajes, mensaje], conclusion: undefined, chips: { textos: tiendas, tiendaDe: id } }
+        : v,
+    );
+  }
+
+  // Store picked for a saved list. Only noted on the list; it isn't connected to anything.
+  function elegirTienda(listaId: string, tienda: string) {
+    onTienda(listaId, tienda);
+    const usuario = delUsuario(tienda);
+    const merche = deMerche(
+      `¡Perfecto! Tu lista queda para Mercadona ${tienda}. La tienes en «Listas». Cuando vuelvas, te pregunto qué tal fue la compra.`,
+    );
+    setVista((v) =>
+      v.tipo === "conversacion" ? { ...v, mensajes: [...v.mensajes, usuario, merche], chips: undefined } : v,
+    );
   }
 
   function enviar(consulta: string, forzar?: Intencion) {
@@ -173,6 +215,7 @@ export function MerchePage({
     setTexto("");
     setPlanEditado(undefined);
     nuevaSesion();
+    abrir(); // new chat, same memory: Merche may still ask how last week's food went
   }
 
   return (
@@ -212,7 +255,6 @@ export function MerchePage({
             conclusion={vista.conclusion}
             chips={vista.chips}
             cargando={vista.cargando}
-            onAddAll={onAddAll}
             onGuardarLista={(lineas, planId) => void guardar(lineas, planId)}
             onPlanEditado={setPlanEditado}
             onChip={(t, chips) => void pulsarChip(t, chips)}

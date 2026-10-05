@@ -61,6 +61,17 @@ Si pide un plato que no existe, lo dice y propone el más parecido; si el plato 
 se quitan del plan (sustituyéndolos) y no vuelven a salir. También entiende "no somos 4, somos 3", "ya no soy vegetariano",
 "no quiero cocinar el martes", "no quiero cenas" y "no tengo presupuesto". Lo rechazado nunca se toma como petición.
 
+**Cambiar platos**: "cambia el lunes", "cambia el lunes y el martes", "cambia todo", "cambia las hamburguesas" (por nombre),
+"cambia la pasta por arroz" (por ingrediente), "cámbiame el martes por lentejas", "cambia el jueves por algo más ligero",
+"cambia el viernes por algo vegetariano". Lo que va tras "por" elige el plato nuevo **solo para ese hueco** (no cambia la dieta
+guardada). Si no hay nada que encaje, lo dice y el plan no cambia. El resto de días se queda igual.
+
+**Ideas sin plan**: "¿qué puedo cenar esta noche con pasta?", "el martes no me apetece cocinar, ¿qué me recomiendas?",
+"algo especial para el domingo", "tengo pollo y arroz, ¿qué hago?" → Merche propone hasta 3 recetas (según ingredientes, estilo,
+dieta y gustos) **sin crear ni cambiar el plan**, con chips "Quiero X esta noche/el martes" para elegir. Merche no da por hecho que
+el usuario quiere un plan semanal: un plato suelto ("quiero pollo al curry" + "somos 2") crea un plan **solo para ese día**.
+Un menú de varios días ("¿me propones un menú ligero para la semana?") sí es un plan, con su estilo.
+
 **Preguntas** ("¿qué como el martes?", "¿cuál es el menú?", "¿cómo se hace?", "¿y qué lleva?", "¿cuánto me va a costar?",
 "¿qué tengo que tener en casa?", "¿para cuántos era?"): se responden con los datos guardados de la sesión y **nunca traen `plan`**
 (una pregunta no cambia nada). Merche recuerda de qué plato se hablaba, así que "¿y qué lleva?" funciona sin repetir el nombre.
@@ -235,9 +246,13 @@ Respuesta:
 ```json
 {
   "lista_id": "l_91c2",
-  "mensaje": "Guardada. Luego te pregunto qué tal salió."   // opcional
+  "mensaje": "Lista guardada. ¿En qué tienda vas a hacer la compra?",   // opcional
+  "sugerencias": ["Paterna", "Alboraya"]                                // opcional: chips de tienda
 }
 ```
+
+- **Tienda (solo informativa):** el frontend muestra las `sugerencias` como chips. La elección se guarda solo en la lista local
+  (pestaña "Listas") y Merche contesta en local; **no se envía a ningún sitio**.
 
 - `unidades` aquí son **envases enteros** ya editados por el usuario (pueden diferir de lo que salía del plan).
 - Si viene `mensaje`, el frontend lo muestra como burbuja de Merche.
@@ -312,9 +327,45 @@ Respuesta: `{ "mensaje"?: "...", "sugerencias"?: ["Estaba soso", "Muy caro", "No
 - **Máximo 3 platos por lista guardada**, para no agobiar; después `feedback` deja de venir.
 - 404 si la sesión no existe.
 
-### Todavía pendiente
-- Valoración de **productos** (hoy Merche solo pregunta por recetas; el backend ya acepta `tipo: "producto"`).
-- Que el feedback influya en el plan más allá de "no repetir" (p. ej. preferir platos con 👍).
+### Qué aprende Merche del feedback
+
+- Al guardar la lista, el backend apunta **qué platos y productos se compraron** (los que tienen algún producto en `lineas`):
+  solo pregunta por esos. Pregunta por recetas y también por los productos sueltos (`extras`, `tipo: "producto"`).
+- 👍 receta: vuelve a salir en los siguientes planes. 👎 receta: no vuelve a salir (salvo que el usuario la pida).
+- 👍 producto: se elige ese al pedir "añade X". 👎 producto: no se vuelve a elegir.
+- Motivos del 👎 (`sugerencias`: "Estaba soso", "Muy caro", "Mucho trabajo", "No me gustó"): "Muy caro" hace que los planes
+  prioricen platos baratos; "Mucho trabajo", platos con menos ingredientes.
+- "¿Qué tengo apuntado?" en el chat devuelve también estos gustos.
+
+### (NUEVO) "Volver" conserva la memoria: `sesion_anterior`
+
+Al empezar de cero, el frontend crea un `session_id` nuevo y envía **una vez** el anterior como `sesion_anterior`
+(en el cuerpo de `/chat` o como parámetro de `/bienvenida`). La sesión nueva empieza con la conversación, el plan y los datos
+de la semana vacíos, pero **hereda la memoria del usuario**: listas guardadas (y sus preguntas pendientes), valoraciones,
+platos que le gustan o no, productos preferidos, preferencias de precio y esfuerzo, y su dieta (`excluir`).
+
+## (NUEVO) Comentarios para Mercadona: `enviado`
+
+Si el usuario comenta algo de un producto o de la compra ("las latas de atún vienen con demasiado aceite", "el pan llegó duro",
+"echo de menos el tofu ahumado"), `/chat` responde **sin `plan`** y con:
+
+```json
+{
+  "mensaje": "Gracias por contárnoslo. Se lo he hecho llegar a Mercadona.",
+  "enviado": { "destinatario": "Mercadona", "puntos": ["Las latas de atún vienen con demasiado aceite"] },
+  "mensaje_conclusion": "¿Preparamos lo de la semana que viene?",
+  "sugerencias": ["Hazme un plan para la semana", "Ahora no, gracias"]
+}
+```
+
+- El frontend pinta `enviado` como una tarjeta "Enviado a Mercadona" con los `puntos` (lo esencial del comentario).
+- No se envía a ningún sitio real: se guarda en la sesión (`opiniones`).
+
+## (NUEVO) Pestaña "Listas"
+
+Las listas guardadas con "Añadir en una nueva lista" (con su tienda, productos, envases y total) y los productos sueltos
+añadidos desde la búsqueda se guardan en el navegador (`localStorage`) y se ven en la pestaña "Listas". El backend solo
+registra qué se compró para preguntar luego "¿qué tal fue la compra?" (al abrir el siguiente chat, con `/bienvenida`).
 
 ## Reglas de precio y viabilidad
 
@@ -380,7 +431,7 @@ python -m venv venv
 venv\Scripts\activate          # Linux/Mac: source venv/bin/activate
 pip install -r requirements.txt -r requirements-dev.txt
 uvicorn main:app --reload
-pytest                      # 131 tests, sin red ni Gemini (siempre simulado)
+pytest                      # 178 tests, sin red ni Gemini (siempre simulado)
 
 # Probar a mano: Swagger en http://localhost:8000/docs, o con curl:
 curl -X POST localhost:8000/chat -H "content-type: application/json" -d '{"session_id":"demo","mensaje":"Somos 2, 60 euros y el martes no cocino"}'

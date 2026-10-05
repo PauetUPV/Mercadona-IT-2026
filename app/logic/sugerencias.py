@@ -3,6 +3,7 @@ mensaje que el intérprete entiende (al pulsarlo, el frontend lo envía tal cual
 import math
 from typing import Optional
 
+from app.logic import ideas
 from app.logic.sesiones import Sesion
 
 MAX_CHIPS = 4
@@ -45,6 +46,10 @@ def para(hechos: dict, sesion: Sesion) -> list[str]:
         chips.append("Solo de lunes a miércoles")
     elif tipo == "pregunta_comensales" and hechos.get("plato"):
         chips = ["Solo para mí, hoy", "Somos 2", "Somos 4"]
+    elif tipo == "ideas":
+        chips = ideas.chips(hechos) if hechos.get("exito") else [PEDIR_PLAN]
+    elif tipo == "opinion":
+        chips = [PEDIR_PLAN, "Ahora no, gracias"]
     elif tipo == "consulta":
         primer_dia = hechos.get("dia") or _otro_dia(sesion)
         chips = {

@@ -54,6 +54,7 @@ export interface ChatRequest {
   session_id?: string;
   mensaje: string;
   plan?: Plan; // only when the user edited the plan since the last response
+  sesion_anterior?: string; // after "Volver": the new session inherits lists, tastes and diet from this one
 }
 
 // Something Merche asks the user to rate (thumbs up/down). The question is in `mensaje`.
@@ -71,6 +72,13 @@ export interface ChatResponse {
   plan?: Plan | null; // absent/null = nothing changed, keep the last one
   sugerencias?: string[] | null; // quick-reply chips (max 4): tapping one sends it as `mensaje`
   feedback?: SujetoPendiente | null; // Merche asks how something turned out
+  enviado?: Enviado | null; // the user's comment, "sent to Mercadona": shown as a card
+}
+
+// A comment about products or the shopping that Merche passes on to Mercadona (not really sent anywhere).
+export interface Enviado {
+  destinatario: string; // "Mercadona"
+  puntos: string[]; // the key points of the comment
 }
 
 // POST /feedback
@@ -103,6 +111,7 @@ export interface ListaRequest {
 export interface ListaResponse {
   lista_id: string;
   mensaje?: string | null; // shown as a Merche bubble
+  sugerencias?: string[] | null; // stores to pick where the shopping will be done (local only)
 }
 
 // UI-only shapes (not in the contract).
@@ -112,6 +121,23 @@ export interface MensajeChat {
   texto: string;
   feedback?: SujetoPendiente; // Merche's question carries a rating card
   valorado?: "positivo" | "negativo"; // what the user answered on that card
+  enviado?: Enviado; // "sent to Mercadona" card under the message
+}
+
+// The "Listas" tab. Saved locally in the browser (the backend only records what was bought).
+export interface LineaGuardada {
+  producto: Producto;
+  envases: number;
+  subtotal: number;
+}
+
+export interface ListaGuardada {
+  id: string; // lista_id from the backend (or a local one if it was offline)
+  nombre: string;
+  fecha: string; // ISO
+  tienda?: string; // "Paterna" | "Alboraya": where the user will shop
+  lineas: LineaGuardada[];
+  total: number;
 }
 
 export interface RespuestaChat {
@@ -120,4 +146,5 @@ export interface RespuestaChat {
   plan?: Plan;
   sugerencias?: string[];
   feedback?: SujetoPendiente;
+  enviado?: Enviado;
 }

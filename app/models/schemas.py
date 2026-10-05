@@ -48,6 +48,8 @@ class ChatRequest(BaseModel):
     session_id: Optional[str] = None  # si falta se crea; si el cliente envía uno nuevo, se usa tal cual
     mensaje: str = Field(min_length=1)
     plan: Optional[PlanResponse] = None  # el plan tal como lo ve el usuario, si lo ha editado
+    # Al empezar de cero ("Volver"), el id de la sesión anterior: la nueva hereda su memoria (listas, gustos, dieta)
+    sesion_anterior: Optional[str] = None
 
 
 class SujetoPendiente(BaseModel):
@@ -66,6 +68,7 @@ class ChatResponse(BaseModel):
     plan: Optional[PlanResponse] = None  # solo si ha cambiado; si falta, el frontend conserva el último
     sugerencias: Optional[list[str]] = None  # chips de respuesta rápida (máx. 4); al pulsar, se envían como `mensaje`
     feedback: Optional[SujetoPendiente] = None  # Merche pregunta qué tal salió algo (la pregunta va en `mensaje`)
+    enviado: Optional["Enviado"] = None  # comentario del usuario "enviado a Mercadona": el frontend pinta una tarjeta
 
 
 class MensajeChat(BaseModel):
@@ -94,6 +97,14 @@ class ListaRequest(BaseModel):
 class ListaResponse(BaseModel):
     lista_id: str
     mensaje: Optional[str] = None
+    sugerencias: Optional[list[str]] = None  # tiendas para elegir dónde hacer la compra (solo informativo)
+
+
+class Enviado(BaseModel):
+    """Comentario del usuario que Merche "hace llegar" a Mercadona (no se envía a ningún sitio real)."""
+
+    destinatario: str = "Mercadona"
+    puntos: list[str]  # lo esencial del comentario, en frases cortas
 
 
 class SujetoFeedback(BaseModel):
@@ -112,3 +123,6 @@ class FeedbackResponse(BaseModel):
     mensaje: Optional[str] = None
     sugerencias: Optional[list[str]] = None
     feedback: Optional[SujetoPendiente] = None  # siguiente cosa a valorar, si Merche quiere seguir preguntando
+
+
+ChatResponse.model_rebuild()  # `enviado` usa Enviado, definido más abajo

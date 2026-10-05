@@ -1,6 +1,26 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { Icon, type IconName } from "./components/Icon";
+import type { ListaGuardada, Producto } from "./data/types";
+import { ListasPage } from "./screens/Listas/ListasPage";
 import { MerchePage } from "./screens/Merche/MerchePage";
+
+// Saved lists and loose products live in the browser, so they survive a reload.
+function leer<T>(clave: string, porDefecto: T): T {
+  try {
+    const crudo = localStorage.getItem(clave);
+    return crudo ? (JSON.parse(crudo) as T) : porDefecto;
+  } catch {
+    return porDefecto;
+  }
+}
+
+function escribir(clave: string, valor: unknown) {
+  try {
+    localStorage.setItem(clave, JSON.stringify(valor));
+  } catch {
+    // storage blocked: they just won't survive a reload
+  }
+}
 
 type Tab = "Inicio" | "Categorías" | "Merche" | "Listas" | "Cuenta";
 
@@ -15,7 +35,12 @@ const navItems: { name: IconName; label: Tab }[] = [
 // App shell: tabs, shared "lista" state, toast. Screens live in src/screens/.
 export default function App() {
   const [active, setActive] = useState<Tab>("Merche");
-  const [added, setAdded] = useState<string[]>([]);
+  // Loose products added from the search, and lists saved from Merche's plans (newest first).
+  const [sueltos, setSueltos] = useState<Producto[]>(() => leer("merche.sueltos", []));
+  const [listas, setListas] = useState<ListaGuardada[]>(() => leer("merche.listas", []));
+  useEffect(() => escribir("merche.sueltos", sueltos), [sueltos]);
+  useEffect(() => escribir("merche.listas", listas), [listas]);
+  const added = sueltos.map((p) => p.id);
   const [notice, setNotice] = useState("");
   // Bumping this remounts MerchePage, sending it back to its intro state.
   const [merchePage, setMerchePage] = useState(0);
@@ -25,19 +50,20 @@ export default function App() {
     window.setTimeout(() => setNotice(""), 2200);
   }
 
-  function toggleProduct(id: string) {
-    const yaEstaba = added.includes(id);
-    setAdded((items) => (yaEstaba ? items.filter((i) => i !== id) : [...items, id]));
+  function toggleProduct(producto: Producto) {
+    const yaEstaba = added.includes(producto.id);
+    setSueltos((items) => (yaEstaba ? items.filter((p) => p.id !== producto.id) : [...items, producto]));
     showNotice(yaEstaba ? "Producto eliminado de tu lista" : "Producto añadido a tu lista");
   }
 
-  function addAll(ids: string[]) {
-    setAdded((items) => [...new Set([...items, ...ids])]);
-    showNotice("Ingredientes añadidos a tu lista");
-  }
+  const guardarLista = (lista: ListaGuardada) => setListas((ls) => [lista, ...ls.filter((l) => l.id !== lista.id)]);
+  const elegirTienda = (listaId: string, tienda: string) =>
+    setListas((ls) => ls.map((l) => (l.id === listaId ? { ...l, tienda } : l)));
+  const borrarLista = (listaId: string) => setListas((ls) => ls.filter((l) => l.id !== listaId));
 
   function selectTab(tab: Tab) {
     if (tab === "Merche" && active === "Merche") setMerchePage((n) => n + 1);
+    if (tab !== active) window.scrollTo(0, 0); // each tab starts at the top
     setActive(tab);
   }
 
@@ -50,12 +76,22 @@ export default function App() {
             key={merchePage}
             added={added}
             onToggle={toggleProduct}
-            onAddAll={addAll}
+            onListaGuardada={guardarLista}
+            onTienda={elegirTienda}
             onNotice={showNotice}
           />
         </div>
 
-        {active !== "Merche" && (
+        {active === "Listas" && (
+          <ListasPage
+            listas={listas}
+            sueltos={sueltos}
+            onBorrarLista={borrarLista}
+            onQuitarSuelto={toggleProduct}
+          />
+        )}
+
+        {active !== "Merche" && active !== "Listas" && (
           <main className="flex-1 px-5 pb-28 pt-7 sm:px-9 sm:pt-9 lg:px-12">
             <h1 className="text-[30px] font-extrabold leading-none tracking-[-0.05em] sm:text-[38px]">
               {active}
@@ -79,9 +115,9 @@ export default function App() {
                       : "text-[#6f7c76] hover:bg-[#f3f6f4]"
                   }`}
                 >
-                  {item.label === "Listas" && added.length > 0 && (
+                  {item.label === "Listas" && listas.length + added.length > 0 && (
                     <span className="absolute right-3 top-1.5 grid h-5 min-w-5 place-items-center rounded-full bg-brand-dark px-1 text-[10px] text-white">
-                      {added.length}
+                      {listas.length + added.length}
                     </span>
                   )}
                   <Icon name={item.name} size={22} strokeWidth={2} />
