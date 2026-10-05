@@ -59,7 +59,12 @@ Gemini (con reglas simples como plan B si falla) clasifica el mensaje. Entiende:
 Si pide un plato que no existe, lo dice y propone el más parecido; si el plato choca con su dieta, también lo avisa.
 **Negaciones**: "no quiero pollo al curry", "nada de pizza", "sin cebolla" (por ingrediente), "no me apetecen las lentejas" se rechazan:
 se quitan del plan (sustituyéndolos) y no vuelven a salir. También entiende "no somos 4, somos 3", "ya no soy vegetariano",
-"no quiero cocinar el martes", "no quiero cenas" y "no tengo presupuesto". Lo rechazado nunca se toma como petición. Los datos se acumulan durante la sesión
+"no quiero cocinar el martes", "no quiero cenas" y "no tengo presupuesto". Lo rechazado nunca se toma como petición.
+
+**Preguntas** ("¿qué como el martes?", "¿cuál es el menú?", "¿cómo se hace?", "¿y qué lleva?", "¿cuánto me va a costar?",
+"¿qué tengo que tener en casa?", "¿para cuántos era?"): se responden con los datos guardados de la sesión y **nunca traen `plan`**
+(una pregunta no cambia nada). Merche recuerda de qué plato se hablaba, así que "¿y qué lleva?" funciona sin repetir el nombre.
+Lo concreto lo contesta el código (exacto); las preguntas abiertas ("¿esto es sano?") las contesta Gemini con el plan completo en el contexto. Los datos se acumulan durante la sesión
 (por ejemplo, "mejor 25 euros" regenera el plan con los mismos comensales y la misma dieta).
 Si faltan los comensales, la respuesta **no lleva `plan`** y `mensaje` pregunta por ellos.
 
@@ -375,7 +380,7 @@ python -m venv venv
 venv\Scripts\activate          # Linux/Mac: source venv/bin/activate
 pip install -r requirements.txt -r requirements-dev.txt
 uvicorn main:app --reload
-pytest                      # 109 tests, sin red ni Gemini (siempre simulado)
+pytest                      # 131 tests, sin red ni Gemini (siempre simulado)
 
 # Probar a mano: Swagger en http://localhost:8000/docs, o con curl:
 curl -X POST localhost:8000/chat -H "content-type: application/json" -d '{"session_id":"demo","mensaje":"Somos 2, 60 euros y el martes no cocino"}'

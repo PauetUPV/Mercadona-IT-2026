@@ -8,7 +8,7 @@ import zlib
 from typing import Optional
 
 from app.data import catalogo
-from app.logic import agente, apertura, planificador, sesiones, sugerencias
+from app.logic import agente, apertura, consultas, planificador, sesiones, sugerencias
 from app.logic.carrito import total_plan
 from app.logic.errores import DatosInvalidos, Inviable, NoEncontrado, SinAlternativa
 from app.logic.interprete import _PALABRAS_DIETA as ETIQUETA_DE_PALABRA, Interpretacion
@@ -104,6 +104,7 @@ def _pedir_plato(sesion: Sesion, i: Interpretacion, rechazadas_ahora: set[str] =
         return {"tipo": "plato_excluido", "exito": False, "plato": receta.nombre, "etiquetas": choca}, None
     if receta.id in sesion.rechazadas:  # lo pide expresamente: deja de estar vetado
         sesion.rechazadas.remove(receta.id)
+    sesion.ultima_receta = receta.id
 
     dia = next((d for d in DIAS_SEMANA if i.dia and norm(d) == norm(i.dia)), None)
     sesion.fijos = [f for f in sesion.fijos if not (dia and f["dia"] == dia and f["momento"] == i.momento)]
@@ -151,6 +152,7 @@ def _cambiar_plato(sesion: Sesion, i: Interpretacion) -> tuple[dict, Optional[Pl
     dia = next(d for d in nuevo.dias if norm(d) == norm(i.dia))
     sesion.plan = nuevo
     sesion.fijos = [f for f in sesion.fijos if not (f["dia"] == dia and (i.momento is None or f["momento"] == i.momento))]
+    sesion.ultima_receta = nuevo.dias[dia][0].id
     return {"tipo": "cambio_plato", "exito": True, "dia": dia, "nuevo": " y ".join(r.nombre for r in nuevo.dias[dia])}, nuevo
 
 
@@ -236,6 +238,8 @@ def procesar(req: ChatRequest) -> ChatResponse:
         plan = sesion.plan if sesion.plan is not plan_antes else None
     elif i.accion == "plan":
         hechos, plan = _plan_con_hechos(sesion, i)
+    elif i.accion == "consultar":  # una pregunta nunca cambia el plan
+        hechos, plan = consultas.responder(sesion, i), None
     elif i.accion == "pedir_plato":
         hechos, plan = _pedir_plato(sesion, i, vetadas)
     elif i.accion == "cambiar_plato":

@@ -33,6 +33,8 @@ class Sesion(BaseModel):
     plan: Optional[PlanResponse] = None  # plan vigente (el del frontend manda si lo ha editado)
     listas: list[dict] = Field(default_factory=list)  # listas guardadas (/lista)
     feedback: list[dict] = Field(default_factory=list)  # valoraciones (/feedback)
+    # De qué receta se habló por última vez, para entender "¿y qué lleva?" sin repetir el nombre
+    ultima_receta: Optional[str] = None
 
 
 _sesiones: dict[str, Sesion] = {}

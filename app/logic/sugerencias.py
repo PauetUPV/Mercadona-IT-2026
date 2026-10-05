@@ -45,6 +45,13 @@ def para(hechos: dict, sesion: Sesion) -> list[str]:
         chips.append("Solo de lunes a miércoles")
     elif tipo == "pregunta_comensales" and hechos.get("plato"):
         chips = ["Solo para mí, hoy", "Somos 2", "Somos 4"]
+    elif tipo == "consulta":
+        primer_dia = hechos.get("dia") or _otro_dia(sesion)
+        chips = {
+            "menu": ([f"¿Cómo se hace el del {primer_dia}?"] if primer_dia else []) + ["¿Cuánto me va a costar?"],
+            "receta": ["¿Qué lleva?", "¿Qué tengo que tener en casa?"],
+            "ingredientes": ["¿Cómo se hace?", "¿Cuánto me va a costar?"],
+        }.get(hechos.get("tema"), _chips_del_plan(sesion) if sesion.plan else [PEDIR_PLAN])
     elif tipo == "evitado":
         chips = _chips_del_plan(sesion) if sesion.plan else [PEDIR_PLAN]
     elif tipo == "plato_puesto":

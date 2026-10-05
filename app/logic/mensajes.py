@@ -38,6 +38,8 @@ def redactar(h: dict) -> tuple[str, Optional[str]]:
             texto += " Lo más parecido: " + " o ".join(h["alternativas"]) + "."
     elif tipo == "plato_excluido":
         texto = f"«{h['plato']}» lleva {' y '.join(h['etiquetas'])}, y me dijiste que lo evitas. Prueba con otro plato."
+    elif tipo == "consulta":
+        texto = h["texto"]
     elif tipo == "evitado":
         if h.get("sin_coincidencias"):
             texto = "Entendido, lo tendré en cuenta."

@@ -166,7 +166,9 @@ _PALABRAS_VACIAS = set(
     "quiero quisiera apetece gustaria hazme haz prepara preparame pon ponme anade anademe cocina cocinar comer cenar "
     "comida cena comidas cenas plato platos plan receta noche manana esta este semana dia dias solo tambien porfa favor "
     "lunes martes miercoles jueves viernes sabado domingo "
-    "mucho mucha muchisimo algo poco rico rica ganas comerme cenarme tomar hacer tengo mejor bueno vale pasado pero nada mas".split()
+    "mucho mucha muchisimo algo poco rico rica ganas comerme cenarme tomar hacer tengo mejor bueno vale pasado pero nada mas "
+    "hace hago preparo prepara preparar lleva llevan ingrediente ingredientes cuesta cuestan costar coste cuanto cuanta "
+    "como cual cuales receta recetas instrucciones pasos dime necesito necesita tiene tienen toca hay puedo cocino".split()
 )
 _ALIAS = {"spaghetti": "espagueti", "espaguetti": "espagueti", "macarrone": "macarron", "albondiga": "albondiga"}
 

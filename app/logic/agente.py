@@ -23,7 +23,10 @@ Acciones (campo `accion`):
 - "evitar": SOLO rechaza algo, sin pedir nada más ("no quiero pollo al curry", "nada de pizza", "sin cebolla", "no me apetecen lentejas"). Lo rechazado va en `no_quiere`.
 - "anadir_extra": quiere añadir un producto suelto a su compra (leche, café...). `producto` en singular y genérico.
 - "quitar_extra": quiere quitar uno de esos productos sueltos. `producto` igual.
-- "charla": saludos, agradecimientos, preguntas sobre el plan o cualquier cosa que no cambie el plan. Usa el estado para contestar sobre el plan actual.
+- "consultar": PREGUNTA algo sobre su plan o sus datos, sin pedir cambios ("¿qué como el martes?", "¿cómo se hace la tortilla?", "¿qué lleva el del lunes?", "¿y qué lleva?", "¿cuánto me va a costar?", "¿para cuántos era?", "¿esto es sano?"). Una pregunta NUNCA es "plan". Rellena `tema`:
+  "menu" (qué se come y cuándo), "receta" (cómo se prepara), "ingredientes" (qué lleva), "coste" (cuánto cuesta), "en_casa" (qué hay que tener en casa), "preferencias" (personas, presupuesto, dieta... que dijo), "otro" (cualquier otra pregunta).
+  Rellena `dia`/`momento` si los dice y `plato` con el nombre del plato si lo nombra. Si `tema` es "otro", contesta tú en `respuesta` usando SOLO los datos del estado (ingredientes, instrucciones), sin cifras ni precios.
+- "charla": saludos, agradecimientos o cualquier cosa que no cambie el plan ni sea una pregunta sobre él.
 
 Campo `respuesta` (siempre): lo que Merche diría al usuario, una o dos frases en español de España, cercanas, tuteando. En "plan", "pedir_plato", "evitar", "cambiar_plato", "anadir_extra" y "quitar_extra" escríbelo como si la acción fuera a salir bien, SIN cifras, SIN precios y SIN nombrar platos ni productos concretos (el plan se muestra aparte; el sistema te corrige si algo falla). Campo `conclusion` (opcional): una pregunta muy corta que va después del plan, p. ej. "¿Qué te parece?".
 
@@ -50,7 +53,20 @@ def _estado_para_llm(sesion: Sesion) -> dict:
         "comensales": sesion.comensales,
         "presupuesto_eur": sesion.presupuesto,
         "dias_en_plan": list(plan.dias) if plan else None,
-        "platos": {d: [f"{r.nombre} ({r.momento or 'comida'})" for r in rs] for d, rs in plan.dias.items()} if plan else None,
+        # Detalle completo, para que pueda contestar preguntas abiertas ("¿esto es sano?") sin inventar
+        "platos": {
+            d: [
+                {
+                    "nombre": r.nombre,
+                    "momento": r.momento or "comida",
+                    "tipo": r.tipo,
+                    "ingredientes": [x.producto.nombre for x in r.ingredientes],
+                    "instrucciones": r.instrucciones,
+                }
+                for r in rs
+            ]
+            for d, rs in plan.dias.items()
+        } if plan else None,
         "productos_extra": [e.producto.nombre for e in plan.extras] if plan else [],
         "evitar": sesion.excluir,
         "dias_que_no_cocina": sesion.sin_cocinar,
@@ -86,6 +102,13 @@ def redactar(hechos: dict, i: interprete.Interpretacion) -> tuple[str, Optional[
     siempre el código (plantillas) para que lo que se le dice al usuario sea exacto.
     """
     texto = (i.respuesta or "").strip()
+    if hechos.get("tipo") == "consulta":
+        # Lo concreto (menú, receta, ingredientes, coste...) lo contesta el código con los datos; lo abierto, Gemini
+        if hechos["tema"] == "otro" and texto and not _CON_CIFRAS.search(texto):
+            llm.log.debug("Respuesta: consulta abierta contestada por el interprete")
+            return texto, None
+        llm.log.debug("Respuesta: consulta '%s' contestada con los datos de la sesion", hechos["tema"])
+        return hechos["texto"], None
     if hechos.get("tipo") == "charla" and texto:
         llm.log.debug("Respuesta: texto propuesto por el interprete (charla)")
         return texto, None

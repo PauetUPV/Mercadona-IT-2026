@@ -11,7 +11,9 @@ from pydantic import BaseModel, Field
 from app.data.catalogo import _tokens_plato, buscar_receta
 from app.logic.texto import DIAS_SEMANA, dia_mas, hoy, norm
 
-Accion = Literal["plan", "pedir_plato", "evitar", "cambiar_plato", "anadir_extra", "quitar_extra", "charla"]
+Accion = Literal["plan", "pedir_plato", "evitar", "cambiar_plato", "anadir_extra", "quitar_extra", "consultar", "charla"]
+# Sobre qué pregunta el usuario (acción "consultar"); la respuesta sale de los datos de la sesión
+Tema = Literal["menu", "receta", "ingredientes", "coste", "en_casa", "preferencias", "otro"]
 Momento = Literal["comida", "cena"]
 ETIQUETAS = ["carne", "pescado", "gluten", "lactosa", "huevo", "soja"]
 
@@ -28,7 +30,8 @@ class Interpretacion(BaseModel):
     excluir: list[str] = Field(default_factory=list)  # etiquetas a evitar (ETIQUETAS)
     dia: Optional[str] = None  # cambiar_plato / pedir_plato: día (nombre, nunca "hoy")
     momento: Optional[Momento] = None  # cambiar_plato / pedir_plato: comida o cena
-    plato: Optional[str] = None  # pedir_plato: el plato que pide, p. ej. "pollo al curry"
+    plato: Optional[str] = None  # pedir_plato / consultar: el plato del que habla, p. ej. "pollo al curry"
+    tema: Optional[Tema] = None  # consultar: de qué pregunta
     producto: Optional[str] = None  # anadir_extra / quitar_extra: "leche", "café"...
     no_quiere: list[str] = Field(default_factory=list)  # platos o ingredientes que rechaza: "pollo al curry", "cebolla"
     permitir: list[str] = Field(default_factory=list)  # etiquetas que vuelve a admitir ("ya no soy vegetariano")
@@ -200,6 +203,36 @@ def _negaciones(n: str, res: Interpretacion) -> str:
     return n
 
 
+_INTERROGATIVO = re.compile(
+    r"\s*(?:y\s+)?(?:que|como|cuanto|cuanta|cuantos|cuantas|cual|cuales|cuando|donde|dime|recuerdame|me recuerdas|me dices|hay)\b"
+)
+# Peticiones con forma de pregunta ("¿me haces un plan?", "¿puedes añadir leche?"): no son consultas
+_PIDE_ALGO = re.compile(
+    r"\b(?:quiero|quisiera|anad\w*|pon|ponme|poner|quit\w*|hazme|preparame|planifica\w*|organiza\w*)\b"
+    r"|\bme (?:haces|preparas|organizas|planificas|pones|anades)\b|\bpuedes (?:hacer|preparar|planificar|organizar|poner)\b"
+)
+
+
+def _es_pregunta(mensaje: str, n: str) -> bool:
+    return ("?" in mensaje or bool(_INTERROGATIVO.match(n))) and not _PIDE_ALGO.search(n)
+
+
+def _tema(n: str, dias: list[str]) -> str:
+    if re.search(r"\bcuant\w* (?:me )?(?:va a |van a )?(?:cuesta|cuestan|costar|cuestar|sale|saldra|gasto|vale)|\bprecio|\bcuesta\b|\btotal\b", n):
+        return "coste"
+    if re.search(r"en casa", n):
+        return "en_casa"
+    if re.search(r"\bcomo (?:se )?(?:hace|hago|hacer|preparo|prepara|preparar|cocino|cocina|cocinar)\b|receta|pasos|instrucciones|elaboracion", n):
+        return "receta"
+    if re.search(r"\bque (?:lleva|llevan|tiene|tienen)\b|ingredientes|\bque necesito\b", n):
+        return "ingredientes"
+    if re.search(r"para cuant|cuantas personas|cuantos somos|presupuesto|que te dije|mi dieta|que no (?:como|puedo)|preferencias|que dias", n):
+        return "preferencias"
+    if dias or re.search(r"menu|\bque (?:como|ceno|comemos|cenamos|hay|toca|tengo)\b|\bplan\b|semana|comida|cena", n):
+        return "menu"
+    return "otro"
+
+
 def interpretar(mensaje: str) -> Interpretacion:
     res = Interpretacion()
     n = _negaciones(norm(mensaje), res)  # a partir de aquí, `n` ya no contiene lo que el usuario rechaza
@@ -262,6 +295,16 @@ def interpretar(mensaje: str) -> Interpretacion:
         res.respuesta = "¡Hola! Soy Merche. Dime para cuántas personas es el plan y lo preparo."
         return res
 
+    # Preguntas sobre lo que ya hay ("¿qué como el martes?", "¿cómo se hace la tortilla?"): nunca cambian el plan
+    datos_nuevos = any([res.comensales, res.presupuesto is not None, res.excluir, res.sin_cocinar, res.permitir,
+                        res.sin_presupuesto, res.no_quiere])
+    if _es_pregunta(mensaje, n) and not datos_nuevos:
+        res.accion, res.tema = "consultar", _tema(n, dias)
+        res.dia = dias[0] if len(dias) == 1 else None
+        res.momento = "cena" if cena and not comida else ("comida" if comida and not cena else None)
+        res.plato, res.dias, res.momentos = mensaje, None, None
+        return res
+
     def es_pedir_plato(plato: str) -> Interpretacion:
         inicio = n.find(plato)  # norm() conserva la longitud: recupera el texto original, con tildes
         res.accion, res.plato = "pedir_plato", mensaje[inicio : inicio + len(plato)] if inicio >= 0 else plato
@@ -277,7 +320,7 @@ def interpretar(mensaje: str) -> Interpretacion:
         if receta and parecido >= 0.5 or re.search(r"\b(?:quiero|quisiera|me apetece|me gustaria)\b", n):
             return es_pedir_plato(plato)
 
-    anadir = _producto_tras(r"anade|anademe|apuntame|apunta|ponme|pon", n)
+    anadir = _producto_tras(r"anade|anademe|anadir|apuntame|apunta|apuntar|ponme|pon|poner", n)
     quitar = _producto_tras(r"quita|quitame|elimina|borra", n)
     if anadir and not res.aporta_datos:
         res.accion, res.producto = "anadir_extra", anadir
