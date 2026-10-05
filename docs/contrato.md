@@ -54,7 +54,12 @@ Petición:
 
 Gemini (con reglas simples como plan B si falla) clasifica el mensaje. Entiende: personas, presupuesto en €, días ("lunes a viernes",
 "fin de semana", "toda la semana"), comida y/o cena, dietas y alergias (vegetariano, sin gluten, sin lactosa...), "el martes no cocino",
-"cambia el lunes", "añade leche" / "quita la leche", y charla en general. Los datos se acumulan durante la sesión
+"cambia el lunes", "añade leche" / "quita la leche", **platos concretos** ("quiero pollo al curry", "lentejas el martes", "pizza esta noche"),
+"para mí" / "solo yo" (1 persona), **"hoy", "mañana" y "esta noche"** (se convierten al nombre del día), y charla en general.
+Si pide un plato que no existe, lo dice y propone el más parecido; si el plato choca con su dieta, también lo avisa.
+**Negaciones**: "no quiero pollo al curry", "nada de pizza", "sin cebolla" (por ingrediente), "no me apetecen las lentejas" se rechazan:
+se quitan del plan (sustituyéndolos) y no vuelven a salir. También entiende "no somos 4, somos 3", "ya no soy vegetariano",
+"no quiero cocinar el martes", "no quiero cenas" y "no tengo presupuesto". Lo rechazado nunca se toma como petición. Los datos se acumulan durante la sesión
 (por ejemplo, "mejor 25 euros" regenera el plan con los mismos comensales y la misma dieta).
 Si faltan los comensales, la respuesta **no lleva `plan`** y `mensaje` pregunta por ellos.
 
@@ -334,11 +339,12 @@ Es lo que permite que "mejor 25 euros" o "cambia el lunes" funcionen sin repetir
 |---|---|---|
 | Conversación | `mensajes` (usuario/asistente) | cada turno |
 | Preferencias | `comensales`, `presupuesto`, `dias`, `momentos` (comida/cena), `sin_cocinar` (días), `excluir` (etiquetas de dieta/alergia), `rechazadas` (recetas con 👎) | el usuario lo dice o da feedback |
+| Platos pedidos | `fijos`: platos que el usuario pidió por nombre, con su día | "quiero X"; se respetan al rehacer el plan (p. ej. "mejor 40 euros") hasta que pide cambiar ese día |
 | Plan | `plan` vigente | se genera o cambia un plato/extra; **si el frontend envía `plan`, manda sobre el guardado** |
 | Listas | listas guardadas con `/lista` | el usuario pulsa "guardar" |
 | Feedback | valoraciones de `/feedback` | el usuario valora |
 
-Clasificación de lo que dice el usuario: cada mensaje se convierte en una acción: `plan` (datos o plan nuevo), `cambiar_plato`,
+Clasificación de lo que dice el usuario: cada mensaje se convierte en una acción: `plan` (datos o plan nuevo), `pedir_plato`, `cambiar_plato`,
 `anadir_extra`, `quitar_extra` o `charla`, más los datos que traiga (personas, presupuesto, días, momentos, `excluir`...).
 `excluir` usa etiquetas fijas que llevan las recetas: `carne`, `pescado`, `gluten`, `lactosa`, `huevo`, `soja`
 (vegetariano = carne + pescado; vegano = carne + pescado + huevo + lactosa). Cada receta del plan trae sus `etiquetas`.
@@ -357,7 +363,9 @@ mensaje -> Gemini clasifica (UNA llamada) -> el código ejecuta la acción y com
 - **Una sola llamada por mensaje**: la clave gratuita permite unas 5 peticiones por minuto. Si Gemini falla, tarda más de 15 s o se queda
   sin cuota, el chat **no se cae**: se usa un intérprete por reglas y plantillas (`app/logic/interprete.py`, `mensajes.py`).
 - Las instrucciones del LLM están en `app/logic/agente.py` (`SISTEMA_INTERPRETE`); la conexión, en `app/logic/llm.py`.
-- Configuración en `.env`: `LLM_PROVIDER`, `LLM_API_KEY`, `LLM_MODEL`. Sin clave, todo funciona con el plan B.
+- Configuración en `.env`: `LLM_PROVIDER`, `LLM_API_KEY`, `LLM_MODEL` y `LLM_MODELOS_RESERVA` (por defecto
+  `gemini-3.5-flash-lite,gemini-3.7-flash`): si el modelo principal está saturado (503), sin cuota (429) o no existe, se prueba el siguiente
+  antes de caer al plan B. Sin clave, todo funciona con el plan B. El log `[merche]` de la terminal dice qué modelo respondió en cada mensaje.
 
 ## Probar y conectar
 
@@ -367,7 +375,7 @@ python -m venv venv
 venv\Scripts\activate          # Linux/Mac: source venv/bin/activate
 pip install -r requirements.txt -r requirements-dev.txt
 uvicorn main:app --reload
-pytest                      # 66 tests, sin red ni Gemini (siempre simulado)
+pytest                      # 109 tests, sin red ni Gemini (siempre simulado)
 
 # Probar a mano: Swagger en http://localhost:8000/docs, o con curl:
 curl -X POST localhost:8000/chat -H "content-type: application/json" -d '{"session_id":"demo","mensaje":"Somos 2, 60 euros y el martes no cocino"}'
@@ -375,3 +383,11 @@ curl -X POST localhost:8000/chat -H "content-type: application/json" -d '{"sessi
 
 - **Frontend:** llama a `http://localhost:8000` (CORS abierto). Mientras no haya backend se puede trabajar con las respuestas de ejemplo de este documento.
 - El primer arranque en frío puede tardar unos segundos (carga el catálogo). Si hay errores raros con la sesión, borra `.estado/`.
+
+### Ejemplo de memoria entre mensajes
+
+```
+> Quiero pollo al curry          < ¡Apuntado: Pollo al curry con arroz basmati! ¿Para cuántas personas y qué día?   (sin plan; chips: "Solo para mí, hoy", ...)
+> Es solo para mí y para hoy     < plan de 1 persona: hoy, pollo al curry
+> Y mañana algo de lentejas      < plan: hoy pollo al curry + mañana lentejas (no se pierde lo anterior)
+```

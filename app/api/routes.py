@@ -3,7 +3,7 @@ from typing import Optional
 from fastapi import APIRouter, Query
 
 from app.data import catalogo
-from app.logic import apertura, chat, sesiones
+from app.logic import apertura, chat, llm, sesiones
 from app.logic.errores import NoEncontrado
 from app.models.schemas import (
     ChatHistorial,
@@ -21,7 +21,8 @@ router = APIRouter()
 
 @router.get("/health")
 def health():
-    return {"status": "ok"}
+    """Comprobación de vida. `llm` dice si Gemini está activo o si todo va por el plan B."""
+    return {"status": "ok", "llm": llm.LLM_MODEL if llm.disponible() else "desactivado (plan B)"}
 
 
 @router.post("/chat", response_model=ChatResponse, response_model_exclude_none=True)

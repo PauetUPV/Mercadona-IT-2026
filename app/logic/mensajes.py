@@ -14,6 +14,11 @@ def _platos(platos: dict[str, list[str]]) -> str:
     return "; ".join(f"{dia}: {' y '.join(nombres)}" for dia, nombres in platos.items())
 
 
+def _no_exacto(h: dict) -> str:
+    """Aviso cuando el plato pedido no existe tal cual y se usa el más parecido."""
+    return f"No tengo «{h['pedido']}» tal cual; te pongo {h['plato']}. " if h.get("parecido") else ""
+
+
 def redactar(h: dict) -> tuple[str, Optional[str]]:
     tipo = h.get("tipo")
     avisos = " ".join(h.get("avisos", []))
@@ -21,7 +26,25 @@ def redactar(h: dict) -> tuple[str, Optional[str]]:
 
     if tipo == "plan":
         texto = f"¡Listo! He preparado el plan para {h['comensales']} persona(s). {_platos(h['platos'])}."
+        if h.get("plato"):
+            texto = _no_exacto(h) + texto
         conclusion = "¿Qué opinas?"
+    elif tipo == "plato_puesto":
+        texto = _no_exacto(h) + f"Hecho: el {h['dia']} toca {h['plato']}."
+        conclusion = "¿Algo más?"
+    elif tipo == "plato_no_encontrado":
+        texto = f"No tengo «{h['busqueda']}» entre mis recetas."
+        if h.get("alternativas"):
+            texto += " Lo más parecido: " + " o ".join(h["alternativas"]) + "."
+    elif tipo == "plato_excluido":
+        texto = f"«{h['plato']}» lleva {' y '.join(h['etiquetas'])}, y me dijiste que lo evitas. Prueba con otro plato."
+    elif tipo == "evitado":
+        if h.get("sin_coincidencias"):
+            texto = "Entendido, lo tendré en cuenta."
+        else:
+            texto = f"Entendido, no te pondré {' ni '.join(h['evitados'])}."
+        if h.get("cambios"):
+            texto += " He cambiado " + "; ".join(f"el {d} por {n}" for d, n in h["cambios"].items()) + "."
     elif tipo == "cambio_plato":
         texto = f"He cambiado el plato del {h['dia']}: ahora es {h['nuevo']}."
         conclusion = "¿Te encaja?"
@@ -39,6 +62,8 @@ def redactar(h: dict) -> tuple[str, Optional[str]]:
         texto = h.get("motivo", "No tengo otro plato parecido que cumpla las condiciones.")
     elif tipo == "rechazo":
         texto = h.get("motivo", "No puedo hacer eso.")
+    elif tipo == "pregunta_comensales" and h.get("plato"):
+        texto = _no_exacto(h) + f"¡Apuntado: {h['plato']}! ¿Para cuántas personas es y para qué día?"
     elif tipo == "pregunta_comensales":
         texto = "¿Para cuántas personas es el plan? Puedes decirme también tu presupuesto y qué días no cocinas."
     elif tipo == "sin_plan":

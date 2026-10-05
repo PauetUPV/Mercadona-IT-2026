@@ -158,7 +158,7 @@ def test_productos_y_health():
     r = client.get("/productos", params={"q": "pollo", "limite": 5})
     assert r.status_code == 200 and 0 < len(r.json()) <= 5
     assert client.get("/productos", params={"limite": 1000}).status_code == 422
-    assert client.get("/health").json() == {"status": "ok"}
+    assert client.get("/health").json() == {"status": "ok", "llm": "desactivado (plan B)"}
 
 
 def test_endpoints_retirados():

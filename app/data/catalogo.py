@@ -1,4 +1,5 @@
 import json
+import re
 import unicodedata
 from functools import lru_cache
 from pathlib import Path
@@ -157,3 +158,65 @@ def get_recetas() -> list[Receta]:
 
 def get_receta(receta_id: str) -> Optional[Receta]:
     return next((r for r in _recetas() if r.id == receta_id), None)
+
+
+# Palabras que no identifican un plato (se ignoran al buscar recetas por nombre)
+_PALABRAS_VACIAS = set(
+    "a al algo con de del el en hoy la las lo los me mi para por que un una unos unas y o "
+    "quiero quisiera apetece gustaria hazme haz prepara preparame pon ponme anade anademe cocina cocinar comer cenar "
+    "comida cena comidas cenas plato platos plan receta noche manana esta este semana dia dias solo tambien porfa favor "
+    "lunes martes miercoles jueves viernes sabado domingo "
+    "mucho mucha muchisimo algo poco rico rica ganas comerme cenarme tomar hacer tengo mejor bueno vale pasado pero nada mas".split()
+)
+_ALIAS = {"spaghetti": "espagueti", "espaguetti": "espagueti", "macarrone": "macarron", "albondiga": "albondiga"}
+
+
+def _tokens_plato(texto: str) -> list[str]:
+    """Palabras significativas en orden, en singular aproximado y sin repetir."""
+    tokens: list[str] = []
+    for t in re.findall(r"[a-z]+", _norm(texto)):
+        if t in _PALABRAS_VACIAS or len(t) < 3:
+            continue
+        t = t[:-2] if t.endswith("es") and len(t) > 5 else (t[:-1] if t.endswith("s") else t)  # singular aproximado
+        t = _ALIAS.get(t, t)
+        if t not in tokens:
+            tokens.append(t)
+    return tokens
+
+
+def buscar_receta(texto: str) -> tuple[Optional[Receta], float, list[Receta]]:
+    """Receta cuyo nombre mejor encaja con `texto` ("pollo al curry", "quiero lentejas"...).
+
+    Devuelve (mejor, parecido, alternativas). `parecido` es la fracción de palabras del texto que
+    aparecen en el nombre de la receta (1.0 = todas). Sin coincidencias: (None, 0, []).
+    """
+    pedidas = _tokens_plato(texto)
+    if not pedidas:
+        return None, 0.0, []
+    puntuadas = []
+    for r in _recetas():
+        nombre = _tokens_plato(r.nombre)
+        comunes = len(set(pedidas) & set(nombre))
+        if comunes:
+            # más palabras en común; a igualdad, que contenga la primera palabra pedida (el plato, no el acompañamiento)
+            puntuadas.append(((comunes, pedidas[0] in nombre, comunes / len(nombre), -len(nombre)), r))
+    if not puntuadas:
+        return None, 0.0, []
+    puntuadas.sort(key=lambda x: x[0], reverse=True)
+    mejor = puntuadas[0]
+    return mejor[1], mejor[0][0] / len(pedidas), [r for _, r in puntuadas[1:3]]
+
+
+def recetas_con(texto: str) -> list[Receta]:
+    """Recetas que contienen lo que el usuario rechaza: por nombre ("pollo al curry", "pizza")
+    o, si es una sola palabra, también por ingrediente ("cebolla")."""
+    pedidas = _tokens_plato(texto)
+    if not pedidas:
+        return []
+    encontradas = []
+    for r in _recetas():
+        nombre = set(_tokens_plato(r.nombre))
+        por_ingrediente = len(pedidas) == 1 and any(pedidas[0] in _norm(i.producto.nombre) for i in r.ingredientes)
+        if set(pedidas) <= nombre or por_ingrediente:
+            encontradas.append(r)
+    return encontradas

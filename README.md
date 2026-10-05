@@ -11,7 +11,7 @@ venv\Scripts\activate        # Linux/Mac: source venv/bin/activate
 pip install -r requirements.txt -r requirements-dev.txt
 # .env con LLM_API_KEY (Gemini). Sin clave el chat funciona igualmente con el plan B por reglas
 uvicorn main:app --reload
-pytest                       # 66 tests, sin red ni Gemini
+pytest                       # 109 tests, sin red ni Gemini
 ```
 
 Swagger en http://localhost:8000/docs
