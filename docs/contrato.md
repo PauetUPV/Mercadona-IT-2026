@@ -3,17 +3,22 @@
 Especificación completa y siempre al día: `http://localhost:8000/docs` (Swagger) y `/openapi.json`
 (se puede generar un cliente tipado a partir de ahí). Este documento resume lo esencial.
 
-> **Cambios acordados con el frontend (v2).** Lo marcado como **(NUEVO)** o **(CAMBIA)** es lo pactado con
+> **Cambios acordados con el frontend (v3).** Lo marcado como **(NUEVO)** o **(CAMBIA)** es lo pactado con
 > el equipo de interfaz y **aún no está implementado**. Resumen de lo que cambia respecto a la v1:
 >
 > 1. **(CAMBIA)** `plan` solo viene en la respuesta cuando es relevante (ya no en todas).
-> 2. **(CAMBIA)** `dias` pasa de `{dia: receta}` a `{dia: [recetas]}`: varias recetas por día.
-> 3. **(CAMBIA)** Renombre de "extras": lo que se supone en casa (sal, agua…) pasa a `en_casa` (string[]).
+> 2. **(NUEVO)** El frontend envía `plan` en la petición cada vez que el usuario lo ha editado (días, recetas, extras o cantidades).
+> 3. **(NUEVO)** La respuesta puede llevar `mensaje_conclusion`: un segundo texto que va **después** del plan.
+> 4. **(CAMBIA)** `dias` pasa de `{dia: receta}` a `{dia: [recetas]}`: varias recetas por día.
+> 5. **(CAMBIA)** **Sin `carrito` ni totales.** Cada ingrediente lleva el producto completo dentro (`producto`). El plan ya no trae
+>    `comensales`, `presupuesto`, `total` ni `dentro_presupuesto`: el frontend calcula la lista y los precios.
+> 6. **(CAMBIA)** Renombre de "extras": lo que se supone en casa (sal, agua…) pasa a `en_casa` (string[]).
 >    `extras` pasa a significar **productos comprables que no pertenecen a ninguna receta** (leche, café…).
-> 4. **(NUEVO)** Regla de redondeo de `unidades` (ver "Unidades y carrito").
-> 5. **(CAMBIA)** `/sustituir` acepta `session_id` y `receta_id`.
-> 6. **(NUEVO)** `POST /lista`: el usuario guarda su lista final.
-> 7. **(PENDIENTE, más adelante)** feedback y chips de respuesta rápida (ver al final).
+> 7. **(NUEVO)** Las recetas llevan `instrucciones` (cómo prepararlas).
+> 8. **(NUEVO)** Regla de redondeo de `unidades` (ver "Unidades y lista de la compra").
+> 9. **(CAMBIA)** Se elimina `/sustituir`: cambiar un plato se hace por chat ("cambia el martes").
+> 10. **(NUEVO)** `POST /lista`: el usuario guarda su lista final.
+> 11. **(PENDIENTE, más adelante)** feedback y chips de respuesta rápida (ver al final).
 
 ## Idea general
 
@@ -25,8 +30,11 @@ Especificación completa y siempre al día: `http://localhost:8000/docs` (Swagge
 - El `session_id` lo puede inventar el frontend (cualquier string); si no se envía, el backend crea uno y lo devuelve.
   **(NUEVO)** El frontend genera un `session_id` nuevo cada vez que el usuario empieza una conversación de cero
   (botón "volver"), para que el backend no arrastre contexto que el usuario cree borrado.
-- Si el servidor se reinicia, se pierden sesiones. Para recuperarse, el frontend puede reenviar el `plan` que ya tiene a `/sustituir`
-  (que no necesita sesión) o empezar de nuevo con `/chat`.
+- Si el servidor se reinicia, se pierden sesiones. Para recuperarse, el frontend puede reenviar el `plan` que ya tiene
+  en su siguiente `/chat` (el campo `plan` de la petición) o empezar de nuevo.
+- **(NUEVO)** Los nombres de día son siempre estos, en minúsculas y con tilde:
+  `lunes`, `martes`, `miércoles`, `jueves`, `viernes`, `sábado`, `domingo`. El frontend los ordena él mismo
+  (no depende del orden de las claves del JSON).
 - CORS abierto a cualquier origen.
 
 ## POST /chat
@@ -37,9 +45,7 @@ Petición:
 {
   "session_id": "demo",            // opcional
   "mensaje": "Somos 2, 30 euros y el martes no cocino",
-  "comensales": 2,                 // opcional: si se envía, manda sobre lo interpretado del texto
-  "presupuesto": 30,               // opcional
-  "dias": ["lunes", "martes"]      // opcional
+  "plan": { }                      // opcional: el plan tal como lo ve el usuario, si lo ha editado (ver abajo)
 }
 ```
 
@@ -48,12 +54,32 @@ El backend entiende (provisionalmente, con reglas; luego Gemini): personas, pres
 (por ejemplo, "mejor 25 euros" regenera el plan con los mismos comensales).
 Si faltan los comensales, la respuesta **no lleva `plan`** y `mensaje` pregunta por ellos.
 
-Respuesta (recortada; los `ingredientes` y las `lineas` reales traen más elementos):
+### (NUEVO) `plan` en la petición
+
+Cuando el usuario edita el plan antes de escribir, el frontend envía en su **siguiente mensaje** el plan tal como lo ve
+ahora, con **la misma forma que recibió** en la respuesta. Así "cambia el martes" o "mejor 25 euros" se aplican sobre
+lo que el usuario realmente ve y no sobre el plan original.
+
+- El backend lo toma como **plan vigente** de la sesión (manda sobre el que tenía guardado).
+- Se envía tras **cualquier edición**: desmarcar un día, quitar una receta, quitar un producto, cambiar una cantidad.
+  Si no hay ediciones desde el último plan, el campo no se envía.
+- Cómo se refleja cada edición en el JSON:
+  - día desmarcado o receta quitada → desaparece de `dias`;
+  - producto o extra quitado → desaparece de los `ingredientes` / `extras` que lo contenían;
+  - **cantidad cambiada** (el usuario pide N envases de un producto) → el frontend reescala las `unidades` de ese producto
+    en todas las recetas y extras donde aparece, de modo que su suma sea N. Por ejemplo, el aceite con 0.25 + 0.25 y el usuario
+    pide 2 envases → pasa a 1.0 + 1.0. Si el producto solo está en `extras`, se cambia su `unidades` directamente.
+
+### Respuesta
+
+Recortada: en las listas reales hay más recetas e ingredientes. Los productos aparecen **dentro de cada ingrediente**
+(el mismo producto se repite en cada receta que lo usa).
 
 ```json
 {
   "session_id": "demo",
-  "mensaje": "¡Listo! Plan para 2 persona(s). lunes: Pollo al horno con patatas y Ensalada de pasta; martes: Lasaña boloñesa (lista para comer). Total de la compra: 16,77 €, dentro de tu presupuesto de 30,00 €.",
+  "mensaje": "¡Listo! Plan para 2 persona(s). lunes: Pollo al horno con patatas y Ensalada de pasta; martes: Lasaña boloñesa (lista para comer).",
+  "mensaje_conclusion": "¿Qué opinas?",   // opcional: texto que va DESPUÉS del plan
   "plan": {
     "id": "af91ab62",
     "dias": {
@@ -65,10 +91,10 @@ Respuesta (recortada; los `ingredientes` y las `lineas` reales traen más elemen
           "momento": "comida",
           "raciones": 2,
           "ingredientes": [
-            { "producto_id": "2787", "unidades": 1.0 },
-            { "producto_id": "4640", "unidades": 0.25 }
+            { "unidades": 1.0,  "producto": { "id": "2787", "nombre": "Muslos de pollo", "precio": 4.5, "...": "..." } },
+            { "unidades": 0.25, "producto": { "id": "4640", "nombre": "Aceite de oliva 1º Hacendado", "precio": 3.9, "...": "..." } }
           ],
-          "en_casa": ["sal", "pimienta"],
+          "instrucciones": "Precalienta el horno a 200°C. Coloca el pollo y las patatas en una bandeja, sazona con sal y pimienta, y hornea durante 45 minutos o hasta que estén dorados y cocidos.",
           "precio_estimado": 7.2
         },
         {
@@ -78,9 +104,9 @@ Respuesta (recortada; los `ingredientes` y las `lineas` reales traen más elemen
           "momento": "cena",
           "raciones": 2,
           "ingredientes": [
-            { "producto_id": "4640", "unidades": 0.25 }
+            { "unidades": 0.25, "producto": { "id": "4640", "nombre": "Aceite de oliva 1º Hacendado", "precio": 3.9, "...": "..." } }
           ],
-          "en_casa": [],
+          "instrucciones": "...",
           "precio_estimado": 4.2
         }
       ],
@@ -92,79 +118,75 @@ Respuesta (recortada; los `ingredientes` y las `lineas` reales traen más elemen
           "momento": "comida",
           "raciones": 2,
           "ingredientes": [
-            { "producto_id": "4487", "unidades": 2.0 }
+            { "unidades": 2.0, "producto": { "id": "4487", "nombre": "Lasaña boloñesa", "precio": 2.75, "...": "..." } }
           ],
-          "en_casa": [],
           "precio_estimado": 5.5
         }
       ]
     },
     "extras": [
-      { "producto_id": "3314", "unidades": 1 }
+      { "unidades": 1, "producto": { "id": "3314", "nombre": "Leche entera", "precio": 0.89, "...": "..." } }
     ],
-    "en_casa": ["pimienta", "sal"],
-    "carrito": {
-      "lineas": [
-        {
-          "producto": {
-            "id": "4640",
-            "nombre": "Aceite de oliva 1º Hacendado",
-            "precio": 3.9,
-            "precio_referencia": 3.9,
-            "formato_referencia": "L",
-            "tamano": 1.0,
-            "formato_tamano": "l",
-            "categoria": "Aceite, especias y salsas",
-            "subcategoria": "Aceite, vinagre y sal",
-            "thumbnail": "https://prod-mercadona.imgix.net/images/fe860edbcb...",
-            "url": "https://tienda.mercadona.es/product/4640/aceite-ol..."
-          },
-          "unidades": 1,
-          "subtotal": 3.9
-        }
-      ],
-      "total": 16.77
-    },
-    "total": 16.77,
-    "comensales": 2,
-    "presupuesto": 30.0,
-    "dentro_presupuesto": true
+    "en_casa": ["pimienta", "sal"]
   }
 }
 ```
 
+Forma completa de un `producto` (es la que antes iba en `carrito.lineas[].producto`):
+
+```json
+{
+  "id": "4640",
+  "nombre": "Aceite de oliva 1º Hacendado",
+  "precio": 3.9,
+  "precio_referencia": 3.9,
+  "formato_referencia": "L",
+  "tamano": 1.0,
+  "formato_tamano": "l",
+  "categoria": "Aceite, especias y salsas",
+  "subcategoria": "Aceite, vinagre y sal",
+  "thumbnail": "https://prod-mercadona.imgix.net/images/fe860edbcb...",
+  "url": "https://tienda.mercadona.es/product/4640/aceite-ol..."
+}
+```
+
 Campos relevantes del plan:
-- **(CAMBIA)** `dias`: **lista de recetas por día** (`tipo`: `cocinar` | `listo_para_comer`). Las claves son los nombres de día tal cual.
-  Cada receta puede llevar un `momento` opcional (`"comida"` | `"cena"`); el frontend de momento lo ignora.
+- **(CAMBIA)** `dias`: **lista de recetas por día** (`tipo`: `cocinar` | `listo_para_comer`). Cada receta puede llevar un
+  `momento` opcional (`"comida"` | `"cena"`); el frontend de momento lo ignora.
   Un `listo_para_comer` es una receta con **un solo ingrediente** (el propio producto).
-- `ingredientes`: `{producto_id, unidades}`; el frontend busca el producto en `carrito.lineas` por `producto_id`,
-  así que **todo `producto_id` de una receta o de `extras` debe aparecer en `carrito.lineas`**.
+- **(CAMBIA)** `ingredientes`: `{unidades, producto}`. Ya no hay `producto_id` suelto ni `carrito`: el producto
+  va completo dentro de cada ingrediente. `precio` es el precio de **un envase**.
+- **(NUEVO)** `instrucciones`: texto de preparación de la receta (opcional en `listo_para_comer`).
 - **(CAMBIA)** `extras`: **productos que el usuario necesita pero que no son de ninguna receta** (leche, café…),
-  con la misma forma que un ingrediente (`{producto_id, unidades}`). **Sí llevan precio y entran en el carrito.**
+  con la misma forma que un ingrediente (`{unidades, producto}`). Llevan precio y entran en la lista de la compra.
   No dependen de los días: si el usuario desmarca un día, los extras se quedan. Se añaden desde el chat
   ("añade leche") o desde la búsqueda.
 - **(NUEVO)** `en_casa`: lo que se supone que ya hay en casa (sal, agua…). Es lo que antes se llamaba `extras`:
-  solo texto, **no** lleva precio ni entra en el carrito. Existe a nivel de plan y de receta.
-- `carrito.lineas`: productos reales de Mercadona con `unidades` (envases enteros) y `subtotal`; `carrito.total` es el precio de la compra.
-  **Incluye los ingredientes de todas las recetas y los `extras`.**
-- `presupuesto` / `dentro_presupuesto`: `false` significa que ni el plan más barato que encuentra cabe en el presupuesto.
+  solo texto, sin precio ni lista de la compra. A nivel de plan; en cada receta es opcional.
+- **(CAMBIA)** El plan **no** lleva `comensales`, `presupuesto`, `total` ni `dentro_presupuesto`. El backend sigue manejando
+  comensales y presupuesto dentro de la sesión, pero no los devuelve. Los precios y totales los calcula solo el frontend,
+  así que **`mensaje` no debe citar totales** (podrían no coincidir con lo que ve el usuario).
+- Las recetas **no tienen imagen propia**: el frontend usa el `thumbnail` del primer ingrediente.
 - `id` del plan: identifica el plan; cambia cada vez que cambia su contenido (nuevo plan o plato sustituido).
 
-### (NUEVO) Unidades y carrito
+### (NUEVO) Unidades y lista de la compra
+
+Ya no hay `carrito`: **el frontend calcula la lista de la compra** a partir del plan, para poder recalcularla al instante
+cuando el usuario desmarca un día.
 
 - En `ingredientes` y `extras`, `unidades` puede ser **fraccionaria**: es la fracción de un envase que gasta esa receta
   (0.25 = un cuarto del aceite). Así dos recetas que comparten el aceite no obligan a comprar dos envases.
-- En `carrito.lineas`, `unidades` son **envases enteros**:
+- La lista de la compra, en **envases enteros**, es:
 
   ```
-  carrito.unidades = ceil( suma de unidades de ese producto en todas las recetas y extras seleccionados )
+  envases(producto) = ceil( suma de unidades de ese producto en todas las recetas y extras seleccionados )
+  subtotal(producto) = envases × producto.precio
+  total = suma de subtotales
   ```
 
   Con una pequeña tolerancia (`ceil(x - 1e-9)`) para que `2.0000000001` no se convierta en 3.
-  `subtotal = unidades × precio`.
-- El frontend usa esta misma regla para **recalcular la lista en local** cuando el usuario desmarca un día, sin llamar al
-  backend. Con todos los días marcados, su resultado debe coincidir con `carrito` (lo comprobamos en desarrollo);
-  si no coincide, manda el `carrito` del backend.
+- Los totales se calculan **solo en el frontend** (en la lista de la compra y en el resumen del plan). El backend no los devuelve;
+  internamente puede usar la misma regla para ajustar el plan a un presupuesto.
 
 ## GET /chat/{session_id}
 
@@ -181,7 +203,7 @@ Petición:
 ```json
 {
   "session_id": "demo",
-  "plan_id": "af91ab62",           // opcional
+  "plan_id": "af91ab62",            // opcional
   "nombre": "Comidas de la semana", // opcional
   "lineas": [
     { "producto_id": "4640", "unidades": 1 },
@@ -199,7 +221,7 @@ Respuesta:
 }
 ```
 
-- `unidades` aquí son **envases enteros** ya editados por el usuario (pueden diferir del carrito original).
+- `unidades` aquí son **envases enteros** ya editados por el usuario (pueden diferir de lo que salía del plan).
 - Si viene `mensaje`, el frontend lo muestra como burbuja de Merche.
 - El frontend guarda además la lista en su propia pestaña "Listas" (en local); el backend solo necesita registrarla.
 
@@ -208,7 +230,6 @@ Respuesta:
 | Método | Ruta | Uso |
 |---|---|---|
 | POST | `/plan` | Generar plan sin chat: `{comensales, presupuesto?, dias[], restricciones?}` → plan |
-| POST | `/sustituir` | **(CAMBIA)** `{plan, dia, receta_id?, session_id?, comensales?}` → plan nuevo (ver abajo) |
 | POST | `/lista` | **(NUEVO)** Guardar la lista final del usuario (ver arriba) |
 | GET | `/productos?q=&categoria=&precio_max=&limite=` | Buscar en el catálogo real (el frontend usa este para la búsqueda) |
 | GET | `/productos/{id}` | Detalle de producto |
@@ -216,19 +237,6 @@ Respuesta:
 | GET | `/catalogo` | Lista de recetas disponibles |
 | GET | `/dashboard` | Métricas: planes, sustituciones, gasto medio, recetas más usadas, ahorro vs presupuesto |
 | GET | `/health` | Comprobación |
-
-### (CAMBIA) `/sustituir`
-
-Sigue sin necesitar sesión, pero con tres ajustes:
-
-- `receta_id` (opcional): como ahora hay varias recetas por día, indica **cuál** se sustituye. Si falta y el día
-  tiene una sola, se sustituye esa.
-- `session_id` (opcional): si viene, el plan de la sesión **se actualiza** con la sustitución. Sin esto, un mensaje
-  posterior como "mejor 25 euros" regeneraría desde el plan antiguo y deshaciría el cambio en silencio.
-- Devuelve el plan nuevo completo (con `id` nuevo).
-
-Cambiar un plato por **chat** ("cambia el martes") sigue siendo la vía principal; el frontend usará `/sustituir` solo
-para un botón "cambiar" en cada receta.
 
 ## Errores
 
@@ -258,4 +266,4 @@ Solo hay dos puntos de enganche, ambos con una función que se puede reescribir 
 - `app/logic/mensajes.py`: textos del asistente (`plan_nuevo`, `plan_sustituido`...).
 
 Configuración en `.env` (`LLM_PROVIDER=gemini`, `LLM_API_KEY`, `LLM_MODEL`) y `app/logic/llm.py`.
-Los precios y el carrito los calcula siempre el código con el catálogo real; el LLM no debe inventarlos.
+Los precios y las cantidades los calcula siempre el código con el catálogo real; el LLM no debe inventarlos.
