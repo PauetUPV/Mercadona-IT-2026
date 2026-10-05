@@ -4,7 +4,7 @@ import { bienvenida, buscarProductos, enviarMensaje, guardarLista, nuevaSesion, 
 import type { Enviado, Intencion, ListaGuardada, MensajeChat, Plan, Producto, RespuestaChat, SujetoPendiente } from "../../data/types";
 import { decidirIntencion } from "../../lib/intencion";
 import { totalLista, type LineaCompra } from "../../lib/lista";
-import { callar, empezarGrabacion, hablar, vozDisponible, type Grabacion } from "../../lib/voz";
+import { empezarGrabacion, vozDisponible, type Grabacion } from "../../lib/voz";
 import { ChatThread, type Chips } from "./ChatThread";
 import { IntroBlock } from "./IntroBlock";
 import { SearchBar } from "./SearchBar";
@@ -62,10 +62,7 @@ export function MerchePage({
   // Voice message: tap the mic to record, tap again to send (transcribed by the backend with Gemini).
   const [estadoVoz, setEstadoVoz] = useState<"parado" | "grabando" | "transcribiendo">("parado");
   const grabacion = useRef<Grabacion | null>(null);
-  useEffect(() => () => {
-    grabacion.current?.cancelar(); // leaving the screen frees the mic...
-    callar(); // ...and Merche stops talking
-  }, []);
+  useEffect(() => () => grabacion.current?.cancelar(), []); // leaving the screen frees the mic
 
   // Inside a conversation, follow-ups ("cambia el martes") always go to Merche.
   const intencion: Intencion =
@@ -97,7 +94,7 @@ export function MerchePage({
     r.sugerencias && r.sugerencias.length > 0 ? { textos: r.sugerencias, motivoDe } : undefined;
 
   // Shows the user's bubble (if any) and "pensando…" while `peticion` runs, then Merche's answer.
-  async function turno(usuario: string | null, peticion: () => Promise<Respuesta>): Promise<Respuesta> {
+  async function turno(usuario: string | null, peticion: () => Promise<Respuesta>) {
     const burbuja = usuario ? [delUsuario(usuario)] : [];
     setVista((v) =>
       v.tipo === "conversacion"
@@ -125,7 +122,6 @@ export function MerchePage({
           }
         : v,
     );
-    return respuesta;
   }
 
   async function buscar(consulta: string) {
@@ -220,7 +216,6 @@ export function MerchePage({
   }
 
   async function pulsarMicro() {
-    callar(); // tapping the mic interrupts Merche
     if (estadoVoz === "parado") {
       try {
         grabacion.current = await empezarGrabacion();
@@ -235,12 +230,7 @@ export function MerchePage({
     try {
       const wav = await grabacion.current.parar();
       const dicho = (await transcribir(wav)).trim();
-      if (dicho) {
-        // Like a typed message (same chat), but always to Merche, and she answers out loud
-        setTexto("");
-        const respuesta = await preguntarAMerche(dicho);
-        hablar([respuesta.mensaje, respuesta.conclusion].filter(Boolean).join(" "));
-      }
+      if (dicho) enviar(dicho); // like a typed message: same routing, same chat
     } catch (e) {
       onNotice(e instanceof Error ? e.message : "No he podido escucharte");
     } finally {
@@ -254,7 +244,6 @@ export function MerchePage({
     setTexto("");
     setPlanEditado(undefined);
     nuevaSesion();
-    callar();
     abrir(); // new chat, same memory: Merche may still ask how last week's food went
   }
 
