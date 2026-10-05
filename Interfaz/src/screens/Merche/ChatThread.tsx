@@ -1,10 +1,12 @@
 import { useEffect, useRef, useState, type ReactNode } from "react";
 import { Icon } from "../../components/Icon";
 import { ProductRow } from "../../components/ProductRow";
-import type { MensajeChat, Plan } from "../../data/types";
+import type { MensajeChat, Plan, Receta } from "../../data/types";
 import { capitalizar, formatPrecio } from "../../lib/formato";
 import { costeIngrediente, diasOrdenados, imagenReceta, listaCompra, totalLista } from "../../lib/lista";
 import { PlatoDetalle } from "./PlatoDetalle";
+
+const redondear = (eur: number) => Math.round(eur * 100) / 100;
 
 // Same dish can't repeat within a day, so day + recipe id is a stable key.
 const claveReceta = (dia: string, recetaId: string) => `${dia}-${recetaId}`;
@@ -45,7 +47,31 @@ export function ChatThread({
     setSelecciones({});
   }, [plan?.id]);
 
-  const lineas = plan ? listaCompra(plan) : [];
+  const seleccionDe = (clave: string, receta: Receta): Set<string> =>
+    selecciones[clave] ?? new Set(receta.ingredientes.map((i) => i.producto.id));
+
+  // Price of a dish counting only its ticked ingredients.
+  const precioReceta = (clave: string, receta: Receta): number => {
+    const seleccion = seleccionDe(clave, receta);
+    return redondear(
+      receta.ingredientes.filter((i) => seleccion.has(i.producto.id)).reduce((acc, i) => acc + costeIngrediente(i), 0),
+    );
+  };
+
+  // The plan as the user has edited it: unticked ingredients are out of the shopping list and total.
+  const planEditado: Plan | undefined = plan && {
+    ...plan,
+    dias: Object.fromEntries(
+      diasOrdenados(plan).map(([dia, recetas]) => [
+        dia,
+        recetas.map((receta) => {
+          const seleccion = seleccionDe(claveReceta(dia, receta.id), receta);
+          return { ...receta, ingredientes: receta.ingredientes.filter((i) => seleccion.has(i.producto.id)) };
+        }),
+      ]),
+    ),
+  };
+  const lineas = planEditado ? listaCompra(planEditado) : [];
 
   if (plan && platoAbierto !== null) {
     for (const [dia, recetas] of diasOrdenados(plan)) {
@@ -53,17 +79,14 @@ export function ChatThread({
         const clave = claveReceta(dia, receta.id);
         if (clave !== platoAbierto) continue;
 
-        const seleccion = selecciones[clave] ?? new Set(receta.ingredientes.map((i) => i.producto.id));
-        const subtotal = receta.ingredientes
-          .filter((i) => seleccion.has(i.producto.id))
-          .reduce((acc, i) => acc + costeIngrediente(i), 0);
+        const seleccion = seleccionDe(clave, receta);
 
         return (
           <PlatoDetalle
             dia={dia}
             receta={receta}
             seleccion={seleccion}
-            subtotal={Math.round(subtotal * 100) / 100}
+            subtotal={precioReceta(clave, receta)}
             onToggle={(id) =>
               setSelecciones((prev) => {
                 const next = new Set(prev[clave] ?? seleccion);
@@ -128,7 +151,7 @@ export function ChatThread({
                         </p>
                         <p className="truncate text-[15px] font-bold">{receta.nombre}</p>
                       </div>
-                      <strong className="text-[15px]">{formatPrecio(receta.precio_estimado)}</strong>
+                      <strong className="text-[15px]">{formatPrecio(precioReceta(claveReceta(dia, receta.id), receta))}</strong>
                       <span aria-hidden className="text-xl text-[#7b8781]">
                         ›
                       </span>
