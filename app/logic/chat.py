@@ -247,6 +247,8 @@ def procesar(req: ChatRequest) -> ChatResponse:
     elif i.accion == "sugerir" or (i.accion == "consultar" and i.tema == "menu" and sesion.plan is None):
         # Ideas sueltas, sin crear plan: "¿qué ceno con pasta?", "¿qué me recomiendas?"
         sin_cocinar = bool(i.sin_cocinar) or bool(i.dia and i.dia in sesion.sin_cocinar)
+        if not i.dia and len(i.sin_cocinar) == 1:  # "el martes no me apetece cocinar": las ideas son para el martes
+            i.dia = i.sin_cocinar[0]
         hechos, plan = ideas.proponer(sesion, i, sin_cocinar), None
     elif i.accion == "consultar":  # una pregunta nunca cambia el plan
         hechos, plan = consultas.responder(sesion, i), None

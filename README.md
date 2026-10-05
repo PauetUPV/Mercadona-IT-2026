@@ -11,7 +11,7 @@ venv\Scripts\activate        # Linux/Mac: source venv/bin/activate
 pip install -r requirements.txt -r requirements-dev.txt
 # .env con LLM_API_KEY (Gemini). Sin clave el chat funciona igualmente con el plan B por reglas
 uvicorn main:app --reload
-pytest                       # 178 tests, sin red ni Gemini
+pytest                       # 184 tests, sin red ni Gemini
 ```
 
 Swagger en http://localhost:8000/docs
@@ -25,6 +25,7 @@ Swagger en http://localhost:8000/docs
 | POST | `/lista` | El usuario guarda su lista final de la compra |
 | GET | `/bienvenida` | Primer mensaje de Merche al abrir (saludo, o pregunta de feedback si procede) |
 | POST | `/feedback` | Valoración 👍/👎; Merche encadena la siguiente pregunta |
+| POST | `/voz` | Mensaje de voz -> texto (Gemini); luego va a `/chat` |
 | GET | `/productos?q=&categoria=&precio_max=&limite=` | Búsqueda en el catálogo real |
 | GET | `/health` | Comprobación de vida |
 

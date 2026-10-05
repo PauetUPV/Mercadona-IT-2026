@@ -107,6 +107,10 @@ class Enviado(BaseModel):
     puntos: list[str]  # lo esencial del comentario, en frases cortas
 
 
+class VozResponse(BaseModel):
+    texto: str  # lo que dijo el usuario; el frontend lo envía a /chat como si lo hubiera escrito
+
+
 class SujetoFeedback(BaseModel):
     tipo: Literal["receta", "producto"]
     id: str

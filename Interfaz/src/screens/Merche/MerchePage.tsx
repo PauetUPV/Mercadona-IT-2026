@@ -1,9 +1,10 @@
 import { useEffect, useRef, useState } from "react";
 import { Icon } from "../../components/Icon";
-import { bienvenida, buscarProductos, enviarMensaje, guardarLista, nuevaSesion, valorar } from "../../data/service";
+import { bienvenida, buscarProductos, enviarMensaje, guardarLista, nuevaSesion, transcribir, valorar } from "../../data/service";
 import type { Enviado, Intencion, ListaGuardada, MensajeChat, Plan, Producto, RespuestaChat, SujetoPendiente } from "../../data/types";
 import { decidirIntencion } from "../../lib/intencion";
 import { totalLista, type LineaCompra } from "../../lib/lista";
+import { empezarGrabacion, vozDisponible, type Grabacion } from "../../lib/voz";
 import { ChatThread, type Chips } from "./ChatThread";
 import { IntroBlock } from "./IntroBlock";
 import { SearchBar } from "./SearchBar";
@@ -58,6 +59,10 @@ export function MerchePage({
   const [texto, setTexto] = useState("");
   // The plan as the user edited it (unticked dishes/ingredients), if they did since the last response.
   const [planEditado, setPlanEditado] = useState<Plan | undefined>();
+  // Voice message: tap the mic to record, tap again to send (transcribed by the backend with Gemini).
+  const [estadoVoz, setEstadoVoz] = useState<"parado" | "grabando" | "transcribiendo">("parado");
+  const grabacion = useRef<Grabacion | null>(null);
+  useEffect(() => () => grabacion.current?.cancelar(), []); // leaving the screen frees the mic
 
   // Inside a conversation, follow-ups ("cambia el martes") always go to Merche.
   const intencion: Intencion =
@@ -210,6 +215,30 @@ export function MerchePage({
     else void buscar(limpio);
   }
 
+  async function pulsarMicro() {
+    if (estadoVoz === "parado") {
+      try {
+        grabacion.current = await empezarGrabacion();
+        setEstadoVoz("grabando");
+      } catch {
+        onNotice("No puedo usar el micrófono. Revisa el permiso del navegador.");
+      }
+      return;
+    }
+    if (estadoVoz !== "grabando" || !grabacion.current) return;
+    setEstadoVoz("transcribiendo");
+    try {
+      const wav = await grabacion.current.parar();
+      const dicho = (await transcribir(wav)).trim();
+      if (dicho) enviar(dicho); // like a typed message: same routing, same chat
+    } catch (e) {
+      onNotice(e instanceof Error ? e.message : "No he podido escucharte");
+    } finally {
+      grabacion.current = null;
+      setEstadoVoz("parado");
+    }
+  }
+
   function reiniciar() {
     setVista({ tipo: "vacio" });
     setTexto("");
@@ -269,6 +298,7 @@ export function MerchePage({
         onSubmit={() => enviar(texto)}
         intencion={intencion}
         soloMerche={vista.tipo === "conversacion"}
+        voz={vozDisponible() ? { estado: estadoVoz, onPulsar: () => void pulsarMicro() } : undefined}
       />
     </>
   );

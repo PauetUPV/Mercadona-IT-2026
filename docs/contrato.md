@@ -269,6 +269,7 @@ Estos son todos los que necesita el frontend:
 | POST | `/lista` | Guardar la lista final del usuario (ver arriba) |
 | GET | `/bienvenida?session_id=` | **(NUEVO)** Primer mensaje de Merche al abrir la conversación (ver abajo) |
 | POST | `/feedback` | **(NUEVO)** Valoración 👍/👎 (ver abajo) |
+| POST | `/voz` | **(NUEVO)** Audio -> texto con Gemini (ver abajo) |
 | GET | `/productos?q=&categoria=&precio_max=&limite=` | Buscar en el catálogo real (búsqueda de productos del frontend) |
 | GET | `/health` | Comprobación |
 
@@ -367,6 +368,26 @@ Las listas guardadas con "Añadir en una nueva lista" (con su tienda, productos,
 añadidos desde la búsqueda se guardan en el navegador (`localStorage`) y se ven en la pestaña "Listas". El backend solo
 registra qué se compró para preguntar luego "¿qué tal fue la compra?" (al abrir el siguiente chat, con `/bienvenida`).
 
+## (NUEVO) Mensajes de voz: POST /voz
+
+El usuario pulsa el micrófono de la barra (aparece cuando está vacía), habla y vuelve a pulsar. La interfaz convierte la
+grabación a **WAV 16 kHz mono** (Chrome graba WebM/Opus, que Gemini no acepta) y la envía:
+
+```
+POST /voz            Content-Type: audio/wav        (cuerpo: el audio tal cual; también acepta MP3, OGG, FLAC, AAC)
+-> 200 { "texto": "Somos dos y el martes no me apetece cocinar" }
+```
+
+Ese texto se envía después a `/chat` como un mensaje escrito (misma ruta, mismo historial, mismas reglas).
+
+| Respuesta | Cuándo |
+|---|---|
+| 200 `{texto}` | Transcrito (Gemini, ~2 s) |
+| 422 | Sin audio, formato no admitido, demasiado largo (> 10 MB) o "No te he entendido. ¿Puedes repetirlo?" |
+| 503 | Gemini no disponible: "Ahora mismo no puedo escuchar audios. Escríbemelo, por favor." (la voz no tiene plan B) |
+
+En Swagger (`/docs`) se puede probar subiendo un `.wav`.
+
 ## Reglas de precio y viabilidad
 
 El backend **no concede lo imposible**. Estas comprobaciones las hace el código (no el LLM) antes de devolver un plan:
@@ -431,7 +452,7 @@ python -m venv venv
 venv\Scripts\activate          # Linux/Mac: source venv/bin/activate
 pip install -r requirements.txt -r requirements-dev.txt
 uvicorn main:app --reload
-pytest                      # 178 tests, sin red ni Gemini (siempre simulado)
+pytest                      # 184 tests, sin red ni Gemini (siempre simulado)
 
 # Probar a mano: Swagger en http://localhost:8000/docs, o con curl:
 curl -X POST localhost:8000/chat -H "content-type: application/json" -d '{"session_id":"demo","mensaje":"Somos 2, 60 euros y el martes no cocino"}'

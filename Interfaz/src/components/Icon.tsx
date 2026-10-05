@@ -8,6 +8,8 @@ export type IconName =
   | "search"
   | "cart"
   | "send"
+  | "mic"
+  | "stop"
   | "smile"
   | "chef"
   | "plus"
@@ -69,6 +71,13 @@ export function Icon({
         <path d="m10.3 13.7 4.5-4.5" />
       </>
     ),
+    mic: (
+      <>
+        <rect x="9" y="2.5" width="6" height="11.5" rx="3" />
+        <path d="M5.5 11a6.5 6.5 0 0 0 13 0M12 17.5V21.5" />
+      </>
+    ),
+    stop: <rect x="6.5" y="6.5" width="11" height="11" rx="2.5" fill="currentColor" stroke="none" />,
     smile: (
       <>
         <circle cx="12" cy="12" r="9" />

@@ -1,10 +1,12 @@
 from typing import Optional
 
-from fastapi import APIRouter, Query
+from fastapi import APIRouter, Query, Request
+from fastapi.concurrency import run_in_threadpool
+from fastapi.responses import JSONResponse
 
 from app.data import catalogo
 from app.logic import apertura, chat, llm, sesiones
-from app.logic.errores import NoEncontrado
+from app.logic.errores import DatosInvalidos, NoEncontrado
 from app.models.schemas import (
     ChatHistorial,
     ChatRequest,
@@ -14,6 +16,7 @@ from app.models.schemas import (
     ListaRequest,
     ListaResponse,
     Producto,
+    VozResponse,
 )
 
 router = APIRouter()
@@ -56,6 +59,36 @@ def guardar_lista(peticion: ListaRequest):
 def feedback(peticion: FeedbackRequest):
     """Valoración de una receta o producto (👍/👎). Provisional."""
     return chat.registrar_feedback(peticion)
+
+
+# Formatos de audio que entiende Gemini (la interfaz envía WAV)
+TIPOS_AUDIO = {"audio/wav", "audio/x-wav", "audio/wave", "audio/mpeg", "audio/mp3", "audio/ogg", "audio/flac",
+               "audio/aac", "audio/aiff", "audio/x-aiff"}
+MAX_AUDIO = 10 * 1024 * 1024  # 10 MB (~5 min de WAV a 16 kHz)
+
+
+@router.post(
+    "/voz",
+    response_model=VozResponse,
+    openapi_extra={"requestBody": {"required": True, "content": {"audio/wav": {"schema": {"type": "string", "format": "binary"}}}}},
+)
+async def voz(request: Request):
+    """Mensaje de voz -> texto (con Gemini). El cuerpo es el audio tal cual (Content-Type: audio/wav, audio/mpeg...).
+    Después, el frontend envía ese texto a /chat como un mensaje normal."""
+    mime = request.headers.get("content-type", "").split(";")[0].strip().lower()
+    if mime not in TIPOS_AUDIO:
+        raise DatosInvalidos(f"Formato de audio no admitido ({mime or 'sin Content-Type'}). Usa WAV, MP3, OGG, FLAC o AAC.")
+    audio = await request.body()
+    if not audio:
+        raise DatosInvalidos("El audio está vacío")
+    if len(audio) > MAX_AUDIO:
+        raise DatosInvalidos("El audio es demasiado largo")
+    texto = await run_in_threadpool(llm.transcribir, audio, mime)
+    if texto is None:
+        return JSONResponse(status_code=503, content={"detail": "Ahora mismo no puedo escuchar audios. Escríbemelo, por favor."})
+    if not texto:
+        raise DatosInvalidos("No te he entendido. ¿Puedes repetirlo?")
+    return VozResponse(texto=texto)
 
 
 @router.get("/productos", response_model=list[Producto])

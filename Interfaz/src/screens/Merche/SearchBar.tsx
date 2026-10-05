@@ -9,6 +9,7 @@ export function SearchBar({
   onSubmit,
   intencion,
   soloMerche = false,
+  voz,
 }: {
   value: string;
   onChange: (texto: string) => void;
@@ -16,6 +17,8 @@ export function SearchBar({
   intencion: Intencion;
   // Inside a conversation there is no product search: the bar only talks to Merche.
   soloMerche?: boolean;
+  // Voice: with an empty bar, the button is a microphone (tap to talk, tap again to send).
+  voz?: { estado: "parado" | "grabando" | "transcribiendo"; onPulsar: () => void };
 }) {
   const esMerche = intencion === "merche";
 
@@ -25,6 +28,7 @@ export function SearchBar({
   }
 
   const hayTexto = value.trim() !== "";
+  const conVoz = voz && (!hayTexto || voz.estado !== "parado");
 
   return (
     <div className="fixed inset-x-0 bottom-[90px] z-20 mx-auto max-w-[1120px] px-4 sm:bottom-[96px] sm:px-9 lg:px-12">
@@ -59,14 +63,33 @@ export function SearchBar({
           </span>
           <input
             className="min-w-0 flex-1 bg-transparent text-base outline-none placeholder:text-[#89938e]"
+            disabled={voz && voz.estado !== "parado"}
             placeholder={
-              soloMerche
-                ? "Pídele a Merche un cambio: «cambia el martes», «más barato»…"
-                : "Busca un producto o pídele a Merche un menú, una receta…"
+              voz?.estado === "grabando"
+                ? "Te escucho… pulsa ■ para enviar"
+                : voz?.estado === "transcribiendo"
+                  ? "Escuchando lo que has dicho…"
+                  : soloMerche
+                    ? "Pídele a Merche un cambio: «cambia el martes», «más barato»…"
+                    : "Busca un producto o pídele a Merche un menú, una receta…"
             }
             value={value}
             onChange={(event) => onChange(event.target.value)}
           />
+          {conVoz ? (
+            <button
+              type="button"
+              onClick={voz.onPulsar}
+              disabled={voz.estado === "transcribiendo"}
+              aria-label={voz.estado === "grabando" ? "Parar y enviar el audio" : "Hablar con Merche"}
+              aria-pressed={voz.estado === "grabando"}
+              className={`grid h-11 w-11 shrink-0 place-items-center rounded-full text-white shadow-[0_7px_18px_rgba(66,148,100,0.25)] transition active:scale-95 disabled:opacity-60 ${
+                voz.estado === "grabando" ? "animate-pulse bg-[#c2410c]" : "bg-brand hover:bg-brand-hover"
+              }`}
+            >
+              <Icon name={voz.estado === "grabando" ? "stop" : "mic"} size={21} strokeWidth={2.1} />
+            </button>
+          ) : (
           <button
             aria-label={esMerche ? "Enviar a Merche" : "Buscar"}
             className={`grid h-11 w-11 shrink-0 place-items-center rounded-full text-white shadow-[0_7px_18px_rgba(66,148,100,0.25)] transition active:scale-95 ${
@@ -76,6 +99,7 @@ export function SearchBar({
           >
             <Icon name={esMerche ? "send" : "search"} size={21} strokeWidth={2.1} />
           </button>
+          )}
         </form>
       </div>
     </div>

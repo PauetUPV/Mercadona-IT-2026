@@ -110,6 +110,16 @@ export async function guardarLista(
   return post<ListaResponse>("/lista", peticion);
 }
 
+// Voice message -> text (the backend asks Gemini). The text is then sent like a typed message.
+// Fails (throws) if the backend can't transcribe; the message says why.
+export async function transcribir(wav: Blob): Promise<string> {
+  if (!API_URL) throw new Error("La voz necesita el backend real (VITE_API_URL)");
+  const res = await fetch(API_URL + "/voz", { method: "POST", headers: { "Content-Type": "audio/wav" }, body: wav });
+  const datos = await res.json().catch(() => ({}));
+  if (!res.ok) throw new Error(typeof datos.detail === "string" ? datos.detail : "No he podido escucharte");
+  return datos.texto as string;
+}
+
 // Thumbs up/down on something Merche asked about. A thumbs down without `motivo` comes back with
 // reason chips; send the chosen one with the same call plus `motivo`.
 export function valorar(
