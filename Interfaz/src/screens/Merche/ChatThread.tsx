@@ -1,6 +1,6 @@
 import { Fragment, useEffect, useRef, useState, type ReactNode } from "react";
 import { Icon } from "../../components/Icon";
-import type { MensajeChat, Plan, Receta } from "../../data/types";
+import type { LineaLista, MensajeChat, Plan, Receta, SujetoPendiente } from "../../data/types";
 import { capitalizar, formatCantidad, formatPrecio } from "../../lib/formato";
 import { costeIngrediente, diasOrdenados, imagenReceta, listaCompra, totalLista } from "../../lib/lista";
 
@@ -9,6 +9,13 @@ const redondear = (eur: number) => Math.round(eur * 100) / 100;
 // Same dish can't repeat within a day, so day + recipe id is a stable key.
 const claveReceta = (dia: string, recetaId: string) => `${dia}-${recetaId}`;
 
+// Quick-reply chips under the last message. With `motivoDe`, they are the reasons for a thumbs down
+// on that item (sent to /feedback); otherwise they are messages for Merche (sent to /chat).
+export interface Chips {
+  textos: string[];
+  motivoDe?: SujetoPendiente;
+}
+
 // State C: conversation with Merche, plus the plan she proposes.
 // Each dish in the plan expands in place to show its ingredients, which can be unticked.
 export function ChatThread({
@@ -16,15 +23,25 @@ export function ChatThread({
   plan,
   planEn,
   conclusion,
+  chips,
   cargando,
   onAddAll,
+  onGuardarLista,
+  onPlanEditado,
+  onChip,
+  onFeedback,
 }: {
   mensajes: MensajeChat[];
   plan?: Plan;
   planEn?: string; // id of the Merche message that delivered the plan
   conclusion?: string; // Merche's closing line, shown AFTER the plan
+  chips?: Chips;
   cargando: boolean;
   onAddAll: (ids: string[]) => void;
+  onGuardarLista: (lineas: LineaLista[], planId?: string) => void;
+  onPlanEditado: (plan: Plan | undefined) => void; // the plan as the user edited it, or undefined if untouched
+  onChip: (texto: string, chips: Chips) => void;
+  onFeedback: (mensajeId: string, sujeto: SujetoPendiente, valor: "positivo" | "negativo") => void;
 }) {
   const finRef = useRef<HTMLDivElement>(null);
   // Ticked producto ids per dish. A dish with no entry has everything ticked.
@@ -34,7 +51,7 @@ export function ChatThread({
 
   useEffect(() => {
     finRef.current?.scrollIntoView({ behavior: "smooth", block: "end" });
-  }, [mensajes.length, cargando, plan, conclusion]);
+  }, [mensajes.length, cargando, plan, conclusion, chips]);
 
   // A new plan starts clean.
   useEffect(() => {
@@ -93,6 +110,28 @@ export function ChatThread({
     ),
   };
   const lineas = planEditado ? listaCompra(planEditado) : [];
+
+  // Tell the page what the user edited, so the next message sends it (docs/contrato.md "plan en la peticion").
+  // Unticked dishes and emptied days leave the plan entirely.
+  useEffect(() => {
+    if (!plan || Object.keys(selecciones).length === 0) return onPlanEditado(undefined);
+    const dias = Object.fromEntries(
+      diasOrdenados(plan)
+        .map(([dia, recetas]) => [
+          dia,
+          recetas
+            .map((receta) => {
+              const seleccion = seleccionDe(claveReceta(dia, receta.id), receta);
+              return { ...receta, ingredientes: receta.ingredientes.filter((i) => seleccion.has(i.producto.id)) };
+            })
+            .filter((receta) => receta.ingredientes.length > 0),
+        ] as const)
+        .filter(([, recetas]) => recetas.length > 0),
+    );
+    onPlanEditado({ ...plan, dias });
+    // seleccionDe only reads `selecciones`, already a dependency.
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [selecciones, plan]);
 
   // The plan card sits right after the Merche message that delivered it.
   const tarjetaPlan = plan && (
@@ -209,7 +248,13 @@ export function ChatThread({
           <div className="mt-4 flex flex-wrap gap-2.5">
             <button
               type="button"
-              onClick={() => onAddAll(lineas.map((l) => l.producto.id))}
+              onClick={() => {
+                onAddAll(lineas.map((l) => l.producto.id));
+                onGuardarLista(
+                  lineas.map((l) => ({ producto_id: l.producto.id, unidades: l.envases })),
+                  plan.id,
+                );
+              }}
               className="flex h-12 flex-1 items-center justify-center gap-2 rounded-full bg-brand px-5 text-sm font-bold text-white transition hover:bg-brand-hover sm:flex-none"
             >
               <Icon name="plus" size={20} />
@@ -233,6 +278,13 @@ export function ChatThread({
           ) : (
             <Fragment key={m.id}>
               <MensajeMerche>{m.texto}</MensajeMerche>
+              {m.feedback && (
+                <TarjetaValoracion
+                  sujeto={m.feedback}
+                  valorado={m.valorado}
+                  onValorar={(valor) => onFeedback(m.id, m.feedback!, valor)}
+                />
+              )}
               {m.id === planEn && tarjetaPlan}
             </Fragment>
           ),
@@ -250,8 +302,66 @@ export function ChatThread({
           <MensajeMerche>{conclusion}</MensajeMerche>
         </div>
       )}
+      {chips && !cargando && (
+        <div className="mt-4 flex flex-wrap gap-2 pl-14" aria-label="Respuestas rápidas">
+          {chips.textos.map((t) => (
+            <button
+              key={t}
+              type="button"
+              onClick={() => onChip(t, chips)}
+              className="rounded-full border border-brand/30 bg-white px-4 py-2 text-[15px] font-semibold text-brand transition hover:bg-brand-wash active:scale-[0.97]"
+            >
+              {t}
+            </button>
+          ))}
+        </div>
+      )}
       <div ref={finRef} />
     </section>
+  );
+}
+
+// "¿Qué tal salió X?": the dish and two buttons. Once answered, it shows the answer and locks.
+function TarjetaValoracion({
+  sujeto,
+  valorado,
+  onValorar,
+}: {
+  sujeto: SujetoPendiente;
+  valorado?: "positivo" | "negativo";
+  onValorar: (valor: "positivo" | "negativo") => void;
+}) {
+  const boton = (valor: "positivo" | "negativo", emoji: string, etiqueta: string) => (
+    <button
+      type="button"
+      aria-label={etiqueta}
+      aria-pressed={valorado === valor}
+      disabled={valorado !== undefined}
+      onClick={() => onValorar(valor)}
+      className={`grid h-11 w-11 place-items-center rounded-full text-xl transition ${
+        valorado === valor ? "bg-brand text-white" : "bg-[#f0f3f1] hover:bg-brand-wash"
+      } ${valorado !== undefined && valorado !== valor ? "opacity-40" : ""} disabled:cursor-default`}
+    >
+      {emoji}
+    </button>
+  );
+  return (
+    <div className="ml-14 flex max-w-[520px] items-center gap-3 rounded-[20px] border border-black/6 bg-white p-3 shadow-[0_8px_30px_rgba(28,52,42,0.07)]">
+      <div className="h-14 w-14 shrink-0 overflow-hidden rounded-[14px] bg-[#f4eee1]">
+        {sujeto.imagen && (
+          <img
+            className="h-full w-full object-cover"
+            src={sujeto.imagen}
+            alt=""
+            loading="lazy"
+            onError={(event) => (event.currentTarget.style.visibility = "hidden")}
+          />
+        )}
+      </div>
+      <p className="min-w-0 flex-1 text-[15px] font-bold">{sujeto.nombre}</p>
+      {boton("positivo", "👍", "Me gustó")}
+      {boton("negativo", "👎", "No me gustó")}
+    </div>
   );
 }
 

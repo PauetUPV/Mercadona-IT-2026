@@ -1,9 +1,9 @@
-import { useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { Icon } from "../../components/Icon";
-import { buscarProductos, enviarMensaje, nuevaSesion } from "../../data/service";
-import type { Intencion, MensajeChat, Plan, Producto } from "../../data/types";
+import { bienvenida, buscarProductos, enviarMensaje, guardarLista, nuevaSesion, valorar } from "../../data/service";
+import type { Intencion, LineaLista, MensajeChat, Plan, Producto, RespuestaChat, SujetoPendiente } from "../../data/types";
 import { decidirIntencion } from "../../lib/intencion";
-import { ChatThread } from "./ChatThread";
+import { ChatThread, type Chips } from "./ChatThread";
 import { IntroBlock } from "./IntroBlock";
 import { SearchBar } from "./SearchBar";
 import { SearchResults } from "./SearchResults";
@@ -12,9 +12,29 @@ import { SearchResults } from "./SearchResults";
 type Vista =
   | { tipo: "vacio" }
   | { tipo: "busqueda"; consulta: string; resultados: Producto[] | null }
-  | { tipo: "conversacion"; mensajes: MensajeChat[]; plan?: Plan; planEn?: string; conclusion?: string; cargando: boolean };
+  | {
+      tipo: "conversacion";
+      mensajes: MensajeChat[];
+      plan?: Plan;
+      planEn?: string;
+      conclusion?: string;
+      chips?: Chips;
+      cargando: boolean;
+    };
+
+// What a turn ends with: the chat reply, or a rating reply that may bring its own reason chips.
+type Respuesta = RespuestaChat & { chips?: Chips };
+
+const SIN_CONEXION = "Ahora mismo no puedo conectar. Inténtalo de nuevo en un momento.";
 
 let nMensajes = 0;
+const deMerche = (texto: string, feedback?: SujetoPendiente): MensajeChat => ({
+  id: `m${++nMensajes}`,
+  autor: "merche",
+  texto,
+  feedback,
+});
+const delUsuario = (texto: string): MensajeChat => ({ id: `u${++nMensajes}`, autor: "usuario", texto });
 
 export function MerchePage({
   added,
@@ -29,28 +49,50 @@ export function MerchePage({
 }) {
   const [vista, setVista] = useState<Vista>({ tipo: "vacio" });
   const [texto, setTexto] = useState("");
+  // The plan as the user edited it (unticked dishes/ingredients), if they did since the last response.
+  const [planEditado, setPlanEditado] = useState<Plan | undefined>();
 
   // Inside a conversation, follow-ups ("cambia el martes") always go to Merche.
   const intencion: Intencion =
     vista.tipo === "conversacion" ? "merche" : decidirIntencion(texto);
 
-  async function buscar(consulta: string) {
-    setVista({ tipo: "busqueda", consulta, resultados: null });
-    const resultados = await buscarProductos(consulta);
-    setVista((v) =>
-      v.tipo === "busqueda" && v.consulta === consulta ? { ...v, resultados } : v,
-    );
-  }
+  // Merche may open the conversation herself: "¿Qué tal salió la lasaña?" (after a saved list).
+  // A plain greeting is not shown: the intro block already greets.
+  const abierto = useRef(false);
+  useEffect(() => {
+    if (abierto.current) return;
+    abierto.current = true;
+    bienvenida()
+      .then((r) => {
+        if (!r.feedback) return;
+        setVista((v) =>
+          v.tipo === "vacio"
+            ? { tipo: "conversacion", mensajes: [deMerche(r.mensaje, r.feedback)], chips: chipsDe(r), cargando: false }
+            : v,
+        );
+      })
+      .catch(() => undefined); // no backend: the intro block is enough
+  }, []);
 
-  async function preguntarAMerche(consulta: string) {
-    const usuario: MensajeChat = { id: `u${++nMensajes}`, autor: "usuario", texto: consulta };
+  const chipsDe = (r: { sugerencias?: string[] | null }, motivoDe?: SujetoPendiente): Chips | undefined =>
+    r.sugerencias && r.sugerencias.length > 0 ? { textos: r.sugerencias, motivoDe } : undefined;
+
+  // Shows the user's bubble (if any) and "pensando…" while `peticion` runs, then Merche's answer.
+  async function turno(usuario: string | null, peticion: () => Promise<Respuesta>) {
+    const burbuja = usuario ? [delUsuario(usuario)] : [];
     setVista((v) =>
       v.tipo === "conversacion"
-        ? { ...v, mensajes: [...v.mensajes, usuario], conclusion: undefined, cargando: true }
-        : { tipo: "conversacion", mensajes: [usuario], cargando: true },
+        ? { ...v, mensajes: [...v.mensajes, ...burbuja], conclusion: undefined, chips: undefined, cargando: true }
+        : { tipo: "conversacion", mensajes: burbuja, cargando: true },
     );
-    const respuesta = await enviarMensaje(consulta);
-    const merche: MensajeChat = { id: `m${++nMensajes}`, autor: "merche", texto: respuesta.mensaje };
+    let respuesta: Respuesta;
+    try {
+      respuesta = await peticion();
+    } catch {
+      respuesta = { mensaje: SIN_CONEXION };
+    }
+    const merche = deMerche(respuesta.mensaje, respuesta.feedback);
+    if (respuesta.plan) setPlanEditado(undefined); // a new plan starts clean
     setVista((v) =>
       v.tipo === "conversacion"
         ? {
@@ -59,10 +101,61 @@ export function MerchePage({
             plan: respuesta.plan ?? v.plan, // no plan in the response = nothing changed
             planEn: respuesta.plan ? merche.id : v.planEn,
             conclusion: respuesta.conclusion,
+            chips: respuesta.chips ?? chipsDe(respuesta),
             cargando: false,
           }
         : v,
     );
+  }
+
+  async function buscar(consulta: string) {
+    setVista({ tipo: "busqueda", consulta, resultados: null });
+    const resultados = await buscarProductos(consulta).catch(() => [] as Producto[]);
+    setVista((v) =>
+      v.tipo === "busqueda" && v.consulta === consulta ? { ...v, resultados } : v,
+    );
+  }
+
+  function preguntarAMerche(consulta: string) {
+    const editado = planEditado;
+    setPlanEditado(undefined); // sent once: the backend now keeps it as the current plan
+    return turno(consulta, () => enviarMensaje(consulta, editado));
+  }
+
+  // Thumbs up/down on a rating card. A thumbs down first asks why (reason chips).
+  function responderFeedback(mensajeId: string, sujeto: SujetoPendiente, valor: "positivo" | "negativo") {
+    setVista((v) =>
+      v.tipo === "conversacion"
+        ? { ...v, mensajes: v.mensajes.map((m) => (m.id === mensajeId ? { ...m, valorado: valor } : m)) }
+        : v,
+    );
+    return turno(null, async () => {
+      const r = await valorar(sujeto, valor);
+      return { mensaje: r.mensaje ?? "¡Gracias!", feedback: r.feedback ?? undefined, chips: chipsDe(r, sujeto) };
+    });
+  }
+
+  // A chip is either a message for Merche or, after a thumbs down, the reason why.
+  function pulsarChip(textoChip: string, chips: Chips) {
+    if (!chips.motivoDe) return preguntarAMerche(textoChip);
+    const sujeto = chips.motivoDe;
+    return turno(textoChip, async () => {
+      const r = await valorar(sujeto, "negativo", textoChip);
+      return { mensaje: r.mensaje ?? "¡Gracias!", feedback: r.feedback ?? undefined, chips: chipsDe(r) };
+    });
+  }
+
+  // "Añadir en una nueva lista": the backend needs to know what was bought to ask later how it went.
+  async function guardar(lineas: LineaLista[], planId?: string) {
+    try {
+      const r = await guardarLista(lineas, planId);
+      if (r.mensaje) {
+        const mensaje = deMerche(r.mensaje);
+        setVista((v) => (v.tipo === "conversacion" ? { ...v, mensajes: [...v.mensajes, mensaje], conclusion: undefined } : v));
+      }
+    } catch {
+      onNotice("No se ha podido guardar la lista en Merche");
+    }
   }
 
   function enviar(consulta: string, forzar?: Intencion) {
@@ -78,6 +171,7 @@ export function MerchePage({
   function reiniciar() {
     setVista({ tipo: "vacio" });
     setTexto("");
+    setPlanEditado(undefined);
     nuevaSesion();
   }
 
@@ -116,8 +210,13 @@ export function MerchePage({
             plan={vista.plan}
             planEn={vista.planEn}
             conclusion={vista.conclusion}
+            chips={vista.chips}
             cargando={vista.cargando}
             onAddAll={onAddAll}
+            onGuardarLista={(lineas, planId) => void guardar(lineas, planId)}
+            onPlanEditado={setPlanEditado}
+            onChip={(t, chips) => void pulsarChip(t, chips)}
+            onFeedback={(id, sujeto, valor) => void responderFeedback(id, sujeto, valor)}
           />
         )}
       </main>

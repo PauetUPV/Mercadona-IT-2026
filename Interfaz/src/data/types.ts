@@ -39,6 +39,7 @@ export interface Receta {
   instrucciones?: string;
   precio_estimado: number;
   en_casa?: string[];
+  etiquetas?: string[]; // allergens/diet: carne, pescado, gluten, lactosa, huevo, soja
 }
 
 export interface Plan {
@@ -55,11 +56,35 @@ export interface ChatRequest {
   plan?: Plan; // only when the user edited the plan since the last response
 }
 
+// Something Merche asks the user to rate (thumbs up/down). The question is in `mensaje`.
+export interface SujetoPendiente {
+  tipo: "receta" | "producto";
+  id: string;
+  nombre: string;
+  imagen?: string | null;
+}
+
 export interface ChatResponse {
   session_id: string;
   mensaje: string;
   mensaje_conclusion?: string | null; // goes AFTER the plan
   plan?: Plan | null; // absent/null = nothing changed, keep the last one
+  sugerencias?: string[] | null; // quick-reply chips (max 4): tapping one sends it as `mensaje`
+  feedback?: SujetoPendiente | null; // Merche asks how something turned out
+}
+
+// POST /feedback
+export interface FeedbackRequest {
+  session_id: string;
+  sujeto: { tipo: SujetoPendiente["tipo"]; id: string };
+  valor: "positivo" | "negativo";
+  motivo?: string;
+}
+
+export interface FeedbackResponse {
+  mensaje?: string | null;
+  sugerencias?: string[] | null; // reasons ("Estaba soso"...): tapping one re-sends the POST with `motivo`
+  feedback?: SujetoPendiente | null; // next thing to rate
 }
 
 // POST /lista
@@ -85,10 +110,14 @@ export interface MensajeChat {
   id: string;
   autor: "usuario" | "merche";
   texto: string;
+  feedback?: SujetoPendiente; // Merche's question carries a rating card
+  valorado?: "positivo" | "negativo"; // what the user answered on that card
 }
 
 export interface RespuestaChat {
   mensaje: string;
   conclusion?: string;
   plan?: Plan;
+  sugerencias?: string[];
+  feedback?: SujetoPendiente;
 }

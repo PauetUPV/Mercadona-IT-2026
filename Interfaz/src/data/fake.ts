@@ -2,7 +2,7 @@
 // same paths, same JSON, real `Response` objects. service.ts can't tell the
 // difference, so switching to the real server is just setting VITE_API_URL.
 // Simplifications: budget is ignored and the intent parsing is a few regexes.
-import { DIAS, type ChatRequest, type ChatResponse, type Dia, type Ingrediente, type ListaResponse, type Plan, type Producto, type Receta } from "./types";
+import { DIAS, type ChatRequest, type ChatResponse, type Dia, type FeedbackRequest, type FeedbackResponse, type Ingrediente, type ListaResponse, type Plan, type Producto, type Receta, type SujetoPendiente } from "./types";
 
 const wait = (ms: number) => new Promise((r) => setTimeout(r, ms));
 const json = (data: unknown, status = 200) =>
@@ -104,6 +104,8 @@ interface Sesion {
   noCocina: Dia[];
   plan?: Plan;
   historial: { rol: "usuario" | "asistente"; texto: string }[];
+  listas: number; // saved lists
+  valorados: string[]; // recipe ids already rated
 }
 const sesiones = new Map<string, Sesion>();
 
@@ -157,16 +159,17 @@ function generarPlan(s: Sesion): Plan {
 
 function chat(req: ChatRequest): ChatResponse {
   const session_id = req.session_id ?? id();
-  const s = sesiones.get(session_id) ?? { dias: [], noCocina: [], historial: [] };
+  const s = sesionDe(session_id);
   sesiones.set(session_id, s);
   s.historial.push({ rol: "usuario", texto: req.mensaje });
   if (req.plan) s.plan = req.plan; // what the user sees wins over what we stored
 
   const { cambio, cambiaDia, anade } = interpretar(req.mensaje, s);
-  const responder = (mensaje: string, plan?: Plan, mensaje_conclusion?: string): ChatResponse => {
+  const responder = (mensaje: string, plan?: Plan, mensaje_conclusion?: string, sugerencias?: string[]): ChatResponse => {
     s.historial.push({ rol: "asistente", texto: mensaje });
     if (plan) s.plan = plan;
-    return { session_id, mensaje, mensaje_conclusion, plan };
+    const chips = sugerencias ?? (plan ? ["Cambia el lunes", "Añade leche"] : undefined);
+    return { session_id, mensaje, mensaje_conclusion, plan, sugerencias: chips };
   };
 
   if (cambiaDia && s.plan?.dias[cambiaDia]) {
@@ -187,7 +190,7 @@ function chat(req: ChatRequest): ChatResponse {
     return responder(`No encuentro «${anade}» en el catálogo.`);
   }
 
-  if (s.comensales == null) return responder("¿Para cuántas personas cocinamos?");
+  if (s.comensales == null) return responder("¿Para cuántas personas cocinamos?", undefined, undefined, ["Somos 2", "Somos 4"]);
 
   if (cambio) {
     const plan = generarPlan(s);
@@ -199,8 +202,41 @@ function chat(req: ChatRequest): ChatResponse {
   return responder("Cuéntame qué días quieres planificar y, si quieres, tu presupuesto.");
 }
 
-function lista(): ListaResponse {
+function sesionDe(session_id: string): Sesion {
+  const s = sesiones.get(session_id) ?? { dias: [], noCocina: [], historial: [], listas: 0, valorados: [] };
+  sesiones.set(session_id, s);
+  return s;
+}
+
+function lista(body: { session_id: string }): ListaResponse {
+  sesionDe(body.session_id).listas += 1;
   return { lista_id: `l_${id()}`, mensaje: "Guardada. Luego te pregunto qué tal salió." };
+}
+
+// Next dish of the plan to ask about: only after a saved list, at most 3 per list.
+function pendiente(s: Sesion): SujetoPendiente | undefined {
+  if (!s.plan || s.listas === 0 || s.valorados.length >= 3 * s.listas) return undefined;
+  const receta = Object.values(s.plan.dias).flat().find((r) => r && !s.valorados.includes(r.id));
+  return receta && { tipo: "receta", id: receta.id, nombre: receta.nombre, imagen: receta.ingredientes[0]?.producto.thumbnail };
+}
+
+function bienvenida(session_id: string): ChatResponse {
+  const s = sesionDe(session_id);
+  const feedback = pendiente(s);
+  if (feedback) return { session_id, mensaje: `¡Hola otra vez! ¿Qué tal salió «${feedback.nombre}»?`, feedback };
+  return { session_id, mensaje: "¡Hola! Soy Merche. ¿Para cuántas personas es?", sugerencias: ["Somos 2", "Somos 4"] };
+}
+
+function feedback(req: FeedbackRequest): FeedbackResponse {
+  const s = sesionDe(req.session_id);
+  if (!s.valorados.includes(req.sujeto.id)) s.valorados.push(req.sujeto.id);
+  if (req.valor === "negativo" && !req.motivo)
+    return { mensaje: "Vaya, lo siento. ¿Qué falló?", sugerencias: ["Estaba soso", "Muy caro", "No me gustó"] };
+  const gracias = req.valor === "positivo" ? "¡Me alegro!" : "Gracias, no te lo volveré a proponer.";
+  const siguiente = pendiente(s);
+  return siguiente
+    ? { mensaje: `${gracias} ¿Y qué tal salió «${siguiente.nombre}»?`, feedback: siguiente }
+    : { mensaje: `${gracias} Lo tendré en cuenta para la próxima semana.` };
 }
 
 // ---------- the "server" ----------
@@ -224,7 +260,15 @@ export async function fakeServer(path: string, init?: RequestInit): Promise<Resp
   }
   if (metodo === "POST" && url.pathname === "/lista") {
     await wait(300);
-    return json(lista());
+    return json(lista(body));
+  }
+  if (metodo === "GET" && url.pathname === "/bienvenida") {
+    await wait(300);
+    return json(bienvenida(url.searchParams.get("session_id") ?? id()));
+  }
+  if (metodo === "POST" && url.pathname === "/feedback") {
+    await wait(400);
+    return json(feedback(body));
   }
   return json({ detail: "No encontrado" }, 404);
 }
