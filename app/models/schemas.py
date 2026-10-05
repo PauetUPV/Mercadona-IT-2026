@@ -112,3 +112,57 @@ class FeedbackResponse(BaseModel):
     mensaje: Optional[str] = None
     sugerencias: Optional[list[str]] = None
     feedback: Optional[SujetoPendiente] = None  # siguiente cosa a valorar, si Merche quiere seguir preguntando
+
+
+class OpinionRequest(BaseModel):
+    """Queja o sugerencia en texto libre ("las latas de atún vienen con demasiado aceite")."""
+
+    session_id: str
+    texto: str = Field(min_length=1)
+    sujeto: Optional[SujetoFeedback] = None  # si la interfaz sabe sobre qué producto o receta opina
+    tienda: Optional[str] = None
+
+
+class OpinionResponse(BaseModel):
+    mensaje: str
+
+
+# --- Informe para Mercadona (lo generan los agentes de `app/logic/mas.py`) ---
+
+TipoOpinion = Literal["queja", "sugerencia", "elogio"]
+Categoria = Literal["seguridad", "calidad", "sabor", "formato", "precio", "disponibilidad", "receta", "otro"]
+
+
+class Tema(BaseModel):
+    """Opiniones que dicen lo mismo (mismo sujeto, categoría y tipo), agrupadas."""
+
+    sujeto_tipo: Literal["producto", "receta", "general"]
+    sujeto: str  # "Atún", "Pollo al horno con patatas"...
+    producto_id: Optional[str] = None  # producto del catálogo; aproximado si el cliente no dio uno concreto
+    categoria: Categoria
+    tipo: TipoOpinion
+    menciones: int
+    clientes: int  # sesiones distintas
+    tiendas: dict[str, int] = Field(default_factory=dict)  # tienda -> menciones (solo si se conoce)
+    desde: str  # fecha (AAAA-MM-DD) de la primera mención
+    hasta: str
+    alerta: bool = False
+    ejemplos: list[str] = Field(default_factory=list)  # hasta 3 resúmenes
+    accion: Optional[str] = None  # qué propone hacer el agente redactor
+
+
+class Puntuacion(BaseModel):
+    tipo: Literal["receta", "producto"]
+    id: str
+    nombre: str
+    positivos: int = 0
+    negativos: int = 0
+
+
+class Informe(BaseModel):
+    generado: str
+    opiniones: int
+    clientes: int
+    resumen: str
+    temas: list[Tema]  # alertas primero, luego por número de menciones
+    valoraciones: list[Puntuacion]  # 👍/👎 por receta o producto, lo peor valorado primero

@@ -11,7 +11,7 @@ venv\Scripts\activate        # Linux/Mac: source venv/bin/activate
 pip install -r requirements.txt -r requirements-dev.txt
 # .env con LLM_API_KEY (Gemini). Sin clave el chat funciona igualmente con el plan B por reglas
 uvicorn main:app --reload
-pytest                       # 66 tests, sin red ni Gemini
+pytest                       # 73 tests, sin red ni Gemini
 ```
 
 Swagger en http://localhost:8000/docs
@@ -25,6 +25,8 @@ Swagger en http://localhost:8000/docs
 | POST | `/lista` | El usuario guarda su lista final de la compra |
 | GET | `/bienvenida` | Primer mensaje de Merche al abrir (saludo, o pregunta de feedback si procede) |
 | POST | `/feedback` | Valoración 👍/👎; Merche encadena la siguiente pregunta |
+| POST | `/opinion` | Queja o sugerencia en texto libre (también se puede decir por chat) |
+| GET | `/informe` | **Lado Mercadona:** lo que opinan los clientes, ordenado por el sistema de agentes |
 | GET | `/productos?q=&categoria=&precio_max=&limite=` | Búsqueda en el catálogo real |
 | GET | `/health` | Comprobación de vida |
 
@@ -40,6 +42,8 @@ mensaje → Gemini clasifica (1 llamada) → el código ejecuta y comprueba viab
   (`app/logic/planificador.py`) con el catálogo real. Si falla Gemini (cuota, red, 503), se usa un intérprete por reglas (`interprete.py`).
 - **Estado de la sesión** (`app/logic/sesiones.py`): preferencias (personas, presupuesto, días, dieta...), plan vigente, listas y feedback.
   Se guarda en memoria y en `.estado/` (ignorado por git), así que sobrevive a reinicios.
+- **Feedback para Mercadona** (`app/logic/opiniones.py`, `mas.py`): valoraciones y quejas de todas las sesiones se guardan juntas y
+  cuatro agentes (analista, catálogo, agregador, redactor) las convierten en el informe de `/informe` (ver contrato).
 - **Reglas de precio**: si el presupuesto no alcanza ni para el plan más barato, no hay plan y se explica por qué (ver contrato).
 
 ## Datos

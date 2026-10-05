@@ -1,0 +1,367 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Informe del Jefe · Merche Planifica</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  /* Misma estética que la app (Interfaz/src/index.css) */
+  :root {
+    --marca: #429464; --marca-oscura: #1f4a32; --marca-tinte: #e1f0e7; --marca-lavado: #eef6f1; --marca-ficha: #e8f3ec;
+    --fondo: #f7faf8; --papel: #ffffff; --gris: #f0f3f1; --tinta: #15231d; --tinta-2: #4d5b54; --tinta-3: #7b8781;
+    --linea: rgba(0, 0, 0, .06); --sombra: 0 8px 30px rgba(28, 52, 42, .07);
+    --mejorable: #e2a36f; --idea: #e9c46a;
+    /* una por categoría de comentario */
+    --calidad: #b7791f; --frescura: #c2603a; --formato: #2f6fa8; --disponibilidad: #7654a8;
+    --precio: #1f8a8a; --sabor: #b0527d; --receta: #6b7a2e; --seguridad: #b8443c; --otro: #7b8781;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--fondo); color: var(--tinta); font: 15px/1.45 "DM Sans", ui-sans-serif, system-ui, sans-serif; }
+  h1, h2, h3, p { margin: 0; }
+  svg { fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+  .pagina { max-width: 1120px; min-height: 100vh; margin: 0 auto; background: var(--papel); box-shadow: 0 0 80px rgba(27, 62, 49, .08); padding: 36px 48px 40px; }
+  .etiqueta { font-size: 11px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; color: var(--tinta-3); }
+  .tarjeta { background: var(--papel); border: 1px solid var(--linea); border-radius: 24px; padding: 20px 22px; box-shadow: var(--sombra); }
+
+  .cabecera { display: flex; align-items: flex-end; gap: 20px; flex-wrap: wrap; margin-bottom: 26px; }
+  .cabecera > div:first-child { flex: 1; min-width: 260px; }
+  h1 { font-size: 38px; font-weight: 800; line-height: 1; letter-spacing: -.05em; }
+  .cabecera h2 { font-size: 26px; font-weight: 800; letter-spacing: -.03em; margin-top: 18px; }
+  .cabecera p { color: var(--tinta-2); font-size: 17px; margin-top: 8px; max-width: 600px; }
+  .meta { text-align: right; } .meta b { display: block; font-size: 17px; font-weight: 800; letter-spacing: -.02em; }
+  .meta span { color: var(--tinta-2); display: block; margin-bottom: 8px; }
+  .demo { display: inline-block; padding: 5px 12px; border-radius: 99px; background: var(--gris); }
+
+  .seccion { margin-top: 30px; }
+  .seccion > h2, .tarjeta > h2 { font-size: 20px; font-weight: 800; letter-spacing: -.03em; }
+  .seccion > .etiqueta { display: block; margin: 4px 0 14px; }
+  .tarjeta > .etiqueta { display: block; margin: 16px 0 2px; } .tarjeta > h2 + .etiqueta { margin-top: 12px; }
+
+  /* Cifras: como las fichas de «Prueba con» */
+  .cifras { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; }
+  .cifra { border-radius: 22px; padding: 16px 18px; background: var(--gris); }
+  .cifra.verde { background: var(--marca-ficha); } .cifra.verde .etiqueta { color: var(--marca); }
+  .cifra b { display: block; font-size: 40px; font-weight: 800; line-height: 1.05; letter-spacing: -.05em; margin-top: 6px; }
+  .cifra > span { color: var(--tinta-2); font-size: 13.5px; font-weight: 500; }
+  .reparto { display: flex; height: 7px; border-radius: 99px; overflow: hidden; margin-top: 10px; gap: 2px; }
+  .leyenda { display: flex; gap: 10px; margin-top: 6px; font-size: 11.5px; color: var(--tinta-2); flex-wrap: wrap; }
+  .leyenda i { display: inline-block; width: 7px; height: 7px; border-radius: 99px; margin-right: 4px; }
+
+  .resumen { display: grid; grid-template-columns: 1.7fr 1fr; gap: 12px; margin-top: 12px; }
+  .redactor { background: var(--marca-oscura); color: #fff; border-radius: 24px; padding: 22px 24px; display: flex; gap: 14px; }
+  .avatar { width: 44px; height: 44px; flex: none; border-radius: 15px; background: var(--marca); color: #fff; display: grid; place-items: center; }
+  .avatar svg { width: 22px; height: 22px; }
+  .redactor .etiqueta { color: #a9d3ba; } .redactor p { font-size: 17px; line-height: 1.5; margin-top: 6px; }
+  .agentes > .etiqueta { margin: 0; }
+  .agentes ol { list-style: none; margin: 12px 0 0; padding: 0; display: grid; gap: 9px; }
+  .agentes li { display: flex; gap: 10px; align-items: center; font-size: 13.5px; }
+  .agentes li b { width: 26px; height: 26px; flex: none; border-radius: 9px; display: grid; place-items: center; font-size: 12px; background: var(--marca-tinte); color: var(--marca-oscura); }
+  .agentes li em { font-style: normal; color: var(--tinta-3); }
+  .agentes li .ia { margin-left: auto; font-size: 10px; font-weight: 700; letter-spacing: .08em; color: var(--marca); background: var(--marca-lavado); border-radius: 99px; padding: 2px 8px; }
+
+  .puntos { display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; }
+  .punto .arriba { display: flex; align-items: flex-start; gap: 12px; }
+  .punto h3 { font-size: 20px; font-weight: 800; letter-spacing: -.03em; margin-top: 8px; }
+  .punto .n { font-size: 36px; font-weight: 800; line-height: 1; letter-spacing: -.05em; text-align: right; }
+  .punto .n small { display: block; font-size: 11px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; color: var(--tinta-3); margin-top: 4px; }
+  .fechas { font-size: 13px; color: var(--tinta-3); }
+  .chip { display: inline-block; padding: 3px 10px; border-radius: 99px; font-size: 11px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase;
+    color: var(--c); background: color-mix(in srgb, var(--c) 11%, white); }
+  .cita { margin: 12px 0; color: var(--tinta-2); font-size: 15px; }
+  .tiendas { display: grid; gap: 6px; margin-bottom: 14px; }
+  .tienda { display: grid; grid-template-columns: 150px 1fr 18px; gap: 8px; align-items: center; font-size: 13px; font-weight: 500; }
+  .tienda .barra { height: 8px; border-radius: 99px; background: var(--gris); overflow: hidden; }
+  .tienda .barra i { display: block; height: 100%; background: var(--marca); border-radius: 99px; }
+  .tienda b { text-align: right; }
+  .accion { background: var(--marca-ficha); border-radius: 16px; padding: 10px 14px; font-size: 14px; font-weight: 500; }
+  .accion .etiqueta { color: var(--marca); display: block; margin-bottom: 2px; }
+
+  .dos { display: grid; grid-template-columns: 1.15fr 1fr; gap: 12px; align-items: start; }
+  .tema { display: grid; grid-template-columns: 1fr 26px; gap: 10px; padding: 10px 0; border-top: 1px solid var(--linea); font-size: 14px; }
+  .etiqueta + .tema { border-top: 0; }
+  .tema b { font-weight: 700; } .tema .chip { margin-left: 6px; } .tema p { color: var(--tinta-2); font-size: 13.5px; margin-top: 2px; }
+  .tema > span { text-align: right; font-weight: 800; font-size: 17px; }
+
+  .plato { display: grid; grid-template-columns: 1fr 110px 82px; gap: 12px; align-items: center; padding: 10px 0; border-top: 1px solid var(--linea); font-size: 14px; }
+  h2 + .plato { border-top: 0; margin-top: 6px; }
+  .plato b { font-weight: 700; } .plato small { display: block; font-weight: 500; font-size: 12px; color: var(--tinta-3); }
+  .pulgar { display: flex; height: 9px; border-radius: 99px; overflow: hidden; gap: 2px; }
+  .pulgar i:first-child { background: var(--marca); } .pulgar i:last-child { background: var(--mejorable); }
+  .plato > span { text-align: right; color: var(--tinta-2); font-size: 12.5px; white-space: nowrap; }
+
+  footer { margin-top: 28px; text-align: center; } footer a { color: var(--marca); }
+
+  @media (max-width: 860px) {
+    .pagina { padding: 28px 20px 36px; } .meta { text-align: left; }
+    .cifras { grid-template-columns: repeat(2, 1fr); }
+    .resumen, .puntos, .dos { grid-template-columns: 1fr; }
+    .plato { grid-template-columns: 1fr 60px 78px; }
+    .tienda { grid-template-columns: 120px 1fr 18px; }
+  }
+</style>
+</head>
+<body>
+<svg width="0" height="0" style="position:absolute">
+  <symbol id="chef" viewBox="0 0 24 24"><path d="M17 21a1 1 0 0 0 1-1v-5.35c0-.457.316-.844.727-1.041a4 4 0 0 0-2.134-7.589 5 5 0 0 0-9.186 0 4 4 0 0 0-2.134 7.588c.411.198.727.585.727 1.041V20a1 1 0 0 0 1 1Z"/><path d="M6 17h12"/></symbol>
+</svg>
+<div class="pagina" id="pagina"></div>
+
+<script>
+// DATOS INVENTADOS para el mockup (la página los cuenta y agrupa sola: cambia aquí y recarga).
+
+const ZONA = "Valencia";
+
+// Lo que el cliente le cuenta a Merche sobre un producto o una receta, ya clasificado por el agente analista.
+// [fecha, tienda, producto o receta, categoría, tipo, lo que dijo el cliente]
+// categoría: calidad | frescura | sabor | formato | precio | disponibilidad | receta | otro
+// tipo: queja | sugerencia | elogio
+const COMENTARIOS = [
+  ["2026-09-23", "Alboraya", "Atún en lata", "calidad", "queja", "Las latas de atún vienen con demasiado aceite, casi más que atún."],
+  ["2026-09-24", "Valencia - Ruzafa", "Atún en lata", "calidad", "queja", "El atún en lata trae muchísimo aceite."],
+  ["2026-09-26", "Alboraya", "Atún en lata", "calidad", "queja", "Demasiado aceite en las latas de atún."],
+  ["2026-09-27", "Valencia - Benimaclet", "Atún en lata", "calidad", "queja", "El atún viene nadando en aceite."],
+  ["2026-09-29", "Valencia - Ruzafa", "Atún en lata", "calidad", "queja", "Cada vez hay menos atún y más aceite en la lata."],
+  ["2026-09-30", "Alboraya", "Atún en lata", "calidad", "queja", "Las latas de atún llevan demasiado aceite."],
+  ["2026-10-02", "Paterna", "Atún en lata", "calidad", "queja", "Las latas de atún vienen con demasiado aceite."],
+  ["2026-10-03", "Valencia - Ruzafa", "Atún en lata", "calidad", "queja", "Mucho aceite y poco atún."],
+  ["2026-10-04", "Alboraya", "Atún en lata", "calidad", "queja", "El atún en lata tiene demasiado aceite."],
+
+  ["2026-09-24", "Paterna", "Yogur natural", "frescura", "queja", "Los yogures caducaban a los dos días de comprarlos."],
+  ["2026-09-25", "Paterna", "Yogur natural", "frescura", "queja", "El pack de yogures tenía la fecha de caducidad muy justa."],
+  ["2026-09-26", "Paterna", "Yogur natural", "frescura", "queja", "No me dio tiempo a gastar los yogures antes de que caducaran."],
+  ["2026-09-28", "Paterna", "Yogur natural", "frescura", "queja", "Yogures con solo tres días de margen."],
+  ["2026-09-30", "Paterna", "Yogur natural", "frescura", "queja", "Otra vez los yogures con la fecha muy corta."],
+  ["2026-10-01", "Paterna", "Yogur natural", "frescura", "queja", "Los yogures caducaban esa misma semana."],
+
+  ["2026-09-30", "Alboraya", "Hummus", "disponibilidad", "queja", "No había hummus ningún día de esta semana."],
+  ["2026-10-02", "Alboraya", "Hummus", "disponibilidad", "queja", "Otra vez sin hummus."],
+  ["2026-10-05", "Alboraya", "Hummus", "disponibilidad", "queja", "El hummus siempre está agotado por la tarde."],
+
+  ["2026-09-22", "Alboraya", "Espinacas en bolsa", "formato", "queja", "La bolsa es demasiado grande para una persona, se me estropea la mitad."],
+  ["2026-09-25", "Paterna", "Espinacas en bolsa", "formato", "queja", "La bolsa de espinacas es enorme, acabo tirando parte."],
+  ["2026-09-29", "Alboraya", "Espinacas en bolsa", "formato", "queja", "Demasiadas espinacas en la bolsa para mí sola."],
+
+  ["2026-09-24", "Alboraya", "Pan de pueblo", "sabor", "elogio", "Me encanta el pan de pueblo, está buenísimo."],
+  ["2026-09-28", "Valencia - Ruzafa", "Pan de pueblo", "sabor", "elogio", "El pan de pueblo es lo mejor de la compra."],
+  ["2026-10-02", "Paterna", "Pan de pueblo", "sabor", "elogio", "Buenísimo el pan de pueblo."],
+  ["2026-10-04", "Valencia - Benimaclet", "Pan de pueblo", "sabor", "elogio", "El pan de pueblo aguanta tierno varios días."],
+
+  ["2026-09-23", "Valencia - Ruzafa", "Pizza fresca de jamón y queso", "sabor", "elogio", "La pizza fresca les encantó a los niños."],
+  ["2026-09-29", "Paterna", "Pizza fresca de jamón y queso", "sabor", "elogio", "La pizza fresca sale muy rica y nos salva las cenas."],
+  ["2026-10-03", "Alboraya", "Pizza fresca de jamón y queso", "sabor", "elogio", "Muy buena la pizza fresca."],
+
+  ["2026-09-25", "Valencia - Benimaclet", "Kéfir natural", "calidad", "elogio", "El kéfir está muy conseguido, mejor que otros más caros."],
+  ["2026-09-30", "Valencia - Ruzafa", "Kéfir natural", "calidad", "elogio", "El kéfir natural es de lo mejor que tenéis."],
+  ["2026-10-04", "Alboraya", "Kéfir natural", "calidad", "elogio", "Repito siempre con el kéfir."],
+
+  ["2026-09-22", "Alboraya", "Lasaña lista para comer", "formato", "sugerencia", "Estaría bien que la lasaña viniera también en tamaño individual."],
+  ["2026-09-27", "Valencia - Ruzafa", "Lasaña lista para comer", "formato", "sugerencia", "Una lasaña más pequeña, para uno, vendría genial."],
+
+  ["2026-09-26", "Paterna", "Gazpacho", "disponibilidad", "sugerencia", "Ojalá hubiera gazpacho fresco todo el año."],
+  ["2026-10-01", "Valencia - Benimaclet", "Gazpacho", "disponibilidad", "sugerencia", "Me gustaría seguir encontrando gazpacho en otoño."],
+
+  ["2026-09-22", "Valencia - Benimaclet", "Aceite de oliva", "precio", "queja", "El aceite de oliva ha subido de precio."],
+  ["2026-09-26", "Valencia - Ruzafa", "Aceite de oliva", "precio", "queja", "El aceite me parece caro últimamente."],
+
+  ["2026-09-25", "Paterna", "Receta de lentejas", "receta", "queja", "En la receta falta decir cuánto tiempo hay que cocerlas."],
+  ["2026-09-27", "Paterna", "Receta de lentejas", "receta", "queja", "No queda claro el tiempo de cocción de las lentejas."],
+
+  ["2026-09-23", "Alboraya", "Tomates", "sabor", "queja", "Los tomates estaban algo duros y con poco sabor."],
+  ["2026-09-27", "Alboraya", "Tomates", "sabor", "queja", "A los tomates les faltaba sabor."],
+];
+
+// Pulgar arriba (1) o abajo (0) a los platos que propuso Merche.
+// [fecha, tienda, plato, valor, motivo si es 0]
+const VALORACIONES = [
+  ["2026-09-23", "Paterna", "Pollo al horno con patatas", 1],
+  ["2026-09-24", "Alboraya", "Pollo al horno con patatas", 1],
+  ["2026-09-25", "Valencia - Ruzafa", "Pollo al horno con patatas", 1],
+  ["2026-09-27", "Valencia - Benimaclet", "Pollo al horno con patatas", 1],
+  ["2026-09-28", "Alboraya", "Pollo al horno con patatas", 1],
+  ["2026-09-30", "Valencia - Ruzafa", "Pollo al horno con patatas", 1],
+  ["2026-10-01", "Paterna", "Pollo al horno con patatas", 0, "Quedó un poco seco"],
+  ["2026-10-02", "Alboraya", "Pollo al horno con patatas", 1],
+  ["2026-10-03", "Valencia - Benimaclet", "Pollo al horno con patatas", 1],
+  ["2026-10-04", "Valencia - Ruzafa", "Pollo al horno con patatas", 1],
+
+  ["2026-09-23", "Valencia - Ruzafa", "Lasaña boloñesa (lista para comer)", 1],
+  ["2026-09-24", "Paterna", "Lasaña boloñesa (lista para comer)", 1],
+  ["2026-09-26", "Alboraya", "Lasaña boloñesa (lista para comer)", 1],
+  ["2026-09-28", "Valencia - Benimaclet", "Lasaña boloñesa (lista para comer)", 1],
+  ["2026-09-30", "Alboraya", "Lasaña boloñesa (lista para comer)", 0, "Muy cara"],
+  ["2026-10-01", "Valencia - Ruzafa", "Lasaña boloñesa (lista para comer)", 1],
+  ["2026-10-03", "Paterna", "Lasaña boloñesa (lista para comer)", 1],
+  ["2026-10-04", "Alboraya", "Lasaña boloñesa (lista para comer)", 1],
+
+  ["2026-09-22", "Alboraya", "Ensalada de pasta", 1],
+  ["2026-09-25", "Valencia - Ruzafa", "Ensalada de pasta", 1],
+  ["2026-09-27", "Paterna", "Ensalada de pasta", 1],
+  ["2026-09-29", "Valencia - Benimaclet", "Ensalada de pasta", 0, "Estaba sosa"],
+  ["2026-10-01", "Alboraya", "Ensalada de pasta", 1],
+  ["2026-10-03", "Valencia - Ruzafa", "Ensalada de pasta", 1],
+  ["2026-10-05", "Paterna", "Ensalada de pasta", 1],
+
+  ["2026-09-23", "Valencia - Benimaclet", "Tortilla de patatas", 1],
+  ["2026-09-25", "Alboraya", "Tortilla de patatas", 1],
+  ["2026-09-28", "Paterna", "Tortilla de patatas", 1],
+  ["2026-09-30", "Valencia - Ruzafa", "Tortilla de patatas", 1],
+  ["2026-10-02", "Alboraya", "Tortilla de patatas", 0, "No me gustó"],
+  ["2026-10-04", "Valencia - Benimaclet", "Tortilla de patatas", 1],
+  ["2026-10-05", "Valencia - Ruzafa", "Tortilla de patatas", 1],
+
+  ["2026-09-24", "Paterna", "Lentejas estofadas", 1],
+  ["2026-09-25", "Paterna", "Lentejas estofadas", 0, "Quedaron duras"],
+  ["2026-09-27", "Paterna", "Lentejas estofadas", 0, "No sabía cuánto cocerlas"],
+  ["2026-09-29", "Alboraya", "Lentejas estofadas", 1],
+  ["2026-10-01", "Valencia - Ruzafa", "Lentejas estofadas", 1],
+  ["2026-10-03", "Valencia - Benimaclet", "Lentejas estofadas", 1],
+  ["2026-10-04", "Alboraya", "Lentejas estofadas", 1],
+
+  ["2026-09-23", "Alboraya", "Merluza en salsa verde", 0, "Estaba sosa"],
+  ["2026-09-26", "Valencia - Ruzafa", "Merluza en salsa verde", 1],
+  ["2026-09-28", "Paterna", "Merluza en salsa verde", 1],
+  ["2026-09-30", "Valencia - Benimaclet", "Merluza en salsa verde", 0, "Estaba sosa"],
+  ["2026-10-02", "Paterna", "Merluza en salsa verde", 0, "Muy cara"],
+  ["2026-10-03", "Alboraya", "Merluza en salsa verde", 1],
+  ["2026-10-05", "Valencia - Ruzafa", "Merluza en salsa verde", 1],
+];
+
+// Lo que escribe el agente redactor (texto libre: hay que cambiarlo a mano si cambian los datos de arriba).
+const RESUMEN =
+  "Buena semana: ocho de cada diez platos de Merche han gustado y el pan de pueblo, la pizza fresca y el kéfir se llevan los mejores comentarios. " +
+  "Hay cuatro puntos que conviene revisar: el atún en lata, que en las cuatro tiendas llega con más aceite del esperado; " +
+  "los yogures de Paterna, con la fecha de caducidad muy justa; la falta de hummus en Alboraya, y la bolsa de espinacas, grande para hogares de una persona.";
+
+// Acción que propone el redactor para cada punto a revisar, por producto.
+const ACCIONES = {
+  "Atún en lata": "Trasladar al proveedor la proporción de aceite; se repite en todas las tiendas.",
+  "Yogur natural": "Revisar la rotación de lácteos en la tienda de Paterna.",
+  "Hummus": "Ajustar el pedido y la reposición de hummus en Alboraya.",
+  "Espinacas en bolsa": "Estudiar un formato más pequeño para hogares de una persona.",
+};
+
+// ─────────────────────────────────────────────────────────────────────────────────────────────
+// Hace de agregador: cuenta y agrupa los datos de arriba. Misma regla que app/logic/mas.py.
+const UMBRAL = 3; // quejas iguales a partir de las cuales un tema es un punto a revisar
+const MESES = ["ene", "feb", "mar", "abr", "may", "jun", "jul", "ago", "sep", "oct", "nov", "dic"];
+const dia = (f) => `${+f.slice(8)} ${MESES[+f.slice(5, 7) - 1]}`;
+const color = (c) => `var(--${c}, var(--otro))`;
+const contar = (lista) => lista.reduce((m, x) => ((m[x] = (m[x] || 0) + 1), m), {});
+
+const grupos = {};
+for (const [fecha, tienda, sujeto, categoria, tipo, texto] of COMENTARIOS) {
+  const g = (grupos[[sujeto, categoria, tipo]] ??= { sujeto, categoria, tipo, fechas: [], tiendas: [], textos: [] });
+  g.fechas.push(fecha); g.tiendas.push(tienda); g.textos.push(texto);
+}
+const temas = Object.values(grupos).map((g) => ({
+  ...g,
+  menciones: g.textos.length,
+  fechas: g.fechas.sort(),
+  tiendas: Object.entries(contar(g.tiendas)).sort((a, b) => b[1] - a[1]),
+  revisar: g.tipo === "queja" && (g.categoria === "seguridad" || g.textos.length >= UMBRAL),
+})).sort((a, b) => b.menciones - a.menciones);
+const puntos = temas.filter((t) => t.revisar);
+const gusta = temas.filter((t) => t.tipo === "elogio");
+const otros = temas.filter((t) => !t.revisar && t.tipo !== "elogio");
+
+const platos = {};
+for (const [, , nombre, valor, motivo] of VALORACIONES) {
+  const p = (platos[nombre] ??= { nombre, si: 0, no: 0, motivos: [] });
+  valor ? p.si++ : p.no++;
+  if (motivo) p.motivos.push(motivo);
+}
+const listaPlatos = Object.values(platos).sort((a, b) => b.si / (b.si + b.no) - a.si / (a.si + a.no));
+
+const tipos = contar(COMENTARIOS.map((c) => c[4]));
+const fechas = [...COMENTARIOS, ...VALORACIONES].map((x) => x[0]).sort();
+const tiendas = new Set([...COMENTARIOS, ...VALORACIONES].map((x) => x[1]));
+const positivos = VALORACIONES.filter((v) => v[3]).length;
+
+const punto = (a) => `
+  <article class="tarjeta punto">
+    <div class="arriba">
+      <div style="flex:1">
+        <span class="chip" style="--c:${color(a.categoria)}">${a.categoria}</span>
+        <h3>${a.sujeto}</h3>
+        <div class="fechas">Del ${dia(a.fechas[0])} al ${dia(a.fechas.at(-1))}</div>
+      </div>
+      <div class="n">${a.menciones}<small>menciones</small></div>
+    </div>
+    <p class="cita">«${a.textos[0]}»</p>
+    <div class="tiendas">${a.tiendas.map(([t, n]) => `
+      <div class="tienda"><span>${t}</span><div class="barra"><i style="width:${(100 * n) / a.tiendas[0][1]}%"></i></div><b>${n}</b></div>`).join("")}
+    </div>
+    ${ACCIONES[a.sujeto] ? `<div class="accion"><span class="etiqueta">Acción propuesta</span>${ACCIONES[a.sujeto]}</div>` : ""}
+  </article>`;
+
+const tema = (t) => `
+  <div class="tema"><div><b>${t.sujeto}</b><span class="chip" style="--c:${color(t.categoria)}">${t.categoria}</span><p>«${t.textos[0]}»</p></div><span>${t.menciones}</span></div>`;
+
+const plato = (p) => {
+  const motivo = Object.entries(contar(p.motivos)).sort((a, b) => b[1] - a[1])[0];
+  return `<div class="plato">
+    <b>${p.nombre}${motivo && p.no > 1 ? `<small>A mejorar: «${motivo[0].toLowerCase()}»</small>` : ""}</b>
+    <div class="pulgar"><i style="flex:${p.si}"></i><i style="flex:${p.no}"></i></div>
+    <span>👍 ${p.si} · 👎 ${p.no}</span></div>`;
+};
+
+document.getElementById("pagina").innerHTML = `
+  <div class="cabecera">
+    <div>
+      <h1>Merche</h1>
+      <h2>Informe del Jefe</h2>
+      <p>Lo que los Jefes le han contado a Merche después de comprar, ordenado para Mercadona.</p>
+    </div>
+    <div class="meta"><b>${dia(fechas[0])} – ${dia(fechas.at(-1))} ${fechas.at(-1).slice(0, 4)}</b><span>${ZONA} · ${tiendas.size} tiendas</span><span class="etiqueta demo">Prototipo · datos simulados</span></div>
+  </div>
+
+  <div class="cifras">
+    <div class="cifra verde"><span class="etiqueta">Platos de Merche</span><b>${Math.round((100 * positivos) / VALORACIONES.length)} %</b><span>de valoraciones positivas</span>
+      <div class="reparto"><i style="flex:${positivos};background:var(--marca)"></i><i style="flex:${VALORACIONES.length - positivos};background:var(--mejorable)"></i></div>
+      <div class="leyenda"><span>${VALORACIONES.length} valoraciones 👍/👎</span></div>
+    </div>
+    <div class="cifra"><span class="etiqueta">Comentarios</span><b>${COMENTARIOS.length}</b><span>sobre productos y recetas</span>
+      <div class="reparto"><i style="flex:${tipos.elogio || 0};background:var(--marca)"></i><i style="flex:${tipos.sugerencia || 0};background:var(--idea)"></i><i style="flex:${tipos.queja || 0};background:var(--mejorable)"></i></div>
+      <div class="leyenda"><span><i style="background:var(--marca)"></i>${tipos.elogio || 0} elogios</span><span><i style="background:var(--idea)"></i>${tipos.sugerencia || 0} ideas</span><span><i style="background:var(--mejorable)"></i>${tipos.queja || 0} a mejorar</span></div>
+    </div>
+    <div class="cifra verde"><span class="etiqueta">Puntos a revisar</span><b>${puntos.length}</b><span>con acción propuesta</span></div>
+    <div class="cifra"><span class="etiqueta">Tiendas</span><b>${tiendas.size}</b><span>con opiniones de sus Jefes</span></div>
+  </div>
+
+  <div class="resumen">
+    <div class="redactor"><div class="avatar"><svg><use href="#chef"/></svg></div><div><span class="etiqueta">Resumen del agente redactor</span><p>${RESUMEN}</p></div></div>
+    <div class="tarjeta agentes"><span class="etiqueta">Cómo se ha generado</span>
+      <ol>
+        <li><b>1</b><div>Analista <em>· clasifica cada comentario</em></div><span class="ia">IA</span></li>
+        <li><b>2</b><div>Catálogo <em>· lo enlaza a un producto</em></div></li>
+        <li><b>3</b><div>Agregador <em>· cuenta por tienda y fecha</em></div></li>
+        <li><b>4</b><div>Redactor <em>· resume y propone</em></div><span class="ia">IA</span></li>
+      </ol>
+    </div>
+  </div>
+
+  <section class="seccion">
+    <h2>Puntos a revisar</h2>
+    <span class="etiqueta">Temas en los que coinciden ${UMBRAL} o más Jefes</span>
+    <div class="puntos">${puntos.map(punto).join("")}</div>
+  </section>
+
+  <section class="seccion dos">
+    <div class="tarjeta">
+      <h2>Qué más dicen los Jefes</h2>
+      <span class="etiqueta">Lo que más gusta</span>
+      ${gusta.map(tema).join("")}
+      <span class="etiqueta">Ideas y otros comentarios</span>
+      ${otros.map(tema).join("")}
+    </div>
+    <div class="tarjeta">
+      <h2>Valoración de los platos de Merche</h2>
+      ${listaPlatos.map(plato).join("")}
+    </div>
+  </section>
+
+  <footer class="etiqueta">Generado por el sistema de agentes de Merche Planifica · ${COMENTARIOS.length} comentarios y ${VALORACIONES.length} valoraciones · Equipo Fuet · <a href="chat.html">Ver cómo se recogen →</a></footer>`;
+</script>
+</body>
+</html>

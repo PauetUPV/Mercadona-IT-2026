@@ -29,6 +29,8 @@ def redactar(h: dict) -> tuple[str, Optional[str]]:
         texto = f"Añadido: {h['producto']}."
     elif tipo == "extra_quitado":
         texto = f"Quitado: {h['producto']}."
+    elif tipo == "opinion":
+        texto = "Gracias por contármelo. Se lo paso a Mercadona."
     elif tipo == "inviable":
         texto = (
             f"Con {euros(h['presupuesto'])} no puede ser para {h['comensales']} persona(s) y {h['n_comidas']} comida(s): "

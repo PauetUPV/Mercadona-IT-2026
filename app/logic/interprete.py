@@ -10,7 +10,7 @@ from pydantic import BaseModel, Field
 
 from app.logic.texto import DIAS_SEMANA, norm
 
-Accion = Literal["plan", "cambiar_plato", "anadir_extra", "quitar_extra", "charla"]
+Accion = Literal["plan", "cambiar_plato", "anadir_extra", "quitar_extra", "opinion", "charla"]
 Momento = Literal["comida", "cena"]
 ETIQUETAS = ["carne", "pescado", "gluten", "lactosa", "huevo", "soja"]
 
@@ -107,6 +107,12 @@ def _producto_tras(verbo_re: str, n: str) -> Optional[str]:
     return producto or None
 
 
+_OPINION = re.compile(
+    r"\b(quejas?|quejarme|sugerencias?|sugiero|reclamacion|diselo a mercadona|dile a mercadona"
+    r"|demasiad[oa]s?|caducad[oa]s?|en mal estado|podrid[oa]s?|moho)\b"
+)
+
+
 def interpretar(mensaje: str) -> Interpretacion:
     res = Interpretacion()
     n = norm(mensaje)
@@ -158,6 +164,10 @@ def interpretar(mensaje: str) -> Interpretacion:
         return res
     if re.fullmatch(r"\W*(hola|buenas|buenos dias|buenas tardes|hey)\W*", n):
         res.respuesta = "¡Hola! Soy Merche. Dime para cuántas personas es el plan y lo preparo."
+        return res
+
+    if not res.aporta_datos and _OPINION.search(n):  # queja o sugerencia para Mercadona
+        res.accion = "opinion"
         return res
 
     anadir = _producto_tras(r"anade|anademe|apuntame|apunta|ponme|pon", n)

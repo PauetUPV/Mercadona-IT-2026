@@ -7,14 +7,14 @@ import uuid
 from typing import Optional
 
 from app.data import catalogo
-from app.logic import agente, apertura, planificador, sesiones, sugerencias
+from app.logic import agente, apertura, opiniones, planificador, sesiones, sugerencias
 from app.logic.carrito import total_plan
 from app.logic.errores import DatosInvalidos, Inviable, NoEncontrado, SinAlternativa
 from app.logic.interprete import Interpretacion
 from app.logic.planificador import Peticion
 from app.logic.sesiones import Sesion
 from app.logic.texto import DIAS_SEMANA, norm
-from app.models.schemas import ChatRequest, ChatResponse, FeedbackRequest, FeedbackResponse, ListaRequest, ListaResponse, MensajeChat, PlanResponse
+from app.models.schemas import ChatRequest, ChatResponse, FeedbackRequest, FeedbackResponse, ListaRequest, ListaResponse, MensajeChat, OpinionRequest, OpinionResponse, PlanResponse
 
 # NUEVO: Importamos el cerebro de la IA
 from app.logic.llm import consultar_llm
@@ -129,6 +129,9 @@ def procesar(req: ChatRequest) -> ChatResponse:
         hechos, plan = _cambiar_plato(sesion, i)
     elif i.accion in ("anadir_extra", "quitar_extra"):
         hechos, plan = _extra(sesion, i, anadir=i.accion == "anadir_extra")
+    elif i.accion == "opinion":  # queja o sugerencia: se guarda para el informe de Mercadona
+        opiniones.registrar(sesion.id, texto=req.mensaje)
+        hechos, plan = {"tipo": "opinion", "exito": True}, None
     else:
         hechos, plan = ({"tipo": "charla", "respuesta": i.respuesta} if i.respuesta else {"tipo": "no_entiendo"}), None
 
@@ -162,6 +165,7 @@ def registrar_feedback(req: FeedbackRequest) -> FeedbackResponse:
     if sesion is None:
         raise NoEncontrado(f"Sesión {req.session_id} no existe")
     sesion.feedback.append(req.model_dump())
+    opiniones.registrar(sesion.id, texto=req.motivo, valor=req.valor, sujeto_tipo=req.sujeto.tipo, sujeto_id=req.sujeto.id)
     if req.valor == "negativo" and req.sujeto.tipo == "receta" and req.sujeto.id not in sesion.rechazadas:
         sesion.rechazadas.append(req.sujeto.id)
     sesiones.guardar(sesion)
@@ -171,4 +175,22 @@ def registrar_feedback(req: FeedbackRequest) -> FeedbackResponse:
     siguiente = apertura.sujeto_pendiente(sesion)
     if siguiente:
         return FeedbackResponse(mensaje=f"{gracias} ¿Y qué tal salió «{siguiente.nombre}»?", feedback=siguiente)
-    return FeedbackResponse(mensaje=f"{gracias} Lo tendré en cuenta para la próxima semana.")
+    return FeedbackResponse(
+        mensaje=f"{gracias} Lo tendré en cuenta para la próxima semana. "
+        "Si tienes alguna queja o sugerencia sobre algún producto, cuéntamela y se la paso a Mercadona."
+    )
+
+
+def registrar_opinion(req: OpinionRequest) -> OpinionResponse:
+    """Queja o sugerencia en texto libre, fuera del chat (p. ej. desde un formulario de la interfaz)."""
+    if sesiones.buscar(req.session_id) is None:
+        raise NoEncontrado(f"Sesión {req.session_id} no existe")
+    sujeto = req.sujeto
+    opiniones.registrar(
+        req.session_id,
+        texto=req.texto,
+        sujeto_tipo=sujeto.tipo if sujeto else None,
+        sujeto_id=sujeto.id if sujeto else None,
+        tienda=req.tienda,
+    )
+    return OpinionResponse(mensaje="Gracias por contármelo. Se lo paso a Mercadona.")

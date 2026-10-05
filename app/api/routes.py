@@ -3,7 +3,7 @@ from typing import Optional
 from fastapi import APIRouter, Query
 
 from app.data import catalogo
-from app.logic import apertura, chat, sesiones
+from app.logic import apertura, chat, mas, sesiones
 from app.logic.errores import NoEncontrado
 from app.models.schemas import (
     ChatHistorial,
@@ -11,8 +11,11 @@ from app.models.schemas import (
     ChatResponse,
     FeedbackRequest,
     FeedbackResponse,
+    Informe,
     ListaRequest,
     ListaResponse,
+    OpinionRequest,
+    OpinionResponse,
     Producto,
 )
 
@@ -55,6 +58,18 @@ def guardar_lista(peticion: ListaRequest):
 def feedback(peticion: FeedbackRequest):
     """Valoración de una receta o producto (👍/👎). Provisional."""
     return chat.registrar_feedback(peticion)
+
+
+@router.post("/opinion", response_model=OpinionResponse)
+def opinion(peticion: OpinionRequest):
+    """Queja o sugerencia del cliente en texto libre; alimenta el informe para Mercadona."""
+    return chat.registrar_opinion(peticion)
+
+
+@router.get("/informe", response_model=Informe)
+def informe():
+    """Lado Mercadona: lo que opinan los clientes, ordenado por el sistema de agentes."""
+    return mas.generar_informe()
 
 
 @router.get("/productos", response_model=list[Producto])

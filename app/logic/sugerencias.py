@@ -47,7 +47,7 @@ def para(hechos: dict, sesion: Sesion) -> list[str]:
         chips = PEDIR_COMENSALES + ([PEDIR_PLAN] if tipo == "sin_plan" else [])
     elif tipo == "rechazo" and "personas" in hechos.get("motivo", ""):
         chips = ["Somos 2", "Somos 4"]
-    elif tipo in ("charla", "no_entiendo"):
+    elif tipo in ("charla", "opinion", "no_entiendo"):
         chips = _chips_del_plan(sesion) if sesion.plan else [PEDIR_PLAN]
     else:
         chips = []

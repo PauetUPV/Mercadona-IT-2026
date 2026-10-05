@@ -244,6 +244,8 @@ Estos son todos los que necesita el frontend:
 | POST | `/lista` | Guardar la lista final del usuario (ver arriba) |
 | GET | `/bienvenida?session_id=` | **(NUEVO)** Primer mensaje de Merche al abrir la conversación (ver abajo) |
 | POST | `/feedback` | **(NUEVO)** Valoración 👍/👎 (ver abajo) |
+| POST | `/opinion` | **(NUEVO)** Queja o sugerencia en texto libre (ver abajo) |
+| GET | `/informe` | **(NUEVO)** Lado Mercadona: informe de opiniones (ver abajo) |
 | GET | `/productos?q=&categoria=&precio_max=&limite=` | Buscar en el catálogo real (búsqueda de productos del frontend) |
 | GET | `/health` | Comprobación |
 
@@ -302,7 +304,62 @@ Respuesta: `{ "mensaje"?: "...", "sugerencias"?: ["Estaba soso", "Muy caro", "No
 - **Máximo 3 platos por lista guardada**, para no agobiar; después `feedback` deja de venir.
 - 404 si la sesión no existe.
 
+## (NUEVO) Quejas y sugerencias, e informe para Mercadona
+
+Además del 👍/👎, el cliente puede contar cualquier cosa sobre un producto o una receta
+("las latas de atún vienen con demasiado aceite"). Hay dos caminos, y los dos acaban en el mismo sitio:
+
+- **Por chat** (no hay que tocar la interfaz): `/chat` reconoce la acción `opinion`, la guarda y Merche contesta que se lo pasa a
+  Mercadona. No lleva `plan`. Al terminar las valoraciones, Merche invita a hacerlo.
+- **`POST /opinion`**, para un formulario propio:
+  `{ "session_id", "texto", "sujeto"?: { "tipo": "receta" | "producto", "id" }, "tienda"?: "Paterna" }` → `{ "mensaje" }`.
+  404 si la sesión no existe.
+
+Todas las opiniones (las valoraciones de `/feedback` con su motivo y estos comentarios) se guardan con fecha en
+`.estado/opiniones.jsonl`, de todas las sesiones juntas.
+
+### GET /informe (lado Mercadona)
+
+Lo genera el sistema de agentes de `app/logic/mas.py`:
+
+```
+opiniones -> ANALISTA (Gemini) -> CATÁLOGO (código) -> AGREGADOR (código) -> REDACTOR (Gemini) -> informe
+```
+
+| Agente | Qué hace | Sin Gemini |
+|---|---|---|
+| Analista | Clasifica cada comentario: `tipo` (queja, sugerencia, elogio), `categoria`, producto del que habla y un resumen limpio. Por lotes de 20 | Palabras clave |
+| Catálogo | Sitúa el comentario en un producto del catálogo, una receta o "general" | (es código) |
+| Agregador | Junta los que dicen lo mismo, cuenta por tienda y fecha y marca las alertas | (es código) |
+| Redactor | Escribe el `resumen` y propone una `accion` por tema | Plantilla, sin `accion` |
+
+```json
+{
+  "generado": "2026-10-05T18:30:00",
+  "opiniones": 32, "clientes": 32,
+  "resumen": "Lo más urgente es el pollo de Paterna...",
+  "temas": [
+    { "sujeto_tipo": "producto", "sujeto": "Atún", "producto_id": "18086", "categoria": "calidad", "tipo": "queja",
+      "menciones": 9, "clientes": 9, "tiendas": { "Alboraya": 4, "Paterna": 1 },
+      "desde": "2026-09-23", "hasta": "2026-10-04", "alerta": true,
+      "ejemplos": ["El atún en lata lleva demasiado aceite."], "accion": "Revisar el formato con el proveedor." }
+  ],
+  "valoraciones": [ { "tipo": "receta", "id": "r1", "nombre": "Pollo al horno con patatas", "positivos": 3, "negativos": 1 } ]
+}
+```
+
+- `categoria`: `seguridad`, `calidad`, `sabor`, `formato`, `precio`, `disponibilidad`, `receta`, `otro`.
+- `alerta`: una queja de `seguridad` (caducado, mal estado...) avisa con **un solo caso**; el resto, a partir de **3** quejas iguales.
+  Lo decide el código, no el LLM. Los temas vienen con las alertas primero.
+- `producto_id` es **aproximado** cuando el cliente nombra el producto en el texto ("atún" → el atún más habitual del catálogo);
+  es exacto solo si la opinión venía con `sujeto` de tipo `producto`.
+- `tiendas` solo cuenta las opiniones que traen `tienda` (hoy, las de `POST /opinion` y las de la demo).
+- Lo que analiza Gemini se guarda en `.estado/opiniones_analisis.jsonl` y no se vuelve a preguntar; cada `GET /informe` gasta
+  una llamada del redactor más una por cada 20 comentarios nuevos.
+- Datos de demo: `PYTHONPATH=. python scripts/generar_opiniones_demo.py`.
+
 ### Todavía pendiente
+- Que la interfaz envíe la **tienda** del cliente (por chat y en `/feedback` hoy no se conoce).
 - Valoración de **productos** (hoy Merche solo pregunta por recetas; el backend ya acepta `tipo: "producto"`).
 - Que el feedback influya en el plan más allá de "no repetir" (p. ej. preferir platos con 👍).
 
@@ -339,7 +396,7 @@ Es lo que permite que "mejor 25 euros" o "cambia el lunes" funcionen sin repetir
 | Feedback | valoraciones de `/feedback` | el usuario valora |
 
 Clasificación de lo que dice el usuario: cada mensaje se convierte en una acción: `plan` (datos o plan nuevo), `cambiar_plato`,
-`anadir_extra`, `quitar_extra` o `charla`, más los datos que traiga (personas, presupuesto, días, momentos, `excluir`...).
+`anadir_extra`, `quitar_extra`, `opinion` o `charla`, más los datos que traiga (personas, presupuesto, días, momentos, `excluir`...).
 `excluir` usa etiquetas fijas que llevan las recetas: `carne`, `pescado`, `gluten`, `lactosa`, `huevo`, `soja`
 (vegetariano = carne + pescado; vegano = carne + pescado + huevo + lactosa). Cada receta del plan trae sus `etiquetas`.
 
@@ -367,7 +424,7 @@ python -m venv venv
 venv\Scripts\activate          # Linux/Mac: source venv/bin/activate
 pip install -r requirements.txt -r requirements-dev.txt
 uvicorn main:app --reload
-pytest                      # 66 tests, sin red ni Gemini (siempre simulado)
+pytest                      # 73 tests, sin red ni Gemini (siempre simulado)
 
 # Probar a mano: Swagger en http://localhost:8000/docs, o con curl:
 curl -X POST localhost:8000/chat -H "content-type: application/json" -d '{"session_id":"demo","mensaje":"Somos 2, 60 euros y el martes no cocino"}'

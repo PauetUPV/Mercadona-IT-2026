@@ -1,0 +1,199 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Feedback del Jefe · Merche Planifica</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  /* Misma estética que la app (Interfaz/src/index.css) */
+  :root {
+    --marca: #429464; --marca-oscura: #1f4a32; --marca-tinte: #e1f0e7; --marca-lavado: #eef6f1; --marca-ficha: #e8f3ec;
+    --fondo: #f7faf8; --papel: #ffffff; --gris: #f0f3f1; --tinta: #15231d; --tinta-2: #4d5b54; --tinta-3: #7b8781;
+    --linea: rgba(0, 0, 0, .06); --sombra: 0 8px 30px rgba(28, 52, 42, .07);
+    --calidad: #b7791f;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--fondo); color: var(--tinta); font: 15px/1.45 "DM Sans", ui-sans-serif, system-ui, sans-serif; }
+  h1, h2, h3, p { margin: 0; }
+  svg { fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+  .pagina { max-width: 1120px; min-height: 100vh; margin: 0 auto; background: var(--papel); box-shadow: 0 0 80px rgba(27, 62, 49, .08); padding: 36px 48px 40px; }
+
+  .cabecera { display: flex; align-items: flex-end; gap: 20px; flex-wrap: wrap; margin-bottom: 30px; }
+  .cabecera > div:first-child { flex: 1; min-width: 260px; }
+  h1 { font-size: 38px; font-weight: 800; line-height: 1; letter-spacing: -.05em; }
+  .cabecera h2 { font-size: 26px; font-weight: 800; letter-spacing: -.03em; margin-top: 18px; }
+  .cabecera p { color: var(--tinta-2); font-size: 17px; margin-top: 8px; max-width: 600px; }
+  .etiqueta { font-size: 11px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; color: var(--tinta-3); }
+  .demo { display: inline-block; padding: 5px 12px; border-radius: 99px; background: var(--gris); }
+
+  .pasos { display: grid; grid-template-columns: repeat(3, 1fr); gap: 22px; align-items: start; }
+  .paso .etiqueta { color: var(--marca); display: flex; align-items: center; gap: 6px; }
+  .paso h3 { font-size: 18px; font-weight: 800; letter-spacing: -.02em; margin-top: 4px; }
+  .paso > p { color: var(--tinta-2); font-size: 13.5px; margin: 6px 0 14px; min-height: 58px; }
+
+  /* Móvil */
+  .movil { max-width: 330px; margin: 0 auto; background: var(--marca-oscura); border-radius: 42px; padding: 9px; box-shadow: 0 18px 40px rgba(27, 62, 49, .18); }
+  .pantalla { background: var(--papel); border-radius: 34px; overflow: hidden; display: flex; flex-direction: column; height: 720px; }
+  .arriba { padding: 20px 16px 6px; display: flex; align-items: center; gap: 8px; font-size: 21px; font-weight: 800; letter-spacing: -.05em; }
+  .arriba svg { width: 18px; height: 18px; color: var(--marca-oscura); stroke-width: 2.4; }
+  .hilo { flex: 1; padding: 8px 14px; display: flex; flex-direction: column; gap: 9px; overflow: hidden; font-size: 13px; }
+
+  .merche { display: flex; gap: 7px; align-items: flex-start; max-width: 94%; }
+  .avatar { width: 28px; height: 28px; flex: none; border-radius: 10px; background: var(--marca); color: #fff; display: grid; place-items: center; box-shadow: 0 5px 12px rgba(66, 148, 100, .2); }
+  .avatar svg { width: 15px; height: 15px; }
+  .merche p { background: var(--gris); border-radius: 18px; border-top-left-radius: 6px; padding: 9px 12px; line-height: 1.4; }
+  .yo { align-self: flex-end; max-width: 82%; background: var(--marca); color: #fff; border-radius: 18px; border-bottom-right-radius: 6px; padding: 9px 12px; line-height: 1.4; box-shadow: 0 8px 18px rgba(66, 148, 100, .18); }
+  .nota { align-self: center; }
+  .sangria { margin-left: 35px; }
+
+  .chips { display: flex; flex-wrap: wrap; gap: 6px; }
+  .chips span { border: 1.5px solid var(--marca); color: var(--marca); border-radius: 99px; padding: 5px 11px; font-size: 12px; font-weight: 700; }
+  .chips span.on { background: var(--marca); color: #fff; }
+
+  .ficha { background: var(--papel); border: 1px solid var(--linea); border-radius: 18px; padding: 10px 12px; box-shadow: var(--sombra); }
+  .plato { display: flex; gap: 10px; align-items: center; }
+  .plato .foto { width: 42px; height: 42px; border-radius: 12px; background: #f4eee1; display: grid; place-items: center; font-size: 22px; flex: none; }
+  .plato b { display: block; font-size: 13px; line-height: 1.25; }
+  .pulgares { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-top: 9px; }
+  .pulgares span { text-align: center; padding: 5px; border-radius: 99px; border: 1.5px solid var(--marca); font-size: 15px; }
+  .pulgares span.on { background: var(--marca); }
+
+  .tienda { display: flex; gap: 9px; align-items: center; padding: 8px 0; border-top: 1px solid var(--linea); }
+  .tienda:first-child { border-top: 0; padding-top: 2px; } .tienda:last-child { padding-bottom: 2px; }
+  .tienda i { width: 17px; height: 17px; border-radius: 5px; border: 1.5px solid #c5cdc8; flex: none; display: grid; place-items: center; }
+  .tienda.on i { background: var(--marca); border-color: var(--marca); }
+  .tienda.on i::after { content: ""; width: 8px; height: 4px; border-left: 2px solid #fff; border-bottom: 2px solid #fff; transform: rotate(-45deg) translateY(-1px); }
+  .tienda b { font-size: 13px; } .tienda small { display: block; color: var(--tinta-3); font-size: 11.5px; }
+  .tienda em { font-style: normal; margin-left: 6px; font-size: 10px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--marca); }
+
+  .enviado { background: var(--marca-ficha); border-radius: 18px; padding: 10px 12px; }
+  .enviado .etiqueta { color: var(--marca); display: flex; align-items: center; gap: 5px; margin-bottom: 6px; }
+  .enviado .etiqueta svg { width: 13px; height: 13px; stroke-width: 2.6; }
+  .dato { display: inline-block; background: var(--papel); border-radius: 99px; padding: 2px 9px; font-size: 11.5px; font-weight: 600; margin: 2px 2px 0 0; }
+
+  .escribir { margin: 4px 12px 10px; background: var(--gris); border-radius: 99px; padding: 6px 6px 6px 12px; color: var(--tinta-3); font-size: 12.5px; display: flex; align-items: center; gap: 8px; }
+  .escribir > svg { width: 15px; height: 15px; } .escribir span { flex: 1; }
+  .escribir b { width: 30px; height: 30px; border-radius: 99px; background: var(--marca-oscura); color: #fff; display: grid; place-items: center; }
+  .escribir b svg { width: 14px; height: 14px; }
+  .nav { display: flex; justify-content: space-around; border-top: 1px solid var(--linea); padding: 7px 6px 10px; font-size: 10px; color: var(--tinta-2); }
+  .nav div { display: grid; justify-items: center; gap: 2px; padding: 4px 9px; border-radius: 12px; }
+  .nav svg { width: 16px; height: 16px; stroke-width: 1.8; }
+  .nav .on { background: var(--marca-tinte); color: var(--marca-oscura); font-weight: 700; }
+
+  .destino { margin-top: 30px; background: var(--marca-ficha); border-radius: 24px; padding: 20px 24px; display: flex; gap: 18px; align-items: center; flex-wrap: wrap; }
+  .destino p { flex: 1; min-width: 260px; font-size: 16px; color: var(--tinta-2); } .destino p b { color: var(--tinta); }
+  .destino a { background: var(--marca); color: #fff; text-decoration: none; font-weight: 700; padding: 12px 20px; border-radius: 99px; font-size: 14px; }
+  footer { margin-top: 24px; text-align: center; }
+
+  @media (max-width: 1000px) { .pasos { grid-template-columns: 1fr; gap: 36px; } .paso > p { min-height: 0; } .pagina { padding: 28px 20px 36px; } }
+</style>
+</head>
+<body>
+<svg width="0" height="0" style="position:absolute">
+  <symbol id="chef" viewBox="0 0 24 24"><path d="M17 21a1 1 0 0 0 1-1v-5.35c0-.457.316-.844.727-1.041a4 4 0 0 0-2.134-7.589 5 5 0 0 0-9.186 0 4 4 0 0 0-2.134 7.588c.411.198.727.585.727 1.041V20a1 1 0 0 0 1 1Z"/><path d="M6 17h12"/></symbol>
+  <symbol id="atras" viewBox="0 0 24 24"><path d="m15 18-6-6 6-6"/></symbol>
+  <symbol id="enviar" viewBox="0 0 24 24"><path d="M21 3 10.5 13.5"/><path d="m21 3-6.5 18-4-7.5L3 9.500Z"/></symbol>
+  <symbol id="ok" viewBox="0 0 24 24"><path d="m5 12.500 4.500 4.500L19 7"/></symbol>
+  <symbol id="inicio" viewBox="0 0 24 24"><path d="M3 10.500 12 3l9 7.500V20a1 1 0 0 1-1 1h-5v-6H9v6H4a1 1 0 0 1-1-1Z"/></symbol>
+  <symbol id="categorias" viewBox="0 0 24 24"><rect x="3" y="3" width="7" height="7" rx="1.500"/><rect x="14" y="3" width="7" height="7" rx="1.500"/><rect x="3" y="14" width="7" height="7" rx="1.500"/><rect x="14" y="14" width="7" height="7" rx="1.500"/></symbol>
+  <symbol id="buscar" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.300-4.300"/></symbol>
+  <symbol id="listas" viewBox="0 0 24 24"><path d="M8 6h13M8 12h13M8 18h13M3.500 6h.01M3.500 12h.01M3.500 18h.01"/></symbol>
+  <symbol id="cuenta" viewBox="0 0 24 24"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></symbol>
+</svg>
+
+<div class="pagina">
+  <div class="cabecera">
+    <div>
+      <h1>Merche</h1>
+      <h2>Así opina el Jefe</h2>
+      <p>Después de cada compra, Merche pregunta qué tal ha ido. Menos de un minuto, sin salir del chat.</p>
+    </div>
+    <span class="etiqueta demo">Prototipo · datos simulados</span>
+  </div>
+
+  <div class="pasos">
+    <!-- 1. Tienda -->
+    <section class="paso">
+      <div class="etiqueta">Paso 1 · antes de comprar</div>
+      <h3>¿En qué tienda vas a comprar?</h3>
+      <p>Al guardar la lista, Merche pregunta dónde va a comprar. Así cada opinión llega con su tienda.</p>
+      <div class="movil"><div class="pantalla">
+        <div class="arriba"><svg><use href="#atras"/></svg>Merche</div>
+        <div class="hilo">
+          <div class="yo">Añadir en una nueva lista</div>
+          <div class="merche"><div class="avatar"><svg><use href="#chef"/></svg></div><p>¡Lista guardada! ¿En qué tienda vas a hacer la compra?</p></div>
+          <div class="ficha sangria">
+            <div class="tienda on"><i></i><div><b>Paterna</b><em>La de siempre</em><small>C/ Mayor, 12 · a 600 m</small></div></div>
+            <div class="tienda"><i></i><div><b>Alboraya</b><small>Av. de la Horchata, 3 · a 2,1 km</small></div></div>
+            <div class="tienda"><i></i><div><b>Otra tienda…</b></div></div>
+          </div>
+          <div class="yo">Paterna</div>
+          <div class="merche"><div class="avatar"><svg><use href="#chef"/></svg></div><p>Perfecto. La próxima vez que hablemos te pregunto qué tal ha salido todo.</p></div>
+        </div>
+        <div class="escribir"><svg><use href="#chef"/></svg><span>Pídele a Merche un cambio…</span><b><svg><use href="#enviar"/></svg></b></div>
+        <div class="nav"><div><svg><use href="#inicio"/></svg>Inicio</div><div><svg><use href="#categorias"/></svg>Categorías</div><div class="on"><svg><use href="#buscar"/></svg>Merche</div><div><svg><use href="#listas"/></svg>Listas</div><div><svg><use href="#cuenta"/></svg>Cuenta</div></div>
+      </div></div>
+    </section>
+
+    <!-- 2. Platos -->
+    <section class="paso">
+      <div class="etiqueta">Paso 2 · a la vuelta</div>
+      <h3>¿Qué tal los platos?</h3>
+      <p>Un toque por plato, tres como mucho. Si no gustó, Merche pregunta por qué y aprende para el siguiente plan.</p>
+      <div class="movil"><div class="pantalla">
+        <div class="arriba"><svg><use href="#atras"/></svg>Merche</div>
+        <div class="hilo">
+          <div class="etiqueta nota">Una semana después</div>
+          <div class="merche"><div class="avatar"><svg><use href="#chef"/></svg></div><p>¡Hola otra vez! Antes de planificar, ¿qué tal salió este plato?</p></div>
+          <div class="ficha sangria">
+            <div class="plato"><div class="foto">🍗</div><div><span class="etiqueta">Lunes</span><b>Pollo al horno con patatas</b></div></div>
+            <div class="pulgares"><span class="on">👍</span><span>👎</span></div>
+          </div>
+          <div class="merche"><div class="avatar"><svg><use href="#chef"/></svg></div><p>¡Me alegro! ¿Y este?</p></div>
+          <div class="ficha sangria">
+            <div class="plato"><div class="foto">🐟</div><div><span class="etiqueta">Miércoles</span><b>Merluza en salsa verde</b></div></div>
+            <div class="pulgares"><span>👍</span><span class="on">👎</span></div>
+          </div>
+          <div class="merche"><div class="avatar"><svg><use href="#chef"/></svg></div><p>Vaya, lo siento. ¿Qué falló?</p></div>
+          <div class="chips sangria"><span class="on">Estaba sosa</span><span>Muy cara</span><span>Otro</span></div>
+          <div class="merche"><div class="avatar"><svg><use href="#chef"/></svg></div><p>Gracias, no te la volveré a proponer.</p></div>
+        </div>
+        <div class="escribir"><svg><use href="#chef"/></svg><span>Pídele a Merche un cambio…</span><b><svg><use href="#enviar"/></svg></b></div>
+        <div class="nav"><div><svg><use href="#inicio"/></svg>Inicio</div><div><svg><use href="#categorias"/></svg>Categorías</div><div class="on"><svg><use href="#buscar"/></svg>Merche</div><div><svg><use href="#listas"/></svg>Listas</div><div><svg><use href="#cuenta"/></svg>Cuenta</div></div>
+      </div></div>
+    </section>
+
+    <!-- 3. Productos -->
+    <section class="paso">
+      <div class="etiqueta">Paso 3 · y lo último</div>
+      <h3>¿Algún problema con un producto?</h3>
+      <p>Una sola pregunta abierta. El Jefe lo cuenta con sus palabras y Merche se lo traslada a Mercadona.</p>
+      <div class="movil"><div class="pantalla">
+        <div class="arriba"><svg><use href="#atras"/></svg>Merche</div>
+        <div class="hilo">
+          <div class="merche"><div class="avatar"><svg><use href="#chef"/></svg></div><p>Y lo último: ¿has tenido algún problema con algún producto de la compra?</p></div>
+          <div class="chips sangria"><span>Todo bien</span><span class="on">Sí, te cuento</span></div>
+          <div class="yo">Las latas de atún vienen con demasiado aceite</div>
+          <div class="merche"><div class="avatar"><svg><use href="#chef"/></svg></div><p>Gracias por contármelo. Se lo paso a Mercadona.</p></div>
+          <div class="enviado sangria">
+            <div class="etiqueta"><svg><use href="#ok"/></svg>Enviado a Mercadona</div>
+            <span class="dato">Atún en lata</span><span class="dato" style="color:var(--calidad)">Calidad</span><span class="dato">Paterna</span><span class="dato">2 oct</span>
+          </div>
+          <div class="merche"><div class="avatar"><svg><use href="#chef"/></svg></div><p>¿Preparamos la semana que viene?</p></div>
+          <div class="chips sangria"><span>Hazme un plan para la semana</span></div>
+        </div>
+        <div class="escribir"><svg><use href="#chef"/></svg><span>Pídele a Merche un cambio…</span><b><svg><use href="#enviar"/></svg></b></div>
+        <div class="nav"><div><svg><use href="#inicio"/></svg>Inicio</div><div><svg><use href="#categorias"/></svg>Categorías</div><div class="on"><svg><use href="#buscar"/></svg>Merche</div><div><svg><use href="#listas"/></svg>Listas</div><div><svg><use href="#cuenta"/></svg>Cuenta</div></div>
+      </div></div>
+    </section>
+  </div>
+
+  <div class="destino">
+    <p><b>Cada pulgar y cada comentario llegan a Mercadona</b> con producto, tienda y fecha, y el sistema de agentes los ordena en el Informe del Jefe.</p>
+    <a href="informe.html">Ver el informe →</a>
+  </div>
+  <footer class="etiqueta">Merche Planifica · Equipo Fuet</footer>
+</div>
+</body>
+</html>
