@@ -1,7 +1,7 @@
 import { Fragment, useEffect, useRef, useState, type ReactNode } from "react";
 import { Icon } from "../../components/Icon";
 import type { MensajeChat, Plan, Receta } from "../../data/types";
-import { capitalizar, formatPrecio } from "../../lib/formato";
+import { capitalizar, formatCantidad, formatPrecio } from "../../lib/formato";
 import { costeIngrediente, diasOrdenados, imagenReceta, listaCompra, totalLista } from "../../lib/lista";
 
 const redondear = (eur: number) => Math.round(eur * 100) / 100;
@@ -174,12 +174,17 @@ export function ChatThread({
                                     onChange={() => toggleIngrediente(clave, receta, ing.producto.id)}
                                     className="h-5 w-5 shrink-0 accent-brand"
                                   />
-                                  <span
-                                    className={`min-w-0 flex-1 truncate text-[15px] font-semibold ${
-                                      marcado ? "" : "text-[#7b8781] line-through"
-                                    }`}
-                                  >
-                                    {ing.producto.nombre}
+                                  <span className="min-w-0 flex-1">
+                                    <span
+                                      className={`block truncate text-[15px] font-semibold ${
+                                        marcado ? "" : "text-[#7b8781] line-through"
+                                      }`}
+                                    >
+                                      {ing.producto.nombre}
+                                    </span>
+                                    <span className="block text-[13px] text-[#7b8781]">
+                                      {formatCantidad(ing.unidades, ing.producto.tamano, ing.producto.formato_tamano)}
+                                    </span>
                                   </span>
                                   <span className="text-[15px] text-[#4d5b54]">
                                     {formatPrecio(costeIngrediente(ing))}

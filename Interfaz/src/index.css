@@ -1,4 +1,3 @@
-@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&display=swap");
 @import "tailwindcss";
 
 /* Mercadona green. Change the base here; the rest are derived shades. */
@@ -11,10 +10,13 @@
   --color-brand-wash: #eef6f1;
   --color-brand-tile: #e8f3ec;
   --color-brand-tile-hover: #dbeae1;
+
+  /* System fonts: SF Pro on Apple devices (same as the iOS app), the native UI font elsewhere. */
+  --font-sans: -apple-system, BlinkMacSystemFont, "SF Pro Text", system-ui, "Segoe UI", Roboto, sans-serif;
 }
 
 :root {
-  font-family: "DM Sans", ui-sans-serif, system-ui, sans-serif;
+  font-family: var(--font-sans);
   color: #15231d;
   background: #f7faf8;
   font-synthesis: none;
