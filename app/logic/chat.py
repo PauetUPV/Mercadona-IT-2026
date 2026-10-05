@@ -7,7 +7,7 @@ import uuid
 from typing import Optional
 
 from app.data import catalogo
-from app.logic import agente, planificador, sesiones
+from app.logic import agente, apertura, planificador, sesiones, sugerencias
 from app.logic.carrito import total_plan
 from app.logic.errores import DatosInvalidos, Inviable, NoEncontrado, SinAlternativa
 from app.logic.interprete import Interpretacion
@@ -135,7 +135,10 @@ def procesar(req: ChatRequest) -> ChatResponse:
     mensaje, conclusion = agente.redactar(hechos, i)
     sesion.mensajes.append(MensajeChat(rol="asistente", texto=mensaje))
     sesiones.guardar(sesion)
-    return ChatResponse(session_id=sesion.id, mensaje=mensaje, mensaje_conclusion=conclusion, plan=plan)
+    chips = sugerencias.para(hechos, sesion)
+    return ChatResponse(
+        session_id=sesion.id, mensaje=mensaje, mensaje_conclusion=conclusion, plan=plan, sugerencias=chips or None
+    )
 
 
 def guardar_lista(req: ListaRequest) -> ListaResponse:
@@ -162,9 +165,10 @@ def registrar_feedback(req: FeedbackRequest) -> FeedbackResponse:
     if req.valor == "negativo" and req.sujeto.tipo == "receta" and req.sujeto.id not in sesion.rechazadas:
         sesion.rechazadas.append(req.sujeto.id)
     sesiones.guardar(sesion)
-    if req.valor == "positivo":
-        return FeedbackResponse(mensaje="¡Me alegro! Lo tendré en cuenta para la próxima semana.")
-    return FeedbackResponse(
-        mensaje="Vaya, lo siento. ¿Qué falló?" if not req.motivo else "Gracias, no te lo volveré a proponer.",
-        sugerencias=None if req.motivo else ["Estaba soso", "Muy caro", "No me gustó"],
-    )
+    if req.valor == "negativo" and not req.motivo:  # primero entendemos qué falló; luego seguimos preguntando
+        return FeedbackResponse(mensaje="Vaya, lo siento. ¿Qué falló?", sugerencias=["Estaba soso", "Muy caro", "No me gustó"])
+    gracias = "¡Me alegro!" if req.valor == "positivo" else "Gracias, no te lo volveré a proponer."
+    siguiente = apertura.sujeto_pendiente(sesion)
+    if siguiente:
+        return FeedbackResponse(mensaje=f"{gracias} ¿Y qué tal salió «{siguiente.nombre}»?", feedback=siguiente)
+    return FeedbackResponse(mensaje=f"{gracias} Lo tendré en cuenta para la próxima semana.")

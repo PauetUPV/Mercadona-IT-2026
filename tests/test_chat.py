@@ -166,6 +166,95 @@ def test_endpoints_retirados():
         assert client.post(ruta, json={}).status_code in (404, 405)
 
 
+# --- Chips, bienvenida y feedback iniciado por Merche ------------------------------------
+
+
+def test_chips_en_cada_situacion():
+    r = chat("quiero un plan")
+    assert r["sugerencias"][:2] == ["Somos 2", "Somos 4"]
+    r = chat("somos 2", r["session_id"])
+    assert 1 <= len(r["sugerencias"]) <= 4 and r["sugerencias"][0].startswith("Cambia el ")
+    imposible = chat("mejor 3 euros", r["session_id"])
+    assert "plan" not in imposible and imposible["sugerencias"][0].startswith("Mejor ")
+
+
+def test_todos_los_chips_se_entienden_al_pulsarlos():
+    """Cada chip, enviado como mensaje, tiene que provocar una acción (nunca un "no te he entendido")."""
+    vistos = set()
+    r = chat("quiero un plan")
+    sid = r["session_id"]
+    for _ in range(6):
+        pendientes = [c for c in r.get("sugerencias", []) if c not in vistos]
+        if not pendientes:
+            break
+        chip = pendientes[0]
+        vistos.add(chip)
+        r = chat(chip, sid)
+        assert "No te he entendido" not in r["mensaje"], chip
+    assert len(vistos) >= 4
+
+
+def test_chip_de_presupuesto_imposible_funciona():
+    sid = chat("somos 4 y 100 euros")["session_id"]
+    r = chat("mejor 3 euros", sid)
+    r = chat(r["sugerencias"][0], sid)  # "Mejor X euros", con X >= el mínimo
+    assert r["plan"] is not None
+
+
+def test_bienvenida_saludo_y_sin_duplicar():
+    r = client.get("/bienvenida", params={"session_id": "nueva"}).json()
+    assert "Merche" in r["mensaje"] and r["sugerencias"][0] == "Somos 2" and "feedback" not in r
+    client.get("/bienvenida", params={"session_id": "nueva"})
+    assert len(client.get("/chat/nueva").json()["historial"]) == 1
+    assert client.get("/bienvenida").json()["session_id"]  # sin session_id: crea una
+
+
+def test_bienvenida_con_plan_en_marcha():
+    sid = chat("somos 2")["session_id"]
+    r = client.get("/bienvenida", params={"session_id": sid}).json()
+    assert "plan en marcha" in r["mensaje"] and r["sugerencias"]
+
+
+def test_feedback_iniciado_por_merche():
+    sid = chat("somos 2")["session_id"]
+    plan = chat("de lunes a miércoles", sid)["plan"]
+    assert "feedback" not in client.get("/bienvenida", params={"session_id": sid}).json()  # aún no ha comprado
+    client.post("/lista", json={"session_id": sid, "plan_id": plan["id"], "lineas": []})
+
+    abre = client.get("/bienvenida", params={"session_id": sid}).json()
+    primero = abre["feedback"]
+    assert primero["tipo"] == "receta" and primero["nombre"] in abre["mensaje"] and primero["imagen"]
+    assert primero["id"] == plan["dias"]["lunes"][0]["id"]
+
+    def valorar(sujeto, valor, motivo=None):
+        body = {"session_id": sid, "sujeto": {"tipo": "receta", "id": sujeto["id"]}, "valor": valor}
+        return client.post("/feedback", json={**body, **({"motivo": motivo} if motivo else {})}).json()
+
+    seg = valorar(primero, "positivo")  # Merche encadena la siguiente pregunta
+    assert seg["feedback"]["id"] == plan["dias"]["martes"][0]["id"] and seg["feedback"]["nombre"] in seg["mensaje"]
+    neg = valorar(seg["feedback"], "negativo")  # primero pregunta qué falló, sin pasar al siguiente
+    assert neg["sugerencias"] and "feedback" not in neg
+    seg = valorar(seg["feedback"], "negativo", "Estaba soso")
+    assert seg["feedback"]["id"] == plan["dias"]["miércoles"][0]["id"]
+    fin = valorar(seg["feedback"], "positivo")  # tres platos valorados: se acaba
+    assert "feedback" not in fin and "próxima semana" in fin["mensaje"]
+
+    cierre = client.get("/bienvenida", params={"session_id": sid}).json()
+    assert "feedback" not in cierre and cierre["sugerencias"] == ["Hazme un plan para la semana"]
+
+
+def test_feedback_no_agobia_mas_de_tres_por_lista():
+    sid = chat("somos 2")["session_id"]
+    plan = chat("toda la semana", sid)["plan"]  # 7 platos
+    client.post("/lista", json={"session_id": sid, "lineas": []})
+    sujeto = client.get("/bienvenida", params={"session_id": sid}).json()["feedback"]
+    for _ in range(3):
+        assert sujeto is not None
+        r = client.post("/feedback", json={"session_id": sid, "sujeto": {"tipo": "receta", "id": sujeto["id"]}, "valor": "positivo"}).json()
+        sujeto = r.get("feedback")
+    assert sujeto is None and len(plan["dias"]) == 7
+
+
 # --- Con Gemini (simulado) ---------------------------------------------------------------
 
 

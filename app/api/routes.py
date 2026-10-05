@@ -3,7 +3,7 @@ from typing import Optional
 from fastapi import APIRouter, Query
 
 from app.data import catalogo
-from app.logic import chat, sesiones
+from app.logic import apertura, chat, sesiones
 from app.logic.errores import NoEncontrado
 from app.models.schemas import (
     ChatHistorial,
@@ -37,6 +37,12 @@ def ver_chat(session_id: str):
     if sesion is None:
         raise NoEncontrado(f"Sesión {session_id} no existe")
     return ChatHistorial(session_id=sesion.id, historial=sesion.mensajes, plan=sesion.plan)
+
+
+@router.get("/bienvenida", response_model=ChatResponse, response_model_exclude_none=True)
+def bienvenida(session_id: Optional[str] = None):
+    """Primer mensaje de Merche al abrir la conversación (saludo, o pregunta de feedback si procede)."""
+    return apertura.bienvenida(session_id)
 
 
 @router.post("/lista", response_model=ListaResponse, response_model_exclude_none=True)

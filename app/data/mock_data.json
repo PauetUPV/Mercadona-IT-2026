@@ -7,23 +7,27 @@
       "raciones": 2,
       "ingredientes": [
         {
-          "producto_id": "2787",
-          "unidades": 1
+          "producto_id": "2777",
+          "unidades": 0.6173
         },
         {
           "producto_id": "69386",
-          "unidades": 1
-        },
-        {
-          "producto_id": "69312",
           "unidades": 0.5
         },
         {
+          "producto_id": "69310",
+          "unidades": 0.5
+        },
+        {
+          "producto_id": "69089",
+          "unidades": 0.1
+        },
+        {
           "producto_id": "4640",
-          "unidades": 0.05
+          "unidades": 0.03
         }
       ],
-      "instrucciones": "Precalienta el horno a 200 °C. Pon el pollo, las patatas y el pimiento en una bandeja con un chorrito de aceite, sazona y hornea 45 minutos hasta que esté dorado.",
+      "instrucciones": "Precalienta el horno a 200 °C. Pon el pollo, las patatas en rodajas, el pimiento y la cebolla en una bandeja, riega con aceite, sazona y hornea 45 minutos dándole la vuelta a mitad.",
       "en_casa": [
         "sal",
         "pimienta"
@@ -34,58 +38,246 @@
     },
     {
       "id": "r2",
-      "nombre": "Espaguetis con tomate y queso",
+      "nombre": "Pechuga a la plancha con ensalada",
       "tipo": "cocinar",
       "raciones": 2,
       "ingredientes": [
         {
-          "producto_id": "35904",
+          "producto_id": "2787",
+          "unidades": 0.5357
+        },
+        {
+          "producto_id": "68130",
           "unidades": 0.5
         },
         {
-          "producto_id": "17108",
-          "unidades": 1
-        },
-        {
-          "producto_id": "22216",
-          "unidades": 0.3
+          "producto_id": "69912",
+          "unidades": 2.0
         },
         {
           "producto_id": "4640",
-          "unidades": 0.03
+          "unidades": 0.02
+        },
+        {
+          "producto_id": "4940",
+          "unidades": 0.01
         }
       ],
-      "instrucciones": "Cuece los espaguetis en agua con sal según el envase. Calienta el tomate frito, mézclalo con la pasta escurrida y gratina con el queso rallado.",
+      "instrucciones": "Salpimenta la pechuga y hazla a la plancha 4 minutos por lado. Trocea la lechuga y el tomate y aliña con aceite, vinagre y sal.",
+      "en_casa": [
+        "sal",
+        "pimienta"
+      ],
+      "etiquetas": [
+        "carne"
+      ]
+    },
+    {
+      "id": "r3",
+      "nombre": "Pollo al ajillo",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "2777",
+          "unidades": 0.6173
+        },
+        {
+          "producto_id": "69297",
+          "unidades": 0.12
+        },
+        {
+          "producto_id": "4640",
+          "unidades": 0.04
+        }
+      ],
+      "instrucciones": "Dora el pollo troceado y salpimentado en aceite. Añade los ajos laminados y cocina a fuego medio 20 minutos, hasta que el pollo esté hecho y dorado.",
+      "en_casa": [
+        "sal",
+        "pimienta",
+        "perejil"
+      ],
+      "etiquetas": [
+        "carne"
+      ]
+    },
+    {
+      "id": "r4",
+      "nombre": "Pollo con tomate y arroz",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "2777",
+          "unidades": 0.4938
+        },
+        {
+          "producto_id": "17108",
+          "unidades": 0.5
+        },
+        {
+          "producto_id": "5044",
+          "unidades": 0.15
+        }
+      ],
+      "instrucciones": "Cuece el arroz en agua con sal. Dora el pollo, añade el tomate frito y cocina tapado 20 minutos. Sirve con el arroz.",
       "en_casa": [
         "sal",
         "agua"
       ],
       "etiquetas": [
-        "gluten",
+        "carne"
+      ]
+    },
+    {
+      "id": "r5",
+      "nombre": "Arroz con pollo y verduras",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "5044",
+          "unidades": 0.16
+        },
+        {
+          "producto_id": "2777",
+          "unidades": 0.3704
+        },
+        {
+          "producto_id": "69310",
+          "unidades": 0.5
+        },
+        {
+          "producto_id": "16416",
+          "unidades": 0.2564
+        },
+        {
+          "producto_id": "7313",
+          "unidades": 0.4
+        }
+      ],
+      "instrucciones": "Sofríe el pollo troceado con el pimiento, añade el arroz y rehoga un minuto. Cubre con el caldo caliente, añade los guisantes y cuece 18 minutos.",
+      "en_casa": [
+        "sal"
+      ],
+      "etiquetas": [
+        "carne"
+      ]
+    },
+    {
+      "id": "r6",
+      "nombre": "Pavo en salsa de champiñones",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "9995",
+          "unidades": 0.5
+        },
+        {
+          "producto_id": "26951",
+          "unidades": 0.6667
+        },
+        {
+          "producto_id": "10117",
+          "unidades": 0.5076
+        },
+        {
+          "producto_id": "69089",
+          "unidades": 0.08
+        }
+      ],
+      "instrucciones": "Dora el pavo en tacos. Aparte, sofríe la cebolla y los champiñones laminados, añade la nata y el pavo y cocina 8 minutos.",
+      "en_casa": [
+        "sal",
+        "pimienta"
+      ],
+      "etiquetas": [
+        "carne",
         "lactosa"
       ]
     },
     {
-      "id": "r3",
-      "nombre": "Macarrones con carne",
+      "id": "r7",
+      "nombre": "Hamburguesas con ensalada",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "2872",
+          "unidades": 0.5556
+        },
+        {
+          "producto_id": "13803",
+          "unidades": 0.5333
+        },
+        {
+          "producto_id": "68130",
+          "unidades": 0.5
+        },
+        {
+          "producto_id": "69912",
+          "unidades": 1.0
+        }
+      ],
+      "instrucciones": "Haz las hamburguesas a la plancha 4 minutos por lado. Monta en el pan con lechuga y tomate en rodajas.",
+      "en_casa": [
+        "sal"
+      ],
+      "etiquetas": [
+        "carne",
+        "gluten"
+      ]
+    },
+    {
+      "id": "r8",
+      "nombre": "Albóndigas en salsa de tomate con arroz",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "2871",
+          "unidades": 0.4762
+        },
+        {
+          "producto_id": "17108",
+          "unidades": 0.5
+        },
+        {
+          "producto_id": "5044",
+          "unidades": 0.12
+        }
+      ],
+      "instrucciones": "Dora las albóndigas, añade el tomate frito y cuece tapado 15 minutos. Acompaña con arroz cocido en agua con sal.",
+      "en_casa": [
+        "sal",
+        "agua"
+      ],
+      "etiquetas": [
+        "carne"
+      ]
+    },
+    {
+      "id": "r9",
+      "nombre": "Macarrones con carne y tomate",
       "tipo": "cocinar",
       "raciones": 2,
       "ingredientes": [
         {
           "producto_id": "6250",
-          "unidades": 0.5
+          "unidades": 0.16
         },
         {
           "producto_id": "2869",
-          "unidades": 0.5
+          "unidades": 0.4
         },
         {
           "producto_id": "17108",
-          "unidades": 1
+          "unidades": 0.5
         },
         {
           "producto_id": "22216",
-          "unidades": 0.2
+          "unidades": 0.15
         }
       ],
       "instrucciones": "Cuece los macarrones. Sofríe la carne picada, añade el tomate frito y cocina 10 minutos. Mezcla con la pasta y espolvorea queso rallado.",
@@ -100,29 +292,243 @@
       ]
     },
     {
-      "id": "r4",
-      "nombre": "Lentejas estofadas",
+      "id": "r10",
+      "nombre": "Espaguetis a la boloñesa",
       "tipo": "cocinar",
       "raciones": 2,
       "ingredientes": [
         {
-          "producto_id": "26030",
-          "unidades": 2
+          "producto_id": "6245",
+          "unidades": 0.16
+        },
+        {
+          "producto_id": "2869",
+          "unidades": 0.5
+        },
+        {
+          "producto_id": "16043",
+          "unidades": 0.25
+        },
+        {
+          "producto_id": "69089",
+          "unidades": 0.08
         },
         {
           "producto_id": "69586",
+          "unidades": 0.05
+        }
+      ],
+      "instrucciones": "Sofríe la cebolla y la zanahoria picadas, añade la carne y dórala. Incorpora el tomate triturado y cuece 20 minutos. Sirve sobre los espaguetis cocidos.",
+      "en_casa": [
+        "sal",
+        "agua"
+      ],
+      "etiquetas": [
+        "carne",
+        "gluten"
+      ]
+    },
+    {
+      "id": "r11",
+      "nombre": "Espaguetis carbonara",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "6245",
+          "unidades": 0.16
+        },
+        {
+          "producto_id": "16252",
+          "unidades": 0.3846
+        },
+        {
+          "producto_id": "31505",
+          "unidades": 0.1667
+        },
+        {
+          "producto_id": "22216",
+          "unidades": 0.2
+        }
+      ],
+      "instrucciones": "Cuece la pasta. Dora el bacon en tiras. Mezcla fuera del fuego la pasta con el bacon, los huevos batidos y el queso hasta que quede cremoso.",
+      "en_casa": [
+        "sal",
+        "pimienta"
+      ],
+      "etiquetas": [
+        "carne",
+        "gluten",
+        "huevo",
+        "lactosa"
+      ]
+    },
+    {
+      "id": "r12",
+      "nombre": "Pasta con atún y tomate",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "6245",
+          "unidades": 0.16
+        },
+        {
+          "producto_id": "12911",
+          "unidades": 0.4156
+        },
+        {
+          "producto_id": "17108",
           "unidades": 0.5
+        }
+      ],
+      "instrucciones": "Cuece la pasta. Calienta el tomate frito con el atún escurrido y mézclalo con los espaguetis.",
+      "en_casa": [
+        "sal",
+        "agua"
+      ],
+      "etiquetas": [
+        "gluten",
+        "pescado"
+      ]
+    },
+    {
+      "id": "r13",
+      "nombre": "Macarrones gratinados con jamón y queso",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "6250",
+          "unidades": 0.16
+        },
+        {
+          "producto_id": "13988",
+          "unidades": 0.4
+        },
+        {
+          "producto_id": "17108",
+          "unidades": 0.25
+        },
+        {
+          "producto_id": "22216",
+          "unidades": 0.3
+        }
+      ],
+      "instrucciones": "Cuece los macarrones y mézclalos con el tomate y el jamón en dados. Pon en una fuente, cubre de queso y gratina 8 minutos.",
+      "en_casa": [
+        "sal",
+        "agua"
+      ],
+      "etiquetas": [
+        "carne",
+        "gluten",
+        "lactosa"
+      ]
+    },
+    {
+      "id": "r14",
+      "nombre": "Tallarines salteados con verduras",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "6246",
+          "unidades": 0.4
+        },
+        {
+          "producto_id": "69586",
+          "unidades": 0.1
         },
         {
           "producto_id": "69310",
           "unidades": 0.5
         },
         {
+          "producto_id": "69338",
+          "unidades": 0.3846
+        },
+        {
+          "producto_id": "17360",
+          "unidades": 0.12
+        },
+        {
           "producto_id": "4640",
-          "unidades": 0.03
+          "unidades": 0.02
         }
       ],
-      "instrucciones": "Sofríe la zanahoria y el pimiento troceados, añade las lentejas cocidas con un poco de agua y pimentón, y cuece 15 minutos.",
+      "instrucciones": "Cuece los tallarines. Saltea la zanahoria, el pimiento y el calabacín en tiras con aceite, añade la pasta y la salsa de soja.",
+      "en_casa": [
+        "sal",
+        "agua"
+      ],
+      "etiquetas": [
+        "gluten",
+        "soja"
+      ]
+    },
+    {
+      "id": "r15",
+      "nombre": "Pasta con champiñones y nata",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "6250",
+          "unidades": 0.16
+        },
+        {
+          "producto_id": "26951",
+          "unidades": 0.6667
+        },
+        {
+          "producto_id": "10117",
+          "unidades": 0.5076
+        },
+        {
+          "producto_id": "69297",
+          "unidades": 0.04
+        }
+      ],
+      "instrucciones": "Cuece la pasta. Saltea los champiñones laminados con el ajo, añade la nata y reduce 5 minutos. Mezcla con la pasta.",
+      "en_casa": [
+        "sal",
+        "agua",
+        "pimienta"
+      ],
+      "etiquetas": [
+        "gluten",
+        "lactosa"
+      ]
+    },
+    {
+      "id": "r16",
+      "nombre": "Lentejas estofadas con verduras",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "26030",
+          "unidades": 1.0
+        },
+        {
+          "producto_id": "69586",
+          "unidades": 0.1
+        },
+        {
+          "producto_id": "69312",
+          "unidades": 0.5
+        },
+        {
+          "producto_id": "69089",
+          "unidades": 0.08
+        },
+        {
+          "producto_id": "4640",
+          "unidades": 0.02
+        }
+      ],
+      "instrucciones": "Sofríe la cebolla, el pimiento y la zanahoria picados. Añade las lentejas cocidas con un poco de agua y cuece 15 minutos.",
       "en_casa": [
         "sal",
         "agua",
@@ -131,57 +537,191 @@
       "etiquetas": []
     },
     {
-      "id": "r5",
+      "id": "r17",
+      "nombre": "Lentejas con chorizo",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "26030",
+          "unidades": 1.0
+        },
+        {
+          "producto_id": "54105",
+          "unidades": 0.2286
+        },
+        {
+          "producto_id": "69386",
+          "unidades": 0.15
+        },
+        {
+          "producto_id": "69586",
+          "unidades": 0.08
+        }
+      ],
+      "instrucciones": "Cuece la patata y la zanahoria en dados con el chorizo en rodajas durante 15 minutos. Añade las lentejas y cocina 8 minutos más.",
+      "en_casa": [
+        "sal",
+        "agua"
+      ],
+      "etiquetas": [
+        "carne"
+      ]
+    },
+    {
+      "id": "r18",
       "nombre": "Garbanzos con espinacas",
       "tipo": "cocinar",
       "raciones": 2,
       "ingredientes": [
         {
           "producto_id": "26029",
-          "unidades": 2
+          "unidades": 1.0
         },
         {
           "producto_id": "35781",
-          "unidades": 1
+          "unidades": 0.5
         },
         {
-          "producto_id": "61251",
-          "unidades": 0.3
+          "producto_id": "69297",
+          "unidades": 0.04
+        },
+        {
+          "producto_id": "60573",
+          "unidades": 0.0667
         },
         {
           "producto_id": "4640",
-          "unidades": 0.03
+          "unidades": 0.02
         }
       ],
-      "instrucciones": "Sofríe el ajo con pimentón, añade las espinacas congeladas y, cuando se deshagan, los garbanzos escurridos. Cocina 10 minutos.",
+      "instrucciones": "Sofríe el ajo con el pimentón, añade las espinacas congeladas y, cuando se deshagan, los garbanzos escurridos. Cocina 10 minutos.",
       "en_casa": [
-        "sal",
-        "agua",
-        "pimentón"
+        "sal"
       ],
       "etiquetas": []
     },
     {
-      "id": "r6",
+      "id": "r19",
+      "nombre": "Garbanzos con calabaza y zanahoria",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "26029",
+          "unidades": 1.0
+        },
+        {
+          "producto_id": "3527",
+          "unidades": 0.4808
+        },
+        {
+          "producto_id": "69586",
+          "unidades": 0.08
+        },
+        {
+          "producto_id": "69089",
+          "unidades": 0.08
+        },
+        {
+          "producto_id": "4640",
+          "unidades": 0.02
+        }
+      ],
+      "instrucciones": "Sofríe la cebolla, añade la calabaza y la zanahoria en dados y cuece con un poco de agua 15 minutos. Incorpora los garbanzos y cocina 5 minutos más.",
+      "en_casa": [
+        "sal",
+        "agua"
+      ],
+      "etiquetas": []
+    },
+    {
+      "id": "r20",
+      "nombre": "Alubias con patata y pimiento",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "26019",
+          "unidades": 1.0
+        },
+        {
+          "producto_id": "69386",
+          "unidades": 0.2
+        },
+        {
+          "producto_id": "69310",
+          "unidades": 0.5
+        },
+        {
+          "producto_id": "60573",
+          "unidades": 0.0667
+        },
+        {
+          "producto_id": "4640",
+          "unidades": 0.02
+        }
+      ],
+      "instrucciones": "Sofríe el pimiento, añade el pimentón y la patata en dados con agua y cuece 15 minutos. Incorpora las alubias y cocina 8 minutos.",
+      "en_casa": [
+        "sal",
+        "agua"
+      ],
+      "etiquetas": []
+    },
+    {
+      "id": "r21",
+      "nombre": "Alubias con chorizo",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "26019",
+          "unidades": 1.0
+        },
+        {
+          "producto_id": "54105",
+          "unidades": 0.2286
+        },
+        {
+          "producto_id": "69089",
+          "unidades": 0.08
+        },
+        {
+          "producto_id": "60573",
+          "unidades": 0.0667
+        }
+      ],
+      "instrucciones": "Sofríe la cebolla con el chorizo en rodajas, añade el pimentón y las alubias con un poco de agua y cocina 12 minutos.",
+      "en_casa": [
+        "sal",
+        "agua"
+      ],
+      "etiquetas": [
+        "carne"
+      ]
+    },
+    {
+      "id": "r22",
       "nombre": "Tortilla de patata",
       "tipo": "cocinar",
       "raciones": 2,
       "ingredientes": [
         {
-          "producto_id": "31310",
-          "unidades": 1
+          "producto_id": "31505",
+          "unidades": 0.3333
         },
         {
           "producto_id": "69386",
-          "unidades": 1
+          "unidades": 0.4
         },
         {
           "producto_id": "69089",
-          "unidades": 0.3
+          "unidades": 0.1
         },
         {
           "producto_id": "4640",
-          "unidades": 0.1
+          "unidades": 0.06
         }
       ],
       "instrucciones": "Pocha las patatas y la cebolla en aceite hasta que estén tiernas. Mézclalas con los huevos batidos y cuaja la tortilla por ambos lados.",
@@ -193,94 +733,1157 @@
       ]
     },
     {
-      "id": "r7",
+      "id": "r23",
+      "nombre": "Tortilla francesa con ensalada",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "31505",
+          "unidades": 0.3333
+        },
+        {
+          "producto_id": "68130",
+          "unidades": 0.5
+        },
+        {
+          "producto_id": "69912",
+          "unidades": 2.0
+        },
+        {
+          "producto_id": "4640",
+          "unidades": 0.02
+        },
+        {
+          "producto_id": "4940",
+          "unidades": 0.01
+        }
+      ],
+      "instrucciones": "Bate los huevos con sal y cuaja la tortilla en una sartén con un poco de aceite. Sirve con lechuga y tomate aliñados.",
+      "en_casa": [
+        "sal"
+      ],
+      "etiquetas": [
+        "huevo"
+      ]
+    },
+    {
+      "id": "r24",
+      "nombre": "Revuelto de champiñones y jamón",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "31505",
+          "unidades": 0.3333
+        },
+        {
+          "producto_id": "26951",
+          "unidades": 0.6667
+        },
+        {
+          "producto_id": "13988",
+          "unidades": 0.32
+        },
+        {
+          "producto_id": "4640",
+          "unidades": 0.015
+        }
+      ],
+      "instrucciones": "Saltea los champiñones laminados, añade el jamón en tiras y, por último, los huevos batidos removiendo hasta que cuajen.",
+      "en_casa": [
+        "sal",
+        "pimienta"
+      ],
+      "etiquetas": [
+        "carne",
+        "huevo"
+      ]
+    },
+    {
+      "id": "r25",
+      "nombre": "Huevos al plato con tomate y chorizo",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "31505",
+          "unidades": 0.3333
+        },
+        {
+          "producto_id": "17108",
+          "unidades": 0.5
+        },
+        {
+          "producto_id": "54105",
+          "unidades": 0.1714
+        }
+      ],
+      "instrucciones": "Calienta el tomate con el chorizo en rodajas en una cazuela, casca los huevos encima y hornea o cuece tapado 8 minutos.",
+      "en_casa": [
+        "sal"
+      ],
+      "etiquetas": [
+        "carne",
+        "huevo"
+      ]
+    },
+    {
+      "id": "r26",
+      "nombre": "Revuelto de espinacas",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "31505",
+          "unidades": 0.3333
+        },
+        {
+          "producto_id": "35781",
+          "unidades": 0.5
+        },
+        {
+          "producto_id": "69297",
+          "unidades": 0.04
+        },
+        {
+          "producto_id": "4640",
+          "unidades": 0.015
+        }
+      ],
+      "instrucciones": "Saltea el ajo, añade las espinacas descongeladas y escurridas, y los huevos batidos. Remueve hasta que cuajen.",
+      "en_casa": [
+        "sal"
+      ],
+      "etiquetas": [
+        "huevo"
+      ]
+    },
+    {
+      "id": "r27",
       "nombre": "Ensalada completa con atún",
       "tipo": "cocinar",
       "raciones": 2,
       "ingredientes": [
         {
           "producto_id": "68130",
-          "unidades": 1
+          "unidades": 1.0
         },
         {
-          "producto_id": "60369",
-          "unidades": 2
+          "producto_id": "69912",
+          "unidades": 2.0
         },
         {
           "producto_id": "12911",
-          "unidades": 1
+          "unidades": 0.4156
         },
         {
-          "producto_id": "31010",
-          "unidades": 1
+          "producto_id": "31505",
+          "unidades": 0.1667
+        },
+        {
+          "producto_id": "69089",
+          "unidades": 0.04
+        },
+        {
+          "producto_id": "4640",
+          "unidades": 0.02
+        },
+        {
+          "producto_id": "4940",
+          "unidades": 0.01
         }
       ],
-      "instrucciones": "Trocea la lechuga y el tomate, añade el atún escurrido y el huevo cocido en cuartos. Aliña con aceite, vinagre y sal.",
+      "instrucciones": "Trocea la lechuga y el tomate, añade el atún escurrido, el huevo cocido en cuartos y la cebolla en aros. Aliña con aceite, vinagre y sal.",
       "en_casa": [
-        "sal",
-        "vinagre"
+        "sal"
       ],
       "etiquetas": [
-        "pescado",
-        "huevo"
+        "huevo",
+        "pescado"
       ]
     },
     {
-      "id": "r8",
-      "nombre": "Merluza con calabacín y patata",
+      "id": "r28",
+      "nombre": "Ensalada de pasta",
       "tipo": "cocinar",
       "raciones": 2,
       "ingredientes": [
         {
-          "producto_id": "24324",
-          "unidades": 1
+          "producto_id": "6250",
+          "unidades": 0.12
         },
         {
-          "producto_id": "69338",
-          "unidades": 2
+          "producto_id": "12911",
+          "unidades": 0.4156
+        },
+        {
+          "producto_id": "16714",
+          "unidades": 0.4889
+        },
+        {
+          "producto_id": "69912",
+          "unidades": 2.0
+        },
+        {
+          "producto_id": "13406",
+          "unidades": 0.08
+        }
+      ],
+      "instrucciones": "Cuece la pasta, enfríala y mézclala con el atún, el maíz, el tomate en dados y la mayonesa.",
+      "en_casa": [
+        "sal",
+        "agua"
+      ],
+      "etiquetas": [
+        "gluten",
+        "huevo",
+        "pescado"
+      ]
+    },
+    {
+      "id": "r29",
+      "nombre": "Ensalada de garbanzos",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "26029",
+          "unidades": 1.0
+        },
+        {
+          "producto_id": "69912",
+          "unidades": 2.0
+        },
+        {
+          "producto_id": "69584",
+          "unidades": 0.75
+        },
+        {
+          "producto_id": "69089",
+          "unidades": 0.04
+        },
+        {
+          "producto_id": "4640",
+          "unidades": 0.02
+        },
+        {
+          "producto_id": "4940",
+          "unidades": 0.01
+        }
+      ],
+      "instrucciones": "Escurre los garbanzos y mézclalos con el tomate, el pepino y la cebolla picados. Aliña con aceite, vinagre y sal.",
+      "en_casa": [
+        "sal"
+      ],
+      "etiquetas": []
+    },
+    {
+      "id": "r30",
+      "nombre": "Ensalada de pollo y aguacate",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "2787",
+          "unidades": 0.4464
+        },
+        {
+          "producto_id": "3830",
+          "unidades": 1.0
+        },
+        {
+          "producto_id": "68130",
+          "unidades": 1.0
+        },
+        {
+          "producto_id": "4640",
+          "unidades": 0.02
+        },
+        {
+          "producto_id": "3210",
+          "unidades": 0.1
+        }
+      ],
+      "instrucciones": "Haz la pechuga a la plancha y córtala en tiras. Monta con la lechuga y el aguacate en láminas; aliña con aceite, limón y sal.",
+      "en_casa": [
+        "sal",
+        "pimienta"
+      ],
+      "etiquetas": [
+        "carne"
+      ]
+    },
+    {
+      "id": "r31",
+      "nombre": "Merluza al horno con patatas",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "62113",
+          "unidades": 1.0
         },
         {
           "producto_id": "69386",
-          "unidades": 0.5
+          "unidades": 0.4
+        },
+        {
+          "producto_id": "69089",
+          "unidades": 0.08
+        },
+        {
+          "producto_id": "3210",
+          "unidades": 0.15
         },
         {
           "producto_id": "4640",
           "unidades": 0.03
         }
       ],
-      "instrucciones": "Descongela la merluza. Cuece las patatas en rodajas, saltea el calabacín y cocina la merluza a la plancha 3 minutos por lado. Sirve con limón.",
+      "instrucciones": "Hornea las patatas y la cebolla en rodajas con aceite 25 minutos a 200 °C. Coloca la merluza descongelada encima con limón y hornea 12 minutos más.",
       "en_casa": [
         "sal",
-        "limón"
+        "pimienta"
       ],
       "etiquetas": [
         "pescado"
       ]
     },
     {
-      "id": "r9",
-      "nombre": "Hamburguesas con ensalada",
+      "id": "r32",
+      "nombre": "Merluza con calabacín",
       "tipo": "cocinar",
       "raciones": 2,
       "ingredientes": [
         {
-          "producto_id": "2872",
-          "unidades": 1
+          "producto_id": "62113",
+          "unidades": 0.75
         },
         {
-          "producto_id": "13803",
-          "unidades": 1
+          "producto_id": "69338",
+          "unidades": 0.7692
+        },
+        {
+          "producto_id": "4640",
+          "unidades": 0.02
+        }
+      ],
+      "instrucciones": "Saltea el calabacín en rodajas. Cocina la merluza a la plancha 3 minutos por lado y sirve sobre el calabacín.",
+      "en_casa": [
+        "sal"
+      ],
+      "etiquetas": [
+        "pescado"
+      ]
+    },
+    {
+      "id": "r33",
+      "nombre": "Bacalao con tomate",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "87211",
+          "unidades": 0.5556
+        },
+        {
+          "producto_id": "17108",
+          "unidades": 0.5
+        },
+        {
+          "producto_id": "69089",
+          "unidades": 0.08
+        },
+        {
+          "producto_id": "4640",
+          "unidades": 0.02
+        }
+      ],
+      "instrucciones": "Sofríe la cebolla, añade el tomate frito y el bacalao desalado y cuece tapado 12 minutos.",
+      "en_casa": [
+        "sal"
+      ],
+      "etiquetas": [
+        "pescado"
+      ]
+    },
+    {
+      "id": "r34",
+      "nombre": "Sardinas con ensalada",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "18225",
+          "unidades": 1.0
+        },
+        {
+          "producto_id": "69912",
+          "unidades": 2.0
         },
         {
           "producto_id": "68130",
           "unidades": 0.5
         },
         {
-          "producto_id": "60369",
-          "unidades": 1
+          "producto_id": "69089",
+          "unidades": 0.04
+        },
+        {
+          "producto_id": "4940",
+          "unidades": 0.01
         }
       ],
-      "instrucciones": "Haz las hamburguesas a la plancha 4 minutos por lado. Monta en el pan con lechuga y tomate.",
+      "instrucciones": "Escurre las sardinas. Prepara una ensalada de tomate, lechuga y cebolla aliñada con vinagre y sirve las sardinas encima.",
+      "en_casa": [
+        "sal"
+      ],
+      "etiquetas": [
+        "pescado"
+      ]
+    },
+    {
+      "id": "r35",
+      "nombre": "Crema de calabacín",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "69338",
+          "unidades": 1.0256
+        },
+        {
+          "producto_id": "69386",
+          "unidades": 0.2
+        },
+        {
+          "producto_id": "69089",
+          "unidades": 0.08
+        },
+        {
+          "producto_id": "4640",
+          "unidades": 0.02
+        }
+      ],
+      "instrucciones": "Pocha la cebolla, añade el calabacín y la patata en trozos con agua que los cubra y cuece 20 minutos. Tritura hasta que quede fina.",
+      "en_casa": [
+        "sal",
+        "agua"
+      ],
+      "etiquetas": []
+    },
+    {
+      "id": "r36",
+      "nombre": "Crema de calabaza y zanahoria",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "3527",
+          "unidades": 0.9615
+        },
+        {
+          "producto_id": "69586",
+          "unidades": 0.1
+        },
+        {
+          "producto_id": "69089",
+          "unidades": 0.08
+        },
+        {
+          "producto_id": "4640",
+          "unidades": 0.02
+        }
+      ],
+      "instrucciones": "Sofríe la cebolla, añade la calabaza y la zanahoria troceadas con agua y cuece 20 minutos. Tritura.",
+      "en_casa": [
+        "sal",
+        "agua"
+      ],
+      "etiquetas": []
+    },
+    {
+      "id": "r37",
+      "nombre": "Pisto con huevo",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "69338",
+          "unidades": 0.5128
+        },
+        {
+          "producto_id": "69310",
+          "unidades": 0.5
+        },
+        {
+          "producto_id": "69312",
+          "unidades": 0.5
+        },
+        {
+          "producto_id": "17108",
+          "unidades": 0.5
+        },
+        {
+          "producto_id": "31505",
+          "unidades": 0.1667
+        }
+      ],
+      "instrucciones": "Sofríe los pimientos y el calabacín en dados, añade el tomate frito y cuece 15 minutos. Sirve con un huevo frito encima.",
+      "en_casa": [
+        "sal"
+      ],
+      "etiquetas": [
+        "huevo"
+      ]
+    },
+    {
+      "id": "r38",
+      "nombre": "Berenjenas gratinadas con tomate y queso",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "69326",
+          "unidades": 1.1765
+        },
+        {
+          "producto_id": "17108",
+          "unidades": 0.25
+        },
+        {
+          "producto_id": "51050",
+          "unidades": 0.5
+        }
+      ],
+      "instrucciones": "Corta la berenjena en rodajas y hazla a la plancha. Monta en una fuente con tomate y mozzarella y gratina 10 minutos.",
+      "en_casa": [
+        "sal"
+      ],
+      "etiquetas": [
+        "lactosa"
+      ]
+    },
+    {
+      "id": "r39",
+      "nombre": "Salteado de pollo con verduras",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "2787",
+          "unidades": 0.4464
+        },
+        {
+          "producto_id": "69338",
+          "unidades": 0.5128
+        },
+        {
+          "producto_id": "69586",
+          "unidades": 0.1
+        },
+        {
+          "producto_id": "69310",
+          "unidades": 0.5
+        },
+        {
+          "producto_id": "17360",
+          "unidades": 0.08
+        }
+      ],
+      "instrucciones": "Saltea el pollo en tiras, añade las verduras cortadas y cocina 8 minutos. Termina con la salsa de soja.",
+      "en_casa": [
+        "sal"
+      ],
+      "etiquetas": [
+        "carne",
+        "gluten",
+        "soja"
+      ]
+    },
+    {
+      "id": "r40",
+      "nombre": "Pizza casera de jamón y queso",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "13985",
+          "unidades": 0.5
+        },
+        {
+          "producto_id": "17108",
+          "unidades": 0.25
+        },
+        {
+          "producto_id": "51050",
+          "unidades": 0.5
+        },
+        {
+          "producto_id": "13988",
+          "unidades": 0.24
+        }
+      ],
+      "instrucciones": "Estira la masa, cubre con tomate, mozzarella y jamón y hornea 12 minutos a 220 °C.",
+      "en_casa": [],
+      "etiquetas": [
+        "carne",
+        "gluten",
+        "lactosa"
+      ]
+    },
+    {
+      "id": "r41",
+      "nombre": "Pizza de champiñones",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "13985",
+          "unidades": 0.5
+        },
+        {
+          "producto_id": "17108",
+          "unidades": 0.25
+        },
+        {
+          "producto_id": "51050",
+          "unidades": 0.5
+        },
+        {
+          "producto_id": "26951",
+          "unidades": 0.3333
+        }
+      ],
+      "instrucciones": "Estira la masa, cubre con tomate, mozzarella y champiñones laminados y hornea 12 minutos a 220 °C.",
+      "en_casa": [],
+      "etiquetas": [
+        "gluten",
+        "lactosa"
+      ]
+    },
+    {
+      "id": "r42",
+      "nombre": "Wraps de pollo",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "80859",
+          "unidades": 0.5
+        },
+        {
+          "producto_id": "2787",
+          "unidades": 0.4464
+        },
+        {
+          "producto_id": "68130",
+          "unidades": 0.5
+        },
+        {
+          "producto_id": "69912",
+          "unidades": 1.0
+        },
+        {
+          "producto_id": "13406",
+          "unidades": 0.06
+        }
+      ],
+      "instrucciones": "Haz el pollo a tiras a la plancha. Rellena las tortillas con pollo, lechuga, tomate y un poco de mayonesa y enrolla.",
+      "en_casa": [
+        "sal"
+      ],
+      "etiquetas": [
+        "carne",
+        "gluten",
+        "huevo"
+      ]
+    },
+    {
+      "id": "r43",
+      "nombre": "Quesadillas de jamón y queso",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "80859",
+          "unidades": 0.5
+        },
+        {
+          "producto_id": "13988",
+          "unidades": 0.4
+        },
+        {
+          "producto_id": "50371",
+          "unidades": 0.5
+        }
+      ],
+      "instrucciones": "Rellena media tortilla con jamón y queso, dobla y dora en una sartén seca 2 minutos por lado.",
+      "en_casa": [],
+      "etiquetas": [
+        "carne",
+        "gluten",
+        "lactosa"
+      ]
+    },
+    {
+      "id": "r44",
+      "nombre": "Sándwich mixto con ensalada",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "13810",
+          "unidades": 0.2609
+        },
+        {
+          "producto_id": "13988",
+          "unidades": 0.32
+        },
+        {
+          "producto_id": "50371",
+          "unidades": 0.3
+        },
+        {
+          "producto_id": "68130",
+          "unidades": 0.5
+        },
+        {
+          "producto_id": "69912",
+          "unidades": 1.0
+        }
+      ],
+      "instrucciones": "Monta los sándwiches con jamón y queso y tuéstalos en la sandwichera. Sirve con lechuga y tomate aliñados.",
+      "en_casa": [
+        "sal"
+      ],
+      "etiquetas": [
+        "carne",
+        "gluten",
+        "lactosa"
+      ]
+    },
+    {
+      "id": "r45",
+      "nombre": "Costillas al horno con patatas",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "2811",
+          "unidades": 0.9677
+        },
+        {
+          "producto_id": "69386",
+          "unidades": 0.4
+        },
+        {
+          "producto_id": "60573",
+          "unidades": 0.0667
+        }
+      ],
+      "instrucciones": "Adoba las costillas con sal y pimentón. Hornea con las patatas en rodajas 50 minutos a 190 °C.",
+      "en_casa": [
+        "sal",
+        "pimienta"
+      ],
+      "etiquetas": [
+        "carne"
+      ]
+    },
+    {
+      "id": "r46",
+      "nombre": "Lomo con pimientos y patatas",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "2817",
+          "unidades": 0.4478
+        },
+        {
+          "producto_id": "69312",
+          "unidades": 0.9615
+        },
+        {
+          "producto_id": "69386",
+          "unidades": 0.3
+        },
+        {
+          "producto_id": "4640",
+          "unidades": 0.03
+        }
+      ],
+      "instrucciones": "Fríe las patatas en rodajas y los pimientos. Haz los filetes de lomo a la plancha y sirve todo junto.",
+      "en_casa": [
+        "sal"
+      ],
+      "etiquetas": [
+        "carne"
+      ]
+    },
+    {
+      "id": "r47",
+      "nombre": "Lomo a la plancha con arroz",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "2817",
+          "unidades": 0.4478
+        },
+        {
+          "producto_id": "5044",
+          "unidades": 0.16
+        },
+        {
+          "producto_id": "4640",
+          "unidades": 0.01
+        }
+      ],
+      "instrucciones": "Cuece el arroz. Haz los filetes de lomo salpimentados a la plancha 3 minutos por lado y sirve con el arroz.",
+      "en_casa": [
+        "sal",
+        "agua"
+      ],
+      "etiquetas": [
+        "carne"
+      ]
+    },
+    {
+      "id": "r48",
+      "nombre": "Patatas guisadas con costilla",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "2811",
+          "unidades": 0.8065
+        },
+        {
+          "producto_id": "69386",
+          "unidades": 0.5
+        },
+        {
+          "producto_id": "60573",
+          "unidades": 0.0667
+        },
+        {
+          "producto_id": "69089",
+          "unidades": 0.08
+        }
+      ],
+      "instrucciones": "Sofríe la cebolla con las costillas troceadas, añade el pimentón, las patatas en trozos y agua. Cuece 30 minutos.",
+      "en_casa": [
+        "sal",
+        "agua"
+      ],
+      "etiquetas": [
+        "carne"
+      ]
+    },
+    {
+      "id": "r49",
+      "nombre": "Arroz tres delicias",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "5044",
+          "unidades": 0.15
+        },
+        {
+          "producto_id": "31505",
+          "unidades": 0.1667
+        },
+        {
+          "producto_id": "13988",
+          "unidades": 0.32
+        },
+        {
+          "producto_id": "16416",
+          "unidades": 0.2564
+        },
+        {
+          "producto_id": "69586",
+          "unidades": 0.05
+        },
+        {
+          "producto_id": "17360",
+          "unidades": 0.06
+        }
+      ],
+      "instrucciones": "Cuece el arroz. Saltea la zanahoria en dados, los guisantes y el jamón, añade el huevo en tortilla troceada, el arroz y la soja.",
+      "en_casa": [
+        "sal",
+        "agua"
+      ],
+      "etiquetas": [
+        "carne",
+        "gluten",
+        "huevo",
+        "soja"
+      ]
+    },
+    {
+      "id": "r50",
+      "nombre": "Arroz a la cubana",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "5044",
+          "unidades": 0.15
+        },
+        {
+          "producto_id": "31505",
+          "unidades": 0.1667
+        },
+        {
+          "producto_id": "17108",
+          "unidades": 0.25
+        },
+        {
+          "producto_id": "3819",
+          "unidades": 1.0
+        }
+      ],
+      "instrucciones": "Cuece el arroz y sírvelo con tomate frito caliente, un huevo frito y el plátano frito en rodajas.",
+      "en_casa": [
+        "sal",
+        "agua"
+      ],
+      "etiquetas": [
+        "huevo"
+      ]
+    },
+    {
+      "id": "r51",
+      "nombre": "Arroz con verduras",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "5044",
+          "unidades": 0.15
+        },
+        {
+          "producto_id": "69310",
+          "unidades": 0.5
+        },
+        {
+          "producto_id": "69338",
+          "unidades": 0.3846
+        },
+        {
+          "producto_id": "16313",
+          "unidades": 0.2273
+        },
+        {
+          "producto_id": "7032",
+          "unidades": 0.4
+        }
+      ],
+      "instrucciones": "Sofríe las verduras en trozos, añade el arroz, rehoga y cubre con el caldo caliente. Cuece 18 minutos.",
+      "en_casa": [
+        "sal"
+      ],
+      "etiquetas": []
+    },
+    {
+      "id": "r52",
+      "nombre": "Judías verdes con patatas",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "16313",
+          "unidades": 0.5
+        },
+        {
+          "producto_id": "69386",
+          "unidades": 0.3
+        },
+        {
+          "producto_id": "13988",
+          "unidades": 0.24
+        },
+        {
+          "producto_id": "4640",
+          "unidades": 0.02
+        }
+      ],
+      "instrucciones": "Cuece las judías y la patata en trozos 15 minutos. Escurre y saltea con el jamón en tacos y un chorrito de aceite.",
+      "en_casa": [
+        "sal",
+        "agua"
+      ],
+      "etiquetas": [
+        "carne"
+      ]
+    },
+    {
+      "id": "r53",
+      "nombre": "Coliflor gratinada",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "69220",
+          "unidades": 0.4545
+        },
+        {
+          "producto_id": "10380",
+          "unidades": 0.25
+        },
+        {
+          "producto_id": "29100",
+          "unidades": 0.025
+        },
+        {
+          "producto_id": "20722",
+          "unidades": 0.1
+        },
+        {
+          "producto_id": "22216",
+          "unidades": 0.2
+        }
+      ],
+      "instrucciones": "Cuece la coliflor. Haz una bechamel con mantequilla, harina y leche, cubre la coliflor, añade queso y gratina 10 minutos.",
+      "en_casa": [
+        "sal",
+        "agua",
+        "nuez moscada"
+      ],
+      "etiquetas": [
+        "gluten",
+        "lactosa"
+      ]
+    },
+    {
+      "id": "r54",
+      "nombre": "Brócoli con patata y huevo",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "69580",
+          "unidades": 0.7143
+        },
+        {
+          "producto_id": "69386",
+          "unidades": 0.2
+        },
+        {
+          "producto_id": "31505",
+          "unidades": 0.1667
+        },
+        {
+          "producto_id": "4640",
+          "unidades": 0.02
+        }
+      ],
+      "instrucciones": "Cuece el brócoli y la patata en trozos. Sirve con un huevo cocido picado y aliña con aceite y sal.",
+      "en_casa": [
+        "sal",
+        "agua"
+      ],
+      "etiquetas": [
+        "huevo"
+      ]
+    },
+    {
+      "id": "r55",
+      "nombre": "Pimientos del piquillo rellenos de atún",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "16005",
+          "unidades": 1.0
+        },
+        {
+          "producto_id": "12911",
+          "unidades": 0.4156
+        },
+        {
+          "producto_id": "17108",
+          "unidades": 0.25
+        },
+        {
+          "producto_id": "82219",
+          "unidades": 0.0267
+        }
+      ],
+      "instrucciones": "Rellena los pimientos con el atún escurrido mezclado con un poco de tomate. Cubre con tomate, espolvorea pan rallado y hornea 10 minutos.",
+      "en_casa": [],
+      "etiquetas": [
+        "gluten",
+        "pescado"
+      ]
+    },
+    {
+      "id": "r56",
+      "nombre": "Calabacines rellenos de carne",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "69338",
+          "unidades": 1.0256
+        },
+        {
+          "producto_id": "2869",
+          "unidades": 0.4
+        },
+        {
+          "producto_id": "17108",
+          "unidades": 0.25
+        },
+        {
+          "producto_id": "22216",
+          "unidades": 0.2
+        }
+      ],
+      "instrucciones": "Vacía los calabacines partidos por la mitad, sofríe la pulpa con la carne y el tomate, rellena, cubre con queso y hornea 20 minutos.",
+      "en_casa": [
+        "sal",
+        "pimienta"
+      ],
+      "etiquetas": [
+        "carne",
+        "lactosa"
+      ]
+    },
+    {
+      "id": "r57",
+      "nombre": "Fajitas de pollo con pimientos",
+      "tipo": "cocinar",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "2787",
+          "unidades": 0.5357
+        },
+        {
+          "producto_id": "69310",
+          "unidades": 0.5
+        },
+        {
+          "producto_id": "69312",
+          "unidades": 0.5
+        },
+        {
+          "producto_id": "69089",
+          "unidades": 0.08
+        },
+        {
+          "producto_id": "80859",
+          "unidades": 0.5
+        }
+      ],
+      "instrucciones": "Saltea el pollo en tiras con los pimientos y la cebolla. Calienta las tortillas y rellénalas.",
       "en_casa": [
         "sal",
         "pimienta"
@@ -291,98 +1894,37 @@
       ]
     },
     {
-      "id": "r10",
-      "nombre": "Arroz con pollo",
+      "id": "r58",
+      "nombre": "Hummus con verduras y tortillas",
       "tipo": "cocinar",
       "raciones": 2,
       "ingredientes": [
         {
-          "producto_id": "22279",
-          "unidades": 2
-        },
-        {
-          "producto_id": "2777",
-          "unidades": 1
-        },
-        {
-          "producto_id": "69310",
-          "unidades": 1
-        }
-      ],
-      "instrucciones": "Dora el pollo troceado con el pimiento en una sartén 12 minutos. Añade el arroz cocido y saltea 3 minutos más.",
-      "en_casa": [
-        "sal",
-        "agua"
-      ],
-      "etiquetas": [
-        "carne"
-      ]
-    },
-    {
-      "id": "r11",
-      "nombre": "Crema de calabacín con pan",
-      "tipo": "cocinar",
-      "raciones": 2,
-      "ingredientes": [
-        {
-          "producto_id": "35870",
-          "unidades": 2
-        },
-        {
-          "producto_id": "12049.1",
-          "unidades": 0.5
-        },
-        {
-          "producto_id": "22216",
-          "unidades": 0.2
-        }
-      ],
-      "instrucciones": "Calienta la crema 5 minutos, sirve con queso rallado por encima y acompaña con pan.",
-      "en_casa": [
-        "sal",
-        "pimienta"
-      ],
-      "etiquetas": [
-        "gluten",
-        "lactosa"
-      ]
-    },
-    {
-      "id": "r12",
-      "nombre": "Tallarines salteados con verduras",
-      "tipo": "cocinar",
-      "raciones": 2,
-      "ingredientes": [
-        {
-          "producto_id": "6246",
-          "unidades": 0.5
+          "producto_id": "80858",
+          "unidades": 1.0
         },
         {
           "producto_id": "69586",
-          "unidades": 0.5
+          "unidades": 0.1
         },
         {
-          "producto_id": "69312",
-          "unidades": 1
+          "producto_id": "69584",
+          "unidades": 0.75
         },
         {
-          "producto_id": "4640",
-          "unidades": 0.03
+          "producto_id": "80859",
+          "unidades": 0.25
         }
       ],
-      "instrucciones": "Cuece los tallarines. Saltea la zanahoria y el pimiento en tiras con un poco de aceite, añade la pasta y salsa de soja.",
-      "en_casa": [
-        "sal",
-        "salsa de soja"
-      ],
+      "instrucciones": "Sirve el hummus con palitos de zanahoria y pepino y las tortillas calientes cortadas en triángulos.",
+      "en_casa": [],
       "etiquetas": [
-        "gluten",
-        "soja"
+        "gluten"
       ]
     },
     {
       "id": "l1",
-      "nombre": "Lasaña boloñesa (lista para comer)",
+      "nombre": "Lasaña boloñesa",
       "tipo": "listo_para_comer",
       "raciones": 2,
       "ingredientes": [
@@ -401,7 +1943,44 @@
     },
     {
       "id": "l2",
-      "nombre": "Pollo asado Hacendado",
+      "nombre": "Lasaña de pollo",
+      "tipo": "listo_para_comer",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "11994",
+          "unidades": 2
+        }
+      ],
+      "instrucciones": null,
+      "en_casa": [],
+      "etiquetas": [
+        "carne",
+        "gluten",
+        "lactosa"
+      ]
+    },
+    {
+      "id": "l3",
+      "nombre": "Lasaña de espinacas y requesón",
+      "tipo": "listo_para_comer",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "4491",
+          "unidades": 2
+        }
+      ],
+      "instrucciones": null,
+      "en_casa": [],
+      "etiquetas": [
+        "gluten",
+        "lactosa"
+      ]
+    },
+    {
+      "id": "l4",
+      "nombre": "Pollo asado",
       "tipo": "listo_para_comer",
       "raciones": 2,
       "ingredientes": [
@@ -417,13 +1996,167 @@
       ]
     },
     {
-      "id": "l3",
-      "nombre": "Ensalada de pasta (lista para comer)",
+      "id": "l5",
+      "nombre": "Alitas de pollo asadas",
       "tipo": "listo_para_comer",
       "raciones": 2,
       "ingredientes": [
         {
-          "producto_id": "13241",
+          "producto_id": "13705",
+          "unidades": 1
+        }
+      ],
+      "instrucciones": null,
+      "en_casa": [],
+      "etiquetas": [
+        "carne"
+      ]
+    },
+    {
+      "id": "l6",
+      "nombre": "Tortilla de patata y cebolla",
+      "tipo": "listo_para_comer",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "80895",
+          "unidades": 1
+        }
+      ],
+      "instrucciones": null,
+      "en_casa": [],
+      "etiquetas": [
+        "huevo"
+      ]
+    },
+    {
+      "id": "l7",
+      "nombre": "Tortilla de patata",
+      "tipo": "listo_para_comer",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "80771",
+          "unidades": 1
+        }
+      ],
+      "instrucciones": null,
+      "en_casa": [],
+      "etiquetas": [
+        "huevo"
+      ]
+    },
+    {
+      "id": "l8",
+      "nombre": "Spaghetti carbonara",
+      "tipo": "listo_para_comer",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "4265",
+          "unidades": 2
+        }
+      ],
+      "instrucciones": null,
+      "en_casa": [],
+      "etiquetas": [
+        "carne",
+        "gluten",
+        "huevo",
+        "lactosa"
+      ]
+    },
+    {
+      "id": "l9",
+      "nombre": "Pollo al curry con arroz basmati",
+      "tipo": "listo_para_comer",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "4498",
+          "unidades": 2
+        }
+      ],
+      "instrucciones": null,
+      "en_casa": [],
+      "etiquetas": [
+        "carne"
+      ]
+    },
+    {
+      "id": "l10",
+      "nombre": "Arroz de pescado",
+      "tipo": "listo_para_comer",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "20893",
+          "unidades": 2
+        }
+      ],
+      "instrucciones": null,
+      "en_casa": [],
+      "etiquetas": [
+        "pescado"
+      ]
+    },
+    {
+      "id": "l11",
+      "nombre": "Arroz de verduras",
+      "tipo": "listo_para_comer",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "60621",
+          "unidades": 2
+        }
+      ],
+      "instrucciones": null,
+      "en_casa": [],
+      "etiquetas": []
+    },
+    {
+      "id": "l12",
+      "nombre": "Cocido",
+      "tipo": "listo_para_comer",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "52990",
+          "unidades": 2
+        }
+      ],
+      "instrucciones": null,
+      "en_casa": [],
+      "etiquetas": [
+        "carne"
+      ]
+    },
+    {
+      "id": "l13",
+      "nombre": "Fabada",
+      "tipo": "listo_para_comer",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "26108",
+          "unidades": 1
+        }
+      ],
+      "instrucciones": null,
+      "en_casa": [],
+      "etiquetas": [
+        "carne"
+      ]
+    },
+    {
+      "id": "l14",
+      "nombre": "Ensalada de pasta italiana",
+      "tipo": "listo_para_comer",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "24083",
           "unidades": 2
         }
       ],
@@ -434,7 +2167,79 @@
       ]
     },
     {
-      "id": "l4",
+      "id": "l15",
+      "nombre": "Canelones de carne",
+      "tipo": "listo_para_comer",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "16435",
+          "unidades": 2
+        }
+      ],
+      "instrucciones": null,
+      "en_casa": [],
+      "etiquetas": [
+        "carne",
+        "gluten",
+        "lactosa"
+      ]
+    },
+    {
+      "id": "l16",
+      "nombre": "Salmón con verduras",
+      "tipo": "listo_para_comer",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "13243",
+          "unidades": 2
+        }
+      ],
+      "instrucciones": null,
+      "en_casa": [],
+      "etiquetas": [
+        "pescado"
+      ]
+    },
+    {
+      "id": "l17",
+      "nombre": "Ensaladilla rusa",
+      "tipo": "listo_para_comer",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "80784",
+          "unidades": 2
+        }
+      ],
+      "instrucciones": null,
+      "en_casa": [],
+      "etiquetas": [
+        "huevo",
+        "pescado"
+      ]
+    },
+    {
+      "id": "l18",
+      "nombre": "Albóndigas guisadas",
+      "tipo": "listo_para_comer",
+      "raciones": 2,
+      "ingredientes": [
+        {
+          "producto_id": "4797",
+          "unidades": 2
+        }
+      ],
+      "instrucciones": null,
+      "en_casa": [],
+      "etiquetas": [
+        "carne",
+        "gluten"
+      ]
+    },
+    {
+      "id": "l19",
       "nombre": "Pizza carnívora",
       "tipo": "listo_para_comer",
       "raciones": 2,
@@ -453,59 +2258,19 @@
       ]
     },
     {
-      "id": "l5",
-      "nombre": "Tortilla de patata con cebolla (lista para comer)",
-      "tipo": "listo_para_comer",
-      "raciones": 2,
-      "ingredientes": [
-        {
-          "producto_id": "60089",
-          "unidades": 1
-        }
-      ],
-      "instrucciones": null,
-      "en_casa": [],
-      "etiquetas": [
-        "huevo"
-      ]
-    },
-    {
-      "id": "l6",
-      "nombre": "Salmón con verduras (listo para comer)",
-      "tipo": "listo_para_comer",
-      "raciones": 2,
-      "ingredientes": [
-        {
-          "producto_id": "13243",
-          "unidades": 2
-        }
-      ],
-      "instrucciones": null,
-      "en_casa": [],
-      "etiquetas": [
-        "pescado"
-      ]
-    },
-    {
-      "id": "l7",
-      "nombre": "Gazpacho y pan",
+      "id": "l20",
+      "nombre": "Gazpacho",
       "tipo": "listo_para_comer",
       "raciones": 2,
       "ingredientes": [
         {
           "producto_id": "39900",
           "unidades": 1
-        },
-        {
-          "producto_id": "12049.1",
-          "unidades": 0.5
         }
       ],
       "instrucciones": null,
       "en_casa": [],
-      "etiquetas": [
-        "gluten"
-      ]
+      "etiquetas": []
     }
   ]
 }

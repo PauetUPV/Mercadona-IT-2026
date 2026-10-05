@@ -11,7 +11,7 @@ venv\Scripts\activate        # Linux/Mac: source venv/bin/activate
 pip install -r requirements.txt -r requirements-dev.txt
 # .env con LLM_API_KEY (Gemini). Sin clave el chat funciona igualmente con el plan B por reglas
 uvicorn main:app --reload
-pytest                       # 58 tests, sin red ni Gemini
+pytest                       # 66 tests, sin red ni Gemini
 ```
 
 Swagger en http://localhost:8000/docs
@@ -23,7 +23,8 @@ Swagger en http://localhost:8000/docs
 | POST | `/chat` | **El principal.** Mensaje del usuario → texto de Merche (+ plan si ha cambiado) |
 | GET | `/chat/{session_id}` | Historial y plan vigente (recargar la página) |
 | POST | `/lista` | El usuario guarda su lista final de la compra |
-| POST | `/feedback` | Valoración 👍/👎 de una receta o producto (provisional) |
+| GET | `/bienvenida` | Primer mensaje de Merche al abrir (saludo, o pregunta de feedback si procede) |
+| POST | `/feedback` | Valoración 👍/👎; Merche encadena la siguiente pregunta |
 | GET | `/productos?q=&categoria=&precio_max=&limite=` | Búsqueda en el catálogo real |
 | GET | `/health` | Comprobación de vida |
 
@@ -45,11 +46,12 @@ mensaje → Gemini clasifica (1 llamada) → el código ejecuta y comprueba viab
 
 - `app/data/mercadona_catalog/`: catálogo real de Mercadona
   ([datania/mercadona-catalog](https://huggingface.co/datasets/datania/mercadona-catalog), MIT), versionado en el repo.
-- `app/data/mock_data.json`: recetas mock con ingredientes (ids reales del catálogo), instrucciones y etiquetas de alérgenos.
-  Se regenera con `python scripts/generar_mock_data.py`.
+- `app/data/mock_data.json`: **78 recetas** (58 para cocinar y 20 listas para comer) con ingredientes y cantidades reales, instrucciones y
+  etiquetas de alérgenos. Se generan con `PYTHONPATH=. python scripts/generar_mock_data.py` (la despensa mapea cada ingrediente a un producto real
+  y convierte gramos/ml en fracción de envase).
 
 ## Pendiente
 
-- Chips de respuesta rápida y feedback iniciado por Merche (ver contrato)
-- Recetas reales en lugar de las 19 mock
+- Valoración de productos (hoy el feedback pregunta por recetas) y que el feedback influya más en los planes
+- Ampliar el recetario o cargarlo de una fuente externa si hace falta más variedad
 - Persistencia en base de datos si el proyecto crece (hoy: ficheros JSON en `.estado/`)

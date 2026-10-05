@@ -19,7 +19,7 @@ Especificación completa y siempre al día: `http://localhost:8000/docs` (Swagge
 > 9. **(CAMBIA)** Se elimina `/sustituir`: cambiar un plato se hace por chat ("cambia el martes"). Con él se retiran también
 >    `/plan`, `/catalogo`, `/categorias`, `/dashboard` y `/productos/{id}`: el frontend solo necesita los endpoints de la tabla "Endpoints".
 > 10. **(NUEVO)** `POST /lista`: el usuario guarda su lista final.
-> 11. **(NUEVO, provisional)** `POST /feedback`: valoración 👍/👎 de una receta o producto (ver abajo). Los chips de respuesta rápida siguen pendientes.
+> 11. **(NUEVO)** Chips de respuesta rápida (`sugerencias`), feedback iniciado por Merche (`feedback`) y `GET /bienvenida` (ver abajo). `POST /feedback`: valoración 👍/👎.
 
 ## Idea general
 
@@ -242,7 +242,8 @@ Estos son todos los que necesita el frontend:
 | POST | `/chat` | **El principal.** Mensaje del usuario -> texto de Merche (+ `plan` si cambia) |
 | GET | `/chat/{session_id}` | Recargar la página: historial y plan vigente |
 | POST | `/lista` | Guardar la lista final del usuario (ver arriba) |
-| POST | `/feedback` | **(NUEVO, provisional)** Valoración 👍/👎 (ver abajo) |
+| GET | `/bienvenida?session_id=` | **(NUEVO)** Primer mensaje de Merche al abrir la conversación (ver abajo) |
+| POST | `/feedback` | **(NUEVO)** Valoración 👍/👎 (ver abajo) |
 | GET | `/productos?q=&categoria=&precio_max=&limite=` | Buscar en el catálogo real (búsqueda de productos del frontend) |
 | GET | `/health` | Comprobación |
 
@@ -254,22 +255,56 @@ Retirados respecto a la v1: `/plan`, `/sustituir`, `/catalogo`, `/categorias`, `
 Las respuestas del chat que no entienden algo **no** son errores: vienen con 200 y un `mensaje` explicativo.
 El frontend ignora campos desconocidos, así que se pueden añadir campos sin avisar.
 
-## (NUEVO, provisional) POST /feedback
+## (NUEVO) Chips de respuesta rápida: `sugerencias`
 
-Implementado de forma mínima para que el frontend pueda conectarlo; el flujo de preguntas lo completaremos más adelante.
+`/chat` y `/bienvenida` pueden devolver `sugerencias: string[]` (**máx. 4**, cortos). Son botones: **al pulsar uno, el frontend lo envía tal cual
+como `mensaje` a `/chat`** (con el mismo `session_id`). Los genera el backend según lo que acaba de pasar; ejemplos:
+`["Somos 2", "Somos 4", "Para 1 persona"]` (al preguntar comensales), `["Cambia el lunes", "Quiero comida y cena", "Soy vegetariano", "Añade leche"]`
+(tras un plan), `["Mejor 50 euros", "Para 1 persona", "Solo de lunes a miércoles"]` (tras un presupuesto imposible).
+Si el campo no viene, no hay chips; el frontend los quita cuando el usuario escribe o pulsa otro mensaje.
+
+## (NUEVO) Feedback iniciado por Merche
+
+Después de que el usuario **guarde una lista** (`/lista`), Merche puede preguntar qué tal salió un plato. Para ello `/chat`, `/bienvenida` y `/feedback`
+pueden devolver un campo `feedback`:
+
+```json
+{ "mensaje": "¡Hola otra vez! ¿Qué tal salió «Pollo al horno con patatas»?",
+  "feedback": { "tipo": "receta", "id": "r1", "nombre": "Pollo al horno con patatas", "imagen": "https://..." } }
+```
+
+El frontend muestra la pregunta (`mensaje`) con la tarjeta del plato y los botones 👍/👎, y responde con `POST /feedback`.
+
+### GET /bienvenida?session_id=...
+
+Se llama **al abrir la conversación** (o la pestaña del chat). Devuelve la misma forma que `/chat` (`session_id`, `mensaje`, `sugerencias?`, `feedback?`; sin `plan`)
+y se guarda en el historial (no se duplica si se llama dos veces seguidas). Según el estado de la sesión:
+
+| Estado | Respuesta |
+|---|---|
+| Sesión nueva | Saludo + chips `["Somos 2", "Somos 4", "Para 1 persona"]` |
+| Plan en marcha, sin lista guardada | "Tienes un plan en marcha..." + chips |
+| Lista guardada y platos por valorar | Pregunta de feedback con `feedback` (el primer plato sin valorar) |
+| Lista guardada y todo valorado | Agradecimiento + chip "Hazme un plan para la semana" |
+
+Sin `session_id`, crea una sesión nueva y devuelve su id.
+
+### POST /feedback
 
 Petición: `{ "session_id", "sujeto": { "tipo": "receta" | "producto", "id": "r1" }, "valor": "positivo" | "negativo", "motivo"?: "Estaba soso" }`
 
-Respuesta: `{ "mensaje"?: "...", "sugerencias"?: ["Estaba soso", "Muy caro", "No me gustó"] }`
+Respuesta: `{ "mensaje"?: "...", "sugerencias"?: ["Estaba soso", "Muy caro", "No me gustó"], "feedback"?: { ... } }`
 
-- Se guarda en la sesión. Una receta con 👎 **no se vuelve a proponer** en esa sesión.
-- Un 👎 sin `motivo` devuelve `sugerencias` (chips); si el usuario pulsa uno, se reenvía el mismo POST con `motivo`.
+- 👍: `mensaje` de agradecimiento; si quedan platos por valorar, trae `feedback` con el siguiente (y el `mensaje` ya lo pregunta).
+- 👎 **sin `motivo`**: `mensaje` "¿Qué falló?" + `sugerencias` (chips). Al pulsar uno, el frontend reenvía el mismo POST con `motivo`; entonces Merche
+  agradece y sigue con el siguiente plato, si lo hay.
+- Una receta con 👎 **no se vuelve a proponer** en esa sesión.
+- **Máximo 3 platos por lista guardada**, para no agobiar; después `feedback` deja de venir.
 - 404 si la sesión no existe.
 
 ### Todavía pendiente
-- **Chips de respuesta rápida en `/chat`:** campo `sugerencias: string[]` (máx. 4) en la respuesta; al pulsar uno, se envía como `mensaje`.
-- **Feedback iniciado por Merche:** campo `feedback` en la respuesta de `/chat` (`{ "sujeto": { "tipo", "id", "nombre", "imagen" } }`),
-  con la pregunta en `mensaje`. Cómo arranca Merche una conversación (p. ej. al abrir la pestaña) está por decidir.
+- Valoración de **productos** (hoy Merche solo pregunta por recetas; el backend ya acepta `tipo: "producto"`).
+- Que el feedback influya en el plan más allá de "no repetir" (p. ej. preferir platos con 👍).
 
 ## Reglas de precio y viabilidad
 
@@ -332,7 +367,7 @@ python -m venv venv
 venv\Scripts\activate          # Linux/Mac: source venv/bin/activate
 pip install -r requirements.txt -r requirements-dev.txt
 uvicorn main:app --reload
-pytest                      # 58 tests, sin red ni Gemini (siempre simulado)
+pytest                      # 66 tests, sin red ni Gemini (siempre simulado)
 
 # Probar a mano: Swagger en http://localhost:8000/docs, o con curl:
 curl -X POST localhost:8000/chat -H "content-type: application/json" -d '{"session_id":"demo","mensaje":"Somos 2, 60 euros y el martes no cocino"}'

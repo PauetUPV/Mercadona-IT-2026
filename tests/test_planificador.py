@@ -64,9 +64,22 @@ def test_dietas_excluyen_etiquetas():
 
 
 def test_dieta_imposible():
-    todas = {t for r in get_recetas() for t in r.etiquetas}
-    with pytest.raises(DatosInvalidos):  # todos los platos listos llevan alguna etiqueta
-        plan(sin_cocinar={"lunes"}, excluir=todas)
+    listos = {r.id for r in get_recetas() if r.tipo == "listo_para_comer"}
+    with pytest.raises(DatosInvalidos):  # no queda ningún plato listo para el día sin cocinar
+        plan(sin_cocinar={"lunes"}, rechazadas=listos)
+
+
+def test_recetario_amplio_y_coherente():
+    recetas = get_recetas()
+    assert len({r.id for r in recetas}) == len(recetas) >= 60
+    assert sum(r.tipo == "cocinar" for r in recetas) >= 40
+    for r in recetas:
+        assert all(0.01 <= i.unidades <= 6 for i in r.ingredientes), r.id  # cantidades razonables
+        assert 0.5 <= r.precio_estimado <= 15, r.id
+    # una semana completa de comida y cena, vegetariana, es posible sin repetir platos
+    p = plan(dias=["lunes", "martes", "miércoles", "jueves", "viernes", "sábado", "domingo"],
+             momentos=["comida", "cena"], excluir={"carne", "pescado"})
+    assert len({r.id for rs in p.dias.values() for r in rs}) == 14
 
 
 def test_presupuesto_reduce_coste():
