@@ -1,0 +1,121 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 255,
+              "level": 2,
+              "name": "Ensalada preparada",
+              "order": 306
+            }
+          ],
+          "id": 28,
+          "level": 1,
+          "name": "Lechuga y ensalada preparada",
+          "order": 306
+        }
+      ],
+      "id": 1,
+      "level": 0,
+      "name": "Fruta y verdura",
+      "order": 306
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Wraps Texas compuesto por hortalizas frescas, pollo, queso, salsa y tortillas de trigo, incluye tenedor",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "WRÁPIDOS TEXAS - Kit de ensalada, pollo, queso, salsa y tortillas de trigo",
+    "mandatory_mentions": "Envasado en atmósfera protectora",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Para apreciar mejor sus cualidades se recomienda consumirlo todo una vez abierto el envase. Conservar entre 1 y 4°C.",
+    "suppliers": [
+      {
+        "name": "Mesturados Canarios, S.L."
+      },
+      {
+        "name": "Verdifresh, S.L.U."
+      }
+    ],
+    "usage_instructions": "1- Abre: Retira el film protector y levanta la bandeja superior. 2- Mezcla: Añade el pollo, el queso y la salsa a la ensalada y mézclalo con el tenedor. 3- Enrolla: Rellena y enrolla las tortillas. Disfruta lo que te sobra consumiéndolo directamente desde el mismo envase."
+  },
+  "display_name": "Wraps Texas",
+  "ean": "8437008711928",
+  "extra_info": [
+    ""
+  ],
+  "id": "69850",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>apio y productos derivados</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "Base de ensalada 31% (tomate, escarola lisa, radicchio y escarola rizada), tortillas de <strong>trigo</strong> 24% (harina de <strong>trigo</strong>, agua, sal, grasa vegetal de palma, estabilizantes (E422, E412, E466), gasificantes (E500ii, E450i), dextrosa, emulgente (E471), harina de arroz, corrector de acidez (E296), conservadores (E281, E202)), pechuga de pollo marinada cocida Tex Mex 23% (Pechuga de pollo 90%, sal, estabilizantes (E420, E451, E407), especias, proteína vegetal hidrolizada, conservadores (E326, E262i), azúcar, aromas, extracto de levadura, extracto de especias, antioxidantes (E301, E330)), salsa Ranch 13% (aceite vegetal de girasol, agua, vinagre de alcohol, jarabe de glucosa y fructosa, sal, yema de <strong>huevo</strong>, <strong>mantequilla</strong>, <strong>leche</strong> en polvo, cebolla, ajo, estabilizantes (E415, E412, E435), especias (perejil y pimienta negra), conservador (E202)), mezcla de <strong>quesos</strong> rallados 8% (<strong>queso Cheddar</strong> (<strong>leche</strong> pasteurizada de vaca, sal, fermentos lácticos, cuajo, colorante (E160b)), <strong>queso Edam</strong> (<strong>leche</strong> pasteurizada de vaca, sal, fermentos lácticos y cuajo) y fécula de patata)). Puede contener trazas de <strong>apio</strong>."
+  },
+  "origin": null,
+  "packaging": "Bol",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/1fbf2aaf3d75ab188246cd222e76a419.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1fbf2aaf3d75ab188246cd222e76a419.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1fbf2aaf3d75ab188246cd222e76a419.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/a4ff001d505cccbd060bb2d74b19e36d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a4ff001d505cccbd060bb2d74b19e36d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a4ff001d505cccbd060bb2d74b19e36d.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/fe4f59b091f353db9007665fbfb2a1b1.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/fe4f59b091f353db9007665fbfb2a1b1.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/fe4f59b091f353db9007665fbfb2a1b1.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "10.33",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "10.334",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.10",
+    "unit_selector": true,
+    "unit_size": 0.3
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/69850/wraps-texas-compuesto-hortalizas-frescas-pollo-queso-salsa-tortillas-trigo-incluye-tenedor-bol",
+  "slug": "wraps-texas-compuesto-hortalizas-frescas-pollo-queso-salsa-tortillas-trigo-incluye-tenedor-bol",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/1fbf2aaf3d75ab188246cd222e76a419.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

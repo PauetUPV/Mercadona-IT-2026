@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 320,
+              "level": 2,
+              "name": "Otros panes",
+              "order": 515
+            }
+          ],
+          "id": 60,
+          "level": 1,
+          "name": "Pan de molde y otras especialidades",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pan de molde 15% maíz Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Pan de molde 15% de maíz",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Morato Iberia, S.L.U"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Pan de molde 15% maíz Hacendado",
+  "ean": "8402001057397",
+  "extra_info": [
+    ""
+  ],
+  "id": "17667",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Libre de <strong>ml</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Harina (50%) (<strong>trigo</strong> (<strong>gluten</strong>), maíz (15%)), agua, semillas de girasol, levadura, <strong>gluten</strong> de <strong>trigo</strong>, sémola de maíz (2,5%), azúcar, maíz extruido (1,8%), aceite refinado de girasol (1,4%), sal, vinagre de vino, especias, extracto de zanahoria, emulgente (E-472e), conservadores (E-200, E-202, E-282), antioxidante (E-300). Puede contener trazas de <strong>semillas de sésamo</strong>, <strong>soja</strong> y <strong>mostaza</strong>. Sin lactosa."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/086d7d02eb8e3c7412942bbdb6e7e04d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/086d7d02eb8e3c7412942bbdb6e7e04d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/086d7d02eb8e3c7412942bbdb6e7e04d.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/e41df45c120c068ae0a406b39ab15bba.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e41df45c120c068ae0a406b39ab15bba.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e41df45c120c068ae0a406b39ab15bba.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "3.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 14,
+    "unit_name": "rebanadas",
+    "unit_price": "1.65",
+    "unit_selector": true,
+    "unit_size": 0.55
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/17667/pan-molde-15-maiz-hacendado-paquete",
+  "slug": "pan-molde-15-maiz-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/086d7d02eb8e3c7412942bbdb6e7e04d.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

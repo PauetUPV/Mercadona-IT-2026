@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 502,
+              "level": 2,
+              "name": "Hummus y otros",
+              "order": 597
+            }
+          ],
+          "id": 142,
+          "level": 1,
+          "name": "Platos preparados fríos",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Hummus de garbanzos Hacendado con pimiento del piquillo asado",
+    "legal_name": "CREMA DE GARBANZOS CON PIMIENTO DEL PIQUILLO ASADO",
+    "mandatory_mentions": "",
+    "origin": "ESPAÑA",
+    "production_variant": "",
+    "storage_instructions": "Producto refrigerado, mantener entre 0ºC y 7ºC. Una vez abierto consumir antes de 48 horas.",
+    "suppliers": [
+      {
+        "name": "RENSIKA S.L.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Hummus de garbanzos Hacendado con pimiento del piquillo asado",
+  "ean": "8432089101422",
+  "extra_info": [
+    null
+  ],
+  "id": "80862",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Libre de <strong>dióxido de azufre y sulfitos</strong>. Libre de <strong>cacahuetes y productos a base de cacahuetes</strong>. Libre de <strong>soja y productos a base de soja</strong>. Libre de <strong>apio y productos derivados</strong>. Contiene <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Libre de <strong>altramuces y productos a base de altramuces</strong>. Libre de <strong>pescado y productos a base de pescado</strong>. Libre de <strong>mostaza y productos derivados</strong>. Libre de <strong>moluscos y productos a base de moluscos</strong>. Libre de <strong>leche y sus derivados (incluida la lactosa)</strong>. Libre de <strong>huevos y productos a base de huevo</strong>. Libre de <strong>frutos de cáscara</strong>. Libre de <strong>crustáceos y productos a base de crustáceos</strong>. Libre de <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Garbanzos 54%, aceite de girasol, <strong>pasta sésamo</strong>, ensalada pimiento 5% (pimientos del piquillo asados (72%), cebolla, agua, azúcar, vinagre, sal y acidulante: ácido cítrico), agua, zumo de limón 2%, aceite de oliva 2%, ajo molido, sal, acidulantes (E-330 y E-270 de origen vegetal), vinagre en polvo, aromas naturales y conservador (E202). <strong>Contiene sesamo</strong></p>Grão de bico 54%, óleo de girassol, <strong>pasta de sesamo,</strong> salada de pimentos 5% (pimentos de piquillo assados (72%), cebola, água, açúcar, vinagre, sal e acidulante: ácido cítrico), água, sumo de limão 2%, azeite 2%, alho moído, sal, acidulantes (E-330 e E-270 de origem vegetal), vinagre em pó, aromas naturais e conservador (E202). <strong>Contém sesamo</strong>"
+  },
+  "origin": "ESPAÑA",
+  "packaging": "Tarrina",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/3770ffe361f92836ab96d4fa43b0b196.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3770ffe361f92836ab96d4fa43b0b196.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3770ffe361f92836ab96d4fa43b0b196.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/9c67031907fc95f0a8f68f06c1dcf049.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9c67031907fc95f0a8f68f06c1dcf049.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9c67031907fc95f0a8f68f06c1dcf049.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.04",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.042",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.45",
+    "unit_selector": true,
+    "unit_size": 0.24
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/80862/hummus-garbanzos-hacendado-con-pimiento-piquillo-asado-tarrina",
+  "slug": "hummus-garbanzos-hacendado-con-pimiento-piquillo-asado-tarrina",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/3770ffe361f92836ab96d4fa43b0b196.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

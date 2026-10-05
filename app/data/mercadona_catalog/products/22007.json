@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Delikuit",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 715,
+              "level": 2,
+              "name": "Alimentación húmeda",
+              "order": 443
+            }
+          ],
+          "id": 222,
+          "level": 1,
+          "name": "Gato",
+          "order": 443
+        }
+      ],
+      "id": 25,
+      "level": 0,
+      "name": "Mascotas",
+      "order": 443
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Delikuit",
+    "counter_info": null,
+    "danger_mentions": null,
+    "description": "Bocaditos en gelatina gato júnior Delikuit con pollo y pavo",
+    "legal_name": null,
+    "mandatory_mentions": null,
+    "origin": null,
+    "production_variant": null,
+    "storage_instructions": null,
+    "suppliers": [],
+    "usage_instructions": null
+  },
+  "display_name": "Bocaditos en gelatina gato júnior Delikuit con pollo y pavo",
+  "ean": "8480000220073",
+  "extra_info": [
+    ""
+  ],
+  "id": "22007",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": null
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/cff6be7f5e3bb601884d53db9e25f823.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/cff6be7f5e3bb601884d53db9e25f823.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/cff6be7f5e3bb601884d53db9e25f823.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/f9690e1afa5525e1a39a13b52dcec6ab.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f9690e1afa5525e1a39a13b52dcec6ab.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f9690e1afa5525e1a39a13b52dcec6ab.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/6f1eb695e463c444ccc65cbba4c9559b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/6f1eb695e463c444ccc65cbba4c9559b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/6f1eb695e463c444ccc65cbba4c9559b.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.13",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "3.125",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 8,
+    "unit_name": "ud.",
+    "unit_price": "2.50",
+    "unit_selector": true,
+    "unit_size": 0.8
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/22007/bocaditos-gelatina-gato-junior-delikuit-con-pollo-pavo-paquete",
+  "slug": "bocaditos-gelatina-gato-junior-delikuit-con-pollo-pavo-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/cff6be7f5e3bb601884d53db9e25f823.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

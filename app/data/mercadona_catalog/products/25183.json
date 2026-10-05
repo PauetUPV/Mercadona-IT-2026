@@ -1,0 +1,165 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 290,
+              "level": 2,
+              "name": "Carne congelada",
+              "order": 17
+            }
+          ],
+          "id": 47,
+          "level": 1,
+          "name": "Carne congelada",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 511,
+              "level": 2,
+              "name": "Carne",
+              "order": 213
+            }
+          ],
+          "id": 148,
+          "level": 1,
+          "name": "Carne",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Jamoncitos de pollo congelados",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Jamoncitos de pollo congelados",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar a -18 ºC. Una vez descongelado, consumir en 24 horas",
+    "suppliers": [
+      {
+        "name": "Avinatur Producciones Avícolas, S.L."
+      },
+      {
+        "name": "DISPORAVE, S.L.U."
+      },
+      {
+        "name": "Danpo A/S"
+      },
+      {
+        "name": "Disporave, S.L.U."
+      },
+      {
+        "name": "Elaborado por: MENCEYES FOOD COMPANY SL."
+      },
+      {
+        "name": "Faccenda Foods Ltd"
+      },
+      {
+        "name": "INASUR"
+      },
+      {
+        "name": "Landgaflügel FG Vertriebsgesellschaft mbH"
+      },
+      {
+        "name": "MENCEYES FOOD COMPANY S.L."
+      },
+      {
+        "name": "Moy Park Limited"
+      },
+      {
+        "name": "Nutrave S.A"
+      }
+    ],
+    "usage_instructions": "Cocinar completamente antes de su consumo. Descongelar completamente antes de usar, no lavar el producto crudo y no volver a congelar."
+  },
+  "display_name": "Jamoncitos de pollo congelados",
+  "ean": "4052485456359",
+  "extra_info": [
+    ""
+  ],
+  "id": "25183",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "congelados",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Pollo 100%."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/bebaada78c49c64b7dda4cf6b5726cf0.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/bebaada78c49c64b7dda4cf6b5726cf0.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/bebaada78c49c64b7dda4cf6b5726cf0.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/806a629d546ecc4e46c4897692aa0409.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/806a629d546ecc4e46c4897692aa0409.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/806a629d546ecc4e46c4897692aa0409.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.30",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "3.300",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.30",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/25183/jamoncitos-pollo-congelados-paquete",
+  "slug": "jamoncitos-pollo-congelados-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/bebaada78c49c64b7dda4cf6b5726cf0.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

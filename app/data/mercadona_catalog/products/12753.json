@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "+Proteínas",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 413,
+              "level": 2,
+              "name": "Yogures líquidos",
+              "order": 598
+            }
+          ],
+          "id": 108,
+          "level": 1,
+          "name": "Yogures líquidos",
+          "order": 598
+        }
+      ],
+      "id": 11,
+      "level": 0,
+      "name": "Postres y yogures",
+      "order": 598
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "+Proteínas",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Bebida láctea sabor fresa y plátano +Proteínas 17,4 g 0% MG 0% azúcares añadidos Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Leche fermentada desnatada para beber sabor a fresa y plátano. Con edulcorante.",
+    "mandatory_mentions": "No apto para alérgicos a la proteína de la leche de vaca. Contenido en lactosa: <0,01g por 100g.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 1C y 8C.",
+    "suppliers": [
+      {
+        "name": "Schreiber Foods España, S.L"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Bebida láctea sabor fresa y plátano +Proteínas 17,4 g 0% MG 0% azúcares añadidos",
+  "ean": "8402001030383",
+  "extra_info": [
+    ""
+  ],
+  "id": "12753",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "17,4 g 0% MG 0% azúcares añadidos",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Leche</strong> fresca pasteurizada desnatada (Origen: España), agua, proteínas de la <strong>leche</strong>, <strong>leche</strong> en polvo desnatada, almidón modificado, aromas, concentrado de zanahoria, edulcorante (sucralosa), fermentos lácticos, espesante (goma gellan), conservador (sorbato potásico) y lactasa. Contiene <strong>leche</strong> de vaca. Sin gluten. Sin lactosa."
+  },
+  "origin": null,
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/4a84b1a833d1cefcc9370344faca4d12.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4a84b1a833d1cefcc9370344faca4d12.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4a84b1a833d1cefcc9370344faca4d12.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/428f877104442e2193bd3084cdd08679.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/428f877104442e2193bd3084cdd08679.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/428f877104442e2193bd3084cdd08679.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "2.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.50",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/12753/bebida-lactea-desnatada-sabor-fresa-platano-proteinas-hacendado-0-mg-174-g-proteinas-botella",
+  "slug": "bebida-lactea-desnatada-sabor-fresa-platano-proteinas-hacendado-0-mg-174-g-proteinas-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/4a84b1a833d1cefcc9370344faca4d12.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

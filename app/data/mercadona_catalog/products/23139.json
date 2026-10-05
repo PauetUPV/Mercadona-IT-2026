@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 494,
+              "level": 2,
+              "name": "Platos de cuchara",
+              "order": 597
+            }
+          ],
+          "id": 140,
+          "level": 1,
+          "name": "Platos preparados calientes",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Albóndigas de pollo Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Albóndigas de pollo",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco.Una vez abierto conservar en el frigorífico un máximo de 3 días.",
+    "suppliers": [
+      {
+        "name": "INDUSTRIAS FRIGORÍFICAS DEL LOURO, S.A."
+      }
+    ],
+    "usage_instructions": "Producto listo para su consumo. Calentar antes de consumir"
+  },
+  "display_name": "Albóndigas de pollo Hacendado",
+  "ean": "8480000231390",
+  "extra_info": [
+    null
+  ],
+  "id": "23139",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "Albondigas (carne de pollo (52%), agua, pan rallado sin gluten (harina de arroz, dextrosa, fibra vegetal y emulgente (E-471)), fécula de patata, proteína de <strong>soja</strong>, <strong>huevo</strong>, sal, caldo de pollo (almidón de maíz, extractos de levadura, aceite de girasol, maltodextrina, pollo, azúcar, aromas y especias)). Salsa (agua, tomate, zanohoria, cebolla, aceite de girasol, almidón modificado, azúcar, sal y aroma)"
+  },
+  "origin": "España",
+  "packaging": "Bote",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/04e99d3dc3f5809360e2822edf760470.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/04e99d3dc3f5809360e2822edf760470.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/04e99d3dc3f5809360e2822edf760470.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/d744d8464a9d960c639ad983b3e0b04a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d744d8464a9d960c639ad983b3e0b04a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d744d8464a9d960c639ad983b3e0b04a.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.29",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "4.286",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.80",
+    "unit_selector": true,
+    "unit_size": 0.42
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/23139/albondigas-pollo-hacendado-bote",
+  "slug": "albondigas-pollo-hacendado-bote",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/04e99d3dc3f5809360e2822edf760470.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

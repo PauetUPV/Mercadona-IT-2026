@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 878,
+              "level": 2,
+              "name": "Platos calientes",
+              "order": 597
+            }
+          ],
+          "id": 897,
+          "level": 1,
+          "name": "Listo para Comer",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Noodles Yakisoba con carne y verduras compuesto por noodles, carne de cerdo, verduras, salsa yakisoba y mayonesa",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "YAKISOBA",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 0-6C.",
+    "suppliers": [
+      {
+        "name": "Leroy Processing Spain S.L.U."
+      }
+    ],
+    "usage_instructions": "Calentar sin tapa en el microondas 2 min a 800W."
+  },
+  "display_name": "Noodles Yakisoba con carne y verduras",
+  "ean": "8402001033193",
+  "extra_info": [
+    ""
+  ],
+  "id": "13235",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>cereales que contengan gluten</strong>. Puede contener <strong>frutos de cáscara</strong>. Contiene <strong>dióxido de azufre y sulfitos</strong>. Puede contener <strong>pescado y productos a base de pescado</strong>. Contiene <strong>mostaza y productos derivados</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Contiene <strong>apio y productos derivados</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>moluscos y productos a base de moluscos</strong>. Puede contener <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>cacahuetes y productos a base de cacahuetes</strong>.",
+    "ingredients": "Fideos de <strong>trigo</strong> [harina de <strong>trigo</strong>], salsa yakisoba (15%) [agua, jarabe de maíz alto en fructosa, melaza (caña de azúcar, azúcar de remolacha), salsa de <strong>soja</strong> (agua, <strong>soja</strong>, <strong>trigo</strong>, sal, alcohol), sal, vinagre blanco destilado, proteína de <strong>soja</strong> hidrolizada, pasta de tomate, almidón modificado de maíz, colorante E-150a, especias (contiene <strong>apio</strong>), pasta de cebolla, extracto de levadura, pasta de manzana, espesante E-412, extracto de champiñón, seta shiitake en polvo, polvo de ajo, extracto de cebolla, zumo concentrado de dátil], col lisa, cebolla, secreto de cerdo, aceite refinado de girasol, <strong>huevo</strong> líquido pasteurizado [<strong>huevo</strong> de gallina, corrector de acidez E-330 y conservadores (E-202, E-211)], mayonesa japonesa [aceite refinado de girasol, agua, yema de <strong>huevo</strong> pasteurizada, azúcar, <strong>mostaza</strong> Dijon (agua, semillas de <strong>mostaza</strong>, vinagre de alcohol, sal, acidulante E-330, conservador E-224 (<strong>sulfitos</strong>)), sal, rábano picante en polvo (<strong>sulfitos</strong>), vinagre de alcohol (<strong>sulfitos</strong>), zumo de limón concentrado, almidón modificado, aroma natural, espesante (E-412, E-415) y colorante E-160a], cebollino, potenciador del sabor E-621, sal y pimienta negra. Puede contener <strong>crustáceos</strong>, <strong>pescado</strong>, <strong>cacahuete</strong>, <strong>leche</strong>, <strong>frutos de cáscara</strong>, <strong>sésamo</strong> y <strong>moluscos</strong>."
+  },
+  "origin": null,
+  "packaging": "Bol",
+  "photos": [
+    {
+      "perspective": 3,
+      "regular": "https://prod-mercadona.imgix.net/images/fc26c39dd1a77b50d810307230fddeaa.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/fc26c39dd1a77b50d810307230fddeaa.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/fc26c39dd1a77b50d810307230fddeaa.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/975cd92f4b66bf09f2c0bc4deacd7d37.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/975cd92f4b66bf09f2c0bc4deacd7d37.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/975cd92f4b66bf09f2c0bc4deacd7d37.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "4.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "4.50",
+    "unit_selector": true,
+    "unit_size": 0.3
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/13235/noodles-yakisoba-con-carne-verduras-contiene-noodles-carne-cerdo-verduras-salsa-yakisoba-mayonesa-bol",
+  "slug": "noodles-yakisoba-con-carne-verduras-contiene-noodles-carne-cerdo-verduras-salsa-yakisoba-mayonesa-bol",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/fc26c39dd1a77b50d810307230fddeaa.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

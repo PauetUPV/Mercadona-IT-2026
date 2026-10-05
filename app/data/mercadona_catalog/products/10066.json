@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "ColaCao",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 350,
+              "level": 2,
+              "name": "Batidos",
+              "order": 373
+            }
+          ],
+          "id": 72,
+          "level": 1,
+          "name": "Leche y bebidas vegetales",
+          "order": 373
+        }
+      ],
+      "id": 6,
+      "level": 0,
+      "name": "Huevos, leche y mantequilla",
+      "order": 373
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "ColaCao",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Batido de chocolate ColaCao Energy",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Leche enriquecida con cacao UHT",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Presérvese de la luz. Mantener en lugar fresco y seco",
+    "suppliers": [
+      {
+        "name": "Idilia Food S.L."
+      }
+    ],
+    "usage_instructions": "Agítese antes de abrir."
+  },
+  "display_name": "Batido de chocolate ColaCao Energy",
+  "ean": "8410014366580",
+  "extra_info": [
+    null
+  ],
+  "id": "10066",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "Energy",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Leche</strong> parcialmente desnatada, azúcar, cacao desgrasado, almidón, aromas, sales minerales (fosfato bicálcico y sulfato de zinc), estabilizantes (E 339, E 471, E 407), sal"
+  },
+  "origin": "España",
+  "packaging": "Pack-4",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/d36c059698f391403d40182123245a0d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d36c059698f391403d40182123245a0d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d36c059698f391403d40182123245a0d.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/c59a530f6b21fe1e1a0f487add21d278.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c59a530f6b21fe1e1a0f487add21d278.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c59a530f6b21fe1e1a0f487add21d278.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.79",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.188,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "3.790",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": 4,
+    "unit_name": "mini botellas",
+    "unit_price": "2.85",
+    "unit_selector": true,
+    "unit_size": 0.752
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/10066/batido-chocolate-colacao-energy-pack-4",
+  "slug": "batido-chocolate-colacao-energy-pack-4",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/d36c059698f391403d40182123245a0d.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Wasa",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 322,
+              "level": 2,
+              "name": "Pan tostado",
+              "order": 515
+            }
+          ],
+          "id": 62,
+          "level": 1,
+          "name": "Pan tostado y rallado",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Wasa",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pan tostado fino con sésamo y sal marina Delicate Crisp Wasa",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Producto de panadería con harina de trigo integral y semillas de sésamo",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Consérvese en un lugar seco y oscuro.",
+    "suppliers": [
+      {
+        "name": "Barilla Sverige AB,"
+      }
+    ],
+    "usage_instructions": "Listo para degustar. Conservar en un lugar fresco y seco. Consumir preferentemente antes del: ver fecha en el lateral."
+  },
+  "display_name": "Pan tostado fino con sésamo y sal marina Delicate Crisp Wasa",
+  "ean": "7300400482615",
+  "extra_info": [
+    ""
+  ],
+  "id": "17572",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>gb</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>granos de sésamo y productos a base de granos de sésamo</strong>.",
+    "ingredients": "harina de <strong>trigo</strong> integral, harina de <strong>trigo</strong>, granos de <strong>sésamo</strong> (13%), aceite de colza, sal marina (1,4%), extracto de malta dec<strong>ebada,</strong> sal, levadura, antioxidante: extractos de romero."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/dc28342be8c28a14264d7e15fc7301e2.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/dc28342be8c28a14264d7e15fc7301e2.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/dc28342be8c28a14264d7e15fc7301e2.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/84fa418adfec279364188e8330a5d8ac.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/84fa418adfec279364188e8330a5d8ac.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/84fa418adfec279364188e8330a5d8ac.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "9.47",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": "        1.80",
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "9.474",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.80",
+    "unit_selector": true,
+    "unit_size": 0.19
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/17572/pan-tostado-fino-con-sesamo-sal-marina-delicate-crisp-wasa-paquete",
+  "slug": "pan-tostado-fino-con-sesamo-sal-marina-delicate-crisp-wasa-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/dc28342be8c28a14264d7e15fc7301e2.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

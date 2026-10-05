@@ -1,0 +1,122 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 808,
+              "level": 2,
+              "name": "Sepia, pulpo y calamar",
+              "order": 442
+            }
+          ],
+          "id": 31,
+          "level": 1,
+          "name": "Pescado fresco",
+          "order": 442
+        }
+      ],
+      "id": 2,
+      "level": 0,
+      "name": "Marisco y pescado",
+      "order": 442
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pulpo cocido",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Pulpo cocido",
+    "mandatory_mentions": "Producto sometido a altas presiones. Producto refrigerado.",
+    "origin": "España",
+    "production_variant": "Producto de peso variable. Por favor, consulte la etiqueta del producto para conocer el contenido neto del mismo.",
+    "storage_instructions": "Conservar entre 0C y 4C. Una vez abierto consumir en 24 h. Apto para congelar.",
+    "suppliers": [
+      {
+        "name": "Grupo Profand, S.L."
+      },
+      {
+        "name": "Grupo Profand, S.L.U."
+      }
+    ],
+    "usage_instructions": "Listo para consumir."
+  },
+  "display_name": "Pulpo cocido",
+  "ean": "8480000828507",
+  "extra_info": [
+    ""
+  ],
+  "id": "82850",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>moluscos y productos a base de moluscos</strong>. Puede contener <strong>pescado y productos a base de pescado</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>.",
+    "ingredients": "Pulpo (Octopus vulgaris) (<strong>moluscos</strong>) y sal. Puede contener <strong>pescado</strong> y/o <strong>crustáceos</strong>"
+  },
+  "origin": "España",
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/e6e5184f709efe2d90b7de4c1ae17aed.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e6e5184f709efe2d90b7de4c1ae17aed.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e6e5184f709efe2d90b7de4c1ae17aed.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/b635fb4ec4bc312377bc19aff316c714.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b635fb4ec4bc312377bc19aff316c714.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b635fb4ec4bc312377bc19aff316c714.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/ed0ca685e2cda802bb812a64ac0d2fb9.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ed0ca685e2cda802bb812a64ac0d2fb9.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ed0ca685e2cda802bb812a64ac0d2fb9.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "36.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "36.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "10.80",
+    "unit_selector": true,
+    "unit_size": 0.3
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/82850/pulpo-cocido-bandeja",
+  "slug": "pulpo-cocido-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/e6e5184f709efe2d90b7de4c1ae17aed.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": "2026-07-12T22:00:00+00:00",
+  "unavailable_weekdays": []
+}

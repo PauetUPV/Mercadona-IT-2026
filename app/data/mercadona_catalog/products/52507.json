@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 496,
+              "level": 2,
+              "name": "Pasta",
+              "order": 597
+            }
+          ],
+          "id": 140,
+          "level": 1,
+          "name": "Platos preparados calientes",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Macarrones Mac & Cheese Bacon Hacendado gratinados",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Salsa de queso con pasta cocida y bacon",
+    "mandatory_mentions": "Envasado en atmósfera protectora.",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 0-4C. Una vez abierto se recomienda su consumo inmediato.",
+    "suppliers": [
+      {
+        "name": "Platos Tradicionales S.A."
+      }
+    ],
+    "usage_instructions": "MICROONDAS: 1. retirar la etiqueta y el film. 2. calentar 2-3 minutos a máxima potencia. No utilizar Grill."
+  },
+  "display_name": "Macarrones Mac & Cheese Bacon Hacendado gratinados",
+  "ean": "8402001013522",
+  "extra_info": [
+    ""
+  ],
+  "id": "52507",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "gratinados",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>mostaza y productos derivados</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>moluscos y productos a base de moluscos</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>. Puede contener <strong>pescado y productos a base de pescado</strong>. Puede contener <strong>soja y productos a base de soja</strong>.",
+    "ingredients": "Salsa de queso (<strong>leche</strong>**) (62%): agua, quesos (<strong>leche</strong>**) fundidos y quesos (<strong>leche</strong>**) (21%*) (quesos [<strong>leche</strong>**] fundidos (queso (<strong>leche</strong>)), almidón modificado, agua, nata [<strong>leche</strong>**], proteínas de la <strong>leche</strong>**, lactosuero [<strong>leche</strong>**], sal, sales de fundido [citratos de sodio, polifosfatos y fosfatos de potasio], conservador [sorbato potásico] y acidulante [ácido cítrico], queso [<strong>leche</strong>] y queso [<strong>leche</strong>**] de oveja [<strong>leche</strong>** de oveja, sal, estabilizante [cloruro cálcico], conservador [lisozima de <strong>huevo</strong>], cuajo y fermentos <strong>lácteos</strong>]), nata (<strong>leche</strong>**), cebolla frita (cebolla y aceite de oliva), bacon (2%) (panceta de cerdo, sal, dextrosa, especias, antioxidante [ascorbato sódico] y conservador [nitrito sódico]), <strong>leche</strong>**, almidón modificado, aceite refinado de girasol, pasta de ajo (ajo, sal y corrector de acidez [ácido cítrico]), sal, aroma natural, mostaza (agua, <strong>mostaza</strong>, vinagre y sal), tomate, gelatina de cerdo, azúcar, aromas, extracto de levadura, especias, cártamo y espesante (goma xantana); pasta cocida (38%): agua, sémola de <strong>trigo</strong> (<strong>gluten</strong>), aceite refinado de girasol y espesante (goma xantana). Contiene trazas de <strong>soja</strong>, <strong>pescado</strong>, <strong>crustáceos</strong> y <strong>moluscos</strong>. *Respecto a la salsa de <strong>queso</strong> (<strong>leche</strong>). *Procedente de <strong>leche</strong> pasteurizada."
+  },
+  "origin": "España",
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/e93d2c0cc2ae06a0f12d6a99af41b383.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e93d2c0cc2ae06a0f12d6a99af41b383.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e93d2c0cc2ae06a0f12d6a99af41b383.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/d1842d9f7f1724f27296fa3e4767bda9.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d1842d9f7f1724f27296fa3e4767bda9.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d1842d9f7f1724f27296fa3e4767bda9.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "8.75",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "8.750",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.45",
+    "unit_selector": true,
+    "unit_size": 0.28
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/52507/macarrones-con-queso-hacendado-bandeja",
+  "slug": "macarrones-con-queso-hacendado-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/e93d2c0cc2ae06a0f12d6a99af41b383.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

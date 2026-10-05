@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 467,
+              "level": 2,
+              "name": "Conservas verdura",
+              "order": 215
+            }
+          ],
+          "id": 127,
+          "level": 1,
+          "name": "Conservas de verdura y frutas",
+          "order": 215
+        }
+      ],
+      "id": 14,
+      "level": 0,
+      "name": "Conservas, caldos y cremas",
+      "order": 215
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Mazorquitas de maíz agridulce Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Mazorcas de maíz agridulces. Extra",
+    "mandatory_mentions": "Producto pasteurizado",
+    "origin": "Producto originario de India",
+    "production_variant": "",
+    "storage_instructions": "Consumir dentro de los 8 días después de la apertura. Una vez abierto, conservar cerrado en el frigorífico con el máximo de líquido posible.",
+    "suppliers": [
+      {
+        "name": "Conservas Franco - Riojanas, S.A.U."
+      },
+      {
+        "name": "Végola Ibérica, S.L.U."
+      }
+    ],
+    "usage_instructions": "Producto listo para su consumo."
+  },
+  "display_name": "Mazorquitas de maíz agridulce Hacendado",
+  "ean": "8480000167576",
+  "extra_info": [
+    null
+  ],
+  "id": "16757",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Mazorcas de maíz, vinagre de vino, sal, azúcar y antioxidante: ácido ascórbico."
+  },
+  "origin": "Producto originario de India",
+  "packaging": "Tarro",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/2ebede8e519bda91716db94815679de5.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/2ebede8e519bda91716db94815679de5.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/2ebede8e519bda91716db94815679de5.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/a7e18e6186e2b0cb02fa28a586c7f39c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a7e18e6186e2b0cb02fa28a586c7f39c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a7e18e6186e2b0cb02fa28a586c7f39c.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "7.43",
+    "bunch_selector": false,
+    "drained_weight": 0.19,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "13.685",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.60",
+    "unit_selector": true,
+    "unit_size": 0.35
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/16757/mazorquitas-maiz-agridulce-hacendado-tarro",
+  "slug": "mazorquitas-maiz-agridulce-hacendado-tarro",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/2ebede8e519bda91716db94815679de5.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

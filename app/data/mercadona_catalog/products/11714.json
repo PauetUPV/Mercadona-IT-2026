@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 368,
+              "level": 2,
+              "name": "Café molido",
+              "order": 16
+            }
+          ],
+          "id": 83,
+          "level": 1,
+          "name": "Café molido y en grano",
+          "order": 16
+        }
+      ],
+      "id": 8,
+      "level": 0,
+      "name": "Cacao, café e infusiones",
+      "order": 16
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Café molido natural Hacendado Espresso",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Café molido de tueste natural",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Guarde el paquete en un recipiente hermético una vez abierto y preferiblemente en el frigorífico.",
+    "suppliers": [
+      {
+        "name": "UCC COFFEE SPAIN SLU"
+      }
+    ],
+    "usage_instructions": "7g de café  en 35ml de agua en cafetera espresso"
+  },
+  "display_name": "Café molido natural Hacendado Espresso",
+  "ean": "8480000117144",
+  "extra_info": [
+    null
+  ],
+  "id": "11714",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "Espresso",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Café"
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/63b870064b00ff5968c914df3c567628.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/63b870064b00ff5968c914df3c567628.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/63b870064b00ff5968c914df3c567628.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/81d6159fd18afba6dc1230eb000c4071.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/81d6159fd18afba6dc1230eb000c4071.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/81d6159fd18afba6dc1230eb000c4071.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "13.80",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": "        3.60",
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "13.800",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.45",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/11714/cafe-molido-natural-hacendado-espresso-paquete",
+  "slug": "cafe-molido-natural-hacendado-espresso-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/63b870064b00ff5968c914df3c567628.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

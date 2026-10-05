@@ -1,0 +1,122 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Monster",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 540,
+              "level": 2,
+              "name": "Energético",
+              "order": 8
+            }
+          ],
+          "id": 163,
+          "level": 1,
+          "name": "Isotónico y energético",
+          "order": 8
+        }
+      ],
+      "id": 18,
+      "level": 0,
+      "name": "Agua y refrescos",
+      "order": 8
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Monster",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Bebida energética Mango Loco Monster",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Bebida energética carbonatada con taurina, cafeína, L-carnitina, inositol y vitaminas del grupo B. Con azúcares y edulcorante.",
+    "mandatory_mentions": "Contenido elevado de cafeína: No recomendado para niños ni mujeres embarazadas o en período de lactancia, o personas sensibles a la cafeína (32mg/100ml). Consumir responsablemente.",
+    "origin": null,
+    "production_variant": "-",
+    "storage_instructions": "Guardar en lugar fresco y seco. Servir frío",
+    "suppliers": [
+      {
+        "name": "CC European Partners Iberia, S.L.U."
+      },
+      {
+        "name": "Monster Energy Limited"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Bebida energética Mango Loco Monster",
+  "ean": "5060751213130",
+  "extra_info": [
+    null
+  ],
+  "id": "13815",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Ingredientes: agua carbonatada, zumo de frutas a base de concentrado (9%) (mango, guayaba, uva blanca, manzana, piña, naranja, albaricoque, melocotón, fruta de la pasión, limón), sacarosa, jarabe de glucosa, acidulantes (ácido cítrico, ácido málico), taurina (0.4%), aromas, correctores de acidez (citratos de potasio, citratos de sodio), conservadores (sorbato potásico, benzoato sódico), cafeína (0.03%), colorante (carotenos), edulcorante (sucralosa), vitaminas (B3, B6, B2, B12), estabilizantes (goma xantana, alginato sódico, goma arábiga), L-carnitina L-tartrato (0.004%), inositol (0.002%), concentrados de frutas y verduras (uva, zanahoria, boniato)."
+  },
+  "origin": null,
+  "packaging": "Pack-4",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/61ac9fc2ea71f02a79178352e9737f1e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/61ac9fc2ea71f02a79178352e9737f1e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/61ac9fc2ea71f02a79178352e9737f1e.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/c67c3deacba06cd4c10514a944b07c4f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c67c3deacba06cd4c10514a944b07c4f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c67c3deacba06cd4c10514a944b07c4f.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/9e18c132a2628361c0026bb8e41177b0.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9e18c132a2628361c0026bb8e41177b0.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9e18c132a2628361c0026bb8e41177b0.jpeg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.64",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.5,
+    "previous_unit_price": "        6.68",
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "2.640",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": 4,
+    "unit_name": "latas",
+    "unit_price": "5.28",
+    "unit_selector": true,
+    "unit_size": 2.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/13815/bebida-energetica-mango-loco-monster-pack-4",
+  "slug": "bebida-energetica-mango-loco-monster-pack-4",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/61ac9fc2ea71f02a79178352e9737f1e.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

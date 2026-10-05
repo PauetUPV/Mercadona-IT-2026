@@ -1,0 +1,117 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Gallina Blanca",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 471,
+              "level": 2,
+              "name": "Sopa",
+              "order": 215
+            }
+          ],
+          "id": 129,
+          "level": 1,
+          "name": "Sopa y caldo",
+          "order": 215
+        }
+      ],
+      "id": 14,
+      "level": 0,
+      "name": "Conservas, caldos y cremas",
+      "order": 215
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Gallina Blanca",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Sopa de pollo Gallina Blanca con fideos finos",
+    "legal_name": "Sopa deshidratada de pollo con fideos finos",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco",
+    "suppliers": [
+      {
+        "name": "GALLINA BLANCA, S.A.U."
+      },
+      {
+        "name": "Gallina Blanca, S.A."
+      },
+      {
+        "name": "Gallina Blanca, S.A.U."
+      }
+    ],
+    "usage_instructions": "Disolver el contenido del sobre en 1L de agua caliente (sin que llegue a hervir). Llevar a ebullición removiendo al mismo tiempo. Dejar a fuego lento durante 5 min."
+  },
+  "display_name": "Sopa de pollo Gallina Blanca con fideos finos",
+  "ean": "8410300101598",
+  "extra_info": [
+    null
+  ],
+  "id": "8044",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>altramuces y productos a base de altramuces</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Contiene <strong>apio y productos derivados</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Puede contener <strong>pescado y productos a base de pescado</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>moluscos y productos a base de moluscos</strong>.",
+    "ingredients": "Pasta alimenticia (fideos finos) (sémola de<strong> TRIGO</strong> duro) (72%), sal, almidón de maíz, potenciador del sabor(glutamato monosódico), harina de<strong> TRIGO</strong>, aromas, pollo (1,5%), cebolla (0,9%), patata (0,6%), grasa de pollo , puerro (0,3%), extracto de levadura, especias,<strong> APIO</strong> (0,1%), zanahoria. Puede contener trazas de<strong> SOJA</strong>,<strong> PESCADO</strong>,<strong> LECHE</strong>,<strong> CRUSTÁCEOS</strong>,<strong> MOLUSCOS</strong>,<strong> MOSTAZA</strong>,<strong> ALTRAMUZ</strong>."
+  },
+  "origin": "España",
+  "packaging": "Sobre",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/e8047938e241f4694a1a3ddab163c9a4.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e8047938e241f4694a1a3ddab163c9a4.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e8047938e241f4694a1a3ddab163c9a4.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/d6cf7fa5ca67118ad01d48a36fe90d1e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d6cf7fa5ca67118ad01d48a36fe90d1e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d6cf7fa5ca67118ad01d48a36fe90d1e.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "11.97",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "11.972",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.85",
+    "unit_selector": true,
+    "unit_size": 0.071
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/8044/sopa-pollo-gallina-blanca-con-fideos-finos",
+  "slug": "sopa-pollo-gallina-blanca-con-fideos-finos",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/e8047938e241f4694a1a3ddab163c9a4.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

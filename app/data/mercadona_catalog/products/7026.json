@@ -1,0 +1,117 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Gallina Blanca",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 469,
+              "level": 2,
+              "name": "Caldo líquido",
+              "order": 215
+            }
+          ],
+          "id": 129,
+          "level": 1,
+          "name": "Sopa y caldo",
+          "order": 215
+        }
+      ],
+      "id": 14,
+      "level": 0,
+      "name": "Conservas, caldos y cremas",
+      "order": 215
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Gallina Blanca",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Caldo de cocido casero Gallina Blanca",
+    "legal_name": "Caldo de cocido",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar a temperatura ambiente en lugar fresco y seco. Conservación del producto una vez abierto: En nevera (+4ºC), máximo 4 días y en el congelador (-18ºC) utilizando un recipiente adecuado, 1mes.",
+    "suppliers": [
+      {
+        "name": "GALLINA BLANCA, S.A.U."
+      },
+      {
+        "name": "GB Foods SP"
+      },
+      {
+        "name": "Gallina Blanca, S.A.U."
+      }
+    ],
+    "usage_instructions": "Agitar antes de servir"
+  },
+  "display_name": "Caldo de cocido casero Gallina Blanca",
+  "ean": "8410300349006",
+  "extra_info": [
+    null
+  ],
+  "id": "7026",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>apio y productos derivados</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "Agua, ternera (2,5%), pollo (1,2%), cerdo (0,6%),<strong> APIO</strong> (0,3%), patata (0,2%), col (0,2%), garbanzos (0,2%), puerro (0,1%), zanahoria (0,1%), cebolla (0,1%), grasa de cerdo, aromas naturales (contienen<strong> LECHE</strong> y<strong> HUEVO</strong>), sal, especias."
+  },
+  "origin": "España",
+  "packaging": "Brik",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/87a7271a30826ff77101b6833cff6f42.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/87a7271a30826ff77101b6833cff6f42.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/87a7271a30826ff77101b6833cff6f42.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/ae6304b3878436ac019a6c32920f089a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ae6304b3878436ac019a6c32920f089a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ae6304b3878436ac019a6c32920f089a.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.30",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "2.300",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.30",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/7026/caldo-cocido-casero-gallina-blanca-brick",
+  "slug": "caldo-cocido-casero-gallina-blanca-brick",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/87a7271a30826ff77101b6833cff6f42.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

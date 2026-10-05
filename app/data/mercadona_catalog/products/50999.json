@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 309,
+              "level": 2,
+              "name": "Queso curado",
+              "order": 159
+            }
+          ],
+          "id": 54,
+          "level": 1,
+          "name": "Queso curado, semicurado y tierno",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Tabla de quesos nacionales Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Tabla de quesos nacionales. Quesos Madurados.",
+    "mandatory_mentions": "Envasado en atmósfera protectora.",
+    "origin": null,
+    "production_variant": "Tabla de Quesos Nacionales compuesta por: Queso de Mezcla Semicurado. Queso de Oveja Viejo Cremoso. Queso de Mezcla Viejo Tostado. Queso de Oveja Viejo Ahumado. Queso de Oveja Añejo y Queso de Mezcla Madurado de Oveja/Cabra Picante",
+    "storage_instructions": "Conservar entre 4° y 8°C",
+    "suppliers": [
+      {
+        "name": "Distribuciones Juan Luna S.L.U."
+      }
+    ],
+    "usage_instructions": "Abrir 10 minutos antes de consumir."
+  },
+  "display_name": "Tabla de quesos nacionales Hacendado",
+  "ean": "8402001053757",
+  "extra_info": [
+    ""
+  ],
+  "id": "50999",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "QUESO DE MEZCLA SEMICURADO (SEMICURADO):</p> <strong>Leche</strong> pasteurizada de [vaca (mín. 50%). oveja (mín. 20%) y cabra (mín. 15%)]. sal. cuajo. estabilizante (cloruro cálcico) y fermentos <strong>lácticos</strong>. Corteza no comestible: Contiene conservadores (E-202 y E-235) y colorante (E-153).</p> QUESO DE OVEJA VIEJO CREMOSO (CREMOSO):</p> <strong>Leche</strong> cruda de oveja. sal. cuajo. fermentos <strong>lácticos</strong>. conservante (E-1105) (derivado del <strong>huevo</strong>). Corteza no comestible: Contiene conservadores (E-202 y E-235) y colorante (E-172).</p> QUESO DE MEZCLA VIEJO TOSTADO (TOSTADO):</p> <strong>Leche</strong> pasteurizada de [vaca (mín. 50%). oveja (mín. 20%) y cabra (mín. 15%)]. sal. cuajo. estabilizante (cloruro cálcico) y fermentos <strong>lácticos</strong>. Corteza no comestible: Contiene conservadores (E-202 y E-235) y colorante (E-150d).</p> QUESO DE OVEJA VIEJO AHUMADO (AHUMADO):</p> <strong>Leche</strong> cruda de oveja. sal. cuajo. fermentos <strong>lácticos</strong> y conservador (E-1105) (derivado del <strong>huevo</strong>). Corteza no comestible: Contiene conservadores (E-202 y E-235). Ahumado en leña de haya y roble.</p> QUESO DE OVEJA AÑEJO (FUERTE):</p> <strong>Leche</strong> cruda de oveja. cuajo. sal. fermentos <strong>lácticos</strong>. conservador (E-1105) (derivado del <strong>huevo</strong>). Corteza no comestible: Contiene conservadores (E-202 y E-235) y colorante (E-172).</p> QUESO DE MEZCLA MADURADO DE OVEJA/ CABRA PICANTE (PICANTE):</p> <strong>Leche</strong> cruda de [oveja (mín. 45%) y cabra (mín. 45%)]. sal. cuajo. estabilizante (cloruro cálcico). fermentos <strong>lácticos</strong>. Corteza no comestible: Contiene conservadores (E-202 y E-235) y colorantes (E-171 y E-172).</p> Contiene <strong>leche</strong> y derivado del <strong>huevo</strong>."
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/fd4abf9a02e72ce2a636dc02c1086d80.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/fd4abf9a02e72ce2a636dc02c1086d80.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/fd4abf9a02e72ce2a636dc02c1086d80.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/3c486f31e78094c709288c46182a9060.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3c486f31e78094c709288c46182a9060.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3c486f31e78094c709288c46182a9060.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "20.63",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "20.625",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 24,
+    "unit_name": "porciones",
+    "unit_price": "4.95",
+    "unit_selector": true,
+    "unit_size": 0.24
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/50999/tabla-quesos-nacionales-hacendado-bandeja",
+  "slug": "tabla-quesos-nacionales-hacendado-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/fd4abf9a02e72ce2a636dc02c1086d80.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

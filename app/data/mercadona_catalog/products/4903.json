@@ -1,0 +1,112 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 422,
+              "level": 2,
+              "name": "Vinagre y otros aderezos",
+              "order": 7
+            }
+          ],
+          "id": 112,
+          "level": 1,
+          "name": "Aceite, vinagre y sal",
+          "order": 7
+        }
+      ],
+      "id": 12,
+      "level": 0,
+      "name": "Aceite, especias y salsas",
+      "order": 7
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Limón exprimido Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Limón Exprimido",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en un lugar fresco y seco. Al abrir guardar en frigorífico 40 días como máximo. El limón al ser un producto fresco está sujeto a la variabilidad de la madurez de la fruta.",
+    "suppliers": [
+      {
+        "name": "J.R. Sabater, S.A"
+      }
+    ],
+    "usage_instructions": "Ensaladas y aliños : Usar directamente como aderezo en ensaladas, carnes y pescados. Limonadas y refrescos : Para limonada mezclar una parte de limón con cuatro de agua y azúcar."
+  },
+  "display_name": "Limón exprimido Hacendado",
+  "ean": "8480000049032",
+  "extra_info": [
+    null
+  ],
+  "id": "4903",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>dióxido de azufre y sulfitos</strong>.",
+    "ingredients": "<p>Zumo de limón exprimido (99,98%), antioxidante: E-223 (Contiene sulfitos)."
+  },
+  "origin": "España",
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/1910ee61299100e2bca29c2b39fab7a5.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1910ee61299100e2bca29c2b39fab7a5.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1910ee61299100e2bca29c2b39fab7a5.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/6c53aff9eff67c30e459806443a0aa91.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/6c53aff9eff67c30e459806443a0aa91.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/6c53aff9eff67c30e459806443a0aa91.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "5.000",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.40",
+    "unit_selector": true,
+    "unit_size": 0.28
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/4903/limon-exprimido-hacendado-botella",
+  "slug": "limon-exprimido-hacendado-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/1910ee61299100e2bca29c2b39fab7a5.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

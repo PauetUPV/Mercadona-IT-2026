@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 421,
+              "level": 2,
+              "name": "Otros aceites",
+              "order": 7
+            }
+          ],
+          "id": 112,
+          "level": 1,
+          "name": "Aceite, vinagre y sal",
+          "order": 7
+        }
+      ],
+      "id": 12,
+      "level": 0,
+      "name": "Aceite, especias y salsas",
+      "order": 7
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Aceite de coco virgen Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Aceite de coco virgen",
+    "mandatory_mentions": "Este aceite puede estar en estado líquido o sólido, dependiendo de la temperatura ambiente, sin que ello afecte a sus propiedades nutricionales.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar freso y seco.",
+    "suppliers": [
+      {
+        "name": "FOOD REBELS S.L."
+      },
+      {
+        "name": "Laboratorios Almond SL"
+      }
+    ],
+    "usage_instructions": "Para cocinar: puede consumirse directamente como aliño y es ideal para hornear, asar, freír o elaboración de bollería y postres. Si desea que permanezca en estado sólido, manténgalo en el frigorífico. Si desea emplearlo en estado líquido, introdúzcalo en el microondas en modo descongelación durante un minuto."
+  },
+  "display_name": "Aceite de coco virgen Hacendado",
+  "ean": "8402001034664",
+  "extra_info": [
+    null
+  ],
+  "id": "4193",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>100% Aceite de coco. Aceite de coco suave y aromático, prensado en frío."
+  },
+  "origin": null,
+  "packaging": "Bote",
+  "photos": [
+    {
+      "perspective": 3,
+      "regular": "https://prod-mercadona.imgix.net/images/2fe6ba84f4e3783e1e57c42903035bd3.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/2fe6ba84f4e3783e1e57c42903035bd3.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/2fe6ba84f4e3783e1e57c42903035bd3.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/76329d82c82193604f2b0744c7a68f99.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/76329d82c82193604f2b0744c7a68f99.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/76329d82c82193604f2b0744c7a68f99.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "11.33",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": "        5.25",
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "11.334",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "5.10",
+    "unit_selector": true,
+    "unit_size": 0.45
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/4193/aceite-coco-virgen-hacendado-bote",
+  "slug": "aceite-coco-virgen-hacendado-bote",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/2fe6ba84f4e3783e1e57c42903035bd3.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

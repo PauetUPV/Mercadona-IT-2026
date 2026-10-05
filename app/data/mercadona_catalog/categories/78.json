@@ -1,0 +1,2228 @@
+{
+  "categories": [
+    {
+      "id": 355,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Cereales",
+      "order": 18,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Cereales rellenos de leche Hacendado",
+          "id": "9264",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "4.80",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "4.800",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.40",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/9264/cereales-rellenos-leche-hacendado-caja",
+          "slug": "cereales-rellenos-leche-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/f28fce2e1849905d03b85683e4407734.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Mini cereales rellenos de leche Hacendado",
+          "id": "9333",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "11.14",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "11.143",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 5,
+            "unit_name": "bolsitas",
+            "unit_price": "1.95",
+            "unit_selector": true,
+            "unit_size": 0.175
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/9333/mini-cereales-rellenos-leche-hacendado-caja",
+          "slug": "mini-cereales-rellenos-leche-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/c3ee3973b93c5c7a2b7c136f145bc3d1.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Cereales rellenos de cacao y avellana Hacendado",
+          "id": "9377",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "4.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "4.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.00",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/9377/cereales-rellenos-chocolate-avellana-hacendado-paquete",
+          "slug": "cereales-rellenos-chocolate-avellana-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/d0367eba9e3928a71b16ebf3f92d815b.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Cereales estrellas de maíz Stars Hacendado con miel",
+          "id": "80515",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "con miel",
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "5.25",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "5.250",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.10",
+            "unit_selector": true,
+            "unit_size": 0.4
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/80515/cereales-estrellas-maiz-stars-hacendado-con-miel-caja",
+          "slug": "cereales-estrellas-maiz-stars-hacendado-con-miel-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/3cc53c61c022b13a42b12f9dfa87f355.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Cereales copos de maíz Corn Flakes Hacendado 0% azúcares añadidos",
+          "id": "22966",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "3.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.50",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/22966/cereales-copos-maiz-corn-flakes-hacendado-0-azucares-anadidos-caja",
+          "slug": "cereales-copos-maiz-corn-flakes-hacendado-0-azucares-anadidos-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/413f941aa57b4903cc693d93171b87f7.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Cereales copos de maíz Corn Flakes Kellogg's",
+          "id": "9210",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "5.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "5.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.50",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/9210/cereales-copos-maiz-corn-flakes-kelloggs-caja",
+          "slug": "cereales-copos-maiz-corn-flakes-kelloggs-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/fbe78e55b2c8ce4a3522cd510e821a8e.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Cereales de arroz inflado Choco Krispies Kellogg's con chocolate",
+          "id": "35987",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "con chocolate",
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "8.69",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "8.691",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.65",
+            "unit_selector": true,
+            "unit_size": 0.42
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/35987/cereales-arroz-inflado-choco-krispies-kelloggs-con-chocolate-caja",
+          "slug": "cereales-arroz-inflado-choco-krispies-kelloggs-con-chocolate-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/3aa570213697c9cd80248d024110faf1.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Cereales copos de trigo Chocodays Hacendado con chocolate",
+          "id": "9508",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "con chocolate",
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.80",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "3.800",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.90",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/9508/cereales-copos-trigo-chocodays-hacendado-con-chocolate-caja",
+          "slug": "cereales-copos-trigo-chocodays-hacendado-con-chocolate-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/b993cc6e84c05e720f2a69794c345ca2.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Cereales rellenos de crema de cacao y avellana Hacendado sin gluten",
+          "id": "9547",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "5.63",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "5.625",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.25",
+            "unit_selector": true,
+            "unit_size": 0.4
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/9547/cereales-rellenos-crema-cacao-avellana-hacendado-sin-gluten-paquete",
+          "slug": "cereales-rellenos-crema-cacao-avellana-hacendado-sin-gluten-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/59e8c16311be455d779e8aa3fb9ad9bd.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Cereales cubiertos de chocolate blanco rellenos con leche Hacendado",
+          "id": "21450",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "14.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "14.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.75",
+            "unit_selector": true,
+            "unit_size": 0.125
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/21450/cereales-cubiertos-chocolate-blanco-rellenos-con-leche-hacendado-paquete",
+          "slug": "cereales-cubiertos-chocolate-blanco-rellenos-con-leche-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/974abed62b2ae8a310ab1c222b37c209.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    },
+    {
+      "id": 356,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Cereales integrales y muesli",
+      "order": 18,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Copos de avena sin gluten Hacendado",
+          "id": "86368",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "4.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "4.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.00",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/86368/copos-avena-hacendado-paquete",
+          "slug": "copos-avena-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/d4337bb397a1e7f50b9a5f9e7bc175a9.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Copos de avena Brüggen",
+          "id": "86341",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "1.63",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "1.625",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.30",
+            "unit_selector": true,
+            "unit_size": 0.8
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/86341/copos-avena-bruggen-caja",
+          "slug": "copos-avena-bruggen-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/98910a7833008eddea7deffc843ffac7.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Cereales copos de trigo integral y arroz Special K Classic",
+          "id": "35707",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "Classic",
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "7.22",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "7.223",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.25",
+            "unit_selector": true,
+            "unit_size": 0.45
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/35707/cereales-copos-trigo-integral-arroz-special-k-classic-kelloggs-caja",
+          "slug": "cereales-copos-trigo-integral-arroz-special-k-classic-kelloggs-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/7217d5cc7c1294828207ae7eab262d1e.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Muesli Crunchy Hacendado con chocolate",
+          "id": "9355",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "4.70",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "4.700",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.35",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/9355/muesli-crunchy-hacendado-con-chocolate-15-chocolate-paquete",
+          "slug": "muesli-crunchy-hacendado-con-chocolate-15-chocolate-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/3d93c78bdee2295299fbdca9332e7439.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Cereales copos de trigo integral y arroz Hacendado 0% azúcares añadidos",
+          "id": "9488",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "0% azúcares añadidos",
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.80",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "3.800",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.90",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/9488/cereales-copos-trigo-integral-arroz-hacendado-0-azucares-anadidos-linnea-v-caja",
+          "slug": "cereales-copos-trigo-integral-arroz-hacendado-0-azucares-anadidos-linnea-v-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/b911f6af2c54a9e27b676aef897ba8ff.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Cereales copos de trigo espelta integral Hacendado 0% azúcares añadidos",
+          "id": "9571",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "4.25",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "4.250",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.70",
+            "unit_selector": true,
+            "unit_size": 0.4
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/9571/cereales-copos-trigo-espelta-integral-hacendado-0-azucares-anadidos-paquete",
+          "slug": "cereales-copos-trigo-espelta-integral-hacendado-0-azucares-anadidos-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/228d3a9046ad302f21ad6b4263fadb6e.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Muesli Crunchy Hacendado con frutos secos",
+          "id": "9357",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "4.20",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "4.200",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.10",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/9357/muesli-crunchy-hacendado-con-frutos-secos-paquete",
+          "slug": "muesli-crunchy-hacendado-con-frutos-secos-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/5b1898618dab16dce87e9a35cdaa44d8.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Muesli Crunchy Hacendado sin azúcares añadidos",
+          "id": "35892",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "sin azúcares añadidos",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.80",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "3.800",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.90",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/35892/muesli-crunchy-hacendado-0-azucares-anadidos-0-edulcorantes-paquete",
+          "slug": "muesli-crunchy-hacendado-0-azucares-anadidos-0-edulcorantes-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/bcc77b4ef78fee77250af49238c1d0e3.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Cereales copos de trigo integral y arroz Hacendado bañados en chocolate con leche",
+          "id": "9487",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "bañados en chocolate con leche",
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "7.07",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "7.067",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.65",
+            "unit_selector": true,
+            "unit_size": 0.375
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/9487/cereales-copos-trigo-integral-arroz-hacendado-banados-chocolate-con-leche-linnea-v-caja",
+          "slug": "cereales-copos-trigo-integral-arroz-hacendado-banados-chocolate-con-leche-linnea-v-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/5ef3d3435e4f02a3589a3745a9891faa.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Cereales copos tostados de trigo integral y arroz Hacendado con chocolate",
+          "id": "52772",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "5.41",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "5.412",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.30",
+            "unit_selector": true,
+            "unit_size": 0.425
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/52772/cereales-copos-tostados-trigo-integral-arroz-hacendado-con-chocolate-caja",
+          "slug": "cereales-copos-tostados-trigo-integral-arroz-hacendado-con-chocolate-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/1bd07524e377881e474d3788346a17d9.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Muesli Crunchy Hacendado con fruta",
+          "id": "9356",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "con fruta",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "4.20",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "4.200",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.10",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/9356/muesli-crunchy-hacendado-con-fruta-paquete",
+          "slug": "muesli-crunchy-hacendado-con-fruta-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/beb80ebf53bbc0cbafbd2343731775e2.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Avena molida Hacendado",
+          "id": "16807",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.30",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 4,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "2.300",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.15",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/16807/avena-molida-hacendado-paquete",
+          "slug": "avena-molida-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/69ee9eee81e7d2ed2450ba9c9b5cb144.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Cereales crujientes avena tostada Hacendado con semillas y frutos secos",
+          "id": "9474",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "con semillas y frutos secos",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "6.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "6.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.40",
+            "unit_selector": true,
+            "unit_size": 0.4
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/9474/cereales-semillas-granola-hacendado-con-frutos-secos-bajo-azucar-paquete",
+          "slug": "cereales-semillas-granola-hacendado-con-frutos-secos-bajo-azucar-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/ebbec3ccb860fe3b438cf090ffaf2e8e.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Cereales con salvado de trigo Fibra Sticks Hacendado",
+          "id": "60236",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.60",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "3.600",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.80",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/60236/cereales-con-salvado-trigo-fibra-sticks-hacendado-caja",
+          "slug": "cereales-con-salvado-trigo-fibra-sticks-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/b5518ded2106b798ac79f936a4512d73.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Muesli Hacendado con frutas",
+          "id": "9491",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "con frutas",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.60",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "2.600",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.60",
+            "unit_selector": true,
+            "unit_size": 1.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/9491/muesli-hacendado-con-frutas-paquete",
+          "slug": "muesli-hacendado-con-frutas-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/70a636d2cd573150d0eb69c60b12d6cc.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Muesli Hacendado 50% frutas y frutos secos",
+          "id": "9492",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "50% frutas y frutos secos",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "4.20",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "4.200",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.10",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/9492/muesli-hacendado-50-frutas-frutos-secos-paquete",
+          "slug": "muesli-hacendado-50-frutas-frutos-secos-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/2175be354c8038e9e43ebd3ada9bb6a0.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Muesli Hacendado con quinoa, chía y chocolate negro",
+          "id": "9536",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "con quinoa, chía y chocolate negro",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "6.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "6.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.40",
+            "unit_selector": true,
+            "unit_size": 0.4
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/9536/muesli-hacendado-con-quinoa-chia-chocolate-negro-paquete",
+          "slug": "muesli-hacendado-con-quinoa-chia-chocolate-negro-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/1e4439a34bd442baf972925ac34110b6.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Cereales Cereal Mix Hacendado 0% azúcares añadidos",
+          "id": "9532",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "6.40",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "6.400",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.40",
+            "unit_selector": true,
+            "unit_size": 0.375
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/9532/cereales-cereal-mix-hacendado-0-azucares-anadidos-paquete",
+          "slug": "cereales-cereal-mix-hacendado-0-azucares-anadidos-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/db82637b4d7ecad929dfe2008794371f.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Cereales avena Crunchy Hacendado",
+          "id": "15611",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "4.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "4.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.80",
+            "unit_selector": true,
+            "unit_size": 0.4
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/15611/cereales-avena-crunchy-hacendado-85-avena-integral-bajo-contenido-azucar-caja",
+          "slug": "cereales-avena-crunchy-hacendado-85-avena-integral-bajo-contenido-azucar-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/2efe810b6483e668c6638f403f9e41c8.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Cereales avena Crunchy Hacendado de cacao",
+          "id": "52751",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "de cacao",
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "5.38",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "5.375",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.15",
+            "unit_selector": true,
+            "unit_size": 0.4
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/52751/cereales-avena-crunchy-hacendado-cacao-caja",
+          "slug": "cereales-avena-crunchy-hacendado-cacao-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/2fd7905a5c3825481029c3588a8be900.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Copos de avena integral con chocolate Hacendado",
+          "id": "20292",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "4.63",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "4.625",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.85",
+            "unit_selector": true,
+            "unit_size": 0.4
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/20292/copos-avena-integral-con-chocolate-hacendado-paquete",
+          "slug": "copos-avena-integral-con-chocolate-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/f825e30578f56407eb2551dec8936370.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Muesli Crunchy Hacendado con legumbres",
+          "id": "24563",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "con legumbres",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "6.63",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "6.625",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.65",
+            "unit_selector": true,
+            "unit_size": 0.4
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/24563/muesli-crunchy-hacendado-con-legumbres-paquete",
+          "slug": "muesli-crunchy-hacendado-con-legumbres-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/c7100254bee972b4ba4a5733326cac5b.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    },
+    {
+      "id": 357,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Barritas de cereales",
+      "order": 18,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Barritas de cereales y chocolate con leche Hacendado",
+          "id": "9350",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "12.92",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "12.917",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "barritas",
+            "unit_price": "1.55",
+            "unit_selector": true,
+            "unit_size": 0.12
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/9350/barritas-cereales-hacendado-chocolate-con-leche-caja",
+          "slug": "barritas-cereales-hacendado-chocolate-con-leche-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/d873cc7c5f9b10efd6967eccf90e1511.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Barritas de cereales y chocolate blanco Hacendado",
+          "id": "73249",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "12.20",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "12.205",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "barritas",
+            "unit_price": "1.55",
+            "unit_selector": true,
+            "unit_size": 0.127
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/73249/barritas-cereales-hacendado-con-chocolate-blanco-caja",
+          "slug": "barritas-cereales-hacendado-con-chocolate-blanco-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/683a1de51d7829b9998c29261d364ccf.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Barritas de cereales muesli y chocolate Hacendado",
+          "id": "9349",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "11.23",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "11.232",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "barritas",
+            "unit_price": "1.55",
+            "unit_selector": true,
+            "unit_size": 0.138
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/9349/barritas-cereales-muesli-hacendado-con-chocolate-caja",
+          "slug": "barritas-cereales-muesli-hacendado-con-chocolate-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/1edf7bf3abadebff9103681195379584.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Barritas de cereales y frutos secos Hacendado",
+          "id": "52493",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "11.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "11.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "barritas",
+            "unit_price": "1.65",
+            "unit_selector": true,
+            "unit_size": 0.15
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/52493/barritas-cereales-con-frutos-secos-hacendado-caja",
+          "slug": "barritas-cereales-con-frutos-secos-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/55ba625ed8baee3f6cf50363a463fe9f.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Barritas con proteínas sabor coco y chocolate Enervit Sport",
+          "id": "9445",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "24.58",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": "        3.60",
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "24.584",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 3,
+            "unit_name": "barritas",
+            "unit_price": "2.95",
+            "unit_selector": true,
+            "unit_size": 0.12
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/9445/barritas-con-proteinas-enervit-sport-sabor-coco-chocolate-caja",
+          "slug": "barritas-con-proteinas-enervit-sport-sabor-coco-chocolate-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/44abf07322538d5b0fe0e9200f1c34ba.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Barritas de galleta y arándanos Hacendado",
+          "id": "52494",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "12.40",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "12.400",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 5,
+            "unit_name": "barritas",
+            "unit_price": "1.55",
+            "unit_selector": true,
+            "unit_size": 0.125
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/52494/barritas-galleta-rellenas-arandanos-hacendado-caja",
+          "slug": "barritas-galleta-rellenas-arandanos-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/bc497eb0b952cf2bbd08e0e3d7f6e991.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Barritas de avena y chocolate negro Crunchy Nature Valley",
+          "id": "14713",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "9.29",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "9.286",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 5,
+            "unit_name": "paquetes",
+            "unit_price": "1.95",
+            "unit_selector": true,
+            "unit_size": 0.21
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14713/barritas-avena-crunchy-nature-valley-con-chocolate-negro-caja",
+          "slug": "barritas-avena-crunchy-nature-valley-con-chocolate-negro-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/ab5be32491002de5c7fddad34d25fde4.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Barrita con proteínas sabor chocolate con leche Enervit Sport",
+          "id": "19867",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "27.22",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "27.223",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 3,
+            "unit_name": "barritas",
+            "unit_price": "4.90",
+            "unit_selector": true,
+            "unit_size": 0.18
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/19867/barrita-con-proteinas-enervit-sport-sabor-chocolate-con-leche-caja",
+          "slug": "barrita-con-proteinas-enervit-sport-sabor-chocolate-con-leche-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/9ed06a63ae5619678ca1e38aa1ebe2aa.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Barritas de cereales plátano y cacao Hacendado 0% azúcares añadidos",
+          "id": "21759",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "0% azúcares añadidos",
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "13.75",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "13.750",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "barritas",
+            "unit_price": "1.65",
+            "unit_selector": true,
+            "unit_size": 0.12
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/21759/barritas-cereales-hacendado-sabor-platano-0-azucares-anadidos-caja",
+          "slug": "barritas-cereales-hacendado-sabor-platano-0-azucares-anadidos-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/0b1cb7ce015f70ca741f498a0a092fe0.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Barritas de cereales avena y cacao Hacendado",
+          "id": "21760",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "10.36",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "10.358",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 4,
+            "unit_name": "paquetes",
+            "unit_price": "1.45",
+            "unit_selector": true,
+            "unit_size": 0.14
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/21760/barritas-cereales-avena-hacendado-con-cacao-caja",
+          "slug": "barritas-cereales-avena-hacendado-con-cacao-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/2302ce83917eacbddfcd6687743a0df6.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 7,
+              "level": 0,
+              "name": "Cereales y galletas",
+              "order": 18
+            }
+          ],
+          "display_name": "Barritas de cereales avellana y cacao Hacendado",
+          "id": "24565",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "12.92",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "12.917",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "paquetes",
+            "unit_price": "1.55",
+            "unit_selector": true,
+            "unit_size": 0.115
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/24565/barritas-cereales-avellana-cacao-hacendado-caja",
+          "slug": "barritas-cereales-avellana-cacao-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/c146be43e0b12a70fe1ffc2224bd8662.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    }
+  ],
+  "id": 78,
+  "is_extended": false,
+  "layout": 1,
+  "name": "Cereales",
+  "next_category": {
+    "id": 80,
+    "name": "Galletas"
+  },
+  "order": 18,
+  "published": true
+}

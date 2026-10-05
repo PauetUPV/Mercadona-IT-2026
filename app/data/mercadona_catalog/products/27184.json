@@ -1,0 +1,119 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Coca-Cola",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 535,
+              "level": 2,
+              "name": "Cola zero",
+              "order": 8
+            }
+          ],
+          "id": 158,
+          "level": 1,
+          "name": "Refresco de cola",
+          "order": 8
+        }
+      ],
+      "id": 18,
+      "level": 0,
+      "name": "Agua y refrescos",
+      "order": 8
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Coca-Cola",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Refresco Coca-Cola light",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Bebida refrescante aromatizada. con edulcorantes.",
+    "mandatory_mentions": "Contiene una fuente de fenilalanina.",
+    "origin": null,
+    "production_variant": "-",
+    "storage_instructions": "Proteger de la luz solar. Preservar de olores agresivos. Conservar en lugar limpio, fresco y seco. Servir frío",
+    "suppliers": [
+      {
+        "name": "\"CC European Partners Iberia; S.L.U.\""
+      },
+      {
+        "name": "CC European Partners Iberia, S.L.U."
+      },
+      {
+        "name": "Coca-Cola Europacific Partners Iberia, S.L.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Refresco Coca-Cola light",
+  "ean": "5449000233011",
+  "extra_info": [
+    null
+  ],
+  "id": "27184",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "light",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Agua carbonatada, colorante E-150d, edulcorantes: ciclamato sódico, acesulfamo K y aspartamo, acidulantes: ácido fosfórico y ácido cítrico, aromas naturales y aroma cafeína."
+  },
+  "origin": null,
+  "packaging": "Pack-9",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/f37edec2bd7ee6fabced1deb392160b1.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f37edec2bd7ee6fabced1deb392160b1.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f37edec2bd7ee6fabced1deb392160b1.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/3422a80638aef9b6a7e34f6c5e31e3ad.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3422a80638aef9b6a7e34f6c5e31e3ad.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3422a80638aef9b6a7e34f6c5e31e3ad.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.48",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.33,
+    "previous_unit_price": "        8.37",
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "2.485",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": 9,
+    "unit_name": "latas",
+    "unit_price": "7.38",
+    "unit_selector": true,
+    "unit_size": 2.97
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/27184/refresco-coca-cola-light-pack-9",
+  "slug": "refresco-coca-cola-light-pack-9",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/f37edec2bd7ee6fabced1deb392160b1.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

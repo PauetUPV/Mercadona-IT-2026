@@ -1,0 +1,118 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 529,
+              "level": 2,
+              "name": "Gaseosa",
+              "order": 8
+            }
+          ],
+          "id": 156,
+          "level": 1,
+          "name": "Agua",
+          "order": 8
+        }
+      ],
+      "id": 18,
+      "level": 0,
+      "name": "Agua y refrescos",
+      "order": 8
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Gaseosa Hacendado grande",
+    "legal_name": "Gaseosa. Con edulcorantes.",
+    "mandatory_mentions": "CON EDULCORANTES",
+    "origin": null,
+    "production_variant": "Se añaden dos registros de empresa en función de donde se produce el producto: planta Alcolea o planta Marcilla.",
+    "storage_instructions": "Mantener en lugar fresco, oscuro y seco",
+    "suppliers": [
+      {
+        "name": "FONT SALEM SL"
+      },
+      {
+        "name": "Refresco Iberia"
+      },
+      {
+        "name": "Refresco Iberia S.A.U."
+      },
+      {
+        "name": "Refrescos Jeibes"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Gaseosa Hacendado grande",
+  "ean": "8402001001772",
+  "extra_info": [
+    null
+  ],
+  "id": "27973",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": "Agua carbonatada, acidulante: ácido cítrico, edulcorantes: E-952, E-954, aroma natural de limón con otros aromas naturales."
+  },
+  "origin": null,
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/af053b1c60e1e737c797d2e5bd096a58.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/af053b1c60e1e737c797d2e5bd096a58.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/af053b1c60e1e737c797d2e5bd096a58.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/59235c6e74d3512663c9400432a7123e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/59235c6e74d3512663c9400432a7123e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/59235c6e74d3512663c9400432a7123e.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "0.37",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 21,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "0.367",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.55",
+    "unit_selector": true,
+    "unit_size": 1.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/27973/gaseosa-hacendado-grande-botella",
+  "slug": "gaseosa-hacendado-grande-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/af053b1c60e1e737c797d2e5bd096a58.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

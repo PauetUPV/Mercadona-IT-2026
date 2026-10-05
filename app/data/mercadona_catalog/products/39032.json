@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 396,
+              "level": 2,
+              "name": "Naranja",
+              "order": 793
+            }
+          ],
+          "id": 143,
+          "level": 1,
+          "name": "Naranja",
+          "order": 793
+        }
+      ],
+      "id": 10,
+      "level": 0,
+      "name": "Zumos",
+      "order": 793
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Zumo pura naranja con pulpa Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Zumo de naranja",
+    "mandatory_mentions": "Rico en vitamina C",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Mantener en lugar fresco y seco. Una vez abierto consérvese en el frigorífico y consumir antes de 4 días.",
+    "suppliers": [
+      {
+        "name": "J.G.C.,S.A."
+      }
+    ],
+    "usage_instructions": "Agitar antes d servir, para distribuir homogéneamente la pulpa"
+  },
+  "display_name": "Zumo pura naranja con pulpa Hacendado",
+  "ean": "8480000390325",
+  "extra_info": [
+    null
+  ],
+  "id": "39032",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Zumo de naranja, pulpa y vitamina C"
+  },
+  "origin": null,
+  "packaging": "Brik",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/49c07dc6cecfe687ec6d06e6061ac967.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/49c07dc6cecfe687ec6d06e6061ac967.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/49c07dc6cecfe687ec6d06e6061ac967.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/32e710482b3ad841ce7565d6de1f381a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/32e710482b3ad841ce7565d6de1f381a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/32e710482b3ad841ce7565d6de1f381a.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.85",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "1.850",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.85",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/39032/zumo-pura-naranja-con-pulpa-hacendado-brick",
+  "slug": "zumo-pura-naranja-con-pulpa-hacendado-brick",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/49c07dc6cecfe687ec6d06e6061ac967.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

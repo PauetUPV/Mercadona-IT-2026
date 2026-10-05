@@ -1,0 +1,138 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "MareDeus",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 513,
+              "level": 2,
+              "name": "Pescado",
+              "order": 213
+            }
+          ],
+          "id": 149,
+          "level": 1,
+          "name": "Pescado",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 274,
+              "level": 2,
+              "name": "Pescado congelado",
+              "order": 442
+            }
+          ],
+          "id": 34,
+          "level": 1,
+          "name": "Pescado congelado",
+          "order": 442
+        }
+      ],
+      "id": 2,
+      "level": 0,
+      "name": "Marisco y pescado",
+      "order": 442
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "MareDeus",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Migas de bacalao sin piel MareDeus ultracongeladas en su punto de sal",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Migas de bacalao",
+    "mandatory_mentions": "Sin piel. Puede contener espinas. A diferencia del \"Bacalao tradicional\", hemos añadido el punto óptimo de sal, para obtener así un producto \"ligeramente\" salado y listo para cocinar, no necesita ser desalado para su consumo.  Puede contener crustáceos y moluscos",
+    "origin": "Noruega/Rusia",
+    "production_variant": "",
+    "storage_instructions": "Producto Congelado. Mantener a -18C.",
+    "suppliers": [
+      {
+        "name": "MareDeus Food Solutions, S.L."
+      },
+      {
+        "name": "Maredeus Food Solutions"
+      }
+    ],
+    "usage_instructions": "Metodo de descongelación: Sacar del envase, descongelar en una bandeja con rejilla en la parte inferior del frigorifico 8 horas, después está listo para cocinar. Una vez descongelado consumir en 24 horas. Cocinar completamente para su consumo"
+  },
+  "display_name": "Migas de bacalao sin piel MareDeus ultracongeladas",
+  "ean": "8436542052061",
+  "extra_info": [
+    ""
+  ],
+  "id": "24023",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "ultracongeladas",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>pescado y productos a base de pescado</strong>.",
+    "ingredients": "<strong>Bacalao</strong> (<strong>Gadus Morhua</strong>) 90%, agua 8% y sal 2%."
+  },
+  "origin": "Noruega/Rusia",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/4df996fce1de2f2fd46cb8ef14a1a2a2.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4df996fce1de2f2fd46cb8ef14a1a2a2.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4df996fce1de2f2fd46cb8ef14a1a2a2.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/558ad1ab5409d82aeb651709abfb8350.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/558ad1ab5409d82aeb651709abfb8350.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/558ad1ab5409d82aeb651709abfb8350.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "20.33",
+    "bunch_selector": false,
+    "drained_weight": 0.3,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "20.334",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "6.10",
+    "unit_selector": true,
+    "unit_size": null
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/24023/migas-bacalao-sin-espinas-sin-piel-maredeus-ultra-congeladas-punto-sal-paquete",
+  "slug": "migas-bacalao-sin-espinas-sin-piel-maredeus-ultra-congeladas-punto-sal-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/4df996fce1de2f2fd46cb8ef14a1a2a2.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

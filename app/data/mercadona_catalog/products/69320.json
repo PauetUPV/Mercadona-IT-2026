@@ -1,0 +1,122 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 857,
+              "level": 2,
+              "name": "Calabacín y pimiento",
+              "order": 306
+            }
+          ],
+          "id": 29,
+          "level": 1,
+          "name": "Verdura",
+          "order": 306
+        }
+      ],
+      "id": 1,
+      "level": 0,
+      "name": "Fruta y verdura",
+      "order": 306
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pimiento verde freír",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Pimiento Verde",
+    "mandatory_mentions": "",
+    "origin": "España/Marruecos",
+    "production_variant": "Producto de peso variable. Venta a granel.",
+    "storage_instructions": "Consérvese en lugar fresco y seco. Temperatura de conservación entre 6 y 9 °C",
+    "suppliers": [
+      {
+        "name": "Agrupa Almayate, S.L."
+      },
+      {
+        "name": "Anecoop S. Coop."
+      },
+      {
+        "name": "Cooperativa Agrícola San Isidro de Benicarló S. Coop. V"
+      },
+      {
+        "name": "REYPAMA SAT 751"
+      },
+      {
+        "name": "RICO TOME PATRICIA PILAR SL"
+      },
+      {
+        "name": "Reypama SAT 751"
+      }
+    ],
+    "usage_instructions": "Consumo en fresco"
+  },
+  "display_name": "Pimiento verde freír",
+  "ean": "2105469693201",
+  "extra_info": [
+    null
+  ],
+  "id": "69320",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "freír",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Pimiento verde"
+  },
+  "origin": "España/Marruecos",
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/ace6cddb107859b9d019cdd773ffda00.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ace6cddb107859b9d019cdd773ffda00.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ace6cddb107859b9d019cdd773ffda00.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "2.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "2.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.25",
+    "unit_selector": true,
+    "unit_size": 0.1
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/69320/pimiento-verde-freir-pieza",
+  "slug": "pimiento-verde-freir-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/ace6cddb107859b9d019cdd773ffda00.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

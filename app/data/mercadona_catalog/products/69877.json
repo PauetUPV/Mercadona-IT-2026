@@ -1,0 +1,120 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 257,
+              "level": 2,
+              "name": "Pepino y zanahoria",
+              "order": 306
+            }
+          ],
+          "id": 29,
+          "level": 1,
+          "name": "Verdura",
+          "order": 306
+        }
+      ],
+      "id": 1,
+      "level": 0,
+      "name": "Fruta y verdura",
+      "order": 306
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Palitos de zanahoria",
+    "legal_name": "Palitos de zanahoria",
+    "mandatory_mentions": "Vitamina A:1346g",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Consumir en 24 horas una vez abierto. Entre 2 y 6C.",
+    "suppliers": [
+      {
+        "name": "Agricola Villena Coop. V."
+      },
+      {
+        "name": "Agrícola Villena, S.L.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Palitos de zanahoria",
+  "ean": "8422904015553",
+  "extra_info": [
+    null
+  ],
+  "id": "69877",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Zanahoria, antioxidante (ácido ascórbico), extractos y aromas naturales."
+  },
+  "origin": null,
+  "packaging": "Tarrina",
+  "photos": [
+    {
+      "perspective": 3,
+      "regular": "https://prod-mercadona.imgix.net/images/96e23b094630af760552da5ae8217c72.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/96e23b094630af760552da5ae8217c72.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/96e23b094630af760552da5ae8217c72.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/e59ef38c27a09d708de5707159323869.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e59ef38c27a09d708de5707159323869.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e59ef38c27a09d708de5707159323869.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/ae9e704131329100079604b31ed206bf.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ae9e704131329100079604b31ed206bf.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ae9e704131329100079604b31ed206bf.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "11.67",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "11.667",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.10",
+    "unit_selector": true,
+    "unit_size": 0.18
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/69877/palitos-zanahoria-tarrina",
+  "slug": "palitos-zanahoria-tarrina",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/96e23b094630af760552da5ae8217c72.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

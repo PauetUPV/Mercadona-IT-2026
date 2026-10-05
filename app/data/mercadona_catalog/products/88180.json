@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 289,
+              "level": 2,
+              "name": "Arreglos",
+              "order": 17
+            }
+          ],
+          "id": 46,
+          "level": 1,
+          "name": "Arreglos",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Arreglo para paella con pollo y conejo",
+    "legal_name": "Arreglo de paella",
+    "mandatory_mentions": "Producto fresco. Categoria A. Envasado en atmósfera protectora. Una vez abierto el envase consumir en 24 horas",
+    "origin": null,
+    "production_variant": "Es un producto de peso variable. Su contenido neto puede variar según pieza",
+    "storage_instructions": "Conservar entre 0 a 4C",
+    "suppliers": [
+      {
+        "name": "Dolz España"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Arreglo para paella con pollo y conejo",
+  "ean": "8436533104908",
+  "extra_info": [
+    null
+  ],
+  "id": "88180",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Carne de ave y carne de conejo"
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/4aef73e66f565d98399166d3527f0017.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4aef73e66f565d98399166d3527f0017.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4aef73e66f565d98399166d3527f0017.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/f9daf3d1aadf7e84dc14e6f65a2cc9a0.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f9daf3d1aadf7e84dc14e6f65a2cc9a0.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f9daf3d1aadf7e84dc14e6f65a2cc9a0.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "7.30",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.300",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "6.86",
+    "unit_selector": true,
+    "unit_size": 0.94
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/88180/arreglo-paella-con-pollo-conejo-bandeja",
+  "slug": "arreglo-paella-con-pollo-conejo-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/4aef73e66f565d98399166d3527f0017.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

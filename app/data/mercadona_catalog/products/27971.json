@@ -1,0 +1,114 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 529,
+              "level": 2,
+              "name": "Gaseosa",
+              "order": 8
+            }
+          ],
+          "id": 156,
+          "level": 1,
+          "name": "Agua",
+          "order": 8
+        }
+      ],
+      "id": 18,
+      "level": 0,
+      "name": "Agua y refrescos",
+      "order": 8
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Gaseosa pequeña Hacendado",
+    "legal_name": "Gaseosa. Con edulcorantes.",
+    "mandatory_mentions": "Este producto es comercializado por dos empresas: Refresco Iberia SAU (Carretera N-332 KM 206,9 S/N 46780-Oliva)  y Refresco Minerales SA (Paraje Valserrano, Camino del Judío s/n 45686 Calera y Chozas -Toledo)",
+    "origin": null,
+    "production_variant": "Se añaden dos registros de empresa en función de donde se produce el producto: planta Alcolea o planta Marcilla. Producto comercializado por dos empresas",
+    "storage_instructions": "Conservar en lugar limpio, fresco, seco. Proteger de la luz y de olores agresivos. Una vez abierta consumir preferentemente antes de 3 días y conservar en el frigorífico. Cerrar bien después de cada uso.",
+    "suppliers": [
+      {
+        "name": "Refresco Iberia"
+      },
+      {
+        "name": "Refrescos Jeibes"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Gaseosa pequeña Hacendado",
+  "ean": "8480000279712",
+  "extra_info": [
+    ""
+  ],
+  "id": "27971",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": "Agua carbonatada, acidulante: ácido cítrico, edulcorantes: ciclamato sódico y sacarina sódica, aromas."
+  },
+  "origin": null,
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/46a15a46fde60b26d8c637e38b6abb5b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/46a15a46fde60b26d8c637e38b6abb5b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/46a15a46fde60b26d8c637e38b6abb5b.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/8ffbc846bdd037b89e266ffeff61f98a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8ffbc846bdd037b89e266ffeff61f98a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8ffbc846bdd037b89e266ffeff61f98a.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "0.68",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 21,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "0.680",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.34",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/27971/gaseosa-hacendado-pequena-botella",
+  "slug": "gaseosa-hacendado-pequena-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/46a15a46fde60b26d8c637e38b6abb5b.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

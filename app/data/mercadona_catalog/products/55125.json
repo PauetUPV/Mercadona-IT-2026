@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 301,
+              "level": 2,
+              "name": "Salchichón",
+              "order": 159
+            }
+          ],
+          "id": 51,
+          "level": 1,
+          "name": "Embutido curado",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Longaniza clásica extra Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Salchichón extra",
+    "mandatory_mentions": "Producto sometido a desecación / tripa comestible natural / calidad extra / sin colorantes /  SIN GLUTEN (logo)/ Teléfono de atención al cliente Mercadona: 800 500 220 / RECICLA Al Amarillo (logo)",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Manténgase entre 0°C y 5°C.",
+    "suppliers": [
+      {
+        "name": "CASA TARRADELLAS, S.A."
+      }
+    ],
+    "usage_instructions": "Conservar en un lugar fresco y seco."
+  },
+  "display_name": "Longaniza clásica extra Hacendado",
+  "ean": "8480000551252",
+  "extra_info": [
+    ""
+  ],
+  "id": "55125",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Paleta, panceta, magro de cerdo, sal, <strong>lactosa</strong>, <strong>leche</strong> en polvo, dextrosa, especias, antioxidante (E-316), conservadores (E-250, E-252). Puede contener trazas de soja. Producto sometido a desecación."
+  },
+  "origin": null,
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/3a4c2f18bebb054b79f110585f424b4d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3a4c2f18bebb054b79f110585f424b4d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3a4c2f18bebb054b79f110585f424b4d.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/36fd77f2c91f04f7ae986135b4db964e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/36fd77f2c91f04f7ae986135b4db964e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/36fd77f2c91f04f7ae986135b4db964e.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "2.80",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "2.800",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.80",
+    "unit_selector": true,
+    "unit_size": 0.28
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/55125/longaniza-clasica-extra-hacendado",
+  "slug": "longaniza-clasica-extra-hacendado",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/3a4c2f18bebb054b79f110585f424b4d.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

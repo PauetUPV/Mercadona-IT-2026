@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Knoppers",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 360,
+              "level": 2,
+              "name": "Con chocolate y rellenas",
+              "order": 18
+            }
+          ],
+          "id": 80,
+          "level": 1,
+          "name": "Galletas",
+          "order": 18
+        }
+      ],
+      "id": 7,
+      "level": 0,
+      "name": "Cereales y galletas",
+      "order": 18
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Knoppers",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Barquillos de cacao rellenos con crema de leche y de avellanas Knoppers",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Barquillos rellenos (relleno de crema de leche 30,3%, relleno de crema de avellanas 29,4%)",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "¡Proteger del calor y de la humedad!",
+    "suppliers": [
+      {
+        "name": "Storck Iberica S.L.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Barquillos de cacao rellenos con crema de leche y de avellanas Knoppers",
+  "ean": "4014400928884",
+  "extra_info": [
+    ""
+  ],
+  "id": "17731",
+  "is_bulk": false,
+  "is_new_arrival": true,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>sh</strong>. Puede contener <strong>sa</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>frutos de cáscara</strong>. Puede contener <strong>huevos y productos a base de huevo</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Azúcar, grasas vegetales (palma, karité),  harina de <strong>trigo</strong> (13,5 %), <strong>leche</strong> desnatada en polvo (13 %), <strong>avellanas</strong> (9,2 %), harina integral de <strong>trigo</strong> (7,2 %), cacao, <strong>mantequilla</strong> concentrada (2,7 %), cacao, cacao desgrasado en polvo, emulgente: lecitinas (<strong>soja</strong>), sal, suero lácteo en polvo <strong>leche</strong>, almidón de <strong>trigo</strong>, aromas naturales, gasificante: bicarbonato sódico, <strong>cacahuetes molidos</strong>.  También puede contener <strong>almendras</strong>, otros <strong>frutos de cáscara</strong> y <strong>huevo</strong>."
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/56e2a764d3b97924dd7a15de32a86f4b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/56e2a764d3b97924dd7a15de32a86f4b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/56e2a764d3b97924dd7a15de32a86f4b.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/6a27081d23e5973d6b8a984bcb25cece.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/6a27081d23e5973d6b8a984bcb25cece.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/6a27081d23e5973d6b8a984bcb25cece.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "10.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.025,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "10.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 5,
+    "unit_name": "paquetes",
+    "unit_price": "1.25",
+    "unit_selector": true,
+    "unit_size": 0.125
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/17731/barquillos-rellenos-con-crema-leche-avellanas-knoppers",
+  "slug": "barquillos-rellenos-con-crema-leche-avellanas-knoppers",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/56e2a764d3b97924dd7a15de32a86f4b.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

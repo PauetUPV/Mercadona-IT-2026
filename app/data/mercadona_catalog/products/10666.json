@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 372,
+              "level": 2,
+              "name": "Bebidas frías",
+              "order": 16
+            }
+          ],
+          "id": 84,
+          "level": 1,
+          "name": "Café soluble y otras bebidas",
+          "order": 16
+        }
+      ],
+      "id": 8,
+      "level": 0,
+      "name": "Cacao, café e infusiones",
+      "order": 16
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Café con leche cappuccino Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Bebida de café con leche semidesnatada, pasterizada, 1.3% materia grasa",
+    "mandatory_mentions": "Contenido elevado de cafeína: No recomendado para niños ni mujeres embarazadas o en período de lactancia (contiene 35 mg/100 ml de cafeína).",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Cónservese entre +2 °C y +8°C",
+    "suppliers": [
+      {
+        "name": "Molkerei Gropper GmbH & Co. KG"
+      }
+    ],
+    "usage_instructions": "Agitar antes de consumir"
+  },
+  "display_name": "Café con leche cappuccino Hacendado",
+  "ean": "8402001038372",
+  "extra_info": [
+    null
+  ],
+  "id": "10666",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "78% <strong>leche</strong> semidesnatada, 17% café Arábica, azúcar, cacao en polvo, estabilizantes: carbonatos de sodio, carragenanos."
+  },
+  "origin": null,
+  "packaging": "Vaso",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/f71077f44842e60a701a74c15a390d44.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f71077f44842e60a701a74c15a390d44.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f71077f44842e60a701a74c15a390d44.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/12962c774c4e78c6975c5191b1d41aa7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/12962c774c4e78c6975c5191b1d41aa7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/12962c774c4e78c6975c5191b1d41aa7.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "3.000",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.75",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/10666/cafe-con-leche-cappuccino-hacendado-vaso",
+  "slug": "cafe-con-leche-cappuccino-hacendado-vaso",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/f71077f44842e60a701a74c15a390d44.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

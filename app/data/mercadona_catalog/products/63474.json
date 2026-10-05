@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 338,
+              "level": 2,
+              "name": "Masas",
+              "order": 515
+            }
+          ],
+          "id": 69,
+          "level": 1,
+          "name": "Harina y preparado repostería",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Masa fresca Hacendado hojaldre con mantequilla",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Masa Fresca Hojaldre con mantequilla",
+    "mandatory_mentions": "ENVASADO EN ATMÓSFERA PROTECTORA /  2 MASAS RECTANGULARES/  MASA CRUDA. CONSUMIR DESPUÉS DE HORNEAR / masa blanca elaborada con el corazón del trigo con harina de nuestro propio molino / SIN GRASAS HIDROGENADAS / CORTAR CON TIJERAS / Teléfono de atención al cliente Mercadona: 800 500 220 / PUNTO VERDE (logo) / RECICLA (logo) azul y amarillo/ Sugerencia de presentación / ABRIR AQUÍ",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Puede congelarse justo después de su compra / Manténgase entre 0C y 5C / Consumir preferentemente antes del/lote:",
+    "suppliers": [
+      {
+        "name": "CASA TARRADELLAS, S.A."
+      }
+    ],
+    "usage_instructions": "1 - Precalentar el horno a 200ºC. (Calor superior e inferior, sin ventilación). Mantener la  masa en el frigorífico hasta el momento de su uso.. 2 - Desenrollar la masa y colocarla con el papel de cocción sobre la bandeja del horno fría. Si no utilizas el papel de cocción, engrasar ligeramente la bandeja del horno. 3 - Pintar con huevo batido. Pinchar con un tenedor el centro de la masa para evitar que suba.  4 - Repartir encima los ingredientes escogidos. Cocer a 200C hasta que el producto esté dorado. Cocción sin relleno: 12 minutos aproximadamente. Cocción con relleno: 40 minutos aproximadamente. Evitar que el papel toque las paredes del horno. La temperatura del horno no debe ser superior a 220ºC"
+  },
+  "display_name": "Masa fresca Hacendado hojaldre con mantequilla",
+  "ean": "8480000634740",
+  "extra_info": [
+    ""
+  ],
+  "id": "63474",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "hojaldre con mantequilla",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Harina de <strong>trigo</strong>, <strong>mantequilla</strong> (23%), agua, sal, alcohol, levadura. Puede contener trazas de <strong>soja</strong> y <strong>mostaza</strong>."
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/9c8ffb463f9f081b5ffad7afaf3c5f55.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9c8ffb463f9f081b5ffad7afaf3c5f55.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9c8ffb463f9f081b5ffad7afaf3c5f55.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/3fa222c6b1cb9c015622e041e88d5b1b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3fa222c6b1cb9c015622e041e88d5b1b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3fa222c6b1cb9c015622e041e88d5b1b.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.48",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.26,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.481",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 2,
+    "unit_name": "ud.",
+    "unit_price": "2.85",
+    "unit_selector": true,
+    "unit_size": 0.52
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/63474/masa-fresca-hacendado-hojaldre-con-mantequilla-pack-2",
+  "slug": "masa-fresca-hacendado-hojaldre-con-mantequilla-pack-2",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/9c8ffb463f9f081b5ffad7afaf3c5f55.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

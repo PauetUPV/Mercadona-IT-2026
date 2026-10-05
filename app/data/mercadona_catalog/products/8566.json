@@ -1,0 +1,118 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "La Hacienda del Ibérico",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 298,
+              "level": 2,
+              "name": "Jamón serrano",
+              "order": 159
+            }
+          ],
+          "id": 50,
+          "level": 1,
+          "name": "Jamón serrano",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "La Hacienda del Ibérico",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Jamón de cebo ibérico 50% La Hacienda del Ibérico",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Jamón de cebo ibérico 50% Raza Ibérica. Certificado por Calicer PI/0517/12",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco",
+    "suppliers": [
+      {
+        "name": "Industrias Cárnicas Loriente Piqueras, S. A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Jamón de cebo ibérico 50% La Hacienda del Ibérico",
+  "ean": "8480000085665",
+  "extra_info": [
+    ""
+  ],
+  "id": "8566",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Jamón de cerdo de cebo ibérico, sal, azúcar, antioxidantes (E-331, E-301) y conservadores (E-252, E-250)."
+  },
+  "origin": null,
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/efb437b4020065924dc768d0c8f8eb2a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/efb437b4020065924dc768d0c8f8eb2a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/efb437b4020065924dc768d0c8f8eb2a.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/d83e6df8b2c69df3917751f87f346694.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d83e6df8b2c69df3917751f87f346694.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d83e6df8b2c69df3917751f87f346694.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/82f18117056d9b83031f1e1528e58886.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/82f18117056d9b83031f1e1528e58886.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/82f18117056d9b83031f1e1528e58886.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "18.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "18.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "153.00",
+    "unit_selector": true,
+    "unit_size": 8.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/8566/jamon-cebo-iberico-hacienda-iberico-pieza",
+  "slug": "jamon-cebo-iberico-hacienda-iberico-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/efb437b4020065924dc768d0c8f8eb2a.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

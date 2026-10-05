@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 262,
+              "level": 2,
+              "name": "Setas y champiñones",
+              "order": 306
+            }
+          ],
+          "id": 29,
+          "level": 1,
+          "name": "Verdura",
+          "order": 306
+        }
+      ],
+      "id": 1,
+      "level": 0,
+      "name": "Fruta y verdura",
+      "order": 306
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Mix de setas intenso",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Setas y Champiñones",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en refrigeración",
+    "suppliers": [
+      {
+        "name": "Olmo Mazcuñán, S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Mix de setas intenso",
+  "ean": "8402001051555",
+  "extra_info": [
+    null
+  ],
+  "id": "69657",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>H.marmoreus, L.edodes, A.bisporus y P. eryngii"
+  },
+  "origin": "España",
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/18f9c245741c63fd9ff76f1fe30c8987.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/18f9c245741c63fd9ff76f1fe30c8987.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/18f9c245741c63fd9ff76f1fe30c8987.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/544d93d69577ac108aa8216db9a7a69e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/544d93d69577ac108aa8216db9a7a69e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/544d93d69577ac108aa8216db9a7a69e.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "16.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "16.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.76",
+    "unit_selector": true,
+    "unit_size": 0.235
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/69657/mix-setas-intenso-bandeja",
+  "slug": "mix-setas-intenso-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/18f9c245741c63fd9ff76f1fe30c8987.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

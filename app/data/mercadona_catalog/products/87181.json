@@ -1,0 +1,127 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 851,
+              "level": 2,
+              "name": "Otros",
+              "order": 442
+            }
+          ],
+          "id": 31,
+          "level": 1,
+          "name": "Pescado fresco",
+          "order": 442
+        }
+      ],
+      "id": 2,
+      "level": 0,
+      "name": "Marisco y pescado",
+      "order": 442
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Porciones de rape blanco sin piel descongelado",
+    "legal_name": "Lophius piscatorius",
+    "mandatory_mentions": "Envasado en atmósfera protectora. Contiene espinas.",
+    "origin": null,
+    "production_variant": "Al tratarse de un producto de peso variable la unidad de consumo adquirida puede oscilar entre 200-400 g. Por favor, consulte la etiqueta del producto para conocer el contenido neto del mismo.",
+    "storage_instructions": "Conservar entre 0ºC y 4ºC. Una vez abierto, consumir en 24 h. Apto para congelar",
+    "suppliers": [
+      {
+        "name": "Profand Zaragoza SLU"
+      }
+    ],
+    "usage_instructions": "Producto descongelado.Conservar  entre 0ºC y 4ºC. Una vez abierto, consumir  en 24 h. Abrir 5 minutos antes  de cocinar. Cocinar antes de consumir.Contiene espinas.Envasado en atmosfera protectora."
+  },
+  "display_name": "Porciones de rape blanco sin piel descongelado",
+  "ean": "8480000871817",
+  "extra_info": [
+    "Modelo sujeto a disponibilidad."
+  ],
+  "id": "87181",
+  "is_bulk": true,
+  "is_variable_weight": true,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>moluscos y productos a base de moluscos</strong>. Contiene <strong>pescado y productos a base de pescado</strong>. Puede contener <strong>x99</strong>.",
+    "ingredients": "<strong>Rape blanco</strong> (pescado) (Lophius piscatorius), sal, estabilizantes (E331 y E332), antioxidantes (E301 y E330). Puede contener trazas de crustáceos y moluscos."
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/dc0c7acb7af6d09a432d8a607774fd3a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/dc0c7acb7af6d09a432d8a607774fd3a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/dc0c7acb7af6d09a432d8a607774fd3a.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/a8e4ebc2eb511f18b7e110eb04f5f1f1.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a8e4ebc2eb511f18b7e110eb04f5f1f1.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a8e4ebc2eb511f18b7e110eb04f5f1f1.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/2551a5a232399e9db84892a7e730d7f2.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/2551a5a232399e9db84892a7e730d7f2.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/2551a5a232399e9db84892a7e730d7f2.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/780b39cd7ea3546560f16b68cc6db128.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/780b39cd7ea3546560f16b68cc6db128.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/780b39cd7ea3546560f16b68cc6db128.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/821f9ff1965e7c51c35933fae90b4f85.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/821f9ff1965e7c51c35933fae90b4f85.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/821f9ff1965e7c51c35933fae90b4f85.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "38.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "38.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "13.86",
+    "unit_selector": true,
+    "unit_size": 0.36
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/87181/porciones-rape-blanco-descongelado-bandeja",
+  "slug": "porciones-rape-blanco-descongelado-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/dc0c7acb7af6d09a432d8a607774fd3a.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

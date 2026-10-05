@@ -1,0 +1,845 @@
+{
+  "categories": [
+    {
+      "id": 473,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Gazpacho y salmorejo",
+      "order": 215,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 14,
+              "level": 0,
+              "name": "Conservas, caldos y cremas",
+              "order": 215
+            }
+          ],
+          "display_name": "Gazpacho tradicional Hacendado",
+          "id": "39934",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Pack-3",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.17",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.33,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "2.172",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 3,
+            "unit_name": "mini briks",
+            "unit_price": "2.15",
+            "unit_selector": true,
+            "unit_size": 0.99
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/39934/gazpacho-tradicional-hacendado-pack-3",
+          "slug": "gazpacho-tradicional-hacendado-pack-3",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/421c8b1b4b3542724bea11278c099015.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 14,
+              "level": 0,
+              "name": "Conservas, caldos y cremas",
+              "order": 215
+            }
+          ],
+          "display_name": "Gazpacho tradicional Hacendado",
+          "id": "15604",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Botella",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "1.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "1.500",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.50",
+            "unit_selector": true,
+            "unit_size": 1.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/15604/gazpacho-tradicional-hacendado-botella",
+          "slug": "gazpacho-tradicional-hacendado-botella",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/58afbb31db0d9537a8f94fb81f5da25d.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 14,
+              "level": 0,
+              "name": "Conservas, caldos y cremas",
+              "order": 215
+            }
+          ],
+          "display_name": "Salmorejo al estilo cordobés Hacendado",
+          "id": "39903",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Pack-3",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.68",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.33,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "2.677",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 3,
+            "unit_name": "mini briks",
+            "unit_price": "2.65",
+            "unit_selector": true,
+            "unit_size": 0.99
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/39903/salmorejo-estilo-cordobes-hacendado-pack-3",
+          "slug": "salmorejo-estilo-cordobes-hacendado-pack-3",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/cc02d0a8e660e30e3c24b364adc80e01.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 14,
+              "level": 0,
+              "name": "Conservas, caldos y cremas",
+              "order": 215
+            }
+          ],
+          "display_name": "Salmorejo al estilo cordobés Hacendado",
+          "id": "39902",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Brik",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.20",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "2.200",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.20",
+            "unit_selector": true,
+            "unit_size": 1.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/39902/salmorejo-estilo-cordobes-hacendado-brick",
+          "slug": "salmorejo-estilo-cordobes-hacendado-brick",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/34f1705d13837ede06c4616f86bea15b.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 14,
+              "level": 0,
+              "name": "Conservas, caldos y cremas",
+              "order": 215
+            }
+          ],
+          "display_name": "Gazpacho fresco Hacendado",
+          "id": "39900",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Botella",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.65",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "2.650",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.65",
+            "unit_selector": true,
+            "unit_size": 1.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/39900/gazpacho-fresco-hacendado-botella",
+          "slug": "gazpacho-fresco-hacendado-botella",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/02c2fca38a795d0c30af62b64e676691.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 14,
+              "level": 0,
+              "name": "Conservas, caldos y cremas",
+              "order": 215
+            }
+          ],
+          "display_name": "Gazpacho fresco Hacendado",
+          "id": "39965",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Botella",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.33",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "3.334",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.10",
+            "unit_selector": true,
+            "unit_size": 0.33
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/39965/gazpacho-fresco-hacendado-botella",
+          "slug": "gazpacho-fresco-hacendado-botella",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/8a029da53a21438c1ae4dd62825512f3.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 14,
+              "level": 0,
+              "name": "Conservas, caldos y cremas",
+              "order": 215
+            }
+          ],
+          "display_name": "Salmorejo fresco Hacendado",
+          "id": "39901",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Botella",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.90",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "2.900",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.90",
+            "unit_selector": true,
+            "unit_size": 1.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/39901/salmorejo-fresco-hacendado-botella",
+          "slug": "salmorejo-fresco-hacendado-botella",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/34ea43a89f79cae31d45d635c16f79a4.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 14,
+              "level": 0,
+              "name": "Conservas, caldos y cremas",
+              "order": 215
+            }
+          ],
+          "display_name": "Salmorejo fresco Hacendado",
+          "id": "39966",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Botella",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.79",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "3.788",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.25",
+            "unit_selector": true,
+            "unit_size": 0.33
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/39966/salmorejo-fresco-hacendado-botella",
+          "slug": "salmorejo-fresco-hacendado-botella",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/d6299ca891fc2cb535072129350fc84d.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 14,
+              "level": 0,
+              "name": "Conservas, caldos y cremas",
+              "order": 215
+            }
+          ],
+          "display_name": "Gazpacho blanco de almendras Hacendado con ajo blanco",
+          "id": "39904",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "con ajo blanco",
+          "packaging": "Pack-3",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.43",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.33,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "3.435",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 3,
+            "unit_name": "mini briks",
+            "unit_price": "3.40",
+            "unit_selector": true,
+            "unit_size": 0.99
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/39904/gazpacho-blanco-almendras-hacendado-con-ajo-blanco-pack-3",
+          "slug": "gazpacho-blanco-almendras-hacendado-con-ajo-blanco-pack-3",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/950c8b5282144b312a0de842bffac31f.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    },
+    {
+      "id": 472,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Cremas y puré",
+      "order": 215,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 14,
+              "level": 0,
+              "name": "Conservas, caldos y cremas",
+              "order": 215
+            }
+          ],
+          "display_name": "Crema de calabaza y zanahoria Hacendado",
+          "id": "23225",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Bol",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "4.86",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "4.858",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.70",
+            "unit_selector": true,
+            "unit_size": 0.35
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/23225/crema-calabaza-zanahoria-hacendado-bol",
+          "slug": "crema-calabaza-zanahoria-hacendado-bol",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/c4f8572501d428cdb9583b35db56e690.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 14,
+              "level": 0,
+              "name": "Conservas, caldos y cremas",
+              "order": 215
+            }
+          ],
+          "display_name": "Crema de espárragos Hacendado",
+          "id": "86587",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Bol",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "4.86",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "4.858",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.70",
+            "unit_selector": true,
+            "unit_size": 0.35
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/86587/crema-esparragos-hacendado-bol",
+          "slug": "crema-esparragos-hacendado-bol",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/2518e0e73630e79f2af039da7d3dc822.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 14,
+              "level": 0,
+              "name": "Conservas, caldos y cremas",
+              "order": 215
+            }
+          ],
+          "display_name": "Crema de verduras Hacendado",
+          "id": "8722",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Bol",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "4.86",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "4.858",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.70",
+            "unit_selector": true,
+            "unit_size": 0.35
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/8722/crema-verduras-hacendado-bol",
+          "slug": "crema-verduras-hacendado-bol",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/84004f26c61b916e664619ebaa88a44f.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 14,
+              "level": 0,
+              "name": "Conservas, caldos y cremas",
+              "order": 215
+            }
+          ],
+          "display_name": "Puré de patatas Hacendado en copos",
+          "id": "23264",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "4.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "4.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 4,
+            "unit_name": "sobres",
+            "unit_price": "2.00",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/23264/pure-patatas-hacendado-copos-caja",
+          "slug": "pure-patatas-hacendado-copos-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/cda62d9b1f3870ff9cac3193caae188d.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 14,
+              "level": 0,
+              "name": "Conservas, caldos y cremas",
+              "order": 215
+            }
+          ],
+          "display_name": "Crema de setas Starlux con champiñones",
+          "id": "35662",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "con champiñones",
+          "packaging": "Brik",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.40",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "3.400",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.70",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/35662/crema-setas-starlux-con-champinones-knorr-brick",
+          "slug": "crema-setas-starlux-con-champinones-knorr-brick",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/d61df99aaace37a242ffdef145f78d7c.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 14,
+              "level": 0,
+              "name": "Conservas, caldos y cremas",
+              "order": 215
+            }
+          ],
+          "display_name": "Crema de calabacín Hacendado",
+          "id": "35870",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Bol",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "4.86",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "4.858",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.70",
+            "unit_selector": true,
+            "unit_size": 0.35
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/35870/crema-calabacin-hacendado-bol",
+          "slug": "crema-calabacin-hacendado-bol",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/97b7de306a37508ef279a8369118736e.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 14,
+              "level": 0,
+              "name": "Conservas, caldos y cremas",
+              "order": 215
+            }
+          ],
+          "display_name": "Crema de lentejas Hacendado",
+          "id": "11628",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Bol",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "4.86",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "4.858",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.70",
+            "unit_selector": true,
+            "unit_size": 0.35
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/11628/crema-lentejas-hacendado-bol",
+          "slug": "crema-lentejas-hacendado-bol",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/c75cd6195526f2bfecb9f1783f39297a.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    }
+  ],
+  "id": 130,
+  "is_extended": false,
+  "layout": 1,
+  "name": "Gazpacho y cremas",
+  "next_category": {
+    "id": 129,
+    "name": "Sopa y caldo"
+  },
+  "order": 215,
+  "published": true
+}

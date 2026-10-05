@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Royal",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 339,
+              "level": 2,
+              "name": "Levadura y preparado repostería",
+              "order": 515
+            }
+          ],
+          "id": 69,
+          "level": 1,
+          "name": "Harina y preparado repostería",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Royal",
+    "counter_info": null,
+    "danger_mentions": null,
+    "description": "Preparado en polvo cuajada azucarada Royal sabor lácteo 16 raciones",
+    "legal_name": "Preparado en polvo para hacer cuajada azucarada aromatizada.",
+    "mandatory_mentions": null,
+    "origin": "España",
+    "production_variant": "800000059928",
+    "storage_instructions": "Conservar en lugar fresco y seco. Una vez preparado, conservar refrigerado.",
+    "suppliers": [
+      {
+        "name": "Mondelez España Commercial, S.L."
+      }
+    ],
+    "usage_instructions": null
+  },
+  "display_name": "Preparado en polvo cuajada azucarada Royal sabor lácteo",
+  "ean": "84100559",
+  "extra_info": [
+    ""
+  ],
+  "id": "32358",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": "Ingredientes: azúcar, almidón, espesante (carragenano), dextrosa, aromas, cuajo."
+  },
+  "origin": "España",
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/c0cd591955bba66ca4ed6eb64cd55189.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c0cd591955bba66ca4ed6eb64cd55189.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c0cd591955bba66ca4ed6eb64cd55189.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/4884eb46093f895b13e0d93ebeaf79f4.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4884eb46093f895b13e0d93ebeaf79f4.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4884eb46093f895b13e0d93ebeaf79f4.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "30.21",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "100 g",
+    "reference_price": "3.021",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 4,
+    "unit_name": "sobres",
+    "unit_price": "1.45",
+    "unit_selector": true,
+    "unit_size": 0.048
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/32358/preparado-polvo-cuajada-azucarada-royal-sabor-lacteo-16-raciones-caja",
+  "slug": "preparado-polvo-cuajada-azucarada-royal-sabor-lacteo-16-raciones-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/c0cd591955bba66ca4ed6eb64cd55189.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

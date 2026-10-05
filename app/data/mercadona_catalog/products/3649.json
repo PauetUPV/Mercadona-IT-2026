@@ -1,0 +1,110 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 253,
+              "level": 2,
+              "name": "Otras frutas",
+              "order": 306
+            }
+          ],
+          "id": 27,
+          "level": 1,
+          "name": "Fruta",
+          "order": 306
+        }
+      ],
+      "id": 1,
+      "level": 0,
+      "name": "Fruta y verdura",
+      "order": 306
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Ciruela amarilla",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Ciruela",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "S.A.T. 1596 Nufri"
+      },
+      {
+        "name": "Tany Nature S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Ciruela amarilla",
+  "ean": "2105483036497",
+  "extra_info": [
+    null
+  ],
+  "id": "3649",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": ""
+  },
+  "origin": "España",
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 10,
+      "regular": "https://prod-mercadona.imgix.net/images/8fad8d907b05cc7e8589a6b1867d67e4.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8fad8d907b05cc7e8589a6b1867d67e4.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8fad8d907b05cc7e8589a6b1867d67e4.jpeg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "3.80",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "3.800",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.49",
+    "unit_selector": true,
+    "unit_size": 0.13
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/3649/ciruela-amarilla-pieza",
+  "slug": "ciruela-amarilla-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/8fad8d907b05cc7e8589a6b1867d67e4.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,122 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 330,
+              "level": 2,
+              "name": "Bollería dulce",
+              "order": 515
+            }
+          ],
+          "id": 65,
+          "level": 1,
+          "name": "Bollería de horno",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Berlina glacé",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "PRODUCTO DE BOLLERÍA FRITA GLASEADO. BERLINA GLACE (TREN 4 UD)",
+    "mandatory_mentions": "",
+    "origin": "ESPAÑA",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco. Consumo preferente 24 horas desde su descongelación.",
+    "suppliers": [
+      {
+        "name": "COBOPA, S.L."
+      },
+      {
+        "name": "FRIMAR PANADEROS, S.L."
+      },
+      {
+        "name": "PANAMAR BAKERY GROUP, S.L."
+      },
+      {
+        "name": "PANAMAR PANADEROS, S.L."
+      }
+    ],
+    "usage_instructions": "Producto listo para consumo."
+  },
+  "display_name": "Berlina glacé",
+  "ean": "2105900847101",
+  "extra_info": [
+    ""
+  ],
+  "id": "84710",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>soja y productos a base de soja</strong>. Puede contener <strong>frutos de cáscara</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "Harina de <strong>trigo</strong>, cobertura (20%) (azúcar, agua, jarabe de glucosa, emulgente (E471), conservador (E202), estabilizantes (E410, E412), acidulante (ácido cítrico), aroma), grasas y aceites vegetales (palma), agua, <strong>huevo</strong>, azúcar, levadura, gluten de <strong>trigo</strong>, emulgentes (lecitina de <strong>soja</strong>, E471, E481), gasificantes (E450, E500), sal, almidón de <strong>trigo</strong>, harina de <strong>soja</strong>, sólidos <strong>lácteos</strong>, estabilizante (E466), colorante (beta-caroteno). Puede contener trazas de <strong>frutos</strong> de <strong>cáscara</strong>."
+  },
+  "origin": "ESPAÑA",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/fe1f277a10ee34a021457159b63a1d70.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/fe1f277a10ee34a021457159b63a1d70.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/fe1f277a10ee34a021457159b63a1d70.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/fb3266bcb921525e9b6a0a30f54bd46f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/fb3266bcb921525e9b6a0a30f54bd46f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/fb3266bcb921525e9b6a0a30f54bd46f.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.25",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.250",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 4,
+    "unit_name": "ud.",
+    "unit_price": "1.25",
+    "unit_selector": true,
+    "unit_size": 0.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/84710/berlina-glace-paquete",
+  "slug": "berlina-glace-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/fe1f277a10ee34a021457159b63a1d70.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,280 @@
+{
+  "categories": [
+    {
+      "id": 577,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Vino rosado",
+      "order": 15,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": true
+          },
+          "categories": [
+            {
+              "id": 19,
+              "level": 0,
+              "name": "Bodega",
+              "order": 15
+            }
+          ],
+          "display_name": "Vino rosado suave y goloso Alicia en el país de las uvas",
+          "id": "66580",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Botella",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.93",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "2.934",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "21.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.20",
+            "unit_selector": true,
+            "unit_size": 0.75
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/66580/vino-rosado-alicia-pais-uvas-suave-goloso-botella",
+          "slug": "vino-rosado-alicia-pais-uvas-suave-goloso-botella",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/809b8b181b4827f5fe3a8d69f955e246.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": true
+          },
+          "categories": [
+            {
+              "id": 19,
+              "level": 0,
+              "name": "Bodega",
+              "order": 15
+            }
+          ],
+          "display_name": "Vino rosado tempranillo syrah Fidencio DO La Mancha",
+          "id": "37153",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "DO La Mancha",
+          "packaging": "Botella",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.20",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "2.200",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "21.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.65",
+            "unit_selector": true,
+            "unit_size": 0.75
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/37153/vino-rosado-do-mancha-fidencio-botella",
+          "slug": "vino-rosado-do-mancha-fidencio-botella",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/1d7ce34cf0a36631392ccf07e3ec8bd1.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": true
+          },
+          "categories": [
+            {
+              "id": 19,
+              "level": 0,
+              "name": "Bodega",
+              "order": 15
+            }
+          ],
+          "display_name": "Vino rosado Dominio de Borgia",
+          "id": "37802",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Garrafa",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "1.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "1.500",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "21.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.00",
+            "unit_selector": true,
+            "unit_size": 2.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/37802/vino-rosado-dominio-borgia-garrafa",
+          "slug": "vino-rosado-dominio-borgia-garrafa",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/b601a30f51db85458c981667c27a8e5c.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": true
+          },
+          "categories": [
+            {
+              "id": 19,
+              "level": 0,
+              "name": "Bodega",
+              "order": 15
+            }
+          ],
+          "display_name": "Vino rosado Clarete Arteso DO Rioja",
+          "id": "67119",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "DO Rioja",
+          "packaging": "Botella",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "4.67",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "4.667",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "21.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.50",
+            "unit_selector": true,
+            "unit_size": 0.75
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/67119/vino-rosado-do-rioja-arteso-clarete-botella",
+          "slug": "vino-rosado-do-rioja-arteso-clarete-botella",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/fffaa36855bd08f651eea0a70bc133fa.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": true
+          },
+          "categories": [
+            {
+              "id": 19,
+              "level": 0,
+              "name": "Bodega",
+              "order": 15
+            }
+          ],
+          "display_name": "Vino rosado tempranillo garnacha Mar De Uvas DO Navarra",
+          "id": "24078",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Botella",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "3.000",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "21.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.25",
+            "unit_selector": true,
+            "unit_size": 0.75
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/24078/vino-rosado-tempranillo-garnacha-mar-uvas-do-navarra-botella",
+          "slug": "vino-rosado-tempranillo-garnacha-mar-uvas-do-navarra-botella",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/108ceffa3f7d2dda2bb5549f53df65c8.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    }
+  ],
+  "id": 171,
+  "is_extended": false,
+  "layout": 1,
+  "name": "Vino rosado",
+  "next_category": {
+    "id": 169,
+    "name": "Vino tinto"
+  },
+  "order": 15,
+  "published": true
+}

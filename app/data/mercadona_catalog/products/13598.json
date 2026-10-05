@@ -1,0 +1,114 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 353,
+              "level": 2,
+              "name": "Nata",
+              "order": 373
+            }
+          ],
+          "id": 75,
+          "level": 1,
+          "name": "Mantequilla y margarina",
+          "order": 373
+        }
+      ],
+      "id": 6,
+      "level": 0,
+      "name": "Huevos, leche y mantequilla",
+      "order": 373
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Nata montada azucarada Hacendado",
+    "legal_name": "Nata UHT montada azucarada",
+    "mandatory_mentions": "Recipiente a presión: no perforar ni quemar, incluso después del uso. Proteger de la luz del sol. No exponer a temperaturas superiores a 50ºC/122ºF. Mantener fuera del alcance de los niños. Mantener alejado de fuentes de calor, chispas, llama abierta o superficies calientes. No fumar.",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 2 y 25C evitando cambios bruscos de temperatura. No congelar.",
+    "suppliers": [
+      {
+        "name": "GS1 Italy"
+      },
+      {
+        "name": "Lácteos de Karrantza S.L.U."
+      }
+    ],
+    "usage_instructions": "1-Romper difusor con un click. 2-Agitar 3-4seg. 3-Dosificar hacia abajo. 4-Limpiar difusor. 5-Conservar refrigerado."
+  },
+  "display_name": "Nata montada azucarada Hacendado",
+  "ean": "8402001024412",
+  "extra_info": [
+    null
+  ],
+  "id": "13598",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Nata</strong> 30% M.G. (90%), azúcar (9%), proteínas de <strong>leche</strong>, emulgente E-471, estabilizantes E-407, E-508, gas propelente N2O."
+  },
+  "origin": "España",
+  "packaging": "Spray",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/892e7e611df692289b064ebcf2a8c806.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/892e7e611df692289b064ebcf2a8c806.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/892e7e611df692289b064ebcf2a8c806.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/7e09bafb14cb78e7e09e92234c748029.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7e09bafb14cb78e7e09e92234c748029.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7e09bafb14cb78e7e09e92234c748029.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.80",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.800",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.45",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/13598/nata-montada-azucarada-hacendado-spray",
+  "slug": "nata-montada-azucarada-hacendado-spray",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/892e7e611df692289b064ebcf2a8c806.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

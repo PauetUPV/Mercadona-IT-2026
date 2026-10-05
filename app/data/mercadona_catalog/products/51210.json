@@ -1,0 +1,109 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 305,
+              "level": 2,
+              "name": "Queso fresco",
+              "order": 159
+            }
+          ],
+          "id": 53,
+          "level": 1,
+          "name": "Queso untable, fresco y especialidades",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Queso fresco tronchón mezcla Hacendado",
+    "legal_name": "Queso fresco de cabra y vaca",
+    "mandatory_mentions": "Se trata de un queso totalmente blanco, sin corteza definida. El interior presenta un corte cerrado, con algún que otro ojo mecánico de aspecto gelatinoso y brillante. El sabor es dulce, con un punto salado, lechoso y con una textura al paladar gomosa. Dirigido a todo el público en general excepto a personas con intolerancia a la leche y sus derivados.",
+    "origin": "Valencia, España.",
+    "production_variant": "",
+    "storage_instructions": "Conservar en frío entre 1°C y 6°C.",
+    "suppliers": [
+      {
+        "name": "Formatgería Granja Rinya, S.L."
+      }
+    ],
+    "usage_instructions": "Refrigerado: listo para su consumo una vez abierto, sin necesidad de ningún tipo de transformación."
+  },
+  "display_name": "Queso fresco tronchón mezcla Hacendado",
+  "ean": "8480000512109",
+  "extra_info": [
+    null
+  ],
+  "id": "51210",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>ml</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Leche</strong> pasteurizada de cabra (70%) y vaca (30%), sal, coagulante microbiano, cloruro cálcico y conservador (sorbato potásico).   Origen de la leche: España"
+  },
+  "origin": "Valencia, España.",
+  "packaging": "Tarrina",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/7ff20087a03eb2115a48f9f5391335cc.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7ff20087a03eb2115a48f9f5391335cc.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7ff20087a03eb2115a48f9f5391335cc.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/17ce00a2500a87f382433d62166ba8fa.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/17ce00a2500a87f382433d62166ba8fa.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/17ce00a2500a87f382433d62166ba8fa.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "11.80",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 4,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "11.800",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.95",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/51210/queso-fresco-tronchon-mezcla-hacendado-tarrina",
+  "slug": "queso-fresco-tronchon-mezcla-hacendado-tarrina",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/7ff20087a03eb2115a48f9f5391335cc.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

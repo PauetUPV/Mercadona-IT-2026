@@ -1,0 +1,114 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Ruiz",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 322,
+              "level": 2,
+              "name": "Pan tostado",
+              "order": 515
+            }
+          ],
+          "id": 62,
+          "level": 1,
+          "name": "Pan tostado y rallado",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Ruiz",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Tortas cenceñas para gazpacho manchego Ruiz",
+    "legal_name": "Tortas cenceñas troceadas",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Mantener en lugar seco y fresco",
+    "suppliers": [
+      {
+        "name": "Grupo Edel-bio S.L"
+      },
+      {
+        "name": "Grupo Edelbio, S.L."
+      }
+    ],
+    "usage_instructions": "Producto listo para su consumo"
+  },
+  "display_name": "Tortas cenceñas para gazpacho manchego Ruiz",
+  "ean": "8411241000537",
+  "extra_info": [
+    null
+  ],
+  "id": "82130",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>trigo y productos derivados</strong>.",
+    "ingredients": "Harina de <strong>trigo</strong>, sal, conservante (E200, E223) y aroma natural. Alérgenos: <strong>gluten</strong>, <strong>sulfitos</strong>."
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/1a0e0fa723754058dadaf2e2cd591008.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1a0e0fa723754058dadaf2e2cd591008.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1a0e0fa723754058dadaf2e2cd591008.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/cfeb3b199654c70a0713dcfa1d849631.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/cfeb3b199654c70a0713dcfa1d849631.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/cfeb3b199654c70a0713dcfa1d849631.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.71",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 4,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "3.715",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.65",
+    "unit_selector": true,
+    "unit_size": 0.175
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/82130/tortas-cencenas-gazpacho-manchego-ruiz-paquete",
+  "slug": "tortas-cencenas-gazpacho-manchego-ruiz-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/1a0e0fa723754058dadaf2e2cd591008.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

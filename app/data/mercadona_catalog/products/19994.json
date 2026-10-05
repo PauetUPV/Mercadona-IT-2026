@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "La Carloteña",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 292,
+              "level": 2,
+              "name": "Pavo y otros",
+              "order": 159
+            }
+          ],
+          "id": 48,
+          "level": 1,
+          "name": "Aves y jamón cocido",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "La Carloteña",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Mini muslo de pollo 98% La Carloteña asado al horno",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Pollo relleno mini asado al horno",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar refrigerado entre 0 y 5ºC",
+    "suppliers": [
+      {
+        "name": "Carloteña de Asados, S.L."
+      }
+    ],
+    "usage_instructions": "Consumir en frío o en caliente."
+  },
+  "display_name": "Mini muslo de pollo 98% La Carloteña asado al horno",
+  "ean": "8436565363397",
+  "extra_info": [
+    ""
+  ],
+  "id": "19994",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "asado al horno",
+  "nutrition_information": {
+    "allergens": "Libre de <strong>trigo y productos derivados</strong>. Contiene <strong>sa</strong>. Contiene <strong>ml</strong>. Contiene <strong>soja y productos a base de soja</strong>. Libre de <strong>cereales que contengan gluten</strong>. Puede contener <strong>frutos de cáscara</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "Muslo de pollo deshuesado (98 %), almidón, proteínas de la <strong>LECHE</strong>, proteína de <strong>SOJA</strong>, sal, especias, dextrosa, <strong>LACTOSA</strong>, <strong>ALMENDRA</strong> molida, estabilizantes (difosfatos, polifosfatos, carragenanos), aromas, antioxidantes (ascorbato de sodio, citrato de sodio), conservadores (acetato de potasio, nitrito de sodio). Puede contener trazas de otros frutos de <strong>CÁSCARA</strong> y <strong>HUEVO</strong>. Sin <strong>gluten</strong>"
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/e2a6d6dba6857a89c385178a661edb50.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e2a6d6dba6857a89c385178a661edb50.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e2a6d6dba6857a89c385178a661edb50.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/54d05328c5334e9c0987d846f624c9a7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/54d05328c5334e9c0987d846f624c9a7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/54d05328c5334e9c0987d846f624c9a7.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "10.83",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "10.834",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.25",
+    "unit_selector": true,
+    "unit_size": 0.3
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/19994/muslo-pollo-98-mini-relleno-carlotena-asado-horno-paquete",
+  "slug": "muslo-pollo-98-mini-relleno-carlotena-asado-horno-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/e2a6d6dba6857a89c385178a661edb50.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

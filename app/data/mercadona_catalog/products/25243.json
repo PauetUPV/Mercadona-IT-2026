@@ -1,0 +1,134 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 281,
+              "level": 2,
+              "name": "Pollo",
+              "order": 17
+            }
+          ],
+          "id": 38,
+          "level": 1,
+          "name": "Aves y pollo",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Patas de pollo",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Patas limpias de pollo",
+    "mandatory_mentions": "Envasado en atmósfera protectora. Categoría A",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 0C y 4C. Una vez abierto consumir en 24 horas.",
+    "suppliers": [
+      {
+        "name": "Avidel"
+      },
+      {
+        "name": "Avinatur Producciones Avícolas, S.L."
+      },
+      {
+        "name": "Avícola Sánchez S.A."
+      },
+      {
+        "name": "Avícola Sánchez, S.L."
+      },
+      {
+        "name": "HIJOS DE JUAN PUJANTE S.A."
+      },
+      {
+        "name": "Hijos de Juan Pujante, S.A."
+      },
+      {
+        "name": "Nutrave S.A"
+      },
+      {
+        "name": "UVE, S.A."
+      }
+    ],
+    "usage_instructions": "Cocinar completamente (75) antes de su consumo."
+  },
+  "display_name": "Patas de pollo",
+  "ean": "8412610036188",
+  "extra_info": [
+    null
+  ],
+  "id": "25243",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": ""
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/35af05185d53494427962bf7dd09b12c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/35af05185d53494427962bf7dd09b12c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/35af05185d53494427962bf7dd09b12c.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/8f21ce586c50e8f5a4e29cebded5f317.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8f21ce586c50e8f5a4e29cebded5f317.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8f21ce586c50e8f5a4e29cebded5f317.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "4.60",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "4.600",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.07",
+    "unit_selector": true,
+    "unit_size": 0.45
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/25243/patas-pollo-bandeja",
+  "slug": "patas-pollo-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/35af05185d53494427962bf7dd09b12c.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

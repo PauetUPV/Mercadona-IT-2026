@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 407,
+              "level": 2,
+              "name": "Yogures desnatados",
+              "order": 598
+            }
+          ],
+          "id": 103,
+          "level": 1,
+          "name": "Yogures desnatados",
+          "order": 598
+        }
+      ],
+      "id": 11,
+      "level": 0,
+      "name": "Postres y yogures",
+      "order": 598
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Yogur sabores Hacendado 0% MG 0% azúcares añadidos sabor 2 fresa, 2 frutos silvestres, 2 coco y 2 pera",
+    "legal_name": "Yogur desnatado sabor a fresa, frutos silvestres, coco y pera con edulcorantes",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 1ºC y 8ºC.",
+    "suppliers": [
+      {
+        "name": "SCHREIBER FOODS ESPAÑA S.L"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Yogur sabores Hacendado 0% MG 0% azúcares añadidos",
+  "ean": "8402001036606",
+  "extra_info": [
+    ""
+  ],
+  "id": "13951",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>ml</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Leche</strong> fresca pasteurizada desnatada (Origen: España), proteínas de la <strong>leche</strong>, <strong>leche</strong> en polvo desnatada, aromas, colorantes (carmines, antocianinas, curcumina), edulcorantes (acesulfamo potásico y sucralosa) y fermentos <strong>lácticos</strong>. *Contiene azúcares naturalmente presentes"
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/825a1ef2590ef1090f182d3ed4e4d0be.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/825a1ef2590ef1090f182d3ed4e4d0be.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/825a1ef2590ef1090f182d3ed4e4d0be.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/35eba10c20741522cdeb08d950fc5474.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/35eba10c20741522cdeb08d950fc5474.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/35eba10c20741522cdeb08d950fc5474.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.60",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.125,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "1.600",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 8,
+    "unit_name": "ud.",
+    "unit_price": "1.60",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/13951/yogur-sabores-hacendado-0-mg-0-sin-azucares-anadidos-sabor-2-fresa-2-frutos-silvestres-2-coco-2-pera",
+  "slug": "yogur-sabores-hacendado-0-mg-0-sin-azucares-anadidos-sabor-2-fresa-2-frutos-silvestres-2-coco-2-pera",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/825a1ef2590ef1090f182d3ed4e4d0be.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

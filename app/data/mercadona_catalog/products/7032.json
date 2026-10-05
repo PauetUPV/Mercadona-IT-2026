@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 469,
+              "level": 2,
+              "name": "Caldo líquido",
+              "order": 215
+            }
+          ],
+          "id": 129,
+          "level": 1,
+          "name": "Sopa y caldo",
+          "order": 215
+        }
+      ],
+      "id": 14,
+      "level": 0,
+      "name": "Conservas, caldos y cremas",
+      "order": 215
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Caldo de verduras Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Caldo de verduras",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco. Una vez abierto conservar en el frigorífico y consumir antes de 3 días.",
+    "suppliers": [
+      {
+        "name": "ALINTER ALIMENTACIÓN, S.A.U"
+      },
+      {
+        "name": "Interal, S.A."
+      }
+    ],
+    "usage_instructions": "Consomé: Verter el caldo en un cazo y calentar a fuego lento, removiendo de vez en cuando. Sírvalo tal cual o acompañado de picatostes, trocitos de pollo, jamón frito, huevo duro etc. Sopa: Verter el caldo en un cazo. Llevar a ebullición y añadir los ingredientes que desee (pasta, arroz, etc.). Continuar la ebullición durante el tiempo que requiera el ingrediente utilizado. Añadir sal si se desea. Guisos: Sustituir el agua de los guisos por el caldo para obtener unos platos más sabrosos."
+  },
+  "display_name": "Caldo de verduras Hacendado",
+  "ean": "8480000070326",
+  "extra_info": [
+    null
+  ],
+  "id": "7032",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>apio y productos derivados</strong>.",
+    "ingredients": "Agua, hortalizas 10.6% (<strong>apio</strong>, zanahoria, espinaca, puerro, champiñón, cebolla, tomate), sal, almidón de maíz, levístico, aceite de oliva, aroma natural, aroma natural de cúrcuma."
+  },
+  "origin": null,
+  "packaging": "Brik",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/3ca00c2303dff980433aa82198541016.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3ca00c2303dff980433aa82198541016.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3ca00c2303dff980433aa82198541016.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/66e5e192304c5f46e17f43e40c15e9ed.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/66e5e192304c5f46e17f43e40c15e9ed.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/66e5e192304c5f46e17f43e40c15e9ed.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "0.95",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "0.950",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.95",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/7032/caldo-verduras-hacendado-brick",
+  "slug": "caldo-verduras-hacendado-brick",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/3ca00c2303dff980433aa82198541016.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

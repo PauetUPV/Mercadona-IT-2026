@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Dulcita",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 855,
+              "level": 2,
+              "name": "Tomate",
+              "order": 306
+            }
+          ],
+          "id": 29,
+          "level": 1,
+          "name": "Verdura",
+          "order": 306
+        }
+      ],
+      "id": 1,
+      "level": 0,
+      "name": "Fruta y verdura",
+      "order": 306
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Dulcita",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Tomates cherry en rama Dulcita",
+    "legal_name": "Tomates cherry rama",
+    "mandatory_mentions": "Los tomates Dulcita se caracterizan po un sabor especialmente dulce y aromático. Son ideales como aperitico entre horas o en ensalada.",
+    "origin": "Holanda",
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "Looye Kwekers"
+      }
+    ],
+    "usage_instructions": "Consumir: Preferentemente a temperatura ambiente."
+  },
+  "display_name": "Tomates cherry en rama Dulcita",
+  "ean": "8423223001678",
+  "extra_info": [
+    null
+  ],
+  "id": "69414",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": "Tomate cherry rama"
+  },
+  "origin": "Holanda",
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/66cbca38df7850609b4eaa53baace8b0.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/66cbca38df7850609b4eaa53baace8b0.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/66cbca38df7850609b4eaa53baace8b0.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/29332a068740bd638767728fed84618e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/29332a068740bd638767728fed84618e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/29332a068740bd638767728fed84618e.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "12.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "12.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.50",
+    "unit_selector": true,
+    "unit_size": 0.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/69414/tomates-cherry-rama-dulcita-bandeja",
+  "slug": "tomates-cherry-rama-dulcita-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/66cbca38df7850609b4eaa53baace8b0.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

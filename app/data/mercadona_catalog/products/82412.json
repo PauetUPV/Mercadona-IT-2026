@@ -1,0 +1,114 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 323,
+              "level": 2,
+              "name": "Crakers y tartaletas",
+              "order": 515
+            }
+          ],
+          "id": 62,
+          "level": 1,
+          "name": "Pan tostado y rallado",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Crackers 30% integral",
+    "legal_name": "Cracker elaborados con harina integral de trigo 30%",
+    "mandatory_mentions": "",
+    "origin": "Italia",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco, seco y protegido de la luz.",
+    "suppliers": [
+      {
+        "name": "Fabricado por Quality Food Group, S.p.a."
+      },
+      {
+        "name": "Galbusera S.p.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Crackers 30% integral",
+  "ean": "8002190020167",
+  "extra_info": [
+    ""
+  ],
+  "id": "82412",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>gb</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>granos de sésamo y productos a base de granos de sésamo</strong>.",
+    "ingredients": "Harina de <strong>trigo</strong>, harina integral de <strong>trigo</strong> 30%, aceite de girasol alto oleico refinado, sal, corrector de acidez (bicarbonato sódico), masa madre (harina de <strong>trigo</strong>, agua), harina de <strong>cebada</strong> malteada, levadura de cerveza. <strong>Puede contener trazas de huevo, sésamo, soja y mostaza.</strong>"
+  },
+  "origin": "Italia",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/14f6456edc57e35d89792eed4bcf779c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/14f6456edc57e35d89792eed4bcf779c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/14f6456edc57e35d89792eed4bcf779c.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/5aa6af8296ec2cf42365dacf4d5486b2.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5aa6af8296ec2cf42365dacf4d5486b2.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5aa6af8296ec2cf42365dacf4d5486b2.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.70",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "3.700",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 14,
+    "unit_name": "bolsitas",
+    "unit_price": "1.85",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/82412/crackers-30-integral-galbusera-paquete",
+  "slug": "crackers-30-integral-galbusera-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/14f6456edc57e35d89792eed4bcf779c.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

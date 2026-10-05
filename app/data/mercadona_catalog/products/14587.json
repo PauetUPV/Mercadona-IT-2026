@@ -1,0 +1,114 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 822,
+              "level": 2,
+              "name": "Galletas surtidas",
+              "order": 18
+            }
+          ],
+          "id": 80,
+          "level": 1,
+          "name": "Galletas",
+          "order": 18
+        }
+      ],
+      "id": 7,
+      "level": 0,
+      "name": "Cereales y galletas",
+      "order": 18
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Surtido de pastas artesanas Hacendado",
+    "legal_name": "Surtido de pastas",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en un lugar fresco, seco y protegido de la luz",
+    "suppliers": [
+      {
+        "name": "CEREALTO SIRO FOODS, S.L."
+      },
+      {
+        "name": "GRUPO SIRO"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Surtido de pastas artesanas Hacendado",
+  "ean": "8480000145871",
+  "extra_info": [
+    null
+  ],
+  "id": "14587",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>dióxido de azufre y sulfitos</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "Harina de <strong>trigo</strong>, <strong>mantec</strong>a de cerdo, azúcar, chocolate (azúcar, pas<strong>ta y man</strong>teca de cacao, lactosa, materia grasa láctea anhidra, emulgent<strong>e: leci</strong>ti<strong>na de</strong> soja, aromas), c<strong>hocola</strong>te blanco <strong>(azúc</strong>ar, manteca de cacao, lech<strong>e de</strong>snatada en polvo, materia grasa láctea anhidra, emulgen<strong>te: l</strong>ecitina de soja, arom<strong>as), </strong>cerezas confitadas (cerezas<strong>, azú</strong>car, jarabe de glucosa y <strong>fructo</strong>sa, ácido <strong>cítri</strong>co, colorante (E-127),cons<strong>erva</strong>nte: dióxido de azufre), jarabe de glucosa, huevo pasteurizado, sémo<strong>la de so</strong>ja, leche de<strong>snata</strong>da en polvo, sa<strong>l, alb</strong>úmin<strong>a de </strong>huevo, merme<strong>lada</strong> de albaricoque (az<strong>úcar,</strong> albaricoqu<strong>e, ja</strong>rabe de glucosa y fructosa, estabilizadores (E-440, E-401), conservador: sorbato potásico), colorante (caramelo), <strong>canela e</strong>n polvo, vino, aguardiente, antioxidan<strong>tes (extracto rico en tocoferoles, palmitato de ascor</strong>bilo, galato de propilo, ácido cítrico). Contiene gluten, leche y/o derivados, soja, huevo, sulfitos. Trazas de frutos <strong>de cá</strong>sc<strong>ara</strong><strong></strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong>"
+  },
+  "origin": "España",
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/9e54b56b77df48a29e0cd5e7409ce81c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9e54b56b77df48a29e0cd5e7409ce81c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9e54b56b77df48a29e0cd5e7409ce81c.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/26882790969eb3e56fae995279e84ed2.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/26882790969eb3e56fae995279e84ed2.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/26882790969eb3e56fae995279e84ed2.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.70",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "4.700",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 1,
+    "unit_name": "bandeja",
+    "unit_price": "2.35",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/14587/surtido-pastas-artesanas-hacendado-caja",
+  "slug": "surtido-pastas-artesanas-hacendado-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/9e54b56b77df48a29e0cd5e7409ce81c.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

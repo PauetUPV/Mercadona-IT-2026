@@ -1,0 +1,114 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 488,
+              "level": 2,
+              "name": "Cóctel y banderillas",
+              "order": 9
+            }
+          ],
+          "id": 135,
+          "level": 1,
+          "name": "Aceitunas y encurtidos",
+          "order": 9
+        }
+      ],
+      "id": 15,
+      "level": 0,
+      "name": "Aperitivos",
+      "order": 9
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Mix de encurtidos Hacendado",
+    "legal_name": "Variantes ácidos. categoría extra",
+    "mandatory_mentions": "Producto pasteurizado.",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Consumir dentro de los 15 días después de la apertura. Una vez abierto, conservar cerrado en el frigorífico con el máximo de líquido posible.",
+    "suppliers": [
+      {
+        "name": "Conservas Franco - Riojanas, S.A.U."
+      },
+      {
+        "name": "Végola Ibérica, S.L.U."
+      }
+    ],
+    "usage_instructions": "Listo para su consumo."
+  },
+  "display_name": "Mix de encurtidos Hacendado",
+  "ean": "8480000733313",
+  "extra_info": [
+    null
+  ],
+  "id": "73331",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>altramuces y productos a base de altramuces</strong>. Contiene <strong>dióxido de azufre y sulfitos</strong>.",
+    "ingredients": "Hortalizas en proporción variable (pepinillo (<strong>SULFITOS</strong>), cebollita (<strong>SULFITOS</strong>), aceituna verde, aceituna negra, mazorquita (<strong>SULFITOS</strong>), pimiento rojo (<strong>SULFITOS</strong>), ajo), vinagre de vino, sal, potenciadores de sabor: glutamato monosódico, inosinato sódico y guanilato sódico."
+  },
+  "origin": "España",
+  "packaging": "Tarro",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/652fcbb03c96574ce7fd64b4ca529a27.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/652fcbb03c96574ce7fd64b4ca529a27.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/652fcbb03c96574ce7fd64b4ca529a27.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/b1a84fe579e61d915cf0f755846865b9.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b1a84fe579e61d915cf0f755846865b9.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b1a84fe579e61d915cf0f755846865b9.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.96",
+    "bunch_selector": false,
+    "drained_weight": 0.37,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.163",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.65",
+    "unit_selector": true,
+    "unit_size": 0.67
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/73331/mix-encurtidos-hacendado-tarro",
+  "slug": "mix-encurtidos-hacendado-tarro",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/652fcbb03c96574ce7fd64b4ca529a27.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

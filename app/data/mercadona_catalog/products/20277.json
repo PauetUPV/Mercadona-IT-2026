@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 360,
+              "level": 2,
+              "name": "Con chocolate y rellenas",
+              "order": 18
+            }
+          ],
+          "id": 80,
+          "level": 1,
+          "name": "Galletas",
+          "order": 18
+        }
+      ],
+      "id": 7,
+      "level": 0,
+      "name": "Cereales y galletas",
+      "order": 18
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Mini galletas de cacao Caocream Hacendado rellenas de crema",
+    "legal_name": "Galletas de cacao rellenas de crema (29%) sabor vainilla",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "-",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "Mercadona"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Mini galletas de cacao Caocream Hacendado rellenas de crema",
+  "ean": "8402001041525",
+  "extra_info": [
+    ""
+  ],
+  "id": "20277",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>go</strong>. Puede contener <strong>frutos de cáscara</strong>. Puede contener <strong>cacahuetes y productos a base de cacahuetes</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Contiene <strong>gb</strong>. Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>gs</strong>.",
+    "ingredients": "Harina de TRIGO (GLUTEN), relleno de crema con sabor a vainilla al 29 % [azúcar, grasa vegetal (semilla de palma, palma), emulsionante (lecitina de semilla de nabina), aromatizante natural], azúcar, aceite vegetal (nabina), 7,7% de cacao en polvo, correctores de la acidez (hidróxido potásico, carbonatos de potasio, carbonatos de amonio), grasa vegetal (semilla de palma, palma), sal, agentes leudantes (carbonatos de amonio, carbonatos de sodio), aromatizante natural, almidón de TRIGO (GLUTEN), HUEVOS. PUEDE CONTENER TRAZAS DE LECHE, CACAHUETES, FRUTOS SECOS Y OTROS CEREALES CON GLUTEN"
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/918dcf98f8ad7b97884e2fce4a646c19.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/918dcf98f8ad7b97884e2fce4a646c19.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/918dcf98f8ad7b97884e2fce4a646c19.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/4ba0fcb07a5f6efaf5b339621e94d674.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4ba0fcb07a5f6efaf5b339621e94d674.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4ba0fcb07a5f6efaf5b339621e94d674.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "9.38",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "9.375",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 4,
+    "unit_name": "paquetes",
+    "unit_price": "1.50",
+    "unit_selector": true,
+    "unit_size": 0.16
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/20277/galletas-mini-caocream-cacao-hacendado-rellenas-crema-caja",
+  "slug": "galletas-mini-caocream-cacao-hacendado-rellenas-crema-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/918dcf98f8ad7b97884e2fce4a646c19.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,128 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 284,
+              "level": 2,
+              "name": "Cordero",
+              "order": 17
+            }
+          ],
+          "id": 42,
+          "level": 1,
+          "name": "Conejo y cordero",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Garretas brazuelo de cordero",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "Agropecuaria Fraile S.A"
+      },
+      {
+        "name": "Frigoríficos Cárnicos las Forcas, SLU"
+      },
+      {
+        "name": "Inesmat Despiece y Envasado S.L."
+      },
+      {
+        "name": "Moralejo Seleccion"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Garretas brazuelo de cordero",
+  "ean": "2105100043617",
+  "extra_info": [
+    ""
+  ],
+  "id": "4361",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": ""
+  },
+  "origin": "España",
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/997eed5d60dad70322b642f9634bbde9.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/997eed5d60dad70322b642f9634bbde9.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/997eed5d60dad70322b642f9634bbde9.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/620ba2dff366a51b04e8409971fbbee3.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/620ba2dff366a51b04e8409971fbbee3.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/620ba2dff366a51b04e8409971fbbee3.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/55ee8b8cc1dad77f2e5e210a3bd4d783.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/55ee8b8cc1dad77f2e5e210a3bd4d783.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/55ee8b8cc1dad77f2e5e210a3bd4d783.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "16.95",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "16.950",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "10.17",
+    "unit_selector": true,
+    "unit_size": 0.6
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/4361/garretas-brazuelo-cordero-bandeja",
+  "slug": "garretas-brazuelo-cordero-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/997eed5d60dad70322b642f9634bbde9.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": "2026-07-31T22:00:00+00:00",
+  "unavailable_weekdays": []
+}

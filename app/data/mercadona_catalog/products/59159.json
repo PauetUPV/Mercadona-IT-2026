@@ -1,0 +1,127 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 292,
+              "level": 2,
+              "name": "Pavo y otros",
+              "order": 159
+            }
+          ],
+          "id": 48,
+          "level": 1,
+          "name": "Aves y jamón cocido",
+          "order": 159
+        },
+        {
+          "categories": [
+            {
+              "id": 301,
+              "level": 2,
+              "name": "Salchichón",
+              "order": 159
+            }
+          ],
+          "id": 51,
+          "level": 1,
+          "name": "Embutido curado",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Salchichón de pavo extra Hacendado lonchas",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Salchichón de Pavo Extra con proteínas de la leche",
+    "mandatory_mentions": "Envoltura no comestible. Envasado en atmósfera protectora. 30% MENOS GRASA que una longaniza de CERDO convencional",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Mantener refrigerado entre 0C Y 5C. Una vez abierto se recomienda consumir antes de 5 días.",
+    "suppliers": [
+      {
+        "name": "Embutidos Monter S.L.U."
+      }
+    ],
+    "usage_instructions": "Abrir el envase 10 minutos antes de consumir el producto."
+  },
+  "display_name": "Salchichón de pavo extra Hacendado lonchas",
+  "ean": "8480000591593",
+  "extra_info": [
+    null
+  ],
+  "id": "59159",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "lonchas",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Muslo de pavo (117 g para obtener 100 g de producto final), grasa de pavo, <strong>lactosa</strong>, sal, <strong>leche</strong> desnatada en polvo, dextrosa, especias, estabilizantes (E-450, E-451), proteínas de la <strong>leche</strong>, aromas, antioxidante (E-301), conservadores (E-250, E-252)  y colorante (E-120)."
+  },
+  "origin": "España",
+  "packaging": "Pack-4",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/e52cc37d238bef484922733955772aab.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e52cc37d238bef484922733955772aab.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e52cc37d238bef484922733955772aab.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/bc30f165542a3b1918bb86209a150a48.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/bc30f165542a3b1918bb86209a150a48.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/bc30f165542a3b1918bb86209a150a48.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "18.67",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.0375,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "18.667",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 4,
+    "unit_name": "paquetes",
+    "unit_price": "2.80",
+    "unit_selector": true,
+    "unit_size": 0.15
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/59159/salchichon-pavo-extra-hacendado-lonchas-pack-4",
+  "slug": "salchichon-pavo-extra-hacendado-lonchas-pack-4",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/e52cc37d238bef484922733955772aab.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

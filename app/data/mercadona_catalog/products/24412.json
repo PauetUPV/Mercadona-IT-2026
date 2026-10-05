@@ -1,0 +1,136 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 513,
+              "level": 2,
+              "name": "Pescado",
+              "order": 213
+            }
+          ],
+          "id": 149,
+          "level": 1,
+          "name": "Pescado",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 276,
+              "level": 2,
+              "name": "Sepia, pulpo y calamar congelado",
+              "order": 442
+            }
+          ],
+          "id": 34,
+          "level": 1,
+          "name": "Pescado congelado",
+          "order": 442
+        }
+      ],
+      "id": 2,
+      "level": 0,
+      "name": "Marisco y pescado",
+      "order": 442
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Huevas de sepia Hacendado congeladas",
+    "legal_name": "Hueva de sepia con agua añadida",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar a -18C. Una vez descongelado, no volver a congelar.",
+    "suppliers": [
+      {
+        "name": "Grupo Profand, S.L."
+      },
+      {
+        "name": "Grupo Profand, S.L.U."
+      }
+    ],
+    "usage_instructions": "Cocinar antes de consumir."
+  },
+  "display_name": "Huevas de sepia Hacendado congeladas",
+  "ean": "8480000244123",
+  "extra_info": [
+    null
+  ],
+  "id": "24412",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>moluscos y productos a base de moluscos</strong>. Puede contener <strong>pescado y productos a base de pescado</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>.",
+    "ingredients": "Sepias (Sepia spp) (90 %) (<strong>moluscos</strong>), agua (10%), sal, correctores de acidez: E-330 y E-331. Puede contener <strong>pescado</strong> y/o <strong>crustáceos</strong>."
+  },
+  "origin": "España",
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/f23b1b11d0b8eae3e25ea91fb2ead1bc.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f23b1b11d0b8eae3e25ea91fb2ead1bc.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f23b1b11d0b8eae3e25ea91fb2ead1bc.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/335e32ade58c61b21b93b05762090631.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/335e32ade58c61b21b93b05762090631.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/335e32ade58c61b21b93b05762090631.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "19.86",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "19.858",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "6.95",
+    "unit_selector": true,
+    "unit_size": 0.35
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/24412/huevas-sepia-hacendado-congeladas-bandeja",
+  "slug": "huevas-sepia-hacendado-congeladas-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/f23b1b11d0b8eae3e25ea91fb2ead1bc.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

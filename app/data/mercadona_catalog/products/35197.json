@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 286,
+              "level": 2,
+              "name": "Embutido",
+              "order": 17
+            }
+          ],
+          "id": 43,
+          "level": 1,
+          "name": "Embutido",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Embutido surtido oreado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Surtido aperitivo oreado",
+    "mandatory_mentions": "Envasado en atmósfera protectora.",
+    "origin": "xx",
+    "production_variant": "",
+    "storage_instructions": "Conservar de 0º a 4ºC.",
+    "suppliers": [
+      {
+        "name": "Embutidos F. Martinez R."
+      },
+      {
+        "name": "Embutidos F. Martínez R.S.A"
+      }
+    ],
+    "usage_instructions": "Cocinar completamente, a fuego lento, antes de su consumo. Para plancha, freír, barbacoa....."
+  },
+  "display_name": "Embutido surtido oreado",
+  "ean": "8421610351979",
+  "extra_info": [
+    null
+  ],
+  "id": "35197",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>LONGANIZA: Carne de cerdo (105,4g de carne de cerdo  por cada 100g de longaniza), sal, dextrosa, antioxidantes (E-331iii, E-316,  E-301), especias, emulgente E-452i, aromas, hortalizas deshidratadas,  conservadores (E-252, E-250), potenciador del sabor E-621, colorante E-120.  Recubrimiento de colágeno. CHORIZO:  Carne  y grasa de cerdo, pimentón, sal, sacarosa, especias, almidón, ajo, fibra  guisante, reguladores de la acidez (E-262, E-325), aromas naturales,  antioxidantes E-301, colorante E-120. Tripa natural de cerdo. CHORIZO CRIOLLO: Carne de  cerdo, carne de vacuno, sal, antioxidantes (E-331, E-301, E-316), dextrosa,  especias, potenciador del sabor E-621, estabilizantes (E-450i, E-452i), aromas,  conservantes (E-252, E-250) y colorante E-120.   Recubrimiento de colágeno. MORCILLA: Cebolla, tocino, sangre de cerdo,  harina de arroz, sal, especias. Tripa natural de cerdo. Sin gluten. Sin lactosa."
+  },
+  "origin": "xx",
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/68f23d3bad0c71c466926530d538fbc0.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/68f23d3bad0c71c466926530d538fbc0.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/68f23d3bad0c71c466926530d538fbc0.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/78faaf4ad3c6197e77fd42ce5adca3f6.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/78faaf4ad3c6197e77fd42ce5adca3f6.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/78faaf4ad3c6197e77fd42ce5adca3f6.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "7.75",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.750",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.88",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/35197/embutido-surtido-oreado-bandeja",
+  "slug": "embutido-surtido-oreado-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/68f23d3bad0c71c466926530d538fbc0.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 500,
+              "level": 2,
+              "name": "Tortilla",
+              "order": 597
+            }
+          ],
+          "id": 140,
+          "level": 1,
+          "name": "Platos preparados calientes",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Tortilla de patata Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Tortilla fresca de patata",
+    "mandatory_mentions": "Envasado en atmósfera protectora.",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Producto refrigerado, conservar entre 1C y 4C.",
+    "suppliers": [
+      {
+        "name": "Elaborados Naturales de la Ribera del Ebro S.L."
+      },
+      {
+        "name": "Elaborados Naturales de la Ribera, S.L."
+      }
+    ],
+    "usage_instructions": "Producto listo para consumir. Una vez abierto, mantener refrigerada y consumir en 24h. MODO DE PREPARACIÓN: MICROONDAS. Perforar el envase y calentar a 800 w de potencia durante: Jugosa: 4 min, + cuajada: 7 min. SARTÉN (Recomendado) Añadir una cucharada sopera de aceite de oliva y calentar a fuego medio durante: 4 min por cada lado."
+  },
+  "display_name": "Tortilla de patata Hacendado",
+  "ean": "8480000807717",
+  "extra_info": [
+    null
+  ],
+  "id": "80771",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "Patata (66%), <strong>huevo</strong> pasteurizado (30%) (<strong>huevo</strong>, sal, conservador: E-211 y acidulante: ácido cítrico), aceite refinado de girasol y aceite de oliva virgen. <strong>Sin gluten</strong>"
+  },
+  "origin": "España",
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/81ea12030b53ff6cbbb27a8b1f3ac1c6.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/81ea12030b53ff6cbbb27a8b1f3ac1c6.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/81ea12030b53ff6cbbb27a8b1f3ac1c6.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/e81a1a43e7efd786813d79f1f14f1947.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e81a1a43e7efd786813d79f1f14f1947.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e81a1a43e7efd786813d79f1f14f1947.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.33",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "4.334",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.60",
+    "unit_selector": true,
+    "unit_size": 0.6
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/80771/tortilla-patata-hacendado-bandeja",
+  "slug": "tortilla-patata-hacendado-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/81ea12030b53ff6cbbb27a8b1f3ac1c6.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

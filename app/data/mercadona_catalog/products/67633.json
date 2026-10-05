@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 417,
+              "level": 2,
+              "name": "Flan",
+              "order": 598
+            }
+          ],
+          "id": 110,
+          "level": 1,
+          "name": "Flan y natillas",
+          "order": 598
+        }
+      ],
+      "id": 11,
+      "level": 0,
+      "name": "Postres y yogures",
+      "order": 598
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Flan de café Hacendado",
+    "legal_name": "Postre lácteo.Flan de café",
+    "mandatory_mentions": "Sin gluten. No apto para diabéticos ni alérgicos a la leche, huevo y almendra.",
+    "origin": "Valencia, España.",
+    "production_variant": "",
+    "storage_instructions": "Conservar en frío entre 1C y 8C.",
+    "suppliers": [
+      {
+        "name": "Postres lácteos Romar S.L."
+      }
+    ],
+    "usage_instructions": "Una vez abierto el envase, el producto está listo para consumir."
+  },
+  "display_name": "Flan de café Hacendado",
+  "ean": "8480000676337",
+  "extra_info": [
+    null
+  ],
+  "id": "67633",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>frutos de cáscara</strong>. Puede contener <strong>sa</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Contiene <strong>ml</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Leche</strong>, <strong>huevo</strong>, azúcar, nata (<strong>leche</strong>), caramelo líquido (jarabe de glucosa y sacarosa), <strong>leche</strong> en polvo desnatada, café (1%) y colorante: caramelo. Puede contener trazas de otros <strong>almendra</strong>."
+  },
+  "origin": "Valencia, España.",
+  "packaging": "Pack-4",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/fb0a6fdd7930117b3726dbabc954a8e0.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/fb0a6fdd7930117b3726dbabc954a8e0.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/fb0a6fdd7930117b3726dbabc954a8e0.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/d1468c95e77ec4f9e4c00e3be5289802.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d1468c95e77ec4f9e4c00e3be5289802.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d1468c95e77ec4f9e4c00e3be5289802.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.1,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 4,
+    "unit_name": "ud.",
+    "unit_price": "2.00",
+    "unit_selector": true,
+    "unit_size": 0.4
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/67633/flan-cafe-hacendado-pack-4",
+  "slug": "flan-cafe-hacendado-pack-4",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/fb0a6fdd7930117b3726dbabc954a8e0.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

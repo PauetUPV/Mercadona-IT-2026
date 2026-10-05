@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 484,
+              "level": 2,
+              "name": "Aceitunas verdes",
+              "order": 9
+            }
+          ],
+          "id": 135,
+          "level": 1,
+          "name": "Aceitunas y encurtidos",
+          "order": 9
+        }
+      ],
+      "id": 15,
+      "level": 0,
+      "name": "Aperitivos",
+      "order": 9
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Aceitunas verdes rellenas de pepinillo Hacendado",
+    "legal_name": "Aceitunas rellenas de pepinillo",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "MERCADONA, S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Aceitunas verdes rellenas de pepinillo Hacendado",
+  "ean": "8402001029134",
+  "extra_info": [
+    ""
+  ],
+  "id": "11946",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Agua, aceitunas, pepinillos 30% s/PNE <strong>(conservador: metabisulfito potásico)</strong>, sal, correctores de acidez: ácido láctico, ácido acético y ácido cítrico, potenciadores de sabor: glutamato monosódico, inosinato disódico y guanilato disódico, vinagre de vino y antioxidante: ácido ascórbico."
+  },
+  "origin": null,
+  "packaging": "Tarro",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/57d19890e92a963400c1972a9adc7f54.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/57d19890e92a963400c1972a9adc7f54.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/57d19890e92a963400c1972a9adc7f54.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/f9430b0fb0a7a3a00e663faed9dde8e4.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f9430b0fb0a7a3a00e663faed9dde8e4.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f9430b0fb0a7a3a00e663faed9dde8e4.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "8.73",
+    "bunch_selector": false,
+    "drained_weight": 0.15,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "18.334",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.75",
+    "unit_selector": true,
+    "unit_size": 0.315
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/11946/aceitunas-verdes-rellenas-pepinillo-hacendado-tarro",
+  "slug": "aceitunas-verdes-rellenas-pepinillo-hacendado-tarro",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/57d19890e92a963400c1972a9adc7f54.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

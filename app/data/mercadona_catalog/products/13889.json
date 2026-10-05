@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 475,
+              "level": 2,
+              "name": "Snacks",
+              "order": 9
+            }
+          ],
+          "id": 132,
+          "level": 1,
+          "name": "Patatas fritas y snacks",
+          "order": 9
+        }
+      ],
+      "id": 15,
+      "level": 0,
+      "name": "Aperitivos",
+      "order": 9
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Garfitos de maíz sabor queso Hacendado",
+    "legal_name": "Aperitivo",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Consérvese en lugar fresco, seco y alejado de la luz.",
+    "suppliers": [
+      {
+        "name": "Alimentos Sanygran S,L"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Garfitos de maíz sabor queso Hacendado",
+  "ean": "8480000138897",
+  "extra_info": [
+    null
+  ],
+  "id": "13889",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Sémola de maíz, aceite de girasol (21%), aroma a <strong>queso</strong> (<strong>lácteos</strong> (incluida <strong>lactosa</strong>), sal, dextrosa, aromas, potenciadores de sabor (E-621, E-635), maltodextrina, colorante (extracto de pimentón), almidón modificado)"
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/0535918a9753c0d6b2de67b6d1e7d9f7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0535918a9753c0d6b2de67b6d1e7d9f7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0535918a9753c0d6b2de67b6d1e7d9f7.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/d81298c95512baec319b80905bbd098c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d81298c95512baec319b80905bbd098c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d81298c95512baec319b80905bbd098c.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "9.38",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "9.375",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.75",
+    "unit_selector": true,
+    "unit_size": 0.08
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/13889/garfitos-maiz-sabor-queso-hacendado-paquete",
+  "slug": "garfitos-maiz-sabor-queso-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/0535918a9753c0d6b2de67b6d1e7d9f7.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

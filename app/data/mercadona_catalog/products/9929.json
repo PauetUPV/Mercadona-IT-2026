@@ -1,0 +1,105 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Disney",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 636,
+              "level": 2,
+              "name": "Colonia infantil",
+              "order": 241
+            }
+          ],
+          "id": 196,
+          "level": 1,
+          "name": "Perfume y colonia",
+          "order": 241
+        }
+      ],
+      "id": 20,
+      "level": 0,
+      "name": "Cuidado facial y corporal",
+      "order": 241
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Disney",
+    "counter_info": null,
+    "danger_mentions": null,
+    "description": "Lote infantil Disney Frozen contiene eau de toilette 150 ml, 1 laca de uñas, corona, collar, anillo y 2 brillos de labios",
+    "legal_name": null,
+    "mandatory_mentions": null,
+    "origin": null,
+    "production_variant": null,
+    "storage_instructions": null,
+    "suppliers": [],
+    "usage_instructions": null
+  },
+  "display_name": "Lote infantil Disney Frozen",
+  "ean": "8411114094359",
+  "extra_info": [
+    "Nota olfativa floral frutal"
+  ],
+  "id": "9929",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": null
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/7be22b631817ffb647f7ab6e4da1bdfb.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7be22b631817ffb647f7ab6e4da1bdfb.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7be22b631817ffb647f7ab6e4da1bdfb.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/0359e722a021c4e0edbe5c9adfbdc695.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0359e722a021c4e0edbe5c9adfbdc695.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0359e722a021c4e0edbe5c9adfbdc695.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "7.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "7.500",
+    "selling_method": 0,
+    "size_format": "ud",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "7.50",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/9929/lote-infantil-disney-frozen-contiene-eau-toilette-150-ml-brillo-labios-6-ml-balsamo-labial-4g-cepillo-clips-cabello-trenzas-con-goma-caja",
+  "slug": "lote-infantil-disney-frozen-contiene-eau-toilette-150-ml-brillo-labios-6-ml-balsamo-labial-4g-cepillo-clips-cabello-trenzas-con-goma-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/7be22b631817ffb647f7ab6e4da1bdfb.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,112 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Señorío De Requena",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 580,
+              "level": 2,
+              "name": "Cava semi seco",
+              "order": 15
+            }
+          ],
+          "id": 174,
+          "level": 1,
+          "name": "Sidra y cava",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": "11.5º",
+    "brand": "Señorío De Requena",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Cava semi seco Señorío De Requena",
+    "legal_name": "Cava Semiseco",
+    "mandatory_mentions": "Una vez abierto el envase, se recomienda consumir en tres días.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y protegido de la luz solar.",
+    "suppliers": [
+      {
+        "name": "Torre Oria SL"
+      },
+      {
+        "name": "Torreoria S.L."
+      }
+    ],
+    "usage_instructions": "Servir entre 6C y 8C"
+  },
+  "display_name": "Cava semi seco Señorío De Requena",
+  "ean": "8410744002178",
+  "extra_info": [
+    ""
+  ],
+  "id": "28951",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>dióxido de azufre y sulfitos</strong>.",
+    "ingredients": "Uva, Licor de Expedición, Correctores de la acidez (Ácidos Málicos, Ácidos Lácticos), Conservadores y antioxidantes (Dióxido de Azufre). <strong>Sulfitos</strong>."
+  },
+  "origin": null,
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/7a9c9d5ea46912b9b4de7b6e195ecd58.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7a9c9d5ea46912b9b4de7b6e195ecd58.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7a9c9d5ea46912b9b4de7b6e195ecd58.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/b49cbf3fbb683c9ce4a35e90446719dd.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b49cbf3fbb683c9ce4a35e90446719dd.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b49cbf3fbb683c9ce4a35e90446719dd.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.73",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "4.734",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.55",
+    "unit_selector": true,
+    "unit_size": 0.75
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/28951/cava-semi-seco-senorio-requena-botella",
+  "slug": "cava-semi-seco-senorio-requena-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/7a9c9d5ea46912b9b4de7b6e195ecd58.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

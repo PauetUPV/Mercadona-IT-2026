@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Nocilla",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 388,
+              "level": 2,
+              "name": "Cremas de untar",
+              "order": 11
+            }
+          ],
+          "id": 92,
+          "level": 1,
+          "name": "Chocolate",
+          "order": 11
+        }
+      ],
+      "id": 9,
+      "level": 0,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Nocilla",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Crema al cacao y leche con avellanas Nocilla",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Doble crema al cacao y leche con avellanas",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Mantener fuera del frigorífico, en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "IDILIA FOODS, S.L.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Crema al cacao y leche con avellanas Nocilla",
+  "ean": "8410014519917",
+  "extra_info": [
+    ""
+  ],
+  "id": "16265",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>sh</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>frutos de cáscara</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "azúcar, aceite refinado de girasol alto oleico, suero de<strong> leche</strong> en polvo,<strong> leche</strong> desnatada en polvo (5,5%), manteca de cacao, cacao desgrasado en polvo (4,3%),<strong> avellanas</strong> (3,7%), emulgente (lecitina de<strong> soja</strong>), aromas. Puede contener <strong> otros frutos de cáscara</strong>."
+  },
+  "origin": null,
+  "packaging": "Bote",
+  "photos": [
+    {
+      "perspective": 3,
+      "regular": "https://prod-mercadona.imgix.net/images/6b8a959f12e81dd552dd8efb221c37f9.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/6b8a959f12e81dd552dd8efb221c37f9.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/6b8a959f12e81dd552dd8efb221c37f9.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/73cebcb17ad2287bd4f1c95d2c3adaef.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/73cebcb17ad2287bd4f1c95d2c3adaef.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/73cebcb17ad2287bd4f1c95d2c3adaef.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "8.19",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "8.195",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.95",
+    "unit_selector": true,
+    "unit_size": 0.36
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/16265/crema-cacao-leche-con-avellanas-nocilla-bote",
+  "slug": "crema-cacao-leche-con-avellanas-nocilla-bote",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/6b8a959f12e81dd552dd8efb221c37f9.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

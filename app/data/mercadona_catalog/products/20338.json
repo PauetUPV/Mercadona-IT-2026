@@ -1,0 +1,109 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Falke",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 555,
+              "level": 2,
+              "name": "Cerveza lata",
+              "order": 15
+            }
+          ],
+          "id": 166,
+          "level": 1,
+          "name": "Cerveza sin alcohol",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Falke",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Cerveza 0,0% sin alcohol Falke",
+    "legal_name": "Cerveza Sin Alcohol",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "Heineken España S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Cerveza 0,0% sin alcohol Falke",
+  "ean": "8411090310467",
+  "extra_info": [
+    ""
+  ],
+  "id": "20338",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>gb</strong>.",
+    "ingredients": "Agua, malta de <strong>cebada</strong>, extracto de lúpulo y aroma. Sin gluten"
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/6345bf53a29844d0467685e0c2788ab7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/6345bf53a29844d0467685e0c2788ab7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/6345bf53a29844d0467685e0c2788ab7.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/7979b72a2cc95d4df012f7874cd9ee9b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7979b72a2cc95d4df012f7874cd9ee9b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7979b72a2cc95d4df012f7874cd9ee9b.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.03",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.33,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "1.031",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": 12,
+    "unit_name": "latas",
+    "unit_price": "4.08",
+    "unit_selector": true,
+    "unit_size": 3.96
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/20338/cerveza-sin-alcohol-falke",
+  "slug": "cerveza-sin-alcohol-falke",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/6345bf53a29844d0467685e0c2788ab7.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

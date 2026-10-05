@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Sabroz",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 441,
+              "level": 2,
+              "name": "Arroz",
+              "order": 10
+            }
+          ],
+          "id": 118,
+          "level": 1,
+          "name": "Arroz",
+          "order": 10
+        }
+      ],
+      "id": 13,
+      "level": 0,
+      "name": "Arroz, legumbres y pasta",
+      "order": 10
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Sabroz",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Arroz largo Sabroz",
+    "legal_name": "Arroz procesado",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar a temperatura ambiente en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Herba Ricemills. S.L.U."
+      }
+    ],
+    "usage_instructions": "Microondas(1 minuto) : 1 Abre ligeramente el envase.  2 Caliéntalo un minuto en el microondas. 3 Ten cuidado al desprender la tapa que que el envase estará caliente. Sarten: Calienta 2 minutos con un poco de aceite."
+  },
+  "display_name": "Arroz largo Sabroz",
+  "ean": "8410184045285",
+  "extra_info": [
+    ""
+  ],
+  "id": "12972",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Arroz largo cocido 97% (agua, arroz largo vaporizado). aceite de girasol. sal. emulgente:lecitina de girasol. Sin gluten"
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/e2d8b845aff0cf75e5999abe2df136b7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e2d8b845aff0cf75e5999abe2df136b7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e2d8b845aff0cf75e5999abe2df136b7.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/60eb6923d9e45897b626d17fd9a21c3f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/60eb6923d9e45897b626d17fd9a21c3f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/60eb6923d9e45897b626d17fd9a21c3f.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.40",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.125,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "4.400",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 2,
+    "unit_name": "vasitos",
+    "unit_price": "1.10",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/12972/arroz-largo-sabroz",
+  "slug": "arroz-largo-sabroz",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/e2d8b845aff0cf75e5999abe2df136b7.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

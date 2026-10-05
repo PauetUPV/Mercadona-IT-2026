@@ -1,0 +1,141 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 518,
+              "level": 2,
+              "name": "Tartas",
+              "order": 213
+            }
+          ],
+          "id": 152,
+          "level": 1,
+          "name": "Tartas y churros",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 336,
+              "level": 2,
+              "name": "Tartas",
+              "order": 515
+            }
+          ],
+          "id": 68,
+          "level": 1,
+          "name": "Tartas y pasteles",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Trenza hojaldre de mantequilla Hacendado congelada",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Masa hojaldrada rellena",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "Lista de ingredientes 1: para lotes hasta 525091.  Lista de ingredientes 2: para lotes a partir del 525092.",
+    "storage_instructions": "Si el producto se compra congelado, mantener a -18C y consumir preferentemente antes de la fecha indicada en la etiqueta-precinto. Si se compra descongelado consumir antes de ver fecha de caducidad en la etiqueta adherida. En ambos casos una vez descongelado mantener a temperatura ambiente y no volver a congelar.",
+    "suppliers": [
+      {
+        "name": "HORNO DECADADÍA, S.L."
+      },
+      {
+        "name": "PASTELERIA DON MANUEL,S.L."
+      },
+      {
+        "name": "Postres de Mesa, S.L."
+      }
+    ],
+    "usage_instructions": "Para descongelar mantener dentro del envase a temperatura ambiente durante 4 horas y consumir antes de 5 días."
+  },
+  "display_name": "Trenza hojaldre de mantequilla Hacendado congelada",
+  "ean": "8436554241439",
+  "extra_info": [
+    null
+  ],
+  "id": "87616",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "congelada",
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>frutos de cáscara</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>sa</strong>. Contiene <strong>sw</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>trigo y productos derivados</strong>.",
+    "ingredients": "Harina de <strong>trigo</strong> (<strong>gluten</strong>), azúcar, <strong>mantequilla</strong> (<strong>leche</strong>) (15%), <strong>huevo</strong>, agua, <strong>nueces</strong>, <strong>almendras</strong>, uvas pasas, almidón de maíz, levadura, aromas, sal y estabilizantes (pectina, carboximetilcelulosa sódica). Puede contener <strong>soja</strong>, <strong>mostaza</strong> y <strong>otros frutos de cáscara.</strong>"
+  },
+  "origin": "España",
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/013775bc9301b5808eb9211164fde3de.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/013775bc9301b5808eb9211164fde3de.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/013775bc9301b5808eb9211164fde3de.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/2f7205804d6dd990a6522c82b89156ab.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/2f7205804d6dd990a6522c82b89156ab.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/2f7205804d6dd990a6522c82b89156ab.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "15.12",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "15.117",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "6.50",
+    "unit_selector": true,
+    "unit_size": 0.43
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/87616/trenza-hojaldre-mantequilla-hacendado-congelada-bandeja",
+  "slug": "trenza-hojaldre-mantequilla-hacendado-congelada-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/013775bc9301b5808eb9211164fde3de.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

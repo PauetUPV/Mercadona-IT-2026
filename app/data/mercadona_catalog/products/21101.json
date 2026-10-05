@@ -1,0 +1,161 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 290,
+              "level": 2,
+              "name": "Carne congelada",
+              "order": 17
+            }
+          ],
+          "id": 47,
+          "level": 1,
+          "name": "Carne congelada",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 511,
+              "level": 2,
+              "name": "Carne",
+              "order": 213
+            }
+          ],
+          "id": 148,
+          "level": 1,
+          "name": "Carne",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Carrillada de vacuno congelado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Carrillada",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "Producto de peso variable, el contenido neto puede oscilar entre 400g y 900g",
+    "storage_instructions": "Una vez descongelado, consumir. No volver a congelar. Conservar a - 18C",
+    "suppliers": [
+      {
+        "name": "Almameat, S.L."
+      },
+      {
+        "name": "Almameat, S.L.U."
+      },
+      {
+        "name": "Elaborados Cárnicos Medina S.A.U."
+      },
+      {
+        "name": "Fabricado por: ELABORADOS CÁRNICOS MEDINA, S.A.U."
+      },
+      {
+        "name": "Iniciativas Comerciales Dadyma, S.L."
+      },
+      {
+        "name": "Jose Luis Gancedo S.L."
+      }
+    ],
+    "usage_instructions": "Cocinar antes completamente antes de su consumo."
+  },
+  "display_name": "Carrillada de vacuno congelado",
+  "ean": "8402001036910",
+  "extra_info": [
+    "El corte y número de piezas puede variar."
+  ],
+  "id": "21101",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Carrillada."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/c58c4c7651db7fdaf2fe8c0278a1e3d4.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c58c4c7651db7fdaf2fe8c0278a1e3d4.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c58c4c7651db7fdaf2fe8c0278a1e3d4.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/308cc52dc30dcbeba90435086489af98.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/308cc52dc30dcbeba90435086489af98.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/308cc52dc30dcbeba90435086489af98.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/1a9b9114addcfeb74eb8b9a848bb3b34.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1a9b9114addcfeb74eb8b9a848bb3b34.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1a9b9114addcfeb74eb8b9a848bb3b34.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/7c7d8757705f6c8036f8910ae66f29e6.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7c7d8757705f6c8036f8910ae66f29e6.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7c7d8757705f6c8036f8910ae66f29e6.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "17.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "17.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "8.23",
+    "unit_selector": true,
+    "unit_size": 0.47
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/21101/carrillada-vacuno-congelado-paquete",
+  "slug": "carrillada-vacuno-congelado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/c58c4c7651db7fdaf2fe8c0278a1e3d4.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

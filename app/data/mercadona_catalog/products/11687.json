@@ -1,0 +1,127 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 281,
+              "level": 2,
+              "name": "Pollo",
+              "order": 17
+            }
+          ],
+          "id": 38,
+          "level": 1,
+          "name": "Aves y pollo",
+          "order": 17
+        },
+        {
+          "categories": [
+            {
+              "id": 288,
+              "level": 2,
+              "name": "Empanados y elaborados",
+              "order": 17
+            }
+          ],
+          "id": 45,
+          "level": 1,
+          "name": "Empanados y elaborados",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Empanados de pollo picantes sin gluten",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "CARNE DE POLLO MARINADA, CORTADA Y EMPANADA PICANTE",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Refrigerado: 0º a 4 º. Cocinar completamente (75ºC) antes de su consumo",
+    "suppliers": [
+      {
+        "name": "JOVISERRANO,SLU"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Empanados de pollo picantes sin gluten",
+  "ean": "8411396001557",
+  "extra_info": [
+    ""
+  ],
+  "id": "11687",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Libre de <strong>leche y sus derivados (incluida la lactosa)</strong>. Libre de <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "<p>PREPARADO DE CARNE- Carne de pollo (53%), agua, fibra vegetal, sal, aromas, estabilizantes (carragenanos y goma garrofín). Cobertura (35%): Harina de maíz, pan rallado ( harina de arroz, dextrosa, sal y extractos de especias)aceite de girasol, especias, sal, almidón, extracto de especias, gasificantes (disofatos y carbonatos sódicos) y azúcar"
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/3e26c6d2ec8cc06bd7175fa140853fdb.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3e26c6d2ec8cc06bd7175fa140853fdb.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3e26c6d2ec8cc06bd7175fa140853fdb.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/33bacdda2bbe5cb2fd4e218d16ac2bb3.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/33bacdda2bbe5cb2fd4e218d16ac2bb3.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/33bacdda2bbe5cb2fd4e218d16ac2bb3.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "8.61",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "8.612",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.10",
+    "unit_selector": true,
+    "unit_size": 0.36
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/11687/filetes-pechuga-pollo-marinadas-empanadas-picantes-sin-gluten-bandeja",
+  "slug": "filetes-pechuga-pollo-marinadas-empanadas-picantes-sin-gluten-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/3e26c6d2ec8cc06bd7175fa140853fdb.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

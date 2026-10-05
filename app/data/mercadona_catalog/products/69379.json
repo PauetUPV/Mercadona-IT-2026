@@ -1,0 +1,112 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 856,
+              "level": 2,
+              "name": "Repollo y col",
+              "order": 306
+            }
+          ],
+          "id": 29,
+          "level": 1,
+          "name": "Verdura",
+          "order": 306
+        }
+      ],
+      "id": 1,
+      "level": 0,
+      "name": "Fruta y verdura",
+      "order": 306
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Coles de bruselas",
+    "legal_name": "Coles de Bruselas",
+    "mandatory_mentions": "",
+    "origin": "Holanda",
+    "production_variant": "",
+    "storage_instructions": "Conservar sin lavar en la bolsa de plástico, a 3°C",
+    "suppliers": [
+      {
+        "name": "Organización de Product. Agromark SL"
+      },
+      {
+        "name": "Primco Horticola SLU"
+      }
+    ],
+    "usage_instructions": "Consumir crudo, hervido o asado."
+  },
+  "display_name": "Coles de bruselas",
+  "ean": "5400357022017",
+  "extra_info": [
+    null
+  ],
+  "id": "69379",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": "Coles de bruselas"
+  },
+  "origin": "Holanda",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/a5f1e8a052d117199299685c86765e15.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a5f1e8a052d117199299685c86765e15.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a5f1e8a052d117199299685c86765e15.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/a62476bb936c1a95a8161a082baea98e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a62476bb936c1a95a8161a082baea98e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a62476bb936c1a95a8161a082baea98e.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.80",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "4.800",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.40",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/69379/coles-bruselas-paquete",
+  "slug": "coles-bruselas-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/a5f1e8a052d117199299685c86765e15.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

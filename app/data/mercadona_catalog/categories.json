@@ -1,0 +1,1449 @@
+{
+  "count": 26,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "categories": [
+        {
+          "id": 112,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Aceite, vinagre y sal",
+          "order": 7,
+          "published": true
+        },
+        {
+          "id": 115,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Especias",
+          "order": 7,
+          "published": true
+        },
+        {
+          "id": 116,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Mayonesa, ketchup y mostaza",
+          "order": 7,
+          "published": true
+        },
+        {
+          "id": 117,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Otras salsas",
+          "order": 7,
+          "published": true
+        }
+      ],
+      "icon_url": null,
+      "id": 12,
+      "is_extended": false,
+      "name": "Aceite, especias y salsas",
+      "order": 7
+    },
+    {
+      "categories": [
+        {
+          "id": 156,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Agua",
+          "order": 8,
+          "published": true
+        },
+        {
+          "id": 163,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Isotónico y energético",
+          "order": 8,
+          "published": true
+        },
+        {
+          "id": 158,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Refresco de cola",
+          "order": 8,
+          "published": true
+        },
+        {
+          "id": 159,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Refresco de naranja y de limón",
+          "order": 8,
+          "published": true
+        },
+        {
+          "id": 161,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Tónica y bitter",
+          "order": 8,
+          "published": true
+        },
+        {
+          "id": 162,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Refresco de té y sin gas",
+          "order": 8,
+          "published": true
+        }
+      ],
+      "icon_url": null,
+      "id": 18,
+      "is_extended": false,
+      "name": "Agua y refrescos",
+      "order": 8
+    },
+    {
+      "categories": [
+        {
+          "id": 135,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Aceitunas y encurtidos",
+          "order": 9,
+          "published": true
+        },
+        {
+          "id": 133,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Frutos secos y fruta desecada",
+          "order": 9,
+          "published": true
+        },
+        {
+          "id": 132,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Patatas fritas y snacks",
+          "order": 9,
+          "published": true
+        }
+      ],
+      "icon_url": null,
+      "id": 15,
+      "is_extended": false,
+      "name": "Aperitivos",
+      "order": 9
+    },
+    {
+      "categories": [
+        {
+          "id": 118,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Arroz",
+          "order": 10,
+          "published": true
+        },
+        {
+          "id": 121,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Legumbres",
+          "order": 10,
+          "published": true
+        },
+        {
+          "id": 120,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Pasta y fideos",
+          "order": 10,
+          "published": true
+        }
+      ],
+      "icon_url": null,
+      "id": 13,
+      "is_extended": false,
+      "name": "Arroz, legumbres y pasta",
+      "order": 10
+    },
+    {
+      "categories": [
+        {
+          "id": 89,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Azúcar y edulcorante",
+          "order": 11,
+          "published": true
+        },
+        {
+          "id": 95,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Chicles y caramelos",
+          "order": 11,
+          "published": true
+        },
+        {
+          "id": 92,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Chocolate",
+          "order": 11,
+          "published": true
+        },
+        {
+          "id": 97,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Golosinas",
+          "order": 11,
+          "published": true
+        },
+        {
+          "id": 90,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Mermelada y miel",
+          "order": 11,
+          "published": true
+        }
+      ],
+      "icon_url": null,
+      "id": 9,
+      "is_extended": false,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    },
+    {
+      "categories": [
+        {
+          "id": 216,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Alimentación infantil",
+          "order": 14,
+          "published": true
+        },
+        {
+          "id": 219,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Biberón y chupete",
+          "order": 14,
+          "published": true
+        },
+        {
+          "id": 218,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Higiene y cuidado",
+          "order": 14,
+          "published": true
+        },
+        {
+          "id": 217,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Toallitas y pañales",
+          "order": 14,
+          "published": true
+        }
+      ],
+      "icon_url": null,
+      "id": 24,
+      "is_extended": false,
+      "name": "Bebé",
+      "order": 14
+    },
+    {
+      "categories": [
+        {
+          "id": 164,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Cerveza",
+          "order": 15,
+          "published": true
+        },
+        {
+          "id": 166,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Cerveza sin alcohol",
+          "order": 15,
+          "published": true
+        },
+        {
+          "id": 181,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Licores",
+          "order": 15,
+          "published": true
+        },
+        {
+          "id": 174,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Sidra y cava",
+          "order": 15,
+          "published": true
+        },
+        {
+          "id": 168,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Tinto de verano y sangría",
+          "order": 15,
+          "published": true
+        },
+        {
+          "id": 170,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Vino blanco",
+          "order": 15,
+          "published": true
+        },
+        {
+          "id": 173,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Vino lambrusco y espumoso",
+          "order": 15,
+          "published": true
+        },
+        {
+          "id": 171,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Vino rosado",
+          "order": 15,
+          "published": true
+        },
+        {
+          "id": 169,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Vino tinto",
+          "order": 15,
+          "published": true
+        }
+      ],
+      "icon_url": null,
+      "id": 19,
+      "is_extended": false,
+      "name": "Bodega",
+      "order": 15
+    },
+    {
+      "categories": [
+        {
+          "id": 86,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Cacao soluble y chocolate a la taza",
+          "order": 16,
+          "published": true
+        },
+        {
+          "id": 81,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Café cápsula y monodosis",
+          "order": 16,
+          "published": true
+        },
+        {
+          "id": 83,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Café molido y en grano",
+          "order": 16,
+          "published": true
+        },
+        {
+          "id": 84,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Café soluble y otras bebidas",
+          "order": 16,
+          "published": true
+        },
+        {
+          "id": 88,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Té e infusiones",
+          "order": 16,
+          "published": true
+        }
+      ],
+      "icon_url": null,
+      "id": 8,
+      "is_extended": false,
+      "name": "Cacao, café e infusiones",
+      "order": 16
+    },
+    {
+      "categories": [
+        {
+          "id": 46,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Arreglos",
+          "order": 17,
+          "published": true
+        },
+        {
+          "id": 38,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Aves y pollo",
+          "order": 17,
+          "published": true
+        },
+        {
+          "id": 47,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Carne congelada",
+          "order": 17,
+          "published": true
+        },
+        {
+          "id": 37,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Cerdo",
+          "order": 17,
+          "published": true
+        },
+        {
+          "id": 42,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Conejo y cordero",
+          "order": 17,
+          "published": true
+        },
+        {
+          "id": 43,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Embutido",
+          "order": 17,
+          "published": true
+        },
+        {
+          "id": 44,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Hamburguesas y picadas",
+          "order": 17,
+          "published": true
+        },
+        {
+          "id": 40,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Vacuno",
+          "order": 17,
+          "published": true
+        },
+        {
+          "id": 45,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Empanados y elaborados",
+          "order": 17,
+          "published": true
+        }
+      ],
+      "icon_url": null,
+      "id": 3,
+      "is_extended": false,
+      "name": "Carne",
+      "order": 17
+    },
+    {
+      "categories": [
+        {
+          "id": 78,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Cereales",
+          "order": 18,
+          "published": true
+        },
+        {
+          "id": 80,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Galletas",
+          "order": 18,
+          "published": true
+        },
+        {
+          "id": 79,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Tortitas",
+          "order": 18,
+          "published": true
+        }
+      ],
+      "icon_url": null,
+      "id": 7,
+      "is_extended": false,
+      "name": "Cereales y galletas",
+      "order": 18
+    },
+    {
+      "categories": [
+        {
+          "id": 48,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Aves y jamón cocido",
+          "order": 159,
+          "published": true
+        },
+        {
+          "id": 52,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Bacón y salchichas",
+          "order": 159,
+          "published": true
+        },
+        {
+          "id": 49,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Chopped y mortadela",
+          "order": 159,
+          "published": true
+        },
+        {
+          "id": 51,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Embutido curado",
+          "order": 159,
+          "published": true
+        },
+        {
+          "id": 50,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Jamón serrano",
+          "order": 159,
+          "published": true
+        },
+        {
+          "id": 58,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Paté y sobrasada",
+          "order": 159,
+          "published": true
+        },
+        {
+          "id": 54,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Queso curado, semicurado y tierno",
+          "order": 159,
+          "published": true
+        },
+        {
+          "id": 56,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Queso lonchas, rallado y en porciones",
+          "order": 159,
+          "published": true
+        },
+        {
+          "id": 53,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Queso untable, fresco y especialidades",
+          "order": 159,
+          "published": true
+        }
+      ],
+      "icon_url": null,
+      "id": 4,
+      "is_extended": false,
+      "name": "Charcutería y quesos",
+      "order": 159
+    },
+    {
+      "categories": [
+        {
+          "id": 147,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Arroz y pasta",
+          "order": 213,
+          "published": true
+        },
+        {
+          "id": 148,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Carne",
+          "order": 213,
+          "published": true
+        },
+        {
+          "id": 145,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Fruta y verdura",
+          "order": 213,
+          "published": true
+        },
+        {
+          "id": 154,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Helados",
+          "order": 213,
+          "published": true
+        },
+        {
+          "id": 155,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Hielo",
+          "order": 213,
+          "published": true
+        },
+        {
+          "id": 150,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Marisco",
+          "order": 213,
+          "published": true
+        },
+        {
+          "id": 149,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Pescado",
+          "order": 213,
+          "published": true
+        },
+        {
+          "id": 151,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Pizzas",
+          "order": 213,
+          "published": true
+        },
+        {
+          "id": 884,
+          "is_extended": false,
+          "layout": 2,
+          "name": "Rebozados",
+          "order": 213,
+          "published": true
+        },
+        {
+          "id": 152,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Tartas y churros",
+          "order": 213,
+          "published": true
+        }
+      ],
+      "icon_url": null,
+      "id": 17,
+      "is_extended": false,
+      "name": "Congelados",
+      "order": 213
+    },
+    {
+      "categories": [
+        {
+          "id": 122,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Atún y otras conservas de pescado",
+          "order": 215,
+          "published": true
+        },
+        {
+          "id": 123,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Berberechos y mejillones",
+          "order": 215,
+          "published": true
+        },
+        {
+          "id": 127,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Conservas de verdura y frutas",
+          "order": 215,
+          "published": true
+        },
+        {
+          "id": 130,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Gazpacho y cremas",
+          "order": 215,
+          "published": true
+        },
+        {
+          "id": 129,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Sopa y caldo",
+          "order": 215,
+          "published": true
+        },
+        {
+          "id": 126,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Tomate",
+          "order": 215,
+          "published": true
+        }
+      ],
+      "icon_url": null,
+      "id": 14,
+      "is_extended": false,
+      "name": "Conservas, caldos y cremas",
+      "order": 215
+    },
+    {
+      "categories": [
+        {
+          "id": 201,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Acondicionador y mascarilla",
+          "order": 238,
+          "published": true
+        },
+        {
+          "id": 199,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Champú",
+          "order": 238,
+          "published": true
+        },
+        {
+          "id": 203,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Coloración cabello",
+          "order": 238,
+          "published": true
+        },
+        {
+          "id": 202,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Fijación cabello",
+          "order": 238,
+          "published": true
+        }
+      ],
+      "icon_url": null,
+      "id": 21,
+      "is_extended": false,
+      "name": "Cuidado del cabello",
+      "order": 238
+    },
+    {
+      "categories": [
+        {
+          "id": 192,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Afeitado y cuidado para hombre",
+          "order": 241,
+          "published": true
+        },
+        {
+          "id": 189,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Cuidado corporal",
+          "order": 241,
+          "published": true
+        },
+        {
+          "id": 185,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Cuidado e higiene facial",
+          "order": 241,
+          "published": true
+        },
+        {
+          "id": 191,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Depilación",
+          "order": 241,
+          "published": true
+        },
+        {
+          "id": 188,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Desodorante",
+          "order": 241,
+          "published": true
+        },
+        {
+          "id": 187,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Gel y jabón de manos",
+          "order": 241,
+          "published": true
+        },
+        {
+          "id": 186,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Higiene bucal",
+          "order": 241,
+          "published": true
+        },
+        {
+          "id": 190,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Higiene íntima",
+          "order": 241,
+          "published": true
+        },
+        {
+          "id": 194,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Manicura y pedicura",
+          "order": 241,
+          "published": true
+        },
+        {
+          "id": 196,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Perfume y colonia",
+          "order": 241,
+          "published": true
+        },
+        {
+          "id": 198,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Protector solar y aftersun",
+          "order": 241,
+          "published": true
+        }
+      ],
+      "icon_url": null,
+      "id": 20,
+      "is_extended": false,
+      "name": "Cuidado facial y corporal",
+      "order": 241
+    },
+    {
+      "categories": [
+        {
+          "id": 213,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Fitoterapia",
+          "order": 305,
+          "published": true
+        },
+        {
+          "id": 214,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Parafarmacia",
+          "order": 305,
+          "published": true
+        }
+      ],
+      "icon_url": null,
+      "id": 23,
+      "is_extended": false,
+      "name": "Fitoterapia y parafarmacia",
+      "order": 305
+    },
+    {
+      "categories": [
+        {
+          "id": 27,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Fruta",
+          "order": 306,
+          "published": true
+        },
+        {
+          "id": 28,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Lechuga y ensalada preparada",
+          "order": 306,
+          "published": true
+        },
+        {
+          "id": 29,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Verdura",
+          "order": 306,
+          "published": true
+        }
+      ],
+      "icon_url": null,
+      "id": 1,
+      "is_extended": false,
+      "name": "Fruta y verdura",
+      "order": 306
+    },
+    {
+      "categories": [
+        {
+          "id": 77,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Huevos",
+          "order": 373,
+          "published": true
+        },
+        {
+          "id": 72,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Leche y bebidas vegetales",
+          "order": 373,
+          "published": true
+        },
+        {
+          "id": 75,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Mantequilla y margarina",
+          "order": 373,
+          "published": true
+        }
+      ],
+      "icon_url": null,
+      "id": 6,
+      "is_extended": false,
+      "name": "Huevos, leche y mantequilla",
+      "order": 373
+    },
+    {
+      "categories": [
+        {
+          "id": 226,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Detergente y suavizante ropa",
+          "order": 374,
+          "published": true
+        },
+        {
+          "id": 237,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Estropajo, bayeta y guantes",
+          "order": 374,
+          "published": true
+        },
+        {
+          "id": 241,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Insecticida y ambientador",
+          "order": 374,
+          "published": true
+        },
+        {
+          "id": 234,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Lejía y líquidos fuertes",
+          "order": 374,
+          "published": true
+        },
+        {
+          "id": 235,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Limpiacristales",
+          "order": 374,
+          "published": true
+        },
+        {
+          "id": 233,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Limpiahogar y friegasuelos",
+          "order": 374,
+          "published": true
+        },
+        {
+          "id": 231,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Limpieza baño y WC",
+          "order": 374,
+          "published": true
+        },
+        {
+          "id": 230,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Limpieza cocina",
+          "order": 374,
+          "published": true
+        },
+        {
+          "id": 232,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Limpieza muebles y multiusos",
+          "order": 374,
+          "published": true
+        },
+        {
+          "id": 229,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Limpieza vajilla",
+          "order": 374,
+          "published": true
+        },
+        {
+          "id": 243,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Menaje y conservación de alimentos",
+          "order": 374,
+          "published": true
+        },
+        {
+          "id": 238,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Papel higiénico y celulosa",
+          "order": 374,
+          "published": true
+        },
+        {
+          "id": 239,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Pilas y bolsas de basura",
+          "order": 374,
+          "published": true
+        },
+        {
+          "id": 244,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Utensilios de limpieza y calzado",
+          "order": 374,
+          "published": true
+        }
+      ],
+      "icon_url": null,
+      "id": 26,
+      "is_extended": false,
+      "name": "Limpieza y hogar",
+      "order": 374
+    },
+    {
+      "categories": [
+        {
+          "id": 206,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Bases de maquillaje y corrector",
+          "order": 422,
+          "published": true
+        },
+        {
+          "id": 207,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Colorete y polvos",
+          "order": 422,
+          "published": true
+        },
+        {
+          "id": 208,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Labios",
+          "order": 422,
+          "published": true
+        },
+        {
+          "id": 210,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Ojos",
+          "order": 422,
+          "published": true
+        },
+        {
+          "id": 212,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Pinceles y brochas",
+          "order": 422,
+          "published": true
+        }
+      ],
+      "icon_url": null,
+      "id": 22,
+      "is_extended": false,
+      "name": "Maquillaje",
+      "order": 422
+    },
+    {
+      "categories": [
+        {
+          "id": 32,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Marisco",
+          "order": 442,
+          "published": true
+        },
+        {
+          "id": 34,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Pescado congelado",
+          "order": 442,
+          "published": true
+        },
+        {
+          "id": 31,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Pescado fresco",
+          "order": 442,
+          "published": true
+        },
+        {
+          "id": 36,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Salazones y ahumados",
+          "order": 442,
+          "published": true
+        }
+      ],
+      "icon_url": null,
+      "id": 2,
+      "is_extended": false,
+      "name": "Marisco y pescado",
+      "order": 442
+    },
+    {
+      "categories": [
+        {
+          "id": 222,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Gato",
+          "order": 443,
+          "published": true
+        },
+        {
+          "id": 221,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Perro",
+          "order": 443,
+          "published": true
+        },
+        {
+          "id": 225,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Otros",
+          "order": 443,
+          "published": true
+        }
+      ],
+      "icon_url": null,
+      "id": 25,
+      "is_extended": false,
+      "name": "Mascotas",
+      "order": 443
+    },
+    {
+      "categories": [
+        {
+          "id": 65,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Bollería de horno",
+          "order": 515,
+          "published": true
+        },
+        {
+          "id": 66,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Bollería envasada",
+          "order": 515,
+          "published": true
+        },
+        {
+          "id": 69,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Harina y preparado repostería",
+          "order": 515,
+          "published": true
+        },
+        {
+          "id": 59,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Pan de horno",
+          "order": 515,
+          "published": true
+        },
+        {
+          "id": 60,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Pan de molde y otras especialidades",
+          "order": 515,
+          "published": true
+        },
+        {
+          "id": 62,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Pan tostado y rallado",
+          "order": 515,
+          "published": true
+        },
+        {
+          "id": 64,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Picos, rosquilletas y picatostes",
+          "order": 515,
+          "published": true
+        },
+        {
+          "id": 68,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Tartas y pasteles",
+          "order": 515,
+          "published": true
+        },
+        {
+          "id": 71,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Velas y decoración",
+          "order": 515,
+          "published": true
+        }
+      ],
+      "icon_url": null,
+      "id": 5,
+      "is_extended": false,
+      "name": "Panadería y pastelería",
+      "order": 515
+    },
+    {
+      "categories": [
+        {
+          "id": 897,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Listo para Comer",
+          "order": 597,
+          "published": true
+        },
+        {
+          "id": 138,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Pizzas",
+          "order": 597,
+          "published": true
+        },
+        {
+          "id": 140,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Platos preparados calientes",
+          "order": 597,
+          "published": true
+        },
+        {
+          "id": 142,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Platos preparados fríos",
+          "order": 597,
+          "published": true
+        }
+      ],
+      "icon_url": null,
+      "id": 16,
+      "is_extended": false,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    },
+    {
+      "categories": [
+        {
+          "id": 105,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Bífidus",
+          "order": 598,
+          "published": true
+        },
+        {
+          "id": 110,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Flan y natillas",
+          "order": 598,
+          "published": true
+        },
+        {
+          "id": 111,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Gelatina y otros postres",
+          "order": 598,
+          "published": true
+        },
+        {
+          "id": 106,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Postres de soja",
+          "order": 598,
+          "published": true
+        },
+        {
+          "id": 103,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Yogures desnatados",
+          "order": 598,
+          "published": true
+        },
+        {
+          "id": 109,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Yogures griegos",
+          "order": 598,
+          "published": true
+        },
+        {
+          "id": 108,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Yogures líquidos",
+          "order": 598,
+          "published": true
+        },
+        {
+          "id": 104,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Yogures naturales y sabores",
+          "order": 598,
+          "published": true
+        },
+        {
+          "id": 107,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Yogures y postres infantiles",
+          "order": 598,
+          "published": true
+        }
+      ],
+      "icon_url": null,
+      "id": 11,
+      "is_extended": false,
+      "name": "Postres y yogures",
+      "order": 598
+    },
+    {
+      "categories": [
+        {
+          "id": 99,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Fruta variada",
+          "order": 793,
+          "published": true
+        },
+        {
+          "id": 100,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Melocotón y piña",
+          "order": 793,
+          "published": true
+        },
+        {
+          "id": 143,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Naranja",
+          "order": 793,
+          "published": true
+        },
+        {
+          "id": 98,
+          "is_extended": false,
+          "layout": 1,
+          "name": "Tomate y otros sabores",
+          "order": 793,
+          "published": true
+        }
+      ],
+      "icon_url": null,
+      "id": 10,
+      "is_extended": false,
+      "name": "Zumos",
+      "order": 793
+    }
+  ]
+}

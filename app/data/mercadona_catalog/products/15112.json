@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 824,
+              "level": 2,
+              "name": "Chorizo",
+              "order": 159
+            }
+          ],
+          "id": 51,
+          "level": 1,
+          "name": "Embutido curado",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Chorizo de bellota ibérico cortado a máquina envasado al vacío",
+    "legal_name": "Chorizo de bellota ibérico",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "Producto de peso variable. El contenido neto del mismo puede oscilar entre 100g-120g.",
+    "storage_instructions": "Conservar en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Inds. Cárnicas Loriente Piqueras, S.A. (INCARLOPSA)."
+      }
+    ],
+    "usage_instructions": "Para apreciar todas las cualidades del producto recomendamos: abrir el envase 10 minutos antes de ser consumido y una vez abierto, conservar en refrigeración y consumir en un plazo de 7 días."
+  },
+  "display_name": "Chorizo de bellota ibérico cortado a máquina",
+  "ean": "8402001041655",
+  "extra_info": [
+    ""
+  ],
+  "id": "15112",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Carne y grasa de cerdo de bellota ibérico, sal, pimentón, proteína de SOJA, dextrina, dextrosa, especias, estabilizador (E-450iii), antioxidante (E-316), conservadores (E-252, E-250), colorante (E-120) y extracto de especias."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/fdf62ab2a949c283cab3dc986f2273bc.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/fdf62ab2a949c283cab3dc986f2273bc.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/fdf62ab2a949c283cab3dc986f2273bc.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/228b2ee4aa90f16e98596acc91377384.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/228b2ee4aa90f16e98596acc91377384.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/228b2ee4aa90f16e98596acc91377384.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "37.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "37.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "4.07",
+    "unit_selector": true,
+    "unit_size": 0.11
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/15112/chorizo-bellota-iberico-cortado-maquina-envasado-vacio-paquete",
+  "slug": "chorizo-bellota-iberico-cortado-maquina-envasado-vacio-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/fdf62ab2a949c283cab3dc986f2273bc.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

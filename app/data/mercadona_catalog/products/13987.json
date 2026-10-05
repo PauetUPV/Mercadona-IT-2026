@@ -1,0 +1,112 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 394,
+              "level": 2,
+              "name": "Caramelos",
+              "order": 11
+            }
+          ],
+          "id": 95,
+          "level": 1,
+          "name": "Chicles y caramelos",
+          "order": 11
+        }
+      ],
+      "id": 9,
+      "level": 0,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Caramelos con palo Mix Hacendado sabor cereza y fresa",
+    "legal_name": "Caramelo duro con palo sabores cereza y fresa",
+    "mandatory_mentions": "Por su tamaño, no es recomendable que los caramelos los consuman menores de 5 años. En caso de consumo por parte de un menor, se recomienda hacerlo bajo la supervisión de un adulto.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Caramelos Cerdán, S.L"
+      },
+      {
+        "name": "Caramelos Cerdán, S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Caramelos con palo Mix Hacendado sabor cereza y fresa",
+  "ean": "8402001033896",
+  "extra_info": [
+    ""
+  ],
+  "id": "13987",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Sabor cereza: azúcar, jarabe de glucosa, acidulante (ácido cítrico), aromas y colorantes (concentrado de zanahoria y cártamo, E163). Sabor fresa: azúcar, jarabe de glucosa, acidulantes (ácido cítrico, ácido málico), concentrado de zumo de frutas (0,5%) (manzana, uva, pera, melocotón, piña), aromas y colorante (E163). Sin gluten."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/d5b03fa7883768178980ceb6685ce67e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d5b03fa7883768178980ceb6685ce67e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d5b03fa7883768178980ceb6685ce67e.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/6a4e8ca73dd19948d3b0142eb3998a9f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/6a4e8ca73dd19948d3b0142eb3998a9f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/6a4e8ca73dd19948d3b0142eb3998a9f.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "15.11",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "15.114",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 12,
+    "unit_name": "ud.",
+    "unit_price": "1.20",
+    "unit_selector": true,
+    "unit_size": 0.0794
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/13987/caramelos-con-palo-mix-hacendado-sabor-cereza-fresa-paquete",
+  "slug": "caramelos-con-palo-mix-hacendado-sabor-cereza-fresa-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/d5b03fa7883768178980ceb6685ce67e.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

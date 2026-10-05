@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Convidado de Baco",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 798,
+              "level": 2,
+              "name": "Brandy",
+              "order": 15
+            }
+          ],
+          "id": 181,
+          "level": 1,
+          "name": "Licores",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": "30.0º",
+    "brand": "Convidado de Baco",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Bebida espirituosa Convidado de Baco",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Bebida Espirituosa",
+    "mandatory_mentions": "Producto apto para veganos",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "Bodegas Fundador, S.L.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Bebida espirituosa Convidado de Baco",
+  "ean": "8480000285270",
+  "extra_info": [
+    ""
+  ],
+  "id": "28527",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Agua desmineralizada, Alcohol de origen agrícola, Aguardiente de vino, Azúcar, Colorante color caramelo (E150-d), Extractos naturales."
+  },
+  "origin": "España",
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/503a62195d9da28d062394d232c88aa8.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/503a62195d9da28d062394d232c88aa8.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/503a62195d9da28d062394d232c88aa8.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/eeccc2a4725aac2b71850ec104d5cb76.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/eeccc2a4725aac2b71850ec104d5cb76.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/eeccc2a4725aac2b71850ec104d5cb76.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "6.000",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "6.00",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/28527/bebida-espirituosa-convidado-baco-botella",
+  "slug": "bebida-espirituosa-convidado-baco-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/503a62195d9da28d062394d232c88aa8.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 314,
+              "level": 2,
+              "name": "Paté",
+              "order": 159
+            }
+          ],
+          "id": 58,
+          "level": 1,
+          "name": "Paté y sobrasada",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Paté de cerdo con pimienta Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Paté Pimienta. Paté de hígado de cerdo",
+    "mandatory_mentions": "OÍR EL CLICK AL ABRIR ES GARANTÍA DE ENVASADO /  Sin colorantes ni fécula/ Teléfono de atención al cliente Mercadona: 800 500 200 / RECICLA AMARILLO (logo)/ RECICLA VERDE (logo)/ SIN GLUTEN (logo)",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Manténgase en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "CASA TARRADELLAS, S.A."
+      }
+    ],
+    "usage_instructions": "Una vez abierto conservar en el frigorífico."
+  },
+  "display_name": "Paté de cerdo con pimienta Hacendado",
+  "ean": "8480000523112",
+  "extra_info": [
+    null
+  ],
+  "id": "52311",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "Carne e hígado de cerdo, <strong>leche</strong> descremada, <strong>huevo</strong>, sal, especias, pimientas, setas, aromas, dextrosa, conservador (nitrito sódico).  Sin colorantes ni fécula."
+  },
+  "origin": null,
+  "packaging": "Tarro",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/0070b073daac1a776c0c1a9f9fda8ee4.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0070b073daac1a776c0c1a9f9fda8ee4.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0070b073daac1a776c0c1a9f9fda8ee4.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/ac12b372da87d8e0bb2ba4adf8d2d2ce.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ac12b372da87d8e0bb2ba4adf8d2d2ce.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ac12b372da87d8e0bb2ba4adf8d2d2ce.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.88",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.875",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.10",
+    "unit_selector": true,
+    "unit_size": 0.16
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/52311/pate-cerdo-con-pimienta-hacendado-tarro",
+  "slug": "pate-cerdo-con-pimienta-hacendado-tarro",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/0070b073daac1a776c0c1a9f9fda8ee4.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

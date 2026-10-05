@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 803,
+              "level": 2,
+              "name": "Lentejas y otros",
+              "order": 10
+            }
+          ],
+          "id": 121,
+          "level": 1,
+          "name": "Legumbres",
+          "order": 10
+        }
+      ],
+      "id": 13,
+      "level": 0,
+      "name": "Arroz, legumbres y pasta",
+      "order": 10
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Lenteja pardina Hacendado categoría extra",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Lenteja Pardina",
+    "mandatory_mentions": "",
+    "origin": "Lenteja. Origen: USA / Lentilha. Origem: EUA",
+    "production_variant": "Según la época del año podría variar los orígenes del producto.",
+    "storage_instructions": "Conservar en lugar fresco, seco y oscuro",
+    "suppliers": [
+      {
+        "name": "SEPROLESA"
+      }
+    ],
+    "usage_instructions": "1. Una ración media está entre 90 y 100 g de lentejas en seco. Las lentejas no es necesario ponerlas a remojo, también puede ponerse en remojo entre 6-10 h. Lavar las lentejas antes de su cocción. El tiempo de cocción comienza una vez el agua empieza a hervir, es recomendable no interrumpir la ebullición. 2. Tiempos de cocción orientativos: Aguas duras/cazuela: 1h. 30 min.  Aguas duras/olla presión: Sin remojo 25-35 min. Aguas blandas/cazuela:  1h. 15 min.  Aguas blandas/olla presión: 15-25 min."
+  },
+  "display_name": "Lenteja pardina Hacendado",
+  "ean": "8480000053305",
+  "extra_info": [
+    ""
+  ],
+  "id": "5330",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Lenteja Pardina"
+  },
+  "origin": "Lenteja. Origen: USA / Lentilha. Origem: EUA",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/80c08ddcd236321ea41242268903726b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/80c08ddcd236321ea41242268903726b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/80c08ddcd236321ea41242268903726b.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/80e73c71f9094cdb17fa6526e2e0533f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/80e73c71f9094cdb17fa6526e2e0533f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/80e73c71f9094cdb17fa6526e2e0533f.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.85",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": "        1.95",
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "1.850",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.85",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/5330/lenteja-pardina-hacendado-categoria-extra-paquete",
+  "slug": "lenteja-pardina-hacendado-categoria-extra-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/80c08ddcd236321ea41242268903726b.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

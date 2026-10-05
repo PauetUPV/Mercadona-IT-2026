@@ -1,0 +1,109 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 825,
+              "level": 2,
+              "name": "Queso semicurado",
+              "order": 159
+            }
+          ],
+          "id": 54,
+          "level": 1,
+          "name": "Queso curado, semicurado y tierno",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Queso semicurado de oveja Hacendado",
+    "legal_name": "Queso de oveja pasteurizado semicurado",
+    "mandatory_mentions": "Corteza no comestible",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar refrigerado entre 2-8ºC",
+    "suppliers": [
+      {
+        "name": "Valle de San Juan S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Queso semicurado de oveja Hacendado",
+  "ean": "8480000058829",
+  "extra_info": [
+    null
+  ],
+  "id": "5882",
+  "is_bulk": true,
+  "is_variable_weight": true,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>ml</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Libre de <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "<strong>Leche</strong> pasteurizada de oveja, sal, cuajo, fermentos <strong>lácticos</strong>. Corteza no comestible. Origen de la leche: España.                    Lotes previos a 25149142 (sin incluir) Pueden contener trazas de HUEVO."
+  },
+  "origin": null,
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/96f1568eaacc026285531b3c6bf37a8b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/96f1568eaacc026285531b3c6bf37a8b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/96f1568eaacc026285531b3c6bf37a8b.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/e14f1bc550dfae8b15185e6c047011ac.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e14f1bc550dfae8b15185e6c047011ac.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e14f1bc550dfae8b15185e6c047011ac.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "13.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "13.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.78",
+    "unit_selector": true,
+    "unit_size": 0.28
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/5882/queso-semicurado-oveja-hacendado-pieza",
+  "slug": "queso-semicurado-oveja-hacendado-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/96f1568eaacc026285531b3c6bf37a8b.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

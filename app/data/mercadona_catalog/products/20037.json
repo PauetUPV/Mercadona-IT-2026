@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Danone",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 408,
+              "level": 2,
+              "name": "Yogures de sabores",
+              "order": 598
+            }
+          ],
+          "id": 104,
+          "level": 1,
+          "name": "Yogures naturales y sabores",
+          "order": 598
+        }
+      ],
+      "id": 11,
+      "level": 0,
+      "name": "Postres y yogures",
+      "order": 598
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Danone",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Yogur sabor macedonia Danone",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Yogur aromatizado con sabor a macedonia",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Consérvese en frío entre 2ºC y 6ºC.",
+    "suppliers": [
+      {
+        "name": "Danone S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Yogur sabor macedonia Danone",
+  "ean": "8410500006143",
+  "extra_info": [
+    null
+  ],
+  "id": "20037",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Leche</strong> fresca semidesnatada pasteurizada (92,9%), azúcar, <strong>leche</strong> en polvo desnatada, fermentos lácticos, aromas y colorantes (curcumina y carmines). Origen de la leche: España. <strong>Sin gluten.</strong>"
+  },
+  "origin": null,
+  "packaging": "Pack-4",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/3a23961f48c4d7799baf249b7cca9f4c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3a23961f48c4d7799baf249b7cca9f4c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3a23961f48c4d7799baf249b7cca9f4c.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/ef88dcbeda6e18e4bf81ef9028ddb58b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ef88dcbeda6e18e4bf81ef9028ddb58b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ef88dcbeda6e18e4bf81ef9028ddb58b.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.08",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": 4,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.12,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "2.084",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 4,
+    "unit_name": "ud.",
+    "unit_price": "1.00",
+    "unit_selector": true,
+    "unit_size": 0.48
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/20037/yogur-sabor-macedonia-danone-pack-4",
+  "slug": "yogur-sabor-macedonia-danone-pack-4",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/3a23961f48c4d7799baf249b7cca9f4c.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

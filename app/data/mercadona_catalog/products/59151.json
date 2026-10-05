@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Incarlopsa",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 298,
+              "level": 2,
+              "name": "Jamón serrano",
+              "order": 159
+            }
+          ],
+          "id": 50,
+          "level": 1,
+          "name": "Jamón serrano",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Incarlopsa",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Jamón serrano Incarlopsa lonchas extrafinas",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Jamón serrano 120g",
+    "mandatory_mentions": "Cruce Duroc, fundación jamón serrano, especialidad tradicional garantizada, curación mínima 14 meses, envasado en atmósfera protectora.",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar refrigerado entre 0C y 5C",
+    "suppliers": [
+      {
+        "name": "INCARLOPSA"
+      },
+      {
+        "name": "Inds. Cárnicas Loriente Piqueras, S.A. (INCARLOPSA)."
+      }
+    ],
+    "usage_instructions": "Para abrir, tira de la pestaña situada en uno de los ángulos. Para apreciar todas las cualidades de nuestro producto recomendamos sacarlo 2 horas antes del frigorífico y abrir el envase 15 minutos antes de su consumo. Una vez abierto, conservar en el frigorífico y consumir antes de 7 días."
+  },
+  "display_name": "Jamón serrano Incarlopsa lonchas extrafinas",
+  "ean": "8421384012014",
+  "extra_info": [
+    null
+  ],
+  "id": "59151",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "lonchas extrafinas",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Jamón de cerdo, sal y conservadores (E-252, E-250)."
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/11f69d3855987b8c43d0f810286bf1ed.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/11f69d3855987b8c43d0f810286bf1ed.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/11f69d3855987b8c43d0f810286bf1ed.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/12a911c3fecdd36e1e884f23105587da.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/12a911c3fecdd36e1e884f23105587da.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/12a911c3fecdd36e1e884f23105587da.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "20.42",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "20.417",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.45",
+    "unit_selector": true,
+    "unit_size": 0.12
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/59151/jamon-serrano-incarlopsa-lonchas-extrafinas-paquete",
+  "slug": "jamon-serrano-incarlopsa-lonchas-extrafinas-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/11f69d3855987b8c43d0f810286bf1ed.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

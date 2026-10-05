@@ -1,0 +1,114 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 334,
+              "level": 2,
+              "name": "Bollería envasada",
+              "order": 515
+            }
+          ],
+          "id": 66,
+          "level": 1,
+          "name": "Bollería envasada",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Rosegones pasta de almendras Hacendado",
+    "legal_name": "Rosegones",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco, seco y protegido de la luz.",
+    "suppliers": [
+      {
+        "name": "DULMATESA, S.L."
+      },
+      {
+        "name": "Dulmatesa S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Rosegones pasta de almendras Hacendado",
+  "ean": "8480000829009",
+  "extra_info": [
+    null
+  ],
+  "id": "82900",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "Harina de <strong>trigo (gluten)</strong>, azúcar, <strong>huevo</strong> líquido pasteurizado, <strong>almendra (frutos de cáscara)</strong> (15%), grasas vegetales (palma, coco), agua, aceite refinado de girasol, gasificante (bicarbonato sódico), acidulantes (ácido tartárico, ácido cítrico), emulgentes (E471, lecitina de girasol), aroma. <strong>Puede contener trazas de leche y/o derivados, mostaza y soja.</strong>"
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/8b0cc78315d96d2300bac835e17ad8ad.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8b0cc78315d96d2300bac835e17ad8ad.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8b0cc78315d96d2300bac835e17ad8ad.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/e267796e55be0c5c2fdcc7cc22d36a6d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e267796e55be0c5c2fdcc7cc22d36a6d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e267796e55be0c5c2fdcc7cc22d36a6d.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "7.60",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.600",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.90",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/82900/rosegones-pasta-almendras-hacendado-paquete",
+  "slug": "rosegones-pasta-almendras-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/8b0cc78315d96d2300bac835e17ad8ad.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,114 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 287,
+              "level": 2,
+              "name": "Hamburguesas",
+              "order": 17
+            }
+          ],
+          "id": 44,
+          "level": 1,
+          "name": "Hamburguesas y picadas",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Burger Crunchy Chicken",
+    "legal_name": "CRUNCHY CHICKEN",
+    "mandatory_mentions": "Envasado en atmósfera protectora. Una vez abierto el envase consumir inmediatamente. No consumir crudo. Cocinar completamente antes de su consumo. Apto para freidora y horno.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en refrigeración entre 0 y 4C",
+    "suppliers": [
+      {
+        "name": "Frescos y Elaborados Delisano SAU"
+      },
+      {
+        "name": "JOVISERRANO, S.L.U"
+      }
+    ],
+    "usage_instructions": "En horno, calentar durante 12 min a 200ºC. En freidora y sartén, calentar el aceite a 180ºC y freír durante 2 minutos."
+  },
+  "display_name": "Burger Crunchy Chicken",
+  "ean": "8411396001076",
+  "extra_info": [
+    null
+  ],
+  "id": "4079",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Pechuga de pollo (64%), agua, conservadores (E-325, E-262), sal, fibra vegetal, aromas, antioxidantes (E-331, E-301), dextrosa y especias. Cobertura (32%): Rebozado [harina de maíz, harina de arroz, azúcar, fibra vegetal, sal, colorante (caramelo natural), emulgente (E-471), especias. Contiene azúcares añadidos], aceite de girasol y encolante [almidón, proteína vegetal, sal, fibra vegetal, estabilizante (E-451), conservador (E-200), colorante (E-150a) y espesante (E-412)]."
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/7134bb1517ab827aa5614ab6d5f6b1d6.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7134bb1517ab827aa5614ab6d5f6b1d6.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7134bb1517ab827aa5614ab6d5f6b1d6.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/05cf66e0bf1dbc5937294b6eed3f76b3.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/05cf66e0bf1dbc5937294b6eed3f76b3.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/05cf66e0bf1dbc5937294b6eed3f76b3.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "8.33",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "8.334",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 2,
+    "unit_name": "ud.",
+    "unit_price": "2.00",
+    "unit_selector": true,
+    "unit_size": 0.24
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/4079/burger-crunchy-chicken-bandeja",
+  "slug": "burger-crunchy-chicken-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/7134bb1517ab827aa5614ab6d5f6b1d6.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

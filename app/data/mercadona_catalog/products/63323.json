@@ -1,0 +1,159 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 291,
+              "level": 2,
+              "name": "Empanados y rebozados congelados",
+              "order": 17
+            }
+          ],
+          "id": 45,
+          "level": 1,
+          "name": "Empanados y elaborados",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 512,
+              "level": 2,
+              "name": "Carne rebozada",
+              "order": 213
+            }
+          ],
+          "id": 884,
+          "level": 1,
+          "name": "Rebozados",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Nuggets de pollo Hacendado ultracongelados",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Nuggets de pollo ultracongelados. Elaborado a partir de piezas de carne.",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "Información válida a partir del lote 76125X",
+    "storage_instructions": "Producto ultracongelado. Mantener a -18C. No volver a congelar una vez descongelado.",
+    "suppliers": [
+      {
+        "name": "AUDENS FOOD, S.A."
+      },
+      {
+        "name": "FREIGEL FOOD SOLUTIONS, S.A."
+      },
+      {
+        "name": "FREIGEL FOOD SOLUTIONS. S.A"
+      },
+      {
+        "name": "FREIGEL FOODSOLUTIONS S.A"
+      },
+      {
+        "name": "FREIGEL FOODSOLUTIONS S.A."
+      },
+      {
+        "name": "FREIGEL FOODSOLUTIONS, S.A"
+      },
+      {
+        "name": "FREIGEL FOODSOLUTIONS, S.A."
+      },
+      {
+        "name": "FREIGEL FOODSOLUTIONS, S/N"
+      },
+      {
+        "name": "Freigel Foodsolutions, S.A."
+      }
+    ],
+    "usage_instructions": "FREIDORA DE AIRE: Sin descongelar, colocar en la bandeja de la freidora sin aceite y cocinar a una temperatura de 200ºC durante 10-12 min. Dar la vuelta a mitad de tiempo. HORNO: Precaliente el horno a 200ºC con la opción de calor arriba y abajo e introduzca el producto sin descongelar. Mantener durante 14 minutos. Dar la vuelta a mitad de horneado. FREIDORA: Directamente del congelador, freír en abundante aceite y bien caliente (180ºC), entre 2-2,5 min. Freír pocas unidades cada vez."
+  },
+  "display_name": "Nuggets de pollo Hacendado ultracongelados",
+  "ean": "8427260028087",
+  "extra_info": [
+    null
+  ],
+  "id": "63323",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "ultracongelados",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>moluscos y productos a base de moluscos</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>pescado y productos a base de pescado</strong>. Puede contener <strong>huevos y productos a base de huevo</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Carne de pollo separada mecánicamente (30%), pechuga de pollo (25%), agua, pan rallado (harina de <strong>trigo</strong> (<strong>gluten</strong>), levadura, sal), harina de <strong>trigo</strong> (<strong>gluten</strong>), aceite refinado de girasol, sal, almidón de maíz, almidón modificado, almidón de <strong>trigo</strong> (<strong>gluten</strong>), dextrosa, gasificantes (E-500, E-450). Contiene <strong>gluten</strong>. Puede contener trazas de <strong>huevo</strong>, <strong>pescado</strong>, <strong>soja</strong>, <strong>derivados</strong> <strong>lácteos</strong>, <strong>moluscos</strong>, <strong>mostaza</strong>."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/e8fa9d32e0463cb2cb7013f8cc1238fe.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e8fa9d32e0463cb2cb7013f8cc1238fe.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e8fa9d32e0463cb2cb7013f8cc1238fe.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/9c65dc08f6d6e8e15a5271717cc256d1.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9c65dc08f6d6e8e15a5271717cc256d1.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9c65dc08f6d6e8e15a5271717cc256d1.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.40",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.400",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.70",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/63323/nuggets-pollo-hacendado-ultracongelados-paquete",
+  "slug": "nuggets-pollo-hacendado-ultracongelados-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/e8fa9d32e0463cb2cb7013f8cc1238fe.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

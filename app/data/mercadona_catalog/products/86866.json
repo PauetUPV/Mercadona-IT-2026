@@ -1,0 +1,119 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Mahou",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 550,
+              "level": 2,
+              "name": "Cerveza botella y botellín",
+              "order": 15
+            }
+          ],
+          "id": 164,
+          "level": 1,
+          "name": "Cerveza",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": "5.5º",
+    "brand": "Mahou",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Cerveza especial mini Mahou",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Cerveza especial",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "MAHOU, S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Cerveza especial mini Mahou",
+  "ean": "8411327007764",
+  "extra_info": [
+    null
+  ],
+  "id": "86866",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>gb</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Ingredientes: Agua, Malta de <strong>cebada</strong>, Maiz, Lúpulo"
+  },
+  "origin": null,
+  "packaging": "Pack-12",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/df5e62ba8db9461b625725dce2405d45.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/df5e62ba8db9461b625725dce2405d45.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/df5e62ba8db9461b625725dce2405d45.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/b65231c96ca4496e6da09f39752cf800.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b65231c96ca4496e6da09f39752cf800.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b65231c96ca4496e6da09f39752cf800.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/5de42b950955e514fddedea2d5455a66.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5de42b950955e514fddedea2d5455a66.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5de42b950955e514fddedea2d5455a66.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.45",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.2,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "2.450",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": 12,
+    "unit_name": "botellines",
+    "unit_price": "5.88",
+    "unit_selector": true,
+    "unit_size": 2.4
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/86866/cerveza-especial-mini-mahou-pack-12",
+  "slug": "cerveza-especial-mini-mahou-pack-12",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/df5e62ba8db9461b625725dce2405d45.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

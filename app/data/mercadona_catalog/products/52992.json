@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 334,
+              "level": 2,
+              "name": "Bollería envasada",
+              "order": 515
+            }
+          ],
+          "id": 66,
+          "level": 1,
+          "name": "Bollería envasada",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Cañas de hojaldre rellenas de crema sabor vainilla Hacendado con cobertura de cacao",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Producto de pastelería",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco, seco y protegido de la luz solar.",
+    "suppliers": [
+      {
+        "name": "M&C Bakery"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Cañas de hojaldre rellenas de crema sabor vainilla Hacendado con cobertura de cacao",
+  "ean": "8402001018572",
+  "extra_info": [
+    ""
+  ],
+  "id": "52992",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "con cobertura de cacao",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>mostaza y productos derivados</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Crema (31%) [azúcar, agua, jarabe de glucosa, cobertura blanca (azúcar, grasa vegetal de palmiste, suero de <strong>leche</strong> en polvo, <strong>leche</strong> en polvo, emulgentes (E492, lecitina de girasol, E472c), aromas), almidones de maíz, humectantes (E422), grasa vegetal de palma, estabilizantes (E460, E466), reguladores de acidez (E516, E330), conservador (E202), sal, emulgente (E472c), aroma, colorantes (E160c, E160a)], harina de <strong>trigo</strong> (<strong>gluten</strong>), cobertura especial con grasa vegetal al cacao (15%) [azúcar, grasas vegetales (palmiste, palma), cacao desgrasado en polvo (18%), suero de <strong>leche</strong> en polvo, emulgentes (lecitina de girasol, E492), conservador (ácido sórbico), aroma], grasa vegetal de palma, agua, azúcar, aceite refinado de girasol, jarabe de glucosa y fructosa, sal, conservadores (sorbato potásico, ácido sórbico), aromas. <strong>Puede contener trazas de huevo, mostaza, soja y frutos de cáscara.</strong>"
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/0dd24a938f5454c6f59f941436425a26.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0dd24a938f5454c6f59f941436425a26.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0dd24a938f5454c6f59f941436425a26.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/5f402eb435d3d48e817688218c8fc1dd.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5f402eb435d3d48e817688218c8fc1dd.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5f402eb435d3d48e817688218c8fc1dd.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.67",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.667",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 3,
+    "unit_name": "ud.",
+    "unit_price": "1.70",
+    "unit_selector": true,
+    "unit_size": 0.255
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/52992/cana-hojaldre-rellena-crema-sabor-vainilla-hacendado-con-cobertura-cacao-paquete",
+  "slug": "cana-hojaldre-rellena-crema-sabor-vainilla-hacendado-con-cobertura-cacao-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/0dd24a938f5454c6f59f941436425a26.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

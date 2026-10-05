@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 334,
+              "level": 2,
+              "name": "Bollería envasada",
+              "order": 515
+            }
+          ],
+          "id": 66,
+          "level": 1,
+          "name": "Bollería envasada",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Napolitanas con relleno de cacao Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Napolitanas rellenas con crema al cacao. Producto de Pastelería",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Mantener en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "DULCES DEL CAMPO, S.A.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Napolitanas con relleno de cacao Hacendado",
+  "ean": "8480000233738",
+  "extra_info": [
+    null
+  ],
+  "id": "23373",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>frutos de cáscara</strong>. Puede contener <strong>cereales que contengan gluten</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>sa</strong>. Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Contiene <strong>sh</strong>.",
+    "ingredients": "Relleno (31 %) al cacao [azúcar, jarabe de glucosa y fructosa, agua, aceite refinado de girasol, cacao desgrasado en polvo (2,2 %)*, almidón modificado, chocolate (azúcar, pasta de cacao, manteca de cacao, cacao desgrasado en polvo, emulgente (E 322), aroma natural), estabilizante (E 422), pasta de <strong>AVELLANAS</strong>, emulgente (E 322), espesantes (E 460, E 466), acidulante (E 334), suero de <strong>LECHE</strong> en polvo, aromas naturales, sal, conservador (E 202)], harina de <strong>TRIGO</strong>, agua, grasa vegetal (palma), aceite refinado de girasol, azúcar, masa madre activa de <strong>TRIGO</strong>, levadura, <strong>HUEVO</strong> líquido, aromas, humectante (E 420), jarabe de azúcar invertido, sal, gluten de <strong>TRIGO</strong>, fibra de <strong>TRIGO</strong>, conservadores (E 282, E 200, E 202), emulgentes (E 471, E 322, E 472e), acidulante (E 330), espesante (E 415), colorante (E 160a), agente de tratamiento de la harina (E 300).*sobre producto finalPuede contener <strong>SOJA</strong>, <strong>MOSTAZA</strong> y otros <strong>FRUTOS DE CÁSCARA.</strong>"
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/761e1310d9efe5ec24a4d022990904bb.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/761e1310d9efe5ec24a4d022990904bb.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/761e1310d9efe5ec24a4d022990904bb.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/ded0b29633a776394eeb4583e5cc2e49.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ded0b29633a776394eeb4583e5cc2e49.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ded0b29633a776394eeb4583e5cc2e49.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.86",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "4.865",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 8,
+    "unit_name": "ud.",
+    "unit_price": "1.80",
+    "unit_selector": true,
+    "unit_size": 0.37
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/23373/napolitanas-con-relleno-cacao-hacendado-paquete",
+  "slug": "napolitanas-con-relleno-cacao-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/761e1310d9efe5ec24a4d022990904bb.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

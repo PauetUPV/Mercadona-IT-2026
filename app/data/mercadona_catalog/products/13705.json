@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 497,
+              "level": 2,
+              "name": "Carne",
+              "order": 597
+            }
+          ],
+          "id": 140,
+          "level": 1,
+          "name": "Platos preparados calientes",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Alitas de pollo asadas Hacendado",
+    "legal_name": "Alitas de pollo asadas",
+    "mandatory_mentions": "Sin gluten",
+    "origin": "España",
+    "production_variant": "Este producto es de peso variable, por lo tanto el peso neto puede oscilar",
+    "storage_instructions": "Conservar entre 0- 4 C. Una vez abierto consumir en 24h",
+    "suppliers": [
+      {
+        "name": "Platos Tradicionales S.A."
+      }
+    ],
+    "usage_instructions": "MICROONDAS 1. Sacar las alitas de su bolsa, 2. Volcarlas en el bote y esparcir (no tapar), 3. Calentar en el microondas 4 minutos a máxima potencia. HORNO 1. Precalentar el horno a 180 C, 2. Sacar las alitas de su bolsa, 3. Colocar en un recipiente apto para el horno y esparcir, 4. Calentar 15 minutos a 180 C"
+  },
+  "display_name": "Alitas de pollo asadas Hacendado",
+  "ean": "2105171137055",
+  "extra_info": [
+    null
+  ],
+  "id": "13705",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Alitas (96%), agua, aceite refinado de girasol, salmuera (dextrosa, almidón modificado, almidón, sal, corrector de acidez [ácido cítrico] y extracto de levadura), sal, vino, dextrosa, especias y aroma natural. <strong>Contiene trazas de leche y derivados</strong>"
+  },
+  "origin": "España",
+  "packaging": "Bote",
+  "photos": [
+    {
+      "perspective": 3,
+      "regular": "https://prod-mercadona.imgix.net/images/e76f498a284a1062f5054648815e4908.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e76f498a284a1062f5054648815e4908.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e76f498a284a1062f5054648815e4908.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/a71ec07b57208602170054553e52e422.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a71ec07b57208602170054553e52e422.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a71ec07b57208602170054553e52e422.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "8.80",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "8.800",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "4.40",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/13705/alitas-pollo-asadas-hacendado-bote",
+  "slug": "alitas-pollo-asadas-hacendado-bote",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/e76f498a284a1062f5054648815e4908.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

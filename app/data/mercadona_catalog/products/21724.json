@@ -1,0 +1,112 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 794,
+              "level": 2,
+              "name": "Lima limón",
+              "order": 8
+            }
+          ],
+          "id": 159,
+          "level": 1,
+          "name": "Refresco de naranja y de limón",
+          "order": 8
+        }
+      ],
+      "id": 18,
+      "level": 0,
+      "name": "Agua y refrescos",
+      "order": 8
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Refresco lima limón Hacendado fresh gas",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Bebida refescante gaseosa. Con azúcar y edulcorantes.",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "e añaden dos registros de empresa en función de donde se produce el producto: planta Marcilla o planta Sevilla.",
+    "storage_instructions": "Proteger de la luz solar y de olores agresivos. Conservar en lugar limpio, fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Refresco Iberia S.A.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Refresco lima limón Hacendado fresh gas",
+  "ean": "8402001042959",
+  "extra_info": [
+    ""
+  ],
+  "id": "21724",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Agua carbonatada, azúcar, acidulantes: ácido cítrico, ácido málico, aromas naturales, corrector de acidez: citratos de sodio, edulcorantes: glucósidos de esteviol, sucralosa."
+  },
+  "origin": null,
+  "packaging": "Lata",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/91165d018f73916ea230ea73bb6c7ad3.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/91165d018f73916ea230ea73bb6c7ad3.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/91165d018f73916ea230ea73bb6c7ad3.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/35f1756eabaa886ef221161bc9a7e043.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/35f1756eabaa886ef221161bc9a7e043.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/35f1756eabaa886ef221161bc9a7e043.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.12",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "1.122",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.37",
+    "unit_selector": true,
+    "unit_size": 0.33
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/21724/refresco-lima-limon-hacendado-fresh-gas-lata",
+  "slug": "refresco-lima-limon-hacendado-fresh-gas-lata",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/91165d018f73916ea230ea73bb6c7ad3.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

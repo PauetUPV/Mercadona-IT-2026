@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Dominio de Borgia",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 557,
+              "level": 2,
+              "name": "Vino tinto de mesa",
+              "order": 15
+            }
+          ],
+          "id": 169,
+          "level": 1,
+          "name": "Vino tinto",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": "13.5º",
+    "brand": "Dominio de Borgia",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Vino tinto Dominio de Borgia",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Vino de mesa tinto",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "El grado alcohólico puede variar en función de la añada",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "Bodegas Borsao, S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Vino tinto Dominio de Borgia",
+  "ean": "8412423110068",
+  "extra_info": [
+    null
+  ],
+  "id": "37808",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>dióxido de azufre y sulfitos</strong>.",
+    "ingredients": "Uva, antioxidantes <strong>(Anhídrido sulfuroso)</strong>, agentes estabilizantes (goma arábiga). <strong>Contiene sulfitos</strong>"
+  },
+  "origin": "España",
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/ba26a20b34811a8702d1d91134e4614f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ba26a20b34811a8702d1d91134e4614f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ba26a20b34811a8702d1d91134e4614f.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/88ba22d83899d9ad23ee64ed05a5a16f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/88ba22d83899d9ad23ee64ed05a5a16f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/88ba22d83899d9ad23ee64ed05a5a16f.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.45",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "1.450",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.90",
+    "unit_selector": true,
+    "unit_size": 2.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/37808/vino-tinto-dominio-borgia-botella",
+  "slug": "vino-tinto-dominio-borgia-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/ba26a20b34811a8702d1d91134e4614f.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

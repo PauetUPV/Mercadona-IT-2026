@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 304,
+              "level": 2,
+              "name": "Salchichas",
+              "order": 159
+            }
+          ],
+          "id": 52,
+          "level": 1,
+          "name": "Bacón y salchichas",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Salchichas cocidas de cerdo estilo Bratwurst Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "SALCHICHA COCIDA DE CERDO ESTILO BRATWURST 400G",
+    "mandatory_mentions": "Sin gluten",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Mantener entre 0ºC y 5ºC. Una vez abierto el paquete, conservar refrigerado y consumir antes de 7 días",
+    "suppliers": [
+      {
+        "name": "INCARLOPSA"
+      }
+    ],
+    "usage_instructions": "A la plancha: colocar en sartén con unas gotas de aceite, y dorar ligeramente a fuego lento."
+  },
+  "display_name": "Salchichas cocidas de cerdo estilo Bratwurst Hacendado",
+  "ean": "8480000058157",
+  "extra_info": [
+    ""
+  ],
+  "id": "5815",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Carne de cerdo (75%), agua, sal, dextrosa,  especias, estabilizante (E-450), extractos de especias y proteína vegetal  hidrolizada"
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/b7ac353f0284df940fcffaa2c51a861a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b7ac353f0284df940fcffaa2c51a861a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b7ac353f0284df940fcffaa2c51a861a.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/78d503d1a9e0592b40192f9261f8447f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/78d503d1a9e0592b40192f9261f8447f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/78d503d1a9e0592b40192f9261f8447f.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.2,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 2,
+    "unit_name": "paquetes",
+    "unit_price": "2.60",
+    "unit_selector": true,
+    "unit_size": 0.4
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/5815/salchichas-cocidas-cerdo-estilo-bratwurst-hacendado-pack-2",
+  "slug": "salchichas-cocidas-cerdo-estilo-bratwurst-hacendado-pack-2",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/b7ac353f0284df940fcffaa2c51a861a.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

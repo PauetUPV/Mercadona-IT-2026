@@ -1,0 +1,115 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Deliplus",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 673,
+              "level": 2,
+              "name": "Polvos",
+              "order": 422
+            }
+          ],
+          "id": 207,
+          "level": 1,
+          "name": "Colorete y polvos",
+          "order": 422
+        }
+      ],
+      "id": 22,
+      "level": 0,
+      "name": "Maquillaje",
+      "order": 422
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Deliplus",
+    "counter_info": null,
+    "danger_mentions": null,
+    "description": "Polvo suelto translúcido Deliplus ácido hialurónico incluye una esponja",
+    "is_prepared_by_mercadona": false,
+    "legal_name": null,
+    "mandatory_mentions": null,
+    "origin": null,
+    "production_variant": null,
+    "storage_instructions": null,
+    "suppliers": [],
+    "usage_instructions": null
+  },
+  "display_name": "Polvo suelto translúcido Deliplus ácido hialurónico",
+  "ean": "8402001050619",
+  "extra_info": [
+    ""
+  ],
+  "id": "21638",
+  "is_bulk": false,
+  "is_new_arrival": true,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "ácido hialurónico",
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": null
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 10,
+      "regular": "https://prod-mercadona.imgix.net/images/4414d3b170a3989903e4bb5a59373d00.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4414d3b170a3989903e4bb5a59373d00.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4414d3b170a3989903e4bb5a59373d00.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/6a423c73405f358f626385d4088a6a34.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/6a423c73405f358f626385d4088a6a34.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/6a423c73405f358f626385d4088a6a34.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 3,
+      "regular": "https://prod-mercadona.imgix.net/images/8aface2b59931a558dd2d37ae729c003.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8aface2b59931a558dd2d37ae729c003.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8aface2b59931a558dd2d37ae729c003.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "6.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "21.000",
+    "total_units": 1,
+    "unit_name": "ud.",
+    "unit_price": "6.00",
+    "unit_selector": true,
+    "unit_size": 0.006
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/21638/polvo-suelto-translucido-deliplus-con-acido-hialuronico-contiene-esponja",
+  "slug": "polvo-suelto-translucido-deliplus-con-acido-hialuronico-contiene-esponja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/4414d3b170a3989903e4bb5a59373d00.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

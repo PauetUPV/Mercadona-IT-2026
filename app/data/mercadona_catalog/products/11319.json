@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 544,
+              "level": 2,
+              "name": "Té",
+              "order": 8
+            }
+          ],
+          "id": 162,
+          "level": 1,
+          "name": "Refresco de té y sin gas",
+          "order": 8
+        }
+      ],
+      "id": 18,
+      "level": 0,
+      "name": "Agua y refrescos",
+      "order": 8
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Refresco té soluble melocotón Hacendado",
+    "legal_name": "Bebida refrescante de té con melocotón para diluir con edulcorantes",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Manténgase en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Martínez y Cantó, S.L."
+      }
+    ],
+    "usage_instructions": "Echar el contenido de un sobre en una botella de 0,5 litros de agua fría. Agitar hasta su disolución. Consumir antes de 24 horas. Conservar refrigerado."
+  },
+  "display_name": "Refresco té soluble melocotón Hacendado",
+  "ean": "8480000113191",
+  "extra_info": [
+    ""
+  ],
+  "id": "11319",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Acidulante (ácido cítrico), maltodextrina, extracto de té negro (11%), edulcorantes (aspartamo y acesulfamo potásico), pulpa de melocotón en polvo (5%)*, aroma, antiaglomerante (dióxido de silicio), colorante (E 150 d). *Maltodextrina y sólidos de fruta. Contiene una fuente de fenilalanina."
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/f34dae85e4f62fef8f20c8fd644c4d51.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f34dae85e4f62fef8f20c8fd644c4d51.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f34dae85e4f62fef8f20c8fd644c4d51.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/0157cd85951db866c1795ae7b94c1f98.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0157cd85951db866c1795ae7b94c1f98.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0157cd85951db866c1795ae7b94c1f98.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "41.67",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "100 g",
+    "reference_price": "4.167",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "21.000",
+    "total_units": 12,
+    "unit_name": "sobres",
+    "unit_price": "1.50",
+    "unit_selector": true,
+    "unit_size": 0.036
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/11319/refresco-te-sabor-melocoton-hacendado-diluir-caja",
+  "slug": "refresco-te-sabor-melocoton-hacendado-diluir-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/f34dae85e4f62fef8f20c8fd644c4d51.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

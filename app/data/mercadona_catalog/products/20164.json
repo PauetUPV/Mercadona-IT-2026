@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 407,
+              "level": 2,
+              "name": "Yogures desnatados",
+              "order": 598
+            }
+          ],
+          "id": 103,
+          "level": 1,
+          "name": "Yogures desnatados",
+          "order": 598
+        }
+      ],
+      "id": 11,
+      "level": 0,
+      "name": "Postres y yogures",
+      "order": 598
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Postre lácteo natural sin lactosa Hacendado 0% MG 0% azúcares añadidos",
+    "legal_name": "Leche desnatada fermentada sin lactosa",
+    "mandatory_mentions": "Contenido en lactosa <0,01 g por 100 g de producto. Este producto Hacendado Sin Lactosa está elaborado con leche de vaca. Los alérgicos a la proteína de la leche de vaca NO podrán consumir este producto ya que lo que se elimina es la lactosa y no la proteína de la leche de vaca.",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en frío entre 1C y 8C.",
+    "suppliers": [
+      {
+        "name": "Mercadona"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Postre lácteo natural sin lactosa Hacendado 0% MG 0% azúcares añadidos",
+  "ean": "8480000201645",
+  "extra_info": [
+    ""
+  ],
+  "id": "20164",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Leche</strong> desnatada, <strong>leche</strong> desnatada en polvo, gelatina y bacterias <strong>lácticas</strong>. Puede contener trazas de <strong>soja</strong>. Origen de la leche: España"
+  },
+  "origin": "España",
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/22cc58cf30c4d92a2c0c2a20406305f3.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/22cc58cf30c4d92a2c0c2a20406305f3.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/22cc58cf30c4d92a2c0c2a20406305f3.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/4780f0aee7771641c298afc75bae04e8.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4780f0aee7771641c298afc75bae04e8.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4780f0aee7771641c298afc75bae04e8.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.70",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": 4,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.125,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "2.700",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 4,
+    "unit_name": "ud.",
+    "unit_price": "1.35",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/20164/postre-lacteo-sin-lactosa-natural-hacendado-0-mg-0-azucares-anadidos-pack-4",
+  "slug": "postre-lacteo-sin-lactosa-natural-hacendado-0-mg-0-azucares-anadidos-pack-4",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/22cc58cf30c4d92a2c0c2a20406305f3.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

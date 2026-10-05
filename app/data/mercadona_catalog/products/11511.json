@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 497,
+              "level": 2,
+              "name": "Carne",
+              "order": 597
+            }
+          ],
+          "id": 140,
+          "level": 1,
+          "name": "Platos preparados calientes",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Carne de cerdo Pulled Pork Hacendado sabor barbacoa",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "PULLED PORK BBQ",
+    "mandatory_mentions": "Envasado en atmósfera protectora.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en refrigeración entre 0 y 4C. Una vez abierto el envase, consumir de inmediato.",
+    "suppliers": [
+      {
+        "name": "Frescos y Elaborados Delisano SAU"
+      }
+    ],
+    "usage_instructions": "Microondas: perforar el film y calentar durante 2 minutos a máxima potencia. Esperar 1 minuto antes de consumir."
+  },
+  "display_name": "Carne de cerdo Pulled Pork Hacendado sabor barbacoa",
+  "ean": "8436021419484",
+  "extra_info": [
+    ""
+  ],
+  "id": "11511",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "sabor barbacoa",
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Carne de cerdo asada condimentada con especias, sabor ahumado.Ingredientes: carne de cerdo (108g por 100g de pulled pork), agua, azúcar, vegetales deshidratados (tomate, cebolla, ajo), aroma, aroma de humo, maltodextrina, sal, almidón modificado, conservador (E-262), extracto de levadura, especias, hierbas aromáticas, aceite de girasol, almidón, espesante (E-412), corrector de acidez (E-330), fibra de arroz, extracto de especias, tomate concentrado, vinagre de alcohol, melaza y colorante (E-150a). Contiene trazas de <strong>leche</strong>"
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/ed5c9c82cff4d6b2da0364ddd9638230.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ed5c9c82cff4d6b2da0364ddd9638230.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ed5c9c82cff4d6b2da0364ddd9638230.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/a5b62a66b38042cd07dec7c8eb867964.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a5b62a66b38042cd07dec7c8eb867964.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a5b62a66b38042cd07dec7c8eb867964.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "12.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "12.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.50",
+    "unit_selector": true,
+    "unit_size": 0.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/11511/carne-cerdo-pulled-pork-hacendado-sabor-barbacoa-bandeja",
+  "slug": "carne-cerdo-pulled-pork-hacendado-sabor-barbacoa-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/ed5c9c82cff4d6b2da0364ddd9638230.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

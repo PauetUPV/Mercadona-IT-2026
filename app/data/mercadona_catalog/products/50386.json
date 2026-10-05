@@ -1,0 +1,112 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 305,
+              "level": 2,
+              "name": "Queso fresco",
+              "order": 159
+            }
+          ],
+          "id": 53,
+          "level": 1,
+          "name": "Queso untable, fresco y especialidades",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Queso fresco de cabra Hacendado para plancha y freír",
+    "legal_name": "Queso fresco de cabra",
+    "mandatory_mentions": "Una vez abierto consumir en 48horas.",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Mantener entre 2 y 4 C.",
+    "suppliers": [
+      {
+        "name": "Lácteos Segarra S.L."
+      },
+      {
+        "name": "Lácteos Segarra, S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Queso fresco de cabra Hacendado",
+  "ean": "8480000503862",
+  "extra_info": [
+    null
+  ],
+  "id": "50386",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Leche</strong> de cabra pasteurizada, cuajo, sal, endurecedor (cloruro cálcico) y conservador (sorbato potásico). origen de la leche: España."
+  },
+  "origin": "España",
+  "packaging": "Tarrina",
+  "photos": [
+    {
+      "perspective": 3,
+      "regular": "https://prod-mercadona.imgix.net/images/5354e570096c0ddf2f6bfa14f8cc7f5b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5354e570096c0ddf2f6bfa14f8cc7f5b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5354e570096c0ddf2f6bfa14f8cc7f5b.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/8b2141168f472be13d44a6cddcf0b7d3.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8b2141168f472be13d44a6cddcf0b7d3.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8b2141168f472be13d44a6cddcf0b7d3.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "12.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "12.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.00",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/50386/queso-fresco-cabra-hacendado-plancha-freir-tarrina",
+  "slug": "queso-fresco-cabra-hacendado-plancha-freir-tarrina",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/5354e570096c0ddf2f6bfa14f8cc7f5b.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

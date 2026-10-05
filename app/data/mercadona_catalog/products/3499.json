@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 289,
+              "level": 2,
+              "name": "Arreglos",
+              "order": 17
+            }
+          ],
+          "id": 46,
+          "level": 1,
+          "name": "Arreglos",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Costilla de vacuno",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Preparado de carne de costilla de añojo (98%)",
+    "mandatory_mentions": "Envasado en atmósfera protectora.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar de 0 a 4 c. Una vez abierto consumir en 24 horas.",
+    "suppliers": [
+      {
+        "name": "ELABORADOS CARNICOS MEDINA"
+      },
+      {
+        "name": "Elaborados Cárnicos Medina S.A.U."
+      },
+      {
+        "name": "Fabricado por: ELABORADOS CÁRNICOS MEDINA, S.A.U."
+      }
+    ],
+    "usage_instructions": "Cocinar completamente antes de su consumo."
+  },
+  "display_name": "Costilla de vacuno",
+  "ean": "2105100034998",
+  "extra_info": [
+    null
+  ],
+  "id": "3499",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Costilla de añojo (98%), agua, antioxidante (E-301), extracto vegetal de acerola."
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/559f907d86bcca16c1ce12dcf21e585f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/559f907d86bcca16c1ce12dcf21e585f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/559f907d86bcca16c1ce12dcf21e585f.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "15.30",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "15.300",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.83",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/3499/costilla-vacuno-bandeja",
+  "slug": "costilla-vacuno-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/559f907d86bcca16c1ce12dcf21e585f.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

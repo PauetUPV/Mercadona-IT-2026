@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 412,
+              "level": 2,
+              "name": "Yogures y postres infantiles",
+              "order": 598
+            }
+          ],
+          "id": 107,
+          "level": 1,
+          "name": "Yogures y postres infantiles",
+          "order": 598
+        }
+      ],
+      "id": 11,
+      "level": 0,
+      "name": "Postres y yogures",
+      "order": 598
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Petit sabor fresa y plátano Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Queso fresco azucarado, aromatizado - Sabor fresa - plátano",
+    "mandatory_mentions": "- Marca de salubridad:FR 89.209.001 UE- Pictograma reciclaje: amarillo- Estos 6 envases no pueden venderse por separado.- Sin gluten",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en frío a + 6C máx",
+    "suppliers": [
+      {
+        "name": "EURIAL ULTRA FRAIS S.A.S.U"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Petit sabor fresa y plátano Hacendado",
+  "ean": "8402001042065",
+  "extra_info": [
+    ""
+  ],
+  "id": "19848",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Queso fresco de <strong>leche</strong> pasterizada 0% materia grasa, <strong>nata</strong> pasterizada (<strong>leche</strong>), azúcar (5.8%), fructosa, almidón modificado, citratos de calcio, aroma, espesante (goma guar), colorantes (camines, extracto de paprika), vitamina D."
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/3d6cc7e982299854c495c3ddcdc1e7cd.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3d6cc7e982299854c495c3ddcdc1e7cd.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3d6cc7e982299854c495c3ddcdc1e7cd.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/0de3154e89bfc852915c54fedeef5164.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0de3154e89bfc852915c54fedeef5164.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0de3154e89bfc852915c54fedeef5164.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.36",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.06,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "2.362",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 6,
+    "unit_name": "ud.",
+    "unit_price": "0.85",
+    "unit_selector": true,
+    "unit_size": 0.36
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/19848/petit-sabor-fresa-platano-hacendado",
+  "slug": "petit-sabor-fresa-platano-hacendado",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/3d6cc7e982299854c495c3ddcdc1e7cd.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,112 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 339,
+              "level": 2,
+              "name": "Levadura y preparado repostería",
+              "order": 515
+            }
+          ],
+          "id": 69,
+          "level": 1,
+          "name": "Harina y preparado repostería",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Preparado en polvo gelatina arándano Hacendado 0% azúcar",
+    "legal_name": "Preparado en polvo para hacer gelatina con sabor a arándano, con edulcorantes.",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "EMIX Sp. z o.o."
+      },
+      {
+        "name": "PPH Emix Stanislaw Pacek"
+      }
+    ],
+    "usage_instructions": "Preparación: 1. Disuelva el contenido de la bolsa en 1/2 de litro (500 ml) de agua hirviendo. Remueva hasta su completa disolución. #2. Añada 1/2 de litro (500 ml) de agua fría y remueva.#3. Vierta el producto en el molde (o moldes) y déjelo enfriar en la nevera hasta que cuaje. Para mejor conservación, el producto debe estar tapado. #4. Para desmoldar, sumergir el molde en agua muy caliente durante unos segundows. #Advertencia: Puede añadirse fruta fresca al preparado pero no mezclar frutas tropicales y algunas otras frutas ácidas (kiwi, mango, piña) ya que impiden que cuaje la gelatina. Para utilizar estas frutas puede hacerlo en almíbar o cocidas (al vapor o con agua caliente) antes de mezclarlas con la gelatina."
+  },
+  "display_name": "Preparado en polvo gelatina arándano Hacendado 0% azúcar",
+  "ean": "8402001011856",
+  "extra_info": [
+    null
+  ],
+  "id": "32369",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Gelatina (58%), edulcorantes: maltitol, aspartamo, acesulfamo K; correctores de acidez: ácido fumárico, citratos de sódio, ácido cítrico; concentrado de jugo de zanahoria negra, aromas, colorante: E-133; sal, vitamina C. Contiene una fuente de fenilalanina."
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/5a16936329e8693fef1afaa9c877e958.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5a16936329e8693fef1afaa9c877e958.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5a16936329e8693fef1afaa9c877e958.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/ba17360352956df7d3dd2323c3d7796d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ba17360352956df7d3dd2323c3d7796d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ba17360352956df7d3dd2323c3d7796d.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "64.52",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "100 g",
+    "reference_price": "6.452",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 1,
+    "unit_name": "sobre",
+    "unit_price": "2.00",
+    "unit_selector": true,
+    "unit_size": 0.031
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/32369/preparado-polvo-gelatina-arandano-hacendado-0-azucar-caja",
+  "slug": "preparado-polvo-gelatina-arandano-hacendado-0-azucar-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/5a16936329e8693fef1afaa9c877e958.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

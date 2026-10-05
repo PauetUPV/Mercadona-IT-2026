@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 491,
+              "level": 2,
+              "name": "Pizzas refrigeradas",
+              "order": 597
+            }
+          ],
+          "id": 138,
+          "level": 1,
+          "name": "Pizzas",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pizza jamón y queso sin gluten y sin lactosa Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Pizza Jamón y Queso Sin gluten Sin lactosa",
+    "mandatory_mentions": "PRODUCTO PRECOCINADO REFRIGERADO / ENVASADO EN ATMÓSFERA PROTECTORA /  COCIDA AL HORNO DE PIEDRA/Teléfono de atención al cliente Mercadona: 800 500 220 /  RECICLA Amarillo (logo) / CON PLÁSTICO RECICLADO",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Puede congelarse justo después de su compra. Mantener entre 0ºC y 5ºC. Consumir preferentemente antes del/Lote: Ver envase",
+    "suppliers": [
+      {
+        "name": "CASA TARRADELLAS, S.A."
+      }
+    ],
+    "usage_instructions": "1 - Precalentar el horno a 220ºC durante 8-10 minutos. 2 - Retirar el envoltorio de plástico. 3 - Colocar la pizza en la rejilla del horno a media altura. 4 - Cocerla durante 5-8 minutos aproximadamente."
+  },
+  "display_name": "Pizza jamón y queso sin gluten y sin lactosa Hacendado",
+  "ean": "8480000635143",
+  "extra_info": [
+    null
+  ],
+  "id": "63514",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>granos de sésamo y productos a base de granos de sésamo</strong>.",
+    "ingredients": "Almidón de trigo (sin gluten), <strong>queso* mozzarell</strong>a  (sin lactosa) (25%), jamón cocido (18%), tomate, agua, aceite refinado de girasol, copos de patata, dextrosa, harina de maíz, sal, levadura, fibra vegetal, azúcar, jarabe de glucosa, estabilizantes (goma guar, trifosfato pentasódico, hidroxipropilmeticelulosa, mono y diglicéridos de ácidos grasos, carragen), especias,  aromas, antioxidante (ascorbato sódico), orégano, conservador (nitrito sódico). Puede contener trazas de sésamo y mostaza. NO APTO PARA ALÉRGICOS A LAS PROTEÍNAS DE LA LECHE.*Queso elaborado con leche pasteurizada."
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/4774039067043504f25de381732a0736.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4774039067043504f25de381732a0736.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4774039067043504f25de381732a0736.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/e54b50e8ae648c86b266f0c8602dfa49.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e54b50e8ae648c86b266f0c8602dfa49.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e54b50e8ae648c86b266f0c8602dfa49.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "7.62",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.620",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.20",
+    "unit_selector": true,
+    "unit_size": 0.42
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/63514/pizza-jamon-queso-sin-gluten-sin-lactosa-hacendado",
+  "slug": "pizza-jamon-queso-sin-gluten-sin-lactosa-hacendado",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/4774039067043504f25de381732a0736.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

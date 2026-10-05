@@ -1,0 +1,106 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Falke",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 552,
+              "level": 2,
+              "name": "Combinado de cerveza",
+              "order": 15
+            }
+          ],
+          "id": 164,
+          "level": 1,
+          "name": "Cerveza",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Falke",
+    "counter_info": null,
+    "danger_mentions": null,
+    "description": "Cerveza Radler Falke 0,0% sin alcohol",
+    "legal_name": null,
+    "mandatory_mentions": null,
+    "origin": null,
+    "production_variant": null,
+    "storage_instructions": null,
+    "suppliers": [],
+    "usage_instructions": null
+  },
+  "display_name": "Cerveza Radler Falke 0,0% sin alcohol",
+  "ean": "8413041318072",
+  "extra_info": [
+    null
+  ],
+  "id": "86314",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": null
+  },
+  "origin": null,
+  "packaging": "Lata",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/582e09eb235be64e2d3409450adc839a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/582e09eb235be64e2d3409450adc839a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/582e09eb235be64e2d3409450adc839a.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/ecdddb6e586f7467cdff1c3280219375.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ecdddb6e586f7467cdff1c3280219375.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ecdddb6e586f7467cdff1c3280219375.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.36",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "1.364",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.45",
+    "unit_selector": true,
+    "unit_size": 0.33
+  },
+  "product_information": null,
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/86314/cerveza-radler-falke-00-sin-alcohol-lata",
+  "slug": "cerveza-radler-falke-00-sin-alcohol-lata",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/582e09eb235be64e2d3409450adc839a.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

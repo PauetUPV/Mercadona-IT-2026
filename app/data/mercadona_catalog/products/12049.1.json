@@ -1,0 +1,102 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 316,
+              "level": 2,
+              "name": "Barra de pan",
+              "order": 515
+            }
+          ],
+          "id": 59,
+          "level": 1,
+          "name": "Pan de horno",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": "Ingredientes: Harina integral de trigo (gluten), agua, sal y levadura.\n\nAlérgenos: trigo (gluten).\n\nPuede contener trazas de: Soja, Altramuces, Leche y sus derivados (incluida lactosa), Huevo, Mostaza, Frutos de cáscara y derivados, Moluscos, Pescado, Sésamo, Crustáceos, Apio, Cacahuetes, Sulfitos.\n\nProducto preparado por Mercadona, S.A. (C/ Alfonso Roig Alfonso, s/n. Albalat dels Sorells 46135, Valencia).",
+    "danger_mentions": "",
+    "description": "Pan integral trigo 100%",
+    "is_prepared_by_mercadona": true,
+    "legal_name": "Pan integral Trigo 100%  (ovalado)",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [],
+    "usage_instructions": ""
+  },
+  "display_name": "Pan integral trigo 100%",
+  "ean": "8402001030161",
+  "extra_info": [
+    null
+  ],
+  "id": "12049.1",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Harina integral de <strong>trigo</strong>, agua, sal y levadura.Puede contener :<strong>soja</strong> y productos a base de <strong>soja</strong>, <strong>mostaza</strong> y productos a base de <strong>mostaza</strong>"
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/af7f030f73aeb80be5996256f1b3f44f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/af7f030f73aeb80be5996256f1b3f44f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/af7f030f73aeb80be5996256f1b3f44f.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.29",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "4.286",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 1,
+    "unit_name": "ud.",
+    "unit_price": "1.50",
+    "unit_selector": true,
+    "unit_size": 0.35
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/12049.1/pan-integral-trigo-100",
+  "slug": "pan-integral-trigo-100",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/af7f030f73aeb80be5996256f1b3f44f.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

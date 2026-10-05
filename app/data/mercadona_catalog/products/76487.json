@@ -1,0 +1,123 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Deliplus",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 614,
+              "level": 2,
+              "name": "Toallitas",
+              "order": 241
+            }
+          ],
+          "id": 189,
+          "level": 1,
+          "name": "Cuidado corporal",
+          "order": 241
+        },
+        {
+          "categories": [
+            {
+              "id": 595,
+              "level": 2,
+              "name": "Limpieza de cara",
+              "order": 241
+            }
+          ],
+          "id": 185,
+          "level": 1,
+          "name": "Cuidado e higiene facial",
+          "order": 241
+        }
+      ],
+      "id": 20,
+      "level": 0,
+      "name": "Cuidado facial y corporal",
+      "order": 241
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": "",
+    "brand": "Deliplus",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Toallitas desmaquillantes cara y ojos Deliplus piel seca y sensible con aloe vera",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "",
+    "mandatory_mentions": "",
+    "origin": "",
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [],
+    "usage_instructions": ""
+  },
+  "display_name": "Toallitas desmaquillantes cara y ojos Deliplus piel seca y sensible",
+  "ean": "8402001026089",
+  "extra_info": [
+    ""
+  ],
+  "id": "76487",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "piel seca y sensible",
+  "nutrition_information": {
+    "allergens": "",
+    "ingredients": ""
+  },
+  "origin": "",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/11b016721051284f873d6fca30016f18.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/11b016721051284f873d6fca30016f18.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/11b016721051284f873d6fca30016f18.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/7af2200bd9ffc3f235db218ec2a41656.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7af2200bd9ffc3f235db218ec2a41656.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7af2200bd9ffc3f235db218ec2a41656.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "0.05",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "0.046",
+    "selling_method": 0,
+    "size_format": "ud",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.15",
+    "unit_selector": true,
+    "unit_size": 25.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/76487/toallitas-desmaquillantes-cara-ojos-deliplus-piel-seca-sensible-con-aloe-vera-paquete",
+  "slug": "toallitas-desmaquillantes-cara-ojos-deliplus-piel-seca-sensible-con-aloe-vera-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/11b016721051284f873d6fca30016f18.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 419,
+              "level": 2,
+              "name": "Otros postres",
+              "order": 598
+            }
+          ],
+          "id": 111,
+          "level": 1,
+          "name": "Gelatina y otros postres",
+          "order": 598
+        }
+      ],
+      "id": 11,
+      "level": 0,
+      "name": "Postres y yogures",
+      "order": 598
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Coulant de chocolate Hacendado",
+    "legal_name": "Coulant de chocolate",
+    "mandatory_mentions": "",
+    "origin": "Bélgica",
+    "production_variant": "-",
+    "storage_instructions": "Conservar en el frigorífico a 2C - 7C. Este producto ha estado congelado previamente. No volver a congelar. Consejos de preparación : Microondas : retirar el envase protector de papel  y calentar +/- 20 segundos a 800-900W. Horno pre-calentado : retirar el envase protector de papel y calentar 9-10 minutos a 200C.",
+    "suppliers": [
+      {
+        "name": "GALANA NV"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Coulant de chocolate Hacendado",
+  "ean": "8480000829382",
+  "extra_info": [
+    null
+  ],
+  "id": "82938",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>frutos de cáscara</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Ingredientes : HUEVOS, azúcar, chocolate negro 22 % (pasta de cacao, azúcar, cacao desgrasado en polvo, emulgente : lecitinas (contiene SOJA) ; aroma natural de vainilla), MANTEQUILLA, aceites vegetales (nabina, girasol), harina de TRIGO, LECHE entera en polvo, cacao en polvo. Puede contener trazas de: FRUTOS DE CÁSCARA."
+  },
+  "origin": "Bélgica",
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/5613c211c64422781a7d7bbba6219a7a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5613c211c64422781a7d7bbba6219a7a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5613c211c64422781a7d7bbba6219a7a.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/223479589754bdcfb9ce90aada78efb7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/223479589754bdcfb9ce90aada78efb7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/223479589754bdcfb9ce90aada78efb7.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "12.22",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.09,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "12.223",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 2,
+    "unit_name": "ud.",
+    "unit_price": "2.20",
+    "unit_selector": true,
+    "unit_size": 0.18
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/82938/coulant-chocolate-hacendado-caja",
+  "slug": "coulant-chocolate-hacendado-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/5613c211c64422781a7d7bbba6219a7a.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

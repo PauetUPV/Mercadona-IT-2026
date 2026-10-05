@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 355,
+              "level": 2,
+              "name": "Cereales",
+              "order": 18
+            }
+          ],
+          "id": 78,
+          "level": 1,
+          "name": "Cereales",
+          "order": 18
+        }
+      ],
+      "id": 7,
+      "level": 0,
+      "name": "Cereales y galletas",
+      "order": 18
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Cereales estrellas de maíz Stars Hacendado con miel",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Miel Stars 400g",
+    "mandatory_mentions": "",
+    "origin": "Francia",
+    "production_variant": "",
+    "storage_instructions": "Cerrar la bolsa interior después de cada uso y conservar en lugar fresco, seco y protegido de la luz.",
+    "suppliers": [
+      {
+        "name": "DAILYCER S.A.S"
+      }
+    ],
+    "usage_instructions": "Vierte los cereales en un tazón. Añade leche fría para saborear estos cereales crujientes"
+  },
+  "display_name": "Cereales estrellas de maíz Stars Hacendado con miel",
+  "ean": "8480000805157",
+  "extra_info": [
+    ""
+  ],
+  "id": "80515",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "con miel",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>cereales que contengan gluten</strong>. Puede contener <strong>frutos de cáscara</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Cereales (80%)[ sémola de maíz, harina de <strong>trigo</strong> integral (<strong>gluten),</strong> harina de <strong>trigo</strong> (<strong>gluten</strong>) ], azúcar, aceite refinado de girasol, miel (1%), aroma, sal, colorante: beta-caroteno, hierro, antioxidante: extracto rico en tocoferoles. Puede <strong>contener trazas de soja, leche y otros frutos de cáscara.</strong>"
+  },
+  "origin": "Francia",
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/3cc53c61c022b13a42b12f9dfa87f355.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3cc53c61c022b13a42b12f9dfa87f355.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3cc53c61c022b13a42b12f9dfa87f355.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/40b82fe7cc55937d3ec4dddc8a7a6555.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/40b82fe7cc55937d3ec4dddc8a7a6555.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/40b82fe7cc55937d3ec4dddc8a7a6555.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.25",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.250",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.10",
+    "unit_selector": true,
+    "unit_size": 0.4
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/80515/cereales-estrellas-maiz-stars-hacendado-con-miel-caja",
+  "slug": "cereales-estrellas-maiz-stars-hacendado-con-miel-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/3cc53c61c022b13a42b12f9dfa87f355.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Cabré & Sabaté",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 795,
+              "level": 2,
+              "name": "Cava brut",
+              "order": 15
+            }
+          ],
+          "id": 174,
+          "level": 1,
+          "name": "Sidra y cava",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": "11.5º",
+    "brand": "Cabré & Sabaté",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Cava brut nature vintage Cabré & Sabaté",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Vino blanco DOP Cava brut nature",
+    "mandatory_mentions": "Apto para veganos.",
+    "origin": "Producto de España",
+    "production_variant": "",
+    "storage_instructions": "Conservación en lugar fresco, protegido de la luz y el ruido.",
+    "suppliers": [
+      {
+        "name": "BODEGAS JAUME SERRA S.L."
+      },
+      {
+        "name": "Jaume Serra"
+      }
+    ],
+    "usage_instructions": "Servir entre 6º y 8ºC."
+  },
+  "display_name": "Cava brut nature vintage Cabré & Sabaté",
+  "ean": "8480000289384",
+  "extra_info": [
+    ""
+  ],
+  "id": "28938",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>dióxido de azufre y sulfitos</strong>.",
+    "ingredients": "Uvas, azúcar, correctores de la acidez (ácido Tartárico[L(+)]), conservadores y antioxidantes (<strong>sulfitos).</strong>"
+  },
+  "origin": "Producto de España",
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/4938e9a5b68e7e6616b74da38bd0c519.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4938e9a5b68e7e6616b74da38bd0c519.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4938e9a5b68e7e6616b74da38bd0c519.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/80218b4cd43c5248787767aab98d3ea7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/80218b4cd43c5248787767aab98d3ea7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/80218b4cd43c5248787767aab98d3ea7.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.27",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 21,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "6.267",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "4.70",
+    "unit_selector": true,
+    "unit_size": 0.75
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/28938/cava-brut-nature-reserva-vintage-cabre-sabate-botella",
+  "slug": "cava-brut-nature-reserva-vintage-cabre-sabate-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/4938e9a5b68e7e6616b74da38bd0c519.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

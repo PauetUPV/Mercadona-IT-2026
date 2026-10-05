@@ -1,0 +1,123 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 280,
+              "level": 2,
+              "name": "Cerdo",
+              "order": 17
+            }
+          ],
+          "id": 37,
+          "level": 1,
+          "name": "Cerdo",
+          "order": 17
+        },
+        {
+          "categories": [
+            {
+              "id": 288,
+              "level": 2,
+              "name": "Empanados y elaborados",
+              "order": 17
+            }
+          ],
+          "id": 45,
+          "level": 1,
+          "name": "Empanados y elaborados",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "San Jacobos de cerdo sin gluten",
+    "legal_name": "San jacobos de cerdo.",
+    "mandatory_mentions": "Envasado en atmósfera protectora.",
+    "origin": "Zaragoza, España",
+    "production_variant": "",
+    "storage_instructions": "Conservar de 0ºC a 4ºC. Una vez abierto el envase consumir inmediatamente.",
+    "suppliers": [
+      {
+        "name": "AVES NOBLES Y DERIVADOS S.L."
+      }
+    ],
+    "usage_instructions": "En fredidora: Freír a 180ºc durante 2 min. En sartén: Precalentar y cocinar con abundante aceite a fuego alto durante 2 min por cada lado."
+  },
+  "display_name": "San Jacobos de cerdo sin gluten",
+  "ean": "8402001017858",
+  "extra_info": [
+    ""
+  ],
+  "id": "52957",
+  "is_bulk": true,
+  "is_variable_weight": true,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Fiambre de cerdo (44%): carne de cerdo (60%), agua, almidón, sal, <strong>LACTOSA</strong>, estabilizantes (E-451i, E-407, E-415), dextrosa, proteína de <strong>SOJA</strong>, <strong>LECHE</strong> desnatada en polvo, antioxidante (E-301), aromas, conservador (E-250), aroma de humo, colorante (E-150b), potenciadores del sabor (E-621, E-627, E-631). Empanado: almidón de patata, harina de maíz, sal, aroma, pan rallado sin gluten (harina de arroz, garbanzo en polvo, almidón de maíz, sal, dextrosa) y conservador (E-202). <strong>QUESO</strong> fundido: <strong>QUESO</strong> semicurado (<strong>LECHE</strong> pasteurizada de vaca, oveja y cabra, endurecedor (cloruro cálcico), cuajo, fermentos lácticos), <strong>MANTEQUILLA</strong>, sólidos lácteos (<strong>LACTOSUERO</strong>, proteínas de <strong>LECHE</strong>, <strong>LECHE</strong> en polvo desnatada), almidón modificado (patata y tapioca), sales de fundido (E-452, E-331), acidulante (E-330) y sal. <strong>EN ESTA FÁBRICA SE PRODUCEN OTROS ALIMENTOS QUE CONTIENEN HUEVO Y SULFITOS.</strong>"
+  },
+  "origin": "Zaragoza, España",
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/cef38117e6725d30eaae0a57d8bfc1bd.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/cef38117e6725d30eaae0a57d8bfc1bd.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/cef38117e6725d30eaae0a57d8bfc1bd.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/419799cc0ff64703ddc9ec9f23431a15.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/419799cc0ff64703ddc9ec9f23431a15.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/419799cc0ff64703ddc9ec9f23431a15.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "6.60",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.600",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.64",
+    "unit_selector": true,
+    "unit_size": 0.4
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/52957/san-jacobos-cerdo-sin-gluten-bandeja",
+  "slug": "san-jacobos-cerdo-sin-gluten-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/cef38117e6725d30eaae0a57d8bfc1bd.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": "2026-02-25T23:00:00+00:00",
+  "unavailable_weekdays": []
+}

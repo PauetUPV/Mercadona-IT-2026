@@ -1,0 +1,112 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "J-Lek",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 844,
+              "level": 2,
+              "name": "Salsas orientales",
+              "order": 7
+            }
+          ],
+          "id": 117,
+          "level": 1,
+          "name": "Otras salsas",
+          "order": 7
+        }
+      ],
+      "id": 12,
+      "level": 0,
+      "name": "Aceite, especias y salsas",
+      "order": 7
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "J-Lek",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Salsa Thai Chili dulce J-Lek",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Salsa Chili Dulce Tailandesa",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Una vez abierto, mantener en frío y consumir en 6 semanas",
+    "suppliers": [
+      {
+        "name": "Mercadona S.A."
+      }
+    ],
+    "usage_instructions": "Dipear: con snacks, fritos, carnes, pescados o para acompañar tus platos prefereidos. Marinar: verduras, carnes o pescados antes de cocinarlos. Cocinar: todo tipo de platos, tanto asados, como wok, plancha, parrilla."
+  },
+  "display_name": "Salsa Thai Chili dulce J-Lek",
+  "ean": "8854692010357",
+  "extra_info": [
+    ""
+  ],
+  "id": "22613",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>moluscos y productos a base de moluscos</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>. Puede contener <strong>pescado y productos a base de pescado</strong>. Puede contener <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Puede contener <strong>cereales que contengan gluten</strong>. Puede contener <strong>trigo y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>.",
+    "ingredients": "Agua, azúcar, encurtido de pimiento rojo 8,0% (pimiento rojo, sal, regulador de la acidez (E260)), ajo 4,0%, espesante: almidón de tapioca modificado (E1442), sal, regulador de la acidez (E260), sabor estabilizante: goma de xantana (E415), color: extracto de paprika (E160c). <strong>Puede contener trazas de soja,  trigo, sésamo, pescado, crustáceos, moluscos y mostaza</strong>."
+  },
+  "origin": null,
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/6624bbf085f2c5cbd7a1bc2d96cae4a3.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/6624bbf085f2c5cbd7a1bc2d96cae4a3.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/6624bbf085f2c5cbd7a1bc2d96cae4a3.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/45d7819f8a66904c0d7f89afb19f7987.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/45d7819f8a66904c0d7f89afb19f7987.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/45d7819f8a66904c0d7f89afb19f7987.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.60",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "5.600",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.40",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/22613/salsa-thai-chili-dulce-j-lek-botella",
+  "slug": "salsa-thai-chili-dulce-j-lek-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/6624bbf085f2c5cbd7a1bc2d96cae4a3.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

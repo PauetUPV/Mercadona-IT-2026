@@ -1,0 +1,119 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Comportillo",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 563,
+              "level": 2,
+              "name": "Rioja",
+              "order": 15
+            }
+          ],
+          "id": 169,
+          "level": 1,
+          "name": "Vino tinto",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Comportillo",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Vino tinto reserva Comportillo DO Rioja",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "VINO TINTO RESERVA",
+    "mandatory_mentions": "",
+    "origin": "DO Calificada Rioja",
+    "production_variant": "",
+    "storage_instructions": "Consumir entre 17º -18ºC. Conservar en lugar fresco y protegido de la luz.",
+    "suppliers": [
+      {
+        "name": "BODEGAS ONTAÑON S.L."
+      },
+      {
+        "name": "BODEGAS ONTAÑÓN S.L."
+      },
+      {
+        "name": "Bodegas Ontañón, S.L."
+      }
+    ],
+    "usage_instructions": "Abrir la botella 10-15 minutos antes de consumir."
+  },
+  "display_name": "Vino tinto reserva Comportillo DO Rioja",
+  "ean": "8411767164096",
+  "extra_info": [
+    ""
+  ],
+  "id": "66325",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "DO Rioja",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Uva, correctores de la acidez (ácido Tartárico[L(+)], ácido láctico), conservadores y antioxidantes (a<strong>nhídrido sulfuroso, metabisulfito de potasio,</strong> ácido L-ascórbico), agentes estabilizantes (ácido metatartárico, poliaspartato de potasio, goma arábiga.) C<strong>ONTIENE SULFITOS.</strong>"
+  },
+  "origin": "DO Calificada Rioja",
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/14274a29d03268db66d5b4375e42a4b9.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/14274a29d03268db66d5b4375e42a4b9.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/14274a29d03268db66d5b4375e42a4b9.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/da2c1bcc28cfd4c56a5ff27163de9eee.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/da2c1bcc28cfd4c56a5ff27163de9eee.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/da2c1bcc28cfd4c56a5ff27163de9eee.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.33",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "5.334",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "4.00",
+    "unit_selector": true,
+    "unit_size": 0.75
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/66325/vino-tinto-do-rioja-comportillo-reserva-botella",
+  "slug": "vino-tinto-do-rioja-comportillo-reserva-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/14274a29d03268db66d5b4375e42a4b9.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

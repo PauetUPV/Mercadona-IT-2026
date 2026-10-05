@@ -1,0 +1,129 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 290,
+              "level": 2,
+              "name": "Carne congelada",
+              "order": 17
+            }
+          ],
+          "id": 47,
+          "level": 1,
+          "name": "Carne congelada",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 511,
+              "level": 2,
+              "name": "Carne",
+              "order": 213
+            }
+          ],
+          "id": 148,
+          "level": 1,
+          "name": "Carne",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Solomillo de pavo marinado congelado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Solomillo marinado congelado",
+    "mandatory_mentions": "Envasado al vacío.",
+    "origin": "España",
+    "production_variant": "Este producto es de peso variable. Su contenido neto puede variar entre 250 - 550 g.",
+    "storage_instructions": "Conservar congelado <-18C",
+    "suppliers": [
+      {
+        "name": "PROCAVI S.L."
+      }
+    ],
+    "usage_instructions": "Una vez abierto consumir preferentemente antes de 24 horas y no volver a congelar. Cocinar completamente antes de su consumo."
+  },
+  "display_name": "Solomillo de pavo marinado congelado",
+  "ean": "2105100253535",
+  "extra_info": [
+    null
+  ],
+  "id": "25353",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": "congelado",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>PREPARADO DE CARNE. INGREDIENTES: Pechuga de pavo (90%), agua, conservadores (E-326 y E-261), sal, maltodextrina de maíz, dextrina de maíz, antioxidantes (E-301 y E-331) y estabilizante (E-407)."
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/134b36b88ca0f81fd392ce8dc434f3aa.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/134b36b88ca0f81fd392ce8dc434f3aa.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/134b36b88ca0f81fd392ce8dc434f3aa.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "7.80",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.800",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.12",
+    "unit_selector": true,
+    "unit_size": 0.4
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/25353/solomillo-pavo-marinado-congelado-paquete",
+  "slug": "solomillo-pavo-marinado-congelado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/134b36b88ca0f81fd392ce8dc434f3aa.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

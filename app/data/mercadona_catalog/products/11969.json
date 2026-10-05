@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 296,
+              "level": 2,
+              "name": "Mortadela",
+              "order": 159
+            }
+          ],
+          "id": 49,
+          "level": 1,
+          "name": "Chopped y mortadela",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Mortadela de pavo Hacendado finas lonchas",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Mortadela de Pavo",
+    "mandatory_mentions": "Envasado en atmósfera protectora  / abrir aquí / Teléfono de atención al cliente Mercadona: 800 500 220 / SIN GLUTEN (logo) / SIN LACTOSA (logo) / RECICLA Al Amarillo (logo)",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Manténgase entre 0C y 5C / Consumir preferentemente antes del/lote: ver envase",
+    "suppliers": [
+      {
+        "name": "CASA TARRADELLAS, S.A."
+      }
+    ],
+    "usage_instructions": "Abrir 5 minutos antes de servir / Una vez abierto consumir en 2 días."
+  },
+  "display_name": "Mortadela de pavo Hacendado finas lonchas",
+  "ean": "8402001029448",
+  "extra_info": [
+    ""
+  ],
+  "id": "11969",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "finas lonchas",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>soja y productos a base de soja</strong>.",
+    "ingredients": "Carne de pavo (50%), agua, aceite refinado de girasol, fécula de patata, sal, proteína de <strong>soja</strong>, dextrosa, azúcar, aromas, especias, estabilizantes (E-451i, E-407), antioxidante (E-301), conservador (nitrito sódico), colorante (E-120)."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/3829a2027b28e1445d76d6d4c7fcfc12.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3829a2027b28e1445d76d6d4c7fcfc12.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3829a2027b28e1445d76d6d4c7fcfc12.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/4c5a0e9563d25ff7b8267037b054a8ef.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4c5a0e9563d25ff7b8267037b054a8ef.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4c5a0e9563d25ff7b8267037b054a8ef.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "7.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.50",
+    "unit_selector": true,
+    "unit_size": 0.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/11969/mortadela-pavo-hacendado-finas-lonchas-paquete",
+  "slug": "mortadela-pavo-hacendado-finas-lonchas-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/3829a2027b28e1445d76d6d4c7fcfc12.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

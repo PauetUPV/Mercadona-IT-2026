@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Royal Swan",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 593,
+              "level": 2,
+              "name": "Cremas",
+              "order": 15
+            }
+          ],
+          "id": 181,
+          "level": 1,
+          "name": "Licores",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": "15.0º",
+    "brand": "Royal Swan",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Licor crema de fresa Royal Swan",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Licor",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "BARDINET,S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Licor crema de fresa Royal Swan",
+  "ean": "8480000226143",
+  "extra_info": [
+    null
+  ],
+  "id": "22614",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Agua, azúcar, alcohol, grasa vegetal (girasol), maltodextrina, grasa láctea, caseinato sódico, aguardiente agave, aroma natural, aroma, colorante: E-124, correctores de acidez: E-500ii, E-325. <strong>Contiene derivados lácteos</strong>"
+  },
+  "origin": null,
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/607984889d7b0eec6eaea2009f4a6645.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/607984889d7b0eec6eaea2009f4a6645.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/607984889d7b0eec6eaea2009f4a6645.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/5fbe1529d48e3b82e60baf0dbc5eb9d7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5fbe1529d48e3b82e60baf0dbc5eb9d7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5fbe1529d48e3b82e60baf0dbc5eb9d7.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "9.07",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "9.072",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "6.35",
+    "unit_selector": true,
+    "unit_size": 0.7
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/22614/licor-crema-fresa-royal-swan-botella",
+  "slug": "licor-crema-fresa-royal-swan-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/607984889d7b0eec6eaea2009f4a6645.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

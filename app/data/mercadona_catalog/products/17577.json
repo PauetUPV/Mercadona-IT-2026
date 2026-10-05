@@ -1,0 +1,107 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 446,
+              "level": 2,
+              "name": "Pasta rellena",
+              "order": 10
+            }
+          ],
+          "id": 120,
+          "level": 1,
+          "name": "Pasta y fideos",
+          "order": 10
+        }
+      ],
+      "id": 13,
+      "level": 0,
+      "name": "Arroz, legumbres y pasta",
+      "order": 10
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pasta fresca girasoles rellena de pesto y queso de oveja Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "PASTA ALIMENTICIA FRESCA AL HUEVO VERDE RELLENA DE SALSA DE ALBAHACA Y QUESO DE OVEJA",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "-",
+    "storage_instructions": "Conservar refrigerado entre +4/7C. Una vez abierto, consumir dentro de los tres días siguientes. 3 min",
+    "suppliers": [
+      {
+        "name": "Bertagni 1882 S.p.a."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Pasta fresca girasoles rellena de pesto y queso de oveja Hacendado",
+  "ean": "8402001055799",
+  "extra_info": [
+    ""
+  ],
+  "id": "17577",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>frutos de cáscara</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>. Puede contener <strong>pescado y productos a base de pescado</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Relleno (60%): salsa de pesto y queso cocinada 23,6% (aceite refinado de girasol, salsa de albahaca 30% (albahaca 89%, aceite refinado de girasol, sal, regulador de aciditez:carbonato de sodio), agua, queso rallado 10% (<strong>LECHE</strong>, sal, cuajo), fibra de <strong>TRIGO</strong>, sal, zumo de limón, ajo), <strong>LECHE</strong> semidesnatada, pan rallado (harina de <strong>TRIGO</strong>, sal, levadura), nata (<strong>LECHE</strong>), ricota de oveja 10,5% (suero de <strong>LECHE</strong> de oveja, sal), suero de <strong>LECHE</strong> en polvo, ricota 6,3% (suero de <strong>LECHE</strong>, nata (<strong>LECHE</strong>), sal), aceite refinado de girasol, queso de oveja 3,5% (<strong>LECHE</strong> de oveja, sal, coagulante, cultivos de queso, conservante: lisozima (<strong>HUEVOS</strong>)), agua, sal, harina de <strong>TRIGO</strong> blando, mantequilla (<strong>LECHE</strong>), almidón de maíz, azúcar. <strong>PASTA</strong> (40%): harina de <strong>TRIGO</strong> blando, <strong>HUEVOS</strong> 22,5%, sémola de <strong>TRIGO</strong> duro, espinacas 5,9%, sal. puede contener trazas de <strong>SOJA</strong>, <strong>CRUSTÁCEOS</strong>, <strong>PESCADO</strong>, <strong>FRUTOS</strong> <strong>DE</strong> <strong>CÁSCARA</strong>, <strong>MOSTAZA</strong>."
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/207b1917598affd9716f90bd50672b7a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/207b1917598affd9716f90bd50672b7a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/207b1917598affd9716f90bd50672b7a.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "7.80",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.800",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.95",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/17577/pasta-fresca-girasoles-rellena-pesto-queso-oveja-hacendado-bandeja",
+  "slug": "pasta-fresca-girasoles-rellena-pesto-queso-oveja-hacendado-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/207b1917598affd9716f90bd50672b7a.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

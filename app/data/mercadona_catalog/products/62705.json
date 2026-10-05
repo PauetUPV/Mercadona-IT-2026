@@ -1,0 +1,135 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 516,
+              "level": 2,
+              "name": "Marisco",
+              "order": 213
+            }
+          ],
+          "id": 150,
+          "level": 1,
+          "name": "Marisco",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 272,
+              "level": 2,
+              "name": "Marisco",
+              "order": 442
+            }
+          ],
+          "id": 32,
+          "level": 1,
+          "name": "Marisco",
+          "order": 442
+        }
+      ],
+      "id": 2,
+      "level": 0,
+      "name": "Marisco y pescado",
+      "order": 442
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Alistado mediano Hacendado congelado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Alistado Congelado",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "El peso se determinará en el punto de venta final.",
+    "storage_instructions": "-Conservación: Frigorífico, 8 horas -* (- 6ºC) Congelador: -6ºC 5 días -** (-12ºC) Congelador: -12ºC 15 días -*/*** (-18ºC) Congelador -18ºC. Mantener -18ºC. No volver a congelar una vez descongelado.",
+    "suppliers": [
+      {
+        "name": "DISTRIBUIDORA MARISCOS RODRIGUEZ S.A."
+      }
+    ],
+    "usage_instructions": "Descongelar en un recipiente con rejilla tapado en el frigorífico durante 8 horas aprox. Lavar muy bien los alistados. Poner directamente en la plancha o sartén con unas gotas de aceite y abundante sal. Cocinar completamente antes de su consumo."
+  },
+  "display_name": "Alistado mediano Hacendado congelado",
+  "ean": "8480000627056",
+  "extra_info": [
+    ""
+  ],
+  "id": "62705",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": "congelado",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>dióxido de azufre y sulfitos</strong>. Contiene <strong>crustáceos y productos a base de crustáceos</strong>. Puede contener <strong>moluscos y productos a base de moluscos</strong>. Puede contener <strong>pescado y productos a base de pescado</strong>.",
+    "ingredients": "Alistado (<strong>crustáceo</strong>). Antioxidantes: Difosfatos, Citratos de sodio, Ácido cítrico y Metabisulfito de <strong>sodio</strong>. Puede contener <strong>pescado</strong> y <strong>moluscos</strong>."
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/0c0ed00cc2bddb2ccd2a0f3a4436fb42.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0c0ed00cc2bddb2ccd2a0f3a4436fb42.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0c0ed00cc2bddb2ccd2a0f3a4436fb42.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/26139e703969632fcf8efb2da59e5455.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/26139e703969632fcf8efb2da59e5455.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/26139e703969632fcf8efb2da59e5455.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "36.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "36.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "14.40",
+    "unit_selector": true,
+    "unit_size": 0.4
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/62705/alistado-mediano-hacendado-congelado-caja",
+  "slug": "alistado-mediano-hacendado-congelado-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/0c0ed00cc2bddb2ccd2a0f3a4436fb42.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

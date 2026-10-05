@@ -1,0 +1,119 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "1897",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 549,
+              "level": 2,
+              "name": "Cerveza lata",
+              "order": 15
+            }
+          ],
+          "id": 164,
+          "level": 1,
+          "name": "Cerveza",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": "7.4º",
+    "brand": "1897",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Cerveza doble malta 1897",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Cerveza doble malta",
+    "mandatory_mentions": "Cerveza elaborada con maltas cuidadosamente seleccionadas que proporcionan una mayor intensidad de sabor y cuerpo.",
+    "origin": "Marruecos",
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "Mercadona, S.A"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Cerveza doble malta 1897",
+  "ean": "8480000047663",
+  "extra_info": [
+    ""
+  ],
+  "id": "66432",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Agua, malta de <strong>cebada</strong> y lúpulo."
+  },
+  "origin": "Marruecos",
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/995a866fc8e7ce3c97ccc3a82008c10c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/995a866fc8e7ce3c97ccc3a82008c10c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/995a866fc8e7ce3c97ccc3a82008c10c.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/3c88be7d421e4138e65da5e0663f0a4d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3c88be7d421e4138e65da5e0663f0a4d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3c88be7d421e4138e65da5e0663f0a4d.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/0de506890eeb77ba5836d59a4a9ec041.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0de506890eeb77ba5836d59a4a9ec041.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0de506890eeb77ba5836d59a4a9ec041.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.61",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.33,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "1.607",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": 6,
+    "unit_name": "latas",
+    "unit_price": "3.18",
+    "unit_selector": true,
+    "unit_size": 1.98
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/66432/cerveza-doble-malta-pack-6",
+  "slug": "cerveza-doble-malta-pack-6",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/995a866fc8e7ce3c97ccc3a82008c10c.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

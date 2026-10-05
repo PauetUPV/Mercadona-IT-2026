@@ -1,0 +1,119 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 255,
+              "level": 2,
+              "name": "Ensalada preparada",
+              "order": 306
+            }
+          ],
+          "id": 28,
+          "level": 1,
+          "name": "Lechuga y ensalada preparada",
+          "order": 306
+        }
+      ],
+      "id": 1,
+      "level": 0,
+      "name": "Fruta y verdura",
+      "order": 306
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Ensalada César compuesta por hortalizas frescas, pollo, queso, picatostes y salsas, incluye tenedor",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Ensalada lista para consumir a base de hortalizas frescas, pollo, queso, picatostes y salsa.",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar refrigerado en 1ºC-4ºC.Una vez abierto el envase consumir todo el producto.",
+    "suppliers": [
+      {
+        "name": "Verdifresh, S.L.U."
+      }
+    ],
+    "usage_instructions": "Abrir, añadir los ingredientes y la salsa, mezclar, ¡y listo!"
+  },
+  "display_name": "Ensalada César",
+  "ean": "8480000698490",
+  "extra_info": [
+    ""
+  ],
+  "id": "69849",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>sr</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Puede contener <strong>sp</strong>. Contiene <strong>pescado y productos a base de pescado</strong>. Puede contener <strong>sc</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>sw</strong>. Puede contener <strong>sh</strong>. Puede contener <strong>sa</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>st</strong>. Puede contener <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Puede contener <strong>sm</strong>. Contiene <strong>trigo y productos derivados</strong>.",
+    "ingredients": "Mezcla de hortalizas 36% (lechuga hoja de roble verde, lechuga Iceberg), salsa César 26% (agua, aceite vegetal de girasol, vinagre de alcohol, azúcar, <strong>queso</strong>, sal, acidulante (E270), pasta de anchoa (<strong>anchoa </strong>y sal), yema de <strong>huevo</strong>, estabilizantes (E412 y E415) y especias (cebolla, ajo, perejil y pimienta), conservadores (E211 y E202) y antioxidante (E385)), pechuga de pollo cocida 24% (pechuga de pollo 96%, extractos de fermentación, sal, dextrosa, aroma, estabilizante (E451i) y fibra), <strong>queso</strong> curado granulado 9% (<strong>leche</strong> pasteurizada, sal, cuajo y fécula de patata), picatostes 5% (<strong>harina de trigo</strong>, agua, sal, antioxidante (E300) y levadura)."
+  },
+  "origin": null,
+  "packaging": "Bol",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/c1cb61a57b608b2d949c22294e549327.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c1cb61a57b608b2d949c22294e549327.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c1cb61a57b608b2d949c22294e549327.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/7b5cf9133f25697c6029760add25d71f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7b5cf9133f25697c6029760add25d71f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7b5cf9133f25697c6029760add25d71f.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/f348885dc78cd85c4f3392003e933780.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f348885dc78cd85c4f3392003e933780.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f348885dc78cd85c4f3392003e933780.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "12.38",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "12.381",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.60",
+    "unit_selector": true,
+    "unit_size": 0.21
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/69849/ensalada-cesar-compuesta-hortalizas-frescas-pollo-queso-picatostes-salsas-incluye-tenedor-bol",
+  "slug": "ensalada-cesar-compuesta-hortalizas-frescas-pollo-queso-picatostes-salsas-incluye-tenedor-bol",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/c1cb61a57b608b2d949c22294e549327.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,125 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 280,
+              "level": 2,
+              "name": "Cerdo",
+              "order": 17
+            }
+          ],
+          "id": 37,
+          "level": 1,
+          "name": "Cerdo",
+          "order": 17
+        },
+        {
+          "categories": [
+            {
+              "id": 288,
+              "level": 2,
+              "name": "Empanados y elaborados",
+              "order": 17
+            }
+          ],
+          "id": 45,
+          "level": 1,
+          "name": "Empanados y elaborados",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pinchos de cerdo adobado sin varilla",
+    "legal_name": "PINCHOS MAGRO DE CERDO",
+    "mandatory_mentions": "Envasado en atmósfera protectora",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Refrigerado: 0 a 4º C. Una vez abierto consumir en 48 Horas. COCINAR COMPLETAMENTE (75ºC) ANTES DE SU CONSUMO",
+    "suppliers": [
+      {
+        "name": "JOVISERRANO, S.L.U"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Pinchos de cerdo adobado sin varilla",
+  "ean": "2105100028393",
+  "extra_info": [
+    ""
+  ],
+  "id": "2839",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Libre de <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "<p>Carne de cerdo (86%), agua , sal, especias, conservadores (E325, E262), antioxidantes (E331 y E301) , aroma, azúcar y maltodextrina."
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/ecf7155c382139064443e6c57b40c98f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ecf7155c382139064443e6c57b40c98f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ecf7155c382139064443e6c57b40c98f.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/cb53b4d7a19aab25843e61b11abaac3c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/cb53b4d7a19aab25843e61b11abaac3c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/cb53b4d7a19aab25843e61b11abaac3c.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "7.80",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.800",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.98",
+    "unit_selector": true,
+    "unit_size": 0.51
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/2839/pinchos-cerdo-sin-varilla-bandeja",
+  "slug": "pinchos-cerdo-sin-varilla-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/ecf7155c382139064443e6c57b40c98f.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

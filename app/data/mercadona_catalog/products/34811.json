@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 475,
+              "level": 2,
+              "name": "Snacks",
+              "order": 9
+            }
+          ],
+          "id": 132,
+          "level": 1,
+          "name": "Patatas fritas y snacks",
+          "order": 9
+        }
+      ],
+      "id": 15,
+      "level": 0,
+      "name": "Aperitivos",
+      "order": 9
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Palomitas caramelo Hacendado",
+    "legal_name": "PALOMITAS CARAMELO",
+    "mandatory_mentions": "Envasado en atmósfera protectora. ESTE PRODUCTO POR SU TAMAÑO NO LO DEBEN CONSUMIR MENORES DE 5 AÑOS.",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Proteger de la luz. Conservar en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "IMPORTACO CASA PONS S.A.U."
+      }
+    ],
+    "usage_instructions": "Una vez abierto el envase, consumir en unas horas."
+  },
+  "display_name": "Palomitas caramelo Hacendado",
+  "ean": "8480000348111",
+  "extra_info": [
+    null
+  ],
+  "id": "34811",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>soja y productos a base de soja</strong>. Puede contener <strong>frutos de cáscara</strong>. Puede contener <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Azúcar caramelizado (54%), palomitas de maíz expandido,  jarabe de glucosa-fructosa, aceite refinado de girasol, sal, gasificante (bicarbonato sódico) y emulgente (lecitinas (<strong>SOJA</strong>). <strong>TRAZAS DE CACAHUETE, FRUTOS DE CÁSCARA, GLUTEN, LECHE Y DERIVADOS.</strong>"
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/54f08a75c350854e471b9f2b73b92a5d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/54f08a75c350854e471b9f2b73b92a5d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/54f08a75c350854e471b9f2b73b92a5d.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/2e09d46e129983260f9a357bf9ba7baa.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/2e09d46e129983260f9a357bf9ba7baa.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/2e09d46e129983260f9a357bf9ba7baa.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "12.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "12.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.50",
+    "unit_selector": true,
+    "unit_size": 0.12
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/34811/palomitas-caramelo-hacendado-paquete",
+  "slug": "palomitas-caramelo-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/54f08a75c350854e471b9f2b73b92a5d.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

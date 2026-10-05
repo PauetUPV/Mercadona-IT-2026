@@ -1,0 +1,117 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 783,
+              "level": 2,
+              "name": "Picadas y otros",
+              "order": 17
+            }
+          ],
+          "id": 44,
+          "level": 1,
+          "name": "Hamburguesas y picadas",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Preparado de carne picada vacuno",
+    "legal_name": "BURGER MEAT VACUNO",
+    "mandatory_mentions": "Contiene alérgenos: sulfitos. Envasado en atmósfera protectora.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar de  0 a 4C. Una vez abierto consumir antes de 48 horas",
+    "suppliers": [
+      {
+        "name": "Elaborados Cárnicos Medina S.A.U."
+      },
+      {
+        "name": "Embutidos F. Martinez R. S.A."
+      },
+      {
+        "name": "Embutidos F. Martínez R.S.A"
+      }
+    ],
+    "usage_instructions": "No consumir crudo. Cocinar completamente antes de su consumo."
+  },
+  "display_name": "Preparado de carne picada vacuno",
+  "ean": "8421610034544",
+  "extra_info": [
+    null
+  ],
+  "id": "3454",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>dióxido de azufre y sulfitos</strong>.",
+    "ingredients": "Preparado de carne. Ingredientes: Carne de vacuno (90%), agua, fibra vegetal (guisante),  cereales (maíz), antioxidantes (E-301 y E-331), aroma y conservador (E-221) (<strong>sulfito</strong>). <strong>Sin</strong> <strong>gluten</strong>. <strong>Sin</strong> <strong>lactosa</strong>. <strong>Sin</strong> <strong>soja</strong>."
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/568b0075f1c53000f2a26946b6539e0c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/568b0075f1c53000f2a26946b6539e0c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/568b0075f1c53000f2a26946b6539e0c.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/6052930ceb8eedb5dddccec029d8c9d4.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/6052930ceb8eedb5dddccec029d8c9d4.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/6052930ceb8eedb5dddccec029d8c9d4.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "10.80",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "10.800",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "10.80",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/3454/preparado-carne-picada-vacuno-bandeja",
+  "slug": "preparado-carne-picada-vacuno-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/568b0075f1c53000f2a26946b6539e0c.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

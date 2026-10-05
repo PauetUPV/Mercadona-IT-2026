@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 355,
+              "level": 2,
+              "name": "Cereales",
+              "order": 18
+            }
+          ],
+          "id": 78,
+          "level": 1,
+          "name": "Cereales",
+          "order": 18
+        }
+      ],
+      "id": 7,
+      "level": 0,
+      "name": "Cereales y galletas",
+      "order": 18
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Cereales rellenos de crema de cacao y avellana Hacendado sin gluten",
+    "legal_name": "Rellenos de crema de cacao con avellana",
+    "mandatory_mentions": "Elaborado con Harina de maíz y Harina de arroz. No contiene Gluten. Puede contener trazas de leche.",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en sitio seco y fresco. Una vez abierto el envase, cerrar después de cada uso.",
+    "suppliers": [
+      {
+        "name": "Harinas de Castilla la Mancha. S.L."
+      }
+    ],
+    "usage_instructions": "Ideal para desayunos."
+  },
+  "display_name": "Cereales rellenos de crema de cacao y avellana Hacendado sin gluten",
+  "ean": "8480000095473",
+  "extra_info": [
+    null
+  ],
+  "id": "9547",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>sh</strong>. Contiene <strong>frutos de cáscara</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Masa cobertura 60%: Harina de maíz (25,2%), harina de arroz (19,1%), azúcar, cacao en polvo (6%), sal y gasificante (carbonato ácido de sodio). Relleno crema de cacao (40%): azúcar, aceite de girasol, cacao en polvo desgrasado(4%), pasta de <strong>avellanas</strong> (1,6%), pasta de cacao (0,8%), aroma de <strong>avellanas</strong> y vainilla, emulgente (lecitina de girasol) y antioxidante (tocoferol). Puede contener trazas de <strong>leche</strong>."
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/59e8c16311be455d779e8aa3fb9ad9bd.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/59e8c16311be455d779e8aa3fb9ad9bd.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/59e8c16311be455d779e8aa3fb9ad9bd.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/e6290a2bea182cb500d072aab11b9a8a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e6290a2bea182cb500d072aab11b9a8a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e6290a2bea182cb500d072aab11b9a8a.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.63",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.625",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.25",
+    "unit_selector": true,
+    "unit_size": 0.4
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/9547/cereales-rellenos-crema-cacao-avellana-hacendado-sin-gluten-paquete",
+  "slug": "cereales-rellenos-crema-cacao-avellana-hacendado-sin-gluten-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/59e8c16311be455d779e8aa3fb9ad9bd.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

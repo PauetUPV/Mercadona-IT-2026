@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 839,
+              "level": 2,
+              "name": "Arroz",
+              "order": 597
+            }
+          ],
+          "id": 140,
+          "level": 1,
+          "name": "Platos preparados calientes",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Arroz de secreto ibérico con setas Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Plato preparado de arroz de ibéricos con setas refrigerado",
+    "mandatory_mentions": "Producto libre de OGM. Producto apto para todos los consumidores en general salvo alérgicos a alguno de sus ingredientes.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 0-4C",
+    "suppliers": [
+      {
+        "name": "Foodvac, S.L"
+      }
+    ],
+    "usage_instructions": "Micro: Perforar la tapa de la bandeja y calentar en microondas a máxima potencia (800W) durante 2 minutos, retirar del microondas, abrir la tapa y remover."
+  },
+  "display_name": "Arroz de secreto ibérico con setas Hacendado",
+  "ean": "8480000227676",
+  "extra_info": [
+    null
+  ],
+  "id": "22767",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>dióxido de azufre y sulfitos</strong>. Contiene <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Contiene <strong>frutos de cáscara</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>pescado y productos a base de pescado</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Contiene <strong>crustáceos y productos a base de crustáceos</strong>. Contiene <strong>moluscos y productos a base de moluscos</strong>. Contiene <strong>mostaza y productos derivados</strong>.",
+    "ingredients": "Caldo (Agua, setas en proporción variable (16,8%) (Agaricus bisporus (champiñón), Pleurotus ostreatus (seta ostra), Lentinula edodes (shiitake) y Pholiota nameko (nameko)),secreto de cerdo ibérico (16,3%) tomate frito (tomate, aceite de girasol, azúcar, almidón modificado de maíz, sal, cebolla y ajo), ajos tiernos, aceite de girasol, caldo de carne (sal, almidón de maíz, extracto de levadura, aceite de girasol, maltodextrina de tapioca, azúcar, extracto de carne (2,5%), cebolla, aromas naturales y especias), pimentón, boletus en polvo, harina de maíz, colorante: curcumina y sal), arroz (24,8%). Declaración alérgenos: Producido en una planta que emplea para sus productos, <strong>leche</strong>, <strong>huevo</strong>, <strong>frutos de cáscara</strong>, <strong>sulfitos</strong>, <strong>pescado</strong>, <strong>moluscos</strong>, <strong>gluten</strong>, <strong>crustáceos</strong>, <strong>mostaza</strong>, <strong>sésamo</strong> y <strong>soja</strong>."
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/94b4b695305d0769d0e0d21efb30636f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/94b4b695305d0769d0e0d21efb30636f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/94b4b695305d0769d0e0d21efb30636f.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/88ef3cbf90acfe166a2c0c004985ebd0.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/88ef3cbf90acfe166a2c0c004985ebd0.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/88ef3cbf90acfe166a2c0c004985ebd0.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "10.71",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "10.715",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.00",
+    "unit_selector": true,
+    "unit_size": 0.28
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/22767/arroz-secreto-iberico-con-setas-hacendado-bandeja",
+  "slug": "arroz-secreto-iberico-con-setas-hacendado-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/94b4b695305d0769d0e0d21efb30636f.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

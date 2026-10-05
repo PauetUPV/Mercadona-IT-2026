@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Pagani",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 446,
+              "level": 2,
+              "name": "Pasta rellena",
+              "order": 10
+            }
+          ],
+          "id": 120,
+          "level": 1,
+          "name": "Pasta y fideos",
+          "order": 10
+        }
+      ],
+      "id": 13,
+      "level": 0,
+      "name": "Arroz, legumbres y pasta",
+      "order": 10
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Pagani",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Tortellini tres quesos Pagani",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Pasta alimenticia al huevo rellena con queso",
+    "mandatory_mentions": "Origen de la sémola: UE y no UE",
+    "origin": "Italia",
+    "production_variant": "",
+    "storage_instructions": "Conservar en sitio fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Pagani Industrie Alimentari S.p.A."
+      },
+      {
+        "name": "Pagani Industrie Alimentari, S.P.A"
+      }
+    ],
+    "usage_instructions": "Verter los Tortellini en agua abundante ligeramente salada justo antes de que empiece a hervir (1,5 litros de agua por 100 g de producto). Cocer durante unos 14 minutos, removiendo de vez en cuando. Una vez cocidos en su punto, escurrir y servir con su salsa preferida."
+  },
+  "display_name": "Tortellini tres quesos Pagani",
+  "ean": "8005180060235",
+  "extra_info": [
+    null
+  ],
+  "id": "6566",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "Pasta (72%): sémola de <strong>trigo </strong>duro, <strong>huevos</strong> de gallinas criadas en el suelo (19,4% sobre la pasta). Relleno (28%): pan rallado (harina de <strong>trigo</strong> tierno, sal), mezcla de quesos (24,6% sobre el relleno) [queso fundido en polvo (20,5% sobre el relleno) (<strong>leche</strong>, suero de <strong>leche</strong>, sal, enzimas), Pecorino Romano DOP (2% sobre el relleno) (<strong>leche</strong> de oveja, sal, cuajo), Grana Padano DOP (2% sobre el relleno) (<strong>leche</strong>, sal, cuajo, lisozima de <strong>huevos</strong>)], margarina [grasa de coco, aceites vegetales (girasol, soja, nabina), agua], ricotta (8,2% sobre el relleno) (<strong>leche</strong>, suero de <strong>leche</strong>, sal), sal, aromas, especias. Puede contener trazas de <strong>soja</strong> y <strong>mostaza</strong>."
+  },
+  "origin": "Italia",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/a4efb6b5f38489bbe632b2ca70fcd63e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a4efb6b5f38489bbe632b2ca70fcd63e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a4efb6b5f38489bbe632b2ca70fcd63e.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/1c0442b8d1e1157da99a519e9d46767e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1c0442b8d1e1157da99a519e9d46767e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1c0442b8d1e1157da99a519e9d46767e.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.60",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.600",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.40",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/6566/tortellini-tres-quesos-pagani-paquete",
+  "slug": "tortellini-tres-quesos-pagani-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/a4efb6b5f38489bbe632b2ca70fcd63e.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

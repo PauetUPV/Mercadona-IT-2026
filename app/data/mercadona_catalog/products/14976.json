@@ -1,0 +1,127 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 280,
+              "level": 2,
+              "name": "Cerdo",
+              "order": 17
+            }
+          ],
+          "id": 37,
+          "level": 1,
+          "name": "Cerdo",
+          "order": 17
+        },
+        {
+          "categories": [
+            {
+              "id": 288,
+              "level": 2,
+              "name": "Empanados y elaborados",
+              "order": 17
+            }
+          ],
+          "id": 45,
+          "level": 1,
+          "name": "Empanados y elaborados",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Brochetas de cerdo adobadas con varilla",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Brocheta adobada",
+    "mandatory_mentions": "Envasado en atmosfera protectora.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 0C y 4ºC. Consumir en 48h una vez abierto.",
+    "suppliers": [
+      {
+        "name": "INDUSTRIAS CÁRNICAS TELLO, S.A."
+      }
+    ],
+    "usage_instructions": "Cocinar completamente. Sartén o plancha: Cocinar con poco aceite 1-2 min por lado a fuego medio-alto, hasta que estén bien hechos. Parrilla: Retirar el envase y cocinar hasta que estén bien hechos completamente. AirFryer:  Precalentar a 180C. Colocar sin amontonar. Cocinar 8-10 min. Girar a mitad de cocción."
+  },
+  "display_name": "Brochetas de cerdo adobadas con varilla",
+  "ean": "8402001041334",
+  "extra_info": [
+    ""
+  ],
+  "id": "14976",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": "adobadas con varilla",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Carne de cerdo (magro de cerdo (83%), agua, sal, proteína de cerdo, estabilizante (E407), pimentón, mezcla de especias, ajo, antioxidantes (E325, E301, E331), conservadores (E262i, E250), dextrosa y aromas), tocino de cerdo ibérico y pimiento. Sin gluten. Sin lactosa."
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/0bbff89f45ed41d5ae44d774b2b7be27.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0bbff89f45ed41d5ae44d774b2b7be27.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0bbff89f45ed41d5ae44d774b2b7be27.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/06589d1382f94acd57405859a99df50d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/06589d1382f94acd57405859a99df50d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/06589d1382f94acd57405859a99df50d.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "9.30",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "9.300",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.07",
+    "unit_selector": true,
+    "unit_size": 0.33
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/14976/brochetas-cerdo-adobadas-bandeja",
+  "slug": "brochetas-cerdo-adobadas-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/0bbff89f45ed41d5ae44d774b2b7be27.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": "2026-09-29T22:00:00+00:00",
+  "unavailable_weekdays": []
+}

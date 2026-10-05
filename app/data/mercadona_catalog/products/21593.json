@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Deliplus",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 626,
+              "level": 2,
+              "name": "Laca de uñas",
+              "order": 241
+            }
+          ],
+          "id": 194,
+          "level": 1,
+          "name": "Manicura y pedicura",
+          "order": 241
+        }
+      ],
+      "id": 20,
+      "level": 0,
+      "name": "Cuidado facial y corporal",
+      "order": 241
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Deliplus",
+    "counter_info": null,
+    "danger_mentions": null,
+    "description": "Laca de uñas alto brillo Deliplus 134 topo",
+    "legal_name": null,
+    "mandatory_mentions": null,
+    "origin": null,
+    "production_variant": null,
+    "storage_instructions": null,
+    "suppliers": [],
+    "usage_instructions": null
+  },
+  "display_name": "Laca de uñas alto brillo Deliplus 134 topo",
+  "ean": "8402001045080",
+  "extra_info": [
+    ""
+  ],
+  "id": "21593",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": null
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/f2360eeb1487de774c41023633f81d6a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f2360eeb1487de774c41023633f81d6a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f2360eeb1487de774c41023633f81d6a.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 11,
+      "regular": "https://prod-mercadona.imgix.net/images/4270a8bcb4bd863a6075daf528a8b80a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4270a8bcb4bd863a6075daf528a8b80a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4270a8bcb4bd863a6075daf528a8b80a.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/d0eabfb1082899e1cadf3dea8bc59ca5.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d0eabfb1082899e1cadf3dea8bc59ca5.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d0eabfb1082899e1cadf3dea8bc59ca5.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "2.500",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": 1,
+    "unit_name": "ud.",
+    "unit_price": "2.50",
+    "unit_selector": true,
+    "unit_size": 0.011
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/21593/laca-unas-alto-brillo-deliplus-134-topo",
+  "slug": "laca-unas-alto-brillo-deliplus-134-topo",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/f2360eeb1487de774c41023633f81d6a.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,112 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Royal",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 339,
+              "level": 2,
+              "name": "Levadura y preparado repostería",
+              "order": 515
+            }
+          ],
+          "id": 69,
+          "level": 1,
+          "name": "Harina y preparado repostería",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Royal",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Impulsor gasificante en polvo Royal uso alimentario",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Preparado en polvo con gasificantes para hornear. Uso alimentario.",
+    "mandatory_mentions": "Este producto debe cocinarse antes de ser consumido.",
+    "origin": "España",
+    "production_variant": "800000034246",
+    "storage_instructions": "Conservar en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Mondelez España Commercial, S.L."
+      }
+    ],
+    "usage_instructions": "10 g = 1 cucharada sopera rasa.El contenido de cada sobre es para 400 g de harina. Forma de uso: Mezcle uniformemente Royal con la harina antes de añadir el resto de los ingredientes. En tortillas, bata los huevos con Royal y luego agregue el complemento de su elección."
+  },
+  "display_name": "Impulsor gasificante en polvo Royal uso alimentario",
+  "ean": "7622210972910",
+  "extra_info": [
+    null
+  ],
+  "id": "29225",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "INGREDIENTES: Gasificantes (bicarbonato de sodio E-500 (ii), difosfato disódico E-450 (i)), harina de arroz, estabilizante (fosfato monocálcico E 341 (i))."
+  },
+  "origin": "España",
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/d3ce7684ef4eb5bee0b36e68a57f0d73.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d3ce7684ef4eb5bee0b36e68a57f0d73.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d3ce7684ef4eb5bee0b36e68a57f0d73.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/a43df1708e23f04848761160f40209a9.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a43df1708e23f04848761160f40209a9.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a43df1708e23f04848761160f40209a9.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "28.13",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "28.125",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 5,
+    "unit_name": "sobres",
+    "unit_price": "2.25",
+    "unit_selector": true,
+    "unit_size": 0.08
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/29225/impulsor-gasificante-polvo-royal-uso-alimentario-caja",
+  "slug": "impulsor-gasificante-polvo-royal-uso-alimentario-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/d3ce7684ef4eb5bee0b36e68a57f0d73.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

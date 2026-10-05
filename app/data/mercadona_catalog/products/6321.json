@@ -1,0 +1,125 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 444,
+              "level": 2,
+              "name": "Spaghetti y tallarines",
+              "order": 10
+            }
+          ],
+          "id": 120,
+          "level": 1,
+          "name": "Pasta y fideos",
+          "order": 10
+        }
+      ],
+      "id": 13,
+      "level": 0,
+      "name": "Arroz, legumbres y pasta",
+      "order": 10
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Nidos al huevo Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Nidos al huevo. PASTA ALIMENTICIA COMPUESTA AL HUEVO.",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "CEREALIS PASTA S.L.U."
+      },
+      {
+        "name": "CEREALTO FOODS CORPORATE S.L.U."
+      },
+      {
+        "name": "CEREALTO SIRO FOODS S.L."
+      },
+      {
+        "name": "La Familia: En SIRO Venta de Baños, S.A."
+      },
+      {
+        "name": "SIRO 1920. CEREALTO SIRO FOODS, S.L."
+      }
+    ],
+    "usage_instructions": "6 - 9 min"
+  },
+  "display_name": "Nidos al huevo Hacendado",
+  "ean": "8480000063212",
+  "extra_info": [
+    ""
+  ],
+  "id": "6321",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "Sémola de <strong>trigo</strong> duro (<strong>gluten</strong>), <strong>huevo</strong> (13%). <strong>Puede contener trazas de soja y mostaza.</strong> 3 <strong>huevos</strong> por Kg de sémola."
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/8064cce95f23cceacd05a6fbec87ecb3.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8064cce95f23cceacd05a6fbec87ecb3.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8064cce95f23cceacd05a6fbec87ecb3.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/03cca585c23fee6ac8cbfbcf3f2f4e82.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/03cca585c23fee6ac8cbfbcf3f2f4e82.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/03cca585c23fee6ac8cbfbcf3f2f4e82.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.90",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "2.900",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.45",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/6321/nidos-huevo-hacendado-paquete",
+  "slug": "nidos-huevo-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/8064cce95f23cceacd05a6fbec87ecb3.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

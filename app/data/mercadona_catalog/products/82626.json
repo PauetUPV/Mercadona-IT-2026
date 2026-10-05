@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Bachman",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 323,
+              "level": 2,
+              "name": "Crakers y tartaletas",
+              "order": 515
+            }
+          ],
+          "id": 62,
+          "level": 1,
+          "name": "Pan tostado y rallado",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Bachman",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Crackers integrales de espelta Bachman",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Espelta Crackers",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco",
+    "suppliers": [
+      {
+        "name": "Bachman"
+      },
+      {
+        "name": "Bachman Bakeries Holland b.v."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Crackers integrales de espelta Bachman",
+  "ean": "8710482532303",
+  "extra_info": [
+    null
+  ],
+  "id": "82626",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>gb</strong>. Contiene <strong>cereales que contengan gluten</strong>. Puede contener <strong>granos de sésamo y productos a base de granos de sésamo</strong>.",
+    "ingredients": "83% Espelta (<strong>trigo</strong>) (67% harina integral, harina, copos), fibras vegetales (oligofructosa), aceite refinado de girasol, 5,2% linaza, 4,3% pipas de girasol, extracto de malta de <strong>cebada</strong>, 2,3% pipas de calabaza, sal, levadura. Puede contener otros cereales que contienen <strong>gluten</strong> y semillas de <strong>sésamo</strong>."
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/6de7ba28de627f11939368aae2f75e84.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/6de7ba28de627f11939368aae2f75e84.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/6de7ba28de627f11939368aae2f75e84.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/7cbfbfa3649d29c3e1b8ee78a4e57c66.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7cbfbfa3649d29c3e1b8ee78a4e57c66.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7cbfbfa3649d29c3e1b8ee78a4e57c66.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.88",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 4,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.875",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 4,
+    "unit_name": "paquetes",
+    "unit_price": "1.65",
+    "unit_selector": true,
+    "unit_size": 0.24
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/82626/crackers-integrales-espelta-bachman-caja",
+  "slug": "crackers-integrales-espelta-bachman-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/6de7ba28de627f11939368aae2f75e84.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

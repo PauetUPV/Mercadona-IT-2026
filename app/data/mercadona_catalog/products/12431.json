@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Royal Mints",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 382,
+              "level": 2,
+              "name": "Chocolate negro",
+              "order": 11
+            }
+          ],
+          "id": 92,
+          "level": 1,
+          "name": "Chocolate",
+          "order": 11
+        }
+      ],
+      "id": 9,
+      "level": 0,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Royal Mints",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Chocolatinas de chocolate negro Royal Mints 49% rellenas de crema sabor a menta",
+    "legal_name": "Relleno de menta (49%) cubierto con chocolate negro (51%)",
+    "mandatory_mentions": "",
+    "origin": "Alemania",
+    "production_variant": "",
+    "storage_instructions": "Conservar en un lugar fresco y seco (15°C-20°C).",
+    "suppliers": [
+      {
+        "name": "Cotrading, S.L."
+      },
+      {
+        "name": "Halloren Schokoladenfabrik AG"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Chocolatinas de chocolate negro Royal Mints 49% rellenas de crema sabor a menta",
+  "ean": "4019400440657",
+  "extra_info": [
+    null
+  ],
+  "id": "12431",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>sw</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>cereales que contengan gluten</strong>. Puede contener <strong>cacahuetes y productos a base de cacahuetes</strong>. Puede contener <strong>frutos de cáscara</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "Azúcar, pasta de cacao, jarabe de glucosa, manteca de cacao, humectante: invertasa; emulsionante: lecitina de girasol; aceite de menta, gelificante: agar; ácido: ácido cítrico; sal. Puede contener: cacahuetes, nueces, hue<strong>vos, soja, leche </strong>y <strong>gluten.</strong><strong></strong></strong><strong></strong><strong><strong></strong>"
+  },
+  "origin": "Alemania",
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/388d58b7f7976656eaf9ec945411b92e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/388d58b7f7976656eaf9ec945411b92e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/388d58b7f7976656eaf9ec945411b92e.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/9e0d992ee02f9f1d977c7bfa38189488.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9e0d992ee02f9f1d977c7bfa38189488.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9e0d992ee02f9f1d977c7bfa38189488.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "12.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "12.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.40",
+    "unit_selector": true,
+    "unit_size": 0.2
+  },
+  "product_information": null,
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/12431/chocolatinas-chocolate-negro-royal-mints-49-rellenas-crema-sabor-menta-caja",
+  "slug": "chocolatinas-chocolate-negro-royal-mints-49-rellenas-crema-sabor-menta-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/388d58b7f7976656eaf9ec945411b92e.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,112 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Nocilla",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 388,
+              "level": 2,
+              "name": "Cremas de untar",
+              "order": 11
+            }
+          ],
+          "id": 92,
+          "level": 1,
+          "name": "Chocolate",
+          "order": 11
+        }
+      ],
+      "id": 9,
+      "level": 0,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Nocilla",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Crema al cacao con avellanas Nocilla original",
+    "legal_name": "Crema al cacao con avellanas",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Mantener fuera del frigorífico, en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "IDILIA FOODS, S.L."
+      },
+      {
+        "name": "IDILIA FOODS, S.L.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Crema al cacao con avellanas Nocilla original",
+  "ean": "8410014477743",
+  "extra_info": [
+    null
+  ],
+  "id": "67163",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>sh</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>frutos de cáscara</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "azúcar, aceite de girasol alto oleico, cacao desgrasado en polvo (8,5%), manteca de cacao,<strong> leche</strong> desnatada en polvo,<strong> avellanas</strong> (3,7%), suero de<strong> leche</strong> en polvo, emulgente (lecitina de<strong> soja</strong>), aroma. Puede contener <strong> otros frutos de cáscara</strong>."
+  },
+  "origin": "España",
+  "packaging": "Tarro",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/1a1bbb36e72094d913747b2d7b6bd1c4.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1a1bbb36e72094d913747b2d7b6bd1c4.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1a1bbb36e72094d913747b2d7b6bd1c4.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/3738cc312ebf662d10571e70bd489198.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3738cc312ebf662d10571e70bd489198.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3738cc312ebf662d10571e70bd489198.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "11.11",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "11.112",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "4.00",
+    "unit_selector": true,
+    "unit_size": 0.36
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/67163/crema-cacao-con-avellanas-nocilla-original-tarro",
+  "slug": "crema-cacao-con-avellanas-nocilla-original-tarro",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/1a1bbb36e72094d913747b2d7b6bd1c4.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 510,
+              "level": 2,
+              "name": "Pasta",
+              "order": 213
+            }
+          ],
+          "id": 147,
+          "level": 1,
+          "name": "Arroz y pasta",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pasta con pollo al pesto Hacendado ultracongelada",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "PASTA POLLO AL PESTO",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "Congelados de Navarra, S.A.U"
+      }
+    ],
+    "usage_instructions": "MICROONDAS: Poner la bolsa sin descongelar sobre un plato. Orientar la bolsa hacia arriba. No perforar. 4 min a máxima potencia (900W). Cuidado al sacar del microondas. Producto muy caliente. Dejar reposar 1 minuto, echar en un plato y remover. SARTÉN: Remover de vez en cuando. 7-8 min. AIRFRYER: Sobre un papel de horno o recipiente apto. Remover a mitad del cocinado. 9-11 min."
+  },
+  "display_name": "Pasta con pollo al pesto Hacendado ultracongelada",
+  "ean": "8435434311705",
+  "extra_info": [
+    ""
+  ],
+  "id": "61362",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "ultracongelada",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "Pasta alimenticia 52% (agua, sémola de <strong>trigo</strong> duro (<strong>gluten</strong>)), salsa pesto 18% [agua, albahaca, <strong>queso</strong> (<strong>leche</strong>) rallado italiano (<strong>leche</strong>, sal, coagulante microbiano), aceite de oliva virgen extra, sal, almidón modificado, ajo, aroma natural], pechuga de pollo asada 13% (pechuga de pollo, sal, dextrosa), <strong>queso</strong> (<strong>leche</strong>) mozzarella (<strong>leche</strong>  pasteurizada de vaca, sal, cuajo, fermentos lácticos (<strong>leche</strong>)), tomate marinado semiseco (tomate, aceite de girasol, sal, ajo, orégabo). *Puede contener <strong>huevo</strong>, <strong>soja</strong> y <strong>mostaza.</strong>"
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/31eef31dca31ac4c3f3f39e849ecd934.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/31eef31dca31ac4c3f3f39e849ecd934.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/31eef31dca31ac4c3f3f39e849ecd934.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/305dd8d189b738fe8e73a8ceeddcf274.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/305dd8d189b738fe8e73a8ceeddcf274.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/305dd8d189b738fe8e73a8ceeddcf274.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "8.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "8.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.40",
+    "unit_selector": true,
+    "unit_size": 0.3
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/61362/pasta-con-pollo-pesto-hacendado-ultracongelada-paquete",
+  "slug": "pasta-con-pollo-pesto-hacendado-ultracongelada-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/31eef31dca31ac4c3f3f39e849ecd934.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

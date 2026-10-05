@@ -1,0 +1,119 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 321,
+              "level": 2,
+              "name": "Pan de hamburguesa y wrap",
+              "order": 515
+            }
+          ],
+          "id": 60,
+          "level": 1,
+          "name": "Pan de molde y otras especialidades",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pan hot dog Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "PAN ESPECIAL DE TRIGO",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Mantener en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "HORNO DE PATERNA 2020 S.A.U"
+      },
+      {
+        "name": "SIRO PATERNA, SA."
+      },
+      {
+        "name": "SIRO PATERNA, SA. La familia"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Pan hot dog Hacendado",
+  "ean": "8480000823328",
+  "extra_info": [
+    ""
+  ],
+  "id": "82332",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>cereales que contengan gluten</strong>. Puede contener <strong>trigo y productos derivados</strong>. Contiene <strong>trigo y productos derivados</strong>.",
+    "ingredients": "Harina de <strong>trigo </strong>(<strong>gluten</strong>), agua, levadura, azúcar, aceite refinado de girasol (2%), sal, fibra de <strong>trigo </strong>(<strong>gluten</strong>), vinagre de vino, harina de habas, emulgentes (E-472e, E-471), antioxidante (E-300), conservadores (E-282, E-202).<strong> Trazas de semillas de sésamo y soja. ***** / / / / / A PARTIR DEL LOTE L080005031200 Y FCP 18-01-20 HAY UN CAMBIO DE ETIQUETADO / / / / / ***** </strong>Harina de <strong>trigo </strong>(<strong>gluten</strong>), agua, levadura, azúcar, aceite de girasol (2%), sal, fibra de <strong>trigo </strong>(<strong>gluten</strong>), vinagre de vino, harina de habas,<strong>gluten </strong>de <strong>trigo</strong>, emulgentes (E-472e, E-471), conservadores (E-282, E-202).<strong> Puede contener trazas de semillas de sésamo y soja.</strong>"
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/1a4384796c10baa72355deb00039cbd4.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1a4384796c10baa72355deb00039cbd4.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1a4384796c10baa72355deb00039cbd4.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/556c7730b6d08ce10f60d504f6f8427c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/556c7730b6d08ce10f60d504f6f8427c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/556c7730b6d08ce10f60d504f6f8427c.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.73",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "2.728",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 6,
+    "unit_name": "ud.",
+    "unit_price": "0.90",
+    "unit_selector": true,
+    "unit_size": 0.33
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/82332/pan-hot-dog-hacendado-paquete",
+  "slug": "pan-hot-dog-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/1a4384796c10baa72355deb00039cbd4.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

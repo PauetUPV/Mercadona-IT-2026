@@ -1,0 +1,130 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 280,
+              "level": 2,
+              "name": "Cerdo",
+              "order": 17
+            }
+          ],
+          "id": 37,
+          "level": 1,
+          "name": "Cerdo",
+          "order": 17
+        },
+        {
+          "categories": [
+            {
+              "id": 288,
+              "level": 2,
+              "name": "Empanados y elaborados",
+              "order": 17
+            }
+          ],
+          "id": 45,
+          "level": 1,
+          "name": "Empanados y elaborados",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Costillas de cerdo marinadas Smoke Honey",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "COSTILLA SMOKE HONEY",
+    "mandatory_mentions": "Información nutricional: Valores medios por 100 g Valor energético 650 kJ/156 kcal. Grasas 9,4 g de las cuales saturadas 3,7 g. Hidratos de carbono 0,9 g de los cuales azúcares 0,9 g. Proteínas 17 g. Sal 1,7 g.",
+    "origin": null,
+    "production_variant": "Formato peso variable. Peso medio neto aproximado: 1,0 kg.",
+    "storage_instructions": "Conservar de 0º a 5º C.",
+    "suppliers": [
+      {
+        "name": "Frescos y Elaborados Delisano SAU"
+      },
+      {
+        "name": "INCARLOPSA"
+      }
+    ],
+    "usage_instructions": "Una vez abierto consumir en 48h. Cocinar completamente antes de su consumo."
+  },
+  "display_name": "Costillas de cerdo marinadas Smoke Honey",
+  "ean": "8421384162184",
+  "extra_info": [
+    ""
+  ],
+  "id": "17458",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": "Smoke Honey",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Costilla de cerdo (90%), agua, azúcar, sal,  especias, maltodextrina ahumada, cebolla deshidratada, miel en polvo, ajo  deshidratado, pimiento rojo deshidratado, perejil, conservadores (E-325 y  E-262), antioxidantes (E-331 y E-301), dextrosa y aromas naturales."
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/45115582466db86abe80236f9e3b98a0.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/45115582466db86abe80236f9e3b98a0.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/45115582466db86abe80236f9e3b98a0.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/283370535c921f58d78896313f449e2a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/283370535c921f58d78896313f449e2a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/283370535c921f58d78896313f449e2a.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "6.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "5.85",
+    "unit_selector": true,
+    "unit_size": 0.9
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/17458/costillas-cerdo-marinadas-smoke-honey-bandeja",
+  "slug": "costillas-cerdo-marinadas-smoke-honey-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/45115582466db86abe80236f9e3b98a0.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": "2026-08-29T22:00:00+00:00",
+  "unavailable_weekdays": []
+}

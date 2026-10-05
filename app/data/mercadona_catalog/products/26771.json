@@ -1,0 +1,109 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 268,
+              "level": 2,
+              "name": "Otras verduras y hortalizas",
+              "order": 306
+            }
+          ],
+          "id": 29,
+          "level": 1,
+          "name": "Verdura",
+          "order": 306
+        }
+      ],
+      "id": 1,
+      "level": 0,
+      "name": "Fruta y verdura",
+      "order": 306
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Sopa de verduras cortada y lavada compuesta por zanahoria, calabaza, calabacín, cebolla, puerro y apio",
+    "legal_name": "Hortalizas lavadas y cortadas, listas para  cocinar.",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Para apreciar mejor sus cualidades se recomienda consumirlo todo una vez abierto el envase. Conservar entre 1ºC y 4ºC.",
+    "suppliers": [
+      {
+        "name": "Verdifresh, S.L.U."
+      }
+    ],
+    "usage_instructions": "En olla: Cocer aproximadamente 20 minutos las verduras en un litro de agua. Puede sustituirse parte del agua por caldo de verduras o carne. Para enriquecer la sopa: Sofreír las verduras antes de incorporar el agua o caldo. Triturar dos cazos de la sopa ya cocinada y añadirla a la misma para espesar el caldo.En sartén: Añadir las verduras a una sartén con un poco de aceite, sazonar al gusto. Saltear tapadas durante unos minutos."
+  },
+  "display_name": "Sopa de verduras cortada y lavada",
+  "ean": "8480000267719",
+  "extra_info": [
+    ""
+  ],
+  "id": "26771",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>apio y productos derivados</strong>.",
+    "ingredients": "Zanahoria, calabaza, calabacín, cebolla, puerro y <strong>apio</strong> en proporción variable."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/de510618d6e021f9b57a5799140f2b0e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/de510618d6e021f9b57a5799140f2b0e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/de510618d6e021f9b57a5799140f2b0e.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/ff5977ab3f06eba01d24bbcd48e94aad.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ff5977ab3f06eba01d24bbcd48e94aad.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ff5977ab3f06eba01d24bbcd48e94aad.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.75",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.750",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.30",
+    "unit_selector": true,
+    "unit_size": 0.4
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/26771/sopa-verduras-compuesta-zanahoria-calabaza-calabacin-cebolla-puerro-apio-paquete",
+  "slug": "sopa-verduras-compuesta-zanahoria-calabaza-calabacin-cebolla-puerro-apio-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/de510618d6e021f9b57a5799140f2b0e.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": "2026-04-30T22:00:00+00:00",
+  "unavailable_weekdays": []
+}

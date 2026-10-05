@@ -1,0 +1,135 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 513,
+              "level": 2,
+              "name": "Pescado",
+              "order": 213
+            }
+          ],
+          "id": 149,
+          "level": 1,
+          "name": "Pescado",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 274,
+              "level": 2,
+              "name": "Pescado congelado",
+              "order": 442
+            }
+          ],
+          "id": 34,
+          "level": 1,
+          "name": "Pescado congelado",
+          "order": 442
+        }
+      ],
+      "id": 2,
+      "level": 0,
+      "name": "Marisco y pescado",
+      "order": 442
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Lomos y centros de merluza del Cabo Hacendado ultracongelados",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Merluccius capensis / paradoxus.",
+    "mandatory_mentions": "",
+    "origin": "Namibia",
+    "production_variant": "Lomos y centros; piezas obtenidas de las partes superior y central del vientre de la merluza. Este envase puede contener lomos y centros o solo lomos.",
+    "storage_instructions": "Ultracongelado.Conservar a temperatura igual o inferior a -18ºC ( ver fecha de consumo preferente en el envase). Para no alterar la calidad de este producto, no volver a congelar una vez descongelado.",
+    "suppliers": [
+      {
+        "name": "Mascato, S.A."
+      }
+    ],
+    "usage_instructions": "MODO DE DESCONGELACION:Retirar el producto del envase y dejar descongelar en el frigorifico sobre una rejilla durante 12-24 horas.Una vez descongelado conservar en refrigeracion y consumir antes de  24 horas."
+  },
+  "display_name": "Lomos y centros de merluza del Cabo Hacendado ultracongelados",
+  "ean": "8435035300566",
+  "extra_info": [
+    ""
+  ],
+  "id": "62113",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "ultracongelados",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>pescado y productos a base de pescado</strong>.",
+    "ingredients": "<strong>Pescado</strong>."
+  },
+  "origin": "Namibia",
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/9f123401c254bda557489bd5ae173584.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9f123401c254bda557489bd5ae173584.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9f123401c254bda557489bd5ae173584.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/3c5138bb1653691b84b338e76207e381.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3c5138bb1653691b84b338e76207e381.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3c5138bb1653691b84b338e76207e381.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "12.25",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "12.250",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "4.90",
+    "unit_selector": true,
+    "unit_size": 0.4
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/62113/lomos-centros-merluza-cabo-hacendado-ultracongelados-caja",
+  "slug": "lomos-centros-merluza-cabo-hacendado-ultracongelados-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/9f123401c254bda557489bd5ae173584.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

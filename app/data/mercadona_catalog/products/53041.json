@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "La Selva",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 304,
+              "level": 2,
+              "name": "Salchichas",
+              "order": 159
+            }
+          ],
+          "id": 52,
+          "level": 1,
+          "name": "Bacón y salchichas",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "La Selva",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Salchichas cocidas Frankfurt La Selva",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "SALCHICHAS FRANKFURT",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco. Una vez abierto conservar en el frigorífico.",
+    "suppliers": [
+      {
+        "name": "Joaquim Albertí, S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Salchichas cocidas Frankfurt La Selva",
+  "ean": "8410973077008",
+  "extra_info": [
+    null
+  ],
+  "id": "53041",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Carne de cerdo (68%), agua, proteína de cerdo, sal, dextrosa, especias, estabilizantes (E451, E452), conservadores (E262, E250), espesante (E466), antioxidantes (E300, E301, E316), potenciador del sabor (E621), azúcar, proteína vegetal, extractos de especias.  Ahumado con madera de haya. Cobertura: Agua, sal. Puede contener trazas de <strong>soja</strong> y <strong>leche</strong>."
+  },
+  "origin": "España",
+  "packaging": "Tarro",
+  "photos": [
+    {
+      "perspective": 3,
+      "regular": "https://prod-mercadona.imgix.net/images/d56e302573078dd6ae6af008a0fbf549.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d56e302573078dd6ae6af008a0fbf549.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d56e302573078dd6ae6af008a0fbf549.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/cd599b3e8a6a8d8bd45cb1a99938b5fc.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/cd599b3e8a6a8d8bd45cb1a99938b5fc.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/cd599b3e8a6a8d8bd45cb1a99938b5fc.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.22",
+    "bunch_selector": false,
+    "drained_weight": 0.28,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "8.572",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.40",
+    "unit_selector": true,
+    "unit_size": 0.46
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/53041/salchichas-cocidas-frankfurt-selva-tarro",
+  "slug": "salchichas-cocidas-frankfurt-selva-tarro",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/d56e302573078dd6ae6af008a0fbf549.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

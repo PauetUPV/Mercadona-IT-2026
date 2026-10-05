@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 361,
+              "level": 2,
+              "name": "Galletas integrales y digestive",
+              "order": 18
+            }
+          ],
+          "id": 80,
+          "level": 1,
+          "name": "Galletas",
+          "order": 18
+        }
+      ],
+      "id": 7,
+      "level": 0,
+      "name": "Cereales y galletas",
+      "order": 18
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Galletas con avena y semillas Hacendado",
+    "legal_name": "Galleta con avena",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Almacenar en lugar fresco y seco. Proteger de los rayos solares. Una vez abierto, mantener en las mismas condiciones y cerrar después de cada uso.",
+    "suppliers": [
+      {
+        "name": "GALLETAS GULLON, S.A"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Galletas con avena y semillas Hacendado",
+  "ean": "8402001041303",
+  "extra_info": [
+    ""
+  ],
+  "id": "15289",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>gb</strong>. Contiene <strong>go</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Copos de <strong>avena</strong>, harina de <strong>trigo</strong>, arroz inflado (harina de arroz, harina de <strong>trigo</strong>, sal), azúcar, aceite vegetal (girasol alto oleico) 13%, copos de maíz (maíz, sal, azúcar, jarabe de malta de <strong>cebada</strong>), oligofructosa, almidón de <strong>trigo</strong>, semillas de lino, semillas de chía (Salvia hispanica), gelificante (goma arábiga), gasificantes (carbonato ácido de potasio, carbonato ácido de amonio), sal, emulgente (lecitina de <strong>soja</strong>), aroma, aroma natural, suero de <strong>leche</strong> en polvo. <strong>Puede contener trazas de frutos de cáscara y mostaza</strong>."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/d71530c668d647f561d644fcd4329d8e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d71530c668d647f561d644fcd4329d8e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d71530c668d647f561d644fcd4329d8e.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/919f2d172e509bbc719050149b237603.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/919f2d172e509bbc719050149b237603.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/919f2d172e509bbc719050149b237603.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.25",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.250",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.25",
+    "unit_selector": true,
+    "unit_size": 0.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/15289/galletas-avena-semillas-hacendado-paquete",
+  "slug": "galletas-avena-semillas-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/d71530c668d647f561d644fcd4329d8e.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

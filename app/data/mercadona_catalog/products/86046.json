@@ -1,0 +1,122 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Amstel",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 550,
+              "level": 2,
+              "name": "Cerveza botella y botellín",
+              "order": 15
+            }
+          ],
+          "id": 164,
+          "level": 1,
+          "name": "Cerveza",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": "5.0º",
+    "brand": "Amstel",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Cerveza Amstel",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Cerveza",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Condiciones de conservación: Conservar el producto en un lugar limpio, seco y bien ventilado, protegido de la lluvia y alejado de otros productos, alimenticios o no, que puedan impartirle olores o sabores extraños. Almacenar preferiblemente entre 5 y 15C, evitando temperaturas superiores a 25C. Evitar exposiciones directas a la luz del sol o fuentes de calor. No congelar el producto. Español",
+    "suppliers": [
+      {
+        "name": "Heineken España S.A."
+      },
+      {
+        "name": "Heineken España SA"
+      }
+    ],
+    "usage_instructions": "El producto deberá servirse entre 0 y 3C para obtener sus máximas cualidades organolépticas. Ver fecha de consumo preferente en envase. Utilizar un abridor adecuado para evitar roturas en la botella. Para lata, usar anilla sin cambiar de posición ni girarla. No ingerir si detecta que se ha violado el cierre."
+  },
+  "display_name": "Cerveza Amstel",
+  "ean": "8410569037553",
+  "extra_info": [
+    null
+  ],
+  "id": "86046",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>gb</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Agua, malta de <strong>cebada</strong>, lúpulo y extracto de lúpulo. Este producto se elabora con malta de <strong>cebada</strong>. Contiene <strong>gluten.</strong>"
+  },
+  "origin": "España",
+  "packaging": "Pack-6",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/80e037afda630a32db8bc2ea964376b3.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/80e037afda630a32db8bc2ea964376b3.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/80e037afda630a32db8bc2ea964376b3.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/e63c085287f0d0daa843f84eb307fea1.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e63c085287f0d0daa843f84eb307fea1.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e63c085287f0d0daa843f84eb307fea1.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/03989dfe63dee8a51de546a34976c127.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/03989dfe63dee8a51de546a34976c127.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/03989dfe63dee8a51de546a34976c127.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.29",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 1.0,
+    "previous_unit_price": "        9.54",
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "1.290",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": 6,
+    "unit_name": "botellas",
+    "unit_price": "7.74",
+    "unit_selector": true,
+    "unit_size": 6.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/86046/cerveza-amstel-pack-6",
+  "slug": "cerveza-amstel-pack-6",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/80e037afda630a32db8bc2ea964376b3.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

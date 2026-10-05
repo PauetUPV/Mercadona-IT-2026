@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 475,
+              "level": 2,
+              "name": "Snacks",
+              "order": 9
+            }
+          ],
+          "id": 132,
+          "level": 1,
+          "name": "Patatas fritas y snacks",
+          "order": 9
+        }
+      ],
+      "id": 15,
+      "level": 0,
+      "name": "Aperitivos",
+      "order": 9
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Cuquitos sabor queso Hacendado",
+    "legal_name": "Producto de aperitivo frito con sabor a queso",
+    "mandatory_mentions": "Gluten free",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conseérvese en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Leng d'Or, S.A.U"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Cuquitos sabor queso Hacendado",
+  "ean": "8480000336422",
+  "extra_info": [
+    null
+  ],
+  "id": "33642",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Harina de máiz, aceite de girasol, preparado con sabor a queso (suero de <strong>leche</strong> en polvo, sal, potenciadores del sabor (E621, E627), <strong>queso</strong> en polvo, azúcar, glucosa, maltodextrina, colorantes (E160b, E160c), aromas)"
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/7d5bd85b7c34dbcda6a39c50a92308d2.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7d5bd85b7c34dbcda6a39c50a92308d2.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7d5bd85b7c34dbcda6a39c50a92308d2.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/3619091e6557143858d863ad02003bb1.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3619091e6557143858d863ad02003bb1.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3619091e6557143858d863ad02003bb1.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "8.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "8.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.85",
+    "unit_selector": true,
+    "unit_size": 0.1
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/33642/cuquitos-sabor-queso-hacendado-paquete",
+  "slug": "cuquitos-sabor-queso-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/7d5bd85b7c34dbcda6a39c50a92308d2.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,112 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 397,
+              "level": 2,
+              "name": "Piña",
+              "order": 793
+            }
+          ],
+          "id": 100,
+          "level": 1,
+          "name": "Melocotón y piña",
+          "order": 793
+        }
+      ],
+      "id": 10,
+      "level": 0,
+      "name": "Zumos",
+      "order": 793
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Bebida de piña Hacendado sin azúcares añadidos",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Néctar de piña a partir de concentrado. Con edulcorantes. Contenido de fruta:mínimo 50%",
+    "mandatory_mentions": "Sin gluten.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en sitio fresco protegido de la luz solar. Una vez abierto, mantener refrigerado y consumir antes de transcurridos 4 días.",
+    "suppliers": [
+      {
+        "name": "J.G.C.,S.A."
+      }
+    ],
+    "usage_instructions": "Agitar antes de servir."
+  },
+  "display_name": "Bebida de piña Hacendado sin azúcares añadidos",
+  "ean": "8480000391193",
+  "extra_info": [
+    null
+  ],
+  "id": "39119",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Zumo de piña a partir de concentrado (50%), agua, acidulante (ácido cítrico), estabilizante (pectina), edulcorantes (sucralosa y acesulfamo K), vitaminas A, C y E y aromas."
+  },
+  "origin": null,
+  "packaging": "Brik",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/33ca00ae12574c8e7b9833ddade5c1f8.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/33ca00ae12574c8e7b9833ddade5c1f8.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/33ca00ae12574c8e7b9833ddade5c1f8.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/027c90ba3a0e88b5e6c5b12d5c4e2a6e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/027c90ba3a0e88b5e6c5b12d5c4e2a6e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/027c90ba3a0e88b5e6c5b12d5c4e2a6e.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "0.95",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "0.950",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.95",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/39119/bebida-pina-hacendado-sin-azucares-anadidos-brick",
+  "slug": "bebida-pina-hacendado-sin-azucares-anadidos-brick",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/33ca00ae12574c8e7b9833ddade5c1f8.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

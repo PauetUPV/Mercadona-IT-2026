@@ -1,0 +1,114 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 471,
+              "level": 2,
+              "name": "Sopa",
+              "order": 215
+            }
+          ],
+          "id": 129,
+          "level": 1,
+          "name": "Sopa y caldo",
+          "order": 215
+        }
+      ],
+      "id": 14,
+      "level": 0,
+      "name": "Conservas, caldos y cremas",
+      "order": 215
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Sopa de cebolla Hacendado",
+    "legal_name": "Sopa deshidratada de cebolla",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Fabricado por: INTERAL, S.A."
+      },
+      {
+        "name": "INTERAL, S.A"
+      }
+    ],
+    "usage_instructions": "Vierta el contenido de este sobre en un litro de agua caliente (sin que llegue a hervir) y lleve a ebullición removiendo al mismo tiempo. Cocer a fuego lento removiendo de vez en cuando."
+  },
+  "display_name": "Sopa de cebolla Hacendado",
+  "ean": "8402001017902",
+  "extra_info": [
+    null
+  ],
+  "id": "60595",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>trigo y productos derivados</strong>. Puede contener <strong>cereales que contengan gluten</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>. Puede contener <strong>pescado y productos a base de pescado</strong>. Puede contener <strong>apio y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>huevos y productos a base de huevo</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Cebolla (45%), sal, almidón, potenciador del sabor: glutamato monosódico, grasa vegetal de palma, aromas naturales, extracto de levadura, antioxidante: extractos de romero, zanahoria. Puede contener trazas de <strong>gluten</strong>, <strong>leche</strong>, <strong>huevo</strong>, <strong>soja</strong>, <strong>apio</strong>, <strong>pescado</strong> y <strong>crustáceos</strong>."
+  },
+  "origin": null,
+  "packaging": "Sobre",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/3710c6b818e96b68ab0385ca35d8627a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3710c6b818e96b68ab0385ca35d8627a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3710c6b818e96b68ab0385ca35d8627a.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/5639e2b3312ac05c7d3aedeb6f6f60d4.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5639e2b3312ac05c7d3aedeb6f6f60d4.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5639e2b3312ac05c7d3aedeb6f6f60d4.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "15.12",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "100 g",
+    "reference_price": "1.512",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.65",
+    "unit_selector": true,
+    "unit_size": 0.043
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/60595/sopa-cebolla-hacendado",
+  "slug": "sopa-cebolla-hacendado",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/3710c6b818e96b68ab0385ca35d8627a.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

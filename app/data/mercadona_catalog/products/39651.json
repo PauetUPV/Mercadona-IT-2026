@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 403,
+              "level": 2,
+              "name": "Fruta variada y otros sabores",
+              "order": 793
+            }
+          ],
+          "id": 99,
+          "level": 1,
+          "name": "Fruta variada",
+          "order": 793
+        }
+      ],
+      "id": 10,
+      "level": 0,
+      "name": "Zumos",
+      "order": 793
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Bebida multivitaminas Hacendado sin azúcares añadidos",
+    "legal_name": "Bebida de zumo de frutas parcialmente a partir de concentrado. Con edulcorantes. Con vitaminas A, C y E. Contenido de fruta: mínimo 50%",
+    "mandatory_mentions": "Sin gluten.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en sitio fresco protegido de la luz solar. Una vez abierto, mantener refrigerado y consumir antes de transcurridos 4 días.",
+    "suppliers": [
+      {
+        "name": "J.G.C.,S.A."
+      }
+    ],
+    "usage_instructions": "Agitar antes de servir."
+  },
+  "display_name": "Bebida multivitaminas Hacendado sin azúcares añadidos",
+  "ean": "8480000396518",
+  "extra_info": [
+    null
+  ],
+  "id": "39651",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Zumos y puré de frutas a partir de concentrado 50% (zumos de mandarina y naranja en proporciones variables, puré de zanahoria y zumo de limón), agua, acidulante (ácido cítrico), edulcorantes (ciclamatos y sacarinas), vitmainas C, E y provitamina A y aromas."
+  },
+  "origin": null,
+  "packaging": "Brik",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/c0aec617c3d9db1cc8ec8f99554338e6.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c0aec617c3d9db1cc8ec8f99554338e6.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c0aec617c3d9db1cc8ec8f99554338e6.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/ecfe3d30c811e61dbc93472ae5491cac.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ecfe3d30c811e61dbc93472ae5491cac.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ecfe3d30c811e61dbc93472ae5491cac.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 21,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "1.000",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.00",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/39651/bebida-multivitaminas-hacendado-sin-azucares-anadidos-brick",
+  "slug": "bebida-multivitaminas-hacendado-sin-azucares-anadidos-brick",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/c0aec617c3d9db1cc8ec8f99554338e6.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

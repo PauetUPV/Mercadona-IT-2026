@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 322,
+              "level": 2,
+              "name": "Pan tostado",
+              "order": 515
+            }
+          ],
+          "id": 62,
+          "level": 1,
+          "name": "Pan tostado y rallado",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pan tostado pasas Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "PAN TOSTADO CON UVAS PASAS",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco. No exponer a la luz solar.",
+    "suppliers": [
+      {
+        "name": "Anitin Panes Especiales, S.L.U."
+      }
+    ],
+    "usage_instructions": "Una vez abierto para apreciar mejor sus cualidades se recomienda consumir antes de 5 días."
+  },
+  "display_name": "Pan tostado pasas Hacendado",
+  "ean": "8480000826657",
+  "extra_info": [
+    null
+  ],
+  "id": "82665",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>mostaza y productos derivados</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>cacahuetes y productos a base de cacahuetes</strong>.",
+    "ingredients": "Harina de <strong>trigo</strong> (<strong>gluten</strong>), uvas pasas (22%), aceite refinado de girasol alto oleico, azúcar, <strong>gluten</strong> de <strong>trigo</strong>, levadura, sal y agente de tratamiento de la harina: ácido ascórbico. Puede contener trazas de <strong>cacahuete,</strong> <strong>soja</strong>, <strong>derivados lácteos</strong>, <strong>mostaza</strong> y <strong>sésamo</strong>."
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/373a41e1bce564b863389145b18aa576.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/373a41e1bce564b863389145b18aa576.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/373a41e1bce564b863389145b18aa576.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/693225516a07356997b860e7accf897c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/693225516a07356997b860e7accf897c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/693225516a07356997b860e7accf897c.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "9.58",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "9.584",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.15",
+    "unit_selector": true,
+    "unit_size": 0.12
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/82665/pan-tostado-pasas-hacendado-paquete",
+  "slug": "pan-tostado-pasas-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/373a41e1bce564b863389145b18aa576.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 893,
+              "level": 2,
+              "name": "Cucuruchos",
+              "order": 213
+            }
+          ],
+          "id": 154,
+          "level": 1,
+          "name": "Helados",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Helado cucurucho sabor vainilla Hacendado con punta de chocolate",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Helado sabor a vainilla, decoración y recubrimiento del barquillo sabor  chocolate y avellanas caramelizadas",
+    "mandatory_mentions": "",
+    "origin": "ESPAÑA",
+    "production_variant": "",
+    "storage_instructions": "Conservar a temperaturas inferiores a -18C. Una vez descongelado no volver a congelar.",
+    "suppliers": [
+      {
+        "name": "Crestas La Galeta, S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Helado cucurucho sabor vainilla Hacendado",
+  "ean": "8480000862365",
+  "extra_info": [
+    ""
+  ],
+  "id": "86236",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>sh</strong>. Puede contener <strong>altramuces y productos a base de altramuces</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Puede contener <strong>cacahuetes y productos a base de cacahuetes</strong>. Contiene <strong>frutos de cáscara</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>huevos y productos a base de huevo</strong>. Contiene <strong>trigo y productos derivados</strong>.",
+    "ingredients": "<strong>Leche</strong>  desnatada reconstituida, barquillo 18% [harina de <strong>trigo</strong>, azúcar, grasa de coco, emulgente: lecitina de  <strong>soja</strong>, sal], recubrimiento del barquillo y decoración superior 18% [chocolate (azúcar, pasta de cacao, manteca de cacao, emulgente: lecitina de <strong>soja</strong>), grasa de coco], azúcar, grasa de coco, <strong>avellanas</strong>  caramelizadas 3% (<strong>avellanas</strong> 70%, azúcar),  suero de <strong>leche</strong> en polvo, jarabe de glucosa y fructosa, emulgente: monoglicéridos y diglicéridos de ácidos grasos, estabilizantes (goma guar, goma garrofín, carragenanos), proteínas de la <strong>leche</strong>, colorantes (norbixina de bija, curcumina), aroma. Puede contener trazas de otros <strong>frutos de cáscara</strong>, <strong>cacahuete</strong>, <strong>huevo</strong>, <strong>mostaza</strong> y <strong>altramuz</strong>."
+  },
+  "origin": "ESPAÑA",
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/8db5a7eda9ce33b2992ac5b04aa0e684.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8db5a7eda9ce33b2992ac5b04aa0e684.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8db5a7eda9ce33b2992ac5b04aa0e684.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/d5c12dbbb791e61d30a513d980351f62.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d5c12dbbb791e61d30a513d980351f62.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d5c12dbbb791e61d30a513d980351f62.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.40",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.12,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "3.403",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": 6,
+    "unit_name": "ud.",
+    "unit_price": "2.45",
+    "unit_selector": true,
+    "unit_size": 0.72
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/86236/helado-cucurucho-vainilla-hacendado-caja",
+  "slug": "helado-cucurucho-vainilla-hacendado-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/8db5a7eda9ce33b2992ac5b04aa0e684.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

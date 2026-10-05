@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 425,
+              "level": 2,
+              "name": "Hierbas",
+              "order": 7
+            }
+          ],
+          "id": 115,
+          "level": 1,
+          "name": "Especias",
+          "order": 7
+        }
+      ],
+      "id": 12,
+      "level": 0,
+      "name": "Aceite, especias y salsas",
+      "order": 7
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Hoja de laurel Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Hojas de Laurel",
+    "mandatory_mentions": "",
+    "origin": "Turquía",
+    "production_variant": "",
+    "storage_instructions": "Temperatura: 10-30 ºC. Humedad relativa: 70 %máx. Conservar en lugar fresco y seco. Proteger de la luz solar.",
+    "suppliers": [
+      {
+        "name": "SAFE SPICE GIDA STRERILIZASYON SAN. VE DIS TIC. A.S."
+      }
+    ],
+    "usage_instructions": "Lavar antes de consumir."
+  },
+  "display_name": "Hoja de laurel Hacendado",
+  "ean": "8480000479945",
+  "extra_info": [
+    null
+  ],
+  "id": "47994",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>100% hojas de laurel"
+  },
+  "origin": "Turquía",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/4bce6bcc4f7a9880f0ee238f3e27003d.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4bce6bcc4f7a9880f0ee238f3e27003d.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4bce6bcc4f7a9880f0ee238f3e27003d.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/93128d2d862f0548739f332b6385e24d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/93128d2d862f0548739f332b6385e24d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/93128d2d862f0548739f332b6385e24d.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "70.83",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "100 g",
+    "reference_price": "7.084",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.85",
+    "unit_selector": true,
+    "unit_size": 0.012
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/47994/hoja-laurel-hacendado-paquete",
+  "slug": "hoja-laurel-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/4bce6bcc4f7a9880f0ee238f3e27003d.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

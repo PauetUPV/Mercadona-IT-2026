@@ -1,0 +1,109 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Deliplus",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 638,
+              "level": 2,
+              "name": "Champú",
+              "order": 238
+            }
+          ],
+          "id": 199,
+          "level": 1,
+          "name": "Champú",
+          "order": 238
+        }
+      ],
+      "id": 21,
+      "level": 0,
+      "name": "Cuidado del cabello",
+      "order": 238
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Deliplus",
+    "counter_info": null,
+    "danger_mentions": null,
+    "description": "Champú protección y brillo Deliplus todo tipo de cabello con extracto de frutas naturales",
+    "is_prepared_by_mercadona": false,
+    "legal_name": null,
+    "mandatory_mentions": null,
+    "origin": null,
+    "production_variant": null,
+    "storage_instructions": null,
+    "suppliers": [],
+    "usage_instructions": null
+  },
+  "display_name": "Champú protección y brillo Deliplus todo tipo de cabello",
+  "ean": "8402001006029",
+  "extra_info": [
+    null
+  ],
+  "id": "35419",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "todo tipo de cabello",
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": null
+  },
+  "origin": null,
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/a49366621a784d2cf90babefbfd51827.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a49366621a784d2cf90babefbfd51827.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a49366621a784d2cf90babefbfd51827.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/3aa64ec83b9fb1accbd199d7a3c29732.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3aa64ec83b9fb1accbd199d7a3c29732.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3aa64ec83b9fb1accbd199d7a3c29732.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.35",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "100 ml",
+    "reference_price": "0.135",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.35",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/35419/champu-proteccion-brillo-deliplus-tipo-cabello-con-extracto-frutas-naturales-botella",
+  "slug": "champu-proteccion-brillo-deliplus-tipo-cabello-con-extracto-frutas-naturales-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/a49366621a784d2cf90babefbfd51827.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

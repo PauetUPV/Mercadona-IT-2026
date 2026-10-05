@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 522,
+              "level": 2,
+              "name": "Tarrinas",
+              "order": 213
+            }
+          ],
+          "id": 154,
+          "level": 1,
+          "name": "Helados",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Helado Biscuit Hacendado sabor galleta caramelizada",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "HELADO DE CREMA SABOR A GALLETA",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en congelación a temperaturas inferiores a -18C.Una vez descongelado no volver a congelar.",
+    "suppliers": [
+      {
+        "name": "A.I.A.D.H.E.S.A.Helados Alacant"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Helado Biscuit Hacendado sabor galleta caramelizada",
+  "ean": "8402001018978",
+  "extra_info": [
+    ""
+  ],
+  "id": "60680",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "sabor galleta caramelizada",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "HELADO DE CREMA SABOR A GALLETA CON PASTA DE GALLETAS CARAMELIZADAS (4,5%), SALSA CON TROZOS DE GALLETAS CARAMELIZADAS (13%) Y TROZOS DE GALLETAS (6%). Ingredientes: <strong>leche</strong> desnatada reconstituida, azúcar, trozos y pasta de galletas caramelizadas (11,5%) (harina de <strong>trigo</strong>, azúcar, grasa de palma, jarabe de azúcar caramelizado, aceite de nabina, sal, canela), nata (<strong>leche</strong>), agua, aceite de nabina, trozos de galletas (grasas vegetales (coco, palma), harina de <strong>trigo</strong>, azúcar, <strong>leche</strong> desnatada en polvo, jarabe de glucosa y fructosa, gasificantes (carbonatos de sodio, carbonatos de amonio), sal, aroma natural de vainilla), mantequilla (<strong>leche</strong>), jarabe de glucosa y fructosa, <strong>lactosa</strong> y proteínas de la<strong> leche</strong>, colorante (caramelo natural), emulgentes (monoglicéridos y diglicéridos de ácidos grasos, lecitinas), aroma, estabilizantes (goma garrofín, goma guar, carragenanos), canela, acidulante (ácido cítrico). <strong>Trazas de frutos de cáscara y huevo</strong>"
+  },
+  "origin": null,
+  "packaging": "Bote",
+  "photos": [
+    {
+      "perspective": 3,
+      "regular": "https://prod-mercadona.imgix.net/images/8ac9316abd6779b09b1b586a9cdb8619.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8ac9316abd6779b09b1b586a9cdb8619.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8ac9316abd6779b09b1b586a9cdb8619.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/5882ffb9fb3e8422416149514c0a0d12.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5882ffb9fb3e8422416149514c0a0d12.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5882ffb9fb3e8422416149514c0a0d12.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "6.000",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.00",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/60680/helado-biscuit-hacendado-sabor-galleta-caramelizada-bote",
+  "slug": "helado-biscuit-hacendado-sabor-galleta-caramelizada-bote",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/8ac9316abd6779b09b1b586a9cdb8619.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

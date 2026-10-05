@@ -1,0 +1,127 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 283,
+              "level": 2,
+              "name": "Vacuno",
+              "order": 17
+            }
+          ],
+          "id": 40,
+          "level": 1,
+          "name": "Vacuno",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Lomo de vacuno añojo",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Lomo",
+    "mandatory_mentions": "Envasado en atmósfera protectora.",
+    "origin": null,
+    "production_variant": "Producto de peso variable, el contenido neto puede oscilar entre 245g y 450g",
+    "storage_instructions": "Una vez abierto consumir en 24 horas. Conservar de 0 a 5C.",
+    "suppliers": [
+      {
+        "name": "Elaborados Cárnicos Medina S.A.U."
+      },
+      {
+        "name": "Fabricado por: ELABORADOS CÁRNICOS MEDINA, S.A.U."
+      }
+    ],
+    "usage_instructions": "Cocinar completamente antes de su consumo. No consumir el producto en crudo. Se recomienda dejar atemperar durante 10 minutos aproximadamente. Precalentar a fuego alto y cocinar."
+  },
+  "display_name": "Lomo de vacuno añojo",
+  "ean": "8436569263440",
+  "extra_info": [
+    "El corte y número de piezas puede variar."
+  ],
+  "id": "8934",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Lomo"
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/7d534c725ee434cc5c63c346fefb446d.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7d534c725ee434cc5c63c346fefb446d.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7d534c725ee434cc5c63c346fefb446d.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/f0a4d3a5d102e606319f381e6ff09d0f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f0a4d3a5d102e606319f381e6ff09d0f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f0a4d3a5d102e606319f381e6ff09d0f.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/19775c24f69ec774e85d52eba927ad11.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/19775c24f69ec774e85d52eba927ad11.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/19775c24f69ec774e85d52eba927ad11.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/8bf05fd233b346a2cf64efe84e0f3432.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8bf05fd233b346a2cf64efe84e0f3432.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8bf05fd233b346a2cf64efe84e0f3432.jpeg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "23.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "23.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "7.92",
+    "unit_selector": true,
+    "unit_size": 0.337
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/8934/lomo-vacuno-anojo-paquete",
+  "slug": "lomo-vacuno-anojo-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/7d534c725ee434cc5c63c346fefb446d.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

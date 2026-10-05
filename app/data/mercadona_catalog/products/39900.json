@@ -1,0 +1,134 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 473,
+              "level": 2,
+              "name": "Gazpacho y salmorejo",
+              "order": 215
+            }
+          ],
+          "id": 130,
+          "level": 1,
+          "name": "Gazpacho y cremas",
+          "order": 215
+        }
+      ],
+      "id": 14,
+      "level": 0,
+      "name": "Conservas, caldos y cremas",
+      "order": 215
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 503,
+              "level": 2,
+              "name": "Gazpacho y salmorejo",
+              "order": 597
+            }
+          ],
+          "id": 142,
+          "level": 1,
+          "name": "Platos preparados fríos",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Gazpacho fresco Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Gazpacho. Elaborado con las mejores hortalizas frescas, de acuerdo con la receta tradicional",
+    "mandatory_mentions": "Sin gluten. Producto no pasteurizado. Al ser un producto fresco, sin tratamiento térmico, se pueden separar los ingredientes. Si se rompe la cadena de frío el producto puede fermentar.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar a menos de 5ºC. Una vez abierto, consumir en 24 horas.",
+    "suppliers": [
+      {
+        "name": "J.G.C.,S.A."
+      }
+    ],
+    "usage_instructions": "Agitar antes de servir."
+  },
+  "display_name": "Gazpacho fresco Hacendado",
+  "ean": "8480000399007",
+  "extra_info": [
+    null
+  ],
+  "id": "39900",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Tomate, agua, aceite de oliva virgen extra (7%), pimiento, pepino, vinagre de vino, sal y ajo."
+  },
+  "origin": null,
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/02c2fca38a795d0c30af62b64e676691.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/02c2fca38a795d0c30af62b64e676691.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/02c2fca38a795d0c30af62b64e676691.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/ce66fdcfb502cf825de0e272d9113e6a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ce66fdcfb502cf825de0e272d9113e6a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ce66fdcfb502cf825de0e272d9113e6a.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.65",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "2.650",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.65",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/39900/gazpacho-fresco-hacendado-botella",
+  "slug": "gazpacho-fresco-hacendado-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/02c2fca38a795d0c30af62b64e676691.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

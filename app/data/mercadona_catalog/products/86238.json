@@ -1,0 +1,107 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Noel",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 293,
+              "level": 2,
+              "name": "Jamón cocido",
+              "order": 159
+            }
+          ],
+          "id": 48,
+          "level": 1,
+          "name": "Aves y jamón cocido",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Noel",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Jamón cocido extra cortado a mano Noel",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Jamón cocido extra cortado a mano",
+    "mandatory_mentions": "Envasado en atmosfera protectora.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Mantaner refrigerado entre 0ºC y 5ºC. Una vez abierto consumir en 48h.",
+    "suppliers": [
+      {
+        "name": "NOEL ALIMENTARIA S.A.U."
+      }
+    ],
+    "usage_instructions": "Abrir 10 minutos antes de consumir."
+  },
+  "display_name": "Jamón cocido extra cortado a mano Noel",
+  "ean": "8410783409365",
+  "extra_info": [
+    ""
+  ],
+  "id": "86238",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Jamón de cerdo (93%), agua, sal, conservadores (lactato potásico, nitrito sódico), azúcar, estabilizantes (tripolifosfato sódico, carragenanos), regulador de acidez (bicarbonato sódico), antioxidante (ascorbato sódico), aroma."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/41cedd6fc6392ac4f5a60e26790c8451.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/41cedd6fc6392ac4f5a60e26790c8451.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/41cedd6fc6392ac4f5a60e26790c8451.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "13.40",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "13.400",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.35",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/86238/lacon-cortado-mano-noel-paquete",
+  "slug": "lacon-cortado-mano-noel-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/41cedd6fc6392ac4f5a60e26790c8451.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

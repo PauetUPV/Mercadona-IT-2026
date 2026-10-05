@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Chovi",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 792,
+              "level": 2,
+              "name": "Allioli",
+              "order": 7
+            }
+          ],
+          "id": 116,
+          "level": 1,
+          "name": "Mayonesa, ketchup y mostaza",
+          "order": 7
+        }
+      ],
+      "id": 12,
+      "level": 0,
+      "name": "Aceite, especias y salsas",
+      "order": 7
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Chovi",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Allioli Chovi",
+    "legal_name": "Allioli",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar entre +2 y +8°C",
+    "suppliers": [
+      {
+        "name": "Chovi. S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Allioli Chovi",
+  "ean": "8410422005026",
+  "extra_info": [
+    null
+  ],
+  "id": "17150",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "Aceite de girasol 81%, <strong>huevo</strong> 8%, ajo 6%, sal, jugo de limón concentrado y conservador: sorbato potásico."
+  },
+  "origin": null,
+  "packaging": "Tarrina",
+  "photos": [
+    {
+      "perspective": 3,
+      "regular": "https://prod-mercadona.imgix.net/images/8dd36370d7a4694f15c53ae896c21960.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8dd36370d7a4694f15c53ae896c21960.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8dd36370d7a4694f15c53ae896c21960.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/603db00270527a023d79fecc67ce51d0.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/603db00270527a023d79fecc67ce51d0.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/603db00270527a023d79fecc67ce51d0.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "8.61",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "8.612",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.55",
+    "unit_selector": true,
+    "unit_size": 0.18
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/17150/allioli-chovi-tarrina",
+  "slug": "allioli-chovi-tarrina",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/8dd36370d7a4694f15c53ae896c21960.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

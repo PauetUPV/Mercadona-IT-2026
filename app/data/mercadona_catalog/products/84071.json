@@ -1,0 +1,112 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 330,
+              "level": 2,
+              "name": "Bollería dulce",
+              "order": 515
+            }
+          ],
+          "id": 65,
+          "level": 1,
+          "name": "Bollería de horno",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Panquemao Pascua",
+    "legal_name": "Panquemado",
+    "mandatory_mentions": "Producto de bollería descongelado.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Producto de bollería descongelado. No volver a congelar. Para un consumo óptimo del producto se aconseja:  Mantener dentro del envase en un lugar fresco y seco. Consumir antes de 2 días desde su fecha de compra. Lote: ver envase",
+    "suppliers": [
+      {
+        "name": "La Tahona de Utiel, S.L."
+      },
+      {
+        "name": "La Tahona de Utiel, S.L.U"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Panquemao Pascua",
+  "ean": "2105900840713",
+  "extra_info": [
+    null
+  ],
+  "id": "84071",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>sh</strong>. Puede contener <strong>sa</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>cereales que contengan gluten</strong>. Puede contener <strong>dióxido de azufre y sulfitos</strong>. Puede contener <strong>frutos de cáscara</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>sw</strong>.",
+    "ingredients": "Harina de <strong>trigo</strong> (<strong>gluten</strong>), <strong>huevo</strong> líquido pasteurizado, azúcar, agua, aceite de girasol, levadura, humectante (jarabe de sorbitol), sal, mejorante panario [harina de <strong>trigo</strong> (<strong>gluten</strong>), emulgentes (E-471, E-481, E-472e), <strong>gluten</strong> de <strong>trigo</strong>, agente antiaglomerante (E-170), agente de tratamiento de la harina (ácido ascórbico) y enzimas], almidón de maíz, aromas y colorante (betacaroteno). Puede contener trazas de <strong>leche</strong>, <strong>sulfitos</strong>, <strong>soja</strong>, <strong>frutos de cáscara</strong> y <strong>mostaza</strong>."
+  },
+  "origin": null,
+  "packaging": "Bolsa",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/2d26ad20c90c2f6b9942d0e73888e5f1.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/2d26ad20c90c2f6b9942d0e73888e5f1.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/2d26ad20c90c2f6b9942d0e73888e5f1.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/97b24d50ebc86be273cb2a152cf32038.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/97b24d50ebc86be273cb2a152cf32038.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/97b24d50ebc86be273cb2a152cf32038.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "10.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": "        3.20",
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "10.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.00",
+    "unit_selector": true,
+    "unit_size": 0.3
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/84071/panquemao-pascua-bolsa",
+  "slug": "panquemao-pascua-bolsa",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/2d26ad20c90c2f6b9942d0e73888e5f1.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Bosque Verde",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 729,
+              "level": 2,
+              "name": "Lejía",
+              "order": 374
+            }
+          ],
+          "id": 234,
+          "level": 1,
+          "name": "Lejía y líquidos fuertes",
+          "order": 374
+        }
+      ],
+      "id": 26,
+      "level": 0,
+      "name": "Limpieza y hogar",
+      "order": 374
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Bosque Verde",
+    "counter_info": null,
+    "danger_mentions": "Muy tóxico para los organismos acuáticos, con efectos nocivos duraderos. No utilizar junto con otros productos.Puede desprender gases peligrosos (cloro). En contacto con ácidos libera gases tóxicos. Provoca lesiones oculares graves. Provoca irritación cutánea. Puede ser corrosivo para los metales.",
+    "description": "Lejía normal Tradicional Bosque Verde",
+    "legal_name": "",
+    "mandatory_mentions": "",
+    "origin": "",
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "SPB, S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Lejía normal Tradicional Bosque Verde",
+  "ean": "8480000430755",
+  "extra_info": [
+    null
+  ],
+  "id": "43075",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": ""
+  },
+  "origin": "",
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/08774cc4eb549b55b3cfa8fd9604a468.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/08774cc4eb549b55b3cfa8fd9604a468.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/08774cc4eb549b55b3cfa8fd9604a468.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/3bc1cf8bf1665ccaa1ad82a4e9bbb53c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3bc1cf8bf1665ccaa1ad82a4e9bbb53c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3bc1cf8bf1665ccaa1ad82a4e9bbb53c.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "0.40",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 21,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "0.400",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.80",
+    "unit_selector": true,
+    "unit_size": 2.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/43075/lejia-normal-tradicional-bosque-verde-botella",
+  "slug": "lejia-normal-tradicional-bosque-verde-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/08774cc4eb549b55b3cfa8fd9604a468.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

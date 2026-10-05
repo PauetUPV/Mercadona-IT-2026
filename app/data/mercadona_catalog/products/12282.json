@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 302,
+              "level": 2,
+              "name": "Lomo y otros",
+              "order": 159
+            }
+          ],
+          "id": 51,
+          "level": 1,
+          "name": "Embutido curado",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Lomo de pavo Hacendado lonchas",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Muslo de Pavo Curado",
+    "mandatory_mentions": "Envasado en atmósfera protectora.",
+    "origin": null,
+    "production_variant": "Se modifica la cantidad de sal a 3,9g. Tiempo aproximado 90 días a partir de la fecha 26/09/2025.",
+    "storage_instructions": "Mantener refrigerado entre 0C Y 5C. Una vez abierto, consumir antes de 2 días.",
+    "suppliers": [
+      {
+        "name": "Embutidos Monter S.L.U."
+      }
+    ],
+    "usage_instructions": "Abrir el envase 10 minutos antes de consumir el producto."
+  },
+  "display_name": "Lomo de pavo Hacendado lonchas",
+  "ean": "8402001030277",
+  "extra_info": [
+    ""
+  ],
+  "id": "12282",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "lonchas",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Muslo de pavo (175 g para obtener 100 g producto final), sal, antioxidantes (E-326, E-331, E-301), aromas, maltodextrina y conservadores (E-250, E-252)."
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/ab4213a1cad06e813609fe4589af0837.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ab4213a1cad06e813609fe4589af0837.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ab4213a1cad06e813609fe4589af0837.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/3ded6c8a7110fc6f4fe8a569374c69a5.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3ded6c8a7110fc6f4fe8a569374c69a5.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3ded6c8a7110fc6f4fe8a569374c69a5.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "25.60",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.03125,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "25.600",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 4,
+    "unit_name": "paquetes",
+    "unit_price": "3.20",
+    "unit_selector": true,
+    "unit_size": 0.125
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/12282/lomo-pavo-hacendado-lonchas",
+  "slug": "lomo-pavo-hacendado-lonchas",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/ab4213a1cad06e813609fe4589af0837.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

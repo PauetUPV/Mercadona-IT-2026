@@ -1,0 +1,119 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Señorío de los Llanos",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 566,
+              "level": 2,
+              "name": "Castilla la Mancha",
+              "order": 15
+            }
+          ],
+          "id": 169,
+          "level": 1,
+          "name": "Vino tinto",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": "12.5º",
+    "brand": "Señorío de los Llanos",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Vino tinto tempranillo crianza Señorío de los Llanos DO Valdepeñas",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Vino tinto Crianza DO Valdepeñas",
+    "mandatory_mentions": "",
+    "origin": "Producto de España",
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "GRUPO DE BODEGAS VINARTIS S.A"
+      },
+      {
+        "name": "J. Garcia Carrion"
+      },
+      {
+        "name": "JGC S.A"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Vino tinto tempranillo crianza Señorío de los Llanos DO Valdepeñas",
+  "ean": "8410415510629",
+  "extra_info": [
+    ""
+  ],
+  "id": "35730",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "DO Valdepeñas",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>dióxido de azufre y sulfitos</strong>.",
+    "ingredients": "Uvas, Conservadores y antioxidantes <strong>(sulfitos)</strong>, Correctores de la acidez (ácido Tartárico[L(+)]). agentes estabilizantes (goma arábiga, poliaspartato de potasio)."
+  },
+  "origin": "Producto de España",
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/a38d247888b36df8a6322ede045e24a7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a38d247888b36df8a6322ede045e24a7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a38d247888b36df8a6322ede045e24a7.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/4ef29d721a78963af73ee714fbfcb844.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4ef29d721a78963af73ee714fbfcb844.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4ef29d721a78963af73ee714fbfcb844.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.67",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "2.667",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.00",
+    "unit_selector": true,
+    "unit_size": 0.75
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/35730/vino-tinto-do-valdepenas-senorio-llanos-crianza-botella",
+  "slug": "vino-tinto-do-valdepenas-senorio-llanos-crianza-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/a38d247888b36df8a6322ede045e24a7.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

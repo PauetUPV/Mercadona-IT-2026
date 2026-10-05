@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 268,
+              "level": 2,
+              "name": "Otras verduras y hortalizas",
+              "order": 306
+            }
+          ],
+          "id": 29,
+          "level": 1,
+          "name": "Verdura",
+          "order": 306
+        }
+      ],
+      "id": 1,
+      "level": 0,
+      "name": "Fruta y verdura",
+      "order": 306
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Preparado de verduras para sofreír cortado y lavado compuesto por calabacín, pimiento y cebolla",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "PREPARADO PARA SOFREIR",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Para apreciar mejor sus cualidades se recomienda consumirlo todo una vez abierto el envase. Conservar entre 1ºC y 4ºC.",
+    "suppliers": [
+      {
+        "name": "Verdifresh, S.L.U."
+      }
+    ],
+    "usage_instructions": "En satén: Añade las verduras a una sartén con un poco de aceite y sazónalas al gusto. Saltéalas durante unos minutos y utilízalas a conveniencia.Al natural: Utilizar a conveniencia"
+  },
+  "display_name": "Preparado de verduras para sofreír cortado y lavado",
+  "ean": "8480000694331",
+  "extra_info": [
+    ""
+  ],
+  "id": "69433",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "cortado y lavado",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Calabacín, pimiento y cebolla."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/b15121b7ed461f349a3331b5ec94bc15.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b15121b7ed461f349a3331b5ec94bc15.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b15121b7ed461f349a3331b5ec94bc15.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/06514d23ddd3973b64b9347b9bfcc1ea.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/06514d23ddd3973b64b9347b9bfcc1ea.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/06514d23ddd3973b64b9347b9bfcc1ea.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.40",
+    "unit_selector": true,
+    "unit_size": 0.4
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/69433/preparado-verduras-sofreir-compuesto-calabacin-pimiento-cebolla-paquete",
+  "slug": "preparado-verduras-sofreir-compuesto-calabacin-pimiento-cebolla-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/b15121b7ed461f349a3331b5ec94bc15.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

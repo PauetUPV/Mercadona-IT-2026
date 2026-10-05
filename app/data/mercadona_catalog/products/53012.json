@@ -1,0 +1,114 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Schara",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 304,
+              "level": 2,
+              "name": "Salchichas",
+              "order": 159
+            }
+          ],
+          "id": 52,
+          "level": 1,
+          "name": "Bacón y salchichas",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Schara",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Salchichas cocidas Schara de cerdo ahumadas",
+    "legal_name": "Salchicha cocida y ahumada",
+    "mandatory_mentions": "Sin gluten. Sin glutamato añadido. Sin carne separada mecánicamente.",
+    "origin": "Chemnitz",
+    "production_variant": "",
+    "storage_instructions": "Conservar refrigerado entre 0º y 5ºC.",
+    "suppliers": [
+      {
+        "name": "Chemnitzer Wurstspezialitäten GmbH& Co.KG"
+      },
+      {
+        "name": "La Charcutería Alemana, S.L."
+      }
+    ],
+    "usage_instructions": "Cocinar completamente antes de consumir. A la parrilla o escaldadas 5-6 min en agua muy caliente."
+  },
+  "display_name": "Salchichas cocidas Schara de cerdo ahumadas",
+  "ean": "8410448000937",
+  "extra_info": [
+    null
+  ],
+  "id": "53012",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>apio y productos derivados</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<p>Carne de cerdo 87%, agua, sal, especias, estabilizante: di y polifosfatos, dextrosa, antioxidante: ácido ascórbico y conservador: nitrito sódico. Tripa natural de ovino, comestible. Puede contener trazas de MOSTAZA, APIO y LECHE."
+  },
+  "origin": "Chemnitz",
+  "packaging": "Pack-2",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/89f97bcb8605eac58678430d998e8030.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/89f97bcb8605eac58678430d998e8030.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/89f97bcb8605eac58678430d998e8030.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/75c14bc65046d213eb9e091546678e07.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/75c14bc65046d213eb9e091546678e07.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/75c14bc65046d213eb9e091546678e07.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "12.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.17,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "12.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 2,
+    "unit_name": "paquetes",
+    "unit_price": "4.25",
+    "unit_selector": true,
+    "unit_size": 0.34
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/53012/salchichas-cocidas-schara-cerdo-ahumadas-pack-2",
+  "slug": "salchichas-cocidas-schara-cerdo-ahumadas-pack-2",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/89f97bcb8605eac58678430d998e8030.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

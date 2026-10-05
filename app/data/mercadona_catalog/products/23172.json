@@ -1,0 +1,105 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Compy",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 712,
+              "level": 2,
+              "name": "Alimentación seca",
+              "order": 443
+            }
+          ],
+          "id": 221,
+          "level": 1,
+          "name": "Perro",
+          "order": 443
+        }
+      ],
+      "id": 25,
+      "level": 0,
+      "name": "Mascotas",
+      "order": 443
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Compy",
+    "counter_info": null,
+    "danger_mentions": null,
+    "description": "Mini aritos perro adulto y sénior Compy razas pequeñas",
+    "legal_name": null,
+    "mandatory_mentions": null,
+    "origin": null,
+    "production_variant": null,
+    "storage_instructions": null,
+    "suppliers": [],
+    "usage_instructions": null
+  },
+  "display_name": "Mini aritos perro adulto y sénior Compy",
+  "ean": "8480000231727",
+  "extra_info": [
+    null
+  ],
+  "id": "23172",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": null
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/97045254cf9d4a494a417a69bd73b783.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/97045254cf9d4a494a417a69bd73b783.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/97045254cf9d4a494a417a69bd73b783.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/ffe46f8ecf9bdca9c68e1dd6b00211d5.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ffe46f8ecf9bdca9c68e1dd6b00211d5.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ffe46f8ecf9bdca9c68e1dd6b00211d5.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.77",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "2.767",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "4.15",
+    "unit_selector": true,
+    "unit_size": 1.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/23172/mini-aritos-perro-adulto-senior-compy-razas-pequenas-paquete",
+  "slug": "mini-aritos-perro-adulto-senior-compy-razas-pequenas-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/97045254cf9d4a494a417a69bd73b783.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

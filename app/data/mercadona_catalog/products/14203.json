@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 360,
+              "level": 2,
+              "name": "Con chocolate y rellenas",
+              "order": 18
+            }
+          ],
+          "id": 80,
+          "level": 1,
+          "name": "Galletas",
+          "order": 18
+        }
+      ],
+      "id": 7,
+      "level": 0,
+      "name": "Cereales y galletas",
+      "order": 18
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Galletas María choco Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Galletas con cacao",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Mantener en lugar fresco y seco. Preservar de los rayos solares.",
+    "suppliers": [
+      {
+        "name": "Seurodis S.L.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Galletas María choco Hacendado",
+  "ean": "8480000142030",
+  "extra_info": [
+    null
+  ],
+  "id": "14203",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>gb</strong>. Contiene <strong>mostaza y productos derivados</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>dióxido de azufre y sulfitos</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "Ingredientes: Harina de <strong>TRIGO</strong>, azúcar, grasa  de palma, cacao desgrasado en polvo 6,5%, <strong>LECHE</strong> desnatada en polvo,  chocolate con <strong>LECHE</strong> en polvo 0,5%, sal<strong>, </strong>gasificantes (carbonatos de  sodio, de<strong> </strong>amonio y de calcio), emulgentes (lecitina, E 472e), aromas. Contiene <strong>CEBADA</strong>. Puede  contener <strong>SOJA</strong>, <strong>SULFITOS</strong>, <strong>HUEVOS</strong> y <strong>MOSTAZA</strong>.*****///// A PARTIR DEL LOTE L31263 Y FCP 03/2024 HAY UN CAMBIO DE ETIQUETADO /////*****Harina de <strong>trigo</strong>, azúcar, aceites vegetales de girasol alto oleico y palma, cacao desgrasado en polvo 6,5%, <strong>leche</strong> desnatada en polvo, chocolate con <strong>leche</strong> en polvo 0,5%, sal, gasificantes (carbonatos de sodio, de amonio y de calcio), emulgentes (lecitina (contiene <strong>trigo</strong>), E 472e), aromas (contiene <strong>cebada)</strong>. Puede contener <strong>soja</strong>, <strong>sulfitos, huevos </strong>y <strong>mostaza</strong>."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 3,
+      "regular": "https://prod-mercadona.imgix.net/images/e9cb96fbe07dd431f5868c91b8cdd03e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e9cb96fbe07dd431f5868c91b8cdd03e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e9cb96fbe07dd431f5868c91b8cdd03e.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/b878cebe9c41963a5d5752b5807856f1.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b878cebe9c41963a5d5752b5807856f1.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b878cebe9c41963a5d5752b5807856f1.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.15",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "4.151",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.10",
+    "unit_selector": true,
+    "unit_size": 0.265
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/14203/galletas-maria-choco-hacendado-paquete",
+  "slug": "galletas-maria-choco-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/e9cb96fbe07dd431f5868c91b8cdd03e.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

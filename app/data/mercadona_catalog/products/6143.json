@@ -1,0 +1,107 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 446,
+              "level": 2,
+              "name": "Pasta rellena",
+              "order": 10
+            }
+          ],
+          "id": 120,
+          "level": 1,
+          "name": "Pasta y fideos",
+          "order": 10
+        }
+      ],
+      "id": 13,
+      "level": 0,
+      "name": "Arroz, legumbres y pasta",
+      "order": 10
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pasta fresca ravioli rellena de ricotta y espinacas Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Ravioli ricotta y espinacas",
+    "mandatory_mentions": "",
+    "origin": "Italia",
+    "production_variant": "Variante",
+    "storage_instructions": "Conservar refrigerado entre +4/7C. Una vez abierto consumir dentro de los tres días siguientes.",
+    "suppliers": [
+      {
+        "name": "Bertagni 1882 S.p.a."
+      }
+    ],
+    "usage_instructions": "Modo de preparación: Hervir, Echar sin separar la pasta, 3-4  minutos fuego medio sin remover. No volcar sacar con espumadera."
+  },
+  "display_name": "Pasta fresca ravioli rellena de ricotta y espinacas Hacendado",
+  "ean": "8480000061430",
+  "extra_info": [
+    ""
+  ],
+  "id": "6143",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>frutos de cáscara</strong>. Puede contener <strong>pescado y productos a base de pescado</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Relleno (60%): Espinacas marinadas 37% [espinacas 59,8%,<strong> lech</strong>e semidesnatada, preparación a base de espinacas 5% (espinacas 96%, sal), aceite de semillas de girasol, nata <strong>(lech</strong>e), almidón de maÍz, sal], ricotta 29% [suero de<strong> lech</strong>e, nata <strong>(lech</strong>e) ,sal], salsa de leche cocida [nata <strong>(lech</strong>e),<strong> lech</strong>e semidesnatada, agua, azúcar, sal, gelatina], pan rallado (harina de<strong> trig</strong>o  blando, sal, levadura),<strong> lactos</strong>a, sal, agua. Pasta (40%): harina de<strong> trig</strong>o  blando,<strong> huevo</strong>s 21%, sémola de<strong> trig</strong>o duro, agua.<strong> Puede contener trazas de soja, crustáceos, pescado, frutos de cáscara, mostaz</strong>a."
+  },
+  "origin": "Italia",
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/aa239ea01bf9f662d580a8f2020c0845.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/aa239ea01bf9f662d580a8f2020c0845.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/aa239ea01bf9f662d580a8f2020c0845.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "7.80",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.800",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.95",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/6143/pasta-fresca-ravioli-ricotta-espinacas-hacendado-bandeja",
+  "slug": "pasta-fresca-ravioli-ricotta-espinacas-hacendado-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/aa239ea01bf9f662d580a8f2020c0845.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,134 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 853,
+              "level": 2,
+              "name": "Plátano y uva",
+              "order": 306
+            }
+          ],
+          "id": 27,
+          "level": 1,
+          "name": "Fruta",
+          "order": 306
+        }
+      ],
+      "id": 1,
+      "level": 0,
+      "name": "Fruta y verdura",
+      "order": 306
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Uva blanca sin semillas",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Uva sin semilla",
+    "mandatory_mentions": "",
+    "origin": "Marruecos",
+    "production_variant": "VARIEDAD Y CALIBRE",
+    "storage_instructions": "Conservar refrigerado.",
+    "suppliers": [
+      {
+        "name": "El Ciruelo, S.L."
+      },
+      {
+        "name": "HERMANOS FERNANDEZ LOPEZ, S.A."
+      },
+      {
+        "name": "Ignacio Prieto S.L.U."
+      },
+      {
+        "name": "Les Vergers du Soleil"
+      },
+      {
+        "name": "Pomares Do Sol  SA"
+      },
+      {
+        "name": "TORREMESA, S.A."
+      },
+      {
+        "name": "UNILAND, S.C."
+      },
+      {
+        "name": "Uvasdoce SL"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Uva blanca sin semillas",
+  "ean": "2105400033134",
+  "extra_info": [
+    ""
+  ],
+  "id": "3313",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": "sin semillas",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<strong></p>Uva sin semilla"
+  },
+  "origin": "Marruecos",
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 10,
+      "regular": "https://prod-mercadona.imgix.net/images/4cc23dd3258bf7fdc6bc8510583b46a9.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4cc23dd3258bf7fdc6bc8510583b46a9.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4cc23dd3258bf7fdc6bc8510583b46a9.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/e15342428d6044c323fe12ce30b29cd3.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e15342428d6044c323fe12ce30b29cd3.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e15342428d6044c323fe12ce30b29cd3.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "2.75",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "2.750",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.65",
+    "unit_selector": true,
+    "unit_size": 0.6
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/3313/uva-blanca-sin-semillas-bandeja",
+  "slug": "uva-blanca-sin-semillas-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/4cc23dd3258bf7fdc6bc8510583b46a9.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

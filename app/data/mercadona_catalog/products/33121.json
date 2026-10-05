@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 484,
+              "level": 2,
+              "name": "Aceitunas verdes",
+              "order": 9
+            }
+          ],
+          "id": 135,
+          "level": 1,
+          "name": "Aceitunas y encurtidos",
+          "order": 9
+        }
+      ],
+      "id": 15,
+      "level": 0,
+      "name": "Aperitivos",
+      "order": 9
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Aceitunas verdes sin hueso aliñadas Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Aceitunas Manzanilla verde sin hueso aliñada",
+    "mandatory_mentions": "Excepcionalmente puede contener algún resto de hueso. Variedad: Manzanilla Fina. Categoría Selecta.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Una vez abierto conservar en frío.",
+    "suppliers": [
+      {
+        "name": "Escamilla, S.A.T 2080"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Aceitunas verdes sin hueso aliñadas Hacendado",
+  "ean": "8480000331212",
+  "extra_info": [
+    ""
+  ],
+  "id": "33121",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": "Aceituna, agua, pimiento, ajo, sal, vinagre, pimentón, especias autorizadas, potenciador del sabor (glutamato monosódico, inosinato sódico, gualinato sódico), acidulante (ácido láctico, ácido citrico) y antioxidante (ácido ascórbico)."
+  },
+  "origin": null,
+  "packaging": "Tarro",
+  "photos": [
+    {
+      "perspective": 3,
+      "regular": "https://prod-mercadona.imgix.net/images/d8ee7929effbce5a6d638b2356f7bfee.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d8ee7929effbce5a6d638b2356f7bfee.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d8ee7929effbce5a6d638b2356f7bfee.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/9c57dc2bf4816432592695949c4370b3.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9c57dc2bf4816432592695949c4370b3.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9c57dc2bf4816432592695949c4370b3.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.52",
+    "bunch_selector": false,
+    "drained_weight": 0.2,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "9.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.90",
+    "unit_selector": true,
+    "unit_size": 0.42
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/33121/aceitunas-manzanilla-alinadas-hacendado-sin-hueso-tarro",
+  "slug": "aceitunas-manzanilla-alinadas-hacendado-sin-hueso-tarro",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/d8ee7929effbce5a6d638b2356f7bfee.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

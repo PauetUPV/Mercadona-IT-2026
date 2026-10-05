@@ -1,0 +1,107 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 446,
+              "level": 2,
+              "name": "Pasta rellena",
+              "order": 10
+            }
+          ],
+          "id": 120,
+          "level": 1,
+          "name": "Pasta y fideos",
+          "order": 10
+        }
+      ],
+      "id": 13,
+      "level": 0,
+      "name": "Arroz, legumbres y pasta",
+      "order": 10
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pasta fresca girasoles rellena de carrillera y puré de patata Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "PASTA ALIMENTICIA FRESCA AL HUEVO RELLENA DE CARNE DE CERDO ESTOFADA Y PURÉ DE PATATA",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "-",
+    "storage_instructions": "Conservar refrigerado entre +4/7C. Una vez abierto consumir dentro de los tres días siguientes.",
+    "suppliers": [
+      {
+        "name": "Bertagni 1882 S.p.a."
+      }
+    ],
+    "usage_instructions": "Modo de preparación: Hervir, Echar sin separar la pasta, 5  minutos fuego medio sin remover. No volcar sacar con espumadera."
+  },
+  "display_name": "Pasta fresca girasoles rellena de carrillera y puré de patata Hacendado",
+  "ean": "8402001040993",
+  "extra_info": [
+    ""
+  ],
+  "id": "14960",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>frutos de cáscara</strong>. Puede contener <strong>pescado y productos a base de pescado</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "RELLENO (60%): carne de cerdo estofada 58% (carne de cerdo 54%, vino tinto <strong>(sulfito</strong>s), cebolla, aceite de semilla de girasol, zanahorias, agua, harina de maíz, extracto de carne, sal, ajo, laurel, extracto de romero, pimienta), puré de patata 33% (agua,<strong> lech</strong>e parcialmente desnatada, copos de patata 12%, aceite de semilla de girasol, mantequilla <strong>(lech</strong>e), sal), pan rallado (harina de<strong> trig</strong>o, levadura, sal),<strong> lactos</strong>a, sal, vino tinto <strong>(sulfito</strong>s), cacao en polvo. PASTA (40%): Harina de<strong> trig</strong>o blando,<strong> huevo</strong>s 28.5%, Sémola de<strong> trig</strong>o duro. Puede contener trazas de soja, crustáceos, pescado, frutos de cáscara, mostaz</strong>a."
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/c42b558517022437793c6d54b9d34198.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c42b558517022437793c6d54b9d34198.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c42b558517022437793c6d54b9d34198.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "10.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "10.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.50",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/14960/pasta-fresca-girasoles-carrillera-pure-patata-hacendado-bandeja",
+  "slug": "pasta-fresca-girasoles-carrillera-pure-patata-hacendado-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/c42b558517022437793c6d54b9d34198.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

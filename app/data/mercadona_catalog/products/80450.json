@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 846,
+              "level": 2,
+              "name": "Cocktails",
+              "order": 9
+            }
+          ],
+          "id": 133,
+          "level": 1,
+          "name": "Frutos secos y fruta desecada",
+          "order": 9
+        }
+      ],
+      "id": 15,
+      "level": 0,
+      "name": "Aperitivos",
+      "order": 9
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Cocktail frutos secos Rumba Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Cocktail de semillas, leguminosas y cereales fritos, tostados y salados",
+    "mandatory_mentions": "Envasado en atmósfera protectora. Este producto por su tamaño no lo deben consumir menores de 5 años.",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Proteger de la luz. Conservar en lugar fresco y seco. Una vez abierto el envase conservarlo cerrado y consumir el producto preferentemente en el plazo de una semana.",
+    "suppliers": [
+      {
+        "name": "Fabricado enProduzido em: IMPORTACO CASA PONS, S.A.U."
+      },
+      {
+        "name": "IMPORTACO CASA PONS S.A.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Cocktail frutos secos Rumba Hacendado",
+  "ean": "8480000804501",
+  "extra_info": [
+    ""
+  ],
+  "id": "80450",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>cacahuetes y productos a base de cacahuetes</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>frutos de cáscara</strong>.",
+    "ingredients": "<strong>Cacahuetes</strong> y maíz fritos, <strong>cacahuetes</strong> con cáscara tostados, pipas de girasol y calabaza tostadas, sal, aceite refinado de girasol y harina de arroz. Puede contener <strong>frutos de cáscara</strong> y <strong>soja</strong>. Sin gluten"
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/447fdc383960977e7112a304b677a321.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/447fdc383960977e7112a304b677a321.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/447fdc383960977e7112a304b677a321.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/68021d0ba3c75571d1299369567a08ee.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/68021d0ba3c75571d1299369567a08ee.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/68021d0ba3c75571d1299369567a08ee.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.33",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.334",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.60",
+    "unit_selector": true,
+    "unit_size": 0.3
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/80450/cocktail-rumba-hacendado-compuesto-cacahuetes-maiz-frito-pipas-girasol-pipas-calabaza-paquete",
+  "slug": "cocktail-rumba-hacendado-compuesto-cacahuetes-maiz-frito-pipas-girasol-pipas-calabaza-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/447fdc383960977e7112a304b677a321.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

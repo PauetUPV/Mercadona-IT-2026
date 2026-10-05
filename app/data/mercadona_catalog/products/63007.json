@@ -1,0 +1,135 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 291,
+              "level": 2,
+              "name": "Empanados y rebozados congelados",
+              "order": 17
+            }
+          ],
+          "id": 45,
+          "level": 1,
+          "name": "Empanados y elaborados",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 512,
+              "level": 2,
+              "name": "Carne rebozada",
+              "order": 213
+            }
+          ],
+          "id": 884,
+          "level": 1,
+          "name": "Rebozados",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Nuggets de pavo Hacendado ultracongelados",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Porciones de pavo rebozadas y prefritas. Comida preparada ultracongelada.",
+    "mandatory_mentions": "No volver a congelar el producto una vez descongelado.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Mantener a - 18C",
+    "suppliers": [
+      {
+        "name": "Fripozo, S.A."
+      }
+    ],
+    "usage_instructions": "Sartén o freidora: añadalos directamente congelados, y en pequeñas cantidades, a la sartén o freidora con abundante aceite bien caliente (175 ºC) y fríalos hasta que se doren al gusto (4 minutos). Si desea reducir el contenido de aceite del producto, escúrralo bien y colóquelo unos instantes sobre una servilleta de papel absorbente.  Horno: precaliente el horno a 220 ºC y dispongalos, directamente congelados, en la bandeja a media altura con papel de horno. Hornéelos durante 16 minutos, dándoles la vuelta a la mitad del tiempo de horneado."
+  },
+  "display_name": "Nuggets de pavo Hacendado ultracongelados",
+  "ean": "8480000630070",
+  "extra_info": [
+    null
+  ],
+  "id": "63007",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "ultracongelados",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Pechuga de pavo (49%), agua, harina de arroz, aceite vegetal de girasol, fécula de patata, harina de maíz, grasa de ave (antioxidante: extracto de romero), sal, almidón de maíz, gasificantes (difosfatos, carbonatos de sodio), aroma natural, jarabe de glucosa, almidón modificado, estabilizante (trifosfatos), cebolla deshidratada, dextrosa, pimienta blanca, pimienta negra y espesante (goma xantana)."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/2fdc9b83394eee29e89c2779fa919b6b.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/2fdc9b83394eee29e89c2779fa919b6b.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/2fdc9b83394eee29e89c2779fa919b6b.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/a280f7755ffa1d529deddd9a6099521e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a280f7755ffa1d529deddd9a6099521e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a280f7755ffa1d529deddd9a6099521e.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "8.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "8.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.40",
+    "unit_selector": true,
+    "unit_size": 0.4
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/63007/nuggets-pavo-hacendado-ultracongelados-paquete",
+  "slug": "nuggets-pavo-hacendado-ultracongelados-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/2fdc9b83394eee29e89c2779fa919b6b.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

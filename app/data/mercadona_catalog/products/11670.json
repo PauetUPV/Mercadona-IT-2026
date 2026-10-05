@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 498,
+              "level": 2,
+              "name": "Otros",
+              "order": 597
+            }
+          ],
+          "id": 140,
+          "level": 1,
+          "name": "Platos preparados calientes",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Patatas bravas con allioli y salsa picante Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Patatas bravas con salsa allioli y salsa brava",
+    "mandatory_mentions": "Sin gluten. Envasado en atmósfera protectora.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en frío entre 1C y 4C",
+    "suppliers": [
+      {
+        "name": "Elaborados Naturales de la Ribera, S.L."
+      }
+    ],
+    "usage_instructions": "MODO DE PREPARACIÓN: 1-Retirar el envase de cartón. 2-Sacar los envases de salsa allioli y salsa brava. 3-Calentar usando una de estas opciones: Microondas: perforar el envase y calentar durante 4 minutos a 800W de potencia. Freidora de aire: retirar el film y calentar a 200ºC durante 6 minutos. 4-Añadir las salsas después de calentar las patatas. No calentar la salsa allioli. ATENCIÓN: ENVASE CALIENTE."
+  },
+  "display_name": "Patatas bravas con allioli y salsa picante Hacendado",
+  "ean": "8402001028793",
+  "extra_info": [
+    ""
+  ],
+  "id": "11670",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "<p>PATATA 78,72% (patata y aceite refinado de girasol), SALSA BRAVA 10,64% (sofrito de tomate (tomate, cebolla, aceite refinado de girasol, azúcar, almidón modificado de maíz, sal y acidulante: ácido cítrico), tomate triturado (tomate, sal y acidulante: ácido cítrico), pimientos picantes (2,9%) (guindillones y acidulante: ácido cítrico), aceite refinado de girasol, caldo de verduras, conservador: sorbato potásico, almidón modificado de maíz y extracto de pimentón), SALSA ALLIOLI 10,64% (aceite refinado de girasol (81%), HUEVO, ajo (6%), sal, jugo de limón concentrado y conservador: E-202)."
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/056909a7135c2afefc8b00e80e9bc762.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/056909a7135c2afefc8b00e80e9bc762.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/056909a7135c2afefc8b00e80e9bc762.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/d6f4ab61d7f27062c291f6052cbed3d0.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d6f4ab61d7f27062c291f6052cbed3d0.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d6f4ab61d7f27062c291f6052cbed3d0.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.53",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.532",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.60",
+    "unit_selector": true,
+    "unit_size": 0.47
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/11670/patatas-bravas-con-allioli-salsa-picante-hacendado-bandeja",
+  "slug": "patatas-bravas-con-allioli-salsa-picante-hacendado-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/056909a7135c2afefc8b00e80e9bc762.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 388,
+              "level": 2,
+              "name": "Cremas de untar",
+              "order": 11
+            }
+          ],
+          "id": 92,
+          "level": 1,
+          "name": "Chocolate",
+          "order": 11
+        }
+      ],
+      "id": 9,
+      "level": 0,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Crema al cacao con avellanas Hacendado",
+    "legal_name": "Crema de cacao y avellanas",
+    "mandatory_mentions": "",
+    "origin": "Bélgica",
+    "production_variant": "",
+    "storage_instructions": "El producto debe de estar protegido del aire y de la luz y debe de ser almacenado en un lugar libre de olores y a una temperatura entre 17º a 23º C",
+    "suppliers": [
+      {
+        "name": "Natra"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Crema al cacao con avellanas Hacendado",
+  "ean": "8402001045004",
+  "extra_info": [
+    null
+  ],
+  "id": "67416",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>sh</strong>. Contiene <strong>frutos de cáscara</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Azúcar, aceite vegetal (nabina, palma), cacao desgrasado 8,5%, <strong>leche</strong> desnatada en polvo, <strong>avellanas</strong> 4%, suero de <strong>leche</strong> en polvo, emulgente: lecitinas, aroma."
+  },
+  "origin": "Bélgica",
+  "packaging": "Bote",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/95bdbcb83e6a0a4d83de80f084e71e96.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/95bdbcb83e6a0a4d83de80f084e71e96.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/95bdbcb83e6a0a4d83de80f084e71e96.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/f47382426ec8417948b04d3204e1aff5.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f47382426ec8417948b04d3204e1aff5.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f47382426ec8417948b04d3204e1aff5.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.90",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "3.900",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.95",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/67416/crema-cacao-con-avellanas-hacendado-bote",
+  "slug": "crema-cacao-con-avellanas-hacendado-bote",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/95bdbcb83e6a0a4d83de80f084e71e96.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

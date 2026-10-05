@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 330,
+              "level": 2,
+              "name": "Bollería dulce",
+              "order": 515
+            }
+          ],
+          "id": 65,
+          "level": 1,
+          "name": "Bollería de horno",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Magdalenas con pepitas de chocolate",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Magdalena con pepitas de chocolate. Producto de pastelería.",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco. Producto descongelado, no volver a congelar.",
+    "suppliers": [
+      {
+        "name": "PASTISART IBERIA S.L.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Magdalenas con pepitas de chocolate",
+  "ean": "8402001058349",
+  "extra_info": [
+    ""
+  ],
+  "id": "17700",
+  "is_bulk": false,
+  "is_new_arrival": true,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>dióxido de azufre y sulfitos</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>frutos de cáscara</strong>.",
+    "ingredients": "Harina de <strong>trigo</strong> (<strong>gluten</strong>), aceite refinado de girasol, azúcar, <strong>huevo</strong> líquido pasteurizado, pepitas de chocolate (8,9%) [azúcar, pasta de cacao, manteca de cacao, dextrosa, emulgente (lecitina de <strong>soja</strong>)], agua, jarabe de glucosa y fructosa, humectante (glicerina), mantequilla (<strong>leche</strong>), gasificantes (difosfato disódico, bicarbonato de sodio), jarabe de azúcar invertido, ralladura de naranja, miel de flores, aroma, sal, espesante (goma xantana), antioxidante (extracto rico en tocoferol), enzimas. Puede contener: <strong>frutos de cáscara</strong>, <strong>mostaza</strong>, <strong>sulfitos</strong>"
+  },
+  "origin": null,
+  "packaging": "Bolsa",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/dda8ce0bcfddfd7e415280be71350f30.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/dda8ce0bcfddfd7e415280be71350f30.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/dda8ce0bcfddfd7e415280be71350f30.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/b0a7f0c09d0ff9acd9d102a908292d91.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b0a7f0c09d0ff9acd9d102a908292d91.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b0a7f0c09d0ff9acd9d102a908292d91.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "7.95",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.949",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 6,
+    "unit_name": "ud.",
+    "unit_price": "3.10",
+    "unit_selector": true,
+    "unit_size": 0.39
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/17700/magdalenas-con-pepitas-chocolate-bolsa",
+  "slug": "magdalenas-con-pepitas-chocolate-bolsa",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/dda8ce0bcfddfd7e415280be71350f30.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

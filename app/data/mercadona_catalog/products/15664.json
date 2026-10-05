@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 866,
+              "level": 2,
+              "name": "Colesterol y otros",
+              "order": 598
+            }
+          ],
+          "id": 108,
+          "level": 1,
+          "name": "Yogures líquidos",
+          "order": 598
+        }
+      ],
+      "id": 11,
+      "level": 0,
+      "name": "Postres y yogures",
+      "order": 598
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Bebida Kéfir de coco Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Bebida de coco con fermentos kéfir",
+    "mandatory_mentions": "Vegano",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en refrigeración entre 0C y 6C. Agítese antes de abrir.",
+    "suppliers": [
+      {
+        "name": "Productes del Moianès, S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Bebida Kéfir de coco Hacendado",
+  "ean": "8480000156648",
+  "extra_info": [
+    null
+  ],
+  "id": "15664",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Bebida de coco (89,5%) (agua, coco (7,6%) , almidón de maíz, sal, espesante (goma Gellan y pectinas) y aroma natural de coco), sirope de agave y fermentos kéfir."
+  },
+  "origin": "España",
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/9ce6b7cf5fec6c14b1c25c6f142a3d07.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9ce6b7cf5fec6c14b1c25c6f142a3d07.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9ce6b7cf5fec6c14b1c25c6f142a3d07.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/dfd0d79d32803d90ed5bbb6628be5d84.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/dfd0d79d32803d90ed5bbb6628be5d84.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/dfd0d79d32803d90ed5bbb6628be5d84.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.40",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "4.400",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.10",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/15664/bebida-kefir-coco-hacendado-botella",
+  "slug": "bebida-kefir-coco-hacendado-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/9ce6b7cf5fec6c14b1c25c6f142a3d07.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,130 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 344,
+              "level": 2,
+              "name": "Leche desnatada",
+              "order": 373
+            }
+          ],
+          "id": 72,
+          "level": 1,
+          "name": "Leche y bebidas vegetales",
+          "order": 373
+        }
+      ],
+      "id": 6,
+      "level": 0,
+      "name": "Huevos, leche y mantequilla",
+      "order": 373
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Bebida láctea desnatada omega 3 Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Bebida láctea UHT enriquecida con ácidos grasos omega 3 y 6 vitaminas",
+    "mandatory_mentions": "Sin gluten. Otros fabricantes de este producto: Covap: 15.00122/CO (S.C.A. Ganadera del Valle de los Pedroches, C/Mayor 56-14400 Pozoblanco (Córdoba)); Iparlat: 15.00345/SS (Polígono Industrial Erratzu, s/n-20130 Urnieta (Gipuzkoa)).",
+    "origin": "Córdoba",
+    "production_variant": "Este producto se puede fabricar en 3 razones sociales",
+    "storage_instructions": "Mantener en lugar fresco y seco. Una vez abierto el envase. conservar en el frigorífico y consumir antes de 3 días",
+    "suppliers": [
+      {
+        "name": "Iparlat, S.A., Lactiber León , COVAP. S. Coop. And. Ganadera del Valle de los Pedroches y LACTIA AGROALIMENTARIA S.L."
+      },
+      {
+        "name": "Iparlat, S.A., Lactiber León y S.C.A. Ganadera del Valle de los Pedroches (COVAP)"
+      },
+      {
+        "name": "LACTIBER LEON"
+      },
+      {
+        "name": "LACTIBER LEÓN/COVAP. S. Coop. And. Ganadera del Valle de los Pedroches/IPARLAT S.A./LACTIA AGROALIMENTARIA S.L."
+      },
+      {
+        "name": "Lactiber León, S.L"
+      },
+      {
+        "name": "S.C.A. GANADERA DEL VALLE DE LOS PEDROCHES (COVAP) / LACTIBER LEÓN / IPARLAT S.A."
+      },
+      {
+        "name": "S.C.A. GANADERA DEL VALLE DE LOS PEDROCHES (COVAP)/LACTIBER LEON/ IPARLAT S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Bebida láctea desnatada omega 3 Hacendado",
+  "ean": "8402001000935",
+  "extra_info": [
+    null
+  ],
+  "id": "10846",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Leche</strong>  desnatada. aceites vegetales (girasol alto oleico y oliva).aceite rico en DHA y EPA procedente de las microalgas Schizochyytium sp.emulgente (monogliceridos y digliceridos de ácidos grasos). estabilizante (E-451) y  vitaminas (acetato de retinilo (vitamina A). colecalciferol (vitamina D). acetato de DL-alfa tocoferilo (vitamina E). L-ascorbato de sodo (vitamina C). acido pteroilmonoglutaminco (ácido fólico) y chorhidrato de piridoxina (vitamina B6)."
+  },
+  "origin": "Córdoba",
+  "packaging": "Brik",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/51221b62527e1c7f79e59af59784598b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/51221b62527e1c7f79e59af59784598b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/51221b62527e1c7f79e59af59784598b.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/3edf35e3fb3126dd1466c4569fb0fd57.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3edf35e3fb3126dd1466c4569fb0fd57.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3edf35e3fb3126dd1466c4569fb0fd57.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.17",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "1.170",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.17",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/10846/bebida-lactea-desnatada-omega-3-hacendado-brick",
+  "slug": "bebida-lactea-desnatada-omega-3-hacendado-brick",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/51221b62527e1c7f79e59af59784598b.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

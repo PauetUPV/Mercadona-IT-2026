@@ -1,0 +1,107 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Bosque Verde",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 730,
+              "level": 2,
+              "name": "Quitamanchas",
+              "order": 374
+            }
+          ],
+          "id": 226,
+          "level": 1,
+          "name": "Detergente y suavizante ropa",
+          "order": 374
+        }
+      ],
+      "id": 26,
+      "level": 0,
+      "name": "Limpieza y hogar",
+      "order": 374
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": "",
+    "brand": "Bosque Verde",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Toallitas lavadora Bosque Verde anti-transferencia de color",
+    "legal_name": "",
+    "mandatory_mentions": "",
+    "origin": "",
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [],
+    "usage_instructions": ""
+  },
+  "display_name": "Toallitas lavadora Bosque Verde anti-transferencia de color",
+  "ean": "8480000790835",
+  "extra_info": [
+    ""
+  ],
+  "id": "79083",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "",
+    "ingredients": ""
+  },
+  "origin": "",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/cac1a7c079067259c478c509671ceead.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/cac1a7c079067259c478c509671ceead.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/cac1a7c079067259c478c509671ceead.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/659c0622c48892656177773a6769cdca.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/659c0622c48892656177773a6769cdca.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/659c0622c48892656177773a6769cdca.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "0.09",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "0.093",
+    "selling_method": 0,
+    "size_format": "ud",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.85",
+    "unit_selector": true,
+    "unit_size": 20.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/79083/toallitas-lavadora-bosque-verde-accion-2-1-anti-transferencia-color-paquete",
+  "slug": "toallitas-lavadora-bosque-verde-accion-2-1-anti-transferencia-color-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/cac1a7c079067259c478c509671ceead.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

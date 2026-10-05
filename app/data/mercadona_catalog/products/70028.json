@@ -1,0 +1,109 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Bosque Verde",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 779,
+              "level": 2,
+              "name": "Limpieza de calzado",
+              "order": 374
+            }
+          ],
+          "id": 244,
+          "level": 1,
+          "name": "Utensilios de limpieza y calzado",
+          "order": 374
+        }
+      ],
+      "id": 26,
+      "level": 0,
+      "name": "Limpieza y hogar",
+      "order": 374
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Bosque Verde",
+    "counter_info": null,
+    "danger_mentions": "Provoca irritación ocular grave. Contiene 1,2-bencisotiazol-3(2h)-ona. Puede provocar una reacción alérgica.",
+    "description": "Crema de calzado marrón autobrillante Bosque Verde con aplicador",
+    "legal_name": "",
+    "mandatory_mentions": "",
+    "origin": "",
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "Francisco Aragon"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Crema de calzado marrón autobrillante Bosque Verde con aplicador",
+  "ean": "8480000700285",
+  "extra_info": [
+    ""
+  ],
+  "id": "70028",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": ""
+  },
+  "origin": "",
+  "packaging": "Bote",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/adba95ecb6c80aee005fdca82d55c313.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/adba95ecb6c80aee005fdca82d55c313.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/adba95ecb6c80aee005fdca82d55c313.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/54dbaf87a9fe4aa6d7713c7f529ed691.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/54dbaf87a9fe4aa6d7713c7f529ed691.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/54dbaf87a9fe4aa6d7713c7f529ed691.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "19.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "19.000",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.95",
+    "unit_selector": true,
+    "unit_size": 0.05
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/70028/crema-calzado-marron-autobrillante-bosque-verde-con-aplicador-bote",
+  "slug": "crema-calzado-marron-autobrillante-bosque-verde-con-aplicador-bote",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/adba95ecb6c80aee005fdca82d55c313.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

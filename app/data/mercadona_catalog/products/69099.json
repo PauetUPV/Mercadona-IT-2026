@@ -1,0 +1,146 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 854,
+              "level": 2,
+              "name": "Patata",
+              "order": 306
+            }
+          ],
+          "id": 29,
+          "level": 1,
+          "name": "Verdura",
+          "order": 306
+        }
+      ],
+      "id": 1,
+      "level": 0,
+      "name": "Fruta y verdura",
+      "order": 306
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Patatas",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "PATATAS NUEVAS",
+    "mandatory_mentions": "Categoría: I",
+    "origin": "Francia",
+    "production_variant": "",
+    "storage_instructions": "Guardar en un lugar fresco y oscuro",
+    "suppliers": [
+      {
+        "name": "Almacenes Lázaro, S.L."
+      },
+      {
+        "name": "Patatas Gómez S.L."
+      },
+      {
+        "name": "Patatas Hijolusa, S.A."
+      },
+      {
+        "name": "Patatas Melendez S.L."
+      },
+      {
+        "name": "Udapa S.COOP."
+      },
+      {
+        "name": "VIUDA DE ANTONIO SERRA"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Patatas",
+  "ean": "8414108100081",
+  "extra_info": [
+    null
+  ],
+  "id": "69099",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>100% PATATA"
+  },
+  "origin": "Francia",
+  "packaging": "Malla",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/a66b8d4177a91f7f219903267291e071.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a66b8d4177a91f7f219903267291e071.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a66b8d4177a91f7f219903267291e071.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/b4c18eb9b2b2b83f020a9173e28ef348.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b4c18eb9b2b2b83f020a9173e28ef348.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b4c18eb9b2b2b83f020a9173e28ef348.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/e9b1dd5d4f5a44253772cb7d13f87797.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e9b1dd5d4f5a44253772cb7d13f87797.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e9b1dd5d4f5a44253772cb7d13f87797.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/8761ef5effe4b9b73611f9413c048862.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8761ef5effe4b9b73611f9413c048862.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8761ef5effe4b9b73611f9413c048862.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/a02e083007df4dece22a330a36bf470d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a02e083007df4dece22a330a36bf470d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a02e083007df4dece22a330a36bf470d.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "1.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "5.00",
+    "unit_selector": true,
+    "unit_size": 5.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/69099/patatas-malla",
+  "slug": "patatas-malla",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/a66b8d4177a91f7f219903267291e071.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

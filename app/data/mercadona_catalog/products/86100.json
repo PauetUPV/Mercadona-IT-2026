@@ -1,0 +1,114 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Olives Garcia",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 484,
+              "level": 2,
+              "name": "Aceitunas verdes",
+              "order": 9
+            }
+          ],
+          "id": 135,
+          "level": 1,
+          "name": "Aceitunas y encurtidos",
+          "order": 9
+        }
+      ],
+      "id": 15,
+      "level": 0,
+      "name": "Aperitivos",
+      "order": 9
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Olives Garcia",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Aceitunas verdes partidas Olives Garcia",
+    "legal_name": "Aceitunas verdes partidas",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 2 y 6C. Una vez abierto mantener en refrigeración y consumir antes de 15 días.",
+    "suppliers": [
+      {
+        "name": "OLIVES GARCÍA S.A."
+      },
+      {
+        "name": "Olives García, S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Aceitunas verdes partidas Olives Garcia",
+  "ean": "8426188006061",
+  "extra_info": [
+    ""
+  ],
+  "id": "86100",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Aceitunas verdes partidas, agua, sal, antioxidantes (E-300 y E-330), conservador (E-202) y aromas autorizados."
+  },
+  "origin": "España",
+  "packaging": "Bote",
+  "photos": [
+    {
+      "perspective": 3,
+      "regular": "https://prod-mercadona.imgix.net/images/9af662b41a4a590fac7d431ed3deeb79.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9af662b41a4a590fac7d431ed3deeb79.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9af662b41a4a590fac7d431ed3deeb79.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/0d6490cc12833d43eb7a30c6a6818643.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0d6490cc12833d43eb7a30c6a6818643.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0d6490cc12833d43eb7a30c6a6818643.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.79",
+    "bunch_selector": false,
+    "drained_weight": 0.45,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "8.667",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.90",
+    "unit_selector": true,
+    "unit_size": 0.815
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/86100/aceitunas-olives-garcia-partida-con-hueso-bote",
+  "slug": "aceitunas-olives-garcia-partida-con-hueso-bote",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/9af662b41a4a590fac7d431ed3deeb79.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

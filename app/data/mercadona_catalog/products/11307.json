@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 544,
+              "level": 2,
+              "name": "Té",
+              "order": 8
+            }
+          ],
+          "id": 162,
+          "level": 1,
+          "name": "Refresco de té y sin gas",
+          "order": 8
+        }
+      ],
+      "id": 18,
+      "level": 0,
+      "name": "Agua y refrescos",
+      "order": 8
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Refresco té soluble limón Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Bebida refrescante de té con limón para diluir con edulcorantes.",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Manténgase en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Martínez y Cantó, S.L."
+      }
+    ],
+    "usage_instructions": "Echar el contenido de un sobre en una botella de 0,5 litros de agua fría. Agitar hasta su disolución. Consumir antes de 24 horas. Conservar refrigerado."
+  },
+  "display_name": "Refresco té soluble limón Hacendado",
+  "ean": "8480000113078",
+  "extra_info": [
+    ""
+  ],
+  "id": "11307",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Acidulante (ácido cítrico),  extracto de té negro (13.8%),colorante caramelo natural en polvo (caramelo, maltodextrina), maltodextrina, edulcorantes (aspartamo y acesulfamo potásico), zumo de limón en polvo (5.2%)*, aroma, antiaglomerantes (dióxido de silicio y fosfato tricálcico). * Equivale a 15.8% de zumo de limón. Contiene una fuente de fenilalanina."
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/473f2617f6e8af822ed6272868ba9f8b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/473f2617f6e8af822ed6272868ba9f8b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/473f2617f6e8af822ed6272868ba9f8b.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/459f31a8c92dbcdcdb31774d32a3e63b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/459f31a8c92dbcdcdb31774d32a3e63b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/459f31a8c92dbcdcdb31774d32a3e63b.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "41.67",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "100 g",
+    "reference_price": "4.167",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "21.000",
+    "total_units": 12,
+    "unit_name": "sobres",
+    "unit_price": "1.50",
+    "unit_selector": true,
+    "unit_size": 0.036
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/11307/refresco-te-sabor-limon-hacendado-diluir-caja",
+  "slug": "refresco-te-sabor-limon-hacendado-diluir-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/473f2617f6e8af822ed6272868ba9f8b.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

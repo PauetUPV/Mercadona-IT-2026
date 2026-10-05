@@ -1,0 +1,120 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 352,
+              "level": 2,
+              "name": "Margarina",
+              "order": 373
+            }
+          ],
+          "id": 75,
+          "level": 1,
+          "name": "Mantequilla y margarina",
+          "order": 373
+        }
+      ],
+      "id": 6,
+      "level": 0,
+      "name": "Huevos, leche y mantequilla",
+      "order": 373
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Margarina 100% vegetal Hacendado",
+    "legal_name": "Margarina 3/4 vegetal",
+    "mandatory_mentions": "100% vegetal, Alto Contenido de Acidos Grasos Omega 3, vitaminas A, E Riboflavina y B12",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en frigorífico.",
+    "suppliers": [
+      {
+        "name": "Doccas Food S.L.U."
+      },
+      {
+        "name": "Doccas Food, SLU"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Margarina 100% vegetal Hacendado",
+  "ean": "8402001020247",
+  "extra_info": [
+    null
+  ],
+  "id": "20196",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Aceites vegetales (girasol, nabina y linaza en proporciones variables, oliva virgen extra (14%)), agua, grasa vegetal (karité), emulgentes (monodiglicéridos y diglicéridos de ácidos grasos), sal (0,4%), aroma natural, conservador (sorbato potásico), acidulante (ácido cítrico), vitaminas (A,E, Riboflavina y B12), colorante (beta-caroteno)."
+  },
+  "origin": null,
+  "packaging": "Tarrina",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/f72994ef2d7126ccb4172d452978fa21.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f72994ef2d7126ccb4172d452978fa21.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f72994ef2d7126ccb4172d452978fa21.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/89f7af0bacb46b6b1680801d621b7466.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/89f7af0bacb46b6b1680801d621b7466.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/89f7af0bacb46b6b1680801d621b7466.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/eb7a74f61586d4a571583629028a5916.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/eb7a74f61586d4a571583629028a5916.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/eb7a74f61586d4a571583629028a5916.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.40",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.400",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.60",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/20196/margarina-100-vegetal-hacendado-tarrina",
+  "slug": "margarina-100-vegetal-hacendado-tarrina",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/f72994ef2d7126ccb4172d452978fa21.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

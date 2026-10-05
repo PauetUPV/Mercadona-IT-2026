@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 834,
+              "level": 2,
+              "name": "Surimi y otros",
+              "order": 442
+            }
+          ],
+          "id": 32,
+          "level": 1,
+          "name": "Marisco",
+          "order": 442
+        }
+      ],
+      "id": 2,
+      "level": 0,
+      "name": "Marisco y pescado",
+      "order": 442
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Palitos de surimi Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Producto de la pesca transformado cocinado refrigerado.",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Mantener entre 0ºC y 4ºC hasta la fecha de caducidad.",
+    "suppliers": [
+      {
+        "name": "Pescanova España S.L.U."
+      }
+    ],
+    "usage_instructions": "Seguir la indicaciones del envase"
+  },
+  "display_name": "Palitos de surimi Hacendado",
+  "ean": "8480000625021",
+  "extra_info": [
+    null
+  ],
+  "id": "62502",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>moluscos y productos a base de moluscos</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>pescado y productos a base de pescado</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Contiene <strong>crustáceos y productos a base de crustáceos</strong>.",
+    "ingredients": "Surimi (Merluza del Pacífico y/o Abadejo de Alaska) (<strong>pescado</strong>), agua, almidón, aromas (<strong>soja</strong>, <strong>pescado</strong>, <strong>moluscos</strong>, <strong>crustáceos</strong>), sal, aceite vegetal refinado: ver lote (O (Oliva), G(Girasol), N (Nabina)), clara de <strong>huevo</strong>, colorante (extracto natural de pimentón). Sin gluten. Sin lactosa."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/f35c1d8e310a99abfdf5e7cf42cf8cdc.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f35c1d8e310a99abfdf5e7cf42cf8cdc.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f35c1d8e310a99abfdf5e7cf42cf8cdc.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/ca65d00b5a2ffde2d0606d849ce5a1de.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ca65d00b5a2ffde2d0606d849ce5a1de.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ca65d00b5a2ffde2d0606d849ce5a1de.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.13",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "4.131",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.90",
+    "unit_selector": true,
+    "unit_size": 0.46
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/62502/palitos-surimi-hacendado-paquete",
+  "slug": "palitos-surimi-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/f35c1d8e310a99abfdf5e7cf42cf8cdc.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

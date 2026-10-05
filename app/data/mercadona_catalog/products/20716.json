@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 351,
+              "level": 2,
+              "name": "Mantequilla",
+              "order": 373
+            }
+          ],
+          "id": 75,
+          "level": 1,
+          "name": "Mantequilla y margarina",
+          "order": 373
+        }
+      ],
+      "id": 6,
+      "level": 0,
+      "name": "Huevos, leche y mantequilla",
+      "order": 373
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Mantequilla sin sal añadida Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Mantequilla sin sal añadida",
+    "mandatory_mentions": "ES 15.00122/CO. Sugerencia de presentación. Origen de la $nata$. España.",
+    "origin": "Córdoba",
+    "production_variant": "",
+    "storage_instructions": "Conservar refrigerado + 6°C máximo.",
+    "suppliers": [
+      {
+        "name": "S. COOP. AND. GANADERA DEL VALLE DE LOS PEDROCHES"
+      },
+      {
+        "name": "S.C.A. GANADERA DEL VALLE DE LOS PEDROCHES (COVAP)"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Mantequilla sin sal añadida Hacendado",
+  "ean": "8480000207166",
+  "extra_info": [
+    ""
+  ],
+  "id": "20716",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Nata</strong> pasterizada. fermentos lácticos y vitamina A (beta-caroteno)"
+  },
+  "origin": "Córdoba",
+  "packaging": "Pastilla",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/48232d267bc61b1c1f2d4c7a192fa37f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/48232d267bc61b1c1f2d4c7a192fa37f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/48232d267bc61b1c1f2d4c7a192fa37f.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/220bb8703196e57a204ebb4100a7bd1b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/220bb8703196e57a204ebb4100a7bd1b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/220bb8703196e57a204ebb4100a7bd1b.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "8.20",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "8.200",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.05",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/20716/mantequilla-sin-sal-anadida-hacendado-pastilla",
+  "slug": "mantequilla-sin-sal-anadida-hacendado-pastilla",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/48232d267bc61b1c1f2d4c7a192fa37f.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 548,
+              "level": 2,
+              "name": "Isotónico",
+              "order": 8
+            }
+          ],
+          "id": 163,
+          "level": 1,
+          "name": "Isotónico y energético",
+          "order": 8
+        }
+      ],
+      "id": 18,
+      "level": 0,
+      "name": "Agua y refrescos",
+      "order": 8
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Bebida isotónica Iso On blue Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Bebida refrescante aromatizada. Con azúcar y edulcorantes..",
+    "mandatory_mentions": "Con edulcorantes.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar limpio, fresco y seco. Proteger de la luz solar y de olores agresivos. Una vez abierto el envase, consérvese refrigerado y consumir en 2-3 días tras su apertura. No reutilizar el envase.",
+    "suppliers": [
+      {
+        "name": "Fabricado por: AGUA MINERAL SAN BENEDETTO, S.A.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Bebida isotónica Iso On blue Hacendado",
+  "ean": "8402001049002",
+  "extra_info": [
+    ""
+  ],
+  "id": "21700",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Agua, azúcar, acidulante: ácido cítrico, corrector de acidez: E-331, estabilizantes: E-414 y E-445, aromas, edulcorantes: acesulfamo k y sucralosa, colorante: E-133."
+  },
+  "origin": null,
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/a76831902670c27fb895af7a3c8d2bde.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a76831902670c27fb895af7a3c8d2bde.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a76831902670c27fb895af7a3c8d2bde.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/fca572329afa9644fa7b1e828324ea34.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/fca572329afa9644fa7b1e828324ea34.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/fca572329afa9644fa7b1e828324ea34.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.40",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "1.400",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.70",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/21700/bebida-isotonica-iso-on-blue-hacendado-botella",
+  "slug": "bebida-isotonica-iso-on-blue-hacendado-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/a76831902670c27fb895af7a3c8d2bde.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

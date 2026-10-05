@@ -1,0 +1,138 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 861,
+              "level": 2,
+              "name": "Base de pizza",
+              "order": 213
+            }
+          ],
+          "id": 151,
+          "level": 1,
+          "name": "Pizzas",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 862,
+              "level": 2,
+              "name": "Base de pizza",
+              "order": 597
+            }
+          ],
+          "id": 138,
+          "level": 1,
+          "name": "Pizzas",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Bases de pizza artesanas extrafinas y crujientes Hacendado ultracongeladas con aceite de oliva",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "3 bases de pizza artesanas ultracongeladas",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "Información válida a partir del lote 45204X",
+    "storage_instructions": "Producto ultracongelado. Mantener a -18C. No volver a congelar una vez descongelado.",
+    "suppliers": [
+      {
+        "name": "AUDENS FOOD, S.A."
+      },
+      {
+        "name": "Audens Food, S.A."
+      }
+    ],
+    "usage_instructions": "Precalentar el horno a 250ºC, condimentar al gusto y hornear en la rejilla media del horno de 5 a 8 minutos"
+  },
+  "display_name": "Bases de pizza artesanas extrafinas y crujientes Hacendado ultracongeladas",
+  "ean": "8480000636485",
+  "extra_info": [
+    ""
+  ],
+  "id": "63648",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "ultracongeladas",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>gb</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Harinas de <strong>trigo</strong> (<strong>gluten</strong>) y malta de <strong>cebada</strong> (<strong>gluten</strong>), agua, aceite de oliva (3%), sal, levadura. Contiene <strong>gluten</strong>. Puede contener trazas de: <strong>soja</strong>, <strong>mostaza</strong>."
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/37bc82969b2876ffa600d171c957384c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/37bc82969b2876ffa600d171c957384c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/37bc82969b2876ffa600d171c957384c.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/105a6263a034bdd03fbf093e3659fcd3.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/105a6263a034bdd03fbf093e3659fcd3.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/105a6263a034bdd03fbf093e3659fcd3.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.29",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "4.286",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 3,
+    "unit_name": "ud.",
+    "unit_price": "1.80",
+    "unit_selector": true,
+    "unit_size": 0.42
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/63648/bases-pizza-artesanas-extrafinas-crujientes-hacendado-ultracongeladas-con-aceite-oliva-paquete",
+  "slug": "bases-pizza-artesanas-extrafinas-crujientes-hacendado-ultracongeladas-con-aceite-oliva-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/37bc82969b2876ffa600d171c957384c.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

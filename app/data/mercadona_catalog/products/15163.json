@@ -1,0 +1,152 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Deliplus",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 666,
+              "level": 2,
+              "name": "Maquillaje fluido",
+              "order": 422
+            }
+          ],
+          "id": 206,
+          "level": 1,
+          "name": "Bases de maquillaje y corrector",
+          "order": 422
+        }
+      ],
+      "id": 22,
+      "level": 0,
+      "name": "Maquillaje",
+      "order": 422
+    }
+  ],
+  "color_variants": [
+    {
+      "color": "#e8cdaf",
+      "color_description": "100 vainilla claro",
+      "merca_code": "15162",
+      "status": null
+    },
+    {
+      "color": "#ddb9a3",
+      "color_description": "110 beige rosado",
+      "merca_code": "15163",
+      "status": null
+    },
+    {
+      "color": "#ddbea1",
+      "color_description": "200 beige medio",
+      "merca_code": "15164",
+      "status": null
+    },
+    {
+      "color": "#d5ad94",
+      "color_description": "210 cappuccino",
+      "merca_code": "15166",
+      "status": null
+    },
+    {
+      "color": "#e4b388",
+      "color_description": "300 arena",
+      "merca_code": "15167",
+      "status": null
+    },
+    {
+      "color": "#b67754",
+      "color_description": "310 caramelo",
+      "merca_code": "15168",
+      "status": null
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Deliplus",
+    "counter_info": null,
+    "danger_mentions": null,
+    "description": "Maquillaje fluido Hydra Deliplus 110 beige rosado con ácido hialurónico",
+    "is_prepared_by_mercadona": false,
+    "legal_name": null,
+    "mandatory_mentions": null,
+    "origin": null,
+    "production_variant": null,
+    "storage_instructions": null,
+    "suppliers": [],
+    "usage_instructions": null
+  },
+  "display_name": "Maquillaje fluido Hydra Deliplus 110 beige rosado",
+  "ean": "8402001033339",
+  "extra_info": [
+    ""
+  ],
+  "id": "15163",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "110 beige rosado",
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": null
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/08bbb062de08ad71c9d73d7507cc8960.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/08bbb062de08ad71c9d73d7507cc8960.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/08bbb062de08ad71c9d73d7507cc8960.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/376174b2c5a5e87f7df99fb4d5493ca2.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/376174b2c5a5e87f7df99fb4d5493ca2.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/376174b2c5a5e87f7df99fb4d5493ca2.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/98af843156dd4a02b5882aa3ec54f87a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/98af843156dd4a02b5882aa3ec54f87a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/98af843156dd4a02b5882aa3ec54f87a.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "6.500",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": 1,
+    "unit_name": "ud.",
+    "unit_price": "6.50",
+    "unit_selector": true,
+    "unit_size": 0.03
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/15163/maquillaje-fluido-hydra-deliplus-110-beige-rosado-con-acido-hialuronico",
+  "slug": "maquillaje-fluido-hydra-deliplus-110-beige-rosado-con-acido-hialuronico",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/08bbb062de08ad71c9d73d7507cc8960.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

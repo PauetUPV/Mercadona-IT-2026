@@ -1,0 +1,119 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 443,
+              "level": 2,
+              "name": "Macarrones, pajaritas y hélices",
+              "order": 10
+            }
+          ],
+          "id": 120,
+          "level": 1,
+          "name": "Pasta y fideos",
+          "order": 10
+        }
+      ],
+      "id": 13,
+      "level": 0,
+      "name": "Arroz, legumbres y pasta",
+      "order": 10
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pajaritas vegetales Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Pasta alimenticia compuesta con vegetales",
+    "mandatory_mentions": "",
+    "origin": "Producto de España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en sitio fresco y seco",
+    "suppliers": [
+      {
+        "name": "CEREALTO SIRO FOODS S.L."
+      },
+      {
+        "name": "La Familia: En SIRO Venta de Baños, S.A."
+      },
+      {
+        "name": "OROMAS,S.A."
+      }
+    ],
+    "usage_instructions": "¿Cómo cocinar pasta? Hervir un litro de agua por cada 100 gr de pasta por persona. Cuando el agua esté en plena ebullición, agregar una cucharada de sal y seguidamente la pasta. Remover durante la cocción y escurrir una vez transcurridos los minutos indicados dependiendo de si se quiere un resultado al dente o suave. 9/11 min."
+  },
+  "display_name": "Pajaritas vegetales Hacendado",
+  "ean": "8480000063052",
+  "extra_info": [
+    null
+  ],
+  "id": "6305",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>trigo y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "Pasta alimenticia de calidad superior : 100% Sémola de <strong>trigo </strong>duro. Pasta compuesta al Tomate : Sémola de <strong>trigo</strong> duro , 3% de tomate deshidratado. Pasta compuesta a las Espinacas : Sémola de <strong>trigo</strong> duro, 2% de espinacas deshidratadas.<strong> </strong>Puede contener trazas de <strong>soja</strong> y<strong> mostaza</strong>."
+  },
+  "origin": "Producto de España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/efecccdb297479c7a16f0555a3375159.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/efecccdb297479c7a16f0555a3375159.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/efecccdb297479c7a16f0555a3375159.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/9e1600face58aeb267b74485c145e381.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9e1600face58aeb267b74485c145e381.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9e1600face58aeb267b74485c145e381.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.80",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "1.800",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.90",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/6305/pajaritas-vegetales-hacendado-paquete",
+  "slug": "pajaritas-vegetales-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/efecccdb297479c7a16f0555a3375159.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

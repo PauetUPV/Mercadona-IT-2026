@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 328,
+              "level": 2,
+              "name": "Picos",
+              "order": 515
+            }
+          ],
+          "id": 64,
+          "level": 1,
+          "name": "Picos, rosquilletas y picatostes",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Grissini palitos de pan Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Palitos de pan con aceite de semilla de girasol 9%.",
+    "mandatory_mentions": "",
+    "origin": "Italia",
+    "production_variant": "",
+    "storage_instructions": "Mantener lejos de fuentes de calor. Manténgase en sitio seco y fresco.",
+    "suppliers": [
+      {
+        "name": "Grissin Bon"
+      },
+      {
+        "name": "Grissin Bon S.P.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Grissini palitos de pan Hacendado",
+  "ean": "8001405089876",
+  "extra_info": [
+    null
+  ],
+  "id": "82599",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>altramuces y productos a base de altramuces</strong>. Contiene <strong>gb</strong>. Contiene <strong>mostaza y productos derivados</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Harina de <strong>trigo</strong>, aceite de semilla de girasol 9%, extracto de malta de <strong>cebada</strong>, sal yodada (sal, yodato de potasio 0,007%), levadura, aromas naturales. <strong>Puede contener trazas de soja, mostaza, altramuces</strong>."
+  },
+  "origin": "Italia",
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/dfd2340cf6d3d0598af9ad5f3379327c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/dfd2340cf6d3d0598af9ad5f3379327c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/dfd2340cf6d3d0598af9ad5f3379327c.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/11f2244a698312f4ec7eb390ad6bf5b3.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/11f2244a698312f4ec7eb390ad6bf5b3.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/11f2244a698312f4ec7eb390ad6bf5b3.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.60",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 4,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.600",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 4,
+    "unit_name": "ud.",
+    "unit_price": "1.65",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/82599/grissini-palitos-pan-hacendado-caja",
+  "slug": "grissini-palitos-pan-hacendado-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/dfd2340cf6d3d0598af9ad5f3379327c.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,119 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 268,
+              "level": 2,
+              "name": "Otras verduras y hortalizas",
+              "order": 306
+            }
+          ],
+          "id": 29,
+          "level": 1,
+          "name": "Verdura",
+          "order": 306
+        }
+      ],
+      "id": 1,
+      "level": 0,
+      "name": "Fruta y verdura",
+      "order": 306
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Calabaza cacahuete cortada a trozos",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Calabaza (Curcubita moschata)",
+    "mandatory_mentions": "",
+    "origin": "España (junio - marzo) y Sudáfrica (abril-mayo). Las fechas pueden variar según campaña.",
+    "production_variant": "Producto de peso variable. El contenido neto del mismo oscila entre 400 g y 550 g.",
+    "storage_instructions": "Condiciones óptimas de conservación entre 1º C y 4º C",
+    "suppliers": [
+      {
+        "name": "Ramafrut S.l."
+      }
+    ],
+    "usage_instructions": "Retirar el plástico, lavar y cocinar completamente"
+  },
+  "display_name": "Calabaza cacahuete cortada a trozos",
+  "ean": "2105400035275",
+  "extra_info": [
+    null
+  ],
+  "id": "3527",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": "cortada a trozos",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": ""
+  },
+  "origin": "España (junio - marzo) y Sudáfrica (abril-mayo). Las fechas pueden variar según campaña.",
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/40540d250d1043c03dbddb123e77c5b2.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/40540d250d1043c03dbddb123e77c5b2.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/40540d250d1043c03dbddb123e77c5b2.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/6429885bdfd799639a96b6bf3d9fb38b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/6429885bdfd799639a96b6bf3d9fb38b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/6429885bdfd799639a96b6bf3d9fb38b.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/8043cb65fe229e9703ae2f6c8f34ffd1.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8043cb65fe229e9703ae2f6c8f34ffd1.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8043cb65fe229e9703ae2f6c8f34ffd1.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "3.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "3.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.82",
+    "unit_selector": true,
+    "unit_size": 0.52
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/3527/calabaza-cacahuete-cortada-trozos-bandeja",
+  "slug": "calabaza-cacahuete-cortada-trozos-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/40540d250d1043c03dbddb123e77c5b2.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

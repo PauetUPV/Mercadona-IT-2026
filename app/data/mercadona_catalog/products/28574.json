@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Iso drink",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 548,
+              "level": 2,
+              "name": "Isotónico",
+              "order": 8
+            }
+          ],
+          "id": 163,
+          "level": 1,
+          "name": "Isotónico y energético",
+          "order": 8
+        }
+      ],
+      "id": 18,
+      "level": 0,
+      "name": "Agua y refrescos",
+      "order": 8
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Iso drink",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Bebida isotónica sabor cítrico Iso drink Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "BEBIDA REFRESCANTE AROMATIZADA. CON AZÚCAR Y EDULCORANTES.",
+    "mandatory_mentions": "Con azúcar y edulcorante.",
+    "origin": null,
+    "production_variant": "Se añaden un registro de empresa en función de donde se produce el producto: planta Sevilla.",
+    "storage_instructions": "Proteger de la luz y de olores agresivos. Conservar en lugar limpio, fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Font Salem S.L."
+      },
+      {
+        "name": "Refresco Iberia S.A.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Bebida isotónica sabor cítrico Iso drink",
+  "ean": "8480000285744",
+  "extra_info": [
+    null
+  ],
+  "id": "28574",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.  <strong>x99</strong>.",
+    "ingredients": "<p>Agua, azúcar, acidulantes: ácido cítrico, ácido málico; sal, aromas, correctores de acidez: citratos de sodio, fosfato potásico, fosfato cálcico; antioxidante: ácido ascórbico; estabilizantes: E 414, E 445, E 444; edulcorante: sucralosa."
+  },
+  "origin": null,
+  "packaging": "Lata",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/52a7c2dc1b7454f0c887365c20f4594c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/52a7c2dc1b7454f0c887365c20f4594c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/52a7c2dc1b7454f0c887365c20f4594c.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/0cccf07f39b0fc54be600314b00aee2c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0cccf07f39b0fc54be600314b00aee2c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0cccf07f39b0fc54be600314b00aee2c.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.36",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "1.364",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.45",
+    "unit_selector": true,
+    "unit_size": 0.33
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/28574/bebida-isotonica-sabor-citrico-iso-drink-hacendado-lata",
+  "slug": "bebida-isotonica-sabor-citrico-iso-drink-hacendado-lata",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/52a7c2dc1b7454f0c887365c20f4594c.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

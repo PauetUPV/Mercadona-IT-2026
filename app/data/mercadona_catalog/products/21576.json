@@ -1,0 +1,107 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 317,
+              "level": 2,
+              "name": "Pan de bocadillo",
+              "order": 515
+            }
+          ],
+          "id": 59,
+          "level": 1,
+          "name": "Pan de horno",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": "Ingredientes: Harina de trigo (gluten), agua, harina integral de trigo26% (gluten), sal, levadura, harina de cebadamalteada (gluten).\n\nAlérgenos: trigo, gluten, cebada.\n\nPuede contener trazas de: Soja, Altramuces, Leche y sus derivados (incluida lactosa), Huevo, Mostaza, Frutos de cáscara y derivados, Moluscos, Pescado, Sésamo, Crustáceos, Apio, Cacahuetes, Sulfitos.\n\nProducto preparado por Mercadona, S.A. (C/ Alfonso Roig Alfonso, s/n. Albalat dels Sorells 46135, Valencia).",
+    "danger_mentions": "",
+    "description": "Panecillo de trigo integral 30%",
+    "is_prepared_by_mercadona": true,
+    "legal_name": "PAN ELABORADO CON HARINA INTEGRAL DE TRIGO 30%",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco. Consumo preferente 24 horas desde su cocción.",
+    "suppliers": [
+      {
+        "name": "PANAMAR BAKERY GROUP, S.L."
+      }
+    ],
+    "usage_instructions": "Producto listo para consumo."
+  },
+  "display_name": "Panecillo de trigo integral 30%",
+  "ean": "8402001047275",
+  "extra_info": [
+    null
+  ],
+  "id": "21576",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>altramuces y productos a base de altramuces</strong>. Puede contener <strong>pescado y productos a base de pescado</strong>. Contiene <strong>gb</strong>. Puede contener <strong>huevos y productos a base de huevo</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>. Puede contener <strong>apio y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Puede contener <strong>dióxido de azufre y sulfitos</strong>. Puede contener <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Puede contener <strong>cacahuetes y productos a base de cacahuetes</strong>. Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>frutos de cáscara</strong>. Puede contener <strong>moluscos y productos a base de moluscos</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Harina de <strong>trigo</strong> (<strong>gluten</strong>), agua, harina integral de <strong>trigo</strong> 26%* (<strong>gluten</strong>), sal, levadura, harina de <strong>cebada</strong> malteada (<strong>gluten</strong>). Puede contener trazas de <strong>crustáceos</strong>, <strong>pescado</strong>, <strong>huevo</strong>, <strong>cacahuete</strong>, <strong>soja</strong>, <strong>leche</strong>, <strong>frutos de cáscara</strong>, <strong>apio</strong>, <strong>mostaza</strong>, granos de <strong>sésamo</strong>, <strong>sulfitos</strong>, <strong>altramuces</strong>, <strong>moluscos</strong> y productos derivados.*El 26% de harina integral sobre el producto horneado, equivale a 30% sobre total de harinas."
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/ac8788aea6ddd0da2f72de20b36f5dd2.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ac8788aea6ddd0da2f72de20b36f5dd2.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ac8788aea6ddd0da2f72de20b36f5dd2.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 1,
+    "unit_name": "ud.",
+    "unit_price": "0.35",
+    "unit_selector": true,
+    "unit_size": 0.07
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/21576/panecillo-trigo-integral-30",
+  "slug": "panecillo-trigo-integral-30",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/ac8788aea6ddd0da2f72de20b36f5dd2.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

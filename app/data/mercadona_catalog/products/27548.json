@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 851,
+              "level": 2,
+              "name": "Otros",
+              "order": 442
+            }
+          ],
+          "id": 31,
+          "level": 1,
+          "name": "Pescado fresco",
+          "order": 442
+        }
+      ],
+      "id": 2,
+      "level": 0,
+      "name": "Marisco y pescado",
+      "order": 442
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Elaborado de merluza y langostino",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "PRODUCTO ELABORADO A BASE DE MERLUZA Y LANGOSTINO",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 0-4º, abrir el envase 5 minutos antes de cocinar. Una vez abierto, consumir antes de 24h. Envasado en atmosfera protectora.",
+    "suppliers": [
+      {
+        "name": "ELABORADOS PUERTA DE VALENCIA"
+      },
+      {
+        "name": "ELABORADOS PUERTA DE VALENCIA S.L."
+      }
+    ],
+    "usage_instructions": "Requiere cocinado antes de su consumo. Cocinado en plancha o sartén con un poco de aceite durante 4-5 minutos. La sartén o la plancha deben estar muy calientes cuando se cocine el producto."
+  },
+  "display_name": "Elaborado de merluza y langostino",
+  "ean": "8480000275486",
+  "extra_info": [
+    ""
+  ],
+  "id": "27548",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>crustáceos y productos a base de crustáceos</strong>.",
+    "ingredients": "62% MERLUZA <strong>(PESCADO)</strong>, 11% LANGOSTINO ((<strong>CRUSTÁCEO</strong>), agua, sal, antioxidantes E330, E331, estabilizante E451, E452), harina de arroz, aceite refinado de girasol, fibras vegetales, almidón, azúcar, corrector de la acidez (vinagre tamponado), especias (perejil y ajo) y aromas. Puede contener trazas de <strong>huevos y derivados, moluscos y derivados y sulfitos.</strong>"
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/9add643053c6c2b1f51a79211c2bcdfb.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9add643053c6c2b1f51a79211c2bcdfb.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9add643053c6c2b1f51a79211c2bcdfb.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/cd23cf220013b4905472b48f00fb589f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/cd23cf220013b4905472b48f00fb589f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/cd23cf220013b4905472b48f00fb589f.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "14.75",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "14.750",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 2,
+    "unit_name": "ud.",
+    "unit_price": "2.95",
+    "unit_selector": true,
+    "unit_size": 0.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/27548/elaborado-merluza-langostino-bandeja",
+  "slug": "elaborado-merluza-langostino-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/9add643053c6c2b1f51a79211c2bcdfb.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

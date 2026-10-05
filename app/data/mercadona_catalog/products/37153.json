@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Fidencio",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 577,
+              "level": 2,
+              "name": "Vino rosado",
+              "order": 15
+            }
+          ],
+          "id": 171,
+          "level": 1,
+          "name": "Vino rosado",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": "11.0º",
+    "brand": "Fidencio",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Vino rosado tempranillo syrah Fidencio DO La Mancha",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Vino rosado",
+    "mandatory_mentions": "Consumo moderado",
+    "origin": "Denominacion de origen La Mancha",
+    "production_variant": "",
+    "storage_instructions": "Conservese en lugar fresco y protegido de la luz solar",
+    "suppliers": [
+      {
+        "name": "Virgen De Las Viñas Bodega Y Almazara S.C. De Clm"
+      },
+      {
+        "name": "Virgen de las Viñas Bodega y Almazara Sociedad Cooperativa de Castilla la Mancha"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Vino rosado tempranillo syrah Fidencio DO La Mancha",
+  "ean": "8414601138383",
+  "extra_info": [
+    ""
+  ],
+  "id": "37153",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "DO La Mancha",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>dióxido de azufre y sulfitos</strong>. Puede contener <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "Uvas, mosto de uva concentrado, correctores de la acidez (contiene ácido málico y/o ácido cítrico y/o ácido tartárico[L(+)] y/o ácido láctico), agentes estabilizantes (contiene ácido metatartárico y/o manoproteínas de levadura y/o ácido fumárico), Conservadores (<strong>anhídrido sulfuroso(sulfitos),</strong> dicarbonato de dimetilo) y antioxidantes (ácido L-ascórbico). Puede contener trazas de lisozima de h<strong>uevo.</strong>"
+  },
+  "origin": "Denominacion de origen La Mancha",
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/1d7ce34cf0a36631392ccf07e3ec8bd1.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1d7ce34cf0a36631392ccf07e3ec8bd1.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1d7ce34cf0a36631392ccf07e3ec8bd1.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/24ae2a00a212373eae956427f249883c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/24ae2a00a212373eae956427f249883c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/24ae2a00a212373eae956427f249883c.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.20",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "2.200",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.65",
+    "unit_selector": true,
+    "unit_size": 0.75
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/37153/vino-rosado-do-mancha-fidencio-botella",
+  "slug": "vino-rosado-do-mancha-fidencio-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/1d7ce34cf0a36631392ccf07e3ec8bd1.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

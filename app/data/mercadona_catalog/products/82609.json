@@ -1,0 +1,114 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 334,
+              "level": 2,
+              "name": "Bollería envasada",
+              "order": 515
+            }
+          ],
+          "id": 66,
+          "level": 1,
+          "name": "Bollería envasada",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Bollo con pepitas de chocolate Hacendado Choco Buns",
+    "legal_name": "Choco Buns. Producto de Bollería.",
+    "mandatory_mentions": "20*% de leche. Sin colorantes",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco, seco y protegido de la luz.",
+    "suppliers": [
+      {
+        "name": "Dulmatesa S.L."
+      },
+      {
+        "name": "SIRO EL ESPINAR S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Bollo con pepitas de chocolate Hacendado Choco Buns",
+  "ean": "8480000826091",
+  "extra_info": [
+    ""
+  ],
+  "id": "82609",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "Harina de <strong>trigo (gluten)</strong>, pepitas de chocolate con leche <strong>(14%)</strong> [azúcar, leche <strong>enter</strong>a en polvo (3%), manteca de cacao, pasta de cacao, aroma de vainilla, emulgente (lecitina de soja)]<strong>, ag</strong>ua, huevo líquido pasteurizado, grasas vegetales (palma, coco), jarabe de glucosa y fructosa, azú<strong>car, </strong>leche desnatada en polvo (2%), aceite de refinado de girasol<strong>, emul</strong>gentes (E471, E481, E472e), aromas, levadura, sal, gluten<strong> </strong>de trigo, conservadores<strong> (sorb</strong>ato <strong>potás</strong>ico, propionato cálcico), acidulante (ácido cítrico), agente de tratamiento de la harina (ácido ascórbico). Puede contener trazas de mostaza y fruto<strong>s de cáscara.</strong>"
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/3c54fa2c63572efdb7ca3059458fada9.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3c54fa2c63572efdb7ca3059458fada9.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3c54fa2c63572efdb7ca3059458fada9.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/ed9eef04ba97361003e54d6cee6dc1c4.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ed9eef04ba97361003e54d6cee6dc1c4.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ed9eef04ba97361003e54d6cee6dc1c4.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 6,
+    "unit_name": "bolsitas",
+    "unit_price": "1.50",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/82609/bollo-con-pepitas-chocolate-hacendado-choco-buns-paquete",
+  "slug": "bollo-con-pepitas-chocolate-hacendado-choco-buns-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/3c54fa2c63572efdb7ca3059458fada9.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

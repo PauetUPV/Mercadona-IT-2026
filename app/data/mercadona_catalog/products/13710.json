@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 497,
+              "level": 2,
+              "name": "Carne",
+              "order": 597
+            }
+          ],
+          "id": 140,
+          "level": 1,
+          "name": "Platos preparados calientes",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Codillo de cerdo asado Hacendado",
+    "legal_name": "Codillo de cerdo asado",
+    "mandatory_mentions": "Sin gluten",
+    "origin": "España",
+    "production_variant": "Este producto es de peso variable, por lo tanto el peso neto puede oscilar",
+    "storage_instructions": "Conservar entre 0- 4 C. Una vez abierto consumir en 24h, mantenido entre 0-4ºC",
+    "suppliers": [
+      {
+        "name": "Platos Tradicionales S.A."
+      }
+    ],
+    "usage_instructions": "MICROONDAS 1. Dividir cortando por la línea y perforar el film varias veces, 2. Calentar 1 unidad durante 3 minutos a máxima potencia (si se quiere consumir completo, calentar las 2 unidades durante 5 minutos a máxima potencia), 3. Retirar el envase y servir, atención envase caliente. HORNO 1. Precalentar el horno a 180 C, 2. Sacar el codillo de su envase y colocar en un recipiente apto para el horno, 3. Calentar 15 minutos a 180 C"
+  },
+  "display_name": "Codillo de cerdo asado Hacendado",
+  "ean": "2105171137109",
+  "extra_info": [
+    ""
+  ],
+  "id": "13710",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Codillo de cerdo*, agua, sal, azúcares (jarabe de glucosa y dextrosa), estabilizante (trifosfatos), antioxidante (eritorbato sódico) y conservador (nitrito sódico). *Se ha utilizado 104 g de codillo de cerdo fresco para obtener 100 g de codillo de cerdo asado. <strong>Contiene trazas de leche y derivados</strong>"
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/23127ba632f2eddfa70076083c3ca714.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/23127ba632f2eddfa70076083c3ca714.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/23127ba632f2eddfa70076083c3ca714.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/231876396e4e60aa3c0b2cebd7be0664.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/231876396e4e60aa3c0b2cebd7be0664.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/231876396e4e60aa3c0b2cebd7be0664.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "6.40",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.400",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "4.61",
+    "unit_selector": true,
+    "unit_size": 0.72
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/13710/codillo-cerdo-asado-hacendado-paquete",
+  "slug": "codillo-cerdo-asado-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/23127ba632f2eddfa70076083c3ca714.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Senzza",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 804,
+              "level": 2,
+              "name": "Bombones",
+              "order": 11
+            }
+          ],
+          "id": 92,
+          "level": 1,
+          "name": "Chocolate",
+          "order": 11
+        }
+      ],
+      "id": 9,
+      "level": 0,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Senzza",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Surtido bombones Senzza de chocolate contiene de avellana, fondant, praliné y almendra",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "SURTIDO DE BOMBONES",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Evitar ambientes húmedos y/o olores fuertes. Evitar de focos de calor y/o exposición directa al sol. Tª: 16 - 20 ºC (60-68 ºF).\tHR: <70%",
+    "suppliers": [
+      {
+        "name": "CHOCOLATES VALOR"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Surtido bombones Senzza de chocolate",
+  "ean": "8410109131864",
+  "extra_info": [
+    ""
+  ],
+  "id": "14484",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "de chocolate",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>sh</strong>. Contiene <strong>sa</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>frutos de cáscara</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Azúcar, grasa vegetal (palma y palmiste), pasta de cacao, manteca de cacao, lactosuero en polvo (<strong>leche</strong>), <strong>leche</strong> en polvo, cacao desgrasado en polvo, <strong>almendras</strong> (1,8%), <strong>avellanas</strong> (1,8%), <strong>mantequilla</strong> concentrada (<strong>leche</strong>), emulgente: lecitina (<strong>soja</strong>) y E476, aromas. Cacao: 30% mínimo en chocolate con leche, 52% mínimo en chocolate"
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/00ac097a7a4ad37a2165856b69e7bdd1.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/00ac097a7a4ad37a2165856b69e7bdd1.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/00ac097a7a4ad37a2165856b69e7bdd1.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/487808d4f865eaf782ef35ae44aa2a1f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/487808d4f865eaf782ef35ae44aa2a1f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/487808d4f865eaf782ef35ae44aa2a1f.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "12.73",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "12.728",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 28,
+    "unit_name": "ud.",
+    "unit_price": "4.20",
+    "unit_selector": true,
+    "unit_size": 0.33
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/14484/surtido-bombones-senzza-chocolate-con-avellana-fondant-praline-almendra-paquete",
+  "slug": "surtido-bombones-senzza-chocolate-con-avellana-fondant-praline-almendra-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/00ac097a7a4ad37a2165856b69e7bdd1.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

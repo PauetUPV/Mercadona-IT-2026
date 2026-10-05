@@ -1,0 +1,114 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "San Roque",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 328,
+              "level": 2,
+              "name": "Picos",
+              "order": 515
+            }
+          ],
+          "id": 64,
+          "level": 1,
+          "name": "Picos, rosquilletas y picatostes",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "San Roque",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Piquitos con salvado San Roque",
+    "legal_name": "Pan especial. Contiene un 4% de salvado de trigo.",
+    "mandatory_mentions": "Sin lactosa.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Elaborado por PIQUITOS SAN ROQUE, S.L."
+      },
+      {
+        "name": "Piquitos San Roque, S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Piquitos con salvado San Roque",
+  "ean": "8437006994002",
+  "extra_info": [
+    null
+  ],
+  "id": "82222",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>trigo y productos derivados</strong>.",
+    "ingredients": "Harina de <strong>trigo</strong>, agua, salvado de <strong>trigo</strong> (4%), margarina vegetal [aceites vegetales (girasol y <strong>soja</strong> en proporción variable), grasas vegetales (palma en proporción variable), agua, sal y aromas], sal y levadura. Contiene <strong>gluten</strong>. Sin lactosa."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/7f32a7f4c65bec2798063e58dcda3038.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7f32a7f4c65bec2798063e58dcda3038.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7f32a7f4c65bec2798063e58dcda3038.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/eb089099dfa63c0045ce1661d397c328.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/eb089099dfa63c0045ce1661d397c328.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/eb089099dfa63c0045ce1661d397c328.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.34",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 4,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.339",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.90",
+    "unit_selector": true,
+    "unit_size": 0.142
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/82222/piquitos-con-salvado-san-roque-paquete",
+  "slug": "piquitos-con-salvado-san-roque-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/7f32a7f4c65bec2798063e58dcda3038.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

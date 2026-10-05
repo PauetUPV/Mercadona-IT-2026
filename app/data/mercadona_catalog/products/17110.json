@@ -1,0 +1,136 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hida",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 435,
+              "level": 2,
+              "name": "Tomate frito",
+              "order": 7
+            }
+          ],
+          "id": 117,
+          "level": 1,
+          "name": "Otras salsas",
+          "order": 7
+        }
+      ],
+      "id": 12,
+      "level": 0,
+      "name": "Aceite, especias y salsas",
+      "order": 7
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 460,
+              "level": 2,
+              "name": "Tomate",
+              "order": 215
+            }
+          ],
+          "id": 126,
+          "level": 1,
+          "name": "Tomate",
+          "order": 215
+        }
+      ],
+      "id": 14,
+      "level": 0,
+      "name": "Conservas, caldos y cremas",
+      "order": 215
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hida",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Tomate frito Hida",
+    "legal_name": "Tomate frito.",
+    "mandatory_mentions": "Sin gluten. No OGM's.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Lugar fresco y seco",
+    "suppliers": [
+      {
+        "name": "HIDA ALIMENTACIÓN, S.A."
+      },
+      {
+        "name": "Hida Alimentación, S.A."
+      }
+    ],
+    "usage_instructions": "Consumo directo o utilización del mismo como ingrediente o guarnición en la elaboración de otros platos."
+  },
+  "display_name": "Tomate frito Hida",
+  "ean": "8424523030016",
+  "extra_info": [
+    null
+  ],
+  "id": "17110",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Tomate (138g para elaborar 100g de tomate frito), aceite de oliva virgen extra (5.1%), azúcar y sal."
+  },
+  "origin": null,
+  "packaging": "Bote",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/41c22877e6e0c95dd006fd7696cb9919.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/41c22877e6e0c95dd006fd7696cb9919.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/41c22877e6e0c95dd006fd7696cb9919.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/1be87f64f3ac2a8e33b13c6b826b810f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1be87f64f3ac2a8e33b13c6b826b810f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1be87f64f3ac2a8e33b13c6b826b810f.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.88",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "3.875",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.55",
+    "unit_selector": true,
+    "unit_size": 0.4
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/17110/tomate-frito-hida-bote",
+  "slug": "tomate-frito-hida-bote",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/41c22877e6e0c95dd006fd7696cb9919.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

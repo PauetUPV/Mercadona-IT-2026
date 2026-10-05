@@ -1,0 +1,134 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 250,
+              "level": 2,
+              "name": "Fruta tropical",
+              "order": 306
+            }
+          ],
+          "id": 27,
+          "level": 1,
+          "name": "Fruta",
+          "order": 306
+        }
+      ],
+      "id": 1,
+      "level": 0,
+      "name": "Fruta y verdura",
+      "order": 306
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Piña natural a rodajas",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Piña pelada natural",
+    "mandatory_mentions": "",
+    "origin": "Costa Rica - Elaborado en España",
+    "production_variant": "",
+    "storage_instructions": "Conservar refrigerado entre 1 y 4 C. Una vez abierto, consérvese en el frigorífico durante un periodo máximo de 24 h.",
+    "suppliers": [
+      {
+        "name": "Bonnysa Agroalimentaria S.A."
+      },
+      {
+        "name": "Bonnysa Agroalimentaria, S.A."
+      },
+      {
+        "name": "Cortijo Cuevas S.L."
+      },
+      {
+        "name": "FRUNET S.L."
+      },
+      {
+        "name": "Gufresco S.L."
+      },
+      {
+        "name": "Surexport Levante S.L.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Piña natural a rodajas",
+  "ean": "2105400030249",
+  "extra_info": [
+    ""
+  ],
+  "id": "3024",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": "a rodajas",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Piña"
+  },
+  "origin": "Costa Rica - Elaborado en España",
+  "packaging": "Bote",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/447329070430fee9d487dd3124975cb8.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/447329070430fee9d487dd3124975cb8.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/447329070430fee9d487dd3124975cb8.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/4493fd26159370b5d960fc7e6cd1746a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4493fd26159370b5d960fc7e6cd1746a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4493fd26159370b5d960fc7e6cd1746a.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/01b5db41ba2684ebd02338ffcf8c2fae.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/01b5db41ba2684ebd02338ffcf8c2fae.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/01b5db41ba2684ebd02338ffcf8c2fae.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "6.55",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.550",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.80",
+    "unit_selector": true,
+    "unit_size": 0.58
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/3024/pina-natural-rodajas-bote",
+  "slug": "pina-natural-rodajas-bote",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/447329070430fee9d487dd3124975cb8.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

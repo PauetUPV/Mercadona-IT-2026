@@ -1,0 +1,112 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 311,
+              "level": 2,
+              "name": "Queso en porciones",
+              "order": 159
+            }
+          ],
+          "id": 56,
+          "level": 1,
+          "name": "Queso lonchas, rallado y en porciones",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Queso en porciones Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Queso Fundido Para Extender HCENDADO 250 g.",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Consérvese entre 1 y 12 ºC",
+    "suppliers": [
+      {
+        "name": "Quesería Menorquina S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Queso en porciones Hacendado",
+  "ean": "8480000524058",
+  "extra_info": [
+    null
+  ],
+  "id": "52405",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": "<strong>Leche</strong> Desnatada rehidratada,<strong> Quesos</strong>,<strong> Mantequilla</strong>, Sales de Fundido (Difosfatos, Polifosfatos, Fosfatos de Sodio y Citrato),<strong> Leche</strong> desnatada en polvo, Proteínas de la <strong>leche</strong>, Conservador (sorbato potásico), Sal, Corrector de acidez (ácido cítrico), Aroma Natural"
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/62e21e9aeaf9f20b7c81fc2ff229c976.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/62e21e9aeaf9f20b7c81fc2ff229c976.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/62e21e9aeaf9f20b7c81fc2ff229c976.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/84904cbf628af07bf18603698122cb08.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/84904cbf628af07bf18603698122cb08.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/84904cbf628af07bf18603698122cb08.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.20",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.200",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 24,
+    "unit_name": "quesitos",
+    "unit_price": "1.95",
+    "unit_selector": true,
+    "unit_size": 0.375
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/52405/queso-porciones-hacendado-caja",
+  "slug": "queso-porciones-hacendado-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/62e21e9aeaf9f20b7c81fc2ff229c976.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Anitin",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 327,
+              "level": 2,
+              "name": "Rosquilletas",
+              "order": 515
+            }
+          ],
+          "id": 64,
+          "level": 1,
+          "name": "Picos, rosquilletas y picatostes",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Anitin",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Rosquilletas de horno saladitas Anitin",
+    "legal_name": "Panes especiales con sal",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco. No exponer a la luz solar. Envasado en atmósfera protectora.",
+    "suppliers": [
+      {
+        "name": "Anitín Panes Especiales S.L.U."
+      }
+    ],
+    "usage_instructions": "Una vez abierto para apreciar mejor sus cualidades se recomienda consumir antes de 5 días."
+  },
+  "display_name": "Rosquilletas de horno saladitas Anitin",
+  "ean": "8423102210115",
+  "extra_info": [
+    ""
+  ],
+  "id": "82772",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>mostaza y productos derivados</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>cacahuetes y productos a base de cacahuetes</strong>.",
+    "ingredients": "Harina de <strong>TRIGO</strong> (<strong>GLUTEN</strong>), aceite refinado de girasol alto oleico, sal (2%), levadura, azúcar y agente de tratamiento de la harina: ácido ascórbico. Puede contener trazas de <strong>CACAHUETE</strong>, <strong>SOJA</strong>, <strong>DERIVADOS LÁCTEOS, MOSTAZA</strong> y <strong>SÉSAMO</strong>."
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/7020eff0b2a502ffa12bb18d8040f790.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7020eff0b2a502ffa12bb18d8040f790.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7020eff0b2a502ffa12bb18d8040f790.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/1c9caf6fa56921fd2c70eb19b0f0f09e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1c9caf6fa56921fd2c70eb19b0f0f09e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1c9caf6fa56921fd2c70eb19b0f0f09e.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "8.90",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 4,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.077,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "8.897",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 2,
+    "unit_name": "ud.",
+    "unit_price": "1.37",
+    "unit_selector": true,
+    "unit_size": 0.154
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/82772/rosquilletas-horno-saladitas-anitin-pack-2",
+  "slug": "rosquilletas-horno-saladitas-anitin-pack-2",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/7020eff0b2a502ffa12bb18d8040f790.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

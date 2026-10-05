@@ -1,0 +1,120 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 250,
+              "level": 2,
+              "name": "Fruta tropical",
+              "order": 306
+            }
+          ],
+          "id": 27,
+          "level": 1,
+          "name": "Fruta",
+          "order": 306
+        }
+      ],
+      "id": 1,
+      "level": 0,
+      "name": "Fruta y verdura",
+      "order": 306
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Kiwis amarillos",
+    "legal_name": "Kiwi",
+    "mandatory_mentions": "Categoría: I",
+    "origin": "Nueva Zelanda / Italia",
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "Frutas Iru"
+      },
+      {
+        "name": "MERCADONA"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Kiwis amarillos",
+  "ean": "2105400038399",
+  "extra_info": [
+    null
+  ],
+  "id": "3839",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": ""
+  },
+  "origin": "Nueva Zelanda / Italia",
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 10,
+      "regular": "https://prod-mercadona.imgix.net/images/c68209d5df52ad0af0087511c706c56b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c68209d5df52ad0af0087511c706c56b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c68209d5df52ad0af0087511c706c56b.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/719736eaeccc6dd31b996ce500dc098d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/719736eaeccc6dd31b996ce500dc098d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/719736eaeccc6dd31b996ce500dc098d.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/19c6b5856d6aaa715baf3c305445e681.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/19c6b5856d6aaa715baf3c305445e681.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/19c6b5856d6aaa715baf3c305445e681.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "6.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.77",
+    "unit_selector": true,
+    "unit_size": 0.58
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/3839/kiwis-amarillos-bandeja",
+  "slug": "kiwis-amarillos-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/c68209d5df52ad0af0087511c706c56b.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 450,
+              "level": 2,
+              "name": "Atún",
+              "order": 215
+            }
+          ],
+          "id": 122,
+          "level": 1,
+          "name": "Atún y otras conservas de pescado",
+          "order": 215
+        }
+      ],
+      "id": 14,
+      "level": 0,
+      "name": "Conservas, caldos y cremas",
+      "order": 215
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Atún claro en aceite de girasol Hacendado",
+    "legal_name": "Atún Claro Aceite Girasol",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar seco. Para disfrutar de todo el sabor y caracteristicas del producto, le recomendamos consumirlo en su totalidad una vez abierta la lata. Una vez abierta, si no lo consume en el momento, conservelo en el frigorifico, en su lata original y cubierto con el aceite. No lo guarde por un periodo superior a 24 h. despues de la apertura.",
+    "suppliers": [
+      {
+        "name": "ESCURIS, S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Atún claro en aceite de girasol Hacendado",
+  "ean": "8480000180551",
+  "extra_info": [
+    ""
+  ],
+  "id": "18055",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>pescado y productos a base de pescado</strong>.",
+    "ingredients": "<strong>Atún claro</strong>, aceite de girasol y sal"
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/d8fdd0b8183829db2aa6f531bc008202.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d8fdd0b8183829db2aa6f531bc008202.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d8fdd0b8183829db2aa6f531bc008202.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/be252e17e77fc5bf2b4fecf0beb10a9c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/be252e17e77fc5bf2b4fecf0beb10a9c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/be252e17e77fc5bf2b4fecf0beb10a9c.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "8.75",
+    "bunch_selector": false,
+    "drained_weight": 0.36,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.06,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "11.667",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 6,
+    "unit_name": "latas",
+    "unit_price": "4.20",
+    "unit_selector": true,
+    "unit_size": 0.48
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/18055/atun-claro-aceite-girasol-hacendado-pack-6",
+  "slug": "atun-claro-aceite-girasol-hacendado-pack-6",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/d8fdd0b8183829db2aa6f531bc008202.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 309,
+              "level": 2,
+              "name": "Queso curado",
+              "order": 159
+            }
+          ],
+          "id": 54,
+          "level": 1,
+          "name": "Queso curado, semicurado y tierno",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Queso curado mezcla Hacendado cortado en cuñitas",
+    "legal_name": "Queso de mezcla madurado",
+    "mandatory_mentions": "Corteza plástica no comestible: Contiene conservadores (E-202 y E-235) y colorantes (E-172).Origen de la leche: España.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Envasado en atmosfera protectora. Mantener en refrigeración. Se recomienda sacar del frío 15 minutos antes de consumir.",
+    "suppliers": [
+      {
+        "name": "Queserías Entrepinares S.A.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Queso curado mezcla Hacendado cortado en cuñitas",
+  "ean": "2105600509668",
+  "extra_info": [
+    null
+  ],
+  "id": "50966",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Libre de <strong>huevos y productos a base de huevo</strong>. Libre de <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "<strong>Leche [</strong>vaca (50%*), oveja (20%*) y cabra (15%*)] pasteurizada, sal, cuajo no animal, estabilizante (cloruro cálcico) y fermentos lácticos.* Promedios mínimos."
+  },
+  "origin": null,
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/bebb4ccbd7718c152e3212a4abeec174.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/bebb4ccbd7718c152e3212a4abeec174.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/bebb4ccbd7718c152e3212a4abeec174.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/69913cb8179a6d02006166f622b8958b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/69913cb8179a6d02006166f622b8958b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/69913cb8179a6d02006166f622b8958b.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "14.20",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "14.200",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "4.69",
+    "unit_selector": true,
+    "unit_size": 0.33
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/50966/queso-curado-mezcla-hacendado-cortado-cunitas-pieza",
+  "slug": "queso-curado-mezcla-hacendado-cortado-cunitas-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/bebb4ccbd7718c152e3212a4abeec174.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

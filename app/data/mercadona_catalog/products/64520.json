@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 521,
+              "level": 2,
+              "name": "Sándwiches",
+              "order": 213
+            }
+          ],
+          "id": 154,
+          "level": 1,
+          "name": "Helados",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Mini helado sándwich sabor vainilla y cookie Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Helado sabor vainilla con galleta con gotas de chocolate (26,6%), cobertura de chocolate con leche (13,5%), trocitos de chocolate (6,4%) y almendra (2,2%)",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en congelación a temperaturas inferiores a -18 c. Una vez descongelado, no volver a congelar.",
+    "suppliers": [
+      {
+        "name": "Fabricado por: HELADOS ESTIU, S.A."
+      },
+      {
+        "name": "HELADOS ESTIU, S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Mini helado sándwich sabor vainilla y cookie Hacendado",
+  "ean": "8480000645203",
+  "extra_info": [
+    ""
+  ],
+  "id": "64520",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Contiene <strong>sa</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>ml</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>frutos de cáscara</strong>. Puede contener <strong>mostaza y productos derivados</strong>.",
+    "ingredients": "<strong>Leche</strong> desnatada reconstituida, azúcar, harina de <strong>trigo (gluten)</strong>, grasas vegetales (coco y palma), <strong>lactosa</strong> y proteínas de la <strong>leche</strong>, manteca de cacao, pasta de cacao, grasa vegetal (palma), gotas de chocolate (2,4%) (azúcar, pasta de cacao, manteca de cacao, emulgentes: lecitinas (<strong>soja</strong>) vainillina), jarabe de glucosa y fructosa, <strong>almendra</strong> tostada (2,2%), <strong>leche</strong> entera en polvo, jarabe de azúcar invertido, grasa vegetal (coco), <strong>leche</strong> desnatada en polvo, <strong>huevo</strong> en polvo, materia grasa <strong>láctea</strong> anhidra, sal, emulgentes (lecitinas (<strong>soja</strong>), monoglicéridos y diglicéridos de ácidos grasos y (E 476)), estabilizantes (goma garrofín, goma guar, carragenanos), gasificantes ((E503ii) y (E 500ii)), colorantes (-caroteno y caramelo natural), vainilina, aroma y aroma natural de vainilla. Puede contener trazas de m<strong>ostaza </strong>y otros f<strong>rutos de cáscara.</strong>"
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/1266a392931685eb0323850f07f4d590.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1266a392931685eb0323850f07f4d590.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1266a392931685eb0323850f07f4d590.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/bae70715b7d814dae5ae4efcd7e9e786.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/bae70715b7d814dae5ae4efcd7e9e786.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/bae70715b7d814dae5ae4efcd7e9e786.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.88",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.085,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "5.883",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": 6,
+    "unit_name": "ud.",
+    "unit_price": "3.00",
+    "unit_selector": true,
+    "unit_size": 0.51
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/64520/helado-mini-sandwich-vainilla-cookie-hacendado-caja",
+  "slug": "helado-mini-sandwich-vainilla-cookie-hacendado-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/1266a392931685eb0323850f07f4d590.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

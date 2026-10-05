@@ -1,0 +1,134 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 281,
+              "level": 2,
+              "name": "Pollo",
+              "order": 17
+            }
+          ],
+          "id": 38,
+          "level": 1,
+          "name": "Aves y pollo",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Cuartos traseros de pollo certificado alimentado con un 50% de maíz",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "CUARTO TRASERO DE POLLO",
+    "mandatory_mentions": "Envasado en atmósfera protectora.",
+    "origin": "España",
+    "production_variant": "Producto de peso variable",
+    "storage_instructions": "Conservar entre 0 y 4°C.",
+    "suppliers": [
+      {
+        "name": "Avinatur Producciones Avícolas, S.L.U."
+      },
+      {
+        "name": "Avícola Sánchez S.A."
+      },
+      {
+        "name": "Avícola Sánchez, S.L."
+      },
+      {
+        "name": "Avícola de Galicia, S.A.U."
+      },
+      {
+        "name": "DOLZ ESPAÑA SL"
+      },
+      {
+        "name": "Nutrave S.A"
+      },
+      {
+        "name": "Sada p.a. Castilla - Galicia. S.A."
+      },
+      {
+        "name": "UVE, S.A."
+      }
+    ],
+    "usage_instructions": "Cocinar completamente (75°C) antes de su consumo. Una vez abierto consumir antes de 24h"
+  },
+  "display_name": "Cuartos traseros de pollo certificado alimentado con un 50% de maíz",
+  "ean": "2105100027839",
+  "extra_info": [
+    null
+  ],
+  "id": "2783",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": "alimentado con un 50% de maíz",
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": "1/4 pollo campo"
+  },
+  "origin": "España",
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/4c371b41c61e93aa727ed205939fe77f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4c371b41c61e93aa727ed205939fe77f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4c371b41c61e93aa727ed205939fe77f.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/5fb268ce2d0f462e9315fc9afaef1f96.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5fb268ce2d0f462e9315fc9afaef1f96.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5fb268ce2d0f462e9315fc9afaef1f96.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "4.70",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "4.700",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.90",
+    "unit_selector": true,
+    "unit_size": 0.83
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/2783/cuartos-traseros-pollo-certificado-alimentado-con-50-maiz-bandeja",
+  "slug": "cuartos-traseros-pollo-certificado-alimentado-con-50-maiz-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/4c371b41c61e93aa727ed205939fe77f.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

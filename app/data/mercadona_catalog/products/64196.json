@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 893,
+              "level": 2,
+              "name": "Cucuruchos",
+              "order": 213
+            }
+          ],
+          "id": 154,
+          "level": 1,
+          "name": "Helados",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Helado cucurucho sabor nata Hacendado con punta de chocolate",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Helado sabor a nata, decoración y recubrimiento del barquillo sabor  chocolate, crocanti de avellanas y avellanas caramelizadas",
+    "mandatory_mentions": "",
+    "origin": "ESPAÑA",
+    "production_variant": "",
+    "storage_instructions": "Conservar a temperaturas inferiores a -18C. Una vez descongelado no volver a congelar.",
+    "suppliers": [
+      {
+        "name": "Crestas La Galeta, S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Helado cucurucho sabor nata Hacendado",
+  "ean": "8410663200211",
+  "extra_info": [
+    ""
+  ],
+  "id": "64196",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>sh</strong>. Puede contener <strong>altramuces y productos a base de altramuces</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Puede contener <strong>cacahuetes y productos a base de cacahuetes</strong>. Contiene <strong>frutos de cáscara</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>huevos y productos a base de huevo</strong>. Contiene <strong>trigo y productos derivados</strong>.",
+    "ingredients": "<strong>Leche</strong>  desnatada reconstituida, barquillo 17% [harina de <strong>trigo</strong>, azúcar, manteca de coco, emulgente: lecitina de  <strong>soja</strong>, sal], recubrimiento del barquillo y decoración superior 16% [chocolate (azúcar, pasta de cacao, manteca de cacao, emulgente: lecitina de <strong>soja</strong>), manteca de coco], azúcar, manteca de coco, suero de <strong>leche</strong> en polvo, jarabe de glucosa y fructosa, crocanti de <strong>avellanas</strong> 1% (azúcar y <strong>avellanas</strong> 20%),  <strong>avellanas</strong>  caramelizadas 1% (<strong>avellanas</strong> 70% y azúcar),emulgente: monoglicéridos y diglicéridos de ácidos grasos, estabilizantes: goma guar, goma garrofín y carragenanos, proteínas de la <strong>leche</strong> y aroma. Puede contener trazas de otros <strong>frutos de cáscara</strong>, <strong>cacahuete</strong>, <strong>huevo</strong>, <strong>mostaza</strong> y <strong>altramuz</strong>."
+  },
+  "origin": "ESPAÑA",
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/b4acb828f12297e808998840ef118437.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b4acb828f12297e808998840ef118437.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b4acb828f12297e808998840ef118437.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/78ce2ca3026c422836c8580031b22011.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/78ce2ca3026c422836c8580031b22011.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/78ce2ca3026c422836c8580031b22011.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.40",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.12,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "3.403",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": 6,
+    "unit_name": "ud.",
+    "unit_price": "2.45",
+    "unit_selector": true,
+    "unit_size": 0.72
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/64196/helado-cucurucho-nata-caja",
+  "slug": "helado-cucurucho-nata-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/b4acb828f12297e808998840ef118437.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

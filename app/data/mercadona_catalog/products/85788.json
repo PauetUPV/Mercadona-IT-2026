@@ -1,0 +1,119 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 335,
+              "level": 2,
+              "name": "Pastelitos surtidos",
+              "order": 515
+            }
+          ],
+          "id": 66,
+          "level": 1,
+          "name": "Bollería envasada",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Rosquilla al cacao Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Producto pastelería",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Consérvese en lugar fresco y seco",
+    "suppliers": [
+      {
+        "name": "CEREALTO BRIVIESCA, S.L."
+      },
+      {
+        "name": "Cerealto Briviesca, SL"
+      },
+      {
+        "name": "M&C BAKERY S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Rosquilla al cacao Hacendado",
+  "ean": "8480000857880",
+  "extra_info": [
+    ""
+  ],
+  "id": "85788",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "Cobertura especial con grasa vegetal (24%) [azúcar, grasas vegetales (palmiste, palma), cacao desgrasado en polvo (18%), suero de <strong>leche</strong> en polvo, conservador (ácido sórbico), emulgentes (lecitina de girasol, E492), aroma], harina de <strong>trigo</strong> (<strong>gluten</strong>), grasa vegetal de palma, agua, azúcar, humectantes (maltitoles, sorbitoles), <strong>huevo</strong> líquido pasteurizado, aceite refinado de girasol, <strong>huevo</strong> en polvo, <strong>leche</strong> desnatada en polvo, suero de <strong>leche</strong> en polvo, almidones [maíz, <strong>trigo</strong>, (<strong>gluten</strong>)], dextrosa, maltodextrina, sal, conservadores (sorbato potásico, ácido sórbico), emulgentes (E471, E482), estabilizantes (E461, goma xantana), gasificantes (E500ii, E450i, E341), aromas. <strong>Puede contener trazas de mostaza, soja y frutos de cáscara.</strong>"
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/55a1500c334084172f9a51c384f6f4f7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/55a1500c334084172f9a51c384f6f4f7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/55a1500c334084172f9a51c384f6f4f7.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/364d42c37040234b0cbb443eeeda15e9.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/364d42c37040234b0cbb443eeeda15e9.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/364d42c37040234b0cbb443eeeda15e9.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "5.75",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.750",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.21",
+    "unit_selector": true,
+    "unit_size": 0.037
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/85788/rosquillas-cacao-hacendado",
+  "slug": "rosquillas-cacao-hacendado",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/55a1500c334084172f9a51c384f6f4f7.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

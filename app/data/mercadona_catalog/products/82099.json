@@ -1,0 +1,120 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 334,
+              "level": 2,
+              "name": "Bollería envasada",
+              "order": 515
+            }
+          ],
+          "id": 66,
+          "level": 1,
+          "name": "Bollería envasada",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Bizcochos Hacendado",
+    "legal_name": "Producto de pastelería",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Consérvese en lugar fresco, seco y protegido de la luz.",
+    "suppliers": [
+      {
+        "name": "CEREALTO. CEREALTO BRIVIESCA, SL"
+      },
+      {
+        "name": "Cerealto Briviesca, SL"
+      },
+      {
+        "name": "M&C BAKERY S.L."
+      },
+      {
+        "name": "SIRO EL ESPINAR, S.L."
+      }
+    ],
+    "usage_instructions": "Producto listo para su consumo. Una vez abierto el envase, mantener el producto en un recipiente cerrado y consumir en pocos días."
+  },
+  "display_name": "Bizcochos Hacendado",
+  "ean": "8480000820990",
+  "extra_info": [
+    ""
+  ],
+  "id": "82099",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>mostaza y productos derivados</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "<strong> </strong>Harina de <strong>trigo, huevo</strong> líquido pasteurizado, azúcar, agua, humectante (sorbitol), aceite  refinado de girasol (2%), gasificantes (difosfatos, carbonatos de sodio), dextrosa, sal, conservador (sorbato potásico), emulgentes (E-471, E-477, E-470a, E-1520), espesante (goma xantana), aromas. <strong>Contiene</strong> <strong>cereales con gluten y huevo.</strong> <strong>Trazas de soja, leche y/o derivados y frutos de cáscara.</strong><p>"
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/4fba1503f1b274ccc7be9f90f5c05bf4.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4fba1503f1b274ccc7be9f90f5c05bf4.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4fba1503f1b274ccc7be9f90f5c05bf4.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/0ae312cfabc90acceaf5da37ecab1a7e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0ae312cfabc90acceaf5da37ecab1a7e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0ae312cfabc90acceaf5da37ecab1a7e.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.67",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.667",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 24,
+    "unit_name": "ud.",
+    "unit_price": "2.00",
+    "unit_selector": true,
+    "unit_size": 0.3
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/82099/bizcochos-hacendado-paquete",
+  "slug": "bizcochos-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/4fba1503f1b274ccc7be9f90f5c05bf4.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

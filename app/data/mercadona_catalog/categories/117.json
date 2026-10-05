@@ -1,0 +1,2096 @@
+{
+  "categories": [
+    {
+      "id": 435,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Tomate frito",
+      "order": 7,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 12,
+              "level": 0,
+              "name": "Aceite, especias y salsas",
+              "order": 7
+            }
+          ],
+          "display_name": "Tomate frito Hacendado",
+          "id": "17132",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Pack-3",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "1.13",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.4,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "1.125",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 3,
+            "unit_name": "briks",
+            "unit_price": "1.35",
+            "unit_selector": true,
+            "unit_size": 1.2
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/17132/tomate-frito-hacendado-pack-3",
+          "slug": "tomate-frito-hacendado-pack-3",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/e589c8259daf4b9335098fb9ade7ee09.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 12,
+              "level": 0,
+              "name": "Aceite, especias y salsas",
+              "order": 7
+            }
+          ],
+          "display_name": "Tomate frito Hacendado",
+          "id": "17151",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Pack-3",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "1.51",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.21,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "1.508",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 3,
+            "unit_name": "mini briks",
+            "unit_price": "0.95",
+            "unit_selector": true,
+            "unit_size": 0.63
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/17151/tomate-frito-hacendado-pack-3",
+          "slug": "tomate-frito-hacendado-pack-3",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/bef3c040943e4b6dd59b15f565ec4f08.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 12,
+              "level": 0,
+              "name": "Aceite, especias y salsas",
+              "order": 7
+            }
+          ],
+          "display_name": "Tomate frito Hacendado",
+          "id": "17108",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Tarro",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "1.61",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "1.608",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.90",
+            "unit_selector": true,
+            "unit_size": 0.56
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/17108/tomate-frito-hacendado-tarro",
+          "slug": "tomate-frito-hacendado-tarro",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/18fcaf49c55e224bb2bd9774dec259fa.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 12,
+              "level": 0,
+              "name": "Aceite, especias y salsas",
+              "order": 7
+            }
+          ],
+          "display_name": "Tomate frito receta artesana Hacendado",
+          "id": "17163",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Tarro",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.57",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "3.572",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.00",
+            "unit_selector": true,
+            "unit_size": 0.56
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/17163/tomate-frito-receta-artesana-hacendado-con-aceite-oliva-tarro",
+          "slug": "tomate-frito-receta-artesana-hacendado-con-aceite-oliva-tarro",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/959baf90e8b8eee09398534f7c549992.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 12,
+              "level": 0,
+              "name": "Aceite, especias y salsas",
+              "order": 7
+            }
+          ],
+          "display_name": "Tomate frito receta artesana Hacendado",
+          "id": "17131",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Tarro",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "4.67",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "4.667",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.40",
+            "unit_selector": true,
+            "unit_size": 0.3
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/17131/tomate-frito-receta-artesana-hacendado-con-aceite-oliva-tarro",
+          "slug": "tomate-frito-receta-artesana-hacendado-con-aceite-oliva-tarro",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/450e65a016ec657d968e9926d761ec85.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 12,
+              "level": 0,
+              "name": "Aceite, especias y salsas",
+              "order": 7
+            }
+          ],
+          "display_name": "Tomate frito Hida",
+          "id": "17110",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Bote",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.88",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "3.875",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.55",
+            "unit_selector": true,
+            "unit_size": 0.4
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/17110/tomate-frito-hida-bote",
+          "slug": "tomate-frito-hida-bote",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/41c22877e6e0c95dd006fd7696cb9919.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 12,
+              "level": 0,
+              "name": "Aceite, especias y salsas",
+              "order": 7
+            }
+          ],
+          "display_name": "Tomate frito estilo casero Hacendado",
+          "id": "17153",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Brik",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.16",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "3.158",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.20",
+            "unit_selector": true,
+            "unit_size": 0.38
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/17153/tomate-frito-estilo-casero-hacendado-con-aceite-oliva-brick",
+          "slug": "tomate-frito-estilo-casero-hacendado-con-aceite-oliva-brick",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/b316f525c80033093912e2829796b5cc.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 12,
+              "level": 0,
+              "name": "Aceite, especias y salsas",
+              "order": 7
+            }
+          ],
+          "display_name": "Tomate frito Hacendado con aceite de oliva",
+          "id": "17128",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Pack-3",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.22",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.21,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "2.223",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 3,
+            "unit_name": "mini briks",
+            "unit_price": "1.40",
+            "unit_selector": true,
+            "unit_size": 0.63
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/17128/tomate-frito-hacendado-con-aceite-oliva-pack-3",
+          "slug": "tomate-frito-hacendado-con-aceite-oliva-pack-3",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/bac47a7f2186be4ef7b42b3fbc3775d6.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 12,
+              "level": 0,
+              "name": "Aceite, especias y salsas",
+              "order": 7
+            }
+          ],
+          "display_name": "Tomate frito sin azúcares añadidos Hacendado",
+          "id": "17330",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Tarro",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "1.96",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "1.965",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.10",
+            "unit_selector": true,
+            "unit_size": 0.56
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/17330/tomate-frito-sin-azucares-anadidos-hacendado-tarro",
+          "slug": "tomate-frito-sin-azucares-anadidos-hacendado-tarro",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/67b219b3fd062167db5b46611259160e.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    },
+    {
+      "id": 843,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Salsas para carnes",
+      "order": 7,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 12,
+              "level": 0,
+              "name": "Aceite, especias y salsas",
+              "order": 7
+            }
+          ],
+          "display_name": "Salsa Barbacoa Hacendado",
+          "id": "17346",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Bote",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.29",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "3.286",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.15",
+            "unit_selector": true,
+            "unit_size": 0.35
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/17346/salsa-barbacoa-hacendado-bote",
+          "slug": "salsa-barbacoa-hacendado-bote",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/d01e6c7c307f1c60a9e67aac3e22700e.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 12,
+              "level": 0,
+              "name": "Aceite, especias y salsas",
+              "order": 7
+            }
+          ],
+          "display_name": "Salsa pimienta verde Hacendado",
+          "id": "17502",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Sobre",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "25.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "25.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.25",
+            "unit_selector": true,
+            "unit_size": 0.05
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/17502/salsa-pimienta-verde-hacendado",
+          "slug": "salsa-pimienta-verde-hacendado",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/66986e35fb04401c696133d645f401d9.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 12,
+              "level": 0,
+              "name": "Aceite, especias y salsas",
+              "order": 7
+            }
+          ],
+          "display_name": "Salsa Burger Hacendado",
+          "id": "17347",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Bote",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "5.60",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "5.600",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.40",
+            "unit_selector": true,
+            "unit_size": 0.25
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/17347/salsa-burger-hacendado-bote",
+          "slug": "salsa-burger-hacendado-bote",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/afc432a6cb8dca0e3c72c62212f4c8f5.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 12,
+              "level": 0,
+              "name": "Aceite, especias y salsas",
+              "order": 7
+            }
+          ],
+          "display_name": "Salsa Piri Piri Hacendado",
+          "id": "17396",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Botella",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "5.13",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "5.129",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.00",
+            "unit_selector": true,
+            "unit_size": 0.195
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/17396/salsa-piri-piri-hacendado-botella",
+          "slug": "salsa-piri-piri-hacendado-botella",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/c17d2319747366d2987a22ad455aa37e.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 12,
+              "level": 0,
+              "name": "Aceite, especias y salsas",
+              "order": 7
+            }
+          ],
+          "display_name": "Salsa curry Tikka Masala Hacendado picante",
+          "id": "35412",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "11.11",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "11.112",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.00",
+            "unit_selector": true,
+            "unit_size": 0.18
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/35412/salsa-curry-tikka-masala-hacendado-picante-paquete",
+          "slug": "salsa-curry-tikka-masala-hacendado-picante-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/10d9d4c3a66655996a17513dca01d11b.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 12,
+              "level": 0,
+              "name": "Aceite, especias y salsas",
+              "order": 7
+            }
+          ],
+          "display_name": "Salsa Chimichurri Hacendado",
+          "id": "12847",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Bote",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "4.68",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "4.678",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.45",
+            "unit_selector": true,
+            "unit_size": 0.31
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/12847/salsa-brasa-sabor-hacendado-bote",
+          "slug": "salsa-brasa-sabor-hacendado-bote",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/50d27ac6571a8cfd3edb173b52ad87a7.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    },
+    {
+      "id": 842,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Salsas para pasta",
+      "order": 7,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 12,
+              "level": 0,
+              "name": "Aceite, especias y salsas",
+              "order": 7
+            }
+          ],
+          "display_name": "Salsa Pesto con albahaca Hacendado",
+          "id": "35438",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Tarro",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "10.26",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "10.264",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.95",
+            "unit_selector": true,
+            "unit_size": 0.19
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/35438/salsa-pesto-con-albahaca-hacendado-tarro",
+          "slug": "salsa-pesto-con-albahaca-hacendado-tarro",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/92e34ebb5311251402c7009b282835b6.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 12,
+              "level": 0,
+              "name": "Aceite, especias y salsas",
+              "order": 7
+            }
+          ],
+          "display_name": "Salsa de tomate con Albahaca Hacendado",
+          "id": "52859",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Tarro",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.75",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "3.750",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.50",
+            "unit_selector": true,
+            "unit_size": 0.4
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/52859/salsa-tomate-con-albahaca-hacendado-tarro",
+          "slug": "salsa-tomate-con-albahaca-hacendado-tarro",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/0e502392ac037a1aefa8b4ed789485fb.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 12,
+              "level": 0,
+              "name": "Aceite, especias y salsas",
+              "order": 7
+            }
+          ],
+          "display_name": "Salsa fresca Queso Hacendado",
+          "id": "17409",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "8.06",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "8.056",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.45",
+            "unit_selector": true,
+            "unit_size": 0.18
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/17409/salsa-fresca-queso-hacendado-paquete",
+          "slug": "salsa-fresca-queso-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/7b61519c9f97f7b985792fc84bbac56f.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 12,
+              "level": 0,
+              "name": "Aceite, especias y salsas",
+              "order": 7
+            }
+          ],
+          "display_name": "Salsa fresca Pesto con albahaca Hacendado",
+          "id": "35186",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Tarrina",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "12.67",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "12.667",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.90",
+            "unit_selector": true,
+            "unit_size": 0.15
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/35186/salsa-fresca-pesto-con-albahaca-hacendado-tarrina",
+          "slug": "salsa-fresca-pesto-con-albahaca-hacendado-tarrina",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/8fb9b98cc697b51cc7cd933970c9296a.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 12,
+              "level": 0,
+              "name": "Aceite, especias y salsas",
+              "order": 7
+            }
+          ],
+          "display_name": "Salsa fresca Carbonara Hacendado",
+          "id": "35183",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Tarrina",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "7.25",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "7.250",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.45",
+            "unit_selector": true,
+            "unit_size": 0.2
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/35183/salsa-fresca-carbonara-hacendado-paquete",
+          "slug": "salsa-fresca-carbonara-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/417147723fc6725115ae3ce66c889d98.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 12,
+              "level": 0,
+              "name": "Aceite, especias y salsas",
+              "order": 7
+            }
+          ],
+          "display_name": "Salsa fresca Trufa Hacendado",
+          "id": "20889",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Tarrina",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "9.06",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "9.063",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.45",
+            "unit_selector": true,
+            "unit_size": 0.16
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/20889/salsa-fresca-trufa-hacendado-tarrina",
+          "slug": "salsa-fresca-trufa-hacendado-tarrina",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/6010a89f8c58764e71cfea49125eecdb.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    },
+    {
+      "id": 844,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Salsas orientales",
+      "order": 7,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 12,
+              "level": 0,
+              "name": "Aceite, especias y salsas",
+              "order": 7
+            }
+          ],
+          "display_name": "Salsa de Soja Hacendado",
+          "id": "17360",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Botella",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "4.80",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "4.800",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.20",
+            "unit_selector": true,
+            "unit_size": 0.25
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/17360/salsa-soja-hacendado-botella",
+          "slug": "salsa-soja-hacendado-botella",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/ecdca4a8897163723c7826a359c12db8.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 12,
+              "level": 0,
+              "name": "Aceite, especias y salsas",
+              "order": 7
+            }
+          ],
+          "display_name": "Salsa Teriyaki Hacendado",
+          "id": "17362",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Botella",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "6.80",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "6.800",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.70",
+            "unit_selector": true,
+            "unit_size": 0.25
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/17362/salsa-teriyaki-hacendado-botella",
+          "slug": "salsa-teriyaki-hacendado-botella",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/b361883f2b0e1831df892c20d8d3177f.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 12,
+              "level": 0,
+              "name": "Aceite, especias y salsas",
+              "order": 7
+            }
+          ],
+          "display_name": "Salsa Thai Chili dulce J-Lek",
+          "id": "22613",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Botella",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "5.60",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "5.600",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.40",
+            "unit_selector": true,
+            "unit_size": 0.25
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/22613/salsa-thai-chili-dulce-j-lek-botella",
+          "slug": "salsa-thai-chili-dulce-j-lek-botella",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/6624bbf085f2c5cbd7a1bc2d96cae4a3.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 12,
+              "level": 0,
+              "name": "Aceite, especias y salsas",
+              "order": 7
+            }
+          ],
+          "display_name": "Salsa de Soja sin gluten Hacendado",
+          "id": "17382",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Botella",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "10.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "10.000",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.50",
+            "unit_selector": true,
+            "unit_size": 0.25
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/17382/salsa-soja-sin-gluten-hacendado-botella",
+          "slug": "salsa-soja-sin-gluten-hacendado-botella",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/72f1e3b9e1300b612fb69f4da0aef0a0.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    },
+    {
+      "id": 440,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Otras salsas",
+      "order": 7,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 12,
+              "level": 0,
+              "name": "Aceite, especias y salsas",
+              "order": 7
+            }
+          ],
+          "display_name": "Guacamole Hacendado",
+          "id": "3840",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Tarrina",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "7.90",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "7.900",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.95",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/3840/guacamole-hacendado-95-aguacate-fresco-tarrina",
+          "slug": "guacamole-hacendado-95-aguacate-fresco-tarrina",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/5c3a7d00a6c79339f48bae00593089ed.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 12,
+              "level": 0,
+              "name": "Aceite, especias y salsas",
+              "order": 7
+            }
+          ],
+          "display_name": "Guacamole Hacendado",
+          "id": "3852",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Tarrina",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "9.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "9.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.80",
+            "unit_selector": true,
+            "unit_size": 0.2
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/3852/guacamole-hacendado-95-aguacate-fresco-tarrina",
+          "slug": "guacamole-hacendado-95-aguacate-fresco-tarrina",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/66c3481e7af13e610aa808949d18a5f3.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 12,
+              "level": 0,
+              "name": "Aceite, especias y salsas",
+              "order": 7
+            }
+          ],
+          "display_name": "Salsa Yogur Hacendado",
+          "id": "17327",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Bote",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.87",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "3.871",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.20",
+            "unit_selector": true,
+            "unit_size": 0.31
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/17327/salsa-yogur-hacendado-bote",
+          "slug": "salsa-yogur-hacendado-bote",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/f4f57aefa10e985720547fb5709d2239.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 12,
+              "level": 0,
+              "name": "Aceite, especias y salsas",
+              "order": 7
+            }
+          ],
+          "display_name": "Bechamel Hacendado",
+          "id": "60988",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Pack-3",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.92",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.2,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "3.917",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 3,
+            "unit_name": "mini briks",
+            "unit_price": "2.35",
+            "unit_selector": true,
+            "unit_size": 0.6
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/60988/bechamel-hacendado-pack-3",
+          "slug": "bechamel-hacendado-pack-3",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/acadbaaa0407d07b2d297f859d93e5db.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 12,
+              "level": 0,
+              "name": "Aceite, especias y salsas",
+              "order": 7
+            }
+          ],
+          "display_name": "Salsa Mexicana Hacendado",
+          "id": "16827",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Tarro",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "4.17",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "4.167",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.25",
+            "unit_selector": true,
+            "unit_size": 0.3
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/16827/salsa-mexicana-hacendado-tarro",
+          "slug": "salsa-mexicana-hacendado-tarro",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/e2a7598c750f05d6a6635c5f5b2f7e93.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 12,
+              "level": 0,
+              "name": "Aceite, especias y salsas",
+              "order": 7
+            }
+          ],
+          "display_name": "Salsa Ranch Hacendado",
+          "id": "17386",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Bote",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "5.60",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "5.600",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.40",
+            "unit_selector": true,
+            "unit_size": 0.25
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/17386/salsa-ranch-hacendado-bote",
+          "slug": "salsa-ranch-hacendado-bote",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/e3ee331cbde6b2a2b36c766b8b645d09.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 12,
+              "level": 0,
+              "name": "Aceite, especias y salsas",
+              "order": 7
+            }
+          ],
+          "display_name": "Salsa César Hacendado",
+          "id": "17366",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Bote",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "4.52",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "4.517",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.40",
+            "unit_selector": true,
+            "unit_size": 0.31
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/17366/salsa-cesar-hacendado-bote",
+          "slug": "salsa-cesar-hacendado-bote",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/122802e38ed7cd81b07053e5a0728859.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 12,
+              "level": 0,
+              "name": "Aceite, especias y salsas",
+              "order": 7
+            }
+          ],
+          "display_name": "Aliño de aceite con perejil y ajo Hacendado",
+          "id": "17265",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Tarrina",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "12.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "12.000",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.80",
+            "unit_selector": true,
+            "unit_size": 0.15
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/17265/alino-aceite-ajo-perejil-hacendado-tarrina",
+          "slug": "alino-aceite-ajo-perejil-hacendado-tarrina",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/7582550ed8c16126b739f1352fa53f6e.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 12,
+              "level": 0,
+              "name": "Aceite, especias y salsas",
+              "order": 7
+            }
+          ],
+          "display_name": "Salsa Miel y Mostaza Hacendado",
+          "id": "52467",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Bote",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "4.26",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "4.265",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.45",
+            "unit_selector": true,
+            "unit_size": 0.34
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/52467/salsa-miel-mostaza-hacendado-bote",
+          "slug": "salsa-miel-mostaza-hacendado-bote",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/bf1910aae611cceecb9f3f477905425b.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 12,
+              "level": 0,
+              "name": "Aceite, especias y salsas",
+              "order": 7
+            }
+          ],
+          "display_name": "Salsa de Trufa",
+          "id": "17259",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Bote",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "38.75",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "38.750",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.10",
+            "unit_selector": true,
+            "unit_size": 0.08
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/17259/salsa-trufas-bote",
+          "slug": "salsa-trufas-bote",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/5cc6e29dc5753bd3e518ffa264cfc631.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 12,
+              "level": 0,
+              "name": "Aceite, especias y salsas",
+              "order": 7
+            }
+          ],
+          "display_name": "Salsa de Queso Hacendado",
+          "id": "35344",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Tarro",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "5.89",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "5.893",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.65",
+            "unit_selector": true,
+            "unit_size": 0.28
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/35344/salsa-queso-hacendado-tarro",
+          "slug": "salsa-queso-hacendado-tarro",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/5afafecdd64e91bea0c6e4bfdfec61da.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 12,
+              "level": 0,
+              "name": "Aceite, especias y salsas",
+              "order": 7
+            }
+          ],
+          "display_name": "Chili con carne Hacendado",
+          "id": "23137",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Bote",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "6.67",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "6.667",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.80",
+            "unit_selector": true,
+            "unit_size": 0.42
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/23137/chili-con-carne-hacendado-bote",
+          "slug": "chili-con-carne-hacendado-bote",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/3c7115e0e0c54d7e7a59fd47994e83ea.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 12,
+              "level": 0,
+              "name": "Aceite, especias y salsas",
+              "order": 7
+            }
+          ],
+          "display_name": "Salsa Cocktail Hacendado",
+          "id": "11552",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Bote",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.06",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "3.062",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.50",
+            "unit_selector": true,
+            "unit_size": 0.49
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/11552/salsa-cocktail-hacendado-bote",
+          "slug": "salsa-cocktail-hacendado-bote",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/61e5171a82fd8a3a4fd026482190bf2e.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 12,
+              "level": 0,
+              "name": "Aceite, especias y salsas",
+              "order": 7
+            }
+          ],
+          "display_name": "Carne de pimiento choricero Hacendado",
+          "id": "34157",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Tarro",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "11.43",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "11.429",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.60",
+            "unit_selector": true,
+            "unit_size": 0.14
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/34157/carne-pimiento-choricero-hacendado-tarro",
+          "slug": "carne-pimiento-choricero-hacendado-tarro",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/9e50c105104706ffbc3a73c66453c47c.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 12,
+              "level": 0,
+              "name": "Aceite, especias y salsas",
+              "order": 7
+            }
+          ],
+          "display_name": "Pasta de sésamo Tahini Hacendado",
+          "id": "17441",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Tarro",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "14.75",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "14.750",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.95",
+            "unit_selector": true,
+            "unit_size": 0.2
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/17441/pasta-sesamo-tahini-hacendado-tarro",
+          "slug": "pasta-sesamo-tahini-hacendado-tarro",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/cff0f56138bafc3ab2ed1bdf5487f2cc.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    }
+  ],
+  "id": 117,
+  "is_extended": false,
+  "layout": 1,
+  "name": "Otras salsas",
+  "next_category": {
+    "id": 156,
+    "name": "Agua"
+  },
+  "order": 7,
+  "published": true
+}

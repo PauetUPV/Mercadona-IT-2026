@@ -1,0 +1,119 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Estrella Galicia",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 549,
+              "level": 2,
+              "name": "Cerveza lata",
+              "order": 15
+            }
+          ],
+          "id": 164,
+          "level": 1,
+          "name": "Cerveza",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": "5.5º",
+    "brand": "Estrella Galicia",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Cerveza especial Estrella Galicia",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Cerveza Especial",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Mantener en lugar fresco y seco",
+    "suppliers": [
+      {
+        "name": "HIJOS DE RIVERA S.A.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Cerveza especial Estrella Galicia",
+  "ean": "8412598000096",
+  "extra_info": [
+    null
+  ],
+  "id": "66586",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>gb</strong>.",
+    "ingredients": "Agua, <strong>malta de cebada</strong>, maíz y lúpulo."
+  },
+  "origin": null,
+  "packaging": "Pack-10",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/a123fee0cdb7eb60bb5223e793647a19.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a123fee0cdb7eb60bb5223e793647a19.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a123fee0cdb7eb60bb5223e793647a19.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/666082e08e83896007d9a85b895ca10d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/666082e08e83896007d9a85b895ca10d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/666082e08e83896007d9a85b895ca10d.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 10,
+      "regular": "https://prod-mercadona.imgix.net/images/dc7ad852a2c2667eb05d1645c5295179.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/dc7ad852a2c2667eb05d1645c5295179.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/dc7ad852a2c2667eb05d1645c5295179.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.67",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.33,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "2.667",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": 10,
+    "unit_name": "latas",
+    "unit_price": "8.80",
+    "unit_selector": true,
+    "unit_size": 3.3
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/66586/cerveza-especial-estrella-galicia-pack-10",
+  "slug": "cerveza-especial-estrella-galicia-pack-10",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/a123fee0cdb7eb60bb5223e793647a19.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

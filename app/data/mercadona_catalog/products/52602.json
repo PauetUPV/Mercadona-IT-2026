@@ -1,0 +1,114 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 321,
+              "level": 2,
+              "name": "Pan de hamburguesa y wrap",
+              "order": 515
+            }
+          ],
+          "id": 60,
+          "level": 1,
+          "name": "Pan de molde y otras especialidades",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pan de burger Brioche Hacendado",
+    "legal_name": "Producto de bollería",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "Dulcesa S.L.U."
+      },
+      {
+        "name": "Vicky Foods Products, S.L.U"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Pan de burger Brioche Hacendado",
+  "ean": "8402001013843",
+  "extra_info": [
+    ""
+  ],
+  "id": "52602",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Harina de TRIGO, HUEVO , azúcar, masa madre de TRIGO, levadura, aceite de girasol, mantequilla (2,4%) (LECHE), gluten de TRIGO, sal, dextrosa, LECHE en polvo, conservadores: E-282, E-202 y E-200, emulgente: E-471, proteína de guisante, colorante: carotenos, dextrosa, estabilizante: goma guar y aroma. Puede contener trazas de soja, mostaza, granos de sésamo y/o productos derivados.Público de destino: Población en general excepto personas con una alimentación especial."
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/c4f9f0e92cd76bbb10bb9761df1ca7b6.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c4f9f0e92cd76bbb10bb9761df1ca7b6.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c4f9f0e92cd76bbb10bb9761df1ca7b6.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/269195f5342bbb515d218b41f2194b03.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/269195f5342bbb515d218b41f2194b03.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/269195f5342bbb515d218b41f2194b03.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "7.33",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.334",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 2,
+    "unit_name": "ud.",
+    "unit_price": "1.10",
+    "unit_selector": true,
+    "unit_size": 0.15
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/52602/pan-hamburguesa-brioche-hacendado-paquete",
+  "slug": "pan-hamburguesa-brioche-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/c4f9f0e92cd76bbb10bb9761df1ca7b6.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

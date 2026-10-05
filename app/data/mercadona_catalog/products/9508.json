@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 355,
+              "level": 2,
+              "name": "Cereales",
+              "order": 18
+            }
+          ],
+          "id": 78,
+          "level": 1,
+          "name": "Cereales",
+          "order": 18
+        }
+      ],
+      "id": 7,
+      "level": 0,
+      "name": "Cereales y galletas",
+      "order": 18
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Cereales copos de trigo Chocodays Hacendado con chocolate",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Chocodays 500g. Copos de trigo extusionados y recubiertos",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco, seco y protegido de la luz.",
+    "suppliers": [
+      {
+        "name": "CEREALTO FOODS CORPORATE S.L.U."
+      },
+      {
+        "name": "CEREALTO SIRO FOODS S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Cereales copos de trigo Chocodays Hacendado con chocolate",
+  "ean": "8402001011764",
+  "extra_info": [
+    null
+  ],
+  "id": "9508",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "con chocolate",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Harina de <strong>trigo</strong> integral (<strong>gluten</strong>) (31%), chocolate en polvo (28%) (azúcar, cacao), harina de <strong>trigo</strong> (<strong>gluten</strong>) (25%), sémola de maíz, jarabe de azúcar invertido, aceite de girasol alto oleico, emulgente (lecitina de girasol), sal. <strong>Puede contener trazas de soja, leche, frutos de cáscara y mostaza.</strong> ***** / / / / / A PARTIR DEL LOTE 106027061000 Y FCP 28/01/2027 HAY UN CAMBIO DE ETIQUETADO / / / / / ***** Harina de <strong>trigo</strong> integral (<strong>gluten</strong>) (33%), chocolate en polvo (25%) (azúcar, cacao), harina de <strong>trigo</strong> (<strong>gluten</strong>) (25%), sémola de maíz, jarabe de azúcar invertido, aceite refinado de girasol alto oleico, emulgente (lecitina de girasol), sal. <strong>Puede contener trazas de soja, leche, frutos de cáscara y mostaza.</strong>"
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/b993cc6e84c05e720f2a69794c345ca2.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b993cc6e84c05e720f2a69794c345ca2.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b993cc6e84c05e720f2a69794c345ca2.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/5b43dced6e97f38ff89c1e95d6cace45.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5b43dced6e97f38ff89c1e95d6cace45.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5b43dced6e97f38ff89c1e95d6cace45.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.80",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "3.800",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.90",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/9508/cereales-copos-trigo-chocodays-hacendado-con-chocolate-caja",
+  "slug": "cereales-copos-trigo-chocodays-hacendado-con-chocolate-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/b993cc6e84c05e720f2a69794c345ca2.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

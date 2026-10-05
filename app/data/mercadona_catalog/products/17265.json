@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 440,
+              "level": 2,
+              "name": "Otras salsas",
+              "order": 7
+            }
+          ],
+          "id": 117,
+          "level": 1,
+          "name": "Otras salsas",
+          "order": 7
+        }
+      ],
+      "id": 12,
+      "level": 0,
+      "name": "Aceite, especias y salsas",
+      "order": 7
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Aliño de aceite con perejil y ajo Hacendado",
+    "legal_name": "Aliño de aceite con perejil y ajo",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 1C y 5C. Una vez abierto, consumir antes de 10 días.",
+    "suppliers": [
+      {
+        "name": "Productos Naturales de la Vega S.L.U"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Aliño de aceite con perejil y ajo Hacendado",
+  "ean": "8480000172655",
+  "extra_info": [
+    ""
+  ],
+  "id": "17265",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>dióxido de azufre y sulfitos</strong>. Puede contener <strong>pescado y productos a base de pescado</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>huevos y productos a base de huevo</strong>. Puede contener <strong>frutos de cáscara</strong>.",
+    "ingredients": "Aceite  de girasol (66%), aceite de oliva virgen (20%), perejil (7%), ajo (6%) y sal. Puede  contener trazas de <strong>huevo</strong>, <strong>mostaza</strong>, <strong>pescado</strong>, <strong>productos lácteos</strong>,  <strong>soja</strong>, <strong>granos de sésamo</strong>, <strong>sulfitos</strong> y <strong>frutos de cáscara</strong>."
+  },
+  "origin": null,
+  "packaging": "Tarrina",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/7582550ed8c16126b739f1352fa53f6e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7582550ed8c16126b739f1352fa53f6e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7582550ed8c16126b739f1352fa53f6e.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/bccb4fd8b4a4823a15fa4712d4e4daae.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/bccb4fd8b4a4823a15fa4712d4e4daae.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/bccb4fd8b4a4823a15fa4712d4e4daae.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "12.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "12.000",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.80",
+    "unit_selector": true,
+    "unit_size": 0.15
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/17265/alino-aceite-ajo-perejil-hacendado-tarrina",
+  "slug": "alino-aceite-ajo-perejil-hacendado-tarrina",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/7582550ed8c16126b739f1352fa53f6e.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

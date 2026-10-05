@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Nutella",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 388,
+              "level": 2,
+              "name": "Cremas de untar",
+              "order": 11
+            }
+          ],
+          "id": 92,
+          "level": 1,
+          "name": "Chocolate",
+          "order": 11
+        }
+      ],
+      "id": 9,
+      "level": 0,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Nutella",
+    "counter_info": null,
+    "danger_mentions": null,
+    "description": "Crema al cacao con avellanas Nutella",
+    "legal_name": "Crema untable de avellanas y cacao.",
+    "mandatory_mentions": "Apto para vegetarianos ovolácteos. No apto para veganos.",
+    "origin": null,
+    "production_variant": null,
+    "storage_instructions": "Conservar en un lugar seco y fresco.",
+    "suppliers": [
+      {
+        "name": "Ferrero Ibérica, S.A."
+      }
+    ],
+    "usage_instructions": null
+  },
+  "display_name": "Crema al cacao con avellanas Nutella",
+  "ean": "80177173",
+  "extra_info": [
+    null
+  ],
+  "id": "67409",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>frutos de cáscara</strong>. Contiene <strong>sh</strong>.",
+    "ingredients": "Azúcar, grasa vegetal (palma), <strong>avellanas</strong> 13%, <strong>leche</strong> desnatada en polvo 8,7%, cacao reducido en grasa 7,4%, lecitinas emulsiuonantes (<strong>soja</strong> y/o girasol), sabor natural (vainilla)."
+  },
+  "origin": null,
+  "packaging": "Tarro",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/c2dddb8c129b6e17ebf2af26631d0df9.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c2dddb8c129b6e17ebf2af26631d0df9.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c2dddb8c129b6e17ebf2af26631d0df9.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/2bb46bfa68be7b586b6125f6f4daf10d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/2bb46bfa68be7b586b6125f6f4daf10d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/2bb46bfa68be7b586b6125f6f4daf10d.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "11.43",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "11.429",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "4.00",
+    "unit_selector": true,
+    "unit_size": 0.35
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/67409/crema-cacao-con-avellanas-nutella-tarro",
+  "slug": "crema-cacao-con-avellanas-nutella-tarro",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/c2dddb8c129b6e17ebf2af26631d0df9.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

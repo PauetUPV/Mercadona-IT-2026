@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 839,
+              "level": 2,
+              "name": "Arroz",
+              "order": 597
+            }
+          ],
+          "id": 140,
+          "level": 1,
+          "name": "Platos preparados calientes",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Arroz de pescado Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Arroz de pescado",
+    "mandatory_mentions": "Contiene 1 unidad de aprox. 280 g",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 0º- 4º C Una vez abierto se recomienda su consumo inmediato.",
+    "suppliers": [
+      {
+        "name": "Platos Tradicionales S.A."
+      }
+    ],
+    "usage_instructions": "Microondas: 1-\tPerforar el film, 2-Calentar 2 minutos a máxima potencia, 3-Colocar en el centro, 4-Retirar el film y la etiqueta 5-Remover. Envase apto para microondas. Evite contacto del envase con las paredes. No utilizar Grill."
+  },
+  "display_name": "Arroz de pescado Hacendado",
+  "ean": "8402001045165",
+  "extra_info": [
+    ""
+  ],
+  "id": "20893",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>moluscos y productos a base de moluscos</strong>. Contiene <strong>gb</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>pescado y productos a base de pescado</strong>. Contiene <strong>crustáceos y productos a base de crustáceos</strong>.",
+    "ingredients": "Caldo: agua, sofrito (agua, tomate, ajo, azúcar, aceite de girasol refinado, almidón, sal, extracto de levadura, jugo de cebolla, jugo de zanahoria, extracto de cebolla asada, maltodextrina y especias), caldo de <strong>marisco</strong> (<strong>crustáceos</strong> y <strong>moluscos</strong>) (agua, <strong>langostinos</strong> [<strong>crustáceos</strong>], extracto de <strong>langosta</strong> [<strong>crustáceos</strong>], sal, caldo de <strong>mejillones</strong> [<strong>moluscos</strong>] y <strong>cangrejo verde</strong> [<strong>crustáceos</strong>]), cebolla frita (cebolla y aceite de girasol refinado), pasta de ajo (ajo, sal y corrector de acidez [ácido cítrico]), pimiento choricero (pimiento y acidulante [ácido cítrico]), cártamo, azúcar, extracto de malta de <strong>cebada</strong> (<strong>gluten*</strong>) y extracto de levadura; arroz (25%), <strong>langostino</strong> (<strong>crustáceos</strong>) (<strong>langostino</strong> [<strong>crustáceos</strong>], agua, sal y corrector de acidez [citratos de sodio]), aceite de girasol refinado, <strong>caella</strong> (<strong>pescado</strong>) (5%) y <strong>potón</strong> del Pacífico (<strong>moluscos</strong>). <strong>Contiene trazas de sulfitos, leche y derivados. *Contenido en gluten &lt;20ppm.</strong> Envasado en atmósfera protectora."
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/0b719a295ce244c216335370dbdf882f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0b719a295ce244c216335370dbdf882f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0b719a295ce244c216335370dbdf882f.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/8088e981245c1f5ae7cf86acb22b01e0.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8088e981245c1f5ae7cf86acb22b01e0.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8088e981245c1f5ae7cf86acb22b01e0.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "13.39",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "13.393",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.75",
+    "unit_selector": true,
+    "unit_size": 0.28
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/20893/arroz-pescado-hacendado-bandeja",
+  "slug": "arroz-pescado-hacendado-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/0b719a295ce244c216335370dbdf882f.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

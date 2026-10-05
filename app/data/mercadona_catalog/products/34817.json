@@ -1,0 +1,109 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 479,
+              "level": 2,
+              "name": "Frutos secos",
+              "order": 9
+            }
+          ],
+          "id": 133,
+          "level": 1,
+          "name": "Frutos secos y fruta desecada",
+          "order": 9
+        }
+      ],
+      "id": 15,
+      "level": 0,
+      "name": "Aperitivos",
+      "order": 9
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Palomitas de maíz dulces Hacendado para microondas",
+    "legal_name": "PALOMITAS MICROONDAS DULCES",
+    "mandatory_mentions": "Cuidado al sacar el producto del microondas: puede quemas. Este producto por su tamaño no lo deben consumir menores de 5 años.",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Proteger de la luz. Conservar en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "IMPORTACO CASA PONS S.A.U."
+      }
+    ],
+    "usage_instructions": "1. Colocar con las palabras \"ESTE LADO HACIA ABAJO\". Cocinar a máxima potencia. 2. Cuando entre Pop y Pop pasen 1-2 segundos, parar. Dejar enfriar. 3. Agitar y abrir con cuidado por las flechas. Una vez preparadas las palomitas, se recomienda consumir en el plazo de 30 minutos."
+  },
+  "display_name": "Palomitas de maíz dulces Hacendado para microondas",
+  "ean": "8480000348173",
+  "extra_info": [
+    null
+  ],
+  "id": "34817",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Maíz, grasa de palma, azúcar, dextrosa y colorante (carmín). <strong>Puede contener soja.</strong>"
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/126319b59770b85db688f4cd7df6e654.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/126319b59770b85db688f4cd7df6e654.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/126319b59770b85db688f4cd7df6e654.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/b0d895dbb644a528e1ad6927fca9a664.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b0d895dbb644a528e1ad6927fca9a664.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b0d895dbb644a528e1ad6927fca9a664.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.08",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.080",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 3,
+    "unit_name": "ud.",
+    "unit_price": "1.60",
+    "unit_selector": true,
+    "unit_size": 0.315
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/34817/palomitas-maiz-dulces-hacendado-microondas-paquete",
+  "slug": "palomitas-maiz-dulces-hacendado-microondas-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/126319b59770b85db688f4cd7df6e654.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

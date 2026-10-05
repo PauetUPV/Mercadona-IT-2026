@@ -1,0 +1,112 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 804,
+              "level": 2,
+              "name": "Bombones",
+              "order": 11
+            }
+          ],
+          "id": 92,
+          "level": 1,
+          "name": "Chocolate",
+          "order": 11
+        }
+      ],
+      "id": 9,
+      "level": 0,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Surtido bombones de chocolate Belga Hacendado",
+    "legal_name": "Surtido de bombones de chocolate belgas",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en un lugar fresco y seco (12-18ºC)",
+    "suppliers": [
+      {
+        "name": "NATRA CHOCOLATE INTERNATIONAL, S.L."
+      },
+      {
+        "name": "Natra Chocolate international"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Surtido bombones de chocolate Belga Hacendado",
+  "ean": "8402001038358",
+  "extra_info": [
+    ""
+  ],
+  "id": "14468",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>sh</strong>. Contiene <strong>sa</strong>. Contiene <strong>soja y productos a base de soja</strong>. Puede contener <strong>cereales que contengan gluten</strong>. Puede contener <strong>frutos de cáscara</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Libre de <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "Azúcar, pasta de cacao, <strong>leche</strong> entera en polvo, manteca de cacao, aceites y grasas vegetales (palma, palmiste, girasol, colza, coco, karité), jarabe de glucosa, <strong>avellanas</strong>, lactosa (<strong>leche</strong>), humectantes (glicerol, sorbitol), materia grasa láctea (<strong>leche</strong>), <strong>leche</strong> desnatada en polvo, nata (<strong>leche</strong>), dextrosa, cacao desgrasado, <strong>almendras</strong>, suero de <strong>leche</strong> en polvo, miel, agua, fructosa, concentrado de puré de frambuesa, harina de arroz, concentrado de naranja, frambuesas, sal, zumo de fruta concentrado (aronia negra, grosella negra), emulgentes (lecitinas [<strong>soja</strong>], monoglicéridos y diglicéridos de ácidos grasos), estabilizantes (fosfato disódico, hexametafosfato de sodio), acidulantes (ácido cítrico, citrato trisódico, citrato tricálcico), gelificante (pectina cítrica), colorante (óxidos de hierro), aromas naturales, aroma natural de vainilla, aceite de naranja. Puede contener otros <strong>frutos de cáscara</strong>, <strong>huevo</strong> y <strong>cereales que contengan gluten</strong>."
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/cc55d112cd698defc1fe2f29652a3422.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/cc55d112cd698defc1fe2f29652a3422.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/cc55d112cd698defc1fe2f29652a3422.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/8139c5941d9e5977af28d9d8c57c3e63.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8139c5941d9e5977af28d9d8c57c3e63.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8139c5941d9e5977af28d9d8c57c3e63.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "21.90",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "21.905",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 20,
+    "unit_name": "ud.",
+    "unit_price": "4.60",
+    "unit_selector": true,
+    "unit_size": 0.21
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/14468/surtido-bombones-chocolate-belga-hacendado-caja",
+  "slug": "surtido-bombones-chocolate-belga-hacendado-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/cc55d112cd698defc1fe2f29652a3422.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

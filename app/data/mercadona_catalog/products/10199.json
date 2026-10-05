@@ -1,0 +1,122 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 353,
+              "level": 2,
+              "name": "Nata",
+              "order": 373
+            }
+          ],
+          "id": 75,
+          "level": 1,
+          "name": "Mantequilla y margarina",
+          "order": 373
+        }
+      ],
+      "id": 6,
+      "level": 0,
+      "name": "Huevos, leche y mantequilla",
+      "order": 373
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Nata ligera para cocinar Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Nata ligera UHT 15%MG",
+    "mandatory_mentions": "Sin gluten. Registros: Iparlat: 15.00345/SS. 15.01653/B. 15.00047/S ; Covap: 15.00122/CO ; Lactiber Leon: 15.00068/LE",
+    "origin": "Origen de la leche: España",
+    "production_variant": "",
+    "storage_instructions": "Mantener en lugar fresco y seco. Una vez abierto el envase. conservar en el frigorífico y consumir antes de 5 días. No congelar.",
+    "suppliers": [
+      {
+        "name": "Iparlat S.A. / S.C.A Ganadera del Valle de los Pedroches (Covap) / Lactiber Leon"
+      },
+      {
+        "name": "Iparlat, S.A. y Lactiber León"
+      },
+      {
+        "name": "Iparlat, S.A., Lactiber León y S.C.A. Ganadera del Valle de los Pedroches (COVAP)"
+      },
+      {
+        "name": "LACTIBER LEON"
+      }
+    ],
+    "usage_instructions": "Agitar antes de usar. No congelar."
+  },
+  "display_name": "Nata ligera para cocinar Hacendado",
+  "ean": "8480000101990",
+  "extra_info": [
+    null
+  ],
+  "id": "10199",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>NATA</strong> ligera, almidón modificado de maíz, emulgente (E-471) y estabilizantes (E-415, E-451, E-460 y E-466). Origen de la leche: España"
+  },
+  "origin": "Origen de la leche: España",
+  "packaging": "Pack-3",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/a6cdade0714ab23e58433866c28b32a5.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a6cdade0714ab23e58433866c28b32a5.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a6cdade0714ab23e58433866c28b32a5.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/8d663d641bcabd65e13994dd9532d5db.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8d663d641bcabd65e13994dd9532d5db.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8d663d641bcabd65e13994dd9532d5db.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.08",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.2,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "3.084",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": 3,
+    "unit_name": "mini briks",
+    "unit_price": "1.85",
+    "unit_selector": true,
+    "unit_size": 0.6
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/10199/nata-ligera-cocinar-hacendado-pack-3",
+  "slug": "nata-ligera-cocinar-hacendado-pack-3",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/a6cdade0714ab23e58433866c28b32a5.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

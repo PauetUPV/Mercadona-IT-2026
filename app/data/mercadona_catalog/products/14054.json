@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 361,
+              "level": 2,
+              "name": "Galletas integrales y digestive",
+              "order": 18
+            }
+          ],
+          "id": 80,
+          "level": 1,
+          "name": "Galletas",
+          "order": 18
+        }
+      ],
+      "id": 7,
+      "level": 0,
+      "name": "Cereales y galletas",
+      "order": 18
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Galletas Digestive choco y avena Hacendado",
+    "legal_name": "Digestive Choco & Avena",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco, seco y protegido de la luz",
+    "suppliers": [
+      {
+        "name": "CEREALTO FOODS CORPORATE S.L.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Galletas Digestive choco y avena Hacendado",
+  "ean": "8402001036309",
+  "extra_info": [
+    ""
+  ],
+  "id": "14054",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>go</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Copos de <strong>avena</strong> integral (<strong>gluten</strong>) (38%), harina integral de <strong>trigo</strong> (<strong>gluten</strong>), chocolate (15%) (azúcar, pasta de cacao, manteca de cacao, dextrosa, emulgente (lecitina de <strong>soja</strong>)), aceite de girasol alto oleico, azúcar, fibra de achicoria, gasificantes (carbonatos de sodio, carbonatos de amonio), sal. <strong>Puede contener trazas de leche y mostaza</strong>. ***** / / / / / A PARTIR DEL LOTE 236021013000 Y FCP 30/09/2026 HAY UN CAMBIO DE ETIQUETADO / / / / / ***** Copos de <strong>avena</strong> integral (<strong>gluten</strong>) (38%), harina integral de <strong>trigo</strong> (<strong>gluten</strong>), chocolate (15%) (azúcar, pasta de cacao, manteca de cacao, dextrosa, emulgente (lecitina de <strong>soja</strong>)), aceite refinado de girasol alto oleico, azúcar, fibra de achicoria, gasificantes (carbonatos de sodio, carbonatos de amonio), sal. <strong>Puede contener trazas de leche y mostaza</strong>."
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/9f4146ed31e55c532f4ec111585cb0bd.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9f4146ed31e55c532f4ec111585cb0bd.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9f4146ed31e55c532f4ec111585cb0bd.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/6d6d3c0dd1ea5a89d1acc0bd5bf1b743.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/6d6d3c0dd1ea5a89d1acc0bd5bf1b743.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/6d6d3c0dd1ea5a89d1acc0bd5bf1b743.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.47",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.469",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 6,
+    "unit_name": "paquetes",
+    "unit_price": "1.75",
+    "unit_selector": true,
+    "unit_size": 0.32
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/14054/galletas-digestive-choco-avena-hacendado-caja",
+  "slug": "galletas-digestive-choco-avena-hacendado-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/9f4146ed31e55c532f4ec111585cb0bd.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

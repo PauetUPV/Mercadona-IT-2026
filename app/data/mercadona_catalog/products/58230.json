@@ -1,0 +1,130 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "La Hacienda del ibérico",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 302,
+              "level": 2,
+              "name": "Lomo y otros",
+              "order": 159
+            }
+          ],
+          "id": 51,
+          "level": 1,
+          "name": "Embutido curado",
+          "order": 159
+        },
+        {
+          "categories": [
+            {
+              "id": 298,
+              "level": 2,
+              "name": "Jamón serrano",
+              "order": 159
+            }
+          ],
+          "id": 50,
+          "level": 1,
+          "name": "Jamón serrano",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "La Hacienda del ibérico",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Surtido de ibéricos La Hacienda del ibérico lonchas contiene jamón de cebo, chorizo, caña lomo de cebo y salchichón",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Jamón de cebo ibérico 50% raza ibérica, chorizo ibérico, salchichón ibérico, lomo de cebo ibérico 50% raza ibérica",
+    "mandatory_mentions": "Certificado por CALICER Nº PI/0517/12",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar refrigerado entre 0ºC y 5ºC.",
+    "suppliers": [
+      {
+        "name": "INCARLOPSA"
+      },
+      {
+        "name": "Inds. Cárnicas Loriente Piqueras, S.A. (INCARLOPSA)."
+      }
+    ],
+    "usage_instructions": "Para abrir, tira de la pestaña situada en uno de los ángulos. Para apreciar todas las cualidades de nuestro producto recomendamos sacarlo 2 horas antes del frigorífico y abrir el envase 15 minutos antes de su consumo. Una vez abierto, conservar en el frigorífico y consumir antes de 7 días."
+  },
+  "display_name": "Surtido de ibéricos La Hacienda del ibérico lonchas",
+  "ean": "8480000582300",
+  "extra_info": [
+    ""
+  ],
+  "id": "58230",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "lonchas",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>soja y productos a base de soja</strong>.",
+    "ingredients": "Jamón de cebo ibérico 50% raza ibérica. Ingredientes: Jamón de cerdo de cebo ibérico, sal, azúcar, antioxidantes (E-331, E-301) y conservadores (E-252, E-250).Chorizo ibérico. Ingredientes: Carne y grasa de cerdo ibérico, sal, especias y extracto de especias, proteína de <strong>soja</strong>, dextrina, dextrosa, estabilizante (E-450iii), antioxidante (E-316), conservadores (E-252, E-250) y colorante (E-120). Salchichón ibérico. Ingredientes: Carne y grasa de cerdo ibérico, sal, dextrosa, proteína de <strong>soja</strong>, especias, aromas, estabilizantes (E-451i, E-450i), potenciador de sabor (E-621), antioxidante (E-301), conservadores (E-252, E-250) y colorante (E-120).Lomo de cebo ibérico 50% raza ibérica. Ingredientes: Lomo de cerdo de cebo ibérico, sal, especias, azúcar, aceite de oliva, dextrosa, antioxidante (E-301) y conservadores (E-250 y E-252)."
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/b08cabeafda55ce6da99e8052ef56d4b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b08cabeafda55ce6da99e8052ef56d4b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b08cabeafda55ce6da99e8052ef56d4b.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/ec65b48f352b34ad139ed1241a4073eb.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ec65b48f352b34ad139ed1241a4073eb.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ec65b48f352b34ad139ed1241a4073eb.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "33.75",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "33.750",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "6.75",
+    "unit_selector": true,
+    "unit_size": 0.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/58230/surtido-ibericos-hacienda-iberico-contiene-jamon-cebo-chorizo-cana-lomo-cebo-salchichon-paquete",
+  "slug": "surtido-ibericos-hacienda-iberico-contiene-jamon-cebo-chorizo-cana-lomo-cebo-salchichon-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/b08cabeafda55ce6da99e8052ef56d4b.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 334,
+              "level": 2,
+              "name": "Bollería envasada",
+              "order": 515
+            }
+          ],
+          "id": 66,
+          "level": 1,
+          "name": "Bollería envasada",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Bizcocho Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Bizcocho a trozos. Producto de pastelería",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco",
+    "suppliers": [
+      {
+        "name": "Dulces del campo S.A.U:"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Bizcocho Hacendado",
+  "ean": "8402001037863",
+  "extra_info": [
+    ""
+  ],
+  "id": "15165",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>huevos y productos a base de huevo</strong>. Puede contener <strong>frutos de cáscara</strong>. Puede contener <strong>cereales que contengan gluten</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>sh</strong>.",
+    "ingredients": "Harina de <strong>trigo</strong>, aceite vegetal (girasol), azúcar, <strong>huevo</strong> líquido, almidón, clara de <strong>huevo</strong> líquida, humectantes (E422, E420), agua, jarabe de glucosa y fructosa, gasificantes (E450, E500), <strong>yogur</strong> desnatado en polvo, suero de <strong>leche</strong> en polvo, conservadores (E282, E200, E202), sal, emulgente (E471), acidulante (E270), estabilizante (E415), aromas. <strong>Puede contener mostaza y/o soja y/o frutos de cáscara (avellanas).</strong>"
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/0b8d292d9c7506e760668e3501134c6d.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0b8d292d9c7506e760668e3501134c6d.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0b8d292d9c7506e760668e3501134c6d.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/2ed4e01694105193e8a63775232b8fa2.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/2ed4e01694105193e8a63775232b8fa2.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/2ed4e01694105193e8a63775232b8fa2.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.03",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.035",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 6,
+    "unit_name": "ud.",
+    "unit_price": "1.75",
+    "unit_selector": true,
+    "unit_size": 0.29
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/15165/bizcocho-hacendado-paquete",
+  "slug": "bizcocho-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/0b8d292d9c7506e760668e3501134c6d.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

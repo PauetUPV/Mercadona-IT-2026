@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 287,
+              "level": 2,
+              "name": "Hamburguesas",
+              "order": 17
+            }
+          ],
+          "id": 44,
+          "level": 1,
+          "name": "Hamburguesas y picadas",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Burger de cerdo",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "BURGER MEAT CERDO",
+    "mandatory_mentions": "Sin gluten. Sin lactosa. Sin soja. Envasado en atmósfera protectora.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 0º-4º C. Una vez abierto consumir en 48 horas.",
+    "suppliers": [
+      {
+        "name": "Explotaciones Ganaderas de Tenerife, S.A.U."
+      },
+      {
+        "name": "Frescos y Elaborados Delisano SAU"
+      }
+    ],
+    "usage_instructions": "Cocinar completamente antes de su consumo. Fuego alto: Cocinar 1 minuto por cada lado. Fuego medio:  Cocinar aprox 4 minutos más, girándolas cada minuto."
+  },
+  "display_name": "Burger de cerdo",
+  "ean": "8402001014321",
+  "extra_info": [
+    ""
+  ],
+  "id": "52672",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Carne de cerdo 90%, agua, maíz, fibra vegetal (contiene guisante), almidón, aromas, sal, colorante (E-120), conservador (E-221) (sulfito), antioxidantes (E-301 y E-331) y especias."
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/e5a3b013955701ee75bfcfa9e1231b28.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e5a3b013955701ee75bfcfa9e1231b28.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e5a3b013955701ee75bfcfa9e1231b28.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/b5f52979f56c4b7773365fa9a6fea486.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b5f52979f56c4b7773365fa9a6fea486.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b5f52979f56c4b7773365fa9a6fea486.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 6,
+    "unit_name": "ud.",
+    "unit_price": "2.70",
+    "unit_selector": true,
+    "unit_size": 0.54
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/52672/burger-cerdo-bandeja",
+  "slug": "burger-cerdo-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/e5a3b013955701ee75bfcfa9e1231b28.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

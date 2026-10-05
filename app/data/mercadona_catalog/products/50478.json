@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 307,
+              "level": 2,
+              "name": "Queso tierno",
+              "order": 159
+            }
+          ],
+          "id": 54,
+          "level": 1,
+          "name": "Queso curado, semicurado y tierno",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Queso tierno gouda de vaca Hacendado",
+    "legal_name": "Queso Gouda",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "lote numero",
+    "storage_instructions": "Conservar refrigerado, entre +4°C y +7°C. Se aconseja sacar del frio 15 minutos antes de su consumo.",
+    "suppliers": [
+      {
+        "name": "A-Ware Packaging B.V."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Queso tierno gouda de vaca Hacendado",
+  "ean": "8402001023446",
+  "extra_info": [
+    ""
+  ],
+  "id": "50478",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Leche</strong> de vaca pasteurizada, sal, fermento, cuajo, colorante: caroteno."
+  },
+  "origin": null,
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/cd3a3f67ae3288c1e18da00940afa252.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/cd3a3f67ae3288c1e18da00940afa252.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/cd3a3f67ae3288c1e18da00940afa252.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/1449356c76002c5e59b4c7eda28856e1.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1449356c76002c5e59b4c7eda28856e1.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1449356c76002c5e59b4c7eda28856e1.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "7.33",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.334",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.30",
+    "unit_selector": true,
+    "unit_size": 0.45
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/50478/queso-tierno-gouda-vaca-holland-pieza",
+  "slug": "queso-tierno-gouda-vaca-holland-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/cd3a3f67ae3288c1e18da00940afa252.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

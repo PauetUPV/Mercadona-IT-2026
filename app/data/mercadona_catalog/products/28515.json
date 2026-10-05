@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "El Mayu",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 583,
+              "level": 2,
+              "name": "Sidra",
+              "order": 15
+            }
+          ],
+          "id": 174,
+          "level": 1,
+          "name": "Sidra y cava",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": "4.1º",
+    "brand": "El Mayu",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Sidra asturiana El Mayu",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Sidra",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "Manuel Busto Amandi S.A."
+      },
+      {
+        "name": "Manuel Busto Amandi, S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Sidra asturiana El Mayu",
+  "ean": "8413481112100",
+  "extra_info": [
+    null
+  ],
+  "id": "28515",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>dióxido de azufre y sulfitos</strong>.",
+    "ingredients": "Sidra, jarabe de azúcar, correctores de la acidez (ácido cítrico, ácido láctico), colorante(caramelo E-150b), Conservadores (sorbato potásico, <strong>anhídrido sulfuroso(sulfitos))</strong>, gasificante(dióxido de carbono)."
+  },
+  "origin": null,
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/d2d7bf470bc0aa1bdadd328cc39433fe.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d2d7bf470bc0aa1bdadd328cc39433fe.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d2d7bf470bc0aa1bdadd328cc39433fe.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/e05467201679504d5248b54b62ad7683.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e05467201679504d5248b54b62ad7683.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e05467201679504d5248b54b62ad7683.jpeg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.27",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "2.267",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.70",
+    "unit_selector": true,
+    "unit_size": 0.75
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/28515/sidra-asturiana-mayu-botella",
+  "slug": "sidra-asturiana-mayu-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/d2d7bf470bc0aa1bdadd328cc39433fe.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

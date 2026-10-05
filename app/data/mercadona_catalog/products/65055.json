@@ -1,0 +1,115 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 395,
+              "level": 2,
+              "name": "Golosinas",
+              "order": 11
+            }
+          ],
+          "id": 97,
+          "level": 1,
+          "name": "Golosinas",
+          "order": 11
+        }
+      ],
+      "id": 9,
+      "level": 0,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Golosinas Rega Relli Hacendado rellena con zumo de fruta",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "GELES DULCES, SABOR FRESA.",
+    "mandatory_mentions": "Producto destinado especialmente a la población infantil. Su consumo no se recomienda para personas con intolerancia al gluten (celíacas). Así como a personas diabéticas y con problemas de obesidad. Se advierte que por su tamaño, no es recomendable que los caramelos los consuman menores de 5 años. En caso de consumo por parte de un menor, se recomienda hacerlo bajo la supervisón de un adulto.",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco. Una vez abierto, consumir en el plazo de un mes.",
+    "suppliers": [
+      {
+        "name": "KING REGAL, S. A."
+      },
+      {
+        "name": "KING REGAL. S. A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Golosinas Rega Relli Hacendado rellena con zumo de fruta",
+  "ean": "8402001043970",
+  "extra_info": [
+    null
+  ],
+  "id": "65055",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Azúcar, harina de <strong>TRIGO</strong> (<strong>GLUTEN</strong>), agua, acidulante (E-330), pectina, 2% zumo fruta mixto a partir de concentrado, aroma, emulgente (E-471), conservante (E-202), regulador acidez (E-331), colorantes (E-120, concentrado de frutas y verduras: boniato, manzana, rábano, cereza). Agentes de recubrimiento (E-901, E-904)."
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/a37b6faf18843776f449cedb50181b7c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a37b6faf18843776f449cedb50181b7c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a37b6faf18843776f449cedb50181b7c.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/4d495f53337c07b78831bff5a05bb1ed.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4d495f53337c07b78831bff5a05bb1ed.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4d495f53337c07b78831bff5a05bb1ed.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.67",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.667",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.00",
+    "unit_selector": true,
+    "unit_size": 0.15
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/65055/golosinas-rega-relli-hacendado-rellena-con-zumo-fruta-paquete",
+  "slug": "golosinas-rega-relli-hacendado-rellena-con-zumo-fruta-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/a37b6faf18843776f449cedb50181b7c.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

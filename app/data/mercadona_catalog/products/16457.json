@@ -1,0 +1,105 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Denim Blossom",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 671,
+              "level": 2,
+              "name": "Correctores y prebase",
+              "order": 422
+            }
+          ],
+          "id": 206,
+          "level": 1,
+          "name": "Bases de maquillaje y corrector",
+          "order": 422
+        }
+      ],
+      "id": 22,
+      "level": 0,
+      "name": "Maquillaje",
+      "order": 422
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Denim Blossom",
+    "counter_info": null,
+    "danger_mentions": null,
+    "description": "Prebase facial Active Glow Primer Denim Blossom efecto luminoso contiene esferas encapsuladas con vitamina A Deliplus",
+    "legal_name": null,
+    "mandatory_mentions": null,
+    "origin": null,
+    "production_variant": null,
+    "storage_instructions": null,
+    "suppliers": [],
+    "usage_instructions": null
+  },
+  "display_name": "Prebase facial Active Glow Primer Denim Blossom efecto luminoso",
+  "ean": "8402001040757",
+  "extra_info": [
+    ""
+  ],
+  "id": "16457",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": null
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/690f4563506a602411ee0e6a91326104.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/690f4563506a602411ee0e6a91326104.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/690f4563506a602411ee0e6a91326104.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/328f2e6621dfc41d565c33e660adea80.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/328f2e6621dfc41d565c33e660adea80.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/328f2e6621dfc41d565c33e660adea80.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "6.000",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": 1,
+    "unit_name": "ud.",
+    "unit_price": "6.00",
+    "unit_selector": true,
+    "unit_size": 0.025
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/16457/prebase-facial-active-glow-primer-denim-blossom-efecto-luminoso-contiene-esferas-encapsuladas-con-vitamina-deliplus",
+  "slug": "prebase-facial-active-glow-primer-denim-blossom-efecto-luminoso-contiene-esferas-encapsuladas-con-vitamina-deliplus",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/690f4563506a602411ee0e6a91326104.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

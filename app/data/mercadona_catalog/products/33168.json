@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Huerta de Barros",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 484,
+              "level": 2,
+              "name": "Aceitunas verdes",
+              "order": 9
+            }
+          ],
+          "id": 135,
+          "level": 1,
+          "name": "Aceitunas y encurtidos",
+          "order": 9
+        }
+      ],
+      "id": 15,
+      "level": 0,
+      "name": "Aperitivos",
+      "order": 9
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Huerta de Barros",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Aceitunas verdes Chupadedos Huerta de Barros partidas aliñadas",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Aceitunas Verdes Partidas Aliñadas estilo Chupadedos",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar a temperatura ambiente y protegido de la luz",
+    "suppliers": [
+      {
+        "name": "Aceitunas Guadalquivir, S. L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Aceitunas verdes Chupadedos Huerta de Barros partidas aliñadas",
+  "ean": "8402001002052",
+  "extra_info": [
+    ""
+  ],
+  "id": "33168",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "partidas aliñadas",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>dióxido de azufre y sulfitos</strong>.",
+    "ingredients": "Aceitunas, agua, sal, pimientos rojos (contiene <strong>sulfitos</strong>), ajos (contiene <strong>sulfitos</strong>), aceite de oliva, potenciador del sabor (E-621), vinagre de vino, orégano, albahaca, comino, aroma de ajo, aroma de orégano y Zinc"
+  },
+  "origin": "España",
+  "packaging": "Tarro",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/270d5cb2cb0644b9fbc8f8755e4c04da.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/270d5cb2cb0644b9fbc8f8755e4c04da.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/270d5cb2cb0644b9fbc8f8755e4c04da.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/bcf345e6c56b59769aa2ca1ae3e65fb8.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/bcf345e6c56b59769aa2ca1ae3e65fb8.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/bcf345e6c56b59769aa2ca1ae3e65fb8.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.37",
+    "bunch_selector": false,
+    "drained_weight": 0.6,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.30",
+    "unit_selector": true,
+    "unit_size": 0.98
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/33168/aceitunas-chupadedos-huerta-barros-partidas-alinadas-con-hueso-tarro",
+  "slug": "aceitunas-chupadedos-huerta-barros-partidas-alinadas-con-hueso-tarro",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/270d5cb2cb0644b9fbc8f8755e4c04da.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

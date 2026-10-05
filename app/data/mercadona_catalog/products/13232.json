@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 898,
+              "level": 2,
+              "name": "Platos fríos",
+              "order": 597
+            }
+          ],
+          "id": 897,
+          "level": 1,
+          "name": "Listo para Comer",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Surtido sushi Bento grande",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Bento grande",
+    "mandatory_mentions": "El consumo de sushi no está recomendado para embarazadas, niños menores de 5 años y personas inmunodeprimidas. Pescado sometido a congelación para la prevención de anisakis.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 0-6C.",
+    "suppliers": [
+      {
+        "name": "Leroy Processing Spain S.L.U."
+      }
+    ],
+    "usage_instructions": "Dejar atemperar 1 hora, aliñar al gusto con la salsa y consumir. Listo para consumo. El consumo de sushi no está recomendado para embarazadas, niños menores de 5 años y personas inmunodeprimidas."
+  },
+  "display_name": "Surtido sushi Bento grande",
+  "ean": "8402001033162",
+  "extra_info": [
+    "Compuesto por 4 uramakis, 4 makis, 4 nigiris, 2 futomakis, salsa de soja, salsa de ponzu y salsa wasabi."
+  ],
+  "id": "13232",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>frutos de cáscara</strong>. Contiene <strong>pescado y productos a base de pescado</strong>. Puede contener <strong>moluscos y productos a base de moluscos</strong>. Contiene <strong>dióxido de azufre y sulfitos</strong>. Contiene <strong>mostaza y productos derivados</strong>. Puede contener <strong>apio y productos derivados</strong>. Contiene <strong>soja y productos a base de soja</strong>. Puede contener <strong>cacahuetes y productos a base de cacahuetes</strong>. Puede contener <strong>huevos y productos a base de huevo</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>.",
+    "ingredients": "Arroz cocido (arroz, aderezo de vinagre (azúcar, vinagre de alcohol, agua, vinagre de arroz, sal) y aceite refinado de maíz), salmón (Salmo salar) (<strong>pescado</strong>), aguacate [aguacate, antioxidante E-300, acidulante E-330, sal], queso crema [<strong>leche</strong> pasteurizada de vaca, nata (<strong>leche</strong>) pasteurizada de vaca, sal, estabilizantes E-410, E-401 y E-407, conservador E-202 y fermentos lácticos (<strong>leche</strong>)], mango, alga nori, salsa maracuyá [puré de maracuyá, azúcar, espesante E-415],semillas de <strong>sésamo</strong> blanco/negro. Puede contener <strong>crustáceos, huevo, cacahuete, soja, apio, mostaza, sulfitos, moluscos y frutos de cáscara</strong>. Salsa de Soja: agua, <strong>soja</strong>, sal, alcohol, jarabe de maíz de alta fructosa, azúcar, potenciador del sabor (E-635) y conservador E-202. Salsa Ponzu salsa de <strong>soja</strong> [agua, <strong>soja</strong>, sal, alcohol, jarabe de maíz de alta fructosa, azúcar, potenciador del sabor (E-635)], aderezo de vinagre [azúcar, vinagre de alcohol, agua, vinagre de arroz, sal], zumo de limón [zumo de limón pasteurizado, antioxidante E-224 <strong>(sulfitos)</strong>], zumo de mandarina y conservador E-202. Wasabi: rábano picante en polvo, humectante E-420, agua, aceite refinado de <strong>soja</strong>, sal, <strong>mostaza</strong> en polvo, maltodextrina, almidón modificado de maíz, aceite refinado de semilla de <strong>mostaza</strong>, acidulante E-330, wasabi, espesante E-415, cúrcuma, colorante E-133. Sin gluten."
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/632e6a6d74137f0b872ac970f9cc12d8.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/632e6a6d74137f0b872ac970f9cc12d8.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/632e6a6d74137f0b872ac970f9cc12d8.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/b430ebaaf63c291be3e5de8ad9d021e3.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b430ebaaf63c291be3e5de8ad9d021e3.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b430ebaaf63c291be3e5de8ad9d021e3.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "10.75",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "10.750",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "10.75",
+    "unit_selector": true,
+    "unit_size": 0.31
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/13232/surtido-sushi-bento-grande-contiene-4-uramakis-4-makis-4-nigiris-2-futomakis-salsa-soja-salsa-ponzu-salsa-wasabi-bandeja",
+  "slug": "surtido-sushi-bento-grande-contiene-4-uramakis-4-makis-4-nigiris-2-futomakis-salsa-soja-salsa-ponzu-salsa-wasabi-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/632e6a6d74137f0b872ac970f9cc12d8.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

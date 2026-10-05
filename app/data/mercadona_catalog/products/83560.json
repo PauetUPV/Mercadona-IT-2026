@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 320,
+              "level": 2,
+              "name": "Otros panes",
+              "order": 515
+            }
+          ],
+          "id": 60,
+          "level": 1,
+          "name": "Pan de molde y otras especialidades",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Barra de pan tradicional cortada",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Pan especial rebanado  tradicional",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Consérvese en lugar fresco y seco",
+    "suppliers": [
+      {
+        "name": "Panificadora de Alcalá S. L."
+      },
+      {
+        "name": "Panificadora de Alcalá S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Barra de pan tradicional",
+  "ean": "8414897100606",
+  "extra_info": [
+    ""
+  ],
+  "id": "83560",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>centeno y productos derivados</strong>. Contiene <strong>go</strong>. Puede contener <strong>cereales que contengan gluten</strong>. Puede contener <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>mostaza y productos derivados</strong>.",
+    "ingredients": "Harina de <strong>trigo</strong> (<strong>gluten</strong>), agua, sal, levadura, fibra de <strong>trigo</strong> (<strong>gluten</strong>),fibra de <strong>avena</strong> (<strong>gluten</strong>), mejorante panario (harina de <strong>trigo</strong> (<strong>gluten</strong>), masa madre inactiva de <strong>centeno</strong> (<strong>gluten</strong>), masa madre inactiva de <strong>trigo</strong> (<strong>gluten</strong>),antioxidante E-300 y aroma), aceite refinado de girasol, fibra procedente de achicoria, conservadores E-282 y E-200. Puede contener <strong>sésamo</strong>, <strong>soja</strong> y <strong>mostaza</strong>. Contiene azúcares naturalmente presentes. Sin proteínas de la leche."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/25c4bc7eecd7bb503f2339aac9059af4.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/25c4bc7eecd7bb503f2339aac9059af4.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/25c4bc7eecd7bb503f2339aac9059af4.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/63570d888714954259c562eaa6dba9c6.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/63570d888714954259c562eaa6dba9c6.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/63570d888714954259c562eaa6dba9c6.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.83",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "1.829",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.28",
+    "unit_selector": true,
+    "unit_size": 0.7
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/83560/barra-pan-tradicional-cortada-paquete",
+  "slug": "barra-pan-tradicional-cortada-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/25c4bc7eecd7bb503f2339aac9059af4.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

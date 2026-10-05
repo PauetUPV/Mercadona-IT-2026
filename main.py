@@ -1,35 +1,21 @@
 from fastapi import FastAPI
-from pydantic import BaseModel
-from typing import Optional
-import os
+from fastapi.middleware.cors import CORSMiddleware
 from dotenv import load_dotenv
+from app.api.routes import router
 
-# Esto busca el archivo .env y carga las variables en memoria
+# 1. Cargar las variables ocultas del .env (Tu código)
 load_dotenv()
 
-# Guardamos la clave en una variable de Python de forma segura
-CLAVE_IA = os.getenv("API_KEY_IA")
+# 2. Inicializar la aplicación (Código de tu compañero)
+app = FastAPI(title="Mercadona IT 2026")
 
-app = FastAPI()
+# 3. CORS: imprescindible para que el frontend pueda llamar a la API
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"], 
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
-# Definimos la estructura exacta del JSON que esperamos recibir
-class MensajeUsuario(BaseModel):
-    usuario_id: str
-    texto: str
-    categoria_producto: Optional[str] = None # Campo opcional
-    es_cliente_plus: bool = False # Valor por defecto
-
-@app.post("/chat")
-def procesar_chat(datos: MensajeUsuario):
-    # Aquí puedes ver cómo acceder a cada parte del JSON
-    print(f"El usuario {datos.usuario_id} ha preguntado: {datos.texto}")
-    
-    # El servidor devolverá automáticamente este diccionario convertido en JSON
-    return {
-        "estado": "exito",
-        "respuesta_bot": f"Procesando tu petición sobre: {datos.texto}",
-        "datos_recibidos": {
-            "id": datos.usuario_id,
-            "plus": datos.es_cliente_plus
-        }
-    }
+# 4. Incluir todas las rutas separadas
+app.include_router(router)

@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Alpro",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 411,
+              "level": 2,
+              "name": "Postres de soja",
+              "order": 598
+            }
+          ],
+          "id": 106,
+          "level": 1,
+          "name": "Postres de soja",
+          "order": 598
+        }
+      ],
+      "id": 11,
+      "level": 0,
+      "name": "Postres y yogures",
+      "order": 598
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Alpro",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Postre de soja sabor mango Alpro sin azúcares añadidos",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Producto fermentado a base de soja, mango, con calcio y vitaminas añadidos.",
+    "mandatory_mentions": "Lactosa: 0 por 100g. Sodio: 0.04g por 100g. Sin edulcorantes. Fuente de proteínas vegetales. Sólo azúcares de la fruta.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en frío a máx 7C. Una vez abierto, conservar en el frigorífico hasta 5 días.",
+    "suppliers": [
+      {
+        "name": "Danone S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Postre de soja sabor mango Alpro sin azúcares añadidos",
+  "ean": "5411188125808",
+  "extra_info": [
+    null
+  ],
+  "id": "21369",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "sin azúcares añadidos",
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>cacahuetes y productos a base de cacahuetes</strong>. Puede contener <strong>frutos de cáscara</strong>. Contiene <strong>soja y productos a base de soja</strong>.",
+    "ingredients": "Base de <strong>soja</strong> (agua, habas de <strong>soja</strong> descascarilladas (9,7%)), mango (17,7%) (zumo a partir de concentrado (11%), fruta(6,7%)), citrato tricálcico, estabilizante (pectinas), correctores de acidez (citratos de sodio, ácido cítrico), aroma natural,almidón modificado, sal marina, antioxidantes (extracto rico en tocoferoles, ésteres ácidos grasos de ácido ascórbico),vitaminas (B2, B12, D), extracto de calabaza, extracto de zanahorias, fermentos (S. thermophilus, L. bulgaricus). Naturalmente sin lactosa y sin gluten."
+  },
+  "origin": null,
+  "packaging": "Bote",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/71cb7349f97d0948a84c183ea7187b21.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/71cb7349f97d0948a84c183ea7187b21.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/71cb7349f97d0948a84c183ea7187b21.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/7e3050522d1da2c66b25f15cf067afbb.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7e3050522d1da2c66b25f15cf067afbb.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7e3050522d1da2c66b25f15cf067afbb.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.60",
+    "unit_selector": true,
+    "unit_size": 0.4
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/21369/postre-soja-sabor-mango-alpro-sin-azucares-anadidos-bote",
+  "slug": "postre-soja-sabor-mango-alpro-sin-azucares-anadidos-bote",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/71cb7349f97d0948a84c183ea7187b21.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

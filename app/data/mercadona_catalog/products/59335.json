@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 296,
+              "level": 2,
+              "name": "Mortadela",
+              "order": 159
+            }
+          ],
+          "id": 49,
+          "level": 1,
+          "name": "Chopped y mortadela",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Mortadela con aceitunas Hacendado lonchas",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Mortadela Con Aceitunas",
+    "mandatory_mentions": "Envasado en atmósfera protectora  / 15 lonchas / abrir aquí / Teléfono de atención al cliente Mercadona: 800 500 220  / SIN GLUTEN (logo) / SIN LACTOSA (logo) / RECICLA Al Amarillo (logo)",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Mantener entre 0C y 5C / Consumir preferentemente antes del/lote: ver envase",
+    "suppliers": [
+      {
+        "name": "CASA TARRADELLAS, S.A."
+      }
+    ],
+    "usage_instructions": "Abrir 5 minutos antes de servir / Una vez abierto consumir en 2 días."
+  },
+  "display_name": "Mortadela con aceitunas Hacendado lonchas",
+  "ean": "8480000593351",
+  "extra_info": [
+    ""
+  ],
+  "id": "59335",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "lonchas",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>soja y productos a base de soja</strong>.",
+    "ingredients": "Carne y tocino de cerdo (55%), agua, aceitunas (16%), fécula d epatata, sal, proteína de <strong>soja</strong>, dextrosa, aromas, especias, estabilizantes (E-451i, E-407), antioxidante (E-301), ajo, colorante (E-120), conservador (nitrito sódico)."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/8a5713abe83ad7bcc04f99512e95f903.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8a5713abe83ad7bcc04f99512e95f903.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8a5713abe83ad7bcc04f99512e95f903.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/0f1699fec5b2988483cf64feca7e6a1c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0f1699fec5b2988483cf64feca7e6a1c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0f1699fec5b2988483cf64feca7e6a1c.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 15,
+    "unit_name": "lonchas",
+    "unit_price": "1.25",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/59335/mortadela-con-aceitunas-hacendado-lonchas-paquete",
+  "slug": "mortadela-con-aceitunas-hacendado-lonchas-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/8a5713abe83ad7bcc04f99512e95f903.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

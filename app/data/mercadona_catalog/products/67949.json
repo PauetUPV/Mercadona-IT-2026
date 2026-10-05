@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 347,
+              "level": 2,
+              "name": "Bebidas vegetales",
+              "order": 373
+            }
+          ],
+          "id": 72,
+          "level": 1,
+          "name": "Leche y bebidas vegetales",
+          "order": 373
+        }
+      ],
+      "id": 6,
+      "level": 0,
+      "name": "Huevos, leche y mantequilla",
+      "order": 373
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Bebida de soja sabor vainilla Hacendado 0% azúcar",
+    "legal_name": "Bebida de soja UHT sabor vainilla con calcio y vitaminas B2, B12 y D. Con edulcorante.",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Mantener en lugar fresco y seco. Una vez abierto el envase, conservar en el frigorífico y consumir antes de 3 días.",
+    "suppliers": [
+      {
+        "name": "Iparlat, S.A."
+      }
+    ],
+    "usage_instructions": "Agitar antes de su consumo."
+  },
+  "display_name": "Bebida de soja sabor vainilla Hacendado 0% azúcar",
+  "ean": "8480000679499",
+  "extra_info": [
+    null
+  ],
+  "id": "67949",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>soja y productos a base de soja</strong>.",
+    "ingredients": "Agua, habas de <strong>soja</strong> descascarilladas (10%), calcio, aromas, sal, estabilizante (goma gellan), edulcorante (acesulfamo K ) y vitaminas B2, B12 y D."
+  },
+  "origin": "España",
+  "packaging": "Brik",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/dc5370e663f260c4cab07f1e51c35de6.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/dc5370e663f260c4cab07f1e51c35de6.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/dc5370e663f260c4cab07f1e51c35de6.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/80b442da34494aaa01146e4474871590.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/80b442da34494aaa01146e4474871590.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/80b442da34494aaa01146e4474871590.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.10",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "1.100",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.10",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/67949/bebida-soja-sabor-vainilla-hacendado-0-azucar-brick",
+  "slug": "bebida-soja-sabor-vainilla-hacendado-0-azucar-brick",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/dc5370e663f260c4cab07f1e51c35de6.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

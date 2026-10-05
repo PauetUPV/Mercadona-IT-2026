@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Convidado de Baco",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 798,
+              "level": 2,
+              "name": "Brandy",
+              "order": 15
+            }
+          ],
+          "id": 181,
+          "level": 1,
+          "name": "Licores",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": "36.0º",
+    "brand": "Convidado de Baco",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Brandy de Jerez solera reserva Convidado de Baco",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Brandy de Jerez Solera Reserva",
+    "mandatory_mentions": "Producto apto para veganos",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "Bodegas Fundador, S.L.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Brandy de Jerez solera reserva Convidado de Baco",
+  "ean": "8480000285256",
+  "extra_info": [
+    null
+  ],
+  "id": "28525",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Agua desmineralizada, Aguardiente de vino, Azúcar, Colorante color caramelo (E150-d), Extractos naturales."
+  },
+  "origin": "España",
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/d2d640eae5ddb20710cbd569d4af3560.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d2d640eae5ddb20710cbd569d4af3560.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d2d640eae5ddb20710cbd569d4af3560.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/dfe92c10651093d1f70037fed569e9a0.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/dfe92c10651093d1f70037fed569e9a0.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/dfe92c10651093d1f70037fed569e9a0.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "8.57",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "8.572",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "6.00",
+    "unit_selector": true,
+    "unit_size": 0.7
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/28525/brandy-jerez-solera-reserva-convidado-baco-botella",
+  "slug": "brandy-jerez-solera-reserva-convidado-baco-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/d2d640eae5ddb20710cbd569d4af3560.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

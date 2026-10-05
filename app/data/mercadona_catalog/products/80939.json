@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 321,
+              "level": 2,
+              "name": "Pan de hamburguesa y wrap",
+              "order": 515
+            }
+          ],
+          "id": 60,
+          "level": 1,
+          "name": "Pan de molde y otras especialidades",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Mini tortillas de trigo Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "TORTILLA DE TRIGO",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Una vez abierto el envase conservar en lugar fresco y seco para su consumo en 10 días. El envase puede congelarse en casa. Se debe consumir en los 3 meses siguientes a su congelación. Descongelar totalmente antes de utilizar.",
+    "suppliers": [
+      {
+        "name": "DELIBREADS EUROPE  S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Mini tortillas de trigo Hacendado",
+  "ean": "8480000809391",
+  "extra_info": [
+    ""
+  ],
+  "id": "80939",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Harina de <strong>trigo </strong>(69%), agua, aceite de girasol alto oleico (3%), estabilizante (E 422), emulgente (E 471), sal, corrector de acidez (E 296), conservadores (E 282, E 202), gasificante (E 500ii), espesante (E 415), agente de tratamiento de la harina (E 920)"
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/bfd4d4b76e3f4a1010dca604777e65b9.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/bfd4d4b76e3f4a1010dca604777e65b9.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/bfd4d4b76e3f4a1010dca604777e65b9.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/66fbc351c3d029dabdae95e70a11339c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/66fbc351c3d029dabdae95e70a11339c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/66fbc351c3d029dabdae95e70a11339c.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 4,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.15,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 12,
+    "unit_name": "ud.",
+    "unit_price": "1.65",
+    "unit_selector": true,
+    "unit_size": 0.3
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/80939/mini-tortillas-trigo-hacendado-paquete",
+  "slug": "mini-tortillas-trigo-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/bfd4d4b76e3f4a1010dca604777e65b9.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

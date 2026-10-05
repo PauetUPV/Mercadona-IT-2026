@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 457,
+              "level": 2,
+              "name": "Otras conservas de pescado",
+              "order": 215
+            }
+          ],
+          "id": 122,
+          "level": 1,
+          "name": "Atún y otras conservas de pescado",
+          "order": 215
+        }
+      ],
+      "id": 14,
+      "level": 0,
+      "name": "Conservas, caldos y cremas",
+      "order": 215
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Calamar en salsa americana Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Calamar trozos Salsa Americana",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar seco. Para disfrutar de todo el sabor y caracteristicas del producto, le recomendamos consumirlo en su totalidad una vez abierta la lata. Una vez abierta, si no lo consume en el momento, conservelo en el frigorifico, en su lata original y cubierto con el aceite. No lo guarde por un periodo superior a 24 h. despues de la apertura.",
+    "suppliers": [
+      {
+        "name": "ESCURIS, S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Calamar en salsa americana Hacendado",
+  "ean": "8402001013270",
+  "extra_info": [
+    ""
+  ],
+  "id": "18713",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>moluscos y productos a base de moluscos</strong>.",
+    "ingredients": "<strong>Calamar</strong>, cebolla, tomate concentrado, aceite de girasol (15%), sal, vino blanco, especias, sucedaneo de tinta calamar (azúcar, agua, colorante E-153 y sal) y aroma natural"
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/be78962e131f47461a624d57da86ddc9.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/be78962e131f47461a624d57da86ddc9.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/be78962e131f47461a624d57da86ddc9.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/e64e603f0bba7d570123297148db4c84.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e64e603f0bba7d570123297148db4c84.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e64e603f0bba7d570123297148db4c84.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "11.25",
+    "bunch_selector": false,
+    "drained_weight": 0.177,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.059,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "15.255",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 3,
+    "unit_name": "latas",
+    "unit_price": "2.70",
+    "unit_selector": true,
+    "unit_size": 0.24
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/18713/calamar-salsa-americana-hacendado-pack-3",
+  "slug": "calamar-salsa-americana-hacendado-pack-3",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/be78962e131f47461a624d57da86ddc9.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

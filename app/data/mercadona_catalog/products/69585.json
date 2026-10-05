@@ -1,0 +1,125 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 268,
+              "level": 2,
+              "name": "Otras verduras y hortalizas",
+              "order": 306
+            }
+          ],
+          "id": 29,
+          "level": 1,
+          "name": "Verdura",
+          "order": 306
+        }
+      ],
+      "id": 1,
+      "level": 0,
+      "name": "Fruta y verdura",
+      "order": 306
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Maíz dulce en mazorca",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Maíz fresco dulce",
+    "mandatory_mentions": "",
+    "origin": "Senegal",
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "ARTEALCA S.L"
+      },
+      {
+        "name": "ARTEALCA SL"
+      },
+      {
+        "name": "Agromediterránea Hortofrutícola, S.L."
+      },
+      {
+        "name": "Anecoop S. Coop."
+      },
+      {
+        "name": "Hijos de Teodoro Muñoz, S.L."
+      }
+    ],
+    "usage_instructions": "Listo en 5 minutos al toque de mantequilla ideal bbq."
+  },
+  "display_name": "Maíz dulce en mazorca",
+  "ean": "8412276200947",
+  "extra_info": [
+    null
+  ],
+  "id": "69585",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "en mazorca",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>maíz y productos derivados</strong>.",
+    "ingredients": "<p>Maíz dulce. Sin gluten."
+  },
+  "origin": "Senegal",
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/9751b331e988f278227964d8022cac76.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9751b331e988f278227964d8022cac76.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9751b331e988f278227964d8022cac76.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/bcfded920c7040f1b41439a1dda26c14.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/bcfded920c7040f1b41439a1dda26c14.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/bcfded920c7040f1b41439a1dda26c14.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.20",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "1.200",
+    "selling_method": 0,
+    "size_format": "ud",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.40",
+    "unit_selector": true,
+    "unit_size": 2.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/69585/maiz-dulce-mazorca-bandeja",
+  "slug": "maiz-dulce-mazorca-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/9751b331e988f278227964d8022cac76.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

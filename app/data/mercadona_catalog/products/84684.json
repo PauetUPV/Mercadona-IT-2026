@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 330,
+              "level": 2,
+              "name": "Bollería dulce",
+              "order": 515
+            }
+          ],
+          "id": 65,
+          "level": 1,
+          "name": "Bollería de horno",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Magdalenas con azúcar",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Magdalena de azúcar",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Producto de pastelería descongelado. Una vez descongelado no volver a congelar",
+    "suppliers": [
+      {
+        "name": "Pastisart Iberia, S.L.U."
+      },
+      {
+        "name": "SIRO EL ESPINAR S.L."
+      }
+    ],
+    "usage_instructions": "Una vez descongelado no volver a congelar."
+  },
+  "display_name": "Magdalenas con azúcar",
+  "ean": "2105900846845",
+  "extra_info": [
+    ""
+  ],
+  "id": "84684",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>frutos de cáscara</strong>. Contiene <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "Harina de t<strong>rigo </strong>(gluten), azúcar <strong>(22%)</strong>, huevo líquido pasteurizado, aceite refinado de girasol, humectantes (sorbitol, glicerina), agua, almidón modificado (maíz), sal, gasificantes (difosfatos, carbonatos de sodio), estabilizante (goma xantana), acidulante (ácido cítrico), ralladura de naranja, enzimas, aromas. <strong>Puede contener trazas de leche y/o derivados, soja, frutos de cáscara y mostaza</strong>"
+  },
+  "origin": "España",
+  "packaging": "Bolsa",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/b699b9df8e9fdb8ff494c937993ed3db.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b699b9df8e9fdb8ff494c937993ed3db.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b699b9df8e9fdb8ff494c937993ed3db.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/1de8cb09cc7e71bab22416f7e4ce8933.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1de8cb09cc7e71bab22416f7e4ce8933.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1de8cb09cc7e71bab22416f7e4ce8933.jpeg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "7.11",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.106",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 8,
+    "unit_name": "ud.",
+    "unit_price": "2.70",
+    "unit_selector": true,
+    "unit_size": 0.38
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/84684/8-magdalenas-con-azucar-bolsa",
+  "slug": "8-magdalenas-con-azucar-bolsa",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/b699b9df8e9fdb8ff494c937993ed3db.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

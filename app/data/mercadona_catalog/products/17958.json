@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 284,
+              "level": 2,
+              "name": "Cordero",
+              "order": 17
+            }
+          ],
+          "id": 42,
+          "level": 1,
+          "name": "Conejo y cordero",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Cordero para barbacoa",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "BARBACOA CORDERO",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "MORALEJO SELECCION SLU"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Cordero para barbacoa",
+  "ean": "8436561135127",
+  "extra_info": [
+    ""
+  ],
+  "id": "17958",
+  "is_bulk": true,
+  "is_new_arrival": true,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": ""
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/51f20484645d0ac4b55917aa9560e6d7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/51f20484645d0ac4b55917aa9560e6d7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/51f20484645d0ac4b55917aa9560e6d7.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/383546ca86fa30cca568c2152c356c95.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/383546ca86fa30cca568c2152c356c95.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/383546ca86fa30cca568c2152c356c95.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "16.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "16.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "11.55",
+    "unit_selector": true,
+    "unit_size": 0.7
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/17958/cordero-barbacoa-bandeja",
+  "slug": "cordero-barbacoa-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/51f20484645d0ac4b55917aa9560e6d7.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": "2026-08-14T22:00:00+00:00",
+  "unavailable_weekdays": []
+}

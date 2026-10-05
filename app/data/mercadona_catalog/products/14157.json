@@ -1,0 +1,120 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 360,
+              "level": 2,
+              "name": "Con chocolate y rellenas",
+              "order": 18
+            }
+          ],
+          "id": 80,
+          "level": 1,
+          "name": "Galletas",
+          "order": 18
+        }
+      ],
+      "id": 7,
+      "level": 0,
+      "name": "Cereales y galletas",
+      "order": 18
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Galletas rebuenas Hacendado rellenas de chocolate",
+    "legal_name": "REBUENAS. GALLETAS RELLENAS CON CREMA DE CACAO (46%)",
+    "mandatory_mentions": "46% RELLENO",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco y protegido de la luz.",
+    "suppliers": [
+      {
+        "name": "CEREALTO FOODS S.L."
+      },
+      {
+        "name": "CEREALTO SIRO FOODS S.L."
+      },
+      {
+        "name": "GRUPO SIRO"
+      },
+      {
+        "name": "SIRO 1920.CEREALTO SIRO FOODS S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Galletas rebuenas Hacendado rellenas de chocolate",
+  "ean": "8480000141576",
+  "extra_info": [
+    null
+  ],
+  "id": "14157",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>dióxido de azufre y sulfitos</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Harina de <strong>trigo</strong> (<strong>gluten</strong>), azúcar, grasas y aceites vegetales (palma, girasol), cacao desgrasado en polvo (7%), suero de <strong>leche</strong> en polvo, proteínas de la <strong>leche</strong>, almidón de maíz, gasificantes (carbonatos de amonio, carbonatos de sodio), jarabe de glucosa, aroma, sal, antioxidante (<strong>metabisulfito</strong> sódico), emulgente (lecitina de girasol). <strong>Puede contener trazas de soja y mostaza.</strong>"
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/77aa3673bc39603fc56d5bfc3abf197a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/77aa3673bc39603fc56d5bfc3abf197a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/77aa3673bc39603fc56d5bfc3abf197a.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/6e6f5188510c6ce98ec09c7eefd8af59.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/6e6f5188510c6ce98ec09c7eefd8af59.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/6e6f5188510c6ce98ec09c7eefd8af59.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.60",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "2.600",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.30",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/14157/galletas-rebuenas-hacendado-rellenas-chocolate-paquete",
+  "slug": "galletas-rebuenas-hacendado-rellenas-chocolate-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/77aa3673bc39603fc56d5bfc3abf197a.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

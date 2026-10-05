@@ -1,0 +1,140 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 420,
+              "level": 2,
+              "name": "Aceite de oliva",
+              "order": 7
+            }
+          ],
+          "id": 112,
+          "level": 1,
+          "name": "Aceite, vinagre y sal",
+          "order": 7
+        }
+      ],
+      "id": 12,
+      "level": 0,
+      "name": "Aceite, especias y salsas",
+      "order": 7
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Aceite de oliva virgen extra Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "pt:Aceite de Oliva Virgen Extra",
+    "mandatory_mentions": "Procedente principalmente de las variedades Picual, Hojiblanca y Arbequino.",
+    "origin": "Puente de Génave, Sierra de Segura. Jaén.",
+    "production_variant": "De variedad Picual de olivar de montaña",
+    "storage_instructions": "Preservar de la luz solar",
+    "suppliers": [
+      {
+        "name": "ACEITES MAEVA S.L.U"
+      },
+      {
+        "name": "Aceites Oro Bailén Galgon 99 SLU, S.L.U."
+      },
+      {
+        "name": "Aceites del Sur- Coosur S.A."
+      },
+      {
+        "name": "Agrícola de Bailén Virgen de Zocueca, S.C.A"
+      },
+      {
+        "name": "Jaencoop SCA"
+      },
+      {
+        "name": "MERCADONA"
+      },
+      {
+        "name": "MERCAOLEO"
+      },
+      {
+        "name": "Oleoestepa S.C.A."
+      },
+      {
+        "name": "Oleoestepa, S.Coop.And."
+      },
+      {
+        "name": "Sovena España S.A.U"
+      }
+    ],
+    "usage_instructions": "Para su consumo en crudo, guisos y fritos."
+  },
+  "display_name": "Aceite de oliva virgen extra Hacendado",
+  "ean": "8402001001192",
+  "extra_info": [
+    null
+  ],
+  "id": "4717",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Aceite de Oliva Virgen Extra 100%"
+  },
+  "origin": "Puente de Génave, Sierra de Segura. Jaén.",
+  "packaging": "Garrafa",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/cd149804838dc230dad3c2a314cf2286.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/cd149804838dc230dad3c2a314cf2286.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/cd149804838dc230dad3c2a314cf2286.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/c5f3a95edfd2b5db0f00b0de4cb82d20.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c5f3a95edfd2b5db0f00b0de4cb82d20.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c5f3a95edfd2b5db0f00b0de4cb82d20.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.27",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": "       13.55",
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "4.267",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "12.80",
+    "unit_selector": true,
+    "unit_size": 3.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/4717/aceite-oliva-virgen-extra-hacendado-garrafa",
+  "slug": "aceite-oliva-virgen-extra-hacendado-garrafa",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/cd149804838dc230dad3c2a314cf2286.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

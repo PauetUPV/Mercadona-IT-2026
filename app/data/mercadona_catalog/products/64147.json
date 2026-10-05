@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 521,
+              "level": 2,
+              "name": "Sándwiches",
+              "order": 213
+            }
+          ],
+          "id": 154,
+          "level": 1,
+          "name": "Helados",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Helado sándwich sabor nata Hacendado sin azúcares añadidos",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Helado sabor nata y galleta (con edulcorantes)",
+    "mandatory_mentions": "Sin azúcares añadidos.Contiene azúcares naturalmente presentes.Fuente de fibra",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en congelación a temperaturas inferiores a -18 C. Una vez descongelado no volver a congelar",
+    "suppliers": [
+      {
+        "name": "A.I.A.D.H.E.S.A.-Helados Alacant"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Helado sándwich sabor nata Hacendado sin azúcares añadidos",
+  "ean": "8480000641472",
+  "extra_info": [
+    ""
+  ],
+  "id": "64147",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>dióxido de azufre y sulfitos</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "HELADO SABOR A NATA Y GALLETA (CON EDULCORANTES). </p>Ingredientes: <strong>leche</strong> desnatada reconstituida, galletas (con edulcorantes) (31%) (harina de <strong>trigo</strong>, edulcorantes (maltitoles), grasa de palma, <strong>leche</strong> desnatada en polvo, <strong>gluten</strong> <strong>de trigo</strong>, gasificantes (carbonatos de amonio, carbonatos de sodio), sal, aroma, antioxidante (<strong>metabisulfito</strong> sódico), emulgente (lecitinas (girasol), edulcorantes (maltitoles, eritritol, sucralosa), fibra alimentaria soluble, <strong>leche</strong> desnatada en polvo, grasas vegetales (coco, palma), agente de carga (polidextrosa), emulgentes (ésteres de propano-1,2-diol de ácidos grasos, monoglicéridos y diglicéridos de ácidos grasos), gelatina, aroma natural de <strong>leche</strong>, estabilizantes (goma garrofín, goma guar), aromas, colorante (riboflavina). <strong>Trazas de soja y mostaza.</strong>"
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/c73fbf8e380ec53b95e16395a4380d55.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c73fbf8e380ec53b95e16395a4380d55.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c73fbf8e380ec53b95e16395a4380d55.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/a1c64e05b1e48639608379eb699363eb.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a1c64e05b1e48639608379eb699363eb.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a1c64e05b1e48639608379eb699363eb.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.75",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "3.750",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": 8,
+    "unit_name": "ud.",
+    "unit_price": "3.00",
+    "unit_selector": true,
+    "unit_size": 0.8
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/64147/helado-sandwich-nata-hacendado-sin-azucares-anadidos-caja",
+  "slug": "helado-sandwich-nata-hacendado-sin-azucares-anadidos-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/c73fbf8e380ec53b95e16395a4380d55.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

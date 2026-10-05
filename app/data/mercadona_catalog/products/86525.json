@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Montes Serenos",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 569,
+              "level": 2,
+              "name": "Otros vinos tintos",
+              "order": 15
+            }
+          ],
+          "id": 169,
+          "level": 1,
+          "name": "Vino tinto",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": "14.0º",
+    "brand": "Montes Serenos",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Vino tinto viticultura superior Montes Serenos",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Vino tinto",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Mantener alejado de ambientes con fuertes olores, no someter a cambios bruscos de temperatura y no exponer a fuentes de calor ni a la luz directa",
+    "suppliers": [
+      {
+        "name": "VICENTE GANDIA PLA, S.A."
+      },
+      {
+        "name": "Vicente Gandia Pla, S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Vino tinto viticultura superior Montes Serenos",
+  "ean": "8480000865250",
+  "extra_info": [
+    null
+  ],
+  "id": "86525",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>dióxido de azufre y sulfitos</strong>.",
+    "ingredients": "Uva, mosto de uva concentrado, correctores de la acidez (ácido Tartárico[L(+)], ácido láctico), agentes estabilizantes (goma arábiga, manoproteínas de levadura, poliaspartato de potasio), conservadores y antioxidantes (<strong>anhídrido sulfuroso). </strong>Embotellado en atmósfera protectora"
+  },
+  "origin": "España",
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/e6f0e7c3fdf261d3929f33fe7330beaf.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e6f0e7c3fdf261d3929f33fe7330beaf.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e6f0e7c3fdf261d3929f33fe7330beaf.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/d78d5904879a2a10194d8d5505b39cdf.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d78d5904879a2a10194d8d5505b39cdf.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d78d5904879a2a10194d8d5505b39cdf.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.47",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "6.467",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "4.85",
+    "unit_selector": true,
+    "unit_size": 0.75
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/86525/vino-tinto-viticultura-superior-montes-serenos-botella",
+  "slug": "vino-tinto-viticultura-superior-montes-serenos-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/e6f0e7c3fdf261d3929f33fe7330beaf.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

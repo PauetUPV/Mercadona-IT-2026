@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Bosque Verde",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 875,
+              "level": 2,
+              "name": "Ambientador decorativo y otros",
+              "order": 374
+            }
+          ],
+          "id": 241,
+          "level": 1,
+          "name": "Insecticida y ambientador",
+          "order": 374
+        }
+      ],
+      "id": 26,
+      "level": 0,
+      "name": "Limpieza y hogar",
+      "order": 374
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Bosque Verde",
+    "counter_info": null,
+    "danger_mentions": "Provoca irritación ocular grave. Contiene menos del 5% de tensioactivos no iónicos y policarboxilatos. Conservante: 1,2 - bencisotiazol-3(2H)-ona. Puede provocar una reacción alérgica.",
+    "description": "Ambientador perlas Lima Bosque Verde",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "",
+    "mandatory_mentions": "",
+    "origin": "",
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "Francisco Aragon"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Ambientador perlas Lima Bosque Verde",
+  "ean": "8480000727343",
+  "extra_info": [
+    null
+  ],
+  "id": "72734",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": ""
+  },
+  "origin": "",
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/69995d0ff815bb2094c6a1b967c0a2b2.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/69995d0ff815bb2094c6a1b967c0a2b2.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/69995d0ff815bb2094c6a1b967c0a2b2.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/56e71c9945e45f28429a526cd7e69265.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/56e71c9945e45f28429a526cd7e69265.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/56e71c9945e45f28429a526cd7e69265.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.45",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "1.450",
+    "selling_method": 0,
+    "size_format": "ud",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.45",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/72734/ambientador-perlas-lima-bosque-verde",
+  "slug": "ambientador-perlas-lima-bosque-verde",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/69995d0ff815bb2094c6a1b967c0a2b2.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

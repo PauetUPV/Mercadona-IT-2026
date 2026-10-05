@@ -1,0 +1,112 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Deliplus",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 685,
+              "level": 2,
+              "name": "Fitoterapia",
+              "order": 305
+            }
+          ],
+          "id": 213,
+          "level": 1,
+          "name": "Fitoterapia",
+          "order": 305
+        }
+      ],
+      "id": 23,
+      "level": 0,
+      "name": "Fitoterapia y parafarmacia",
+      "order": 305
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Deliplus",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Cápsulas Memory Forte Deliplus contiene bacopa, ashwagandha y gaba",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Complemento alimenticio elaborado a base de Especies Vegetales, Fosfatidilserina, GABA y Vitaminas.",
+    "mandatory_mentions": "Los complementos alimenticios no deben ser utilizados como sustitutos de una dieta variada y equilibrada y un estilo de vida saludable. Mantener fuera del alcance de los niños. No recomendado en embarazo y lactancia.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Ambiente seco y fresco.",
+    "suppliers": [
+      {
+        "name": "LABORATORIOS YNSADIET S.A."
+      }
+    ],
+    "usage_instructions": "Tomar 1 cápsula al día, en el desayuno."
+  },
+  "display_name": "Cápsulas Memory Forte Deliplus",
+  "ean": "8402001011825",
+  "extra_info": [
+    ""
+  ],
+  "id": "35945",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Almidón de maíz, Bacopa extracto seco(Bacopa monnieri, hierba), Componentes de la cubierta de la cápsula(Hidroxipropiletilcelulosa), Ashwagandha extracto seco(Withania somnifera, raíz), Antiaglomerantes(Celulosa, Silicato de magnesio, Estearato de magnesio y Dióxido de silicio), GABA, Fosfatidilserina(=20%)(Girasol), Zinc(Óxido de zinc), Vitamina B5(Pantotenato cálcico), Vitamina B6(Clorhidrato de piridoxina)."
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/622d2532c2a9f94344a248af92db2856.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/622d2532c2a9f94344a248af92db2856.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/622d2532c2a9f94344a248af92db2856.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/6e02df6816d7e01bfd637e7a70cfa76f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/6e02df6816d7e01bfd637e7a70cfa76f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/6e02df6816d7e01bfd637e7a70cfa76f.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "0.13",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "0.132",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 30,
+    "unit_name": "cápsulas",
+    "unit_price": "3.95",
+    "unit_selector": true,
+    "unit_size": 0.01785
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/35945/capsulas-memory-forte-deliplus-contiene-bacopa-ashwagandha-gaba-elaborado-base-especies-vegetales-fosfatidilserina-vitaminas-caja",
+  "slug": "capsulas-memory-forte-deliplus-contiene-bacopa-ashwagandha-gaba-elaborado-base-especies-vegetales-fosfatidilserina-vitaminas-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/622d2532c2a9f94344a248af92db2856.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,114 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 409,
+              "level": 2,
+              "name": "Bífidus de sabores",
+              "order": 598
+            }
+          ],
+          "id": 105,
+          "level": 1,
+          "name": "Bífidus",
+          "order": 598
+        }
+      ],
+      "id": 11,
+      "level": 0,
+      "name": "Postres y yogures",
+      "order": 598
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Bífidus con nueces y cereales probióticos Hacendado 0% MG",
+    "legal_name": "Leche fermentada desnatada con cereales, nueces, bifidus y con edulcorantes",
+    "mandatory_mentions": "Contenido en lactosa: <0.01g/100g.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 1C y 8C.",
+    "suppliers": [
+      {
+        "name": " Schreiber Foods España, S.L."
+      },
+      {
+        "name": "Fabricado por: Schreiber Foods España S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Bífidus con nueces y cereales probióticos Hacendado 0% MG",
+  "ean": "8402001040351",
+  "extra_info": [
+    ""
+  ],
+  "id": "21329",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>sw</strong>. Contiene <strong>frutos de cáscara</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>sh</strong>. Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>go</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Leche</strong> fresca pasteurizada desnatada (Origen: España), agua, <strong>leche</strong> en polvo desnatada, oligofructosa, almidón modificado, cereales (1,7%) (copos de <strong>avena</strong> y salvado de <strong>trigo</strong>), <strong>nueces</strong> (0,6%), caramelo aromático, pulpa de ciruela, espesante (pectina), aromas naturales, fermentos <strong>lácticos</strong>, <strong>avellanas</strong> tostadas, edulcorantes (sucralosa y acesulfamo potásico), lactasa y bifidobacterias (<strong>leche</strong>). Sin lactosa."
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/0db449b3481b5b93fe9295ce81fefcd4.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0db449b3481b5b93fe9295ce81fefcd4.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0db449b3481b5b93fe9295ce81fefcd4.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/dea8bd6efe52c2a5cb34759d391e7793.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/dea8bd6efe52c2a5cb34759d391e7793.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/dea8bd6efe52c2a5cb34759d391e7793.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.60",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.125,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "2.600",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 4,
+    "unit_name": "ud.",
+    "unit_price": "1.30",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/21329/bifidus-desnatado-con-nueces-cereales-hacendado-0-mg-pack-4",
+  "slug": "bifidus-desnatado-con-nueces-cereales-hacendado-0-mg-pack-4",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/0db449b3481b5b93fe9295ce81fefcd4.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

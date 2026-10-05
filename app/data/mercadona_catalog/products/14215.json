@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 361,
+              "level": 2,
+              "name": "Galletas integrales y digestive",
+              "order": 18
+            }
+          ],
+          "id": 80,
+          "level": 1,
+          "name": "Galletas",
+          "order": 18
+        }
+      ],
+      "id": 7,
+      "level": 0,
+      "name": "Cereales y galletas",
+      "order": 18
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Galletas Digestive manzana & avena Hacendado",
+    "legal_name": "Galleta con avena y manzana",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Almacenar en lugar fresco y seco. Proteger de los rayos solares. Una vez abierto, mantener en las mismas condiciones y cerrar después de cada uso.",
+    "suppliers": [
+      {
+        "name": "GALLETAS GULLON, S.A"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Galletas Digestive manzana & avena Hacendado",
+  "ean": "8480000142153",
+  "extra_info": [
+    null
+  ],
+  "id": "14215",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>huevos y productos a base de huevo</strong>. Puede contener <strong>frutos de cáscara</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>go</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Copos de <strong>avena</strong> 42%, harina de <strong>trigo</strong>, aceite refinado de girasol alto oleico, azúcar, preparado de fruta (jarabe de glucosa y fructosa, fruta (puré de manzana de concentrado 27% y concentrado de zumo de sauco), jarabe de glucosa, humectante (glicerol), azúcar, fibra de <strong>trigo</strong>, aceite refinado de girasol, agente gelificante (pectina), corrector de acidez (ácido cítrico), aroma, antioxidante (ácido ascórbico)), oligofructosa, salvado de <strong>trigo</strong>, gasificantes (carbonato ácido de sodio y carbonato ácido de amonio), sal, aroma natural. <strong>Puede contener trazas de leche, soja, frutos de cáscara, huevo y mostaza</strong>. Con girasol alto oleico."
+  },
+  "origin": "España",
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/500583d75d43433a64dbec896cc8d655.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/500583d75d43433a64dbec896cc8d655.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/500583d75d43433a64dbec896cc8d655.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/21efb0934f94d02df4938abd90b2671a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/21efb0934f94d02df4938abd90b2671a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/21efb0934f94d02df4938abd90b2671a.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.30",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "4.297",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 8,
+    "unit_name": "paquetes",
+    "unit_price": "1.65",
+    "unit_selector": true,
+    "unit_size": 0.384
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/14215/galletas-digestive-manzana-avena-hacendado-caja",
+  "slug": "galletas-digestive-manzana-avena-hacendado-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/500583d75d43433a64dbec896cc8d655.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

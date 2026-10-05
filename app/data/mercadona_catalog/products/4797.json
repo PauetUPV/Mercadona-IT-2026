@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 497,
+              "level": 2,
+              "name": "Carne",
+              "order": 597
+            }
+          ],
+          "id": 140,
+          "level": 1,
+          "name": "Platos preparados calientes",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Albóndigas guisadas Hacendado",
+    "legal_name": "Albóndigas guisadas",
+    "mandatory_mentions": "Envasado en atmósfera protectora.",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 0-4C. Una vez abierto, consumir en su totalidad.",
+    "suppliers": [
+      {
+        "name": "Casa Mas Alimentación, S.L."
+      }
+    ],
+    "usage_instructions": "Microondas: Pinchar el film repetidamente y calentar a máxima potencia (800W) durante 3 minutos en el microondas."
+  },
+  "display_name": "Albóndigas guisadas Hacendado",
+  "ean": "8480000047977",
+  "extra_info": [
+    null
+  ],
+  "id": "4797",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>sa</strong>. Puede contener <strong>pescado y productos a base de pescado</strong>. Puede contener <strong>moluscos y productos a base de moluscos</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Libre de <strong>altramuces y productos a base de altramuces</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>. Libre de <strong>mostaza y productos derivados</strong>. Puede contener <strong>apio y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>dióxido de azufre y sulfitos</strong>. Libre de <strong>cacahuetes y productos a base de cacahuetes</strong>. Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>frutos de cáscara</strong>. Contiene <strong>sh</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Albóndigas fritas 62% (carnes de porcino y de bovino, harina de <strong>trigo</strong>,texturizado de harina(harina de <strong>trigo</strong> y sal), <strong>huevo</strong> líquido pasteurizado, <strong>leche</strong>, aceites vegetales de girasol, fibra de <strong>trigo</strong>, caldo de pollo, pasta de ajo (antioxidante: ácido cítrico y acidulante: ácido láctico), perejil, pimienta blanca, sal, conservador: benzoato sódico), agua, cebolla, tomate frito (tomate y concentrado de tomate, aceite de girasol, almidón modificado de maíz, sal, cebolla, ajo, azúcar y acidulante: ácido cítrico), vino (<strong>sulfitos</strong>), aceite de girasol, <strong>almendras</strong>, <strong>avellanas</strong>, ajo, perejil, caldo de pollo, colorante: caramelo amónico, corrector de acidez: lactato sódico; espesante: fosfato de dialmidón hidroxipropilado, sal, gelatina, conservadores: sorbato potásico y ácido sórbico.Puede contener trazas de <strong>crustáceos, moluscos, pescado, soja, frutos de cáscara, apio, mostaza</strong> y <strong>sésamo.</strong>"
+  },
+  "origin": "España",
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/0530a6b96bdc5975928c8174e751bafa.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0530a6b96bdc5975928c8174e751bafa.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0530a6b96bdc5975928c8174e751bafa.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/133745cc3eab17d8825ce65f29f0d1d3.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/133745cc3eab17d8825ce65f29f0d1d3.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/133745cc3eab17d8825ce65f29f0d1d3.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "9.64",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "9.637",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.65",
+    "unit_selector": true,
+    "unit_size": 0.275
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/4797/albondigas-guisadas-hacendado-bandeja",
+  "slug": "albondigas-guisadas-hacendado-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/0530a6b96bdc5975928c8174e751bafa.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

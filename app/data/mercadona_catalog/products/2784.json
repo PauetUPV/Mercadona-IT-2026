@@ -1,0 +1,140 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 281,
+              "level": 2,
+              "name": "Pollo",
+              "order": 17
+            }
+          ],
+          "id": 38,
+          "level": 1,
+          "name": "Aves y pollo",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Alas de pollo",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Pieza anatómica de la canal de ave de corral compuesta por el humero, radio y cubito junto con la musculatura que los envuelve.",
+    "mandatory_mentions": "Envasado en atmósfera protectora.",
+    "origin": "Planta de sacrificio Hijos de Juan Pujante, S.A. ubicada en España",
+    "production_variant": "",
+    "storage_instructions": "Almacenar entre 0-4ºC.",
+    "suppliers": [
+      {
+        "name": "AVICOLA DE LLEIDA S.A.U."
+      },
+      {
+        "name": "Avinatur Producciones Avícolas, S.L.U."
+      },
+      {
+        "name": "Avícola Sánchez S.A."
+      },
+      {
+        "name": "Avícola de Galicia, S.A.U."
+      },
+      {
+        "name": "DOLZ ESPAÑA SL"
+      },
+      {
+        "name": "HIJOS DE JUAN PUJANTE S.A."
+      },
+      {
+        "name": "Hijos de Juan Pujante, S.A."
+      },
+      {
+        "name": "INASUR"
+      },
+      {
+        "name": "Nutrave S.A"
+      },
+      {
+        "name": "UVE, S.A."
+      }
+    ],
+    "usage_instructions": "Una vez abierto el envase consumir en 24 horas. Cocinar completamente (75º) antes de su consumo."
+  },
+  "display_name": "Alas de pollo",
+  "ean": "2105100027846",
+  "extra_info": [
+    null
+  ],
+  "id": "2784",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Ala de pollo"
+  },
+  "origin": "Planta de sacrificio Hijos de Juan Pujante, S.A. ubicada en España",
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/9de7c0c7e523b36a96341a167d63aaf7.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9de7c0c7e523b36a96341a167d63aaf7.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9de7c0c7e523b36a96341a167d63aaf7.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/c9da2896ac8b40c4e7653acfc4d0e750.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c9da2896ac8b40c4e7653acfc4d0e750.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c9da2896ac8b40c4e7653acfc4d0e750.jpeg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "4.15",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "4.150",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.78",
+    "unit_selector": true,
+    "unit_size": 0.91
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/2784/alas-pollo-bandeja",
+  "slug": "alas-pollo-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/9de7c0c7e523b36a96341a167d63aaf7.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

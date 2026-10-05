@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 309,
+              "level": 2,
+              "name": "Queso curado",
+              "order": 159
+            }
+          ],
+          "id": 54,
+          "level": 1,
+          "name": "Queso curado, semicurado y tierno",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Queso curado cheddar Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "West Coutry Farmhouse Queso Cheddar, Hecho con leche de vaca pasteurizada.",
+    "mandatory_mentions": "",
+    "origin": "D.O.P. Elaborado en Inglaterra.",
+    "production_variant": "Cheddar Curado",
+    "storage_instructions": "Conservar entre 2 ºC y 5 ºC",
+    "suppliers": [
+      {
+        "name": "AJ & RG BARBER LTD"
+      },
+      {
+        "name": "Distribuciones Juan Luna S.L.U."
+      }
+    ],
+    "usage_instructions": "Una vez abierto consumir en 7 días y antes de la fecha de caducidad"
+  },
+  "display_name": "Queso curado cheddar Hacendado",
+  "ean": "8480000516305",
+  "extra_info": [
+    null
+  ],
+  "id": "51630",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Leche</strong> de vaca (98.18%), sal (1.8%), fermentos <strong>láctico</strong>s (0.01%), coagulante (0.01%). Conservar entre 2 ºC  5 ºC. <strong>Una vez</strong> abierto consumir en 7 días y antes de la fecha de caducidad. Elaborado en Inglaterra. Origen de la leche: Reino Unido. Envasado en atmósfera protectora."
+  },
+  "origin": "D.O.P. Elaborado en Inglaterra.",
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/b8ada196b5642778f3b5ad515ebb780e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b8ada196b5642778f3b5ad515ebb780e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b8ada196b5642778f3b5ad515ebb780e.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/ffb6542025c10c867acd445f00e120b6.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ffb6542025c10c867acd445f00e120b6.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ffb6542025c10c867acd445f00e120b6.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "9.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "9.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.85",
+    "unit_selector": true,
+    "unit_size": 0.3
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/51630/queso-curado-cheddar-hacendado-pieza",
+  "slug": "queso-curado-cheddar-hacendado-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/b8ada196b5642778f3b5ad515ebb780e.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

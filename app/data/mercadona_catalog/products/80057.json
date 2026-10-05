@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 471,
+              "level": 2,
+              "name": "Sopa",
+              "order": 215
+            }
+          ],
+          "id": 129,
+          "level": 1,
+          "name": "Sopa y caldo",
+          "order": 215
+        }
+      ],
+      "id": 14,
+      "level": 0,
+      "name": "Conservas, caldos y cremas",
+      "order": 215
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Sopa de miso",
+    "legal_name": "Sopa Miso",
+    "mandatory_mentions": "",
+    "origin": "Japón",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco. Una vez abierto consumir de inmediato.",
+    "suppliers": [
+      {
+        "name": "Mercadona S.A."
+      }
+    ],
+    "usage_instructions": "Verter el contenido de un sobre de sopa miso en una taza o plato, añadir 200 - 300ml de agua hirviendo y remover bien con una cuchara."
+  },
+  "display_name": "Sopa de miso",
+  "ean": "8480000800572",
+  "extra_info": [
+    null
+  ],
+  "id": "80057",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>soja y productos a base de soja</strong>.",
+    "ingredients": "Pasta de <strong>soja</strong> (agua, <strong>soja</strong>, arroz, sal), agua, pasta de <strong>soja</strong> (<strong>soja</strong>, agua, sal, alcohol, <strong>cevada</strong>), alcohol, alga, levadura, azucar, extracto de algas, sal, salsa de <strong>soja</strong> (agua, trigo, <strong>soja</strong>, sal)."
+  },
+  "origin": "Japón",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/7f856494462f7a6a7bdb7deb143d7040.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7f856494462f7a6a7bdb7deb143d7040.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7f856494462f7a6a7bdb7deb143d7040.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/f59949b7f53826dff4c5a64f6d99edde.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f59949b7f53826dff4c5a64f6d99edde.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f59949b7f53826dff4c5a64f6d99edde.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "0.75",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "28.626",
+    "selling_method": 0,
+    "size_format": "ud",
+    "tax_percentage": "10.000",
+    "total_units": 3,
+    "unit_name": "ud.",
+    "unit_price": "2.25",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/80057/sopa-miso-paquete",
+  "slug": "sopa-miso-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/7f856494462f7a6a7bdb7deb143d7040.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

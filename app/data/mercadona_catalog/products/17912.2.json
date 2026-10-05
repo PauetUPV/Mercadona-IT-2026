@@ -1,0 +1,109 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 788,
+              "level": 2,
+              "name": "Pan rebanado",
+              "order": 515
+            }
+          ],
+          "id": 59,
+          "level": 1,
+          "name": "Pan de horno",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": "Los productos preparados en el horno de Mercadona pueden contener como ingrediente o como traza los siguientes alérgenos: gluten, crustáceos, huevos, pescado, cacahuetes, soja, leche y derivados, frutos de cáscara, apio, mostaza, sésamo, sulfitos, altramuces y moluscos. Producto preparado por Mercadona, S.A. C/ Alfonso Roig Alfonso, s/n. Albalat dels Sorells 46135 (Valencia).",
+    "danger_mentions": "",
+    "description": "Barra pan integral 100% rebanado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Pan especial elaborado con harina integral de trigo 100%",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Tª de conservación: -18ºC. No congelar una vez descongelado. Conservar en lugar fresco y seco.",
+    "suppliers": [],
+    "usage_instructions": "Para acompañar en comidas y bocadillos."
+  },
+  "display_name": "Barra pan integral 100% rebanado",
+  "ean": "8402001058868",
+  "extra_info": [
+    ""
+  ],
+  "id": "17912.2",
+  "is_bulk": false,
+  "is_new_arrival": true,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "rebanado",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>.",
+    "ingredients": "Harina integral de <strong>trigo</strong> (<strong>gluten</strong>) 70%**, agua, sal, levadura, masa madre de <strong>trigo</strong> integral (<strong>gluten</strong>) inactiva, <strong>gluten</strong> de <strong>trigo</strong>, emulgente E-472e y antioxidante E-300. Puede contener <strong>soja</strong> y <strong>mostaza</strong>."
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/ef0e32258013ebee99f2efe92b3daefa.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ef0e32258013ebee99f2efe92b3daefa.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ef0e32258013ebee99f2efe92b3daefa.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/f32709fa7fc0e654cdb2c3525dd47f64.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f32709fa7fc0e654cdb2c3525dd47f64.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f32709fa7fc0e654cdb2c3525dd47f64.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.91",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "3.914",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 1,
+    "unit_name": "ud.",
+    "unit_price": "0.90",
+    "unit_selector": true,
+    "unit_size": 0.23
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/17912.2/barra-pan-integral-100-rebanado",
+  "slug": "barra-pan-integral-100-rebanado",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/ef0e32258013ebee99f2efe92b3daefa.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

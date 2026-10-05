@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 335,
+              "level": 2,
+              "name": "Pastelitos surtidos",
+              "order": 515
+            }
+          ],
+          "id": 66,
+          "level": 1,
+          "name": "Bollería envasada",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Rollo con sabor avellana Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Producto pastelería",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en un lugar fresco y seco",
+    "suppliers": [
+      {
+        "name": "Cerealto Briviesca, SL"
+      },
+      {
+        "name": "M&C BAKERY S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Rollo con sabor avellana Hacendado",
+  "ean": "8480000221407",
+  "extra_info": [
+    null
+  ],
+  "id": "22140",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>sh</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>frutos de cáscara</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "Cobertura especial (26%) con grasa vegetal y <strong>leche</strong> [azúcar, grasas vegetales (palmiste, palma), <strong>leche</strong> desnatada en polvo, cacao desgrasado en polvo (7,5%), cacao en polvo (5%), <strong>lactosa</strong> (<strong>leche</strong>), suero de <strong>leche</strong> en polvo, almidón de maíz, emulgentes (lecitina de <strong>soja</strong>, E476), aroma], jarabe de glucosa y fructosa, harina de <strong>trigo (gluten)</strong>, agua, grasas vegetales (palma, coco), <strong>huevo</strong> líquido pasteurizado, humectante (sorbitoles), azúcar, pasta de <strong>avellana</strong> (2,8%) (<strong>frutos de cáscara</strong>), <strong>leche</strong> desnatada en polvo, aceite refinado de girasol, sal, conservador (sorbato potásico), emulgentes (E471, E1520, E477, E470a), espesante (almidón modificado), gasificantes (E450i, carbonatos de sodio), aromas. <strong>Puede contener trazas de mostaza y otros frutos de cáscara.</strong>"
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/c5f4c7eaab619f6a115e915ef65f43b5.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c5f4c7eaab619f6a115e915ef65f43b5.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c5f4c7eaab619f6a115e915ef65f43b5.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/3af574d2387e7a3b8b994ee028403bfb.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3af574d2387e7a3b8b994ee028403bfb.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3af574d2387e7a3b8b994ee028403bfb.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "5.75",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.750",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.24",
+    "unit_selector": true,
+    "unit_size": 0.042
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/22140/rollo-con-sabor-avellana-hacendado",
+  "slug": "rollo-con-sabor-avellana-hacendado",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/c5f4c7eaab619f6a115e915ef65f43b5.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

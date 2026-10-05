@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 501,
+              "level": 2,
+              "name": "Sándwich",
+              "order": 597
+            }
+          ],
+          "id": 142,
+          "level": 1,
+          "name": "Platos preparados fríos",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Sándwich atún y huevo Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Sándwich de atún con huevo cocido",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en el frigorífico entre +1C y +4C.",
+    "suppliers": [
+      {
+        "name": "Ñaming, S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Sándwich atún y huevo Hacendado",
+  "ean": "8402001021176",
+  "extra_info": [
+    null
+  ],
+  "id": "4106",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>dióxido de azufre y sulfitos</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Puede contener <strong>frutos de cáscara</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>pescado y productos a base de pescado</strong>. Contiene <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "Pan de molde de <strong>TRIGO</strong> (<strong>GLUTEN</strong>): harina de <strong>TRIGO</strong> (<strong>GLUTEN</strong>), agua, levadura, aceite de girasol, azúcar, <strong>GLUTEN</strong> de <strong>TRIGO</strong> (<strong>GLUTEN</strong>), sal, conservadores (propionato cálcico, ácido sórbico y sorbato potásico), emulgentes (E-472e, E-481), vinagre de vino, almidón, agente de tratamiento de la harina: ácido ascórbico (E-300). <strong>HUEVO</strong> cocido (26%): <strong>HUEVO</strong>, salmuera (agua, sal, regulador de acidez (ácido cítrico, ácido acético)). Atún: atún (20,5%) (<strong>PESCADO</strong>), aceite de girasol y sal. Mayonesa (11%): aceite de <strong>SOJA</strong>, agua, yema de <strong>HUEVO</strong>, jarabe de glucosa y fructosa, vinagre de uva, almidón modificado de maíz (estabilizante: E-1422), sal, zumo de limón concentrado, aroma, colorantes (betacaroteno y extracto de pimentón) y antioxidante (E-385). Conservadores (E-202 y E-211). Estabilizante (E-415). Puede contener trazas de <strong>CRUSTÁCEOS</strong>, <strong>FRUTOS DE CÁSCARA</strong>, <strong>SÉSAMO</strong>, <strong>MOSTAZA</strong>, <strong>SULFITOS</strong>, <strong>LECHE</strong> y <strong>SOJA</strong>."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/e2ac23455fdd4a64d98288512bb8d717.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e2ac23455fdd4a64d98288512bb8d717.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e2ac23455fdd4a64d98288512bb8d717.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/872e0ed88c1da805fae3fbc3fbc5c88f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/872e0ed88c1da805fae3fbc3fbc5c88f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/872e0ed88c1da805fae3fbc3fbc5c88f.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "9.73",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "9.730",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.80",
+    "unit_selector": true,
+    "unit_size": 0.185
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/4106/sandwich-atun-huevo-hacendado-paquete",
+  "slug": "sandwich-atun-huevo-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/e2ac23455fdd4a64d98288512bb8d717.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

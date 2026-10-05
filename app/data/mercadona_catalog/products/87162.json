@@ -1,0 +1,122 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 851,
+              "level": 2,
+              "name": "Otros",
+              "order": 442
+            }
+          ],
+          "id": 31,
+          "level": 1,
+          "name": "Pescado fresco",
+          "order": 442
+        }
+      ],
+      "id": 2,
+      "level": 0,
+      "name": "Marisco y pescado",
+      "order": 442
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Emperador marinado aromatizado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Xiphias gladius",
+    "mandatory_mentions": "Puede contener espinas. Envasado en atmósfera protectora.",
+    "origin": "España",
+    "production_variant": "Producto de peso variable. Por favor, consulte la etiqueta del producto para conocer el contenido neto del mismo.",
+    "storage_instructions": "Conservar entre 0ºC y 4ºC. Una vez abierto, consumir en 24h. Envasado en atmósfera protectora. Cocinar completamente antes de su consumo",
+    "suppliers": [
+      {
+        "name": "Grupo Profand, S.L."
+      },
+      {
+        "name": "Japofish S.A."
+      }
+    ],
+    "usage_instructions": "Producto para consumir cocinado"
+  },
+  "display_name": "Emperador marinado aromatizado",
+  "ean": "2387162005998",
+  "extra_info": [
+    "El corte y número de piezas puede variar."
+  ],
+  "id": "87162",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>moluscos y productos a base de moluscos</strong>. Contiene <strong>pescado y productos a base de pescado</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>.",
+    "ingredients": "Emperador (pescado)95% (Xiphias <strong>gladius</strong>, pescado), agua, aromas, jarabe de glucosa, antioxidantes E-331 y E-301, sal, vinagre de sidra, limón en polvo y fermentos. Puede contener <strong>trazas de </strong>crust<strong>áceos y </strong>moluscos."
+  },
+  "origin": "España",
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/4c3262070ccdb14de608995bd731c8dd.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4c3262070ccdb14de608995bd731c8dd.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4c3262070ccdb14de608995bd731c8dd.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/207dd91512f42707b1d9baa60338ed47.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/207dd91512f42707b1d9baa60338ed47.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/207dd91512f42707b1d9baa60338ed47.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/394f9443ec609653289c959f37e5fd55.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/394f9443ec609653289c959f37e5fd55.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/394f9443ec609653289c959f37e5fd55.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "22.95",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "22.950",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "5.28",
+    "unit_selector": true,
+    "unit_size": 0.23
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/87162/emperador-marinado-bandeja",
+  "slug": "emperador-marinado-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/4c3262070ccdb14de608995bd731c8dd.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

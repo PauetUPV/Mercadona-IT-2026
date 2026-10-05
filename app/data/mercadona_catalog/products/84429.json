@@ -1,0 +1,125 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 321,
+              "level": 2,
+              "name": "Pan de hamburguesa y wrap",
+              "order": 515
+            }
+          ],
+          "id": 60,
+          "level": 1,
+          "name": "Pan de molde y otras especialidades",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Mini pan de burger Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Pan especial",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Mantener en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "CEREALTO ANTEQUERA, SL"
+      },
+      {
+        "name": "CEREALTO. CEREALTO ANTEQUERA, SL"
+      },
+      {
+        "name": "Cerealto Antequera , S.L."
+      },
+      {
+        "name": "Morato Iberia, S.L.U"
+      },
+      {
+        "name": "SIRO PATERNA, SA. La familia"
+      }
+    ],
+    "usage_instructions": "Consejos para mantener el pan más fresco: 1- Cerrar siempre la bolsa después de su utilización. 2- Mantener en lugar fresco y seco (no es necesario guardar en frigorífico)."
+  },
+  "display_name": "Mini pan de burger Hacendado",
+  "ean": "8480000844293",
+  "extra_info": [
+    ""
+  ],
+  "id": "84429",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>granos de sésamo y productos a base de granos de sésamo</strong>.",
+    "ingredients": "Harina de <strong>trigo</strong> (gluten), agua, levadura, azúcar, aceite refinado de girasol (2,3%), sal, <strong>vinag</strong>re de vino, gluten de trigo, harina de habas, emulgentes (E-472e), conservadores (E-282, E-202), antioxidante (E-300<strong>). Puede contener trazas de semillas de sésamo, soja</strong> y mostaza."
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/2bd3a8a79f94c5c3e9c4763d912e6e75.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/2bd3a8a79f94c5c3e9c4763d912e6e75.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/2bd3a8a79f94c5c3e9c4763d912e6e75.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/50b39f9e4d90050ffa8dd583d32e2eca.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/50b39f9e4d90050ffa8dd583d32e2eca.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/50b39f9e4d90050ffa8dd583d32e2eca.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "7.58",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.576",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 8,
+    "unit_name": "ud.",
+    "unit_price": "1.25",
+    "unit_selector": true,
+    "unit_size": 0.165
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/84429/pan-mini-bocados-hacendado-paquete",
+  "slug": "pan-mini-bocados-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/2bd3a8a79f94c5c3e9c4763d912e6e75.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

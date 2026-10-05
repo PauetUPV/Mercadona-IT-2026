@@ -1,0 +1,109 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 301,
+              "level": 2,
+              "name": "Salchichón",
+              "order": 159
+            }
+          ],
+          "id": 51,
+          "level": 1,
+          "name": "Embutido curado",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Longaniza de payés extra Hacendado",
+    "legal_name": "Longaniza de Payés Extra",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "Producto sometido a desecación. El producto tendrá el RGS España 10.04194/GE CE si se envasa en la planta de producción de Les Planes d'Hostoles, o el RGS España 10.13260/GE CE si se envasa en la planta de producción de Serinyà.",
+    "storage_instructions": "Conservar en un lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Embutidos Monter S.L.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Longaniza de payés extra Hacendado",
+  "ean": "8480000551306",
+  "extra_info": [
+    ""
+  ],
+  "id": "55130",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Paleta de cerdo, panceta, <strong>leche</strong> desnatada en polvo, sal, especias, antioxidante (E-301) y conservadores (E-250, E-252)."
+  },
+  "origin": "España",
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/ee4d1cc6b24a1c24ce427ad0a071a7ed.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ee4d1cc6b24a1c24ce427ad0a071a7ed.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ee4d1cc6b24a1c24ce427ad0a071a7ed.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/b2051cb5dfd9f114ee4cc5307e6a4977.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b2051cb5dfd9f114ee4cc5307e6a4977.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b2051cb5dfd9f114ee4cc5307e6a4977.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "4.98",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "4.980",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "4.98",
+    "unit_selector": true,
+    "unit_size": 0.35
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/55130/longaniza-payes-extra-hacendado",
+  "slug": "longaniza-payes-extra-hacendado",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/ee4d1cc6b24a1c24ce427ad0a071a7ed.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

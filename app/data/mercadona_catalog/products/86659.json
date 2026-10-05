@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 430,
+              "level": 2,
+              "name": "Sazonadores",
+              "order": 7
+            }
+          ],
+          "id": 115,
+          "level": 1,
+          "name": "Especias",
+          "order": 7
+        }
+      ],
+      "id": 12,
+      "level": 0,
+      "name": "Aceite, especias y salsas",
+      "order": 7
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Sazonador barbacoa Hacendado para pollo y costillas al horno y microondas con bolsa",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Sazonador BBQ",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Fabricado por: Jesús Navarro S.A."
+      },
+      {
+        "name": "JESÚS NAVARRO, S.A."
+      }
+    ],
+    "usage_instructions": "1. Sazonar. 2. Cerrar y agitar. 3. Calentar en horno 180C. Pollo (Entero o troceado) y solomillo 50-60 min. Costillas de cerdo 60-70 min. Microondas 800W: 1. Calentar en microondas. Pollo (Entero o troceado) y solomillo 25-35 min. Costillas de cerdo 30-35 min. Precalentar el horno sin la bandeja donde se va a cocinar. Hornear sin grill ni ventilación. Evitar el contacto de la bolsa y de la brida con las paredes o resistencias del horno. No agujerear la bolsa. La bolsa de hornear resiste hasta 200 C. No superar esta temperatura. Reducir el tiempo de cocción en cantidades menores a 800 g -1200 g de carne."
+  },
+  "display_name": "Sazonador barbacoa Hacendado para pollo y costillas",
+  "ean": "8402001002069",
+  "extra_info": [
+    ""
+  ],
+  "id": "86659",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "para pollo y costillas",
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>cacahuetes y productos a base de cacahuetes</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>.",
+    "ingredients": "Azúcar moreno, sal, tomate, especias (ajo, cebolla, cilantro, nuez moscada, pimienta y orégano), aromas, almidón de maíz, colorante (caramelo natural), espesante (goma xantana) y antiaglomerante (E-551). Puede contener trazas de <strong>soja</strong>, <strong>mostaza</strong> y <strong>cacahuete</strong>. Sin gluten."
+  },
+  "origin": "España",
+  "packaging": "Sobre",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/481139c28ea139dbbd8fca388557a003.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/481139c28ea139dbbd8fca388557a003.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/481139c28ea139dbbd8fca388557a003.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/cfb08a14fc37a7db1766bc48dcf761e9.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/cfb08a14fc37a7db1766bc48dcf761e9.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/cfb08a14fc37a7db1766bc48dcf761e9.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "22.81",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "22.808",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.30",
+    "unit_selector": true,
+    "unit_size": 0.057
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/86659/sazonador-sabor-barbacoa-hacendado-carne",
+  "slug": "sazonador-sabor-barbacoa-hacendado-carne",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/481139c28ea139dbbd8fca388557a003.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

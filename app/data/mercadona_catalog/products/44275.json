@@ -1,0 +1,107 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Deliplus",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 647,
+              "level": 2,
+              "name": "Gomina y cera",
+              "order": 238
+            }
+          ],
+          "id": 202,
+          "level": 1,
+          "name": "Fijación cabello",
+          "order": 238
+        }
+      ],
+      "id": 21,
+      "level": 0,
+      "name": "Cuidado del cabello",
+      "order": 238
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Deliplus",
+    "counter_info": null,
+    "danger_mentions": null,
+    "description": "Gel fijador cabello Forte Deliplus fijación 3 ProFix",
+    "legal_name": null,
+    "mandatory_mentions": null,
+    "origin": null,
+    "production_variant": null,
+    "storage_instructions": null,
+    "suppliers": [],
+    "usage_instructions": null
+  },
+  "display_name": "Gel fijador cabello Forte Deliplus fijación 3",
+  "ean": "8480000442758",
+  "extra_info": [
+    null
+  ],
+  "id": "44275",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": null
+  },
+  "origin": null,
+  "packaging": "Bote",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/60e5e1c1f424336e3e7f578e42e69ada.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/60e5e1c1f424336e3e7f578e42e69ada.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/60e5e1c1f424336e3e7f578e42e69ada.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/e8f8a175d22e1747580cbcd0f0f5b548.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e8f8a175d22e1747580cbcd0f0f5b548.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e8f8a175d22e1747580cbcd0f0f5b548.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.38",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "100 ml",
+    "reference_price": "0.438",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.75",
+    "unit_selector": true,
+    "unit_size": 0.4
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/44275/gel-fijador-cabello-forte-deliplus-fijacion-3-profix-bote",
+  "slug": "gel-fijador-cabello-forte-deliplus-fijacion-3-profix-bote",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/60e5e1c1f424336e3e7f578e42e69ada.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

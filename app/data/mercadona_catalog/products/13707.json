@@ -1,0 +1,119 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 497,
+              "level": 2,
+              "name": "Carne",
+              "order": 597
+            }
+          ],
+          "id": 140,
+          "level": 1,
+          "name": "Platos preparados calientes",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pollo asado troceado Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Pollo asado troceado",
+    "mandatory_mentions": "Sin gluten.",
+    "origin": "España",
+    "production_variant": "Este producto es de peso variable, por lo tanto el peso neto puede oscilar.",
+    "storage_instructions": "Conservar entre 0-4C. Una vez abierto consumir en 24 horas.",
+    "suppliers": [
+      {
+        "name": "Fabricado por: PLATOS TRADICIONALES S.A."
+      },
+      {
+        "name": "Platos Tradicionales"
+      },
+      {
+        "name": "Platos Tradicionales S.A."
+      }
+    ],
+    "usage_instructions": "AIR FRYER: 1. retirar el film y colocar en air fryer. 2. calentar 12 minutos a 180ºC. HORNO: 1. Precalentar. 2. retirar el film y colocar en un recipiente hondo apto para el horno. 3. calentar 20 minutos a 180ºC. MICROONDAS: 1. extraer de la bolsa las porciones que se vayan a consumir. 2. colocar el producto en un recipiente hondo apto para el microondas. 3. calentamiento por piezas 4 minutos y todas las piezas a la vez 12 minutos a máxima potencia. 4. retirar el producto del envase y servir. Atención envase caliente."
+  },
+  "display_name": "Pollo asado troceado Hacendado",
+  "ean": "2105171137079",
+  "extra_info": [
+    null
+  ],
+  "id": "13707",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Pollo (93%), agua, aceite refinado de girasol, salmuera (dextrosa, almidón, sal, especias y extracto de levadura), sal, vino, aceite de oliva, especias, corrector de acidez (ácido cítrico) y aroma natural. Sin gluten."
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/c4d5fddaa2cf7c3cfaac420e75d73343.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c4d5fddaa2cf7c3cfaac420e75d73343.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c4d5fddaa2cf7c3cfaac420e75d73343.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/0cab9a472f56a93fe0c2a082b800eef1.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0cab9a472f56a93fe0c2a082b800eef1.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0cab9a472f56a93fe0c2a082b800eef1.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "6.45",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.450",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "8.06",
+    "unit_selector": true,
+    "unit_size": 1.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/13707/pollo-asado-troceado-hacendado-paquete",
+  "slug": "pollo-asado-troceado-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/c4d5fddaa2cf7c3cfaac420e75d73343.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

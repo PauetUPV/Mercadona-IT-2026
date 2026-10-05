@@ -1,0 +1,125 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 811,
+              "level": 2,
+              "name": "Salmón",
+              "order": 442
+            }
+          ],
+          "id": 31,
+          "level": 1,
+          "name": "Pescado fresco",
+          "order": 442
+        }
+      ],
+      "id": 2,
+      "level": 0,
+      "name": "Marisco y pescado",
+      "order": 442
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Filete de salmón",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Salmo salar",
+    "mandatory_mentions": "Puede contener espinas.",
+    "origin": "Noruega",
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 0ºC y 4ºC. Una vez abierto, consumir en 24 h. Apto para congelar. Abrir 5 minutos antes de cocinar. Cocinar antes de consumir.",
+    "suppliers": [
+      {
+        "name": "Grupo Profand SLU"
+      },
+      {
+        "name": "Leroy Processing Spain, S.L.U."
+      },
+      {
+        "name": "Profand Zaragoza SLU"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Filete de salmón",
+  "ean": "8402001049217",
+  "extra_info": [
+    ""
+  ],
+  "id": "87208",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>moluscos y productos a base de moluscos</strong>. Contiene <strong>pescado y productos a base de pescado</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>.",
+    "ingredients": "Salmón (<strong>pescado</strong>) (Salmo salar). Puede contener trazas de <strong>crustáceos</strong> y <strong>moluscos</strong>."
+  },
+  "origin": "Noruega",
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 10,
+      "regular": "https://prod-mercadona.imgix.net/images/da236aaa8e3f4a760d95f063ec5a1638.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/da236aaa8e3f4a760d95f063ec5a1638.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/da236aaa8e3f4a760d95f063ec5a1638.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/c0989ba7a0fe0735586479761bcbba1b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c0989ba7a0fe0735586479761bcbba1b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c0989ba7a0fe0735586479761bcbba1b.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/70c8f1090ba1eebc072f79c1074161a8.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/70c8f1090ba1eebc072f79c1074161a8.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/70c8f1090ba1eebc072f79c1074161a8.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "19.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "19.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "16.15",
+    "unit_selector": true,
+    "unit_size": 0.85
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/87208/medio-salmon-bandeja",
+  "slug": "medio-salmon-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/da236aaa8e3f4a760d95f063ec5a1638.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,135 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Peques 3",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 689,
+              "level": 2,
+              "name": "Leche",
+              "order": 14
+            }
+          ],
+          "id": 216,
+          "level": 1,
+          "name": "Alimentación infantil",
+          "order": 14
+        }
+      ],
+      "id": 24,
+      "level": 0,
+      "name": "Bebé",
+      "order": 14
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 348,
+              "level": 2,
+              "name": "Leche Infantil",
+              "order": 373
+            }
+          ],
+          "id": 72,
+          "level": 1,
+          "name": "Leche y bebidas vegetales",
+          "order": 373
+        }
+      ],
+      "id": 6,
+      "level": 0,
+      "name": "Huevos, leche y mantequilla",
+      "order": 373
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Peques 3",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Preparado lácteo crecimiento Peques 3 Puleva de 12 a 36 meses",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Preparado lácteo infantil.UHT",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Una vez abierto el envase debe conservarse en el frigorífico a una temperatura entre 1ºC y 6ºC, siendo aconsejable su consumo antes de las 48 horas siguientes.",
+    "suppliers": [
+      {
+        "name": "Lactalis Puleva, S.L."
+      }
+    ],
+    "usage_instructions": "Producto listo para tomar. El vaso o biberón deben estar limpios y secos. Agitar y verter directamente. Si desea calentarlo, hágalo en el microondas comprobando la temperatura antes de dárselo al bebé. Desechar el producto no consumido."
+  },
+  "display_name": "Preparado lácteo crecimiento Peques 3 Puleva",
+  "ean": "8411700012217",
+  "extra_info": [
+    ""
+  ],
+  "id": "9040",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "Puleva",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>pescado y productos a base de pescado</strong>.",
+    "ingredients": "<strong>Leche</strong> parcialmente desnatada (2,5% M.G.), agua,  maltodextrina, aceites vegetales (girasol alto oleico y oliva), sales minerales (fosfato tricálcico, citrato tripotásico, pirofosfato férrico, sulfato de zinc, citrato de magnesio, sulfato de manganeso, yoduro potásico, fosfato dipotásico, carbonato cálcico, fosfato dicálcico y yodato potásico),  emulgentes (E-472c y lecitinas (<strong>soja</strong>)), concentrado de proteína de suero (<strong>leche</strong>), aceite de <strong>pescado</strong> azul rico en DHA, aromas, estabilizante (fosfato disódico),  vitaminas (A, B1, B2, B3, B5, B6, B8, B9, B12, C, D, E y K), cloruro de colina y lactasa."
+  },
+  "origin": null,
+  "packaging": "Brik",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/d5a1c7fde0736e47b3e5be274f77d7e9.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d5a1c7fde0736e47b3e5be274f77d7e9.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d5a1c7fde0736e47b3e5be274f77d7e9.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/92419d773b36c7f6e3b8b4250478571b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/92419d773b36c7f6e3b8b4250478571b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/92419d773b36c7f6e3b8b4250478571b.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": "        2.00",
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "2.000",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.00",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/9040/preparado-lacteo-crecimiento-peques-3-puleva-12-36-meses-brick",
+  "slug": "preparado-lacteo-crecimiento-peques-3-puleva-12-36-meses-brick",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/d5a1c7fde0736e47b3e5be274f77d7e9.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

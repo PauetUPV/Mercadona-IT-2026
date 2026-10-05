@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 322,
+              "level": 2,
+              "name": "Pan tostado",
+              "order": 515
+            }
+          ],
+          "id": 62,
+          "level": 1,
+          "name": "Pan tostado y rallado",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Panecillos tostados cereales y semillas Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Panecillo  tostado con cereales y semillas",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco. No exponer a la luz solar.",
+    "suppliers": [
+      {
+        "name": "Anitín Panes Especiales S.L.U."
+      }
+    ],
+    "usage_instructions": "Una vez abierto para apreciar mejor sus cualidades se recomienda consumir antes de 5 días."
+  },
+  "display_name": "Panecillos tostados cereales y semillas Hacendado",
+  "ean": "8480000824172",
+  "extra_info": [
+    null
+  ],
+  "id": "82417",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>mostaza y productos derivados</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>cacahuetes y productos a base de cacahuetes</strong>.",
+    "ingredients": "Harina de <strong>trigo (gluten)</strong>, semillas de lino (6,5%), <strong>sésamo</strong>  (5,8%), aceite refinado de girasol alto oleico, pipas de girasol (2,9%), salvado de <strong>trigo</strong> (<strong>gluten</strong>) (2,5%), levadura, <strong>gluten</strong>  de <strong>trigo</strong>, azúcar, semillas de mijo (1,5%), sal, copos de <strong>trigo (gluten)</strong> (1%), copos de <strong>avena (gluten</strong>) (1%), dextrosa, agente de tratamiento de la harina: ácido ascórbico, almidón de maíz, harina de arroz y espesante: goma guar. Puede contener trazas de <strong>soja, cacahuete, mostaza y derivados lácteos.</strong>"
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/c7cd2bf703694db07e30ff7941cb35b5.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c7cd2bf703694db07e30ff7941cb35b5.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c7cd2bf703694db07e30ff7941cb35b5.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/28f406a7eac422a8f2ac84b6a177eb97.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/28f406a7eac422a8f2ac84b6a177eb97.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/28f406a7eac422a8f2ac84b6a177eb97.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.20",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.200",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.30",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/82417/panecillos-tostados-cereales-semillas-hacendado-paquete",
+  "slug": "panecillos-tostados-cereales-semillas-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/c7cd2bf703694db07e30ff7941cb35b5.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

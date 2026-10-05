@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 304,
+              "level": 2,
+              "name": "Salchichas",
+              "order": 159
+            }
+          ],
+          "id": 52,
+          "level": 1,
+          "name": "Bacón y salchichas",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Salchichas cocidas estilo Frankfurt Hacendado de pollo y cerdo sabor ahumado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Salchichas cocidas de pollo y cerdo sabor ahumado estilo Frankfurt",
+    "mandatory_mentions": "Sin gluten.",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar refrigerado entre 0ºCy 5ºC. Una vez abiertos los paquetes, conservarlos refrigerados y consumirlos antes de 7 días.",
+    "suppliers": [
+      {
+        "name": "INCARLOPSA"
+      }
+    ],
+    "usage_instructions": "Prepararlas escaldadas: cuando el agua comience a hervir, retirar el recipiente del fuego e introducir las salchichas durante 5 minutos."
+  },
+  "display_name": "Salchichas cocidas estilo Frankfurt Hacendado de pollo y cerdo sabor ahumado",
+  "ean": "8480000531414",
+  "extra_info": [
+    ""
+  ],
+  "id": "53141",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "de pollo y cerdo sabor ahumado",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Carne separada mecánicamente de pollo, agua, grasa de cerdo, fécula, carne y cortezas de cerdo, sal, aromas naturales, estabilizador (E-450), fibra  vegetal, aroma de humo, antioxidante (E-316), especias, extractos de especias y  conservador (E-250)."
+  },
+  "origin": "España",
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/d3ca58a7c971dab07cb0095a4391f33b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d3ca58a7c971dab07cb0095a4391f33b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d3ca58a7c971dab07cb0095a4391f33b.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/5609f9c7058279d6083a665bb9e729fd.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5609f9c7058279d6083a665bb9e729fd.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5609f9c7058279d6083a665bb9e729fd.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.56",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.176,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "2.557",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 4,
+    "unit_name": "paquetes",
+    "unit_price": "1.80",
+    "unit_selector": true,
+    "unit_size": 0.704
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/53141/salchichas-cocidas-estilo-frankfurt-hacendado-pollo-cerdo-sabor-ahumado-pack-4",
+  "slug": "salchichas-cocidas-estilo-frankfurt-hacendado-pollo-cerdo-sabor-ahumado-pack-4",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/d3ca58a7c971dab07cb0095a4391f33b.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

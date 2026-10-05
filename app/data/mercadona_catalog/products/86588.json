@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 501,
+              "level": 2,
+              "name": "Sándwich",
+              "order": 597
+            }
+          ],
+          "id": 142,
+          "level": 1,
+          "name": "Platos preparados fríos",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Sándwich pollo y queso Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Sándwich de pollo, mayonesa y queso",
+    "mandatory_mentions": "Envasado en atmósfera protectora. Sin lactosa.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en el frigorífico entre +1C y +4C.",
+    "suppliers": [
+      {
+        "name": "Fabricado por: ÑAMING S.L."
+      },
+      {
+        "name": "Ñaming, S.L."
+      }
+    ],
+    "usage_instructions": "Listo para consumir."
+  },
+  "display_name": "Sándwich pollo y queso Hacendado",
+  "ean": "8480000865885",
+  "extra_info": [
+    null
+  ],
+  "id": "86588",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Puede contener <strong>dióxido de azufre y sulfitos</strong>. Puede contener <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Puede contener <strong>frutos de cáscara</strong>. Puede contener <strong>pescado y productos a base de pescado</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>mostaza y productos derivados</strong>.",
+    "ingredients": "Pan de molde de <strong>TRIGO</strong> (42%): harina de <strong>TRIGO</strong>, agua, levadura, aceite de girasol, azúcar, sal, <strong>gluten</strong> de <strong>TRIGO</strong>, conservadores (propionato cálcico, ácido sórbico y sorbato potásico), almidón de maíz, harina de <strong>SOJA</strong>, agentes de tratamiento de la harina (ácido ascórbico, L- cisteína). Relleno de pollo (35%): (fiambre de pechuga de pollo asada (60%) (pechuga de pollo asada (97%), almidón de arroz, dextrosa, sal, xilosa, antioxidante (E-331), regulador de acidez (E-500)), mayonesa (40%) (aceite de <strong>SOJA</strong>, agua, yema de <strong>HUEVO</strong> pasteurizada, jarabe de glucosa y fructosa, vinagre de uva, almidón modificado de maíz (estabilizante: E-1422), sal, zumo de limón concentrado, aroma, colorantes (betacaroteno y extracto de pimentón) y antioxidante (E-385))). <strong>Queso</strong> gouda (12%): <strong>LECHE</strong> de vaca pasteurizada, sal, fermentos <strong>LÁCTICOS</strong>, coagulante microbiano. Mayonesa (11%): aceite refinado de <strong>SOJA</strong>, agua, yema de <strong>HUEVO</strong> pasteurizada, jarabe de glucosa y fructosa, vinagre de uva, almidón modificado de maíz (estabilizante: E-1422), sal, zumo de limón concentrado, aroma, colorantes (betacaroteno y extracto de pimentón) y antioxidante (E-385). Puede contener trazas de <strong>CRUSTÁCEOS</strong>, <strong>PESCADO</strong>, <strong>FRUTOS DE CÁSCARA</strong>, <strong>SÉSAMO</strong>, <strong>MOSTAZA</strong>, <strong>SULFITOS</strong>."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/1c593da1f45a228feaec75d3970a6172.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1c593da1f45a228feaec75d3970a6172.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1c593da1f45a228feaec75d3970a6172.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/a556c2ccd20a26aa5fc394b9bf07d909.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a556c2ccd20a26aa5fc394b9bf07d909.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a556c2ccd20a26aa5fc394b9bf07d909.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "10.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "10.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.85",
+    "unit_selector": true,
+    "unit_size": 0.185
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/86588/sandwich-pollo-queso-hacendado-paquete",
+  "slug": "sandwich-pollo-queso-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/1c593da1f45a228feaec75d3970a6172.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

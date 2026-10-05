@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 842,
+              "level": 2,
+              "name": "Salsas para pasta",
+              "order": 7
+            }
+          ],
+          "id": 117,
+          "level": 1,
+          "name": "Otras salsas",
+          "order": 7
+        }
+      ],
+      "id": 12,
+      "level": 0,
+      "name": "Aceite, especias y salsas",
+      "order": 7
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Salsa fresca Queso Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Salsa quesos",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 2ºC y 4ºC. Una vez abierto, mantener en refrigeración y consumir en un plazo de 3 días",
+    "suppliers": [
+      {
+        "name": "COMERCIAL GALLO, S.A.U."
+      },
+      {
+        "name": "TAP TAP FOOD S.L."
+      }
+    ],
+    "usage_instructions": "Retirar la tapa, abrir el film parcialmente y calentar en el microondas durante 1 minuto."
+  },
+  "display_name": "Salsa fresca Queso Hacendado",
+  "ean": "8402001047183",
+  "extra_info": [
+    null
+  ],
+  "id": "17409",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Agua, <strong>nata ligera (nata ligera en polvo (leche</strong>), agua), <strong>quesos 11% (quesos en polvo, queso Emmental 2%, queso Cheddar, queso duro 2%, queso azul 2%) (leche</strong>), almidón modificado de maíz waxy, cebolla en polvo, aroma, pimienta blanca, sal."
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/7b61519c9f97f7b985792fc84bbac56f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7b61519c9f97f7b985792fc84bbac56f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7b61519c9f97f7b985792fc84bbac56f.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/cb720b3a966a2e519ce8e9e552579846.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/cb720b3a966a2e519ce8e9e552579846.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/cb720b3a966a2e519ce8e9e552579846.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "8.06",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "8.056",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.45",
+    "unit_selector": true,
+    "unit_size": 0.18
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/17409/salsa-fresca-queso-hacendado-paquete",
+  "slug": "salsa-fresca-queso-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/7b61519c9f97f7b985792fc84bbac56f.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

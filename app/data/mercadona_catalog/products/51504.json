@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Babybel",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 311,
+              "level": 2,
+              "name": "Queso en porciones",
+              "order": 159
+            }
+          ],
+          "id": 56,
+          "level": 1,
+          "name": "Queso lonchas, rallado y en porciones",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Babybel",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Queso en porciones mini Babybel",
+    "legal_name": "Quesos tiernos",
+    "mandatory_mentions": "",
+    "origin": "Francia",
+    "production_variant": "",
+    "storage_instructions": "Mantener refrigerado después de su compra.",
+    "suppliers": [
+      {
+        "name": "Grupo Fromageries Bel España, S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Queso en porciones mini Babybel",
+  "ean": "3073781014129",
+  "extra_info": [
+    null
+  ],
+  "id": "51504",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Leche</strong> de vaca pasteurizada, agua, sal, fermentos <strong>lácticos</strong>, coagulante de <strong>leche</strong> microbiano"
+  },
+  "origin": "Francia",
+  "packaging": "Malla",
+  "photos": [
+    {
+      "perspective": 10,
+      "regular": "https://prod-mercadona.imgix.net/images/860d756d2962ad4e593a3c2b98e253dc.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/860d756d2962ad4e593a3c2b98e253dc.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/860d756d2962ad4e593a3c2b98e253dc.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/4066e0529f0274bdcd75e06e36c224eb.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4066e0529f0274bdcd75e06e36c224eb.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4066e0529f0274bdcd75e06e36c224eb.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "24.38",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "24.375",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 8,
+    "unit_name": "quesitos",
+    "unit_price": "3.90",
+    "unit_selector": true,
+    "unit_size": 0.16
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/51504/queso-porciones-mini-babybel-malla",
+  "slug": "queso-porciones-mini-babybel-malla",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/860d756d2962ad4e593a3c2b98e253dc.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

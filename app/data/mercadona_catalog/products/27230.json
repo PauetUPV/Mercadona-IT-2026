@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": true,
+    "requires_age_check": false
+  },
+  "brand": "Bezoya",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 525,
+              "level": 2,
+              "name": "Agua sin gas",
+              "order": 8
+            }
+          ],
+          "id": 156,
+          "level": 1,
+          "name": "Agua",
+          "order": 8
+        }
+      ],
+      "id": 18,
+      "level": 0,
+      "name": "Agua y refrescos",
+      "order": 8
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Bezoya",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Agua mineral grande Bezoya mineralización muy débil",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Agua mineral natural de mineralización muy débil",
+    "mandatory_mentions": "Indicada para la preparación de alimentos infantiles. Beber 2L de agua al día, procedente de cualquier fuente, contribuye a mantener las funciones físicas y cognitivas normales.",
+    "origin": "Manantial Bezoya Trescasas de Trescasas (Segovia) o Bezoya de Ortigosa del Monte (Segovia)",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco, seco y preservado de olores intensos. Proteger de la luz solar.",
+    "suppliers": [
+      {
+        "name": "Calidad Pascual, SAU."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Agua mineral grande Bezoya",
+  "ean": "8410128000035",
+  "extra_info": [
+    ""
+  ],
+  "id": "27230",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Manantial Bezoya: Composición química (mg/l): Residuo seco a 180ºC, 27; Bicarbonatos, <5; Cloruros, 0.84; Calcio, 2.86; Magnesio, 0.36; Sodio, 2.04; Sílice, 9.51. (C.N.TA. Mayo 2014).<p>Manantial Bezoya Trescasas: Composición química (mg/l): Residuo seco a 180ºC, 27; Bicarbonatos, 17; Cloruros, 0.54; Calcio, 6.32; Magnesio, 0.83; Sodio, 1.21; Sílice, 9.78. (C.N.TA. Mayo 2014)."
+  },
+  "origin": "Manantial Bezoya Trescasas de Trescasas (Segovia) o Bezoya de Ortigosa del Monte (Segovia)",
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/8938d3a305c7e81970a0bb5d89e27dba.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8938d3a305c7e81970a0bb5d89e27dba.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8938d3a305c7e81970a0bb5d89e27dba.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/551fd239ef1e98d91aef34fb21a6b2d3.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/551fd239ef1e98d91aef34fb21a6b2d3.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/551fd239ef1e98d91aef34fb21a6b2d3.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "0.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "0.500",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.75",
+    "unit_selector": true,
+    "unit_size": 1.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/27230/agua-mineral-grande-bezoya-mineralizacion-muy-debil-botella",
+  "slug": "agua-mineral-grande-bezoya-mineralizacion-muy-debil-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/8938d3a305c7e81970a0bb5d89e27dba.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,128 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 854,
+              "level": 2,
+              "name": "Patata",
+              "order": 306
+            }
+          ],
+          "id": 29,
+          "level": 1,
+          "name": "Verdura",
+          "order": 306
+        }
+      ],
+      "id": 1,
+      "level": 0,
+      "name": "Fruta y verdura",
+      "order": 306
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Patatas rojas",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Patata nueva",
+    "mandatory_mentions": "Categoría: I",
+    "origin": "Francia",
+    "production_variant": "",
+    "storage_instructions": "Guardar en un lugar fresco y oscuro",
+    "suppliers": [
+      {
+        "name": "Patatas Gómez S.L."
+      },
+      {
+        "name": "Patatas Hijolusa, S.A.U."
+      },
+      {
+        "name": "Patatas Melendez S.L."
+      },
+      {
+        "name": "Udapa S.COOP."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Patatas rojas",
+  "ean": "8423761000454",
+  "extra_info": [
+    null
+  ],
+  "id": "69098",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": ""
+  },
+  "origin": "Francia",
+  "packaging": "Malla",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/12962dac735b6d3c60e7448d339640a8.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/12962dac735b6d3c60e7448d339640a8.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/12962dac735b6d3c60e7448d339640a8.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/d51e5dfcc3bfe1114aa3ff744b0e459e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d51e5dfcc3bfe1114aa3ff744b0e459e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d51e5dfcc3bfe1114aa3ff744b0e459e.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/d1229943fdae595cf7d5db2ba522b992.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d1229943fdae595cf7d5db2ba522b992.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d1229943fdae595cf7d5db2ba522b992.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.90",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 4,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "1.900",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.80",
+    "unit_selector": true,
+    "unit_size": 2.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/69098/patatas-rojas-malla",
+  "slug": "patatas-rojas-malla",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/12962dac735b6d3c60e7448d339640a8.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

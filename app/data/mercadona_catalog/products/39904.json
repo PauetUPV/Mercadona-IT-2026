@@ -1,0 +1,135 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 473,
+              "level": 2,
+              "name": "Gazpacho y salmorejo",
+              "order": 215
+            }
+          ],
+          "id": 130,
+          "level": 1,
+          "name": "Gazpacho y cremas",
+          "order": 215
+        }
+      ],
+      "id": 14,
+      "level": 0,
+      "name": "Conservas, caldos y cremas",
+      "order": 215
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 503,
+              "level": 2,
+              "name": "Gazpacho y salmorejo",
+              "order": 597
+            }
+          ],
+          "id": 142,
+          "level": 1,
+          "name": "Platos preparados fríos",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Gazpacho blanco de almendras Hacendado con ajo blanco",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Ajoblanco. Gazpacho blanco de almendras",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar siempre en el frigorífico (2-6C). Una vez abierto el envase, consumir antes de tres días.",
+    "suppliers": [
+      {
+        "name": "J.G.C.,S.A."
+      }
+    ],
+    "usage_instructions": "Agitar antes de servir."
+  },
+  "display_name": "Gazpacho blanco de almendras Hacendado con ajo blanco",
+  "ean": "8480000399045",
+  "extra_info": [
+    null
+  ],
+  "id": "39904",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "con ajo blanco",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>sa</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>frutos de cáscara</strong>.",
+    "ingredients": "Agua, <strong>almendras</strong>(9%), pan rallado (contiene <strong>trigo</strong>), aceite de oliva virgen extra (3.5%), vinagre de Jerez Reserva, sal, ajo y zumo de limón a partir de concentrado"
+  },
+  "origin": null,
+  "packaging": "Pack-3",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/950c8b5282144b312a0de842bffac31f.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/950c8b5282144b312a0de842bffac31f.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/950c8b5282144b312a0de842bffac31f.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/0193bcc59725861047c70b41b1e4e8dd.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0193bcc59725861047c70b41b1e4e8dd.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0193bcc59725861047c70b41b1e4e8dd.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.43",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.33,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "3.435",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": 3,
+    "unit_name": "mini briks",
+    "unit_price": "3.40",
+    "unit_selector": true,
+    "unit_size": 0.99
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/39904/gazpacho-blanco-almendras-hacendado-con-ajo-blanco-pack-3",
+  "slug": "gazpacho-blanco-almendras-hacendado-con-ajo-blanco-pack-3",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/950c8b5282144b312a0de842bffac31f.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

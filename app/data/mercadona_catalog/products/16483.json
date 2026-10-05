@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Bosque Verde",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 872,
+              "level": 2,
+              "name": "Ambientador spray",
+              "order": 374
+            }
+          ],
+          "id": 241,
+          "level": 1,
+          "name": "Insecticida y ambientador",
+          "order": 374
+        }
+      ],
+      "id": 26,
+      "level": 0,
+      "name": "Limpieza y hogar",
+      "order": 374
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Bosque Verde",
+    "counter_info": null,
+    "danger_mentions": "H319 - Provoca irritación ocular grave. H412 - Nocivo para los organismos acuáticos, con efectos nocivos duraderos. H225 - Líquido y vapores muy inflamables.",
+    "description": "Ambientador spray hogar Peonía Bosque Verde con pistola",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "HOME SPRAY FRAGANCE PEONÍA",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "FRANCISCO ARAGÓN S.L.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Ambientador spray hogar Peonía Bosque Verde",
+  "ean": "8402001049590",
+  "extra_info": [
+    ""
+  ],
+  "id": "16483",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": ""
+  },
+  "origin": null,
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/c7510b6b8029e5c0da2d24e6e41bfdc8.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c7510b6b8029e5c0da2d24e6e41bfdc8.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c7510b6b8029e5c0da2d24e6e41bfdc8.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/01c89a98b097530fe130d246f4f24fa7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/01c89a98b097530fe130d246f4f24fa7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/01c89a98b097530fe130d246f4f24fa7.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "7.78",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "7.778",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.50",
+    "unit_selector": true,
+    "unit_size": 0.45
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/16483/ambientador-spray-hogar-peonia-bosque-verde-con-pistola-botella",
+  "slug": "ambientador-spray-hogar-peonia-bosque-verde-con-pistola-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/c7510b6b8029e5c0da2d24e6e41bfdc8.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

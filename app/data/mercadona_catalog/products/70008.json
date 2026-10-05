@@ -1,0 +1,120 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Yak",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 779,
+              "level": 2,
+              "name": "Limpieza de calzado",
+              "order": 374
+            }
+          ],
+          "id": 244,
+          "level": 1,
+          "name": "Utensilios de limpieza y calzado",
+          "order": 374
+        }
+      ],
+      "id": 26,
+      "level": 0,
+      "name": "Limpieza y hogar",
+      "order": 374
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Yak",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Esponja de calzado incoloro brillo y protección Yak",
+    "legal_name": "",
+    "mandatory_mentions": "",
+    "origin": "",
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "AC MARCA"
+      },
+      {
+        "name": "AC Marca Home Care"
+      },
+      {
+        "name": "AC Marca Home Care S.A."
+      },
+      {
+        "name": "GRUPO AC MARCA (Home Care)"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Esponja de calzado incoloro brillo y protección Yak",
+  "ean": "8411660192011",
+  "extra_info": [
+    null
+  ],
+  "id": "70008",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": ""
+  },
+  "origin": "",
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/4ae73e8c890f3886c00d2ca1ad304339.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4ae73e8c890f3886c00d2ca1ad304339.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4ae73e8c890f3886c00d2ca1ad304339.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/b127a5275d67b94489b61f8cb91ecbab.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b127a5275d67b94489b61f8cb91ecbab.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b127a5275d67b94489b61f8cb91ecbab.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.75",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "1.750",
+    "selling_method": 0,
+    "size_format": "ud",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.75",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/70008/esponja-calzado-incoloro-brillo-proteccion-yak",
+  "slug": "esponja-calzado-incoloro-brillo-proteccion-yak",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/4ae73e8c890f3886c00d2ca1ad304339.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Flora",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 352,
+              "level": 2,
+              "name": "Margarina",
+              "order": 373
+            }
+          ],
+          "id": 75,
+          "level": 1,
+          "name": "Mantequilla y margarina",
+          "order": 373
+        }
+      ],
+      "id": 6,
+      "level": 0,
+      "name": "Huevos, leche y mantequilla",
+      "order": 373
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Flora",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Margarina Flora Proactiv",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Materia grasa vegetal para untar 35% con esteroles vegetales",
+    "mandatory_mentions": "",
+    "origin": "Portugal",
+    "production_variant": "",
+    "storage_instructions": "Conservar refrigerado entre +2ºC y +8ºC",
+    "suppliers": [
+      {
+        "name": "Upfield España S.L.U."
+      },
+      {
+        "name": "Upfield España, S.L.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Margarina Flora Proactiv",
+  "ean": "8719200202320",
+  "extra_info": [
+    ""
+  ],
+  "id": "15909",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "Proactiv",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Agua, aceites vegetales (nabina, girasol, linaza), ésteres de esteroles vegetales (9%)(equivalen a esteroles vegetales (5,4%)), grasade coco, sal (0,3%), emulgente (lecitina), aromas naturales, vitaminas (A, D).*Puede contener trazas de leche."
+  },
+  "origin": "Portugal",
+  "packaging": "Tarrina",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/ab4a5de85d9c4ec0deae8719d2bc2ffd.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ab4a5de85d9c4ec0deae8719d2bc2ffd.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ab4a5de85d9c4ec0deae8719d2bc2ffd.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/6a90ec9bb04c901e06a20e7f308d9677.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/6a90ec9bb04c901e06a20e7f308d9677.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/6a90ec9bb04c901e06a20e7f308d9677.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "14.18",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "14.178",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.19",
+    "unit_selector": true,
+    "unit_size": 0.225
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/15909/margarina-flora-proactiv-tarrina",
+  "slug": "margarina-flora-proactiv-tarrina",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/ab4a5de85d9c4ec0deae8719d2bc2ffd.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

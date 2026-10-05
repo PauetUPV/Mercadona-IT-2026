@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 455,
+              "level": 2,
+              "name": "Sardinas",
+              "order": 215
+            }
+          ],
+          "id": 122,
+          "level": 1,
+          "name": "Atún y otras conservas de pescado",
+          "order": 215
+        }
+      ],
+      "id": 14,
+      "level": 0,
+      "name": "Conservas, caldos y cremas",
+      "order": 215
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Sardinillas picantes en aceite de girasol Hacendado 5-10 ud.",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Sardinillas picantes en aceite refinado de girasol",
+    "mandatory_mentions": "Con aceite de girasol. Omega-3 (EPA+DHA) = 1520 mg/100 g",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar seco. Una vez abierto, cubrir con salsa, mantener en refrigeración y consumir antes de 4 días.",
+    "suppliers": [
+      {
+        "name": "Fabricado por: FRANCISCO GIL COMES, S.L.U."
+      },
+      {
+        "name": "Francisco Gil Comes, S.L.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Sardinillas picantes en aceite de girasol Hacendado",
+  "ean": "8480000182128",
+  "extra_info": [
+    ""
+  ],
+  "id": "18212",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>pescado y productos a base de pescado</strong>. Puede contener <strong>moluscos y productos a base de moluscos</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>.",
+    "ingredients": "<strong>Sardina (pescado)</strong> (Sardina pilchardus), aceite refinado de girasol, cayena y sal. Puede contener trazas de <strong>crustáceos</strong> y/o <strong>moluscos</strong>."
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/0e433275266c537dffe8c7be183ccae9.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0e433275266c537dffe8c7be183ccae9.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0e433275266c537dffe8c7be183ccae9.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/e2e89725180ae6b7974434e66bcd17fa.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e2e89725180ae6b7974434e66bcd17fa.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e2e89725180ae6b7974434e66bcd17fa.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "10.56",
+    "bunch_selector": false,
+    "drained_weight": 0.13,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.065,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "14.616",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 2,
+    "unit_name": "latas",
+    "unit_price": "1.90",
+    "unit_selector": true,
+    "unit_size": 0.18
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/18212/sardinillas-picantes-aceite-girasol-hacendado-6-12-ud-pack-2",
+  "slug": "sardinillas-picantes-aceite-girasol-hacendado-6-12-ud-pack-2",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/0e433275266c537dffe8c7be183ccae9.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

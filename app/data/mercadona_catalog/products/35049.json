@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 286,
+              "level": 2,
+              "name": "Embutido",
+              "order": 17
+            }
+          ],
+          "id": 43,
+          "level": 1,
+          "name": "Embutido",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Morcilla de cebolla oreada",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "MORCILLA OREADA",
+    "mandatory_mentions": "Envasado en atmósfera protectora.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar de 0º a 4ºC. Una vez abierto consumir en 48 horas.",
+    "suppliers": [
+      {
+        "name": "Embutidos F. Martinez R."
+      },
+      {
+        "name": "Vial 3 s/n, Pol.Ind.Castilla 46380 Cheste (Valencia)"
+      }
+    ],
+    "usage_instructions": "Cocinar completamente, a fuego lento, antes de su consumo. Para plancha, freír, barbacoa,guisos....."
+  },
+  "display_name": "Morcilla de cebolla oreada",
+  "ean": "8421610350491",
+  "extra_info": [
+    ""
+  ],
+  "id": "35049",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Cebolla 65%, tocino, sangre de cerdo, harina de arroz, sal, especias. Tripa natural de cerdo. Sin gluten."
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/78142fc2996c8003f1ec92f0c01ddd98.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/78142fc2996c8003f1ec92f0c01ddd98.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/78142fc2996c8003f1ec92f0c01ddd98.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/47dfed9e7df2a6954badc79a48f02a37.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/47dfed9e7df2a6954badc79a48f02a37.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/47dfed9e7df2a6954badc79a48f02a37.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "6.80",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.800",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.90",
+    "unit_selector": true,
+    "unit_size": 0.28
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/35049/morcilla-cebolla-oreada-bandeja",
+  "slug": "morcilla-cebolla-oreada-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/78142fc2996c8003f1ec92f0c01ddd98.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

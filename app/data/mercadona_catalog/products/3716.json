@@ -1,0 +1,110 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 253,
+              "level": 2,
+              "name": "Otras frutas",
+              "order": 306
+            }
+          ],
+          "id": 27,
+          "level": 1,
+          "name": "Fruta",
+          "order": 306
+        }
+      ],
+      "id": 1,
+      "level": 0,
+      "name": "Fruta y verdura",
+      "order": 306
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Fresón",
+    "legal_name": "freson",
+    "mandatory_mentions": "",
+    "origin": "Huelva",
+    "production_variant": "",
+    "storage_instructions": "Conservar refrigerado.",
+    "suppliers": [
+      {
+        "name": "UNILAND, S.C."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Fresón",
+  "ean": "2105400037163",
+  "extra_info": [
+    null
+  ],
+  "id": "3716",
+  "is_bulk": true,
+  "is_variable_weight": true,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": ""
+  },
+  "origin": "Huelva",
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 10,
+      "regular": "https://prod-mercadona.imgix.net/images/f64f3c7fc124ef80af95cc5b3fabaca7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f64f3c7fc124ef80af95cc5b3fabaca7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f64f3c7fc124ef80af95cc5b3fabaca7.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/f612c43712c9349cd04bc991418ce49b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f612c43712c9349cd04bc991418ce49b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f612c43712c9349cd04bc991418ce49b.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "3.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "3.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.12",
+    "unit_selector": true,
+    "unit_size": 0.89
+  },
+  "product_information": null,
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/3716/freson-bandeja",
+  "slug": "freson-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/f64f3c7fc124ef80af95cc5b3fabaca7.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": "2026-05-25T22:00:00+00:00",
+  "unavailable_weekdays": []
+}

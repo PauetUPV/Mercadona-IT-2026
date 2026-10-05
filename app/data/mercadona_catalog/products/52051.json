@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Coren",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 293,
+              "level": 2,
+              "name": "Jamón cocido",
+              "order": 159
+            }
+          ],
+          "id": 48,
+          "level": 1,
+          "name": "Aves y jamón cocido",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Coren",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Magro de cerdo cocido Coren",
+    "legal_name": "Magro de cerdo cocido",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco. Una vez abierto mantener refrigerado y consumir en 4-5 días.",
+    "suppliers": [
+      {
+        "name": "INDUSTRIAS FRIGORÍFICAS DEL LOURO, S.A."
+      }
+    ],
+    "usage_instructions": "Producto listo para su consumo"
+  },
+  "display_name": "Magro de cerdo cocido Coren",
+  "ean": "8411769004185",
+  "extra_info": [
+    ""
+  ],
+  "id": "52051",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Carne y paleta de cerdo (83%), agua, sal, gelatina, estabilizantes (E-451i, E-452ii, E-407,E-410,E-415), azúcar, especias, potenciador del sabor ( E-621), antioxidante (E-301), conservador (E-250)."
+  },
+  "origin": "España",
+  "packaging": "Lata",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/885af3abf0838fe6f72786cc4e689c6e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/885af3abf0838fe6f72786cc4e689c6e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/885af3abf0838fe6f72786cc4e689c6e.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/9771c88b8cdd2fe96c39c391ae11a1a5.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9771c88b8cdd2fe96c39c391ae11a1a5.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9771c88b8cdd2fe96c39c391ae11a1a5.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "11.21",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "11.209",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.69",
+    "unit_selector": true,
+    "unit_size": 0.24
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/52051/magro-cerdo-cocido-coren-lata",
+  "slug": "magro-cerdo-cocido-coren-lata",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/885af3abf0838fe6f72786cc4e689c6e.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

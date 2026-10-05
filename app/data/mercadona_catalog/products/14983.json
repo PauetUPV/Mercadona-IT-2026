@@ -1,0 +1,170 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Deliplus",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 666,
+              "level": 2,
+              "name": "Maquillaje fluido",
+              "order": 422
+            }
+          ],
+          "id": 206,
+          "level": 1,
+          "name": "Bases de maquillaje y corrector",
+          "order": 422
+        }
+      ],
+      "id": 22,
+      "level": 0,
+      "name": "Maquillaje",
+      "order": 422
+    }
+  ],
+  "color_variants": [
+    {
+      "color": "#e5b499",
+      "color_description": "mate 100 porcelana",
+      "merca_code": "14983",
+      "status": null
+    },
+    {
+      "color": "#d2ad92",
+      "color_description": "mate 110 beige claro",
+      "merca_code": "15181",
+      "status": null
+    },
+    {
+      "color": "#e0b79a",
+      "color_description": "mate 120 beige rosado",
+      "merca_code": "15182",
+      "status": null
+    },
+    {
+      "color": "#dcb39f",
+      "color_description": "mate 200 beige medio",
+      "merca_code": "15183",
+      "status": null
+    },
+    {
+      "color": "#d5a686",
+      "color_description": "mate 210 beige neutro",
+      "merca_code": "15184",
+      "status": null
+    },
+    {
+      "color": "#d6a07c",
+      "color_description": "mate 220 beige dorado",
+      "merca_code": "15185",
+      "status": null
+    },
+    {
+      "color": "#d0906d",
+      "color_description": "mate 300 almendra",
+      "merca_code": "15186",
+      "status": null
+    },
+    {
+      "color": "#c58265",
+      "color_description": "mate 310 caramelo",
+      "merca_code": "15187",
+      "status": null
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Deliplus",
+    "counter_info": null,
+    "danger_mentions": null,
+    "description": "Maquillaje fluido Long Lasting Deliplus mate 100 porcelana",
+    "is_prepared_by_mercadona": false,
+    "legal_name": null,
+    "mandatory_mentions": null,
+    "origin": null,
+    "production_variant": null,
+    "storage_instructions": null,
+    "suppliers": [],
+    "usage_instructions": null
+  },
+  "display_name": "Maquillaje fluido Long Lasting Deliplus mate 100 porcelana",
+  "ean": "8402001033551",
+  "extra_info": [
+    ""
+  ],
+  "id": "14983",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "mate 100 porcelana",
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": null
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/36e60f3a8a5e8ce732a56d5570b7084c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/36e60f3a8a5e8ce732a56d5570b7084c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/36e60f3a8a5e8ce732a56d5570b7084c.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/ed578cb0aeab5bae154df437235d028d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ed578cb0aeab5bae154df437235d028d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ed578cb0aeab5bae154df437235d028d.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/c1b7900eae0e052987e770492b77c5a0.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c1b7900eae0e052987e770492b77c5a0.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c1b7900eae0e052987e770492b77c5a0.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/59dced11890cf58171eab493dea5f3ff.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/59dced11890cf58171eab493dea5f3ff.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/59dced11890cf58171eab493dea5f3ff.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "6.500",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": 1,
+    "unit_name": "ud.",
+    "unit_price": "6.50",
+    "unit_selector": true,
+    "unit_size": 0.03
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/14983/maquillaje-fluido-long-lasting-deliplus-mate-100-porcelana",
+  "slug": "maquillaje-fluido-long-lasting-deliplus-mate-100-porcelana",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/36e60f3a8a5e8ce732a56d5570b7084c.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

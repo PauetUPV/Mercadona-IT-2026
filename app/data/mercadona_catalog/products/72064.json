@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Bosque Verde",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 876,
+              "level": 2,
+              "name": "Insecticida spray",
+              "order": 374
+            }
+          ],
+          "id": 241,
+          "level": 1,
+          "name": "Insecticida y ambientador",
+          "order": 374
+        }
+      ],
+      "id": 26,
+      "level": 0,
+      "name": "Limpieza y hogar",
+      "order": 374
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Bosque Verde",
+    "counter_info": null,
+    "danger_mentions": "Aerosol extremadamente inflamable. Recipiente a presión puede reventar si se calienta. Muy tóxico para los organismos acuáticos.",
+    "description": "Insecticida barrera antimosquitos Bosque Verde",
+    "legal_name": "",
+    "mandatory_mentions": "",
+    "origin": "",
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "Francisco Aragon"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Insecticida barrera antimosquitos Bosque Verde",
+  "ean": "8480000720641",
+  "extra_info": [
+    null
+  ],
+  "id": "72064",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": ""
+  },
+  "origin": "",
+  "packaging": "Spray",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/d8fc7485ca2815d711106b3d93db1b56.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d8fc7485ca2815d711106b3d93db1b56.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d8fc7485ca2815d711106b3d93db1b56.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/a4d2f150d0ad389a4256c4baa52f7abe.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a4d2f150d0ad389a4256c4baa52f7abe.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a4d2f150d0ad389a4256c4baa52f7abe.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "7.75",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "7.750",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.10",
+    "unit_selector": true,
+    "unit_size": 0.4
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/72064/insecticida-barrera-antimosquitos-bosque-verde-spray",
+  "slug": "insecticida-barrera-antimosquitos-bosque-verde-spray",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/d8fc7485ca2815d711106b3d93db1b56.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 251,
+              "level": 2,
+              "name": "Manzana y pera",
+              "order": 306
+            }
+          ],
+          "id": 27,
+          "level": 1,
+          "name": "Fruta",
+          "order": 306
+        }
+      ],
+      "id": 1,
+      "level": 0,
+      "name": "Fruta y verdura",
+      "order": 306
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Manzanas rojas acidulces",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Manzana SweeTango",
+    "mandatory_mentions": "",
+    "origin": "Italia",
+    "production_variant": "",
+    "storage_instructions": "Conservese en lugar fresco.",
+    "suppliers": [
+      {
+        "name": "Vip. Coop. Soc. Agrícola."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Manzanas rojas acidulces",
+  "ean": "5609014019487",
+  "extra_info": [
+    ""
+  ],
+  "id": "8268",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": ""
+  },
+  "origin": "Italia",
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/e65f4165ef836b54f4cb49b719b269bd.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e65f4165ef836b54f4cb49b719b269bd.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e65f4165ef836b54f4cb49b719b269bd.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/a66b421999d12695096bfd65ef88b0b0.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a66b421999d12695096bfd65ef88b0b0.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a66b421999d12695096bfd65ef88b0b0.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "2.60",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "2.600",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "4.21",
+    "unit_selector": true,
+    "unit_size": 1.62
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/8268/manzanas-rojas-acidulces-bolsa",
+  "slug": "manzanas-rojas-acidulces-bolsa",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/e65f4165ef836b54f4cb49b719b269bd.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

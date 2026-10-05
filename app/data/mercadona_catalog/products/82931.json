@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 334,
+              "level": 2,
+              "name": "Bollería envasada",
+              "order": 515
+            }
+          ],
+          "id": 66,
+          "level": 1,
+          "name": "Bollería envasada",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Croissant Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Croissant. Producto de bollería",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco, seco y protegido de la luz.",
+    "suppliers": [
+      {
+        "name": "Dulces Del Campo S.A.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Croissant Hacendado",
+  "ean": "8480000829313",
+  "extra_info": [
+    ""
+  ],
+  "id": "82931",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Puede contener <strong>frutos de cáscara</strong>.",
+    "ingredients": "Harina de <strong>TRIGO</strong> (<strong>GLUTEN</strong>), agua, aceite refinado de girasol, grasa vegetal (palma), azúcar, masa madre activa de <strong>TRIGO</strong> (<strong>GLUTEN</strong>), <strong>HUEVO</strong> líquido, jarabe de azúcar invertido, levadura, emulgentes (E-322, E-471, E-472e), sal, <strong>GLUTEN</strong> de <strong>TRIGO</strong>, conservadores (E-200, E-202, E-282), espesante (E-415), fibra de <strong>TRIGO</strong> (<strong>GLUTEN</strong>), aromas, corrector de la acidez (E-330), colorante (E-160a), agente de tratamiento de la harina (E-300).Puede contener <strong>SOJA</strong>, <strong>FRUTOS DE CÁSCARA</strong>, <strong>LECHE</strong> y <strong>MOSTAZA.</strong>"
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/d586f3c22dacbfeee339548690651c36.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d586f3c22dacbfeee339548690651c36.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d586f3c22dacbfeee339548690651c36.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/b399dcda46e935edd09f451053598402.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b399dcda46e935edd09f451053598402.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b399dcda46e935edd09f451053598402.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.30",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "4.303",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 12,
+    "unit_name": "ud.",
+    "unit_price": "1.85",
+    "unit_selector": true,
+    "unit_size": 0.43
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/82931/croissant-hacendado-paquete",
+  "slug": "croissant-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/d586f3c22dacbfeee339548690651c36.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

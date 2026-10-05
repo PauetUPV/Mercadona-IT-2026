@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "+Proteínas",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 787,
+              "level": 2,
+              "name": "Gelatina",
+              "order": 598
+            }
+          ],
+          "id": 111,
+          "level": 1,
+          "name": "Gelatina y otros postres",
+          "order": 598
+        }
+      ],
+      "id": 11,
+      "level": 0,
+      "name": "Postres y yogures",
+      "order": 598
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "+Proteínas",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Gelatina sabor a frutos silvestres +Proteínas 10 g 0% azúcar Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Gelatina con proteína sabor a frutos silvestres con edulcorantes",
+    "mandatory_mentions": "",
+    "origin": "Valencia, España.",
+    "production_variant": "",
+    "storage_instructions": "Conservar en frío entre 1C y 8C.",
+    "suppliers": [
+      {
+        "name": "Postres Lácteos Romar S.L."
+      }
+    ],
+    "usage_instructions": "Una vez abierto el envase, el producto está listo para consumir."
+  },
+  "display_name": "Gelatina sabor a frutos silvestres +Proteínas 10 g 0% azúcar",
+  "ean": "8402001012150",
+  "extra_info": [
+    ""
+  ],
+  "id": "52488",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "10 g 0% azúcar",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Agua, proteína de colágeno hidrolizado (8,7%), gelatina (2,5%), correctores de acidez (ácido cítrico y citrato trisódico), aroma, colorantes (E-150a y carmín) y edulcorante (sucralosa)"
+  },
+  "origin": "Valencia, España.",
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/5c50c837dc5cd5e8efe4425971c2cf83.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5c50c837dc5cd5e8efe4425971c2cf83.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5c50c837dc5cd5e8efe4425971c2cf83.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/f6e27cac1932b3d83e162e4ac0f7582d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f6e27cac1932b3d83e162e4ac0f7582d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f6e27cac1932b3d83e162e4ac0f7582d.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.88",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.1,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "3.875",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 4,
+    "unit_name": "ud.",
+    "unit_price": "1.55",
+    "unit_selector": true,
+    "unit_size": 0.4
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/52488/gelatina-sabor-frutos-silvestres-proteinas-hacendado-10-g-proteinas-0-azucar-pack-4",
+  "slug": "gelatina-sabor-frutos-silvestres-proteinas-hacendado-10-g-proteinas-0-azucar-pack-4",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/5c50c837dc5cd5e8efe4425971c2cf83.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

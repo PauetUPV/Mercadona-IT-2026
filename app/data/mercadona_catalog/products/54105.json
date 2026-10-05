@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Bricio",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 824,
+              "level": 2,
+              "name": "Chorizo",
+              "order": 159
+            }
+          ],
+          "id": 51,
+          "level": 1,
+          "name": "Embutido curado",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Bricio",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Chorizo de Tarancón Bricio",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Chorizo curado",
+    "mandatory_mentions": "Producto sometido a merma.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en sitio fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Hermanos Bricio, S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Chorizo de Tarancón Bricio",
+  "ean": "8436012510374",
+  "extra_info": [
+    ""
+  ],
+  "id": "54105",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Magro y panceta de cerdo, pimentón, sal común, azúcar, <strong>lactosa</strong>, dextrina, proteína <strong>láctea</strong>, emulgentes (tripolofosfato sódico, pirofosfato ácido de sodio), especias, antioxidante (ascorbato sódico), conservadores (nitrito sódico, nitrato potásico) y colorante (carmín cochinilla)."
+  },
+  "origin": null,
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/4b8175b7ecd7036cf61607512296492b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4b8175b7ecd7036cf61607512296492b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4b8175b7ecd7036cf61607512296492b.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/e0a099a01388e3b682dc0b4836c09aa4.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e0a099a01388e3b682dc0b4836c09aa4.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e0a099a01388e3b682dc0b4836c09aa4.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "3.05",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "3.050",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.05",
+    "unit_selector": true,
+    "unit_size": 0.35
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/54105/chorizo-tarancon-bricio",
+  "slug": "chorizo-tarancon-bricio",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/4b8175b7ecd7036cf61607512296492b.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

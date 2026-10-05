@@ -1,0 +1,112 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 279,
+              "level": 2,
+              "name": "Ahumados",
+              "order": 442
+            }
+          ],
+          "id": 36,
+          "level": 1,
+          "name": "Salazones y ahumados",
+          "order": 442
+        }
+      ],
+      "id": 2,
+      "level": 0,
+      "name": "Marisco y pescado",
+      "order": 442
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Filetes de sardina ahumada Hacendado en aceite de girasol",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Filetes de sardina ahumados con madera de haya en aceite refinado de girasol",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Mantener entre 0 c y 5 c. Una vez abierto cubrir con aceite y consumir antes de 3 días.",
+    "suppliers": [
+      {
+        "name": "Francisco Gil Comes, S.L.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Filetes de sardina ahumada Hacendado en aceite de girasol",
+  "ean": "8480000184368",
+  "extra_info": [
+    null
+  ],
+  "id": "18436",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>pescado y productos a base de pescado</strong>. Puede contener <strong>moluscos y productos a base de moluscos</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>.",
+    "ingredients": "<strong>Sardina</strong> (<strong>PESCADO</strong>) ahumada con madera de haya, aceite refinado de girasol, sal y conservador E-211. Puede contener trazas de <strong>CRUSTÁCEOS</strong> y/o <strong>MOLUSCOS</strong>."
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/10f4e6e466e471beb3bfd594e6fb48c8.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/10f4e6e466e471beb3bfd594e6fb48c8.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/10f4e6e466e471beb3bfd594e6fb48c8.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/0a3eca8fc01e8671451fd337e6e70758.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0a3eca8fc01e8671451fd337e6e70758.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0a3eca8fc01e8671451fd337e6e70758.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "25.29",
+    "bunch_selector": false,
+    "drained_weight": 0.065,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "33.077",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.15",
+    "unit_selector": true,
+    "unit_size": 0.085
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/18436/filetes-sardina-ahumada-hacendado-aceite-girasol-bandeja",
+  "slug": "filetes-sardina-ahumada-hacendado-aceite-girasol-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/10f4e6e466e471beb3bfd594e6fb48c8.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

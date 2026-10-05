@@ -1,0 +1,137 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 253,
+              "level": 2,
+              "name": "Otras frutas",
+              "order": 306
+            }
+          ],
+          "id": 27,
+          "level": 1,
+          "name": "Fruta",
+          "order": 306
+        }
+      ],
+      "id": 1,
+      "level": 0,
+      "name": "Fruta y verdura",
+      "order": 306
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Arándanos",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Arandanos",
+    "mandatory_mentions": "",
+    "origin": "Marruecos",
+    "production_variant": "Variante",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "BerryWorld Iberia SLU"
+      },
+      {
+        "name": "Driscoll's of Europe BV"
+      },
+      {
+        "name": "Euroberry Marketing S.A."
+      },
+      {
+        "name": "Freshroyal S.L."
+      },
+      {
+        "name": "Ideal Fruits S.L."
+      },
+      {
+        "name": "SAT Las Palmeritas"
+      },
+      {
+        "name": "Surexport Compañía Agraria S.L"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Arándanos",
+  "ean": "5608495000069",
+  "extra_info": [
+    null
+  ],
+  "id": "5501",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": ""
+  },
+  "origin": "Marruecos",
+  "packaging": "Vaso",
+  "photos": [
+    {
+      "perspective": 10,
+      "regular": "https://prod-mercadona.imgix.net/images/a5073f7984f7ca2b4cca209439afa9ef.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a5073f7984f7ca2b4cca209439afa9ef.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a5073f7984f7ca2b4cca209439afa9ef.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/092020e86ebcad6256e4594c485c9167.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/092020e86ebcad6256e4594c485c9167.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/092020e86ebcad6256e4594c485c9167.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/c5c788360fb042dcdfa85ba5bdb2984f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c5c788360fb042dcdfa85ba5bdb2984f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c5c788360fb042dcdfa85ba5bdb2984f.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "14.89",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "14.889",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.35",
+    "unit_selector": true,
+    "unit_size": 0.225
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/5501/arandanos-vaso",
+  "slug": "arandanos-vaso",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/a5073f7984f7ca2b4cca209439afa9ef.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 278,
+              "level": 2,
+              "name": "Salazones",
+              "order": 442
+            }
+          ],
+          "id": 36,
+          "level": 1,
+          "name": "Salazones y ahumados",
+          "order": 442
+        }
+      ],
+      "id": 2,
+      "level": 0,
+      "name": "Marisco y pescado",
+      "order": 442
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Boquerones aliñados Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Boquerones aliñados con ajo y perejil en aceite de girasol y aceite de oliva virgen extra (4,9%)",
+    "mandatory_mentions": "Valores variables según época de captura.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Semiconserva. Mantener entre 0 C y 8 C. Una vez abierto cubrir con aceite y consumir antes de 5 días.",
+    "suppliers": [
+      {
+        "name": "Francisco Gil Comes, S.L.U."
+      },
+      {
+        "name": "GIL COMES"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Boquerones aliñados Hacendado",
+  "ean": "8402001013553",
+  "extra_info": [
+    null
+  ],
+  "id": "52451",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>moluscos y productos a base de moluscos</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>. Contiene <strong>pescado y productos a base de pescado</strong>.",
+    "ingredients": "Boquerones (<strong>pescado</strong>) (Engraulis encrasicolus), mezcla de aceites (aceite de girasol (19,4%) y aceite de oliva virgen extra (4,9%)), vinagre de vino (2%), sal, ajo (0,4%) y perejil (0,4%). Puede contener trazas de <strong>crustáceos</strong> y/o <strong>moluscos</strong>."
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/a684e4c575e2e7a19c068b579afa2dc0.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a684e4c575e2e7a19c068b579afa2dc0.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a684e4c575e2e7a19c068b579afa2dc0.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/7304c69c882c51b3cef5ce4b4d9b7727.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7304c69c882c51b3cef5ce4b4d9b7727.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7304c69c882c51b3cef5ce4b4d9b7727.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "20.63",
+    "bunch_selector": false,
+    "drained_weight": 0.06,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "27.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.65",
+    "unit_selector": true,
+    "unit_size": 0.08
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/52451/boquerones-alinados-hacendado-bandeja",
+  "slug": "boquerones-alinados-hacendado-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/a684e4c575e2e7a19c068b579afa2dc0.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

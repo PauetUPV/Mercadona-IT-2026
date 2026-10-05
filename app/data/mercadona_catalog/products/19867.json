@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Enervit Sport",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 357,
+              "level": 2,
+              "name": "Barritas de cereales",
+              "order": 18
+            }
+          ],
+          "id": 78,
+          "level": 1,
+          "name": "Cereales",
+          "order": 18
+        }
+      ],
+      "id": 7,
+      "level": 0,
+      "name": "Cereales y galletas",
+      "order": 18
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Enervit Sport",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Barrita con proteínas sabor chocolate con leche Enervit Sport",
+    "legal_name": "Barrita Con Proteinas Chocolate Con Leche Low Sugar",
+    "mandatory_mentions": "Producto para deportistas.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar al resguardo de la luz en un lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Enervit Nutrition, S.L.U"
+      }
+    ],
+    "usage_instructions": "Se aconseja consumir 1 o 2 barritas al día, según la actividad que se haya desarrollado y teniendo en cuenta las demás fuentes proteicas en la dieta. Se debe acompañar de la correspondiente ingestión de agua. Las proteínas contribuyen a la recuperación post ejercicio y al aumento y conservación de la masa muscular. ADVERTENCIA: No supere la dosis recomendada. No recomendado para niños ni mujeres embarazadas o en periodo de lactancia. Consulte a su médico en caso de consumo prolongado. El producto debe ser utilizado en el marco de una dieta variada, equilibrada y un estilo de vida saludable."
+  },
+  "display_name": "Barrita con proteínas sabor chocolate con leche Enervit Sport",
+  "ean": "8007640964060",
+  "extra_info": [
+    ""
+  ],
+  "id": "19867",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>soja y productos a base de soja</strong>. Puede contener <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Puede contener <strong>cacahuetes y productos a base de cacahuetes</strong>. Puede contener <strong>frutos de cáscara</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "INGREDIENTES: Proteinas de la <strong>leche</strong> (32%) - Eduicorante: maltitol - Chocolate con <strong>leche</strong> de cobertura con edulcorante (33%) (edulcorante: maltitol, <strong>leche</strong> entera en polvo, manteca de cacao, pasta de cacao, suero de <strong>leche</strong> en polvo, emulgente: lecitinas) - Extruidos de <strong>soja</strong> (4,8%) - Grasa de karité - Manteca de cacao - Edulcorante: sorbitol - Humectante: glicerol - Cacao - Emulgente: lecitinas - Aroma, natural. Puede contener trazas de <strong>frutos de cáscara</strong>, granos de <strong>sésamo</strong> y <strong>cacahuetes</strong>. ADVERTENCIA: un consumo excesivo puede producir efectos laxantes."
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/9ed06a63ae5619678ca1e38aa1ebe2aa.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9ed06a63ae5619678ca1e38aa1ebe2aa.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9ed06a63ae5619678ca1e38aa1ebe2aa.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/9c9057d0ab8996f3d747529c2815c0df.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9c9057d0ab8996f3d747529c2815c0df.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9c9057d0ab8996f3d747529c2815c0df.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "27.22",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "27.223",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 3,
+    "unit_name": "barritas",
+    "unit_price": "4.90",
+    "unit_selector": true,
+    "unit_size": 0.18
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/19867/barrita-con-proteinas-enervit-sport-sabor-chocolate-con-leche-caja",
+  "slug": "barrita-con-proteinas-enervit-sport-sabor-chocolate-con-leche-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/9ed06a63ae5619678ca1e38aa1ebe2aa.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

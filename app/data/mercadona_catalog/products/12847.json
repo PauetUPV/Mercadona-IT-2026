@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 843,
+              "level": 2,
+              "name": "Salsas para carnes",
+              "order": 7
+            }
+          ],
+          "id": 117,
+          "level": 1,
+          "name": "Otras salsas",
+          "order": 7
+        }
+      ],
+      "id": 12,
+      "level": 0,
+      "name": "Aceite, especias y salsas",
+      "order": 7
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Salsa Chimichurri Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Salsa brasa y Sabor",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Ambiente",
+    "suppliers": [
+      {
+        "name": "Chovi, S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Salsa Chimichurri Hacendado",
+  "ean": "8402001034954",
+  "extra_info": [
+    ""
+  ],
+  "id": "12847",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "Aceite vegetal*, agua, jarabe de glucosa y fructosa, vinagre de vino, azúcar, tomate concentrado, ajo, cebolla en polvo, tomate en polvo, ajo en polvo, especias, yema de <strong>HUEVO</strong> de gallinas camperas, <strong>LECHE</strong> desnatada en polvo, sal, almidón modificado, aromas naturales, zumo de limón concentrado, acidulante: ácido cítrico, estabilizante: goma xantana, colorantes: betacaroteno y extracto de pimentón, conservador: sorbato potásico, antioxidante: E385"
+  },
+  "origin": null,
+  "packaging": "Bote",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/50d27ac6571a8cfd3edb173b52ad87a7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/50d27ac6571a8cfd3edb173b52ad87a7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/50d27ac6571a8cfd3edb173b52ad87a7.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/c8040e53f614971652c9701dda7a4e59.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c8040e53f614971652c9701dda7a4e59.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c8040e53f614971652c9701dda7a4e59.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.68",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "4.678",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.45",
+    "unit_selector": true,
+    "unit_size": 0.31
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/12847/salsa-brasa-sabor-hacendado-bote",
+  "slug": "salsa-brasa-sabor-hacendado-bote",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/50d27ac6571a8cfd3edb173b52ad87a7.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 419,
+              "level": 2,
+              "name": "Otros postres",
+              "order": 598
+            }
+          ],
+          "id": 111,
+          "level": 1,
+          "name": "Gelatina y otros postres",
+          "order": 598
+        }
+      ],
+      "id": 11,
+      "level": 0,
+      "name": "Postres y yogures",
+      "order": 598
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Copa de chocolate y nata +Proteínas Hacendado 12,5 g proteínas",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Postre lácteo de proteína de cacao y con cobertura proteica. Con edulcorantes",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar entre +1C y +8C. Consumir preferentemente antes del: ver tapa.",
+    "suppliers": [
+      {
+        "name": "Ehrmann Lacteos España S.L.U"
+      },
+      {
+        "name": "Milchfrisch Vertriebs-GmbH"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Copa de chocolate y nata +Proteínas Hacendado 12,5 g proteínas",
+  "ean": "8402001019715",
+  "extra_info": [
+    null
+  ],
+  "id": "60550",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "12,5 g proteínas",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>LECHE desnatada pasteurizada, proteínas de la LECHE 8,4%, NATA, cacao en polvo 1,4%, almidón modificado, espesantes (carragenanos, E 466), gelatina de bovino, cacao desgrasado en polvo 0,2%, emulgente (E 472b), lactasa, aroma natural, edulcorantes (acesulfamo K, sucralosa). Cobertura montada con nitrógeno. Lactosa &lt;0,01 g/100 g. Sin azúcares añadidos. Contiene azúcares naturalmente presentes. Bajo contenido de grasa."
+  },
+  "origin": null,
+  "packaging": "Pack-4",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/296934a64c1c227dca8f7c9b0293a3c1.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/296934a64c1c227dca8f7c9b0293a3c1.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/296934a64c1c227dca8f7c9b0293a3c1.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/bbf831cda87624f17d26dfa29c063efc.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/bbf831cda87624f17d26dfa29c063efc.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/bbf831cda87624f17d26dfa29c063efc.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.10",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.125,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.100",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 4,
+    "unit_name": "ud.",
+    "unit_price": "2.55",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/60550/copa-chocolate-nata-proteinas-hacendado-125-g-proteinas-pack-4",
+  "slug": "copa-chocolate-nata-proteinas-hacendado-125-g-proteinas-pack-4",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/296934a64c1c227dca8f7c9b0293a3c1.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

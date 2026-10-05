@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 842,
+              "level": 2,
+              "name": "Salsas para pasta",
+              "order": 7
+            }
+          ],
+          "id": 117,
+          "level": 1,
+          "name": "Otras salsas",
+          "order": 7
+        }
+      ],
+      "id": 12,
+      "level": 0,
+      "name": "Aceite, especias y salsas",
+      "order": 7
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Salsa fresca Trufa Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Salsa fresca con preparado de trufa",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en el frigorífico entre 2ºC y 4ºC. Después de abrir, conservar cerrado en el frigorífico y consumir antes de 3 días.",
+    "suppliers": [
+      {
+        "name": "COMERCIAL GALLO, S.A.U."
+      }
+    ],
+    "usage_instructions": "Verter la salsa en una sartén antiadherente y calentar durante 2 minutos sin dejar de remover. Abrir por la muesca del envase y calentar directamente en el microondas durante 1-2 minutos a 750W. Retirar con ayuda de un trapo o manopla."
+  },
+  "display_name": "Salsa fresca Trufa Hacendado",
+  "ean": "8480000174109",
+  "extra_info": [
+    null
+  ],
+  "id": "17410",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "Agua, <strong>nata</strong> ligera 34%, <strong>queso</strong> Emmental, <strong>queso</strong> fundido (<strong>queso</strong>, almidón modificado de patata, agua, suero de <strong>leche</strong>, proteínas de la <strong>leche</strong>, sal, conservador: sorbato potásico, almidón de patata), preparado de trufa 6% (champiñones (Agaricus bisporus), aceite de girasol 23%, trufa de verano 5% (Tuber aestivum), aceitunas negras, sal, ajo, perejil, aroma, corrector de acidez: ácido cítrico), suero de <strong>leche</strong> en polvo, almidón modificado de tapioca, sal, conservador: sorbato potásico, pimienta negra. Puede contener trazas de <strong>huevo</strong>. Producto sometido a tratamiento térmico."
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/912baa300a06ed9f81d714338bda0d1d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/912baa300a06ed9f81d714338bda0d1d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/912baa300a06ed9f81d714338bda0d1d.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/7a87df64298ea4db76003120ba9c286c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7a87df64298ea4db76003120ba9c286c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7a87df64298ea4db76003120ba9c286c.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "10.36",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "10.358",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.45",
+    "unit_selector": true,
+    "unit_size": 0.14
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/17410/salsa-fresca-trufa-hacendado-paquete",
+  "slug": "salsa-fresca-trufa-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/912baa300a06ed9f81d714338bda0d1d.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

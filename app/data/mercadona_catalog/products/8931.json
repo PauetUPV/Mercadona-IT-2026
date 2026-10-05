@@ -1,0 +1,126 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 283,
+              "level": 2,
+              "name": "Vacuno",
+              "order": 17
+            }
+          ],
+          "id": 40,
+          "level": 1,
+          "name": "Vacuno",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Solomillo de vacuno",
+    "legal_name": "Solomillo",
+    "mandatory_mentions": "Envasado al vacío. Envase no apto para microondas.",
+    "origin": null,
+    "production_variant": "Producto de peso variable, el contenido neto puede oscilar entre 240g y 480g",
+    "storage_instructions": "Una vez abierto consumir en 24 horas. Conservar de 0 a 5C.",
+    "suppliers": [
+      {
+        "name": "Elaborados Cárnicos Medina S.A.U."
+      },
+      {
+        "name": "Fabricado por: ELABORADOS CÁRNICOS MEDINA, S.A.U."
+      }
+    ],
+    "usage_instructions": "Abrir 10 min. antes. Precalentar a fuego alto y cocinar. Cocinar completamente antes de su consumo. No consumir el producto en crudo."
+  },
+  "display_name": "Solomillo de vacuno",
+  "ean": "8436569263419",
+  "extra_info": [
+    "El corte y número de piezas puede variar."
+  ],
+  "id": "8931",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Solomillo"
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/4d2a9c0c311d70e2ddd490a50f5fd39b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4d2a9c0c311d70e2ddd490a50f5fd39b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4d2a9c0c311d70e2ddd490a50f5fd39b.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/a0dfd4d6feb58413feecda43fbc87bb7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a0dfd4d6feb58413feecda43fbc87bb7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a0dfd4d6feb58413feecda43fbc87bb7.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/e5927750565ee91472520868cc2f2273.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e5927750565ee91472520868cc2f2273.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e5927750565ee91472520868cc2f2273.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/27005a22b44b9487df858322f6312ba5.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/27005a22b44b9487df858322f6312ba5.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/27005a22b44b9487df858322f6312ba5.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "41.40",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "41.400",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "11.80",
+    "unit_selector": true,
+    "unit_size": 0.285
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/8931/solomillo-vacuno-paquete",
+  "slug": "solomillo-vacuno-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/4d2a9c0c311d70e2ddd490a50f5fd39b.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

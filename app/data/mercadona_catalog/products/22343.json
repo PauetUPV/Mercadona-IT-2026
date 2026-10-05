@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 491,
+              "level": 2,
+              "name": "Pizzas refrigeradas",
+              "order": 597
+            }
+          ],
+          "id": 138,
+          "level": 1,
+          "name": "Pizzas",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pizza Prosciutto Hacendado jamón y queso",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Pizza  jamón y queso",
+    "mandatory_mentions": "PRODUCTO PRECOCINADO REFRIGERADO / ENVASADO EN ATMÓSFERA PROTECTORA /  COCIDA AL HORNO DE PIEDRA/  MASA MADRE 24H FERMENTADA/ Teléfono de atención al cliente Mercadona: 800 500 220 / RECICLA (logo)/ RECICLA AMARILLO (logo)/ RECICLA AZUL (logo)/ ABRIR AQUÍ",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Puede congelarse justo después de su compra. Mantener entre 0ºC y 5ºC. Consumir preferentemente antes del/Lote: Ver envase interior",
+    "suppliers": [
+      {
+        "name": "CASA TARRADELLAS, S.A."
+      }
+    ],
+    "usage_instructions": "1 - Precalentar el horno a 220C (calor superior e inferior, sin ventilación). 2 - Retirar el envoltorio y colocar la pizza en la rejilla del horno a media altura. 3 - Cocerla durante al menos 12 minutos. Si añade otros ingredientes el tiempo de cocción podría incrementarse. 4- Antes de servir, dejar enfriar la pizza al menos un minuto. Cocer antes de consumir. No utilitzar microondas u otros métodos de preparación."
+  },
+  "display_name": "Pizza Prosciutto Hacendado jamón y queso",
+  "ean": "8480000223432",
+  "extra_info": [
+    null
+  ],
+  "id": "22343",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "jamón y queso",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Harina de <strong>trigo</strong>, <strong>queso</strong>* mozzarella (23%), jamón cocido (12%), agua, tomate, aceite refinado de girasol, sal, jarabe de glucosa, levadura, orégano, estabilizantes (trifosfato pentasódico, carragen), especias, extracto de especias, antioxidante (ascorbato sódico), aromas, conservador (nitrito sódico). Puede contener trazas de <strong>soja</strong> y <strong>mostaza</strong>. *Queso elaborado con leche pasteurizado."
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/ad274136c0cbc1b07191d3485bd14eee.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ad274136c0cbc1b07191d3485bd14eee.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ad274136c0cbc1b07191d3485bd14eee.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/04c7a6d8b363a9d2293c8bcb5278a4e0.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/04c7a6d8b363a9d2293c8bcb5278a4e0.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/04c7a6d8b363a9d2293c8bcb5278a4e0.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "9.75",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "9.750",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.90",
+    "unit_selector": true,
+    "unit_size": 0.4
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/22343/pizza-prosciutto-hacendado-jamon-queso-caja",
+  "slug": "pizza-prosciutto-hacendado-jamon-queso-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/ad274136c0cbc1b07191d3485bd14eee.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

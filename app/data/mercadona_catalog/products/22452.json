@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 894,
+              "level": 2,
+              "name": "Bombones",
+              "order": 213
+            }
+          ],
+          "id": 154,
+          "level": 1,
+          "name": "Helados",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Mini helado bombón Boom Hacendado sabor leche tostada",
+    "legal_name": "Helado sabor leche tostada",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar a Temperaturas inferiores a -18C. Una vez descongelado no volver a congelar",
+    "suppliers": [
+      {
+        "name": "HELADOS ESTIU, S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Mini helado bombón Boom Hacendado sabor leche tostada",
+  "ean": "8480000224521",
+  "extra_info": [
+    ""
+  ],
+  "id": "22452",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>sh</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>frutos de cáscara</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>leche</strong> desnatada reconstituida, cobertura especial blanca con <strong>avellana</strong> (36,5%) (azúcar, aceite refinado de girasol, <strong>leche</strong> enter en polvo, grasa vegetal de coco, pasta de <strong>avellana</strong> (10%), suero de <strong>leche</strong>, manteca de cacao, emulgente (lecitina de <strong>soja</strong>) y aromas, <strong>trazas de frutos de cáscara</strong>), azúcar, grasa vegetal de coco y palma, galleta troceada (5%) (harina de <strong>trigo</strong> <strong>(gluten)</strong>,azúcar, aceite vegetal de coco, emulgente (lecitina de <strong>soja</strong>), sal, y colorante (caramelo natural), <strong>trazas de mostaza</strong>), <strong>lactosa</strong> y proteínas de la <strong>leche</strong>, jarabe de glucosa y fructosa, preparado concentrado de <strong>leche</strong> tostada (<strong>mantequilla</strong> concentrada, <strong>leche</strong> desnatada y suero de <strong>leche</strong> dulce en polvo), emulgente (monodiglicéridos y diglicéridos de ácidos grasos), estabilizantes (goma de garrofín, goma guar y carragenanos)."
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/8a9c31d7621831473903883df1ed4d2c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8a9c31d7621831473903883df1ed4d2c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8a9c31d7621831473903883df1ed4d2c.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/c96a20126e1ded2b92550e09b2631e90.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c96a20126e1ded2b92550e09b2631e90.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c96a20126e1ded2b92550e09b2631e90.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.25",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "6.250",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": 8,
+    "unit_name": "ud.",
+    "unit_price": "3.00",
+    "unit_selector": true,
+    "unit_size": 0.48
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/22452/helado-mini-boom-hacendado-con-cobertura-blanda-pasta-avellana-galleta-troceada-caja",
+  "slug": "helado-mini-boom-hacendado-con-cobertura-blanda-pasta-avellana-galleta-troceada-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/8a9c31d7621831473903883df1ed4d2c.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

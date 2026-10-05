@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 496,
+              "level": 2,
+              "name": "Pasta",
+              "order": 597
+            }
+          ],
+          "id": 140,
+          "level": 1,
+          "name": "Platos preparados calientes",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Lasaña boloñesa familiar Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Lasaña boloñesa",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 0º- 4º C Una vez abierto se recomienda su consumo inmediato.",
+    "suppliers": [
+      {
+        "name": "Platos Tradicionales S.A."
+      }
+    ],
+    "usage_instructions": "Microondas: Retirar el fajín y el film de la barqueta, meterla en el microondas y calentarla durante 7/8 minutos a máxima potencia. No utilizar Grill."
+  },
+  "display_name": "Lasaña boloñesa familiar Hacendado",
+  "ean": "8480000044884",
+  "extra_info": [
+    null
+  ],
+  "id": "4488",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>mostaza y productos derivados</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>cereales que contengan gluten</strong>. Contiene <strong>trigo y productos derivados</strong>.",
+    "ingredients": "Relleno boloñesa (52%): mezcla de porcino y vacuno (35%*), agua, tomate (23%*) (tomate y corrector de acidez [ácido cítrico]), cebolla (5%*), almidón, azúcar, aceite de oliva, sal, pasta de ajo (ajo, sal y corrector de acidez [ácido cítrico]) y especias; bechamel: agua, <strong>leche</strong>**, harina de <strong>trigo</strong> (<strong>gluten</strong>), <strong>mantequilla</strong> (<strong>leche</strong>), sal y especias; pasta: sémola de <strong>trigo</strong> (<strong>gluten</strong>), <strong>huevo</strong> y agua; mezcla de <strong>quesos</strong> (<strong>leche</strong>**) (mozzarella, cheddar y emmental). Contiene trazas de <strong>soja</strong> y <strong>mostaza</strong>. *respecto al relleno **procedente de <strong>leche</strong> pasteurizada. Envasado en atmósfera protectora. Producto gratinado (no pasteurizado)"
+  },
+  "origin": "España",
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/5ce44300c7eb0b957d6f621704622aab.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5ce44300c7eb0b957d6f621704622aab.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5ce44300c7eb0b957d6f621704622aab.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/b25e39d7d5c65106cd1c3bfe4d1819ae.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b25e39d7d5c65106cd1c3bfe4d1819ae.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b25e39d7d5c65106cd1c3bfe4d1819ae.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.86",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.858",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "4.80",
+    "unit_selector": true,
+    "unit_size": 0.7
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/4488/lasana-bolonesa-familiar-hacendado-bandeja",
+  "slug": "lasana-bolonesa-familiar-hacendado-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/5ce44300c7eb0b957d6f621704622aab.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

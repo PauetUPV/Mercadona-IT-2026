@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 404,
+              "level": 2,
+              "name": "Fruta + leche",
+              "order": 793
+            }
+          ],
+          "id": 99,
+          "level": 1,
+          "name": "Fruta variada",
+          "order": 793
+        }
+      ],
+      "id": 10,
+      "level": 0,
+      "name": "Zumos",
+      "order": 793
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Fruta + leche tropical Hacendado sin azúcares añadidos",
+    "legal_name": "Bebida refrescante mixta pasteurizada de zumo de frutas y leche. Sin azúcares añadidos. Con edulcorante. Con vitaminas A, C y E.",
+    "mandatory_mentions": "Agitar antes de consumir.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Mantener en un lugar fresco y seco. Una vez abierto, consérvese en el frigorífico y consumir antes de 4 días.",
+    "suppliers": [
+      {
+        "name": "J.G.C.,S.A."
+      }
+    ],
+    "usage_instructions": "Agitar antes de consumir."
+  },
+  "display_name": "Fruta + leche tropical Hacendado sin azúcares añadidos",
+  "ean": "8402001024894",
+  "extra_info": [
+    ""
+  ],
+  "id": "86386",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Agua, zumo de frutas a partir de concentrado 16% (uva, piña (4,5%), mango (2%) y manzana), <strong>leche</strong>desnatada en polvo rehidratada (15%), estabilizante (pectina), correctores de la acidez (ácido cítrico y citratos de sodio), edulcorante (sucralosa), vitaminas C, E, A y  caroteno y aromas. Contiene azúcares naturalmente presentes."
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/3e2066a10bbe070412dfa30acba7e2a7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3e2066a10bbe070412dfa30acba7e2a7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3e2066a10bbe070412dfa30acba7e2a7.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/44784002117498411f4487b923db8c04.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/44784002117498411f4487b923db8c04.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/44784002117498411f4487b923db8c04.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.01",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": 21,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.33,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "1.011",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": 3,
+    "unit_name": "mini briks",
+    "unit_price": "1.00",
+    "unit_selector": true,
+    "unit_size": 0.99
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/86386/fruta-leche-tropical-hacendado-sin-azucares-anadidos",
+  "slug": "fruta-leche-tropical-hacendado-sin-azucares-anadidos",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/3e2066a10bbe070412dfa30acba7e2a7.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,117 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hero Solo",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 690,
+              "level": 2,
+              "name": "Papillas",
+              "order": 14
+            }
+          ],
+          "id": 216,
+          "level": 1,
+          "name": "Alimentación infantil",
+          "order": 14
+        }
+      ],
+      "id": 24,
+      "level": 0,
+      "name": "Bebé",
+      "order": 14
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hero Solo",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Papilla 8 cereales Hero Solo +6 meses 0% azúcares añadidos",
+    "legal_name": "Papilla 8 cereales",
+    "mandatory_mentions": "Más 6 meses.",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "En lugar fresco y seco. Cerrar bien la bolsa después de cada uso. Una vez abierta la bolsa se aconseja consumir la papilla en el plazo de 1 mes.",
+    "suppliers": [
+      {
+        "name": "Hero España, S.A."
+      }
+    ],
+    "usage_instructions": "Añadir a 160 ml de leche templada. Añadir 3 cucharadas soperas rasas (17g aprox.) de Papilla 8 Cereales Hero Baby. Remover con un tenedor y ya está lista. También se puede añadir al biberón de leche Papilla 8 Cereales Hero Baby según la cantidad indicada por el pediatra, de acuerdo con la edad del bebé. Agitar y ya esta lista para tomar. Cada cucharada equivale a 5,6g aprox. Añadir más o menos cereales según la consistencia deseada."
+  },
+  "display_name": "Papilla 8 cereales Hero Solo +6 meses",
+  "ean": "8410175073761",
+  "extra_info": [
+    ""
+  ],
+  "id": "9580",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>gs</strong>. Contiene <strong>centeno y productos derivados</strong>. Contiene <strong>gb</strong>. Contiene <strong>go</strong>. Contiene <strong>trigo y productos derivados</strong>.",
+    "ingredients": "Harina de 8 cereales (99%) (<strong>trigo</strong>, cereales de grano completo (33%) (<strong>trigo</strong> y <strong>avena</strong>), <strong>cebada</strong> , <strong>espelta</strong>, <strong>centeno</strong>, <strong>triticale</strong>, arroz y maíz), minerales (calcio y hierro), aroma natural y vitaminas (C, niacina, E, B6, B1, A, ac fólico y D)."
+  },
+  "origin": "España",
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/133c26ee0d0c0605eae785e98793b7cf.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/133c26ee0d0c0605eae785e98793b7cf.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/133c26ee0d0c0605eae785e98793b7cf.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/e737890d1cfce164eb3d1d576e0c4ee9.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e737890d1cfce164eb3d1d576e0c4ee9.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e737890d1cfce164eb3d1d576e0c4ee9.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/72d3590fb4794cc1d894c73563d8285e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/72d3590fb4794cc1d894c73563d8285e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/72d3590fb4794cc1d894c73563d8285e.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "9.51",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "9.513",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.90",
+    "unit_selector": true,
+    "unit_size": 0.41
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/9580/papilla-8-cereales-hero-baby-6-meses-0-azucares-anadidos-caja",
+  "slug": "papilla-8-cereales-hero-baby-6-meses-0-azucares-anadidos-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/133c26ee0d0c0605eae785e98793b7cf.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

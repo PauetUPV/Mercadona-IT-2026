@@ -1,0 +1,109 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 281,
+              "level": 2,
+              "name": "Pollo",
+              "order": 17
+            }
+          ],
+          "id": 38,
+          "level": 1,
+          "name": "Aves y pollo",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pollo abierto churrasco",
+    "legal_name": "Pollo abierto",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 0C y 4C Cocinar bien antes de consumir (>70ºC mínimo 10 minutos)",
+    "suppliers": [
+      {
+        "name": "Lusiaves Indústria e Comércio Agro-Alimentar, SA"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Pollo abierto churrasco",
+  "ean": "5602733042675",
+  "extra_info": [
+    ""
+  ],
+  "id": "4267",
+  "is_bulk": true,
+  "is_variable_weight": true,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": ""
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/1de7b4eec8c28ee9b7a464e4745ec799.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1de7b4eec8c28ee9b7a464e4745ec799.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1de7b4eec8c28ee9b7a464e4745ec799.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/7f7d784ae6aff1c5f25ecfffacc58696.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7f7d784ae6aff1c5f25ecfffacc58696.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7f7d784ae6aff1c5f25ecfffacc58696.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "4.40",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "4.400",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "4.31",
+    "unit_selector": true,
+    "unit_size": 0.98
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/4267/pollo-churrasco-bandeja",
+  "slug": "pollo-churrasco-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/1de7b4eec8c28ee9b7a464e4745ec799.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": "2026-03-07T23:00:00+00:00",
+  "unavailable_weekdays": []
+}

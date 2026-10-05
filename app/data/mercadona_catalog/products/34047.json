@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 846,
+              "level": 2,
+              "name": "Cocktails",
+              "order": 9
+            }
+          ],
+          "id": 133,
+          "level": 1,
+          "name": "Frutos secos y fruta desecada",
+          "order": 9
+        }
+      ],
+      "id": 15,
+      "level": 0,
+      "name": "Aperitivos",
+      "order": 9
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Cocktail frutos secos Crunchy Hacendado sabores a barbacoa, Tex-Mex, miel y sal",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "COCKTAIL CRUNCHY",
+    "mandatory_mentions": "Envasado en atmósfera protectora. Este producto por su tamaño no lo deben consumir menores de 5 años.",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Proteger de la luz. Conservar en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Envasado en/Embalado em: IMPORTACO CASA PONS, S.A.U."
+      },
+      {
+        "name": "IMPORTACO CASA PONS S.A.U."
+      }
+    ],
+    "usage_instructions": "Una vez abierto el envase, conservarlo cerrado y consumir el producto preferentemente en el plazo de una semana."
+  },
+  "display_name": "Cocktail frutos secos Crunchy Hacendado sabores a barbacoa, Tex-Mex, miel y sal",
+  "ean": "8480000340474",
+  "extra_info": [
+    ""
+  ],
+  "id": "34047",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "sabores a barbacoa, Tex-Mex, miel y sal",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>sa</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Puede contener <strong>dióxido de azufre y sulfitos</strong>. Contiene <strong>cacahuetes y productos a base de cacahuetes</strong>. Puede contener <strong>frutos de cáscara</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Cacahuete</strong>, <strong>almendra</strong>, maíz, aceite refinado de girasol, almidón de maíz y patata, harina de <strong>trigo</strong> (<strong>gluten</strong>), azúcar, harina de arroz, sal, almidón modificado, miel, (0,8%), potenciadores de sabor (E-621, E-631 y E-627), gasificante (E-500ii), maltodextrina, maltodextrina ahumada, colorantes (E-160c, E-160ii y E-100), espesantes (E-461 y E-415), aroma (<strong>leche</strong>), acidulante (E-330) y antioxidante (E-306). <strong>Trazas de otros frutos de cáscara, soja, mostaza y sulfitos.</strong>"
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/270c4b2efd708975d5d3c0d625302af2.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/270c4b2efd708975d5d3c0d625302af2.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/270c4b2efd708975d5d3c0d625302af2.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/de378dd6dcdfcd2f790aadd54e8f4b61.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/de378dd6dcdfcd2f790aadd54e8f4b61.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/de378dd6dcdfcd2f790aadd54e8f4b61.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "8.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "8.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.60",
+    "unit_selector": true,
+    "unit_size": 0.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/34047/cocktail-crunchy-sabores-hacendado-paquete",
+  "slug": "cocktail-crunchy-sabores-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/270c4b2efd708975d5d3c0d625302af2.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

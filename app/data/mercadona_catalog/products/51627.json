@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 313,
+              "level": 2,
+              "name": "Queso especialidades",
+              "order": 159
+            }
+          ],
+          "id": 53,
+          "level": 1,
+          "name": "Queso untable, fresco y especialidades",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Queso azul de vaca Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Queso Azul // Queijo Azul",
+    "mandatory_mentions": "Envasado en atmósfera protectora // Embalado em atmosfera protectora",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 0 Cº y 5 ºC // Conservar entre 0 Cº e 5 Cº",
+    "suppliers": [
+      {
+        "name": "Distribuciones Juan Luna S.L.U"
+      }
+    ],
+    "usage_instructions": "Abrir 10 minutos antes de consumir // Abrir 10 minutos antes do consumo"
+  },
+  "display_name": "Queso azul de vaca Hacendado",
+  "ean": "8480000516275",
+  "extra_info": [
+    null
+  ],
+  "id": "51627",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "<strong>Leche</strong> de vaca pasteurizada (Origen: Danés), sal, cuajo microbiano, fermentos <strong>lácticos</strong> y cultivos de moho (Penicillium Roqueforti). Puede contener trazas de <strong>huevo</strong>. // <strong>Leite</strong> pasteurizado de vaca (Origem: Dinamarquês), sal, coalho microbiano, fermentos<strong> lácteos</strong> e culturas de fungos (Penicillium Roqueforti). Pode contener vestígios de <strong>ovo</strong>."
+  },
+  "origin": null,
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/b4c1536ca2733eea0acbaca8ac4f6810.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b4c1536ca2733eea0acbaca8ac4f6810.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b4c1536ca2733eea0acbaca8ac4f6810.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/60186d8bfa74d27e4b112ffbf6107cbf.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/60186d8bfa74d27e4b112ffbf6107cbf.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/60186d8bfa74d27e4b112ffbf6107cbf.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "12.78",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "12.778",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.30",
+    "unit_selector": true,
+    "unit_size": 0.18
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/51627/queso-azul-vaca-hacendado-pieza",
+  "slug": "queso-azul-vaca-hacendado-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/b4c1536ca2733eea0acbaca8ac4f6810.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

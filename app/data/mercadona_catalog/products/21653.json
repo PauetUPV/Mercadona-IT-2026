@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 544,
+              "level": 2,
+              "name": "Té",
+              "order": 8
+            }
+          ],
+          "id": 162,
+          "level": 1,
+          "name": "Refresco de té y sin gas",
+          "order": 8
+        }
+      ],
+      "id": 18,
+      "level": 0,
+      "name": "Agua y refrescos",
+      "order": 8
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Refresco té rojo Zero Hacendado sabor frutos rojos, hibisco y granada",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "BEBIDA REFRESCANTE DE EXTRACTOS CON EDULCORANTES",
+    "mandatory_mentions": "Con edulcorantes.",
+    "origin": null,
+    "production_variant": "Se añaden dos registros de empresa en función de donde se produce el producto: planta Alcolea y/o Tafalla.",
+    "storage_instructions": "Proteger de la luz solar y de olores agresivos. Conservar en lugar limpio, fresco y seco. Una vez abierto conservar refrigerado y consumir en 3 días.",
+    "suppliers": [
+      {
+        "name": "Fabricado por: REFRESCO IBERIA S.A.U."
+      },
+      {
+        "name": "Refresco Iberia S.A.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Refresco té rojo Zero Hacendado sabor frutos rojos, hibisco y granada",
+  "ean": "8402001051104",
+  "extra_info": [
+    ""
+  ],
+  "id": "21653",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "sabor frutos rojos, hibisco y granada",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Agua, zumo de granada a partir de concentrado (0,25%), acidulante: ácido cítrico, aromas, extracto de flores de hibisco (0,1%), extracto de té rojo Pu-erh (0,05%), corrector de acidez: citratos de sodio, edulcorantes: sucralosa, acesulfamo K."
+  },
+  "origin": null,
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/828f6bdbb5bf96a80c7a2abf035adead.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/828f6bdbb5bf96a80c7a2abf035adead.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/828f6bdbb5bf96a80c7a2abf035adead.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/60b038cc269fd3a61e06ad9d6647cb99.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/60b038cc269fd3a61e06ad9d6647cb99.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/60b038cc269fd3a61e06ad9d6647cb99.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "0.67",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "0.667",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.00",
+    "unit_selector": true,
+    "unit_size": 1.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/21653/refresco-te-rojo-sabor-frutos-rojos-hibisco-granada-hacendado-zero-botella",
+  "slug": "refresco-te-rojo-sabor-frutos-rojos-hibisco-granada-hacendado-zero-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/828f6bdbb5bf96a80c7a2abf035adead.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,2214 @@
+{
+  "categories": [
+    {
+      "id": 474,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Patatas fritas",
+      "order": 9,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 15,
+              "level": 0,
+              "name": "Aperitivos",
+              "order": 9
+            }
+          ],
+          "display_name": "Patatas fritas extra crujientes Hacendado",
+          "id": "86146",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "9.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "9.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.35",
+            "unit_selector": true,
+            "unit_size": 0.15
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/86146/patatas-fritas-extra-crujientes-hacendado-paquete",
+          "slug": "patatas-fritas-extra-crujientes-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/0a90d8314e7aafa09f58bc1d175f21f5.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 15,
+              "level": 0,
+              "name": "Aperitivos",
+              "order": 9
+            }
+          ],
+          "display_name": "Patatas fritas clásicas Hacendado",
+          "id": "22245",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "6.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.15,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "6.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 2,
+            "unit_name": "bolsas",
+            "unit_price": "1.80",
+            "unit_selector": true,
+            "unit_size": 0.3
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/22245/patatas-fritas-clasicas-hacendado-pack-2",
+          "slug": "patatas-fritas-clasicas-hacendado-pack-2",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/daa5379864f490d809e6272ea964a119.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 15,
+              "level": 0,
+              "name": "Aperitivos",
+              "order": 9
+            }
+          ],
+          "display_name": "Patatas fritas onduladas sabor jamón serrano Hacendado",
+          "id": "86145",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "8.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "8.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.20",
+            "unit_selector": true,
+            "unit_size": 0.15
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/86145/patatas-fritas-onduladas-hacendado-sabor-jamon-serrano-paquete",
+          "slug": "patatas-fritas-onduladas-hacendado-sabor-jamon-serrano-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/e22f05059ea4f31ab20e1b230918879c.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 15,
+              "level": 0,
+              "name": "Aperitivos",
+              "order": 9
+            }
+          ],
+          "display_name": "Patatas fritas onduladas Hacendado",
+          "id": "15589",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "7.33",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "7.334",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.10",
+            "unit_selector": true,
+            "unit_size": 0.15
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/15589/patatas-fritas-corte-ondulado-hacendado-paquete",
+          "slug": "patatas-fritas-corte-ondulado-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/edc2fc7f9b7e7a1447cce4255b0b66f2.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 15,
+              "level": 0,
+              "name": "Aperitivos",
+              "order": 9
+            }
+          ],
+          "display_name": "Patatas light Hacendado",
+          "id": "15810",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "9.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "9.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.35",
+            "unit_selector": true,
+            "unit_size": 0.15
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/15810/patatas-light-hacendado-paquete",
+          "slug": "patatas-light-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/ba03eace6ddd2d3be06fbee6ceae521a.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 15,
+              "level": 0,
+              "name": "Aperitivos",
+              "order": 9
+            }
+          ],
+          "display_name": "Aperitivo de patata sabor original Pringles",
+          "id": "33555",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Bote",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "12.12",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": "        2.65",
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "12.122",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.00",
+            "unit_selector": true,
+            "unit_size": 0.165
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/33555/aperitivo-patata-sabor-original-pringles-bote",
+          "slug": "aperitivo-patata-sabor-original-pringles-bote",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/a4435dab3e9e7f62f7a5e6f576a008a9.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 15,
+              "level": 0,
+              "name": "Aperitivos",
+              "order": 9
+            }
+          ],
+          "display_name": "Aperitivo de patata sabor crema agria y cebolla Pringles",
+          "id": "33556",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Bote",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "12.12",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": "        2.65",
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "12.122",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.00",
+            "unit_selector": true,
+            "unit_size": 0.165
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/33556/aperitivo-patata-sabor-crema-agria-cebolla-pringles-bote",
+          "slug": "aperitivo-patata-sabor-crema-agria-cebolla-pringles-bote",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/29aa77eb2357d35b1dab5691d3c71317.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 15,
+              "level": 0,
+              "name": "Aperitivos",
+              "order": 9
+            }
+          ],
+          "display_name": "Patatas fritas sabor sal y vinagre Hacendado",
+          "id": "8244",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "8.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "8.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.20",
+            "unit_selector": true,
+            "unit_size": 0.15
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/8244/patatas-fritas-sabor-sal-vinagre-hacendado-paquete",
+          "slug": "patatas-fritas-sabor-sal-vinagre-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/2cd62e7c7215ce07c960b4fc0dffe6bb.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 15,
+              "level": 0,
+              "name": "Aperitivos",
+              "order": 9
+            }
+          ],
+          "display_name": "Patatas fritas sabor chili y lima Hacendado",
+          "id": "8243",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "8.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "8.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.20",
+            "unit_selector": true,
+            "unit_size": 0.15
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/8243/patatas-fritas-sabor-chili-lima-hacendado-paquete",
+          "slug": "patatas-fritas-sabor-chili-lima-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/e75fc7bdebc4998f3b27ce9417ab10ad.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 15,
+              "level": 0,
+              "name": "Aperitivos",
+              "order": 9
+            }
+          ],
+          "display_name": "Patatas fritas 0% sal añadida Hacendado",
+          "id": "5398",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "11.54",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "11.539",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.50",
+            "unit_selector": true,
+            "unit_size": 0.13
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/5398/patatas-fritas-0-sal-anadida-hacendado-paquete",
+          "slug": "patatas-fritas-0-sal-anadida-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/a4f1c7aca0dd8984610757202a87d508.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 15,
+              "level": 0,
+              "name": "Aperitivos",
+              "order": 9
+            }
+          ],
+          "display_name": "Patatas fritas sabor limón y pimienta Hacendado",
+          "id": "8246",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "8.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "8.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.20",
+            "unit_selector": true,
+            "unit_size": 0.15
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/8246/patatas-fritas-sabor-limon-pimienta-hacendado-paquete",
+          "slug": "patatas-fritas-sabor-limon-pimienta-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/78ed4b144e6c7e01e1ff94f47d486bdc.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 15,
+              "level": 0,
+              "name": "Aperitivos",
+              "order": 9
+            }
+          ],
+          "display_name": "Aperitivo de patata con sabor a nata agria y cebolla",
+          "id": "8953",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Bote",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "10.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "10.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.75",
+            "unit_selector": true,
+            "unit_size": 0.175
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/8953/aperitivo-patata-con-sabor-nata-agria-cebolla-bote",
+          "slug": "aperitivo-patata-con-sabor-nata-agria-cebolla-bote",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/16d6c15024afc15821fdb08e9f5a06ef.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 15,
+              "level": 0,
+              "name": "Aperitivos",
+              "order": 9
+            }
+          ],
+          "display_name": "Patatas fritas onduladas sabor queso de cabra y cebolla caramelizada Hacendado",
+          "id": "13069",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "8.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "8.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.20",
+            "unit_selector": true,
+            "unit_size": 0.15
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/13069/patatas-fritas-sabor-queso-cabra-cebolla-caramelizada-hacendado-paquete",
+          "slug": "patatas-fritas-sabor-queso-cabra-cebolla-caramelizada-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/bc0673dd5a4279fdffbabc6b1822d1ec.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 15,
+              "level": 0,
+              "name": "Aperitivos",
+              "order": 9
+            }
+          ],
+          "display_name": "Patatas fritas onduladas sabor campestre Hacendado",
+          "id": "19975",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "8.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "8.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.20",
+            "unit_selector": true,
+            "unit_size": 0.15
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/19975/patatas-fritas-sabor-campestre-hacendado-paquete",
+          "slug": "patatas-fritas-sabor-campestre-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/c94a04a4d11f24962c0f509022f3d7a8.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 15,
+              "level": 0,
+              "name": "Aperitivos",
+              "order": 9
+            }
+          ],
+          "display_name": "Aperitivo de patata sabor barbacoa Hacendado",
+          "id": "20931",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Bote",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "10.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "10.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.75",
+            "unit_selector": true,
+            "unit_size": 0.175
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/20931/aperitivo-patata-sabor-barbacoa-hacendado-bote",
+          "slug": "aperitivo-patata-sabor-barbacoa-hacendado-bote",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/3906ed1599b01d650234fa10416f2692.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    },
+    {
+      "id": 475,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Snacks",
+      "order": 9,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 15,
+              "level": 0,
+              "name": "Aperitivos",
+              "order": 9
+            }
+          ],
+          "display_name": "Nachos Hacendado",
+          "id": "33640",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "6.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "6.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.90",
+            "unit_selector": true,
+            "unit_size": 0.15
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/33640/nachos-hacendado-paquete",
+          "slug": "nachos-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/5ea6209ff18125614b1c278484587d91.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 15,
+              "level": 0,
+              "name": "Aperitivos",
+              "order": 9
+            }
+          ],
+          "display_name": "Tiras de maíz frito sabor barbacoa Hacendado",
+          "id": "33639",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "5.33",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "5.334",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.80",
+            "unit_selector": true,
+            "unit_size": 0.15
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/33639/tiras-maiz-frito-sabor-barbacoa-hacendado-paquete",
+          "slug": "tiras-maiz-frito-sabor-barbacoa-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/105d83b7746598f1b543205253965349.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 15,
+              "level": 0,
+              "name": "Aperitivos",
+              "order": 9
+            }
+          ],
+          "display_name": "Nachos tex-mex sabor queso Hacendado",
+          "id": "33641",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "6.33",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "6.334",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.95",
+            "unit_selector": true,
+            "unit_size": 0.15
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/33641/nachos-tex-mex-hacendado-sabor-queso-paquete",
+          "slug": "nachos-tex-mex-hacendado-sabor-queso-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/b8c009cd61e6c9824fa9743f5515c872.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 15,
+              "level": 0,
+              "name": "Aperitivos",
+              "order": 9
+            }
+          ],
+          "display_name": "Garfitos de maíz sabor queso Hacendado",
+          "id": "13889",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "9.38",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "9.375",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.75",
+            "unit_selector": true,
+            "unit_size": 0.08
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/13889/garfitos-maiz-sabor-queso-hacendado-paquete",
+          "slug": "garfitos-maiz-sabor-queso-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/0535918a9753c0d6b2de67b6d1e7d9f7.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 15,
+              "level": 0,
+              "name": "Aperitivos",
+              "order": 9
+            }
+          ],
+          "display_name": "Cuquitos sabor queso Hacendado",
+          "id": "33642",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "8.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "8.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.85",
+            "unit_selector": true,
+            "unit_size": 0.1
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/33642/cuquitos-sabor-queso-hacendado-paquete",
+          "slug": "cuquitos-sabor-queso-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/7d5bd85b7c34dbcda6a39c50a92308d2.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 15,
+              "level": 0,
+              "name": "Aperitivos",
+              "order": 9
+            }
+          ],
+          "display_name": "Conos sabor bacón y queso Hacendado",
+          "id": "16388",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "7.67",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "7.667",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.15",
+            "unit_selector": true,
+            "unit_size": 0.15
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/16388/conos-sabor-bacon-queso-hacendado-paquete",
+          "slug": "conos-sabor-bacon-queso-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/d530f3ccd35d057c4a54a237957072b6.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 15,
+              "level": 0,
+              "name": "Aperitivos",
+              "order": 9
+            }
+          ],
+          "display_name": "Galletitas saladas Hacendado",
+          "id": "14216",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Bote",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.43",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "3.429",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.20",
+            "unit_selector": true,
+            "unit_size": 0.35
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14216/galletitas-saladas-hacendado-bote",
+          "slug": "galletitas-saladas-hacendado-bote",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/f4f46d3c2e88b12661708ff3de972db1.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 15,
+              "level": 0,
+              "name": "Aperitivos",
+              "order": 9
+            }
+          ],
+          "display_name": "Cuquis Hacendado",
+          "id": "33581",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "9.38",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "9.375",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.75",
+            "unit_selector": true,
+            "unit_size": 0.08
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/33581/cuquis-hacendado-paquete",
+          "slug": "cuquis-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/8ea3248c4e2b51815ee1cf960b24c7d3.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 15,
+              "level": 0,
+              "name": "Aperitivos",
+              "order": 9
+            }
+          ],
+          "display_name": "Combinado de aperitivos Hacendado",
+          "id": "22177",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "8.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "8.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.60",
+            "unit_selector": true,
+            "unit_size": 0.2
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/22177/combinado-aperitivos-hacendado-paquete",
+          "slug": "combinado-aperitivos-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/15085483edf1219ada969fb9f7f0a73e.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 15,
+              "level": 0,
+              "name": "Aperitivos",
+              "order": 9
+            }
+          ],
+          "display_name": "Cortezas de cerdo fritas sabor barbacoa Hacendado",
+          "id": "33436",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "14.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "14.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.40",
+            "unit_selector": true,
+            "unit_size": 0.1
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/33436/torreznos-sabor-barbacoa-hacendado-paquete",
+          "slug": "torreznos-sabor-barbacoa-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/08e4903c5a8ef889943ea30bb29a11a7.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 15,
+              "level": 0,
+              "name": "Aperitivos",
+              "order": 9
+            }
+          ],
+          "display_name": "Trigo snack sabor ahumado Hacendado",
+          "id": "33633",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "10.63",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "10.625",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.85",
+            "unit_selector": true,
+            "unit_size": 0.08
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/33633/trigo-snack-sabor-ahumado-hacendado-paquete",
+          "slug": "trigo-snack-sabor-ahumado-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/b1180ea71d4b39af79931ac36417ef0d.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 15,
+              "level": 0,
+              "name": "Aperitivos",
+              "order": 9
+            }
+          ],
+          "display_name": "Patatas fritas paja Hacendado",
+          "id": "33624",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "7.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "7.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.50",
+            "unit_selector": true,
+            "unit_size": 0.2
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/33624/patatas-fritas-paja-hacendado-paquete",
+          "slug": "patatas-fritas-paja-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/041e7b535d424e28406da126b2ef7656.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 15,
+              "level": 0,
+              "name": "Aperitivos",
+              "order": 9
+            }
+          ],
+          "display_name": "Torreznos Hacendado",
+          "id": "14467",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "14.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "14.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.40",
+            "unit_selector": true,
+            "unit_size": 0.1
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/14467/torreznos-hacendado-paquete",
+          "slug": "torreznos-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/a92ab36f5ba9104a59f90ee89a4502d0.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 15,
+              "level": 0,
+              "name": "Aperitivos",
+              "order": 9
+            }
+          ],
+          "display_name": "Piña deshidratada Hacendado",
+          "id": "33440",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "32.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "32.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "4.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.60",
+            "unit_selector": true,
+            "unit_size": 0.05
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/33440/pina-deshidratada-hacendado-100-natural-paquete",
+          "slug": "pina-deshidratada-hacendado-100-natural-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/06960f5d9fb710ca7d8c72e699b8836c.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 15,
+              "level": 0,
+              "name": "Aperitivos",
+              "order": 9
+            }
+          ],
+          "display_name": "Sticks de patata Hacendado",
+          "id": "22568",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "11.33",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "11.334",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.85",
+            "unit_selector": true,
+            "unit_size": 0.075
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/22568/sticks-patata-hacendado-paquete",
+          "slug": "sticks-patata-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/97a6f2e256179e4ff087f86ee360e958.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 15,
+              "level": 0,
+              "name": "Aperitivos",
+              "order": 9
+            }
+          ],
+          "display_name": "Aros de maíz Hacendado",
+          "id": "15757",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "7.08",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "7.084",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.85",
+            "unit_selector": true,
+            "unit_size": 0.12
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/15757/aros-maiz-hacendado-paquete",
+          "slug": "aros-maiz-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/e1c328248e9d621edc40ea9717d81fb7.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 15,
+              "level": 0,
+              "name": "Aperitivos",
+              "order": 9
+            }
+          ],
+          "display_name": "Palomitas caramelo Hacendado",
+          "id": "34811",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "12.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "12.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.50",
+            "unit_selector": true,
+            "unit_size": 0.12
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/34811/palomitas-caramelo-hacendado-paquete",
+          "slug": "palomitas-caramelo-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/54f08a75c350854e471b9f2b73b92a5d.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 15,
+              "level": 0,
+              "name": "Aperitivos",
+              "order": 9
+            }
+          ],
+          "display_name": "Snack de maíz Stars sabor mantequilla Hacendado",
+          "id": "9903",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "10.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "10.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.80",
+            "unit_selector": true,
+            "unit_size": 0.08
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/9903/snack-maiz-sabor-mantequilla-stars-hacendado-paquete",
+          "slug": "snack-maiz-sabor-mantequilla-stars-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/bb97dc754de94c742b136a705447f857.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 15,
+              "level": 0,
+              "name": "Aperitivos",
+              "order": 9
+            }
+          ],
+          "display_name": "Nachos Padrísimos Hacendado sabor guacamole",
+          "id": "16387",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "6.33",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "6.334",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.95",
+            "unit_selector": true,
+            "unit_size": 0.15
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/16387/nachos-padrisimos-hacendado-sabor-guacamole-paquete",
+          "slug": "nachos-padrisimos-hacendado-sabor-guacamole-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/b8ef2dc650a5f2dd7f83fd1ba50493ec.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 15,
+              "level": 0,
+              "name": "Aperitivos",
+              "order": 9
+            }
+          ],
+          "display_name": "Snack de maíz Crunchy sabor agridulce picante Hacendado",
+          "id": "12960",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "9.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "9.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.90",
+            "unit_selector": true,
+            "unit_size": 0.1
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/12960/snack-maiz-crunchy-sabor-agridulce-picante-hacendado-paquete",
+          "slug": "snack-maiz-crunchy-sabor-agridulce-picante-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/2d82ab9758c0966985cbac871712dce6.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 15,
+              "level": 0,
+              "name": "Aperitivos",
+              "order": 9
+            }
+          ],
+          "display_name": "Snack de maíz Redes sabor barbacoa Hacendado",
+          "id": "60323",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "8.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "8.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.85",
+            "unit_selector": true,
+            "unit_size": 0.1
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/60323/snack-maiz-redes-sabor-barbacoa-hacendado-paquete",
+          "slug": "snack-maiz-redes-sabor-barbacoa-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/1e57addcf3026b5be99a7a7deec22ce8.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 15,
+              "level": 0,
+              "name": "Aperitivos",
+              "order": 9
+            }
+          ],
+          "display_name": "Sticks vegetales Hacendado",
+          "id": "52686",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "12.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "12.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.20",
+            "unit_selector": true,
+            "unit_size": 0.1
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/52686/sticks-vegetales-hacendado-paquete",
+          "slug": "sticks-vegetales-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/c40a06b5a4e1a3b65c96d0ccca181c2a.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 15,
+              "level": 0,
+              "name": "Aperitivos",
+              "order": 9
+            }
+          ],
+          "display_name": "Snack Balls sabor queso Hacendado",
+          "id": "11522",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "10.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "10.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.00",
+            "unit_selector": true,
+            "unit_size": 0.1
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/11522/snack-balls-sabor-queso-hacendado-paquete",
+          "slug": "snack-balls-sabor-queso-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/b42529686be06df2865094453c6dc123.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 15,
+              "level": 0,
+              "name": "Aperitivos",
+              "order": 9
+            }
+          ],
+          "display_name": "Súper Cuquis",
+          "id": "8915",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "33.33",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.006,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "100 g",
+            "reference_price": "3.334",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "bolsitas",
+            "unit_price": "1.20",
+            "unit_selector": true,
+            "unit_size": 0.036
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/8915/super-cuquis",
+          "slug": "super-cuquis",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/187d1100d40ecff4507954421d03ee86.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 15,
+              "level": 0,
+              "name": "Aperitivos",
+              "order": 9
+            }
+          ],
+          "display_name": "Snack frito Binkies sabor queso Hacendado",
+          "id": "12996",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "12.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "12.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.00",
+            "unit_selector": true,
+            "unit_size": 0.08
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/12996/snack-frito-binkies-sabor-queso-hacendado-paquete",
+          "slug": "snack-frito-binkies-sabor-queso-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/3d664c9fbf0f61f7c0c172b379ac99b0.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 15,
+              "level": 0,
+              "name": "Aperitivos",
+              "order": 9
+            }
+          ],
+          "display_name": "Galletas saladas con semillas y orégano Hacendado",
+          "id": "21584",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "5.80",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "5.800",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.45",
+            "unit_selector": true,
+            "unit_size": 0.25
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/21584/galletas-saladas-semillas-oregano-hacendado-paquete",
+          "slug": "galletas-saladas-semillas-oregano-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/eac514bda87748b8df0105d8cca09ff1.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 15,
+              "level": 0,
+              "name": "Aperitivos",
+              "order": 9
+            }
+          ],
+          "display_name": "Snack de lentejas horneado Lentils Hacendado",
+          "id": "16253",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "12.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "12.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.25",
+            "unit_selector": true,
+            "unit_size": 0.1
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/16253/snack-horneado-lentils-hacendado-paquete",
+          "slug": "snack-horneado-lentils-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/e8f2273594390235dba90e7663cec87a.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 15,
+              "level": 0,
+              "name": "Aperitivos",
+              "order": 9
+            }
+          ],
+          "display_name": "Torreznillos Hacendado cortezas de cerdo fritas ahumadas",
+          "id": "21927",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "cortezas de cerdo fritas ahumadas",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "14.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "14.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.40",
+            "unit_selector": true,
+            "unit_size": 0.1
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/21927/torreznillos-hacendado-cortezas-cerdo-fritas-ahumadas-paquete",
+          "slug": "torreznillos-hacendado-cortezas-cerdo-fritas-ahumadas-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/6d8ab14d34ccb702f9174a302a060cd7.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    }
+  ],
+  "id": 132,
+  "is_extended": false,
+  "layout": 1,
+  "name": "Patatas fritas y snacks",
+  "next_category": {
+    "id": 118,
+    "name": "Arroz"
+  },
+  "order": 9,
+  "published": true
+}

@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 347,
+              "level": 2,
+              "name": "Bebidas vegetales",
+              "order": 373
+            }
+          ],
+          "id": 72,
+          "level": 1,
+          "name": "Leche y bebidas vegetales",
+          "order": 373
+        }
+      ],
+      "id": 6,
+      "level": 0,
+      "name": "Huevos, leche y mantequilla",
+      "order": 373
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Horchata fresca Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Horchata fresca",
+    "mandatory_mentions": "",
+    "origin": "Valencia, España.",
+    "production_variant": "",
+    "storage_instructions": "Una vez abierta se recomienda consumir en 24 horas máximo. Conservar en refrigeración. Mantener por debajo de 5ºC.",
+    "suppliers": [
+      {
+        "name": "Alborchata S.L"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Horchata fresca Hacendado",
+  "ean": "8480000103468",
+  "extra_info": [
+    null
+  ],
+  "id": "10346",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Agua, chufa seleccionada (19%), azúcar, emulgente (esteres de ácido diacetiltartárico de monoglicéridos y diglicéridos), estabilizantes (gel de celulosa y goma de celulosa), canela."
+  },
+  "origin": "Valencia, España.",
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/1cb01c4c0d25dc09a152219d04565f9c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1cb01c4c0d25dc09a152219d04565f9c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1cb01c4c0d25dc09a152219d04565f9c.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/3c54234df25879b3be22a544794918e0.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3c54234df25879b3be22a544794918e0.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3c54234df25879b3be22a544794918e0.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.87",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "2.867",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.15",
+    "unit_selector": true,
+    "unit_size": 0.75
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/10346/horchata-fresca-hacendado-botella",
+  "slug": "horchata-fresca-hacendado-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/1cb01c4c0d25dc09a152219d04565f9c.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

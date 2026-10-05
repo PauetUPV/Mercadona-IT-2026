@@ -1,0 +1,135 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 693,
+              "level": 2,
+              "name": "Tarritos de fruta",
+              "order": 14
+            }
+          ],
+          "id": 216,
+          "level": 1,
+          "name": "Alimentación infantil",
+          "order": 14
+        }
+      ],
+      "id": 24,
+      "level": 0,
+      "name": "Bebé",
+      "order": 14
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 468,
+              "level": 2,
+              "name": "Conservas fruta",
+              "order": 215
+            }
+          ],
+          "id": 127,
+          "level": 1,
+          "name": "Conservas de verdura y frutas",
+          "order": 215
+        }
+      ],
+      "id": 14,
+      "level": 0,
+      "name": "Conservas, caldos y cremas",
+      "order": 215
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Papilla frutas con avena Hacendado +8 meses",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Alimento infantil. Puré de frutas con cereales.",
+    "mandatory_mentions": "A partir de 8 meses. Envasado en atmósfera protectora.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Una vez abierto mantener en refrigeración y consumir en un máximo de 24 horas.",
+    "suppliers": [
+      {
+        "name": "Alimentación y Nutrición Familiar, S.L."
+      }
+    ],
+    "usage_instructions": "Abrir el tarrito, remover con una cuchara y consumir directamente. Boca ancha muy cómoda"
+  },
+  "display_name": "Papilla frutas con avena Hacendado +8 meses",
+  "ean": "8480000221919",
+  "extra_info": [
+    ""
+  ],
+  "id": "22191",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "+8 meses",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>go</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Manzana, plátano, zumo de naranja, zumo de mandarina, <strong>avena</strong> 3%, zumo de limón, oligofructosa, arroz integral, aroma natural y vitamina C. Contiene <strong>gluten</strong>"
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/e959d54ea935a50257a2e7c33ab1e591.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e959d54ea935a50257a2e7c33ab1e591.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e959d54ea935a50257a2e7c33ab1e591.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/6957b8d23d769de5823f1384c83a63a3.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/6957b8d23d769de5823f1384c83a63a3.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/6957b8d23d769de5823f1384c83a63a3.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.67",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.13,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.674",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 4,
+    "unit_name": "tarritos",
+    "unit_price": "2.95",
+    "unit_selector": true,
+    "unit_size": 0.52
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/22191/papilla-cuatro-frutas-con-avena-8-meses-hacendado-pack-4",
+  "slug": "papilla-cuatro-frutas-con-avena-8-meses-hacendado-pack-4",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/e959d54ea935a50257a2e7c33ab1e591.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

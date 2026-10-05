@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 497,
+              "level": 2,
+              "name": "Carne",
+              "order": 597
+            }
+          ],
+          "id": 140,
+          "level": 1,
+          "name": "Platos preparados calientes",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Migas Hacendado",
+    "legal_name": "Migas",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en frío entre 1C y 4C",
+    "suppliers": [
+      {
+        "name": "Elaborados Naturales de la Ribera, S.L."
+      }
+    ],
+    "usage_instructions": "MODO DE PREPARACIÓN: Sartén: En sartén o cazuela de barro, verter las migas, añadir unas gotas de agua y calentar a fuego lento, removiendo sin interrupción durante 3 minutos. Microondas: Perforar el envase manualmente o levantar ligeramente la pestaña del abre fácil. Calentar durante 1 minuto a máxima potencia."
+  },
+  "display_name": "Migas Hacendado",
+  "ean": "8480000232892",
+  "extra_info": [
+    null
+  ],
+  "id": "23289",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>$Pan$ 55% (harina de $trigo$, agua, sal, levadura, antioxidante E-300 y enzimas), cebolla, agua, aceite de oliva virgen, chistorra (magro y grasa de cerdo, pimentón, sal, ajo, dextrosa, dextrina, estabilizante E-451i, antioxidante E-316, conservadores E-252 y E-250, fermentos naturales y tripa de colágeno comestible), panceta (panceta de cerdo, pimentón, sal, ajo y conservadores E-250 y E-252), ajo, carne de pimiento choricero, manteca de cerdo (saín  de cerdo, estabilizante E-471 y antioxidantes E-320 y E-321) y sal. $Puede contener trazas de huevo, soja, leche, mostaza y granos de sésamo.$"
+  },
+  "origin": "España",
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/dab5e22f6370afad62e045fc35bf57ab.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/dab5e22f6370afad62e045fc35bf57ab.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/dab5e22f6370afad62e045fc35bf57ab.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/9709eab7a07afd9295a75a48543683b4.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9709eab7a07afd9295a75a48543683b4.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9709eab7a07afd9295a75a48543683b4.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "8.64",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "8.637",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.90",
+    "unit_selector": true,
+    "unit_size": 0.22
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/23289/migas-hacendado-bandeja",
+  "slug": "migas-hacendado-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/dab5e22f6370afad62e045fc35bf57ab.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

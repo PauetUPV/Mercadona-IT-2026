@@ -1,0 +1,110 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 330,
+              "level": 2,
+              "name": "Bollería dulce",
+              "order": 515
+            }
+          ],
+          "id": 65,
+          "level": 1,
+          "name": "Bollería de horno",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Susos relleno de crema",
+    "legal_name": "Xuxo pequeño relleno (49%) de crema.",
+    "mandatory_mentions": "Producto descongelado listo para consumir",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Horno Belcan, S.L."
+      }
+    ],
+    "usage_instructions": "Producto descongelado, no volver a congelar."
+  },
+  "display_name": "Susos relleno de crema",
+  "ean": "8402001032974",
+  "extra_info": [
+    ""
+  ],
+  "id": "12985",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>cereales que contengan gluten</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>frutos de cáscara</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>trigo y productos derivados</strong>.",
+    "ingredients": "Relleno crema [azúcar, agua, grasa vegetal refinada (palma), almidón modificado, estabilizantes: E-422, E-460 y E-466, colorantes: E-516, betacaroteno y extracto de paprika, proteínas de la <strong>leche</strong>, emulgente: E-473, sal, gelificante: E-407, conservador: E-202, corrector de acidez: E-334, espesante: E-415, canela molida y aroma], harina de <strong>trigo</strong>, azúcar, agua, manteca de cerdo, grasa vegetal (palma), <strong>huevo</strong> líquido pasteurizado, levadura, sal, gluten de <strong>trigo</strong>, jarabe de glucosa, fructosa, antioxidantes: E-320, E-300, E-304 y E-306, conservador: E-282, colorante: E-170, emulgentes: E-471, E-472e y E-481, antiaglomerante: E-551 y estabilizante: goma guar. Puede contener: <strong>soja</strong>, <strong>frutos de cáscara</strong> y <strong>mostaza</strong>."
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/0ee4be84c4d02e3c77e4ab412c621d0f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0ee4be84c4d02e3c77e4ab412c621d0f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0ee4be84c4d02e3c77e4ab412c621d0f.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/09037f23a19ebc229a9fef57469e3076.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/09037f23a19ebc229a9fef57469e3076.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/09037f23a19ebc229a9fef57469e3076.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "10.78",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "10.785",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 3,
+    "unit_name": "ud.",
+    "unit_price": "1.65",
+    "unit_selector": true,
+    "unit_size": 0.153
+  },
+  "product_information": null,
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/12985/suso-relleno-crema-49-bandeja",
+  "slug": "suso-relleno-crema-49-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/0ee4be84c4d02e3c77e4ab412c621d0f.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

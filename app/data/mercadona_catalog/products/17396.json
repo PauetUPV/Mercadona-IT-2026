@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 843,
+              "level": 2,
+              "name": "Salsas para carnes",
+              "order": 7
+            }
+          ],
+          "id": 117,
+          "level": 1,
+          "name": "Otras salsas",
+          "order": 7
+        }
+      ],
+      "id": 12,
+      "level": 0,
+      "name": "Aceite, especias y salsas",
+      "order": 7
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Salsa Piri Piri Hacendado",
+    "legal_name": "Salsa de Piri-piri",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "Variante",
+    "storage_instructions": "Conservar en un lugar fresco, seco y exento de olores extraños. Proteger de la luz. Una viez abierto conservar en frigorífico. Agitar antes de usar.",
+    "suppliers": [
+      {
+        "name": "CALIMENTA AGRO-INDUSTRIA S.A"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Salsa Piri Piri Hacendado",
+  "ean": "8480000173966",
+  "extra_info": [
+    null
+  ],
+  "id": "17396",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Agua, piri-piri (32%), sal, corrector de la acidez (ácido acético, ácido láctico, ácido cítrico), vinagre de vino, espesante (goma xantana), especias (ajo y comino), colorante (extrato de pimentón) y conservadores (sorbato de potásio y benzoato sódico)."
+  },
+  "origin": null,
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/c17d2319747366d2987a22ad455aa37e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c17d2319747366d2987a22ad455aa37e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c17d2319747366d2987a22ad455aa37e.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/6c38fefa72172a7c79c141b9d2ec7dfc.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/6c38fefa72172a7c79c141b9d2ec7dfc.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/6c38fefa72172a7c79c141b9d2ec7dfc.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.13",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "5.129",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.00",
+    "unit_selector": true,
+    "unit_size": 0.195
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/17396/salsa-piri-piri-hacendado-botella",
+  "slug": "salsa-piri-piri-hacendado-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/c17d2319747366d2987a22ad455aa37e.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

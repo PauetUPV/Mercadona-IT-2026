@@ -1,0 +1,139 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 518,
+              "level": 2,
+              "name": "Tartas",
+              "order": 213
+            }
+          ],
+          "id": 152,
+          "level": 1,
+          "name": "Tartas y churros",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 336,
+              "level": 2,
+              "name": "Tartas",
+              "order": 515
+            }
+          ],
+          "id": 68,
+          "level": 1,
+          "name": "Tartas y pasteles",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Tarta red velvet Hacendado congelada bizcocho con crema de queso",
+    "legal_name": "Producto de pastelería congelada",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Producto Congelado. Mantener la cadena de frío a -18C. Al descongelar conservar un máximo de 72 horas en nevera (2-6C). No volver a congelar una vez descongelado.",
+    "suppliers": [
+      {
+        "name": "PASTISFRED, S.L.U"
+      }
+    ],
+    "usage_instructions": "MODO DESCONGELACIÓN: 2 horas y 30 minutos a temperatura ambiente o 3 horas y 45 minutos en nevera."
+  },
+  "display_name": "Tarta red velvet Hacendado congelada",
+  "ean": "8480000876072",
+  "extra_info": [
+    null
+  ],
+  "id": "87607",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>mostaza y productos derivados</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Contiene <strong>cereales que contengan gluten</strong>. Puede contener <strong>frutos de cáscara</strong>. Puede contener <strong>dióxido de azufre y sulfitos</strong>.",
+    "ingredients": "INGREDIENTES:   Bizcocho calado (53%) (azúcar, <strong>huevo</strong> líquido pasteurizado, aceite  refinado de girasol, harina de <strong>trigo  (gluten),</strong> agua, humectantes  (glicerina, sorbitol), jarabe de glucosa y fructosa, gasificantes (E-500ii,  E-450i), cacao en polvo, sal, aroma, espesante (goma xantana), colorante (E-129  (puede tener efectos negativos sobre la actividad y la atención de los niños)),  aroma, corrector de acidez (ácido cítrico)), crema de queso (38%) (queso  batido (17%) (<strong>mazada (leche), leche, nata</strong> <strong>(leche)</strong>, sólidos <strong>lácteos (leche)</strong>, sal,  aroma, estabilizante (carragenano), fermentos <strong>lácticos (leche)</strong>), azúcar,<strong>  leche</strong> desnatada en polvo, grasa de palma y palmiste totalmente hidrogenadas, aceite refinado de  girasol, jarabe de glucosa y fructosa,  zumo de limón, emulgentes  (E-492, lecitina de <strong>soja</strong>), aroma, sal, antiaglomerante (E-536)), decoración (1 %) (jarabe de glucosa y  fructosa, jarabe de azúcar invertido, agua, puré de fresa, almidón modificado  de maíz, puré concentrado de fresa, zumo concentrado de zanahoria, corrector de  acidez (ácido cítrico), conservador (sorbato potásico), colorantes (concentrado  de frutas y zanahoria, E-150a), aroma), jarabe de glucosa y fructosa, aceite  refinado de girasol. Puede contener trazas de<strong> frutos de cáscara, sulfitos y mostaza.</strong>"
+  },
+  "origin": "España",
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 10,
+      "regular": "https://prod-mercadona.imgix.net/images/ee87940756d0c87f0a2546c93ad6d18e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ee87940756d0c87f0a2546c93ad6d18e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ee87940756d0c87f0a2546c93ad6d18e.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/cba789f8819495ead3395b825a72f877.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/cba789f8819495ead3395b825a72f877.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/cba789f8819495ead3395b825a72f877.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/480f739ba309eb600081a5301ee62508.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/480f739ba309eb600081a5301ee62508.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/480f739ba309eb600081a5301ee62508.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "14.29",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "14.286",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 10,
+    "unit_name": "raciones",
+    "unit_price": "10.00",
+    "unit_selector": true,
+    "unit_size": 0.7
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/87607/tarta-red-velvet-hacendado-congelada-bizcocho-con-crema-queso",
+  "slug": "tarta-red-velvet-hacendado-congelada-bizcocho-con-crema-queso",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/ee87940756d0c87f0a2546c93ad6d18e.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

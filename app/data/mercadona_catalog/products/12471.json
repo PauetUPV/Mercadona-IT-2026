@@ -1,0 +1,114 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 804,
+              "level": 2,
+              "name": "Bombones",
+              "order": 11
+            }
+          ],
+          "id": 92,
+          "level": 1,
+          "name": "Chocolate",
+          "order": 11
+        }
+      ],
+      "id": 9,
+      "level": 0,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Bombones delicias de avellana Delizze Hacendado",
+    "legal_name": "Delicias de Avellana",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco, seco y alejado de olores.",
+    "suppliers": [
+      {
+        "name": "Dulces Olmedo Garcia, S.L."
+      },
+      {
+        "name": "Dulces Olmedo García, S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Bombones delicias de avellana Delizze Hacendado",
+  "ean": "8480000124296",
+  "extra_info": [
+    null
+  ],
+  "id": "12471",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>sh</strong>. Puede contener <strong>sa</strong>. Contiene <strong>gb</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>frutos de cáscara</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Chocolate con leche (30,3%) [azúcar, manteca de cacao, pasta de cacao, <strong>leche</strong> desnatada en polvo, materia grasa láctea (<strong>leche</strong>), emulgente (lecitina de <strong>soja</strong>) y vainillina], <strong>avellana</strong> (29,3%), azúcar, grasa vegetal (palma, girasol), harina de <strong>trigo</strong> (<strong>gluten</strong>), <strong>leche</strong> desnatada en polvo, grasa vegetal totalmente hidrogenada (coco, palmiste), cacao desgrasado en polvo, almidón modificado de maíz, harina de malta (<strong>cebada</strong>), fibra vegetal de <strong>trigo</strong> (<strong>gluten</strong>), emulgente (lecitina de <strong>soja</strong>), gasificante (bicarbonato sódico), sal, aromas y vainillina.Puede contener otros <strong>frutos de cáscara</strong> (<strong>almendras</strong>) y <strong>mostaza</strong>."
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/afa20e43304edec69e365c837ab42375.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/afa20e43304edec69e365c837ab42375.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/afa20e43304edec69e365c837ab42375.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/8f5619c856015df3a619073e10247339.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8f5619c856015df3a619073e10247339.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8f5619c856015df3a619073e10247339.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "19.44",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "19.445",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 16,
+    "unit_name": "ud.",
+    "unit_price": "4.20",
+    "unit_selector": true,
+    "unit_size": 0.216
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/12471/bombones-delicias-avellana-delizze-hacendado-caja",
+  "slug": "bombones-delicias-avellana-delizze-hacendado-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/afa20e43304edec69e365c837ab42375.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

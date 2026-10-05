@@ -1,0 +1,123 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Clipper",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 777,
+              "level": 2,
+              "name": "Encendedores, velas y carbón",
+              "order": 374
+            }
+          ],
+          "id": 243,
+          "level": 1,
+          "name": "Menaje y conservación de alimentos",
+          "order": 374
+        }
+      ],
+      "id": 26,
+      "level": 0,
+      "name": "Limpieza y hogar",
+      "order": 374
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": "",
+    "brand": "Clipper",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Encendedor cocina largo Clipper",
+    "legal_name": "",
+    "mandatory_mentions": "",
+    "origin": "",
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [],
+    "usage_instructions": ""
+  },
+  "display_name": "Encendedor cocina largo Clipper",
+  "ean": "8412765694721",
+  "extra_info": [
+    "Modelo sujeto a disponibilidad."
+  ],
+  "id": "49080",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "",
+    "ingredients": ""
+  },
+  "origin": "",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/cfa5f767ba97d2da35006aa7ae4f58b1.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/cfa5f767ba97d2da35006aa7ae4f58b1.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/cfa5f767ba97d2da35006aa7ae4f58b1.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/5b75c0b0f78535863f10c67382d3f3e1.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5b75c0b0f78535863f10c67382d3f3e1.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5b75c0b0f78535863f10c67382d3f3e1.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/99f97e3b1f99751d32eb2c77824fe5b8.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/99f97e3b1f99751d32eb2c77824fe5b8.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/99f97e3b1f99751d32eb2c77824fe5b8.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/b0d86e5dcaa753d5e68987c5e8b4c697.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b0d86e5dcaa753d5e68987c5e8b4c697.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b0d86e5dcaa753d5e68987c5e8b4c697.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/474bf8e0bc783dde294760e45aacdd26.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/474bf8e0bc783dde294760e45aacdd26.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/474bf8e0bc783dde294760e45aacdd26.jpeg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.40",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": "        2.60",
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "2.400",
+    "selling_method": 0,
+    "size_format": "ud",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.40",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/49080/encendedor-cocina-largo-clipper-paquete",
+  "slug": "encendedor-cocina-largo-clipper-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/cfa5f767ba97d2da35006aa7ae4f58b1.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

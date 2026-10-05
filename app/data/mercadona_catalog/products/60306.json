@@ -1,0 +1,138 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 291,
+              "level": 2,
+              "name": "Empanados y rebozados congelados",
+              "order": 17
+            }
+          ],
+          "id": 45,
+          "level": 1,
+          "name": "Empanados y elaborados",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 512,
+              "level": 2,
+              "name": "Carne rebozada",
+              "order": 213
+            }
+          ],
+          "id": 884,
+          "level": 1,
+          "name": "Rebozados",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pollo marinado rebozado Crispy American Style Hacendado ultracongelado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Pollo Crispy American Style. Pollo marinado rebozado",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "Información válida a partir del lote 76032X",
+    "storage_instructions": "Producto ultracongelado. Mantener a -18C. No volver a congelar una vez descongelado.",
+    "suppliers": [
+      {
+        "name": "AUDENS FOOD, S.A."
+      },
+      {
+        "name": "Freigel Foodsolutions, S.A."
+      }
+    ],
+    "usage_instructions": "FREIDORA /SARTÉN: Calentar el aceite previamente a 180ºC. Introducir directamente congeladas. Freír 3,5 min  180ºC. Freír pocas unidades a la vez y que queden bien cubierta por el aceite. Reposar 2 min. AIR FRYER Y HORNO: Freír: introducir directamente congeladas, 14-16 min a 200ºC. Hornear: 200ºC 13 min. Reposar 2 min."
+  },
+  "display_name": "Pollo marinado rebozado Crispy American Style Hacendado ultracongelado",
+  "ean": "8480000603067",
+  "extra_info": [
+    ""
+  ],
+  "id": "60306",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "ultracongelado",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>moluscos y productos a base de moluscos</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>soja y productos a base de soja</strong>. Puede contener <strong>pescado y productos a base de pescado</strong>. Puede contener <strong>huevos y productos a base de huevo</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Pechuga de pollo (60%), harina de <strong>trigo</strong> (<strong>gluten</strong>), almidón de maíz, aceite refinado de girasol, cebolla en polvo, sal, aromas (contiene <strong>leche</strong> y <strong>soja</strong>), especias, ajo, almidón modificado, gasificantes (E-450, E-500), curry, azúcar, maltodextrina, fibra de arroz. Contiene <strong>gluten</strong>, <strong>soja</strong>, <strong>leche</strong>. Puede contener trazas de: <strong>crustáceos</strong>, <strong>huevo</strong>, <strong>pescado</strong>, <strong>mostaza</strong>, <strong>moluscos</strong>."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/70b625b38e0b189e1fc55ef2df98ebc9.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/70b625b38e0b189e1fc55ef2df98ebc9.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/70b625b38e0b189e1fc55ef2df98ebc9.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/60b8cdb63853d19409df020ee8d42da3.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/60b8cdb63853d19409df020ee8d42da3.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/60b8cdb63853d19409df020ee8d42da3.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "9.80",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "9.800",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "4.90",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/60306/pollo-marinado-rebozado-crispy-american-style-hacendado-ultracongeladas-paquete",
+  "slug": "pollo-marinado-rebozado-crispy-american-style-hacendado-ultracongeladas-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/70b625b38e0b189e1fc55ef2df98ebc9.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

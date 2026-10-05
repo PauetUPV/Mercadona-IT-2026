@@ -1,0 +1,107 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Deliplus",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 643,
+              "level": 2,
+              "name": "Mascarilla",
+              "order": 238
+            }
+          ],
+          "id": 201,
+          "level": 1,
+          "name": "Acondicionador y mascarilla",
+          "order": 238
+        }
+      ],
+      "id": 21,
+      "level": 0,
+      "name": "Cuidado del cabello",
+      "order": 238
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Deliplus",
+    "counter_info": null,
+    "danger_mentions": null,
+    "description": "Mascarilla Plex Repair Deliplus cabello muy dañado con aceite de argán, jojoba y karité",
+    "legal_name": null,
+    "mandatory_mentions": null,
+    "origin": null,
+    "production_variant": null,
+    "storage_instructions": null,
+    "suppliers": [],
+    "usage_instructions": null
+  },
+  "display_name": "Mascarilla Plex Repair Deliplus cabello muy dañado",
+  "ean": "8402001042638",
+  "extra_info": [
+    null
+  ],
+  "id": "67795",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": null
+  },
+  "origin": null,
+  "packaging": "Bote",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/c9254412af11fc74da2098ebb259cb40.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c9254412af11fc74da2098ebb259cb40.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c9254412af11fc74da2098ebb259cb40.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/02d0dd463fd704c11f1eb99f378e9d3f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/02d0dd463fd704c11f1eb99f378e9d3f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/02d0dd463fd704c11f1eb99f378e9d3f.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "10.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "100 ml",
+    "reference_price": "1.050",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.10",
+    "unit_selector": true,
+    "unit_size": 0.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/67795/mascarilla-plex-repair-deliplus-cabello-muy-danado-con-aceite-argan-jojoba-karite-bote",
+  "slug": "mascarilla-plex-repair-deliplus-cabello-muy-danado-con-aceite-argan-jojoba-karite-bote",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/c9254412af11fc74da2098ebb259cb40.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

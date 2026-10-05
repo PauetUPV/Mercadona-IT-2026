@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Bosque Verde",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 877,
+              "level": 2,
+              "name": "Insecticida eléctrico y otros",
+              "order": 374
+            }
+          ],
+          "id": 241,
+          "level": 1,
+          "name": "Insecticida y ambientador",
+          "order": 374
+        }
+      ],
+      "id": 26,
+      "level": 0,
+      "name": "Limpieza y hogar",
+      "order": 374
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Bosque Verde",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Bolsitas antipolillas Lavanda Bosque Verde",
+    "legal_name": "",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "TENKA BEST"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Bolsitas antipolillas Lavanda Bosque Verde",
+  "ean": "8402001014017",
+  "extra_info": [
+    null
+  ],
+  "id": "52466",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": ""
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/c2545477e2d8a8e8c3cd12e559ffe4d3.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c2545477e2d8a8e8c3cd12e559ffe4d3.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c2545477e2d8a8e8c3cd12e559ffe4d3.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/abba6b3c8aa14c3fac293f12163b1297.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/abba6b3c8aa14c3fac293f12163b1297.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/abba6b3c8aa14c3fac293f12163b1297.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "0.06",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 21,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "0.065",
+    "selling_method": 0,
+    "size_format": "ud",
+    "tax_percentage": "21.000",
+    "total_units": 24,
+    "unit_name": "ud.",
+    "unit_price": "1.55",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/52466/bolsitas-antipolillas-lavanda-bosque-verde-paquete",
+  "slug": "bolsitas-antipolillas-lavanda-bosque-verde-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/c2545477e2d8a8e8c3cd12e559ffe4d3.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

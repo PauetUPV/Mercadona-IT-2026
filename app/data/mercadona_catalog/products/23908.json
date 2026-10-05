@@ -1,0 +1,117 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Alitey",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 347,
+              "level": 2,
+              "name": "Bebidas vegetales",
+              "order": 373
+            }
+          ],
+          "id": 72,
+          "level": 1,
+          "name": "Leche y bebidas vegetales",
+          "order": 373
+        }
+      ],
+      "id": 6,
+      "level": 0,
+      "name": "Huevos, leche y mantequilla",
+      "order": 373
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Alitey",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Bebida de avena Alitey",
+    "legal_name": "Bebida de Avena",
+    "mandatory_mentions": "Naturalmente sin lactosa. Todos los productos de esta natrualeza carecen de lactosa",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en temperatura ambiente, una vez abierto conservar en el frigorífico y consumir en (3-4 días)",
+    "suppliers": [
+      {
+        "name": "Liquats vegetals S.A"
+      }
+    ],
+    "usage_instructions": "Agitar bien antes de usar"
+  },
+  "display_name": "Bebida de avena Alitey",
+  "ean": "8423352866407",
+  "extra_info": [
+    null
+  ],
+  "id": "23908",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>go</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Agua, <strong>avena</strong> (15%)."
+  },
+  "origin": null,
+  "packaging": "Pack-6",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/32186ccca22c37aad2a1bab07664e7a5.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/32186ccca22c37aad2a1bab07664e7a5.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/32186ccca22c37aad2a1bab07664e7a5.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/c62a55877c2ea37c66bca96cd47758fe.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c62a55877c2ea37c66bca96cd47758fe.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c62a55877c2ea37c66bca96cd47758fe.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/e93634bfc1106c75a16d7a1ac1af8065.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e93634bfc1106c75a16d7a1ac1af8065.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e93634bfc1106c75a16d7a1ac1af8065.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "0.95",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": 1.0,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "0.950",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": 6,
+    "unit_name": "briks",
+    "unit_price": "5.70",
+    "unit_selector": true,
+    "unit_size": 6.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/23908/bebida-avena-alitey-pack-6",
+  "slug": "bebida-avena-alitey-pack-6",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/32186ccca22c37aad2a1bab07664e7a5.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

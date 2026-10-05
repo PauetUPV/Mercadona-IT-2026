@@ -1,0 +1,107 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Eco style",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 647,
+              "level": 2,
+              "name": "Gomina y cera",
+              "order": 238
+            }
+          ],
+          "id": 202,
+          "level": 1,
+          "name": "Fijación cabello",
+          "order": 238
+        }
+      ],
+      "id": 21,
+      "level": 0,
+      "name": "Cuidado del cabello",
+      "order": 238
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Eco style",
+    "counter_info": null,
+    "danger_mentions": null,
+    "description": "Gel fijador cabello con aceite de oliva Eco style",
+    "legal_name": null,
+    "mandatory_mentions": null,
+    "origin": null,
+    "production_variant": null,
+    "storage_instructions": null,
+    "suppliers": [],
+    "usage_instructions": null
+  },
+  "display_name": "Gel fijador cabello con aceite de oliva Eco style",
+  "ean": "748378001105",
+  "extra_info": [
+    ""
+  ],
+  "id": "13924",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": null
+  },
+  "origin": null,
+  "packaging": "Bote",
+  "photos": [
+    {
+      "perspective": 3,
+      "regular": "https://prod-mercadona.imgix.net/images/dfd34409aed0c7081962b37853f32869.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/dfd34409aed0c7081962b37853f32869.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/dfd34409aed0c7081962b37853f32869.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/105c530fe84791bdb7cdf9a4f27dca63.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/105c530fe84791bdb7cdf9a4f27dca63.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/105c530fe84791bdb7cdf9a4f27dca63.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "12.08",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "100 ml",
+    "reference_price": "1.208",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.85",
+    "unit_selector": true,
+    "unit_size": 0.237
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/13924/gel-fijador-cabello-con-aceite-oliva-eco-style-bote",
+  "slug": "gel-fijador-cabello-con-aceite-oliva-eco-style-bote",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/dfd34409aed0c7081962b37853f32869.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

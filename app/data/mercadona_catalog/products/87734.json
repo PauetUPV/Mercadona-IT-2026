@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 851,
+              "level": 2,
+              "name": "Otros",
+              "order": 442
+            }
+          ],
+          "id": 31,
+          "level": 1,
+          "name": "Pescado fresco",
+          "order": 442
+        }
+      ],
+      "id": 2,
+      "level": 0,
+      "name": "Marisco y pescado",
+      "order": 442
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Merluza rebozada",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Filete de merluza rebozada",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "0-4C",
+    "suppliers": [
+      {
+        "name": "Mercadona"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Merluza rebozada",
+  "ean": "8480000877345",
+  "extra_info": [
+    null
+  ],
+  "id": "87734",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Filetes de Merluza del Cabo, sin espinas (*) 70%Rebozado 30%: agua, aceites vegetales (colza y girasol en proporción variable), harina de trigo, harina de maíz, almidón modificado de maíz, almidón de trigo, gluten de trigo, sal, gasificante: E450i - E500ii, leche en polvo desnatada."
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/d11ed050df1dbe4ec63a53b236f93d04.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d11ed050df1dbe4ec63a53b236f93d04.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d11ed050df1dbe4ec63a53b236f93d04.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/939dc9b3fd4890f6734fb781c9975232.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/939dc9b3fd4890f6734fb781c9975232.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/939dc9b3fd4890f6734fb781c9975232.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "16.52",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": "        3.90",
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "16.522",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.80",
+    "unit_selector": true,
+    "unit_size": 0.23
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/87734/merluza-rebozada-bandeja",
+  "slug": "merluza-rebozada-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/d11ed050df1dbe4ec63a53b236f93d04.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

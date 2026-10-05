@@ -1,0 +1,124 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 857,
+              "level": 2,
+              "name": "Calabacín y pimiento",
+              "order": 306
+            }
+          ],
+          "id": 29,
+          "level": 1,
+          "name": "Verdura",
+          "order": 306
+        }
+      ],
+      "id": 1,
+      "level": 0,
+      "name": "Fruta y verdura",
+      "order": 306
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pimientos semipicantes",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Pimiento semipicante",
+    "mandatory_mentions": "",
+    "origin": "No",
+    "production_variant": "Pimiento California",
+    "storage_instructions": "Se recomienda conservar en frigorífico",
+    "suppliers": [
+      {
+        "name": "Anecoop S. Coop."
+      },
+      {
+        "name": "CANARISOL 479/05"
+      },
+      {
+        "name": "Ramafrut, S.L."
+      },
+      {
+        "name": "SAT Campos de Granada"
+      },
+      {
+        "name": "Única Fresh S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Pimientos semipicantes",
+  "ean": "8423223002972",
+  "extra_info": [
+    null
+  ],
+  "id": "69590",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": ""
+  },
+  "origin": "No",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/ac791d0165a7cf0af15a65785d24d829.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ac791d0165a7cf0af15a65785d24d829.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ac791d0165a7cf0af15a65785d24d829.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/b9a52eb7bdc4d7c318fe1d559e1d972f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b9a52eb7bdc4d7c318fe1d559e1d972f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b9a52eb7bdc4d7c318fe1d559e1d972f.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.40",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.400",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.35",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/69590/pimientos-semipicantes-paquete",
+  "slug": "pimientos-semipicantes-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/ac791d0165a7cf0af15a65785d24d829.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

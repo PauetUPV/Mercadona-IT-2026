@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 842,
+              "level": 2,
+              "name": "Salsas para pasta",
+              "order": 7
+            }
+          ],
+          "id": 117,
+          "level": 1,
+          "name": "Otras salsas",
+          "order": 7
+        }
+      ],
+      "id": 12,
+      "level": 0,
+      "name": "Aceite, especias y salsas",
+      "order": 7
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Salsa Pesto con albahaca Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "SALSA PESTO TEMPERATURA AMBIENTE",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "-",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "ANDREA RAVARINO"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Salsa Pesto con albahaca Hacendado",
+  "ean": "8402001009051",
+  "extra_info": [
+    ""
+  ],
+  "id": "35438",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Aceite de semillas de girasol,<strong> albah</strong>aca<strong> 21%, anac</strong>ardos, queso Grana Padano Dop (leche, sal, cuajo, conservante: lisozima de huevo), sal, aceite extravirgen de oliva, piñones 0,5%, fibra vegetal *, ajo deshidratado, corrector de acidez: ácido láctico, antioxidante: ácido ascórbico, conservador: sorbato de potasio (e202).Puede contener otros frutos de tipos de cáscara y cacahuetes.*se utiliza exclusivamente en caso de excesiva separación del aceite."
+  },
+  "origin": null,
+  "packaging": "Tarro",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/92e34ebb5311251402c7009b282835b6.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/92e34ebb5311251402c7009b282835b6.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/92e34ebb5311251402c7009b282835b6.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/a3339e606cc510ad3d68ee7e2b48d74d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a3339e606cc510ad3d68ee7e2b48d74d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a3339e606cc510ad3d68ee7e2b48d74d.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "10.26",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "10.264",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.95",
+    "unit_selector": true,
+    "unit_size": 0.19
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/35438/salsa-pesto-con-albahaca-hacendado-tarro",
+  "slug": "salsa-pesto-con-albahaca-hacendado-tarro",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/92e34ebb5311251402c7009b282835b6.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

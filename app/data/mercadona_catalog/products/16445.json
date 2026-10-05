@@ -1,0 +1,105 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "La Golondrina",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 777,
+              "level": 2,
+              "name": "Encendedores, velas y carbón",
+              "order": 374
+            }
+          ],
+          "id": 243,
+          "level": 1,
+          "name": "Menaje y conservación de alimentos",
+          "order": 374
+        }
+      ],
+      "id": 26,
+      "level": 0,
+      "name": "Limpieza y hogar",
+      "order": 374
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "La Golondrina",
+    "counter_info": null,
+    "danger_mentions": null,
+    "description": "Pastillas enciende fuegos La Golondrina",
+    "legal_name": null,
+    "mandatory_mentions": null,
+    "origin": null,
+    "production_variant": null,
+    "storage_instructions": null,
+    "suppliers": [],
+    "usage_instructions": null
+  },
+  "display_name": "Pastillas enciende fuegos La Golondrina",
+  "ean": "4012425171032",
+  "extra_info": [
+    ""
+  ],
+  "id": "16445",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": null
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/9760de216eeb6ffebc9ae74bcd620c1e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9760de216eeb6ffebc9ae74bcd620c1e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9760de216eeb6ffebc9ae74bcd620c1e.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/14d1b06e3a4fb928afee16bbb0b1be04.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/14d1b06e3a4fb928afee16bbb0b1be04.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/14d1b06e3a4fb928afee16bbb0b1be04.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "0.03",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "0.033",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "21.000",
+    "total_units": 32,
+    "unit_name": "ud.",
+    "unit_price": "1.05",
+    "unit_selector": true,
+    "unit_size": 0.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/16445/pastillas-enciende-fuegos-golondrina-caja",
+  "slug": "pastillas-enciende-fuegos-golondrina-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/9760de216eeb6ffebc9ae74bcd620c1e.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

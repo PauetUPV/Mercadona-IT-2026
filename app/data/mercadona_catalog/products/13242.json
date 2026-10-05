@@ -1,0 +1,122 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Listo para Comer",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 898,
+              "level": 2,
+              "name": "Platos fríos",
+              "order": 597
+            }
+          ],
+          "id": 897,
+          "level": 1,
+          "name": "Listo para Comer",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Listo para Comer",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Ensalada de marisco Listo para Comer compuesta por pasta, potón, gambón, langostino, aceituna negra, zanahoria y cebolla roja encurtidas con monodosis",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Ensalada de marisco",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 0ºC y 4ºC.  Una vez abierto consumir en 24 h.",
+    "suppliers": [
+      {
+        "name": "Grupo Profand SLU"
+      },
+      {
+        "name": "Profand Zaragoza SLU"
+      }
+    ],
+    "usage_instructions": "Añadir vinagreta. Mezclar los ingredientes y consumir."
+  },
+  "display_name": "Ensalada de marisco Listo para Comer",
+  "ean": "8402001023262",
+  "extra_info": [
+    ""
+  ],
+  "id": "13242",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>pescado y productos a base de pescado</strong>. Contiene <strong>moluscos y productos a base de moluscos</strong>. Puede contener <strong>huevos y productos a base de huevo</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Contiene <strong>crustáceos y productos a base de crustáceos</strong>. Puede contener <strong>apio y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>dióxido de azufre y sulfitos</strong>. Puede contener <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Puede contener <strong>cacahuetes y productos a base de cacahuetes</strong>. Puede contener <strong>frutos de cáscara</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Pasta ((sémola de trigo duro (<strong>gluten</strong>), tomate, espinacas), aceite refinado de girasol), potón (15%) (potón (<strong>moluscos</strong>), sal, estabilizante (E450) y correctores de acidez (E501, E330 y E331)), cebolla roja encurtida (cebolla, azúcar, vinagre de alcohol, vinagre de arroz y sal), zanahoria encurtida (zanahoria, agua, vinagre, azúcar, sal y acidulante (E330)), gambón (8%) (gambón (<strong>crustáceos</strong>), agua, sal, antioxidantes (E331 y E223 (<strong>sulfitos</strong>)) y acidulante (E330)), langostino cocido (8%) (langostino (<strong>crustáceos</strong>), sal y azúcar), vinagreta (aceite refinado de girasol, vinagre de vino tinto (antioxidante (E220 (<strong>sulfitos</strong>))) y sal) y aceituna negra (aceituna, agua y sal y gluconato ferroso (E579)), aroma natural, vinagre, conservadores (E267,E326 y E262). Puede contener trazas de <strong>pescado</strong>, <strong>huevo</strong>, <strong>soja</strong>, <strong>mostaza</strong>, <strong>leche</strong> y sus derivados, <strong>sésamo</strong>, <strong>frutos de cáscara</strong>, <strong>cacahuete</strong> y <strong>apio</strong>."
+  },
+  "origin": null,
+  "packaging": "Bol",
+  "photos": [
+    {
+      "perspective": 3,
+      "regular": "https://prod-mercadona.imgix.net/images/0998c7ae9592a3f023f510c4a89431c3.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0998c7ae9592a3f023f510c4a89431c3.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0998c7ae9592a3f023f510c4a89431c3.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/5b44952fe7b3e0a55ccc119665b73985.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5b44952fe7b3e0a55ccc119665b73985.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5b44952fe7b3e0a55ccc119665b73985.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/f47cc2252cc8b06ee4df097e38c0bbae.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f47cc2252cc8b06ee4df097e38c0bbae.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f47cc2252cc8b06ee4df097e38c0bbae.jpeg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "5.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "5.50",
+    "unit_selector": true,
+    "unit_size": 0.3
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/13242/ensalada-marisco-listo-comer-compuesta-pasta-poton-gambon-langostino-aceituna-negra-zanahoria-cebolla-roja-encurtidas-con-monodosis-bol",
+  "slug": "ensalada-marisco-listo-comer-compuesta-pasta-poton-gambon-langostino-aceituna-negra-zanahoria-cebolla-roja-encurtidas-con-monodosis-bol",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/0998c7ae9592a3f023f510c4a89431c3.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

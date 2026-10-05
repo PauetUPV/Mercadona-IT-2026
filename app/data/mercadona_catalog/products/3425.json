@@ -1,0 +1,131 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 253,
+              "level": 2,
+              "name": "Otras frutas",
+              "order": 306
+            }
+          ],
+          "id": 27,
+          "level": 1,
+          "name": "Fruta",
+          "order": 306
+        }
+      ],
+      "id": 1,
+      "level": 0,
+      "name": "Fruta y verdura",
+      "order": 306
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Nectarinas",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Nectarina carne amarilla mini",
+    "mandatory_mentions": "RGSEAA: 21.028894/L - 21.01530/BA - 21.12235/A - 21.16761/TF",
+    "origin": "ESPAÑA",
+    "production_variant": "Producto de peso variable. El peso extacto de la unidad se determina en la etiqueta",
+    "storage_instructions": "Se recomienda conservar en frío",
+    "suppliers": [
+      {
+        "name": "Anecoop S. Coop."
+      },
+      {
+        "name": "Catafruit S.A."
+      },
+      {
+        "name": "El Ciruelo, S.L."
+      },
+      {
+        "name": "Fruits Sant Miquel, S.L."
+      },
+      {
+        "name": "S.A.T. 1596 Nufri"
+      },
+      {
+        "name": "Tany Nature S.A."
+      },
+      {
+        "name": "UNILAND, S.C."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Nectarinas",
+  "ean": "2105400034254",
+  "extra_info": [
+    ""
+  ],
+  "id": "3425",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Nectarina Amarilla"
+  },
+  "origin": "ESPAÑA",
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 10,
+      "regular": "https://prod-mercadona.imgix.net/images/0fdafed765ef9b67968b9572d9a54020.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0fdafed765ef9b67968b9572d9a54020.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0fdafed765ef9b67968b9572d9a54020.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/fb7cb606f3a0ea6c662e006a75610b4b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/fb7cb606f3a0ea6c662e006a75610b4b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/fb7cb606f3a0ea6c662e006a75610b4b.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "2.20",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "2.200",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.65",
+    "unit_selector": true,
+    "unit_size": 0.75
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/3425/nectarinas-mini-bandeja",
+  "slug": "nectarinas-mini-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/0fdafed765ef9b67968b9572d9a54020.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": "2026-08-29T22:00:00+00:00",
+  "unavailable_weekdays": []
+}

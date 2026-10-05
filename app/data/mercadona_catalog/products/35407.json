@@ -1,0 +1,140 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Deliplus",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 679,
+              "level": 2,
+              "name": "Perfilador labios",
+              "order": 422
+            }
+          ],
+          "id": 208,
+          "level": 1,
+          "name": "Labios",
+          "order": 422
+        }
+      ],
+      "id": 22,
+      "level": 0,
+      "name": "Maquillaje",
+      "order": 422
+    }
+  ],
+  "color_variants": [
+    {
+      "color": "#bb4241",
+      "color_description": "02 marsala",
+      "merca_code": "80295",
+      "status": null
+    },
+    {
+      "color": "#763e2f",
+      "color_description": "06 canela",
+      "merca_code": "22350",
+      "status": null
+    },
+    {
+      "color": "#af6a68",
+      "color_description": "07 cereza",
+      "merca_code": "67888",
+      "status": null
+    },
+    {
+      "color": "#a63634",
+      "color_description": "08 rojo",
+      "merca_code": "35407",
+      "status": null
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Deliplus",
+    "counter_info": null,
+    "danger_mentions": null,
+    "description": "Perfilador de labios Deliplus 08 rojo",
+    "is_prepared_by_mercadona": false,
+    "legal_name": null,
+    "mandatory_mentions": null,
+    "origin": null,
+    "production_variant": null,
+    "storage_instructions": null,
+    "suppliers": [],
+    "usage_instructions": null
+  },
+  "display_name": "Perfilador de labios Deliplus 08 rojo",
+  "ean": "8402001007613",
+  "extra_info": [
+    null
+  ],
+  "id": "35407",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "08 rojo",
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": null
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 10,
+      "regular": "https://prod-mercadona.imgix.net/images/42ff9839349da2678e70b0447c53d27e.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/42ff9839349da2678e70b0447c53d27e.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/42ff9839349da2678e70b0447c53d27e.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/c57724c7a0b6ff0df50f59d9abc2d471.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c57724c7a0b6ff0df50f59d9abc2d471.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c57724c7a0b6ff0df50f59d9abc2d471.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 4,
+      "regular": "https://prod-mercadona.imgix.net/images/15520cedf3c3fc242d3354363eb5e4de.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/15520cedf3c3fc242d3354363eb5e4de.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/15520cedf3c3fc242d3354363eb5e4de.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 21,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "2.500",
+    "selling_method": 0,
+    "size_format": "ud",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.50",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/35407/perfilador-labios-deliplus-08-rojo",
+  "slug": "perfilador-labios-deliplus-08-rojo",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/42ff9839349da2678e70b0447c53d27e.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

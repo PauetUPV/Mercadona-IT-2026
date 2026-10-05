@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 522,
+              "level": 2,
+              "name": "Tarrinas",
+              "order": 213
+            }
+          ],
+          "id": 154,
+          "level": 1,
+          "name": "Helados",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Helado sabor huevo de chocolate Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "HELADO SABOR A CHOCOLATE BLANCO CON CREMA DE CACAO Y AVELLANAS",
+    "mandatory_mentions": "Sin gluten.",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en congelación a temperaturas inferiores a -18 c. Una vez descongelado no volver a congelar.",
+    "suppliers": [
+      {
+        "name": "A.I.A.D.H.E.S.A.-Helados Alacant"
+      },
+      {
+        "name": "Fabricado por: A.I.A.D.H.E.S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Helado sabor huevo de chocolate Hacendado",
+  "ean": "8402001010224",
+  "extra_info": [
+    ""
+  ],
+  "id": "52561",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Libre de <strong>cereales que contengan gluten</strong>. Puede contener <strong>cacahuetes y productos a base de cacahuetes</strong>. Puede contener <strong>frutos de cáscara</strong>. Puede contener <strong>huevos y productos a base de huevo</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>ml</strong>. Contiene <strong>sh</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Leche</strong> desnatada reconstituida, azúcar, crema de cacao y <strong>avellanas</strong> (12%) (azúcar, aceite refinado de girasol, cacao, pasta de <strong>avellanas</strong>, suero de <strong>leche</strong> en polvo, <strong>leche</strong> desnatada en polvo, <strong>lactosa</strong>, emulgente (lecitinas (<strong>soja</strong>)), proteínas de la <strong>leche</strong>, aromas), mantequilla (<strong>leche</strong>), <strong>lactosa</strong> y proteínas de la <strong>leche</strong>, jarabe de glucosa y fructosa, aceite refinado de girasol, <strong>leche</strong> desnatada en polvo, grasa de palma, nata en polvo (<strong>leche</strong>), manteca de cacao, emulgentes (mono y diglicéridos de ácidos grasos, lecitinas (<strong>soja</strong>)), estabilizantes (goma garrofín, goma guar, carragenanos), aromas. Trazas de <strong>huevo</strong>, <strong>cacahuete</strong> y otros <strong>frutos de cáscara</strong>."
+  },
+  "origin": "España",
+  "packaging": "Tarrina",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/108f33e7169c01fbab53d574f93580f3.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/108f33e7169c01fbab53d574f93580f3.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/108f33e7169c01fbab53d574f93580f3.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/67e5d17fd0c6f8e11384b233bdeb5193.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/67e5d17fd0c6f8e11384b233bdeb5193.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/67e5d17fd0c6f8e11384b233bdeb5193.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.84",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "3.843",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.65",
+    "unit_selector": true,
+    "unit_size": 0.95
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/52561/helado-sabor-huevo-chocolate-hacendado-tarrina",
+  "slug": "helado-sabor-huevo-chocolate-hacendado-tarrina",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/108f33e7169c01fbab53d574f93580f3.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

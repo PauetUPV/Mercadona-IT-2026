@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 467,
+              "level": 2,
+              "name": "Conservas verdura",
+              "order": 215
+            }
+          ],
+          "id": 127,
+          "level": 1,
+          "name": "Conservas de verdura y frutas",
+          "order": 215
+        }
+      ],
+      "id": 14,
+      "level": 0,
+      "name": "Conservas, caldos y cremas",
+      "order": 215
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Zanahoria en tiras Hacendado",
+    "legal_name": "ZANAHORIA EN TIRAS. AGRIDULCE. PRIMERA",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Consumir dentro de los 8 días después de la apertura. Una vez abierto, conservar cerrado en el frigorífico  con el máximo de líquido posible.",
+    "suppliers": [
+      {
+        "name": "VÉGOLA IBÉRICA, S.L.U."
+      }
+    ],
+    "usage_instructions": "Producto listo para su consumo."
+  },
+  "display_name": "Zanahoria en tiras Hacendado",
+  "ean": "8402001034718",
+  "extra_info": [
+    ""
+  ],
+  "id": "13328",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>altramuces y productos a base de altramuces</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Libre de <strong>apio y productos derivados</strong>. Libre de <strong>dióxido de azufre y sulfitos</strong>.",
+    "ingredients": "<p>Zanahoria, vinagre de vino, azúcar y sal."
+  },
+  "origin": null,
+  "packaging": "Tarro",
+  "photos": [
+    {
+      "perspective": 3,
+      "regular": "https://prod-mercadona.imgix.net/images/204895d0beb4d93745236c1da6dae27a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/204895d0beb4d93745236c1da6dae27a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/204895d0beb4d93745236c1da6dae27a.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/cd4303765a770856a6957622b3fc5203.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/cd4303765a770856a6957622b3fc5203.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/cd4303765a770856a6957622b3fc5203.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.10",
+    "bunch_selector": false,
+    "drained_weight": 0.235,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.532",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.30",
+    "unit_selector": true,
+    "unit_size": 0.42
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/13328/zanahoria-tiras-hacendado-tarro",
+  "slug": "zanahoria-tiras-hacendado-tarro",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/204895d0beb4d93745236c1da6dae27a.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

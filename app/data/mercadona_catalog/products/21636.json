@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Valor",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 382,
+              "level": 2,
+              "name": "Chocolate negro",
+              "order": 11
+            }
+          ],
+          "id": 92,
+          "level": 1,
+          "name": "Chocolate",
+          "order": 11
+        }
+      ],
+      "id": 9,
+      "level": 0,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Valor",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Chocolate negro 70% cacao Valor con nueces de macadamia caramelizadas",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "TABLETA RELLENA 70% MACADAMIA",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "CHOCOLATES VALOR"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Chocolate negro 70% cacao Valor con nueces de macadamia caramelizadas",
+  "ean": "8410109132625",
+  "extra_info": [
+    ""
+  ],
+  "id": "21636",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Chocolate (43%) [Pasta de cacao, azúcar, cacao desgrasado en polvo, manteca de cacao, mantequilla concentrada (<strong>leche</strong>), emulgente: lecitina (<strong>soja</strong>)], azúcar, grasa vegetal (palma y palmiste), trozos de <strong>nuez macadamia</strong> caramelizada (12%) (<strong>nuez macadamia</strong>, azúcar), chocolate con <strong>leche</strong>[azúcar, manteca de cacao, <strong>leche</strong> en polvo, pasta de cacao, lactosuero en polvo (<strong>leche</strong>), <strong>mantequilla</strong> concentrada (<strong>leche</strong>), emulgentes: lecitina (<strong>soja</strong>) y E-476, aroma natural], pasta de almendra, lactosuero en polvo (<strong>leche</strong>), cacao desgrasado en polvo, emulgente: lecitina (<strong>soja</strong>), aromas."
+  },
+  "origin": null,
+  "packaging": "Tableta",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/b6eb77fc1373ceeaddd2c152cf99f17b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b6eb77fc1373ceeaddd2c152cf99f17b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b6eb77fc1373ceeaddd2c152cf99f17b.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/19b37e8a18f34924960ccbdb1677713a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/19b37e8a18f34924960ccbdb1677713a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/19b37e8a18f34924960ccbdb1677713a.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "23.33",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "23.334",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.50",
+    "unit_selector": true,
+    "unit_size": 0.15
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/21636/chocolate-negro-70-cacao-valor-con-nueces-macadamia-caramelizadas-tableta",
+  "slug": "chocolate-negro-70-cacao-valor-con-nueces-macadamia-caramelizadas-tableta",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/b6eb77fc1373ceeaddd2c152cf99f17b.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

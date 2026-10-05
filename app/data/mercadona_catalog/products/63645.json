@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 491,
+              "level": 2,
+              "name": "Pizzas refrigeradas",
+              "order": 597
+            }
+          ],
+          "id": 138,
+          "level": 1,
+          "name": "Pizzas",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pizza pollo y bacón Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Pizza con pollo asado y bacon",
+    "mandatory_mentions": "PRODUCTO PRECOCINADO REFRIGERADO / ENVASADO EN ATMÓSFERA PROTECTORA /  COCIDA AL HORNO DE PIEDRA/Teléfono de atención al cliente Mercadona: 800 500 220 /  RECICLA Amarillo (logo) / CON PLÁSTICO RECICLADO",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Puede congelarse justo después de su compra. Mantener entre 0ºC y 5ºC. Consumir preferentemente antes del/Lote: Ver envase",
+    "suppliers": [
+      {
+        "name": "CASA TARRADELLAS, S.A."
+      }
+    ],
+    "usage_instructions": "1.Precalentar el horno a 220ºC (calor superior e inferior, sin ventilación). 2.Retirar el envoltorio y colocar la pizza en la rejilla del horno a media altura. 3.Cocerla durante al menos 11 minutos. Si añade otros ingredientes, el tiempo de cocción podría incrementarse. 4.Antes de servir, dejar enfriar la pizza al menos 1 minuto. COCER ANTES DE CONSUMIR. NO UTILIZAR MICROONDAS U OTROS MÉTODOS DE PREPARACIÓN."
+  },
+  "display_name": "Pizza pollo y bacón Hacendado",
+  "ean": "8480000636454",
+  "extra_info": [
+    null
+  ],
+  "id": "63645",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>centeno y productos derivados</strong>. Contiene <strong>gs</strong>. Contiene <strong>mostaza y productos derivados</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Harina de <strong>trigo</strong>, <strong>queso</strong>* mozzarella(16%), tomate, pollo asado (8%) (pechuga de pollo asada, sal, jarabe de glucosa, fécula de patata, especias, hierbas, extracto de especias, maltodextrina, dextrosa, azúcar, levadura, aroma), agua, <strong>queso</strong>* cheddar (<strong>queso</strong>* cheddar, colorante (beta-caroteno)) (7%), bacon (5%), semillas (4%) (quinoa roja (2%), chía (Salvia hispanica) (1%) y amapola (1%)), masa madre de <strong>trigo</strong> y <strong>centeno</strong>, sal, aceite refinado de girasol, levadura, harina de <strong>espelta</strong> (0,4%), <strong>lactosa</strong>, harina de trigo sarraceno (0.1%), estabilizante (trifosfato pentasódico), dextrosa, especias, antioxidante (ascorbato sódico), aroma, conservador (nitrito sódico). Puede contenes trazas de <strong>sésamo</strong>, <strong>soja</strong> y <strong>mostaza</strong>. *Quesos elaborados con leche pasteurizada."
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/32c73e252594380ec6a074185bd75527.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/32c73e252594380ec6a074185bd75527.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/32c73e252594380ec6a074185bd75527.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/63dc304a3449c8cfd00ffe80c4579f85.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/63dc304a3449c8cfd00ffe80c4579f85.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/63dc304a3449c8cfd00ffe80c4579f85.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.90",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.905",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.90",
+    "unit_selector": true,
+    "unit_size": 0.42
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/63645/pizza-pollo-bacon-hacendado",
+  "slug": "pizza-pollo-bacon-hacendado",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/32c73e252594380ec6a074185bd75527.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

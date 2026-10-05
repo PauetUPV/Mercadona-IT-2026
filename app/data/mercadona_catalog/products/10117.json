@@ -1,0 +1,114 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 353,
+              "level": 2,
+              "name": "Nata",
+              "order": 373
+            }
+          ],
+          "id": 75,
+          "level": 1,
+          "name": "Mantequilla y margarina",
+          "order": 373
+        }
+      ],
+      "id": 6,
+      "level": 0,
+      "name": "Huevos, leche y mantequilla",
+      "order": 373
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Nata fresca para cocinar Hacendado",
+    "legal_name": "Nata de vaca pasterizada fermentada 30% materia grasa",
+    "mandatory_mentions": "- Punto verde- Pictograma amarillo- 30 % Materia grasa",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en frío entre 1°C y 6°C. Una vez abierto consumir antes de 24 horas.",
+    "suppliers": [
+      {
+        "name": "EURIAL ULTRA FRAIS S.A.S.U"
+      },
+      {
+        "name": "Senoble Iberica, S.L.U."
+      }
+    ],
+    "usage_instructions": "Una vez abierto consumir en 3 días."
+  },
+  "display_name": "Nata fresca para cocinar Hacendado",
+  "ean": "8480000101174",
+  "extra_info": [
+    ""
+  ],
+  "id": "10117",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Nata</strong> fresca pasteurizada (leche) , fermentos lácticos especi<strong>ficos (l</strong>eche)."
+  },
+  "origin": null,
+  "packaging": "Tarrina",
+  "photos": [
+    {
+      "perspective": 3,
+      "regular": "https://prod-mercadona.imgix.net/images/108f4b61a8ddeca7146ea3cf0622921d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/108f4b61a8ddeca7146ea3cf0622921d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/108f4b61a8ddeca7146ea3cf0622921d.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/859e0a046b3b8cd81a0c09bb669c853c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/859e0a046b3b8cd81a0c09bb669c853c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/859e0a046b3b8cd81a0c09bb669c853c.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.60",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.599",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.30",
+    "unit_selector": true,
+    "unit_size": 0.197
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/10117/nata-fresca-cocinar-hacendado-tarrina",
+  "slug": "nata-fresca-cocinar-hacendado-tarrina",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/108f4b61a8ddeca7146ea3cf0622921d.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 472,
+              "level": 2,
+              "name": "Cremas y puré",
+              "order": 215
+            }
+          ],
+          "id": 130,
+          "level": 1,
+          "name": "Gazpacho y cremas",
+          "order": 215
+        }
+      ],
+      "id": 14,
+      "level": 0,
+      "name": "Conservas, caldos y cremas",
+      "order": 215
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Crema de calabacín Hacendado",
+    "legal_name": "Crema de calabacín",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco. Una vez abierto conservar en el frigorífico y consumir antes de 2 días.",
+    "suppliers": [
+      {
+        "name": "ALINTER ALIMENTACIÓN S.A.U."
+      }
+    ],
+    "usage_instructions": "En cazuela: Agitar antes de usar. Verter el caldo en una cazuela. Calentar sin que llegue a hervir."
+  },
+  "display_name": "Crema de calabacín Hacendado",
+  "ean": "8402001040122",
+  "extra_info": [
+    ""
+  ],
+  "id": "14930",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Libre de <strong>trigo y productos derivados</strong>. Libre de <strong>mostaza y productos derivados</strong>. Libre de <strong>apio y productos derivados</strong>. Libre de <strong>soja y productos a base de soja</strong>. Libre de <strong>cereales que contengan gluten</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Libre de <strong>pescado y productos a base de pescado</strong>. Libre de <strong>huevos y productos a base de huevo</strong>. Libre de <strong>crustáceos y productos a base de crustáceos</strong>.",
+    "ingredients": "Agua, hortalizas 42% (calabacín 26,7%, patata 7,6%, cebolla), yogur al estilo griego 3,6% (<strong>leche</strong> entera, <strong>nata</strong>, <strong>leche</strong> desnatada en polvo y fermentos lácticos), almidón modificado, caramelo en polvo (azúcar, suero de <strong>leche</strong> dulce, <strong>leche</strong> desnatada, <strong>mantequilla</strong>), aceite de oliva, sal, especia, aroma natural."
+  },
+  "origin": null,
+  "packaging": "Brik",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/21e1acdab6e7f290087759fa1f7eef1d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/21e1acdab6e7f290087759fa1f7eef1d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/21e1acdab6e7f290087759fa1f7eef1d.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/8842d6240aaccb4851ceddf493b354c9.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8842d6240aaccb4851ceddf493b354c9.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8842d6240aaccb4851ceddf493b354c9.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "2.000",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.00",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/14930/crema-calabacin-hacendado-brick",
+  "slug": "crema-calabacin-hacendado-brick",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/21e1acdab6e7f290087759fa1f7eef1d.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

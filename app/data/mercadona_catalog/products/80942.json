@@ -1,0 +1,114 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 321,
+              "level": 2,
+              "name": "Pan de hamburguesa y wrap",
+              "order": 515
+            }
+          ],
+          "id": 60,
+          "level": 1,
+          "name": "Pan de molde y otras especialidades",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Tortillas de trigo integrales Hacendado",
+    "legal_name": "TORTILLAS INTEGRALES DE TRIGO",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Una vez abierto el envase, volver a cerrar utilizando el sistema de apertura-cierre y conservar en lugar fresco y seco para su consumo en 10 días. El envase puede congelarse en casa. Se debe consumir en los 3 meses siguientes a su congelación. Descongelar totalmente antes de utilizar.",
+    "suppliers": [
+      {
+        "name": "DELIBREADS EUROPE  S.L."
+      },
+      {
+        "name": "DELIBREADS EUROPE  S.L..U"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Tortillas de trigo integrales Hacendado",
+  "ean": "8480000809421",
+  "extra_info": [
+    null
+  ],
+  "id": "80942",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Harina integral de <strong>trigo </strong>(59%), agua, aceite de girasol alto oleico (3%), estabilizante (E422),emulgente (E471), sal, correctores de acidez (E296, E330), dextrosa, conservadores (E202, E282), gasificante (E500ii), espesante (E415), agente de tratamiento de la harina (E920)."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/d1fdbb3de0ddaacc3f3f76526fd2bc4a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d1fdbb3de0ddaacc3f3f76526fd2bc4a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d1fdbb3de0ddaacc3f3f76526fd2bc4a.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/ec52c7978c690da4241b15ac1774bc6a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ec52c7978c690da4241b15ac1774bc6a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ec52c7978c690da4241b15ac1774bc6a.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.31",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "4.306",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 10,
+    "unit_name": "ud.",
+    "unit_price": "1.55",
+    "unit_selector": true,
+    "unit_size": 0.36
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/80942/tortillas-trigo-integrales-hacendado-paquete",
+  "slug": "tortillas-trigo-integrales-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/d1fdbb3de0ddaacc3f3f76526fd2bc4a.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

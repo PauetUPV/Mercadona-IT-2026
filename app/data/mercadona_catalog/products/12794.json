@@ -1,0 +1,117 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 451,
+              "level": 2,
+              "name": "Caballa y melva",
+              "order": 215
+            }
+          ],
+          "id": 122,
+          "level": 1,
+          "name": "Atún y otras conservas de pescado",
+          "order": 215
+        }
+      ],
+      "id": 14,
+      "level": 0,
+      "name": "Conservas, caldos y cremas",
+      "order": 215
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Filetes de caballa del sur contenido reducido en sal Hacendado en aceite de oliva",
+    "legal_name": "Filetes de caballa del sur en aceite de oliva contenido reducido de sal",
+    "mandatory_mentions": "Contiene un 25% menos de sal en comparación con productos similares del mercado.",
+    "origin": null,
+    "production_variant": "Otros países producción: Marruecos. Est. Aut. 1156 o 3498",
+    "storage_instructions": "Conservar en lugar fresco y seco. Una vez abierto, mantener en refrigeración entre 0ºC y 4ºC y consumir en 24 horas.",
+    "suppliers": [
+      {
+        "name": "UBAGO GROUP MARE S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Filetes de caballa del sur contenido reducido en sal Hacendado en aceite de oliva",
+  "ean": "8402001031090",
+  "extra_info": [
+    ""
+  ],
+  "id": "12794",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>pescado y productos a base de pescado</strong>.",
+    "ingredients": "<strong>Caballa del sur</strong> (<strong>pescado</strong>) (71%) y aceite de oliva (29%)."
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/a95d6e92f16721a1b18a8f918528f400.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a95d6e92f16721a1b18a8f918528f400.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a95d6e92f16721a1b18a8f918528f400.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/55b15395dde62588008ebfe5e28dbc16.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/55b15395dde62588008ebfe5e28dbc16.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/55b15395dde62588008ebfe5e28dbc16.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/ca74750c6e1b8135cd2e5e6f78438412.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ca74750c6e1b8135cd2e5e6f78438412.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ca74750c6e1b8135cd2e5e6f78438412.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "13.33",
+    "bunch_selector": false,
+    "drained_weight": 0.17,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.085,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "18.824",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 2,
+    "unit_name": "latas",
+    "unit_price": "3.20",
+    "unit_selector": true,
+    "unit_size": 0.24
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/12794/filetes-caballa-sur-contenido-reducido-sal-hacendado-aceite-oliva",
+  "slug": "filetes-caballa-sur-contenido-reducido-sal-hacendado-aceite-oliva",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/a95d6e92f16721a1b18a8f918528f400.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

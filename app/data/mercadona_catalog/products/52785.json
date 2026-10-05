@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "13 Hectáreas",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 564,
+              "level": 2,
+              "name": "Ribera del Duero",
+              "order": 15
+            }
+          ],
+          "id": 169,
+          "level": 1,
+          "name": "Vino tinto",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "13 Hectáreas",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Vino tinto roble 13 Hectáreas DO Ribera del Duero",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Vino tinto",
+    "mandatory_mentions": "APTO PARA VEGANOS",
+    "origin": "DO Ribera del Duero",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y protegido de la luz.",
+    "suppliers": [
+      {
+        "name": "Altos de Ontañón S.L."
+      },
+      {
+        "name": "Sociedad Vinícola Villalba S.L"
+      }
+    ],
+    "usage_instructions": "Consumir entre 12º y 15º C."
+  },
+  "display_name": "Vino tinto roble 13 Hectáreas DO Ribera del Duero",
+  "ean": "8402001015618",
+  "extra_info": [
+    ""
+  ],
+  "id": "52785",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "DO Ribera del Duero",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>dióxido de azufre y sulfitos</strong>.",
+    "ingredients": "Uva, correctores de la acidez (ácido Tartárico[L(+)]), conservadores y antioxidantes (<strong>anhídrido sulfuroso),</strong> agentes estabilizantes (goma arábiga, manoproteínas de levadura, poliaspartato de potasio). C<strong>ontiene sulfitos.</strong>"
+  },
+  "origin": "DO Ribera del Duero",
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/02b9654694ad10eb7339cb98174c5354.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/02b9654694ad10eb7339cb98174c5354.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/02b9654694ad10eb7339cb98174c5354.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/26c4af5214c73703d04ab87530289807.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/26c4af5214c73703d04ab87530289807.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/26c4af5214c73703d04ab87530289807.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "6.000",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "4.50",
+    "unit_selector": true,
+    "unit_size": 0.75
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/52785/vino-tinto-do-ribera-duero-13-hectareas-roble-botella",
+  "slug": "vino-tinto-do-ribera-duero-13-hectareas-roble-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/02b9654694ad10eb7339cb98174c5354.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,3476 @@
+{
+  "categories": [
+    {
+      "id": 894,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Bombones",
+      "order": 213,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Mini helado bombón surtido Hacendado",
+          "id": "64001",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "4.97",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "4.971",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 12,
+            "unit_name": "ud.",
+            "unit_price": "3.40",
+            "unit_selector": true,
+            "unit_size": 0.684
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/64001/helado-mini-surtido-hacendado-caja",
+          "slug": "helado-mini-surtido-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/edf711c7b9c1ea0c3afec566aad9b480.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Helado bombón almendrado Hacendado sabor vainilla",
+          "id": "64000",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "sabor vainilla",
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "4.58",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "4.584",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "ud.",
+            "unit_price": "3.30",
+            "unit_selector": true,
+            "unit_size": 0.72
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/64000/helado-almendrado-hacendado-caja",
+          "slug": "helado-almendrado-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/6ea65186f39fd06211ef6f8074924a4f.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Mini helado bombón almendrado Hacendado sabor vainilla",
+          "id": "64066",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "6.25",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.06,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "6.250",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 8,
+            "unit_name": "ud.",
+            "unit_price": "3.00",
+            "unit_selector": true,
+            "unit_size": 0.48
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/64066/helado-mini-bombon-almendrado-hacendado-caja",
+          "slug": "helado-mini-bombon-almendrado-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/55e35195c5e0a48dc2575f2e82267a6a.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Helado crocan choc vainilla Hacendado con lengua sabor chocolate",
+          "id": "64230",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "con lengua sabor chocolate",
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "6.67",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "6.667",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "ud.",
+            "unit_price": "3.00",
+            "unit_selector": true,
+            "unit_size": 0.45
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/64230/helado-crocan-choc-vainilla-hacendado-con-lengua-sabor-chocolate-caja",
+          "slug": "helado-crocan-choc-vainilla-hacendado-con-lengua-sabor-chocolate-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/533b09fbe65e413a57198c025f5ce318.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Mini helado bombón surtido Hacendado sin azúcares añadidos",
+          "id": "64102",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "6.58",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.057,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "6.579",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 8,
+            "unit_name": "ud.",
+            "unit_price": "3.00",
+            "unit_selector": true,
+            "unit_size": 0.456
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/64102/helado-mini-bombon-hacendado-sin-azucares-anadidos-caja",
+          "slug": "helado-mini-bombon-hacendado-sin-azucares-anadidos-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/dc8a339fb7e989fc5ba176e31c3a0087.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Mini helado bombón sabor nocciola Hacendado",
+          "id": "64499",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "6.56",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "6.563",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 8,
+            "unit_name": "ud.",
+            "unit_price": "3.15",
+            "unit_selector": true,
+            "unit_size": 0.48
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/64499/helado-mini-nocciola-hacendado-caja",
+          "slug": "helado-mini-nocciola-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/e3909faf89e9e7e06b228ee736e88a4e.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Mini helado bombón vegetal pistacho Hacendado a base de anacardos",
+          "id": "23850",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "a base de anacardos",
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "10.31",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "10.313",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 4,
+            "unit_name": "ud.",
+            "unit_price": "3.30",
+            "unit_selector": true,
+            "unit_size": 0.326
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/23850/helado-vegetal-mini-base-anacardo-con-crema-pistacho-hacendado-caja",
+          "slug": "helado-vegetal-mini-base-anacardo-con-crema-pistacho-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/fdb3e3cfffcbecfe6f758c0286edb565.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Helado bombón negro sabor nata Hacendado",
+          "id": "64248",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "4.44",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "4.445",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "ud.",
+            "unit_price": "3.20",
+            "unit_selector": true,
+            "unit_size": 0.72
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/64248/helado-negro-hacendado-caja",
+          "slug": "helado-negro-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/acd164af33c16767b085a7bc5d86d452.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Mini helado bombón vegetal triple chocolate Hacendado a base de anacardos",
+          "id": "23851",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "10.31",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.0815,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "10.313",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 4,
+            "unit_name": "ud.",
+            "unit_price": "3.30",
+            "unit_selector": true,
+            "unit_size": 0.326
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/23851/helado-vegetal-mini-triple-chocolate-base-anacardo-hacendado-caja",
+          "slug": "helado-vegetal-mini-triple-chocolate-base-anacardo-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/8a6cf005c45b575be15fb63b39b6c93a.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Helado bombón blanco Hacendado sabor vainilla",
+          "id": "64249",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "4.44",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "4.445",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "ud.",
+            "unit_price": "3.20",
+            "unit_selector": true,
+            "unit_size": 0.72
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/64249/helado-blanco-hacendado-caja",
+          "slug": "helado-blanco-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/754463fe777cd2d26e73ee07cc4393d8.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Helado bombón mango blanco Hacendado con salsa de mango",
+          "id": "60690",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "7.22",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "7.223",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "ud.",
+            "unit_price": "3.90",
+            "unit_selector": true,
+            "unit_size": 0.54
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/60690/helado-bombon-mango-blanco-hacendado-con-salsa-mango-cobertura-chocolate-blanco-con-trozos-coco-crujientes-caja",
+          "slug": "helado-bombon-mango-blanco-hacendado-con-salsa-mango-cobertura-chocolate-blanco-con-trozos-coco-crujientes-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/bd554354787aa20cfa7bccd0d9549e3d.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Helado bombón pistacho Hacendado sabor almendra con salsa de pistacho",
+          "id": "21604",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "8.52",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "8.519",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "ud.",
+            "unit_price": "4.60",
+            "unit_selector": true,
+            "unit_size": 0.54
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/21604/helado-bombon-pistacho-hacendado-con-cobertura-salsa-granillo-pistacho-caja",
+          "slug": "helado-bombon-pistacho-hacendado-con-cobertura-salsa-granillo-pistacho-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/d93c19c2465958d0ae9debbbdbd0c29f.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    },
+    {
+      "id": 893,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Cucuruchos",
+      "order": 213,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Mini helado cucurucho sabor nata Hacendado",
+          "id": "64246",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "7.43",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "7.433",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 12,
+            "unit_name": "ud.",
+            "unit_price": "3.30",
+            "unit_selector": true,
+            "unit_size": 0.444
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/64246/helado-mini-cucurucho-nata-hacendado-caja",
+          "slug": "helado-mini-cucurucho-nata-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/0621402b576d4c39d76a802a9bc99ec3.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Helado cucurucho sabor vainilla Hacendado",
+          "id": "86236",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.40",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.12,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "3.403",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "ud.",
+            "unit_price": "2.45",
+            "unit_selector": true,
+            "unit_size": 0.72
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/86236/helado-cucurucho-vainilla-hacendado-caja",
+          "slug": "helado-cucurucho-vainilla-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/8db5a7eda9ce33b2992ac5b04aa0e684.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Helado cucurucho sabor nata Hacendado",
+          "id": "64196",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.40",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.12,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "3.403",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "ud.",
+            "unit_price": "2.45",
+            "unit_selector": true,
+            "unit_size": 0.72
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/64196/helado-cucurucho-nata-caja",
+          "slug": "helado-cucurucho-nata-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/b4acb828f12297e808998840ef118437.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Mini helado cucurucho sabor nata Hacendado sin azúcares añadidos",
+          "id": "64247",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "8.45",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "8.446",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 12,
+            "unit_name": "ud.",
+            "unit_price": "3.75",
+            "unit_selector": true,
+            "unit_size": 0.444
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/64247/helado-mini-cucurucho-nata-hacendado-sin-azucares-anadidos-caja",
+          "slug": "helado-mini-cucurucho-nata-hacendado-sin-azucares-anadidos-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/757ea03747b64ee09c745e4f404723ac.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Helado cucurucho sabor choco nata Hacendado",
+          "id": "64251",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.40",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.39,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "3.403",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "ud.",
+            "unit_price": "2.45",
+            "unit_selector": true,
+            "unit_size": 0.72
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/64251/helado-cucurucho-choco-nata-hacendado-caja",
+          "slug": "helado-cucurucho-choco-nata-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/0b30e123cef5bc76487e5fb8642a1657.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Helado cucurucho sabor fresa nata Hacendado",
+          "id": "64221",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.40",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "3.403",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "ud.",
+            "unit_price": "2.45",
+            "unit_selector": true,
+            "unit_size": 0.72
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/64221/helado-cucurucho-fresa-nata-caja",
+          "slug": "helado-cucurucho-fresa-nata-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/b2e3391c98972b7952c865c67fb6e112.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    },
+    {
+      "id": 869,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Granizados y helados de hielo",
+      "order": 213,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Flash popitos Hacendado",
+          "id": "64514",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "1.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "1.500",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "21.000",
+            "total_units": 15,
+            "unit_name": "ud.",
+            "unit_price": "1.50",
+            "unit_selector": true,
+            "unit_size": 1.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/64514/flash-popitos-hacendado-paquete",
+          "slug": "flash-popitos-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/46be1e6613b52ef5021db696adb53827.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Mini helados hielo sorbetes Hacendado",
+          "id": "64087",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "6.67",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "6.667",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 3,
+            "unit_name": "bolsitas",
+            "unit_price": "1.80",
+            "unit_selector": true,
+            "unit_size": 0.27
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/64087/mini-helados-hacendado-caja",
+          "slug": "mini-helados-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/c1083f786c229ac8bc5c05a525f41023.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Helado hielo sorbete con lima limón Hacendado",
+          "id": "64522",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.48",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "3.485",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "ud.",
+            "unit_price": "2.30",
+            "unit_selector": true,
+            "unit_size": 0.66
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/64522/helado-lima-limon-hacendado-caja",
+          "slug": "helado-lima-limon-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/cc500944fe571311cc2b35839a375925.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Granizado de limón Hacendado sin azúcares añadidos",
+          "id": "64127",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": null,
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.38",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.2,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "2.375",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "ud.",
+            "unit_price": "2.85",
+            "unit_selector": true,
+            "unit_size": 1.2
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/64127/granizado-limon-hacendado-sin-azucares-anadidos-pack-6",
+          "slug": "granizado-limon-hacendado-sin-azucares-anadidos-pack-6",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/0b0e99e2f98f562df22ae97cccbbac5f.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Granizado de limón Hacendado",
+          "id": "64705",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Pack-6",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.25",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.2,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "2.250",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "ud.",
+            "unit_price": "2.70",
+            "unit_selector": true,
+            "unit_size": 1.2
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/64705/granizado-limon-hacendado-pack-6",
+          "slug": "granizado-limon-hacendado-pack-6",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/ef1c9abb97b81a4850437542b1de876e.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Granizado agua de cebada Hacendado",
+          "id": "64027",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": null,
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.63",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.2,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "2.625",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "ud.",
+            "unit_price": "3.15",
+            "unit_selector": true,
+            "unit_size": 1.2
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/64027/granizado-agua-cebada-hacendado-pack-6",
+          "slug": "granizado-agua-cebada-hacendado-pack-6",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/783318aa058ed4d97587544a45ca0694.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Granizado de café Hacendado",
+          "id": "64128",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": null,
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.63",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.2,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "2.625",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "ud.",
+            "unit_price": "3.15",
+            "unit_selector": true,
+            "unit_size": 1.2
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/64128/granizado-cafe-hacendado-pack-6",
+          "slug": "granizado-cafe-hacendado-pack-6",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/cb77eda62d183d48cff5132168bc930e.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Helado hielo sabor chocolate Hacendado",
+          "id": "64195",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.07",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "3.067",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 10,
+            "unit_name": "ud.",
+            "unit_price": "2.30",
+            "unit_selector": true,
+            "unit_size": 0.75
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/64195/helado-sabor-chocolate-hacendado-caja",
+          "slug": "helado-sabor-chocolate-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/05eae40c58c8d2143a21e4fffd89d044.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Helado hielo sorbete con horchata Hacendado",
+          "id": "64179",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.07",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "3.067",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 10,
+            "unit_name": "ud.",
+            "unit_price": "2.30",
+            "unit_selector": true,
+            "unit_size": 0.75
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/64179/helado-horchata-hacendado-caja",
+          "slug": "helado-horchata-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/2cb6b58ee83eeeda7665a055af5e168b.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Helado hielo sorbete con fresa Hacendado",
+          "id": "64419",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.07",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "3.067",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 10,
+            "unit_name": "ud.",
+            "unit_price": "2.30",
+            "unit_selector": true,
+            "unit_size": 0.75
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/64419/helado-fresa-hacendado-caja",
+          "slug": "helado-fresa-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/7644c42b7019d54bc500ada4864780c5.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Helado hielo sorbete con naranja Hacendado",
+          "id": "64012",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.80",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "2.800",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 10,
+            "unit_name": "ud.",
+            "unit_price": "2.10",
+            "unit_selector": true,
+            "unit_size": 0.75
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/64012/helado-naranja-hacendado-caja",
+          "slug": "helado-naranja-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/8584e60dd48a5a309c2e716bf806a78a.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Helado hielo con limón Hacendado",
+          "id": "64013",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.80",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "2.800",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 10,
+            "unit_name": "ud.",
+            "unit_price": "2.10",
+            "unit_selector": true,
+            "unit_size": 0.75
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/64013/helado-limon-hacendado-caja",
+          "slug": "helado-limon-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/950edb07bf805dee7fa6f520cfea3eb7.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Helado hielo sorbete con mango Hacendado",
+          "id": "64220",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.07",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "3.067",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 10,
+            "unit_name": "ud.",
+            "unit_price": "2.30",
+            "unit_selector": true,
+            "unit_size": 0.75
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/64220/helado-sorbete-mango-hacendado-caja",
+          "slug": "helado-sorbete-mango-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/b721082a0adb95471999014c1c348be2.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    },
+    {
+      "id": 904,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Otros Helados",
+      "order": 213,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Helado Dochi cheesecake Hacendado con salsa de frambuesa",
+          "id": "35955",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "13.89",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.036,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "13.889",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "ud.",
+            "unit_price": "3.00",
+            "unit_selector": true,
+            "unit_size": 0.216
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/35955/helado-dochi-cheesecake-hacendado-queso-masa-galleta-con-salsa-frambuesa-galleta-triturada-caja",
+          "slug": "helado-dochi-cheesecake-hacendado-queso-masa-galleta-con-salsa-frambuesa-galleta-triturada-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/cd157f552887c0a38f35e59b59f01d50.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Helado Dochi sabor tarta de la abuela Hacendado con salsa de avellana",
+          "id": "21605",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "13.89",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "13.889",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "ud.",
+            "unit_price": "3.00",
+            "unit_selector": true,
+            "unit_size": 0.216
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/21605/helado-dochi-tarta-abuela-hacendado-vainilla-masa-galleta-con-salsa-avellana-con-trocitos-triturado-galleta-caja",
+          "slug": "helado-dochi-tarta-abuela-hacendado-vainilla-masa-galleta-con-salsa-avellana-con-trocitos-triturado-galleta-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/2a1116dc0a9e77364e28ab18c9ebd294.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Helado Mochi coco Hacendado",
+          "id": "64491",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "13.43",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.037,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "13.426",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "ud.",
+            "unit_price": "2.90",
+            "unit_selector": true,
+            "unit_size": 0.216
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/64491/helado-mochi-coco-hacendado-caja",
+          "slug": "helado-mochi-coco-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/482d86a2ece66b92528d6a52cd23e79d.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Helado Mochi mango Hacendado",
+          "id": "64492",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "13.43",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.037,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "13.426",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "ud.",
+            "unit_price": "2.90",
+            "unit_selector": true,
+            "unit_size": 0.216
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/64492/helado-mochi-mango-hacendado-caja",
+          "slug": "helado-mochi-mango-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/c79c7ea8e5337a4922d484a5c9128b36.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Helado barrita sabor cacahuete Hacendado con salsa de caramelo salado",
+          "id": "23280",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "11.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "11.000",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "ud.",
+            "unit_price": "3.30",
+            "unit_selector": true,
+            "unit_size": 0.3
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/23280/helado-barrita-sabor-cacahuete-hacendado-con-cobertura-chocolate-con-leche-caja",
+          "slug": "helado-barrita-sabor-cacahuete-hacendado-con-cobertura-chocolate-con-leche-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/0b6216764054f0d10fe9c8e1e66b3fe5.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Castañas heladas de nata Hacendado",
+          "id": "64145",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "9.38",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.08,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "9.375",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 4,
+            "unit_name": "ud.",
+            "unit_price": "3.00",
+            "unit_selector": true,
+            "unit_size": 0.32
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/64145/castanas-heladas-nata-hacendado-caja",
+          "slug": "castanas-heladas-nata-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/168223df7e783f76660c02762e9ee9e0.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    },
+    {
+      "id": 521,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Sándwiches",
+      "order": 213,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Helado sándwich sabor nata Hacendado",
+          "id": "64146",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.88",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "2.875",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 8,
+            "unit_name": "ud.",
+            "unit_price": "2.30",
+            "unit_selector": true,
+            "unit_size": 0.8
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/64146/helado-sandwich-nata-hacendado-caja",
+          "slug": "helado-sandwich-nata-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/265ffdc3fa0121e56f210bec1069c79d.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Mini helado sándwich sabor nata Hacendado",
+          "id": "64450",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "5.42",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.08,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "5.417",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "ud.",
+            "unit_price": "2.60",
+            "unit_selector": true,
+            "unit_size": 0.48
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/64450/helado-mini-sandwich-nata-hacendado-caja",
+          "slug": "helado-mini-sandwich-nata-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/8377ad6da890e39e401eff40a1262577.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Super helado sándwich sabor nata Hacendado",
+          "id": "64200",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.79",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "3.794",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "ud.",
+            "unit_price": "3.30",
+            "unit_selector": true,
+            "unit_size": 0.87
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/64200/helado-sandwich-super-nata-hacendado-caja",
+          "slug": "helado-sandwich-super-nata-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/e770c975ca711b51a774382db3a8ddb5.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Mini helado sándwich sabor vainilla y cookie Hacendado",
+          "id": "64520",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "5.88",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.085,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "5.883",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "ud.",
+            "unit_price": "3.00",
+            "unit_selector": true,
+            "unit_size": 0.51
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/64520/helado-mini-sandwich-vainilla-cookie-hacendado-caja",
+          "slug": "helado-mini-sandwich-vainilla-cookie-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/1266a392931685eb0323850f07f4d590.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Mini helado sándwich choco cream Hacendado",
+          "id": "35534",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "5.88",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.085,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "5.883",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "ud.",
+            "unit_price": "3.00",
+            "unit_selector": true,
+            "unit_size": 0.51
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/35534/helado-mini-sandwich-choco-cream-hacendado-caja",
+          "slug": "helado-mini-sandwich-choco-cream-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/9559047a1424b19047c8a2cfee2b491e.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Helado sándwich sabor nata Hacendado sin azúcares añadidos",
+          "id": "64147",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.75",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "3.750",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 8,
+            "unit_name": "ud.",
+            "unit_price": "3.00",
+            "unit_selector": true,
+            "unit_size": 0.8
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/64147/helado-sandwich-nata-hacendado-sin-azucares-anadidos-caja",
+          "slug": "helado-sandwich-nata-hacendado-sin-azucares-anadidos-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/c73fbf8e380ec53b95e16395a4380d55.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    },
+    {
+      "id": 522,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Tarrinas",
+      "order": 213,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Helado de vainilla Hacendado",
+          "id": "8966",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Tarrina",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.40",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "2.400",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.40",
+            "unit_selector": true,
+            "unit_size": 1.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/8966/helado-vainilla-hacendado-tarrina",
+          "slug": "helado-vainilla-hacendado-tarrina",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/c6493ad34b4ed3d0cb2502a726f2c1e9.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Helado de chocolate Hacendado con trocitos sabor chocolate",
+          "id": "64400",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Tarrina",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.20",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "3.200",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.20",
+            "unit_selector": true,
+            "unit_size": 1.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/64400/helado-chocolate-hacendado-con-trocitos-sabor-chocolate-tarrina",
+          "slug": "helado-chocolate-hacendado-con-trocitos-sabor-chocolate-tarrina",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/99bd1a90433c1400501702c7285f3485.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Helado de leche merengada Hacendado",
+          "id": "64414",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Tarrina",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.95",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "2.950",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.95",
+            "unit_selector": true,
+            "unit_size": 1.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/64414/helado-leche-merengada-hacendado-tarrina",
+          "slug": "helado-leche-merengada-hacendado-tarrina",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/2412af59c3c31bb85eda3fa94f048e21.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Helado de turrón Hacendado",
+          "id": "64445",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Bote",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "6.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "6.500",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.25",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/64445/helado-turron-hacendado-bote",
+          "slug": "helado-turron-hacendado-bote",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/df9398f6c7464e17bd02b3d5d757e069.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Helado choco cookies Hacendado con sirope y galletas de chocolate",
+          "id": "64424",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Bote",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "6.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "6.000",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.00",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/64424/helado-chocolate-cookies-hacendado-bote",
+          "slug": "helado-chocolate-cookies-hacendado-bote",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/e3f8ad80785e480e1a95438cd68bab5e.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Helado sabor vainilla praliné con nueces pecán Hacendado y sirope de caramelo",
+          "id": "52560",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Tarrina",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.68",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "3.685",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.50",
+            "unit_selector": true,
+            "unit_size": 0.95
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/52560/helado-vainilla-praline-con-nueces-pecan-hacendado-tarrina",
+          "slug": "helado-vainilla-praline-con-nueces-pecan-hacendado-tarrina",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/e48f12db162af45e012102226977c579.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Helado salted caramel Hacendado con salsa de caramelo salado",
+          "id": "22996",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Bote",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "6.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "6.500",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.25",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/22996/helado-caramelo-con-salsa-caramelo-salado-trozos-caramelo-hacendado-bote",
+          "slug": "helado-caramelo-con-salsa-caramelo-salado-trozos-caramelo-hacendado-bote",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/d97bd6a7e1dc54098ded160c8c683708.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Helado sorbete con limón Hacendado",
+          "id": "64509",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Tarrina",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.35",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "2.350",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.35",
+            "unit_selector": true,
+            "unit_size": 1.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/64509/sorbete-con-limon-hacendado-tarrina",
+          "slug": "sorbete-con-limon-hacendado-tarrina",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/63e1d780e3c7a051acb25f3e70b2d0a8.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Helado stracciatella Hacendado con sirope de chocolate",
+          "id": "52562",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "con sirope de chocolate",
+          "packaging": "Tarrina",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.42",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "3.422",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.25",
+            "unit_selector": true,
+            "unit_size": 0.95
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/52562/helado-stracciatella-hacendado-tarrina",
+          "slug": "helado-stracciatella-hacendado-tarrina",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/51e6c06b12d2c3246703c4f30cbe0521.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Helado capuccino Hacendado con sirope de café",
+          "id": "52563",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Tarrina",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.42",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "3.422",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.25",
+            "unit_selector": true,
+            "unit_size": 0.95
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/52563/helado-capuccino-hacendado-tarrina",
+          "slug": "helado-capuccino-hacendado-tarrina",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/4d276db05fbc5a0149130e7e846be31d.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Helado de cheesecake Hacendado con salsa de fresa",
+          "id": "64436",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Bote",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "6.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "6.000",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.00",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/64436/helado-tarta-queso-hacendado-con-fresas-bote",
+          "slug": "helado-tarta-queso-hacendado-con-fresas-bote",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/fab0747a97a445dfb3dbfef385b40edb.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Helado sabor huevo de chocolate Hacendado",
+          "id": "52561",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Tarrina",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.84",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "3.843",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.65",
+            "unit_selector": true,
+            "unit_size": 0.95
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/52561/helado-sabor-huevo-chocolate-hacendado-tarrina",
+          "slug": "helado-sabor-huevo-chocolate-hacendado-tarrina",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/108f33e7169c01fbab53d574f93580f3.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Helado menta choco Hacendado con trocitos sabor chocolate",
+          "id": "64464",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Bote",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "6.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "6.000",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.00",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/64464/helado-menta-choco-con-trocitos-sabor-chocolate-hacendado-bote",
+          "slug": "helado-menta-choco-con-trocitos-sabor-chocolate-hacendado-bote",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/69038aac18599b8a2cebd685dec2484b.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Helado 3 sabores Hacendado vainilla, chocolate y fresa",
+          "id": "64459",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Tarrina",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.30",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "2.300",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.30",
+            "unit_selector": true,
+            "unit_size": 1.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/64459/helado-3-sabores-hacendado-chocolate-vainilla-fresa-tarrina",
+          "slug": "helado-3-sabores-hacendado-chocolate-vainilla-fresa-tarrina",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/fa76fa064d50f20332712d63ce7c01f7.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Medios cocos helados Hacendado",
+          "id": "64166",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "7.71",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.175,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "7.715",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 2,
+            "unit_name": "ud.",
+            "unit_price": "2.70",
+            "unit_selector": true,
+            "unit_size": 0.35
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/64166/medios-cocos-helados-hacendado-caja",
+          "slug": "medios-cocos-helados-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/dd2cee008087791d00746b86c41bd696.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Helado Biscuit Hacendado sabor galleta caramelizada",
+          "id": "60680",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "sabor galleta caramelizada",
+          "packaging": "Bote",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "6.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "6.000",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.00",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/60680/helado-biscuit-hacendado-sabor-galleta-caramelizada-bote",
+          "slug": "helado-biscuit-hacendado-sabor-galleta-caramelizada-bote",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/8ac9316abd6779b09b1b586a9cdb8619.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Helado peanut butter cups Hacendado mantequilla de cacahuete con trocitos de tartaletas",
+          "id": "60683",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Bote",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "6.70",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "6.700",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.35",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/60683/helado-peanut-butter-cups-hacendado-crema-cacahuete-con-tartaletas-cubiertas-chocolate-rellenas-manteca-cacahuete-bote",
+          "slug": "helado-peanut-butter-cups-hacendado-crema-cacahuete-con-tartaletas-cubiertas-chocolate-rellenas-manteca-cacahuete-bote",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/6ed1b3a9b3d64134c9d27629cdf1f089.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Helado cookie dough Hacendado vainilla con trozos de galleta y salsa de caramelo",
+          "id": "60684",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Bote",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "6.70",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "6.700",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.35",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/60684/helado-cookie-dough-hacendado-crema-vainilla-con-trozos-galletas-con-pepitas-chocolate-salsa-caramelo-bote",
+          "slug": "helado-cookie-dough-hacendado-crema-vainilla-con-trozos-galletas-con-pepitas-chocolate-salsa-caramelo-bote",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/0b89324f51d3e6db4539311d0a4f37a0.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Helado duo brownie Hacendado sabor vainilla con trozos de bizcocho",
+          "id": "12821",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Bote",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "6.70",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "6.700",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.35",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/12821/helado-duo-brownie-hacendado-crema-sabor-vainilla-cacao-con-trozos-bizcocho-cacao-bote",
+          "slug": "helado-duo-brownie-hacendado-crema-sabor-vainilla-cacao-con-trozos-bizcocho-cacao-bote",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/54787370e1d65c65fae869057aaa8b5f.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Sorbete de açaí Hacendado sabor guaraná",
+          "id": "86631",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Bote",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "13.18",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "13.182",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.90",
+            "unit_selector": true,
+            "unit_size": 0.22
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/86631/sorbete-acai-hacendado-sabor-guarana-bote",
+          "slug": "sorbete-acai-hacendado-sabor-guarana-bote",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/2b5afd6d6e45463258d82214ad7fb8a6.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Helado golden pecan Hacendado sabor vainilla con trozos de nueces de pecán, salsa dulce de arce y caramelo",
+          "id": "21578",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Bote",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "6.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "6.500",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.25",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/21578/helado-golden-pecan-hacendado-vainilla-con-trozos-nueces-pecan-caramelizadas-dulce-arce-salsa-caramelo-bote",
+          "slug": "helado-golden-pecan-hacendado-vainilla-con-trozos-nueces-pecan-caramelizadas-dulce-arce-salsa-caramelo-bote",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/bd1e68fcb5b8e30f9bd8d7092126c6d2.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    },
+    {
+      "id": 863,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Barras de helado y barquillos",
+      "order": 213,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Tarta helada sabor nata y chocolate Hacendado",
+          "id": "70711",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "2.000",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.00",
+            "unit_selector": true,
+            "unit_size": 1.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/70711/tarta-helada-nata-chocolate-hacendado-caja",
+          "slug": "tarta-helada-nata-chocolate-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/abf468ed311c33b400a723c9b4d7813f.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Barra de helado sabor vainilla, chocolate y nata Hacendado",
+          "id": "64214",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.05",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "2.050",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 10,
+            "unit_name": "raciones",
+            "unit_price": "2.05",
+            "unit_selector": true,
+            "unit_size": 1.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/64214/barra-helado-sabor-vainilla-chocolate-nata-hacendado-caja",
+          "slug": "barra-helado-sabor-vainilla-chocolate-nata-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/2b4949e08c2e8e260a8684096bf41f87.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Obleas para helado Hacendado",
+          "id": "15953",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "13.46",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "13.462",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 24,
+            "unit_name": "ud.",
+            "unit_price": "0.70",
+            "unit_selector": true,
+            "unit_size": 0.052
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/15953/obleas-helado-hacendado-paquete",
+          "slug": "obleas-helado-hacendado-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/7b42c3270718d22d03263dc39d1ce6b6.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    }
+  ],
+  "id": 154,
+  "is_extended": false,
+  "layout": 1,
+  "name": "Helados",
+  "next_category": {
+    "id": 155,
+    "name": "Hielo"
+  },
+  "order": 213,
+  "published": true
+}

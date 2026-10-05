@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "+Proteínas",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 407,
+              "level": 2,
+              "name": "Yogures desnatados",
+              "order": 598
+            }
+          ],
+          "id": 103,
+          "level": 1,
+          "name": "Yogures desnatados",
+          "order": 598
+        }
+      ],
+      "id": 11,
+      "level": 0,
+      "name": "Postres y yogures",
+      "order": 598
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "+Proteínas",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Postre lácteo natural +Proteínas 10 g 0% MG Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Especialidad láctea natural",
+    "mandatory_mentions": "- Punto verde - Pictogramas envases: amarillo- Sin gluten- Fuente de proteína- 0% de materia grasa",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Consérvese en frío a + 6C máximo.",
+    "suppliers": [
+      {
+        "name": "EURIAL ULTRA FRAIS S.A.S.U"
+      }
+    ],
+    "usage_instructions": "Una vez abierto, consumir en tres días"
+  },
+  "display_name": "Postre lácteo natural +Proteínas 10 g 0% MG",
+  "ean": "8480000212566",
+  "extra_info": [
+    ""
+  ],
+  "id": "21256",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "10 g 0% MG",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Leche</strong> desnatada pasteurizada, fermentos lácticos"
+  },
+  "origin": null,
+  "packaging": "Bote",
+  "photos": [
+    {
+      "perspective": 3,
+      "regular": "https://prod-mercadona.imgix.net/images/7ad06cb40258cdb86b0285f38fe26504.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7ad06cb40258cdb86b0285f38fe26504.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7ad06cb40258cdb86b0285f38fe26504.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/97f220f716538e52faf530221c0a2dea.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/97f220f716538e52faf530221c0a2dea.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/97f220f716538e52faf530221c0a2dea.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.80",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 4,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "2.800",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.40",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/21256/postre-lacteo-natural-proteinas-hacendado-0-mg-10-g-proteinas-bote",
+  "slug": "postre-lacteo-natural-proteinas-hacendado-0-mg-10-g-proteinas-bote",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/7ad06cb40258cdb86b0285f38fe26504.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

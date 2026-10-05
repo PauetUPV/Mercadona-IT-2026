@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Pi.omka",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 594,
+              "level": 2,
+              "name": "Licores sin alcohol",
+              "order": 15
+            }
+          ],
+          "id": 181,
+          "level": 1,
+          "name": "Licores",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Pi.omka",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Licor mora sin alcohol Pi.omka",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "MORA BEB.REFRESCANTE 0'7",
+    "mandatory_mentions": "Destinada a la población en general; salvo grupo de riesgo que séan alérgicos a sulfitos. \tEl colorante E-122 puede tener efectos negativos sobre la actividad y y la atención de los niños. FECHA DE CONSUMO PREFERENTE: Antes de los tres años de ser embotellado.",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "Alfonso Rivillas S.L."
+      }
+    ],
+    "usage_instructions": "Bebida refrescante para diluir una parte en dos de agua o refresco."
+  },
+  "display_name": "Licor mora sin alcohol Pi.omka",
+  "ean": "8480000136107",
+  "extra_info": [
+    null
+  ],
+  "id": "13610",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>dióxido de azufre y sulfitos</strong>.",
+    "ingredients": "<p>Agua,  jarabe de glucosa y fructosa, azúcar, zumo de frutas a partir de concentrado, conservantes  E-202 y E-211, acidulante E-330, aroma de mora y colorantes E-122 y E-133. Contiene Sulfitos."
+  },
+  "origin": "España",
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/9dff4dbfc4cbf7cd70c337e61a0e5957.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9dff4dbfc4cbf7cd70c337e61a0e5957.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9dff4dbfc4cbf7cd70c337e61a0e5957.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/88f1cecf3441f581d45f09637e82ed0b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/88f1cecf3441f581d45f09637e82ed0b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/88f1cecf3441f581d45f09637e82ed0b.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.29",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "4.286",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.00",
+    "unit_selector": true,
+    "unit_size": 0.7
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/13610/licor-mora-sin-alcohol-piomka-botella",
+  "slug": "licor-mora-sin-alcohol-piomka-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/9dff4dbfc4cbf7cd70c337e61a0e5957.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

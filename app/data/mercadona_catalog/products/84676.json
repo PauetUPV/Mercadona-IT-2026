@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 331,
+              "level": 2,
+              "name": "Bollería salada",
+              "order": 515
+            }
+          ],
+          "id": 65,
+          "level": 1,
+          "name": "Bollería de horno",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": "Ingredientes: Harina de trigo (gluten), pisto (39%) (tomate concentrado (tomate, acidulante: E330), atún (atún, aceite refinado de girasol y sal), pimiento rojo y verde cocido, pan rallado (harina de trigo (gluten), agua, sal y levadura), clara de huevo cocida, azúcar, sal), agua, aceite refinado de girasol, manteca de cerdo (grasa, antioxidante: E306), azúcar, sal y huevo líquido pasterizado.\n\nAlérgenos: trigo (gluten), atún, huevo.\n\nPuede contener trazas de: Altramuces, Soja, Leche y sus derivados (incluida lactosa), Mostaza, Frutos de cáscara y derivados, Moluscos, Sésamo, Crustáceos, Apio, Cacahuetes, Sulfitos.\n\nProducto preparado por Mercadona, S.A. (C/ Alfonso Roig Alfonso, s/n. Albalat dels Sorells 46135, Valencia).",
+    "danger_mentions": "",
+    "description": "6 Mini empanadillas de pisto",
+    "is_prepared_by_mercadona": true,
+    "legal_name": "Mini empanadilla de pisto",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en un lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Dupan,S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "6 Mini empanadillas de pisto",
+  "ean": "2105900846760",
+  "extra_info": [
+    null
+  ],
+  "id": "84676",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Puede contener <strong>dióxido de azufre y sulfitos</strong>. Contiene <strong>pescado y productos a base de pescado</strong>. Contiene <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "Harina de <strong>trigo</strong>, pisto (39%) (tomate concentrado (tomate, acidulante: E-330), <strong>atún</strong> (<strong>atún</strong>, aceite refinado de girasol y sal), pimiento rojo y verde cocido, pan rallado (harina de <strong>trigo</strong>, agua, sal y levadura), clara de <strong>huevo</strong> cocida, azúcar, sal), agua, aceite refinado de girasol, manteca de cerdo (grasa, antioxidante: E-306), azúcar, sal y <strong>huevo</strong> líquido pasteurizado. Puede contener trazas de <strong>soja,</strong> <strong>mostaza</strong> y <strong>sulfitos</strong>."
+  },
+  "origin": null,
+  "packaging": "Bolsa",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/1aa7ff31cb38922203c912fabfe7070c.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1aa7ff31cb38922203c912fabfe7070c.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1aa7ff31cb38922203c912fabfe7070c.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/5fe50743abab3e0adf9ddbf856bda8fd.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5fe50743abab3e0adf9ddbf856bda8fd.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5fe50743abab3e0adf9ddbf856bda8fd.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "8.84",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "8.839",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 6,
+    "unit_name": "ud.",
+    "unit_price": "1.75",
+    "unit_selector": true,
+    "unit_size": 0.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/84676/6-mini-empanadillas-pisto-bolsa",
+  "slug": "6-mini-empanadillas-pisto-bolsa",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/1aa7ff31cb38922203c912fabfe7070c.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

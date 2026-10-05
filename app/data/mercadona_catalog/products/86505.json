@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Tulipán",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 352,
+              "level": 2,
+              "name": "Margarina",
+              "order": 373
+            }
+          ],
+          "id": 75,
+          "level": 1,
+          "name": "Mantequilla y margarina",
+          "order": 373
+        }
+      ],
+      "id": 6,
+      "level": 0,
+      "name": "Huevos, leche y mantequilla",
+      "order": 373
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Tulipán",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Margarina Tulipán Original",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Materia grasa para untar 59%",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar refrigerado entre +2ºC y +8ºC",
+    "suppliers": [
+      {
+        "name": "Flora Food Spain S.L.U."
+      },
+      {
+        "name": "Upfield España, S.L.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Margarina Tulipán Original",
+  "ean": "8719200232044",
+  "extra_info": [
+    null
+  ],
+  "id": "86505",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "Original",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Aceites vegetales (nabina, girasol en proporciones variables), agua, grasa de coco, sal (0,9%), emulgente (lecitina de girasol, mono y diglicéridos de ácidos grasos), aroma natural, vitaminas A, D y E."
+  },
+  "origin": null,
+  "packaging": "Tarrina",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/24757983d05e73e32bd5cff6064bc489.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/24757983d05e73e32bd5cff6064bc489.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/24757983d05e73e32bd5cff6064bc489.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/a3cdcc898d54967c7357a72df744857e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a3cdcc898d54967c7357a72df744857e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a3cdcc898d54967c7357a72df744857e.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "7.25",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.250",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.90",
+    "unit_selector": true,
+    "unit_size": 0.4
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/86505/margarina-tulipan-original-tarrina",
+  "slug": "margarina-tulipan-original-tarrina",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/24757983d05e73e32bd5cff6064bc489.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

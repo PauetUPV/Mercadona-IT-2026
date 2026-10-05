@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 904,
+              "level": 2,
+              "name": "Otros Helados",
+              "order": 213
+            }
+          ],
+          "id": 154,
+          "level": 1,
+          "name": "Helados",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Helado Mochi mango Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Masa de arroz mochi sabor mango (42.5%) rellena de sorbete con mango",
+    "mandatory_mentions": "El contenido de sal obedece exclusivamente al sodio presente de forma natural en el alimento",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en congelación a temperaturas inferiores a -18ºC . Una vez descongelado no volver a congelar.",
+    "suppliers": [
+      {
+        "name": "HELADOS ESTIU, S.A."
+      }
+    ],
+    "usage_instructions": "Retirar los mochis del congelador entre 2-3 minutos antes de consumir"
+  },
+  "display_name": "Helado Mochi mango Hacendado",
+  "ean": "8480000644923",
+  "extra_info": [
+    ""
+  ],
+  "id": "64492",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>frutos de cáscara</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "Agua, azúcar, puré de mango (14%), harina de arroz, fécula de patata, almidón de tapioca, jarabe de glucosa y fructosa, trehalosa(*), aceite refinado de girasol, (emulgente (monoglicéridos y diglicéridos de ácidos grasos), estabilizantes (goma tara, goma garrofín, metilcelulosa, carragenanos, pectina) <strong>trazas de leche</strong>), acidulante: ácido cítrico, colorante: E 160b (ii) y aroma <strong>(trazas de sulfitos). Contiene trazas de gluten</strong>, <strong>huevo</strong>, <strong>soja</strong>, <strong>leche</strong> y <strong>frutos de cáscara</strong>. (*) La trehalosa es una fuete de glucosa."
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/c79c7ea8e5337a4922d484a5c9128b36.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c79c7ea8e5337a4922d484a5c9128b36.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c79c7ea8e5337a4922d484a5c9128b36.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/7e91ca4b3aebaa6bdbafe4564dc67d95.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7e91ca4b3aebaa6bdbafe4564dc67d95.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7e91ca4b3aebaa6bdbafe4564dc67d95.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "13.43",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.037,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "13.426",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": 6,
+    "unit_name": "ud.",
+    "unit_price": "2.90",
+    "unit_selector": true,
+    "unit_size": 0.216
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/64492/helado-mochi-mango-hacendado-caja",
+  "slug": "helado-mochi-mango-hacendado-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/c79c7ea8e5337a4922d484a5c9128b36.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

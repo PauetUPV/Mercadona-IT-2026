@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 862,
+              "level": 2,
+              "name": "Base de pizza",
+              "order": 597
+            }
+          ],
+          "id": 138,
+          "level": 1,
+          "name": "Pizzas",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Masa fresca pizza de cereales y semillas Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Masa Fresca Pizza de cereales",
+    "mandatory_mentions": "ENVASADO EN ATMÓSFERA PROTECTORA / 2 MASAS REDONDAS / Elaborada con masa madre de trigo y centeno/ACEITE de OLIVA / MASA CRUDA. CONSUMIR DESPUÉS DE HORNEAR / CON: ESPELTA, QUINOA ROJA, AMAPOLA, SALVADO, CHÍA / CORTAR CON TIJERAS / Teléfono de atención al cliente Mercadona: 800 500 220 /PUNTO VERDE (logo) / RECICLA (logo amarillo y azul) / Sugerencia de presentación / ABRIR AQUÍ /Evitar que el papel toque las paredes del horno. La temperatura del horno no debe ser superior a 220ºC.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Puede congelarse justo después de su compra / Manténgase entre 0C y 5C / Consumir preferentemente antes del/lote:",
+    "suppliers": [
+      {
+        "name": "CASA TARRADELLAS, S.A."
+      }
+    ],
+    "usage_instructions": "1 - Precalentar el horno a 220C. (programa calor inferior, sin ventilación). Mantener la masa en el frigorífico hasta el momento de su uso. 2 - Desenrollar la masa y colocarla con el papel de cocción sobre la rejilla del horno fría. 3 - Cubrir la masa con una ligera capa de salsa de tomate sin llegar hasta los bordes. 4 - Repartir encima los ingredientes escogidos. 5 - Colocar la rejilla con la pizza a media altura y cocer la pizza unos 15 minutos. 6 - Los últimos 2-3 minutos cambiar la función del horno a calor superior e inferior para acabar de dorar los ingredientes."
+  },
+  "display_name": "Masa fresca pizza de cereales y semillas Hacendado",
+  "ean": "8480000634771",
+  "extra_info": [
+    ""
+  ],
+  "id": "63477",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>centeno y productos derivados</strong>. Contiene <strong>gs</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Puede contener <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Harinas (<strong>trigo</strong>, <strong>espelta</strong> (1%), trigo sarraceno), agua, semillas (quinoa roja (2%), amapola (1%) y chía (Salvia hispanica)(1%)), aceite de oliva (3%),  salvado de <strong>trigo</strong> (1,4%), masa madre de <strong>trigo</strong> i <strong>centeno</strong>(1.4%), sal, alcohol y levadura. Puede contener trazas de derivados <strong>lácteos</strong>, <strong>sésamo</strong>, <strong>soja</strong> y <strong>mostaza</strong>."
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/4c97c304c9e819c42ce492ccb690fd11.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4c97c304c9e819c42ce492ccb690fd11.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4c97c304c9e819c42ce492ccb690fd11.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/1f773cfb632a8f5a55852c95f859c15c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1f773cfb632a8f5a55852c95f859c15c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1f773cfb632a8f5a55852c95f859c15c.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.81",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.26,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "4.808",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 2,
+    "unit_name": "ud.",
+    "unit_price": "2.50",
+    "unit_selector": true,
+    "unit_size": 0.52
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/63477/masa-fresca-pizza-cereales-semillas-hacendado-pack-2",
+  "slug": "masa-fresca-pizza-cereales-semillas-hacendado-pack-2",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/4c97c304c9e819c42ce492ccb690fd11.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

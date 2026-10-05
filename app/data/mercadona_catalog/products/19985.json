@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "+Proteínas",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 413,
+              "level": 2,
+              "name": "Yogures líquidos",
+              "order": 598
+            }
+          ],
+          "id": 108,
+          "level": 1,
+          "name": "Yogures líquidos",
+          "order": 598
+        }
+      ],
+      "id": 11,
+      "level": 0,
+      "name": "Postres y yogures",
+      "order": 598
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "+Proteínas",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Bebida láctea sabor stracciatella +Proteínas 20 g 0% azúcares añadidos Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Leche fermentada desnatada para beber con trozos de cacao",
+    "mandatory_mentions": "Con edulcorante. No apto para alérgicos a la proteína de la leche de vaca. Sin refrigerar hasta 4 h. Contenido en lactosa: <0.01g/100g.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 1 ºC y 8 ºC.",
+    "suppliers": [
+      {
+        "name": "Schreiber Foods Portugal S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Bebida láctea sabor stracciatella +Proteínas 20 g 0% azúcares añadidos",
+  "ean": "8402001043819",
+  "extra_info": [
+    ""
+  ],
+  "id": "19985",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "20 g 0% azúcares añadidos",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Leche</strong> fresca pasteurizada desnatada, proteínas de la <strong>leche</strong>, <strong>leche</strong> en polvo desnatada, trozos de cacao (0,4%) (manteca de cacao, cacao en polvo y cacao magro en polvo), almidón, espesantes (pectina y goma gellan), aroma, lactasa, fermentos <strong>lácticos</strong>, edulcorante (sucralosa) y conservador (sorbato potásico). *Contiene azúcares naturalmente presentes. Contiene <strong>leche</strong> de vaca. Sin gluten. Sin lactosa."
+  },
+  "origin": null,
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/aa9ec0683993f3b23a2fb05ecf487994.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/aa9ec0683993f3b23a2fb05ecf487994.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/aa9ec0683993f3b23a2fb05ecf487994.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/502bf61c26ba962bd57c5c2114de136e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/502bf61c26ba962bd57c5c2114de136e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/502bf61c26ba962bd57c5c2114de136e.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.11",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "4.108",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.15",
+    "unit_selector": true,
+    "unit_size": 0.28
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/19985/bebida-lactea-desnatada-sabor-stracciatella-proteinas-hacendado-0-azucares-anadidos-20-g-proteinas-botella",
+  "slug": "bebida-lactea-desnatada-sabor-stracciatella-proteinas-hacendado-0-azucares-anadidos-20-g-proteinas-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/aa9ec0683993f3b23a2fb05ecf487994.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

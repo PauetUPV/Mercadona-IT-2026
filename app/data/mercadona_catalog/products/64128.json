@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 869,
+              "level": 2,
+              "name": "Granizados y helados de hielo",
+              "order": 213
+            }
+          ],
+          "id": 154,
+          "level": 1,
+          "name": "Helados",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Granizado de café Hacendado",
+    "legal_name": "Granizado de café",
+    "mandatory_mentions": "SIN GLUTEN",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en congelación a temperaturas inferiores a -18C.Una vez descongelado no volver a congelar.",
+    "suppliers": [
+      {
+        "name": "EUROGRANIZADOS, S.L"
+      }
+    ],
+    "usage_instructions": "Descongelar en microndas entre 30-40 segundos a máxima potencia:850W o 1hora a temperatura ambiente según climatología. Agitar y destapar"
+  },
+  "display_name": "Granizado de café Hacendado",
+  "ean": "8480000641281",
+  "extra_info": [
+    ""
+  ],
+  "id": "64128",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>GRANIZADO DE CAFÉ. Ingredientes:agua, café (37%) (café molido de tueste natural (8%)), azúcar, café soluble (0,9%), caramelo y colorante (E-150d)."
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/cb77eda62d183d48cff5132168bc930e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/cb77eda62d183d48cff5132168bc930e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/cb77eda62d183d48cff5132168bc930e.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/ebe01f20d29008ce4772026a0f26ed40.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ebe01f20d29008ce4772026a0f26ed40.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ebe01f20d29008ce4772026a0f26ed40.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.63",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.2,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "2.625",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": 6,
+    "unit_name": "ud.",
+    "unit_price": "3.15",
+    "unit_selector": true,
+    "unit_size": 1.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/64128/granizado-cafe-hacendado-pack-6",
+  "slug": "granizado-cafe-hacendado-pack-6",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/cb77eda62d183d48cff5132168bc930e.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

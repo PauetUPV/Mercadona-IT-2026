@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 309,
+              "level": 2,
+              "name": "Queso curado",
+              "order": 159
+            }
+          ],
+          "id": 54,
+          "level": 1,
+          "name": "Queso curado, semicurado y tierno",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Queso añejo de oveja al romero Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Queso de Oveja Añejo con Romero en corteza",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "Queso de Oveja Añejo con Romero en corteza",
+    "storage_instructions": "Conservar en refrigeración",
+    "suppliers": [
+      {
+        "name": "Distribuciones Juan Luna S.L.U."
+      }
+    ],
+    "usage_instructions": "Abrir 10 minutos antes de consumir"
+  },
+  "display_name": "Queso añejo de oveja al romero Hacendado",
+  "ean": "8480000509598",
+  "extra_info": [
+    null
+  ],
+  "id": "50959",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "<strong>Leche</strong> cruda de oveja, sal, cuajo animal, conservador: lisozima E-1105 (contiene <strong>huevo</strong>) y fermentos <strong>lácticos</strong>. Corteza no comestible: conservador E202 y romero picado. Conservar en refrigeración. Abrir el envase 15 minutos antes de consumir. Origen de la leche: España, el cuajo también proviene de corderos españoles."
+  },
+  "origin": null,
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/823418b426f436db98d2da0428e973b0.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/823418b426f436db98d2da0428e973b0.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/823418b426f436db98d2da0428e973b0.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/e94ab50ee646c3331a3fd9ee7c56218f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e94ab50ee646c3331a3fd9ee7c56218f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e94ab50ee646c3331a3fd9ee7c56218f.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "19.20",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 4,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "19.200",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "5.18",
+    "unit_selector": true,
+    "unit_size": 0.27
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/50959/queso-anejo-oveja-romero-hacendado-pieza",
+  "slug": "queso-anejo-oveja-romero-hacendado-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/823418b426f436db98d2da0428e973b0.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

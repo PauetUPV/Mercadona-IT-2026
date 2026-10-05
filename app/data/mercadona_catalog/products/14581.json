@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 821,
+              "level": 2,
+              "name": "Galletas desayuno",
+              "order": 18
+            }
+          ],
+          "id": 80,
+          "level": 1,
+          "name": "Galletas",
+          "order": 18
+        }
+      ],
+      "id": 7,
+      "level": 0,
+      "name": "Cereales y galletas",
+      "order": 18
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Galletas de mantequilla Hacendado Belgas",
+    "legal_name": "Galleta de mantequilla",
+    "mandatory_mentions": "Envasado en atmósfera protectora.",
+    "origin": "Bélgica",
+    "production_variant": "",
+    "storage_instructions": "Conservar en un lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Destrooper-Olivier N.V."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Galletas de mantequilla Hacendado Belgas",
+  "ean": "8480000145819",
+  "extra_info": [
+    ""
+  ],
+  "id": "14581",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>cereales que contengan gluten</strong>. Puede contener <strong>frutos de cáscara</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "Harina de <strong>trigo</strong>, azúcar, mantequilla 18% (<strong>leche</strong>), <strong>huevo</strong> entero, almidón de <strong>trigo</strong>, sal, gasificante: carbonatos de amonio, Puede contener trazas de <strong>frutos de cáscara</strong>."
+  },
+  "origin": "Bélgica",
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/54465354f40024cfb25d5af62dbe7132.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/54465354f40024cfb25d5af62dbe7132.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/54465354f40024cfb25d5af62dbe7132.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/81dafa1d3b6596e2c5d350db43b339db.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/81dafa1d3b6596e2c5d350db43b339db.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/81dafa1d3b6596e2c5d350db43b339db.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "9.17",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "9.167",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 6,
+    "unit_name": "paquetes",
+    "unit_price": "1.65",
+    "unit_selector": true,
+    "unit_size": 0.18
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/14581/galletas-mantequilla-hacendado-belgas-caja",
+  "slug": "galletas-mantequilla-hacendado-belgas-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/54465354f40024cfb25d5af62dbe7132.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

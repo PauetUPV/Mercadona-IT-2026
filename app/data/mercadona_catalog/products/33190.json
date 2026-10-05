@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 489,
+              "level": 2,
+              "name": "Pepinillos y otros encurtidos",
+              "order": 9
+            }
+          ],
+          "id": 135,
+          "level": 1,
+          "name": "Aceitunas y encurtidos",
+          "order": 9
+        }
+      ],
+      "id": 15,
+      "level": 0,
+      "name": "Aperitivos",
+      "order": 9
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Alcaparras Hacendado",
+    "legal_name": "Alcaparras",
+    "mandatory_mentions": "",
+    "origin": "Marruecos",
+    "production_variant": "",
+    "storage_instructions": "Almacenar en lugar fresco y seco (8-25ºC de temperatura y 50-75% de humedad relativa). No exponer directamente a la luz solar. Las altas temperaturas (>45ºC) o la humedad excesiva (<80%) pueden acortar significativamente la vida del producto. Una vez abierto se recomienda conservar en frío (T<12ºC), manteniendo el producto cubierto de líquido.",
+    "suppliers": [
+      {
+        "name": "Agrucapers S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Alcaparras Hacendado",
+  "ean": "8480000331908",
+  "extra_info": [
+    ""
+  ],
+  "id": "33190",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Alcaparra, agua, <strong>vinagre</strong> y sal."
+  },
+  "origin": "Marruecos",
+  "packaging": "Tarro",
+  "photos": [
+    {
+      "perspective": 3,
+      "regular": "https://prod-mercadona.imgix.net/images/a01fa3585c32b713ea490fe9c4463f61.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a01fa3585c32b713ea490fe9c4463f61.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a01fa3585c32b713ea490fe9c4463f61.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/c40e6197a8cf799fa44be904271d42e3.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c40e6197a8cf799fa44be904271d42e3.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c40e6197a8cf799fa44be904271d42e3.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "10.00",
+    "bunch_selector": false,
+    "drained_weight": 0.08,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "16.875",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.35",
+    "unit_selector": true,
+    "unit_size": 0.135
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/33190/alcaparras-hacendado-vinagre-tarro",
+  "slug": "alcaparras-hacendado-vinagre-tarro",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/a01fa3585c32b713ea490fe9c4463f61.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,158 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Deliplus",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 677,
+              "level": 2,
+              "name": "Pintalabios mate",
+              "order": 422
+            }
+          ],
+          "id": 208,
+          "level": 1,
+          "name": "Labios",
+          "order": 422
+        }
+      ],
+      "id": 22,
+      "level": 0,
+      "name": "Maquillaje",
+      "order": 422
+    }
+  ],
+  "color_variants": [
+    {
+      "color": "#bf6c86",
+      "color_description": "102 caramelo",
+      "merca_code": "23541",
+      "status": null
+    },
+    {
+      "color": "#a75059",
+      "color_description": "107 caldera",
+      "merca_code": "60929",
+      "status": null
+    },
+    {
+      "color": "#974f56",
+      "color_description": "111 marrón",
+      "merca_code": "60933",
+      "status": null
+    },
+    {
+      "color": "#d27e98",
+      "color_description": "114 rosa medio",
+      "merca_code": "8303",
+      "status": null
+    },
+    {
+      "color": "#de3c59",
+      "color_description": "116 rojo intenso",
+      "merca_code": "8301",
+      "status": null
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Deliplus",
+    "counter_info": null,
+    "danger_mentions": null,
+    "description": "Pintalabios Mate Deliplus 114 rosa medio",
+    "is_prepared_by_mercadona": false,
+    "legal_name": null,
+    "mandatory_mentions": null,
+    "origin": null,
+    "production_variant": null,
+    "storage_instructions": null,
+    "suppliers": [],
+    "usage_instructions": null
+  },
+  "display_name": "Pintalabios Mate Deliplus 114 rosa medio",
+  "ean": "8402001020131",
+  "extra_info": [
+    ""
+  ],
+  "id": "8303",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "114 rosa medio",
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": null
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 10,
+      "regular": "https://prod-mercadona.imgix.net/images/1ed129fe16cc0c844f19a76fe371400a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1ed129fe16cc0c844f19a76fe371400a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1ed129fe16cc0c844f19a76fe371400a.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 10,
+      "regular": "https://prod-mercadona.imgix.net/images/ef0f85329fcbc09acda9aa87622f4db9.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ef0f85329fcbc09acda9aa87622f4db9.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ef0f85329fcbc09acda9aa87622f4db9.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/a61ae9129f14208a99cc306d709fa876.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a61ae9129f14208a99cc306d709fa876.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a61ae9129f14208a99cc306d709fa876.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/52c2de58f1d348a38bcc12bd63aae5d8.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/52c2de58f1d348a38bcc12bd63aae5d8.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/52c2de58f1d348a38bcc12bd63aae5d8.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 4,
+      "regular": "https://prod-mercadona.imgix.net/images/818db8528a58d876d7a16265112fb14a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/818db8528a58d876d7a16265112fb14a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/818db8528a58d876d7a16265112fb14a.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "4.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "21.000",
+    "total_units": 1,
+    "unit_name": "ud.",
+    "unit_price": "4.50",
+    "unit_selector": true,
+    "unit_size": 0.004
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/8303/pintalabios-mate-deliplus-114-rosa-medio",
+  "slug": "pintalabios-mate-deliplus-114-rosa-medio",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/1ed129fe16cc0c844f19a76fe371400a.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

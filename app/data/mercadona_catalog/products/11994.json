@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 496,
+              "level": 2,
+              "name": "Pasta",
+              "order": 597
+            }
+          ],
+          "id": 140,
+          "level": 1,
+          "name": "Platos preparados calientes",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Lasaña de pollo Hacendado",
+    "legal_name": "Lasaña de pollo",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 0º- 4º C Una vez abierto se recomienda su consumo inmediato.",
+    "suppliers": [
+      {
+        "name": "Platos Tradicionales S.A."
+      }
+    ],
+    "usage_instructions": "Microondas: Retirar el fajín y el film de la barqueta, meterla en el microondas y calentarla durante 3/4 minutos a máxima potencia. No utilizar Grill."
+  },
+  "display_name": "Lasaña de pollo Hacendado",
+  "ean": "8402001030963",
+  "extra_info": [
+    ""
+  ],
+  "id": "11994",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>mostaza y productos derivados</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>cereales que contengan gluten</strong>. Contiene <strong>trigo y productos derivados</strong>.",
+    "ingredients": "Relleno de pollo (50%): agua, carne de pollo cocida (carne de pollo [25%*], sal, estabilizantes [trifosfato sódico y carragenanos], jarabe de glucosa, conservadores [diacetato sódico, ácido láctico y nitrito sódico], azúcar caramelizado, aroma y antioxidante [eritorbato sódico]), <strong>nata</strong> (<strong>leche**</strong>), <strong>queso</strong> fundido (<strong>queso</strong> [<strong>leche</strong>**], agua, <strong>nata</strong> [<strong>leche</strong>**], almidón modificado, <strong>lactosuero</strong> [<strong>leche**</strong>], sales fundentes [citratos de sodio, polifosfatos, fosfatos de potasio], acidulante [ácido cítrico], conservante [sorbato potásico] y sal), cebolla frita (cebolla [5%*] y aceite refinado de girasol), almidón modificado, aroma natural, pasta de ajo (ajo [0,6%*], sal y corrector de acidez [ácido cítrico]), <strong>mostaza</strong> (agua, <strong>mostaza</strong>, vinagre y sal), azúcar, fondo de verduras (cebolla, zanahoria, azúcar, extracto de levadura, sal, aceite refinado de girasol, almidón modificado, maltodextrina y especias), aceite refinado de girasol, extracto de levadura y pimienta negra; bechamel: agua, <strong>leche</strong>**, harina de <strong>trigo</strong> (<strong>gluten</strong>), <strong>mantequilla**</strong> (<strong>leche</strong>), sal y especias; pasta: sémola de <strong>trigo</strong> (<strong>gluten</strong>), <strong>huevo</strong> y agua; mezcla de <strong>quesos</strong> (<strong>leche</strong>**) (mozzarella, cheddar y emmental). Contiene trazas de <strong>soja</strong>.*respecto al relleno de pollo. **procedente de <strong>leche</strong> y <strong>nata</strong> pasteurizada. Envasado en atmósfera protectora. Producto gratinado (no pasteurizado)."
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/ba16a63c0a0e42553d851d3c9aa74340.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ba16a63c0a0e42553d851d3c9aa74340.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ba16a63c0a0e42553d851d3c9aa74340.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/fcfb28cb062aec419b150f7940904bb1.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/fcfb28cb062aec419b150f7940904bb1.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/fcfb28cb062aec419b150f7940904bb1.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "7.86",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.858",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.75",
+    "unit_selector": true,
+    "unit_size": 0.35
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/11994/lasana-pollo-hacendado-bandeja",
+  "slug": "lasana-pollo-hacendado-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/ba16a63c0a0e42553d851d3c9aa74340.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

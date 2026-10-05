@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 498,
+              "level": 2,
+              "name": "Otros",
+              "order": 597
+            }
+          ],
+          "id": 140,
+          "level": 1,
+          "name": "Platos preparados calientes",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Mini burgers vegetales Hacendado con espinacas y zanahoria",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "PREPARADO VEGETAL CON ESPINACAS Y ZANAHORIAS, PRECOCIDO",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en frigorífico entra 0C y 4ºC. Producto envasado en atmósfera protectora. Una vez abierto conservar en frigorífico y consumir en 24 horas.",
+    "suppliers": [
+      {
+        "name": "KIOENE"
+      },
+      {
+        "name": "Kioene spa"
+      }
+    ],
+    "usage_instructions": "Cocinar antes de consumir.En el horno: retirar el producto de su envase y cocinar a 180C en horno precalentado durante 6 minutos.En la sartén: retirar el producto de su envase cocinar a fuego medio con un chorrito de aceite durante 6 minutos, dando la vuelta a media cocción."
+  },
+  "display_name": "Mini burgers vegetales Hacendado con espinacas y zanahoria",
+  "ean": "8480000865113",
+  "extra_info": [
+    ""
+  ],
+  "id": "86511",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "con espinacas y zanahoria",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>apio y productos derivados</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "<strong>Ingredientes: </strong>espinacas 25%, zanahorias 24%, harina de <strong>soja </strong>reestructurada y rehidratada, aceite de semillas girasol, gluten de <strong>trigo</strong>, almidones, pan rallado (harina de <strong>trigo</strong>, levadura de cerveza, sal), copos de patata, harina de arroz, proteínas aisladas de <strong>soja</strong>, aceite de oliva virgen extra 2%, cebolla, fibra de guisantes, sal, conservador: sorbato potásico, ajo deshidratado, pimienta negra.Puede contener <strong>apio </strong>y <strong>mostaza</strong>."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/98d968f4e6aedaace76350570ae102d4.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/98d968f4e6aedaace76350570ae102d4.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/98d968f4e6aedaace76350570ae102d4.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/a55848db8e529686ce3b9e3e21b92a6b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a55848db8e529686ce3b9e3e21b92a6b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a55848db8e529686ce3b9e3e21b92a6b.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "10.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": "        2.40",
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "10.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 4,
+    "unit_name": "ud.",
+    "unit_price": "2.00",
+    "unit_selector": true,
+    "unit_size": 0.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/86511/mini-hamburguesas-vegetales-hacendado-con-espinacas-zanahoria-paquete",
+  "slug": "mini-hamburguesas-vegetales-hacendado-con-espinacas-zanahoria-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/98d968f4e6aedaace76350570ae102d4.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

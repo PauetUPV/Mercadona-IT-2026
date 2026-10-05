@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 304,
+              "level": 2,
+              "name": "Salchichas",
+              "order": 159
+            }
+          ],
+          "id": 52,
+          "level": 1,
+          "name": "Bacón y salchichas",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Salchichas cocidas bocata Hacendado de pollo y cerdo sabor ahumado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Salchichas cocidas de pollo y cerdo sabor ahumado.",
+    "mandatory_mentions": "Sin gluten. Salchichas Sin fécula.",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar refrigerado entre 0C y 5C. Una vez abiertos los paquetes, conservarlos refrigerados y consumirlos antes de 7 días.",
+    "suppliers": [
+      {
+        "name": "INCARLOPSA"
+      },
+      {
+        "name": "MERCADONA"
+      }
+    ],
+    "usage_instructions": "Prepararlas escaldadas: Cuando el agua comience a hervir, retirar el recipiente del fuego e introducir las salchichas durante 5 min."
+  },
+  "display_name": "Salchichas cocidas bocata Hacendado",
+  "ean": "8480000530325",
+  "extra_info": [
+    ""
+  ],
+  "id": "53032",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Carne separada mecánicamente de pollo, carne de cerdo, agua, grasa de cerdo, sal, plasma de cerdo, aroma de humo, dextrosa, proteína vegetal hidrolizada, estabilizador (E-450), fibra vegetal, antioxidante (E-315), especias, extractos de especias y conservador (E-250)."
+  },
+  "origin": "España",
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/0fdc40790f535e0954886c8850e42111.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0fdc40790f535e0954886c8850e42111.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0fdc40790f535e0954886c8850e42111.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/07c66c83a432dbdad28dc233f70f157a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/07c66c83a432dbdad28dc233f70f157a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/07c66c83a432dbdad28dc233f70f157a.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.75",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.2,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "4.750",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 2,
+    "unit_name": "paquetes",
+    "unit_price": "1.90",
+    "unit_selector": true,
+    "unit_size": 0.4
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/53032/salchichas-cocidas-bocata-hacendado-pollo-cerdo-sabor-ahumado-paquete",
+  "slug": "salchichas-cocidas-bocata-hacendado-pollo-cerdo-sabor-ahumado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/0fdc40790f535e0954886c8850e42111.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

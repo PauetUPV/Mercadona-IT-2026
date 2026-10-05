@@ -1,0 +1,119 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 318,
+              "level": 2,
+              "name": "Pan de molde",
+              "order": 515
+            }
+          ],
+          "id": 60,
+          "level": 1,
+          "name": "Pan de molde y otras especialidades",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pan de molde blanco rebanada gruesa Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "REBANADA GRUESA. PAN DE MOLDE",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Horno de Paterna 2020, S.A.U"
+      },
+      {
+        "name": "SIRO AGUILAR, S.L.U."
+      },
+      {
+        "name": "SIRO PATERNA, SA. La familia"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Pan de molde blanco rebanada gruesa Hacendado",
+  "ean": "8480000823267",
+  "extra_info": [
+    null
+  ],
+  "id": "82326",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>trigo y productos derivados</strong>.",
+    "ingredients": "Harina de <strong>trigo</strong> (gluten), agua, levadura, azúcar, aceite de g<strong>irasol</strong> (1%<strong>), sa</strong>l, vinagre de vino, harina de habas, gluten de trigo, fibra de trigo (gluten), emulgen<strong>tes (</strong>E-472e, E-471), conservadores (E-282, E-202, E-200). Puede contener trazas de semillas de s<strong>ésamo y soja.</strong>"
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/36c7da80953cdce669a40896b9b4acaf.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/36c7da80953cdce669a40896b9b4acaf.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/36c7da80953cdce669a40896b9b4acaf.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/0c1e619649ff24e3a395f44e5fb06a63.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0c1e619649ff24e3a395f44e5fb06a63.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0c1e619649ff24e3a395f44e5fb06a63.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.07",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "2.074",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 16,
+    "unit_name": "rebanadas",
+    "unit_price": "1.70",
+    "unit_selector": true,
+    "unit_size": 0.82
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/82326/pan-molde-blanco-rebanada-gruesa-hacendado-paquete",
+  "slug": "pan-molde-blanco-rebanada-gruesa-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/36c7da80953cdce669a40896b9b4acaf.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

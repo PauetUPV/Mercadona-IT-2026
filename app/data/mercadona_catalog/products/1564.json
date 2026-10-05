@@ -1,0 +1,125 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 280,
+              "level": 2,
+              "name": "Cerdo",
+              "order": 17
+            }
+          ],
+          "id": 37,
+          "level": 1,
+          "name": "Cerdo",
+          "order": 17
+        },
+        {
+          "categories": [
+            {
+              "id": 288,
+              "level": 2,
+              "name": "Empanados y elaborados",
+              "order": 17
+            }
+          ],
+          "id": 45,
+          "level": 1,
+          "name": "Empanados y elaborados",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Costilla de cerdo ibérico adobada",
+    "legal_name": "COSTILLA ADOBADA DE CERDO IBÉRICO",
+    "mandatory_mentions": "sin gluten - Certificado por Calicer nº PI/0517/12",
+    "origin": "España",
+    "production_variant": "Producto de peso variable: el contenido neto podrá oscilar entre 550 y 780 GR",
+    "storage_instructions": "Una vez abierto conservar en el frigorífico y consumir antes de 48 horas. Conservese refrigerado entre 0ºC y 4ºC.",
+    "suppliers": [
+      {
+        "name": "INCARLOPSA"
+      }
+    ],
+    "usage_instructions": "Cocinar completamente antes de su consumo"
+  },
+  "display_name": "Costilla de cerdo ibérico adobada",
+  "ean": "2105100015645",
+  "extra_info": [
+    null
+  ],
+  "id": "1564",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Costilla de Cerdo Ibérico,  sal, especias, antioxidantes (E-301, E-325), dextrosa, conservador (E-250)."
+  },
+  "origin": "España",
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/af452ee749d0981858f5bfd393dccf15.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/af452ee749d0981858f5bfd393dccf15.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/af452ee749d0981858f5bfd393dccf15.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/c2ad0410c0bbfd35f91e91fe25179a08.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c2ad0410c0bbfd35f91e91fe25179a08.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c2ad0410c0bbfd35f91e91fe25179a08.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "7.55",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.550",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.78",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/1564/costilla-cerdo-iberico-adobada-bandeja",
+  "slug": "costilla-cerdo-iberico-adobada-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/af452ee749d0981858f5bfd393dccf15.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

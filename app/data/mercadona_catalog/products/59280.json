@@ -1,0 +1,106 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Jamcal",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 298,
+              "level": 2,
+              "name": "Jamón serrano",
+              "order": 159
+            }
+          ],
+          "id": 50,
+          "level": 1,
+          "name": "Jamón serrano",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Jamcal",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Jamón serrano Jamcal medias lonchas",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Jamon Serrano",
+    "mandatory_mentions": "",
+    "origin": "Jamón Serrano",
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 0º y 5ºC",
+    "suppliers": [
+      {
+        "name": "Comercial Logística de Calamocha, S.L."
+      }
+    ],
+    "usage_instructions": "No es necesario realizar ningún tipo de tratamiento al  producto antes  de su consumo, aunque dependiendo de los gustos del consumidor, el jamón podrá ser sometido a algún tipo de tratamiento térmico (cocción, fritura, plancha, etc)."
+  },
+  "display_name": "Jamón serrano Jamcal medias lonchas",
+  "ean": "8435324003727",
+  "extra_info": [
+    ""
+  ],
+  "id": "59280",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Jamón de cerdo, sal,azucar, conservadores (E-252, E-250) y antioxidantes (E-301),"
+  },
+  "origin": "Jamón Serrano",
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/cc030e4d7c42d8a7279a5498854ba6b1.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/cc030e4d7c42d8a7279a5498854ba6b1.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/cc030e4d7c42d8a7279a5498854ba6b1.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "17.08",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.12,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "17.084",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 2,
+    "unit_name": "paquetes",
+    "unit_price": "4.10",
+    "unit_selector": true,
+    "unit_size": 0.24
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/59280/jamon-serrano-jamcal-medias-lonchas-pack-2",
+  "slug": "jamon-serrano-jamcal-medias-lonchas-pack-2",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/cc030e4d7c42d8a7279a5498854ba6b1.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

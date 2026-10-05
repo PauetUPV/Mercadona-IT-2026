@@ -1,0 +1,106 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 330,
+              "level": 2,
+              "name": "Bollería dulce",
+              "order": 515
+            }
+          ],
+          "id": 65,
+          "level": 1,
+          "name": "Bollería de horno",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": "Ingredientes: Harina de trigo, azúcar, agua, leche, margarina vegetal (aceites y grasas vegetales (palma, girasol, coco, colza), agua, concentrado de jugo de limón), yema de huevo, clara de huevo, leche en polvo, almidón de maíz, sal, espesante (E415).\n\nAlérgenos: trigo, leche, huevo.\n\nPuede contener trazas de: Altramuces, Soja, Mostaza, Frutos de cáscara y derivados, Moluscos, Sésamo, Pescado, Crustáceos, Apio, Sulfitos, Cacahuetes.\n\nProducto preparado por Mercadona, S.A. (C/ Alfonso Roig Alfonso, s/n. Albalat dels Sorells 46135, Valencia).",
+    "danger_mentions": "",
+    "description": "Pastel de crema 65%",
+    "is_prepared_by_mercadona": true,
+    "legal_name": "Pastel de Nata 58g",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Mantener el producto a -18 ºC. CONSERVACIÓN: Consumir 1 días desde la fecha de compra",
+    "suppliers": [
+      {
+        "name": "PANPOR - PRODUTOS ALIMENTARES, S.A."
+      }
+    ],
+    "usage_instructions": "Produto congelado: Aquecer a 180°C durante aproximadamente 16 minutos."
+  },
+  "display_name": "Pastel de crema 65%",
+  "ean": "2105900836648",
+  "extra_info": [
+    null
+  ],
+  "id": "83664",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Puede contener <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Puede contener <strong>frutos de cáscara</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>x99</strong>.",
+    "ingredients": "<p>Harina de TRIGO, azúcar, agua, LECHE, margarina vegetal (aceites y grasas vegetales (palma, girasol, colza), agua, limon), yema de HUEVO, clara de HUEVO, LECHE en polvo, almidón de maíz, sal, espesante (E415). Puede contener TRAZAS DE FRUTOS DE CÁSCARA, SÉSAMO y SOJA."
+  },
+  "origin": null,
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/736dc66fe73ff429bef9e9b8c59d3b89.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/736dc66fe73ff429bef9e9b8c59d3b89.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/736dc66fe73ff429bef9e9b8c59d3b89.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "10.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "10.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.55",
+    "unit_selector": true,
+    "unit_size": 0.055
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/83664/pastel-crema-65-pieza",
+  "slug": "pastel-crema-65-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/736dc66fe73ff429bef9e9b8c59d3b89.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

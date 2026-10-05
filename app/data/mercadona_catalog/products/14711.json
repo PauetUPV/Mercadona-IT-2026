@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 822,
+              "level": 2,
+              "name": "Galletas surtidas",
+              "order": 18
+            }
+          ],
+          "id": 80,
+          "level": 1,
+          "name": "Galletas",
+          "order": 18
+        }
+      ],
+      "id": 7,
+      "level": 0,
+      "name": "Cereales y galletas",
+      "order": 18
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Surtido de galletas y barquillos Hacendado",
+    "legal_name": "Surtido de bolachas e wafers",
+    "mandatory_mentions": "",
+    "origin": "Alemania",
+    "production_variant": "Variante",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "Verdener Keks- und Waffelfabrik · Hans Freitag GmbH & Co. KG"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Surtido de galletas y barquillos Hacendado",
+  "ean": "4002652000670",
+  "extra_info": [
+    null
+  ],
+  "id": "14711",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>cacahuetes y productos a base de cacahuetes</strong>. Puede contener <strong>frutos de cáscara</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>gb</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>ml</strong>. Contiene <strong>trigo y productos derivados</strong>.",
+    "ingredients": "Ingredientes: harina de TRIGO, grasas vegetales (palma y coco en proporción variable), azúcar, dextrosa, LACTOSA, jarabe de glucosa, almidón de TRIGO, pasta de cacao, manteca de cacao, sal, cacao en polvo, fresas, cerezas, aroma natural, frambuesas, manzanas, emulgente: lecitina de SOJA; extracto de malta de CEBADA, proteinas de la LECHE, HUEVO entero en polvo, gasificantes: bicarbonato de amonio y carbonato ácido de sodio; acidulante: ácido cítrico; gelificante: pectina.Puede contener FRUTOS DE CÁSCARA y CACAHUETES."
+  },
+  "origin": "Alemania",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/35255774d8971d460f7b63f9f56ce55b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/35255774d8971d460f7b63f9f56ce55b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/35255774d8971d460f7b63f9f56ce55b.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/69e1ea1d808d14267b0cc92b32cbe01c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/69e1ea1d808d14267b0cc92b32cbe01c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/69e1ea1d808d14267b0cc92b32cbe01c.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.40",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "4.400",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.20",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/14711/surtido-galletas-barquillos-hacendado-paquete",
+  "slug": "surtido-galletas-barquillos-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/35255774d8971d460f7b63f9f56ce55b.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

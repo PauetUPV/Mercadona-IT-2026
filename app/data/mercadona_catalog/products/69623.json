@@ -1,0 +1,112 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 268,
+              "level": 2,
+              "name": "Otras verduras y hortalizas",
+              "order": 306
+            }
+          ],
+          "id": 29,
+          "level": 1,
+          "name": "Verdura",
+          "order": 306
+        }
+      ],
+      "id": 1,
+      "level": 0,
+      "name": "Fruta y verdura",
+      "order": 306
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Alcachofa",
+    "legal_name": "Alcachofa",
+    "mandatory_mentions": "Potasio. El potasio contribuye al funcionamiento normal del sistema nervios y de los músculos y al mantenimiento de la tensión arterial normal.",
+    "origin": "Benicarló",
+    "production_variant": "Producto de peso variable. Venta a granel.",
+    "storage_instructions": "Conservese en lugar fresco y seco. Se recomienda consumir antes de una semana.",
+    "suppliers": [
+      {
+        "name": "Anecoop S. Coop."
+      },
+      {
+        "name": "Centro Sur S. Coop. And."
+      },
+      {
+        "name": "Cooperativa Agrícola San Isidro de Benicarló S. Coop. V"
+      },
+      {
+        "name": "S.A.T Nº9890 Ole"
+      }
+    ],
+    "usage_instructions": "Se pueden comer crudas o salteadas. Se trocean y se aliñan con aceite de oliva y sal.                                                    Por otro lado, se pueden comer hervidas con aceite de oliva, sal y un ramillete de perejil. También se pueden rellenar con cualquier tipo de salsa o pisto."
+  },
+  "display_name": "Alcachofa",
+  "ean": "8480000696236",
+  "extra_info": [
+    ""
+  ],
+  "id": "69623",
+  "is_bulk": true,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Alcachofa"
+  },
+  "origin": "Benicarló",
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/a3ee18444d12fd8a6ac5567a32755eb7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a3ee18444d12fd8a6ac5567a32755eb7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a3ee18444d12fd8a6ac5567a32755eb7.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "2.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "2.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.43",
+    "unit_selector": true,
+    "unit_size": 0.17
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/69623/alcachofa-pieza",
+  "slug": "alcachofa-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/a3ee18444d12fd8a6ac5567a32755eb7.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

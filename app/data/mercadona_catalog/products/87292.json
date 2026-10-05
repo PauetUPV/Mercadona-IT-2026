@@ -1,0 +1,128 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 272,
+              "level": 2,
+              "name": "Marisco",
+              "order": 442
+            }
+          ],
+          "id": 32,
+          "level": 1,
+          "name": "Marisco",
+          "order": 442
+        }
+      ],
+      "id": 2,
+      "level": 0,
+      "name": "Marisco y pescado",
+      "order": 442
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Langostino cocido",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Langostino vannamei entero cocido refrigerado, envasado en atmósfera modificada. Penaeus vannamei",
+    "mandatory_mentions": "Envasado en atmósfera protectora",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 0C y 4C hasta la fecha de caducidad. Producto listo para el consumo. Una vez abierto, consumir en 24h.",
+    "suppliers": [
+      {
+        "name": "Grupo Profand SLU"
+      },
+      {
+        "name": "PESCANOVA ESPAÑA"
+      },
+      {
+        "name": "Pescanova España S.L.U"
+      },
+      {
+        "name": "Profand Zaragoza SLU"
+      }
+    ],
+    "usage_instructions": "Seguir la indicaciones del envase"
+  },
+  "display_name": "Langostino cocido",
+  "ean": "8402001025433",
+  "extra_info": [
+    ""
+  ],
+  "id": "87292",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>dióxido de azufre y sulfitos</strong>. Puede contener <strong>pescado y productos a base de pescado</strong>. Contiene <strong>crustáceos y productos a base de crustáceos</strong>.",
+    "ingredients": "Langostino vannamei (<strong>crustáceo</strong>), sal, antioxidante (E 223 (<strong>sulfitos</strong>)), reguladores de la acidez (E 270, E 526, E 330). Puede contener: <strong>Pescado</strong>, <strong>Moluscos.</strong>"
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 10,
+      "regular": "https://prod-mercadona.imgix.net/images/a75cf34399fe22a08af916da1bbaebf3.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a75cf34399fe22a08af916da1bbaebf3.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a75cf34399fe22a08af916da1bbaebf3.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/8da1c64677fb81cf3aa4165b24552c06.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8da1c64677fb81cf3aa4165b24552c06.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8da1c64677fb81cf3aa4165b24552c06.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/1085f8253ae23f8294535dbeaeb78032.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1085f8253ae23f8294535dbeaeb78032.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1085f8253ae23f8294535dbeaeb78032.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "10.75",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "10.750",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "6.45",
+    "unit_selector": true,
+    "unit_size": 0.6
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/87292/langostino-cocido-vannamei-bandeja",
+  "slug": "langostino-cocido-vannamei-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/a75cf34399fe22a08af916da1bbaebf3.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

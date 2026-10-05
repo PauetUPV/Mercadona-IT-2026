@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "El Pozo",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 287,
+              "level": 2,
+              "name": "Hamburguesas",
+              "order": 17
+            }
+          ],
+          "id": 44,
+          "level": 1,
+          "name": "Hamburguesas y picadas",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "El Pozo",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Burger de cerdo ibérico El Pozo con secreto ibérico",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "HAMBURGUESA DE CERDO IBÉRICO CON SECRETO IBÉRICO.",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "-",
+    "storage_instructions": "Conservar refrigerado entre 0º y 4ºC.",
+    "suppliers": [
+      {
+        "name": "ELPOZO ALIMENTACIÓN S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Burger de cerdo ibérico El Pozo con secreto ibérico",
+  "ean": "8410843160502",
+  "extra_info": [
+    ""
+  ],
+  "id": "18128",
+  "is_bulk": false,
+  "is_new_arrival": true,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "con secreto ibérico",
+  "nutrition_information": {
+    "allergens": "Libre de <strong>huevos y productos a base de huevo</strong>. Libre de <strong>ca</strong>. Libre de <strong>moluscos y productos a base de moluscos</strong>. Libre de <strong>cereales que contengan gluten</strong>. Libre de <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Libre de <strong>mostaza y productos derivados</strong>. Libre de <strong>apio y productos derivados</strong>. Libre de <strong>frutos de cáscara</strong>. Libre de <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Libre de <strong>cacahuetes y productos a base de cacahuetes</strong>. Libre de <strong>fa</strong>.",
+    "ingredients": "98% carne de cerdo ibérico (73% magro ibérico y 25% secreto ibérico),sal, especias, extracto vegetal, aromas, antioxidantes (E-301, E-331).Puede contener trazas de PROTEÍNA DE LECHE, SOJA y SULFITOS."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/802d11cf90c80e414be63df4952b38d8.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/802d11cf90c80e414be63df4952b38d8.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/802d11cf90c80e414be63df4952b38d8.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/d5eced59e5ab89f353d10ba2288f2140.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d5eced59e5ab89f353d10ba2288f2140.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d5eced59e5ab89f353d10ba2288f2140.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "16.25",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "16.250",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 2,
+    "unit_name": "ud.",
+    "unit_price": "3.90",
+    "unit_selector": true,
+    "unit_size": 0.24
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/18128/hamburguesa-cerdo-iberico-pozo-con-secreto-iberico-paquete",
+  "slug": "hamburguesa-cerdo-iberico-pozo-con-secreto-iberico-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/802d11cf90c80e414be63df4952b38d8.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": "2026-09-02T22:00:00+00:00",
+  "unavailable_weekdays": []
+}

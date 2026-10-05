@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 472,
+              "level": 2,
+              "name": "Cremas y puré",
+              "order": 215
+            }
+          ],
+          "id": 130,
+          "level": 1,
+          "name": "Gazpacho y cremas",
+          "order": 215
+        }
+      ],
+      "id": 14,
+      "level": 0,
+      "name": "Conservas, caldos y cremas",
+      "order": 215
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Puré de patatas Hacendado en copos",
+    "legal_name": "Puré de Patata",
+    "mandatory_mentions": "Envasado en atmósfera protectora. Conservar en un lugar seco y proteger del calor. Sin gluten.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Mecklenburger Kartoffelveredlung GmbH"
+      }
+    ],
+    "usage_instructions": "Modo de preparación tradicional: 1. Calentar hasta hervir en una cazula: 500 ml de agua, 250 ml de  leche (se recomienda semi desnatada) y 4 g de sal (1 cucharadita). 2. Sacar desl fuego, esperar 2-3 minutos antes de vaciar el contenido del sobre, y mezclar hasta uniformizar el contenido. 3. Dejar reposar 1 minuto, volver a remover y servir."
+  },
+  "display_name": "Puré de patatas Hacendado en copos",
+  "ean": "8480000232649",
+  "extra_info": [
+    null
+  ],
+  "id": "23264",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Copos de patata deshidratada (99%), emulgente: monoglicéridos y diglicéridos de ácidos grasos; antioxidantes: ésteres ácidos grasos de ácido ascórbico, metabisulfito sódico; cúrcuma."
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/cda62d9b1f3870ff9cac3193caae188d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/cda62d9b1f3870ff9cac3193caae188d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/cda62d9b1f3870ff9cac3193caae188d.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/7e9ac2cb0f8b2aca07fe4380f07d9af0.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7e9ac2cb0f8b2aca07fe4380f07d9af0.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7e9ac2cb0f8b2aca07fe4380f07d9af0.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "4.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 4,
+    "unit_name": "sobres",
+    "unit_price": "2.00",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/23264/pure-patatas-hacendado-copos-caja",
+  "slug": "pure-patatas-hacendado-copos-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/cda62d9b1f3870ff9cac3193caae188d.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

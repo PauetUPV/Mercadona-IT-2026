@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Nature Valley",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 357,
+              "level": 2,
+              "name": "Barritas de cereales",
+              "order": 18
+            }
+          ],
+          "id": 78,
+          "level": 1,
+          "name": "Cereales",
+          "order": 18
+        }
+      ],
+      "id": 7,
+      "level": 0,
+      "name": "Cereales y galletas",
+      "order": 18
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Nature Valley",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Barritas de avena y chocolate negro Crunchy Nature Valley",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Barritas a base de copos de avena integral y trocitos de chocolate.",
+    "mandatory_mentions": "Avena 100% integral. Sin colorantes ni conservantes. Apto para vegetarianos.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco",
+    "suppliers": [
+      {
+        "name": "General Mills Ibérica, S.A.U"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Barritas de avena y chocolate negro Crunchy Nature Valley",
+  "ean": "8410076601513",
+  "extra_info": [
+    ""
+  ],
+  "id": "14713",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>cereales que contengan gluten</strong>. Puede contener <strong>trigo y productos derivados</strong>. Contiene <strong>go</strong>. Contiene <strong>soja y productos a base de soja</strong>. Puede contener <strong>cacahuetes y productos a base de cacahuetes</strong>. Puede contener <strong>frutos de cáscara</strong>.",
+    "ingredients": "Copos de <strong>avena</strong> integral (56%), azúcar, aceites vegetales (girasol, nabina en proporción variable), trocitos de chocolate (7%) (pasta de cacao, azúcar, emulgente (lecitinas (<strong>soja</strong>)), aroma natural de vainilla), cacao desgrasado en polvo, miel, sal, melaza, emulgentes (lecitinas), gasificante (carbonato ácido de sodio), aroma natural. Alérgenos: ver ingredientes en negrita. <strong>Puede contener trigo, cacahuetes y frutos de cáscara</strong>. Sin lactosa."
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/ab5be32491002de5c7fddad34d25fde4.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ab5be32491002de5c7fddad34d25fde4.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ab5be32491002de5c7fddad34d25fde4.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/65882546d49db937f30d6b0a5fc11bb8.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/65882546d49db937f30d6b0a5fc11bb8.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/65882546d49db937f30d6b0a5fc11bb8.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "9.29",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "9.286",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 5,
+    "unit_name": "paquetes",
+    "unit_price": "1.95",
+    "unit_selector": true,
+    "unit_size": 0.21
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/14713/barritas-avena-crunchy-nature-valley-con-chocolate-negro-caja",
+  "slug": "barritas-avena-crunchy-nature-valley-con-chocolate-negro-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/ab5be32491002de5c7fddad34d25fde4.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

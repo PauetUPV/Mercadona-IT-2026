@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Schweppes",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 541,
+              "level": 2,
+              "name": "Tónica y bitter",
+              "order": 8
+            }
+          ],
+          "id": 161,
+          "level": 1,
+          "name": "Tónica y bitter",
+          "order": 8
+        }
+      ],
+      "id": 18,
+      "level": 0,
+      "name": "Agua y refrescos",
+      "order": 8
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Schweppes",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Tónica original Schweppes",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Bebida refrescante de extractos. Con azúcar y edulcorantes.",
+    "mandatory_mentions": "Contiene quinina.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Mantener en lugar fresco y seco. Proteger de la luz solar y de olores intensos.",
+    "suppliers": [
+      {
+        "name": "Schweppes, S.A. \"Envasado con licencia de schweppes international limited.\""
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Tónica original Schweppes",
+  "ean": "8414100339007",
+  "extra_info": [
+    null
+  ],
+  "id": "86118",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Agua, azúcar, anhídrido carbónico, acidulante: ácido cítrico, aromas naturales, edulcorantes: ciclamato sódico y sacarina sódica, aroma quinina."
+  },
+  "origin": null,
+  "packaging": "Botellín",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/da4f351cb73e6cbadfe4dd8113db73e6.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/da4f351cb73e6cbadfe4dd8113db73e6.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/da4f351cb73e6cbadfe4dd8113db73e6.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/06f765340f86556bcab8bb3547472379.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/06f765340f86556bcab8bb3547472379.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/06f765340f86556bcab8bb3547472379.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "5.500",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.10",
+    "unit_selector": true,
+    "unit_size": 0.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/86118/tonica-original-schweppes-botellin",
+  "slug": "tonica-original-schweppes-botellin",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/da4f351cb73e6cbadfe4dd8113db73e6.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

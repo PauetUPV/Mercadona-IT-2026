@@ -1,0 +1,117 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 336,
+              "level": 2,
+              "name": "Tartas",
+              "order": 515
+            }
+          ],
+          "id": 68,
+          "level": 1,
+          "name": "Tartas y pasteles",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Tarta delicia de fresa Hacendado congelada",
+    "legal_name": "Producto de pastelería congelada.",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Producto congelado. Mantener la cadena de frío a -18 ºC. Al descongelar conservar un máximo de 72 horas en nevera (2-6 ºC). No volver a congelar una vez descongelado.",
+    "suppliers": [
+      {
+        "name": "Pastisfred S.L.U"
+      }
+    ],
+    "usage_instructions": "MODO DESCONGELACIÓN: Opción 1: Descongelar durante 11 horas en nevera.Opción 2: Descongelar durante 6 horas a temperatura ambiente."
+  },
+  "display_name": "Tarta delicia de fresa Hacendado congelada",
+  "ean": "8402001034930",
+  "extra_info": [
+    ""
+  ],
+  "id": "20356",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>soja y productos a base de soja</strong>. Puede contener <strong>frutos de cáscara</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "INGREDIENTES: Preparado para montar a base de grasas vegetales (44%) (suero de <strong>mantequilla (leche),</strong> grasas vegetales (palma, palmiste, coco), aceitevegetal de nabina, azúcar, grasa de palmiste totalmente hidrogenada, suero <strong>lácteo</strong> en polvo <strong>(leche),</strong> dextrosa, almidón modificado, emulgentes(E-472b, E-435, E-433), aromas, estabilizante (E-407), colorante (E-160a), gelatina, maltodextrina, sal), bizcocho calado (37%) (<strong>huevo</strong> líquido pasteurizado, azúcar, agua, harina de <strong>trigo (gluten),</strong> aceite refinado de girasol, humectantes (azúcar invertido, glicerina), emulgentes (E-471, E-1520, E-477, E-470a), sal, colorante (E-160a(i)), conservadores (sorbato potásico, ácido sórbico), corrector de acidez (ácido cítrico)), relleno con fresa (17%) (fresa en cubos (12%), jarabe de glucosa y fructosa, azúcar, estabilizantes (E-1442, E-406), conservadores (E-330, E-202), concentrados vegetales (limón y cártamo), aroma), producto de confitería para decorar (1%) (grasas vegetales (palma, karité), azúcar, <strong>leche</strong> en polvo, manteca de cacao, materia grasa <strong>láctea (leche),</strong> emulgente (lecitina de <strong>soja</strong>), aroma natural de vainilla, aromas, leche desnatada en polvo, grasa de palma anhidra totalmente hidrogenada, colorantes (E-101, E-120, E-133)), jarabe de glucosa y fructosa. Puede contener trazas de <strong>frutos de cáscara, sulfitos y mostaza.</strong>"
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 10,
+      "regular": "https://prod-mercadona.imgix.net/images/a49e6ed10cc95d429dff5ffd7a9c0f3a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a49e6ed10cc95d429dff5ffd7a9c0f3a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a49e6ed10cc95d429dff5ffd7a9c0f3a.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/6c2f9f3ec66ea43b1cd1439b1724ee6c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/6c2f9f3ec66ea43b1cd1439b1724ee6c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/6c2f9f3ec66ea43b1cd1439b1724ee6c.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/a3a44b2e6eb0f25b5c87039297163b50.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a3a44b2e6eb0f25b5c87039297163b50.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a3a44b2e6eb0f25b5c87039297163b50.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "12.23",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "12.235",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "11.50",
+    "unit_selector": true,
+    "unit_size": 0.94
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/20356/tarta-delicia-fresa-hacendado-congelada",
+  "slug": "tarta-delicia-fresa-hacendado-congelada",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/a49e6ed10cc95d429dff5ffd7a9c0f3a.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

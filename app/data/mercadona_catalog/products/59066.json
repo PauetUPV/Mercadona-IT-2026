@@ -1,0 +1,109 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 303,
+              "level": 2,
+              "name": "Bacón",
+              "order": 159
+            }
+          ],
+          "id": 52,
+          "level": 1,
+          "name": "Bacón y salchichas",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Bacón Hacendado cintas",
+    "legal_name": "Bacon",
+    "mandatory_mentions": "Envasado en atmósfera protectora / Unidad no divisible para su venta / ABRIR Y CERRAR / Teléfono de atención al cliente Mercadona: 800 500 220/ SIN GLUTEN (logo) / RECICLA Al Amarillo (logo)",
+    "origin": null,
+    "production_variant": "Este producto se fabrica en dos fabricas: en Cárnicas 1 con número de registro ES 10.00121/B UE y en Cárnicas 3 con número de registro 10.027342/B UE",
+    "storage_instructions": "Manténgase entre 0C y 5C / Consumir preferentemente antes del/lote: ver envase",
+    "suppliers": [
+      {
+        "name": "CASA TARRADELLAS, S.A."
+      }
+    ],
+    "usage_instructions": "COCER ANTES DE CONSUMIR    1- Precalentar la sartén.  2- Añadir las cintas de bacon.  3- Cocerlas durante 5-6 minutos a fuego medio."
+  },
+  "display_name": "Bacón Hacendado cintas",
+  "ean": "8480000590664",
+  "extra_info": [
+    null
+  ],
+  "id": "59066",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Panceta de cerdo, sal, dextrosa, estabilizante (E-451i), antioxidante (ascorbato sódico), extracto de especias, conservador (nitrito sódico)."
+  },
+  "origin": null,
+  "packaging": "Pack-2",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/4bc800b57ae22a3a9d75db8e38350cb7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4bc800b57ae22a3a9d75db8e38350cb7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4bc800b57ae22a3a9d75db8e38350cb7.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/0403c415c02ff23304ac7c1c919c4e5b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0403c415c02ff23304ac7c1c919c4e5b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0403c415c02ff23304ac7c1c919c4e5b.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "9.20",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.125,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "9.200",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 2,
+    "unit_name": "paquetes",
+    "unit_price": "2.30",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/59066/bacon-hacendado-cintas-pack-2",
+  "slug": "bacon-hacendado-cintas-pack-2",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/4bc800b57ae22a3a9d75db8e38350cb7.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 504,
+              "level": 2,
+              "name": "Verdura",
+              "order": 213
+            }
+          ],
+          "id": 145,
+          "level": 1,
+          "name": "Fruta y verdura",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Relleno fajitas pollo, pimientos y cebolla Hacendado ultracongelado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Relleno para fajitas ultracongelado",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar a -18ºC. Para no alterar la calidad de este producto, aconsejamos no volver a congelarlo una vez descongelado.",
+    "suppliers": [
+      {
+        "name": "Ultracongelados Virto S.A.U"
+      },
+      {
+        "name": "Ultracongelados Virto S.A.U."
+      }
+    ],
+    "usage_instructions": "-Abra la bolsa de relleno para Fajitas (retire la bolsita con sazonador). -Añada a la sartén, sin descongelar, con 2 cucharadas de aceite caliente y saltee 5 minutos. -Añada el sazonador a la sartén. -Cocine 1 minuto más removiendo la mezcla. -Rellene las tortillas, enróllelas y  ¡disfrútelas!"
+  },
+  "display_name": "Relleno fajitas pollo, pimientos y cebolla Hacendado ultracongelado",
+  "ean": "8480000868206",
+  "extra_info": [
+    null
+  ],
+  "id": "86820",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "ultracongelado",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Mezcla fajita: Pollo (35%) (Pechuga de pollo, almidón de tapioca, sal, agua, xilosa, dextrosa, antioxidante: citrato de sodio y estabilizante: carbonato de sodio), cebolla (20%),  pimiento verde asado (15%), pimiento rojo asado (15%) y pimiento amarillo  (15%). Sazonador: Azúcar, sal ahumada, aroma, y especias  (chili en polvo, pimienta negra molida y jengibre molido)."
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/616e77243843f37f7568ef21d1b4fd13.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/616e77243843f37f7568ef21d1b4fd13.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/616e77243843f37f7568ef21d1b4fd13.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/de7a6e0c69eca7ee75c1b5483680094c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/de7a6e0c69eca7ee75c1b5483680094c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/de7a6e0c69eca7ee75c1b5483680094c.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.33",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.334",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.90",
+    "unit_selector": true,
+    "unit_size": 0.3
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/86820/relleno-fajitas-pollo-pimientos-cebolla-hacendado-ultracongelado-paquete",
+  "slug": "relleno-fajitas-pollo-pimientos-cebolla-hacendado-ultracongelado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/616e77243843f37f7568ef21d1b4fd13.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

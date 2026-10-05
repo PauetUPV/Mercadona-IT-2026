@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 314,
+              "level": 2,
+              "name": "Paté",
+              "order": 159
+            }
+          ],
+          "id": 58,
+          "level": 1,
+          "name": "Paté y sobrasada",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Paté de cerdo con pimienta verde Hacendado",
+    "legal_name": "Paté de Cerdo con Pimienta Verde",
+    "mandatory_mentions": "Envasado en atmósfera protectora. Sin gluten",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en frío entre 0C y 4C.",
+    "suppliers": [
+      {
+        "name": "De Spiegeleire N.V."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Paté de cerdo con pimienta verde Hacendado",
+  "ean": "5410399929489",
+  "extra_info": [
+    null
+  ],
+  "id": "52099",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>mostaza y productos derivados</strong>. Puede contener <strong>frutos de cáscara</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "27% hígado de cerdo, 23% grasa de cerdo, crema de arroz (<strong>leche</strong>, harina de arroz), 14% carne de cerdo, colágeno de cerdo, <strong>huevo</strong>, 3,1% pimienta verde, acidulantes: E262, E325; sal nitrificada (sal, conservador: E250), azúcar, cebolla, especias (contiene <strong>mostaza</strong>), aroma natural, antioxidantes: E300, E330; dextrosa, hemoglobina. Puede contener trazas de <strong>frutos de cáscara</strong>."
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/364d84fe2c81334f69afce580971cc9c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/364d84fe2c81334f69afce580971cc9c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/364d84fe2c81334f69afce580971cc9c.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/8d40bf98cfa222a9de9dc65b4ca796ed.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8d40bf98cfa222a9de9dc65b4ca796ed.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8d40bf98cfa222a9de9dc65b4ca796ed.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "14.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "14.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.45",
+    "unit_selector": true,
+    "unit_size": 0.1
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/52099/pate-cerdo-con-pimienta-verde-hacendado-bandeja",
+  "slug": "pate-cerdo-con-pimienta-verde-hacendado-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/364d84fe2c81334f69afce580971cc9c.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

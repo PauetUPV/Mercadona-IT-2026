@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 360,
+              "level": 2,
+              "name": "Con chocolate y rellenas",
+              "order": 18
+            }
+          ],
+          "id": 80,
+          "level": 1,
+          "name": "Galletas",
+          "order": 18
+        }
+      ],
+      "id": 7,
+      "level": 0,
+      "name": "Cereales y galletas",
+      "order": 18
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Barquillos rellenos de nata Hacendado 0% azúcares añadidos",
+    "legal_name": "Barquillo relleno de crema sabor nata con edulcorantes sin azúcares añadidos",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Almacenar en lugar fresco y seco. Proteger de los rayos solares. Una vez abierto, mantener en las mismas condiciones y cerrar después de cada uso.",
+    "suppliers": [
+      {
+        "name": "GALLETAS GULLON, S.A"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Barquillos rellenos de nata Hacendado 0% azúcares añadidos",
+  "ean": "8410376047264",
+  "extra_info": [
+    null
+  ],
+  "id": "14136",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>frutos de cáscara</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Crema sabor <strong>nata</strong> 73% [edulcorantes (maltitol, isomalt), grasa vegetal (palma y palmiste), almidón de <strong>trigo</strong>, fibra vegetal, <strong>nata</strong> en polvo 2%, emulgente (lecitina de <strong>soja</strong>)], harina de <strong>trigo</strong>, almidón de <strong>trigo</strong>, <strong>leche</strong> en polvo, grasa vegetal (palma), sal, gasificantes (carbonato ácido de sodio y carbonato ácido de amonio), emulgente (lecitina de <strong>soja</strong>). <strong>Puede contener trazas de  frutos de cáscara y mostaza</strong>."
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/52b9d6d6eb268af80e7597356a50ad4a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/52b9d6d6eb268af80e7597356a50ad4a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/52b9d6d6eb268af80e7597356a50ad4a.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/29d9e7db417becfe59521ae553f4c51c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/29d9e7db417becfe59521ae553f4c51c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/29d9e7db417becfe59521ae553f4c51c.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.24",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.239",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.10",
+    "unit_selector": true,
+    "unit_size": 0.21
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/14136/barquillos-rellenos-nata-hacendado-0-azucares-anadidos-paquete",
+  "slug": "barquillos-rellenos-nata-hacendado-0-azucares-anadidos-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/52b9d6d6eb268af80e7597356a50ad4a.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

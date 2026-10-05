@@ -1,0 +1,117 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 318,
+              "level": 2,
+              "name": "Pan de molde",
+              "order": 515
+            }
+          ],
+          "id": 60,
+          "level": 1,
+          "name": "Pan de molde y otras especialidades",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pan de molde sin gluten blanco Hacendado",
+    "legal_name": "Pan especial sin gluten",
+    "mandatory_mentions": "SIN LACTOSA / SIN GLUTEN",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "CEREALTO FOODS CORPORATE S.L.U."
+      },
+      {
+        "name": "CEREALTO FOODS S.L."
+      },
+      {
+        "name": "CEREALTO SIRO FOODS S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Pan de molde sin gluten blanco Hacendado",
+  "ean": "8402001009402",
+  "extra_info": [
+    null
+  ],
+  "id": "35711",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Almidones (maíz, arroz, tapioca), agua, aceite de girasol, levadura, fibras vegetales (psyllium, bambú), humectante (glicerina), harina de maíz integral, aromas, azúcar, estabilizantes (hidroxipropilmetilcelulosa, monoglicéridos y diglicéridos de ácidos grasos), sal, zumo de uva concentrado, conservadores (propionato cálcico, ácido sórbico), vinagre de vino. ***** / / / / / A PARTIR DEL LOTE 106047101000 Y FCP 10/03/2026 HAY UN CAMBIO DE ETIQUETADO / / / / / ***** Almidones (maíz, arroz, tapioca), agua, aceite refinado de girasol, levadura, fibras vegetales (psyllium, bambú), humectante (glicerina), harina de maíz integral, aromas, azúcar, estabilizantes (hidroxipropilmetilcelulosa, monoglicéridos y diglicéridos de ácidos grasos), sal, zumo de uva concentrado, conservadores (propionato cálcico, ácido sórbico), vinagre de vino."
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/4b2fd6f2a42c76ccb71db2be51fa7ec5.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4b2fd6f2a42c76ccb71db2be51fa7ec5.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4b2fd6f2a42c76ccb71db2be51fa7ec5.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/3524628a7e3144917568715cb4a3d6f1.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3524628a7e3144917568715cb4a3d6f1.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3524628a7e3144917568715cb4a3d6f1.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.48",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.480",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 14,
+    "unit_name": "rebanadas",
+    "unit_price": "2.74",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/35711/pan-molde-sin-gluten-blanco-hacendado-paquete",
+  "slug": "pan-molde-sin-gluten-blanco-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/4b2fd6f2a42c76ccb71db2be51fa7ec5.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

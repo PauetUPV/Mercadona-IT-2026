@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 317,
+              "level": 2,
+              "name": "Pan de bocadillo",
+              "order": 515
+            }
+          ],
+          "id": 59,
+          "level": 1,
+          "name": "Pan de horno",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Panes integrales 100% fino",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Pan especial elaborado con harina de TRIGO integral 98,6%*, harina de malta de CEBADA integral 0,9%*, harina de TRIGO espelta integral 0,3%* y harin a de CENTENO integral 0,2%* congelado",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "Europastry SA"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Panes integrales 100% fino",
+  "ean": "8424465810356",
+  "extra_info": [
+    ""
+  ],
+  "id": "60354",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "fino",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>cereales que contengan gluten</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>huevos y productos a base de huevo</strong>. Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>centeno y productos derivados</strong>. Contiene <strong>gb</strong>.",
+    "ingredients": "Harina de <strong>TRIGO </strong>integral 50%**, agua, masa madre de <strong>TRIGO </strong>integral 6,9% (harina de <strong>TRIGO</strong> integral fermentada, agua), levadura, gluten de <strong>TRIGO</strong>, aceite de oliva virgen extra, sal, harina de malta de <strong>CEBADA </strong>integral tostada 0,5%**, masa madre inactiva de <strong>TRIGO </strong>integral 0,5%(almidón de <strong>TRIGO</strong> fermentado, harina de <strong>TRIGO</strong> integral fermentada, harina de <strong>CENTENO </strong>integral fermentada), aroma natural, harina integral de <strong>TRIGO</strong> espelta 0,2%**. *Porcentaje expresado sobre el total de las harinas. **Porcentaje que representa en el 100% del producto. Puede contener trazas de: <strong>huevo</strong>, <strong>soja</strong>, <strong>leche</strong>, <strong>sésamo</strong>, <strong>mostaza</strong>"
+  },
+  "origin": null,
+  "packaging": "Bolsa",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/54de49ea0f90e922a30eb4f2e6843ec6.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/54de49ea0f90e922a30eb4f2e6843ec6.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/54de49ea0f90e922a30eb4f2e6843ec6.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/bf8111bad8a39aae52bb42a6209b4e86.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/bf8111bad8a39aae52bb42a6209b4e86.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/bf8111bad8a39aae52bb42a6209b4e86.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "8.48",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.0825,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "8.485",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 2,
+    "unit_name": "ud.",
+    "unit_price": "1.40",
+    "unit_selector": true,
+    "unit_size": 0.165
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/60354/pan-integral-100-fino-paquete",
+  "slug": "pan-integral-100-fino-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/54de49ea0f90e922a30eb4f2e6843ec6.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

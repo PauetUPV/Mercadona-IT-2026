@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 800,
+              "level": 2,
+              "name": "Fideos orientales",
+              "order": 10
+            }
+          ],
+          "id": 120,
+          "level": 1,
+          "name": "Pasta y fideos",
+          "order": 10
+        }
+      ],
+      "id": 13,
+      "level": 0,
+      "name": "Arroz, legumbres y pasta",
+      "order": 10
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Noodles Ramen",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Ramen Noodles",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en un lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Mercadona S.A."
+      }
+    ],
+    "usage_instructions": "Salteado: 1. Saltee las carnes, verduras, etc., que más le gusten hasta que estén cocidas en un 80 %, añada los fideos (ponga un poco de agua para ayudar a desliar los fideos) y saltee. 2. Añada sal, salsa y otros condimentos y saltee bien para disfrutar. Fideos con salsa: Ponga los fideos en agua hirviendo y cuézalos durante 1-2 minutos; después, retírelos. 2. Añada su salsa favorita y mézclelo todo bien para disfrutar. En sopa: 1. Ponga los fideos y los condimentos en la cantidad adecuada de agua hirviendo durante 1-2 minutos. 2. Añada carne, verduras, etc., al gusto para hacerlos más deliciosos."
+  },
+  "display_name": "Noodles Ramen",
+  "ean": "8402001020636",
+  "extra_info": [
+    ""
+  ],
+  "id": "9861",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>ml</strong>. Contiene <strong>trigo y productos derivados</strong>.",
+    "ingredients": "Agua, harina de <strong>trigo</strong>, <strong>gluten</strong> de <strong>trigo</strong>, aceite de girasol, sal, ácido <strong>láctico</strong> (E270), goma guar (E412)."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/9e9cea574b49ba9c0ef349de109a008d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9e9cea574b49ba9c0ef349de109a008d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9e9cea574b49ba9c0ef349de109a008d.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/ab97b1c4e94760eb5e8f446f6f2eb394.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ab97b1c4e94760eb5e8f446f6f2eb394.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ab97b1c4e94760eb5e8f446f6f2eb394.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.25",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "4.250",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.85",
+    "unit_selector": true,
+    "unit_size": 0.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/9861/noodles-ramen-paquete",
+  "slug": "noodles-ramen-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/9e9cea574b49ba9c0ef349de109a008d.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

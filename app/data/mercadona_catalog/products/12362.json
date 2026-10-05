@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 386,
+              "level": 2,
+              "name": "Chocolatinas",
+              "order": 11
+            }
+          ],
+          "id": 92,
+          "level": 1,
+          "name": "Chocolate",
+          "order": 11
+        }
+      ],
+      "id": 9,
+      "level": 0,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Huevos sorpresa de chocolate Hacendado dibujo",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Huevo de chocolate blanco (50%) (Cacao: 27% min.) (Leche: 17% min.) y chocolate con leche (50%) (Cacao: 30% min.) (Leche: 17% min.) con sorpresa",
+    "mandatory_mentions": "¡ADVERTENCIA!  Contiene juguete. Recomendada la supervisión de un adulto. Juguete no apto para niños menores de 3 años. Las partes pequeñas podrían ser ingeridas o inhaladas. Peligro de asfixia.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco",
+    "suppliers": [
+      {
+        "name": "Mon Desir Di Toti Giorgio E C. Snc"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Huevos sorpresa de chocolate Hacendado dibujo",
+  "ean": "8480000123626",
+  "extra_info": [
+    ""
+  ],
+  "id": "12362",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "dibujo",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>soja y productos a base de soja</strong>. Puede contener <strong>frutos de cáscara</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Azúcar, manteca de cacao, <strong>leche</strong> en polvo, pasta de cacao, emulgente: lecitina de <strong>soja</strong>, aroma natural de vainilla. Puede contener trazas de <strong>frutos de cáscara, cacahuetes y productos derivados</strong>."
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/b88d583fadb4eef17db621326224f2e2.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b88d583fadb4eef17db621326224f2e2.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b88d583fadb4eef17db621326224f2e2.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/95a278db01c86534ef4d578495e5441d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/95a278db01c86534ef4d578495e5441d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/95a278db01c86534ef4d578495e5441d.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "31.67",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.02,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "31.667",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 3,
+    "unit_name": "ud.",
+    "unit_price": "1.90",
+    "unit_selector": true,
+    "unit_size": 0.06
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/12362/huevos-chocolate-hacendado-dibujo-con-sorpresa-pack-3",
+  "slug": "huevos-chocolate-hacendado-dibujo-con-sorpresa-pack-3",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/b88d583fadb4eef17db621326224f2e2.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

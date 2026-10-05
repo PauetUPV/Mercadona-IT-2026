@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 334,
+              "level": 2,
+              "name": "Bollería envasada",
+              "order": 515
+            }
+          ],
+          "id": 66,
+          "level": 1,
+          "name": "Bollería envasada",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Mantecadas Hacendado",
+    "legal_name": "Mantecadas. Producto de pastelería",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco y no expuesto a luz solar.",
+    "suppliers": [
+      {
+        "name": "Vega Pelayo, S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Mantecadas Hacendado",
+  "ean": "8480000163172",
+  "extra_info": [
+    ""
+  ],
+  "id": "16317",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Puede contener <strong>frutos de cáscara</strong>. Contiene <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "Harina de <strong>trigo  (gluten)</strong>(28%), aceite  de girasol, azúcar, <strong>huevo </strong>líquido, jarabe de glucosa y fructosa, agua,  humectantes (sorbitol, glicerina), gasificantes (difosfatos y carbonatos de  sodio), almidón de maíz, aromas, sal, conservador (ácido sórbico) y acidulante  [ácido láctico (origen vegetal)].     <strong>Puede contener trazas de mostaza, soja y/o frutos de  cáscara.</strong>"
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/5239b02817b66a43202bf44b09c77a4a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5239b02817b66a43202bf44b09c77a4a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5239b02817b66a43202bf44b09c77a4a.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/6e02ff508e6e6a2d8bf97c64fc1d5785.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/6e02ff508e6e6a2d8bf97c64fc1d5785.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/6e02ff508e6e6a2d8bf97c64fc1d5785.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.42",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "4.424",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 15,
+    "unit_name": "ud.",
+    "unit_price": "2.30",
+    "unit_selector": true,
+    "unit_size": 0.52
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/16317/mantecadas-hacendado-paquete",
+  "slug": "mantecadas-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/5239b02817b66a43202bf44b09c77a4a.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

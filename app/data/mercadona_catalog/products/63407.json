@@ -1,0 +1,135 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 514,
+              "level": 2,
+              "name": "Pescado rebozado",
+              "order": 213
+            }
+          ],
+          "id": 884,
+          "level": 1,
+          "name": "Rebozados",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 275,
+              "level": 2,
+              "name": "Pescado rebozado congelado",
+              "order": 442
+            }
+          ],
+          "id": 34,
+          "level": 1,
+          "name": "Pescado congelado",
+          "order": 442
+        }
+      ],
+      "id": 2,
+      "level": 0,
+      "name": "Marisco y pescado",
+      "order": 442
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Empanadillas de atún Hacendado ultracongeladas",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "EMPANADILLAS CASERAS DE ATÚN. PRECOCINADO ULTRACONGELADO",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Mantener a = -18C",
+    "suppliers": [
+      {
+        "name": "CONGALSA S.L."
+      }
+    ],
+    "usage_instructions": "PREPARACIÓN: Freír en aceite caliente (180ºC) de 3 a 4 minutos hasta que estén doradas. SUGERENCIA: No es necesario descongelar pero si desea obtener unas empanadillas con acabado hojaldrado, déjelas descongelar aproximadamente 15 minutos y luego cocínelas como de costumbre. HORNO: No descongelar. Precalentar el horno a 210ºC y pintamos con huevo las empanadillas. Introducimos empandillas a media altura sobre bandeja de horno con papel  apropiado. Comunicar calor por arriba y por abajo con opción ventilador preferiblemente. Hornear durante 10-12 minutos. Dejar reposar unos 5 minutos fuera del horno. FREIDORA DE AIRE: No descongelar. Colocar las unidades separadas entre sí para que se cocinen uniformemente. Pintar con huevo batido en la parte superior. Cocinar durante 8 minutos a 200ºC."
+  },
+  "display_name": "Empanadillas de atún Hacendado ultracongeladas",
+  "ean": "8480000634078",
+  "extra_info": [
+    null
+  ],
+  "id": "63407",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "ultracongeladas",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Contiene <strong>pescado y productos a base de pescado</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Relleno (50%): Tomate, <strong>ATÚN</strong> en aceite (<strong>PESCADO</strong>) 9%* (<strong>ATÚN</strong>, aceite de girasol, sal), <strong>HUEVO</strong>, cebolla (cebolla, aceite de oliva, sal), aceite de girasol, harina de <strong>TRIGO</strong> (<strong>GLUTEN</strong>), azúcar, pimiento, pan rallado [harina de <strong>TRIGO</strong> (<strong>GLUTEN</strong>), sal, agua, levadura], sal, agua, vinagre de vino, espesante (E-461), pimentón dulce y laurel molido. Oblea (50%): Harina de <strong>TRIGO</strong> (<strong>GLUTEN</strong>), agua, manteca de cerdo, aceite de girasol, dextrosa y sal. *9% de atún respecto a la empanadilla y un 18% en el relleno. Puede contener trazas de <strong>SOJA</strong> y <strong>MOSTAZA</strong>."
+  },
+  "origin": "España",
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/9b146c9fe9a7f3988138b8d9626eab95.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9b146c9fe9a7f3988138b8d9626eab95.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9b146c9fe9a7f3988138b8d9626eab95.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/3bf73e4da722d5e92fac98b21c450408.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3bf73e4da722d5e92fac98b21c450408.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3bf73e4da722d5e92fac98b21c450408.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.80",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "3.800",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.90",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/63407/empanadillas-atun-hacendado-ultracongeladas-caja",
+  "slug": "empanadillas-atun-hacendado-ultracongeladas-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/9b146c9fe9a7f3988138b8d9626eab95.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

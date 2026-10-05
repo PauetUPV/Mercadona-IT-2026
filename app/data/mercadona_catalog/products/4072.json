@@ -1,0 +1,153 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 290,
+              "level": 2,
+              "name": "Carne congelada",
+              "order": 17
+            }
+          ],
+          "id": 47,
+          "level": 1,
+          "name": "Carne congelada",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 511,
+              "level": 2,
+              "name": "Carne",
+              "order": 213
+            }
+          ],
+          "id": 148,
+          "level": 1,
+          "name": "Carne",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Paletilla de lechal entera congelada",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Paletilla de Cordero Lechal",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "Producto de peso variable. Su peso se determinará en el punto de venta.",
+    "storage_instructions": "Producto refrigerado conservar entre 0 y 5°C.",
+    "suppliers": [
+      {
+        "name": "EA Group S. Coop"
+      },
+      {
+        "name": "Frigoríficos Cárnicos las Forcas, SLU"
+      },
+      {
+        "name": "Iniciativas Comerciales Dadyma, S.L."
+      },
+      {
+        "name": "MERCADONA"
+      },
+      {
+        "name": "Moralejo Selección S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Paletilla de lechal entera congelada",
+  "ean": "2105100040722",
+  "extra_info": [
+    null
+  ],
+  "id": "4072",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": "congelada",
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": "Carne cordero lechal"
+  },
+  "origin": "España",
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/4d359986d1251437ceab89f1e754b54a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4d359986d1251437ceab89f1e754b54a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4d359986d1251437ceab89f1e754b54a.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/a8598212db215dff07e020d8aaaf21cc.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a8598212db215dff07e020d8aaaf21cc.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a8598212db215dff07e020d8aaaf21cc.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/c49c6bd6931078c1d16c0d1bd65590be.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c49c6bd6931078c1d16c0d1bd65590be.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c49c6bd6931078c1d16c0d1bd65590be.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "27.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "27.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "17.55",
+    "unit_selector": true,
+    "unit_size": 0.65
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/4072/paletilla-lechal-entera-congelada-pieza",
+  "slug": "paletilla-lechal-entera-congelada-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/4d359986d1251437ceab89f1e754b54a.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

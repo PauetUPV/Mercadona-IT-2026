@@ -1,0 +1,112 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Del Patriarca",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 592,
+              "level": 2,
+              "name": "Otros licores",
+              "order": 15
+            }
+          ],
+          "id": 181,
+          "level": 1,
+          "name": "Licores",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": "20.0º",
+    "brand": "Del Patriarca",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Licor dulce Amaretto Del Patriarca",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "AMARETTO DEL PATRIARCA",
+    "mandatory_mentions": "PRODUCTO ITALIANO",
+    "origin": "PRODUCIDO POR: CIEMME LIQUORI SPA   VIA GREGORCIC, 28   GORIZIA   ITALIA",
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "CIEMME LIQUORI S.P.A."
+      }
+    ],
+    "usage_instructions": "LICOR DIGESTIVO DULCE CON AROMA DE ALMENDRAS AMARGAS Y CACAO, IDEAL PARA TOMAR SOLO, CON HELADO O COMO BASE PARA LOS MEJORES COCTELES."
+  },
+  "display_name": "Licor dulce Amaretto Del Patriarca",
+  "ean": "8005130001530",
+  "extra_info": [
+    ""
+  ],
+  "id": "28432",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>AGUA, AZUCAR, ALCOHOL, AROMAS. COLORANTE E150a"
+  },
+  "origin": "PRODUCIDO POR: CIEMME LIQUORI SPA   VIA GREGORCIC, 28   GORIZIA   ITALIA",
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/602fe0f1a968337ea962402311be5f11.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/602fe0f1a968337ea962402311be5f11.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/602fe0f1a968337ea962402311be5f11.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/a17b25c8aa29ecea05a36becf9bd8cc8.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a17b25c8aa29ecea05a36becf9bd8cc8.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a17b25c8aa29ecea05a36becf9bd8cc8.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.86",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "6.858",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "4.80",
+    "unit_selector": true,
+    "unit_size": 0.7
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/28432/licor-dulce-amaretto-patriarca-botella",
+  "slug": "licor-dulce-amaretto-patriarca-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/602fe0f1a968337ea962402311be5f11.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

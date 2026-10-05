@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Arteso",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 577,
+              "level": 2,
+              "name": "Vino rosado",
+              "order": 15
+            }
+          ],
+          "id": 171,
+          "level": 1,
+          "name": "Vino rosado",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Arteso",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Vino rosado Clarete Arteso DO Rioja",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "VINO ROSADO",
+    "mandatory_mentions": "APTO PARA VEGANOS",
+    "origin": "DO Calificada Rioja",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y protegido de la luz solar.",
+    "suppliers": [
+      {
+        "name": "BODEGAS ONTAÑÓN S.L."
+      }
+    ],
+    "usage_instructions": "Recomendaciones: Consumir entre 6 y 10 C."
+  },
+  "display_name": "Vino rosado Clarete Arteso DO Rioja",
+  "ean": "8411767000332",
+  "extra_info": [
+    ""
+  ],
+  "id": "67119",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "DO Rioja",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>dióxido de azufre y sulfitos</strong>.",
+    "ingredients": "Uva, correctores de la acidez (ácido Tartárico[L(+)], ácido málico(L-)), conservadores y antioxidantes (a<strong>nhídrido sulfuroso, metabisulfito de potasio,</strong> ácido L-ascórbico), agentes estabilizantes (ácido metatartárico, carboximetilcelulosa)."
+  },
+  "origin": "DO Calificada Rioja",
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/fffaa36855bd08f651eea0a70bc133fa.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/fffaa36855bd08f651eea0a70bc133fa.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/fffaa36855bd08f651eea0a70bc133fa.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/e571e57db25116bf25531cf4c365cd05.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e571e57db25116bf25531cf4c365cd05.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e571e57db25116bf25531cf4c365cd05.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.67",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "4.667",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.50",
+    "unit_selector": true,
+    "unit_size": 0.75
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/67119/vino-rosado-do-rioja-arteso-clarete-botella",
+  "slug": "vino-rosado-do-rioja-arteso-clarete-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/fffaa36855bd08f651eea0a70bc133fa.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

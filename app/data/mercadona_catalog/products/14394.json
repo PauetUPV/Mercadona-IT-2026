@@ -1,0 +1,109 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Piccolo Giovanni",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 579,
+              "level": 2,
+              "name": "Vino lambrusco y espumoso",
+              "order": 15
+            }
+          ],
+          "id": 173,
+          "level": 1,
+          "name": "Vino lambrusco y espumoso",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": "3.9º",
+    "brand": "Piccolo Giovanni",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Vino blanco espumoso sabor melón frizzante Piccolo Giovanni",
+    "legal_name": "Cóctel aromatizado de producto vitivinícola.",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "JUAN RAMÓN LOZANO S.A.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Vino blanco espumoso sabor melón frizzante Piccolo Giovanni",
+  "ean": "8427894029924",
+  "extra_info": [
+    ""
+  ],
+  "id": "14394",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>dióxido de azufre y sulfitos</strong>.",
+    "ingredients": "Agua, uvas, azúcar, mosto de uva, co2, correctores de la acidez (ácido cítrico, ácido málico), aromas naturales de melón, conservadores (dicarbonato de dimetilo, sorbato potásico) y antioxidantes <strong>(anhídrido sulfuroso)</strong>, colorante verde menta."
+  },
+  "origin": null,
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/8b4decfbffad3876c3f6110ce4a58cec.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8b4decfbffad3876c3f6110ce4a58cec.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8b4decfbffad3876c3f6110ce4a58cec.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/1666648fa3a252a8ecd866a90a79bd17.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1666648fa3a252a8ecd866a90a79bd17.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1666648fa3a252a8ecd866a90a79bd17.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.13",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": "        2.50",
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "3.134",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.35",
+    "unit_selector": true,
+    "unit_size": 0.75
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/14394/vino-blanco-espumoso-sabor-melon-piccolo-giovanni-frizzante-botella",
+  "slug": "vino-blanco-espumoso-sabor-melon-piccolo-giovanni-frizzante-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/8b4decfbffad3876c3f6110ce4a58cec.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

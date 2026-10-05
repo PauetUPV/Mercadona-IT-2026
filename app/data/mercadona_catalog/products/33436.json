@@ -1,0 +1,122 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 475,
+              "level": 2,
+              "name": "Snacks",
+              "order": 9
+            }
+          ],
+          "id": 132,
+          "level": 1,
+          "name": "Patatas fritas y snacks",
+          "order": 9
+        }
+      ],
+      "id": 15,
+      "level": 0,
+      "name": "Aperitivos",
+      "order": 9
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Cortezas de cerdo fritas sabor barbacoa Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Cortezas de cerdo fritas con sabor a barbacoa",
+    "mandatory_mentions": "Envasado en atmósfera protectora. Sin gluten. Este producto por su tamaño, no lo deben consumir menores de 5 años.",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Proteger de la luz. Conservar en lugar fresco y seco. Una vez abierto el envase conservarlo cerrado y consumir el producto preferentemente en el plazo de una semana.",
+    "suppliers": [
+      {
+        "name": "Aperitivos Castillo S.L."
+      },
+      {
+        "name": "Aperitivos Castillo SL"
+      },
+      {
+        "name": "Fritoper S.L."
+      },
+      {
+        "name": "IMPORTACO CASA PONS S.A.U."
+      }
+    ],
+    "usage_instructions": "Abrir 2 minutos antes de consumir."
+  },
+  "display_name": "Cortezas de cerdo fritas sabor barbacoa Hacendado",
+  "ean": "8402001029523",
+  "extra_info": [
+    ""
+  ],
+  "id": "33436",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>soja y productos a base de soja</strong>.",
+    "ingredients": "Corteza de cerdo con tocino, grasa de cerdo, sal, aroma sabor barbacoa (aroma, hidrolizado de proteína vegetal (<strong>soja</strong>), lactosa (<strong>leche</strong>), potenciadores de sabor (E-621, E-635)) y antioxidante (E-320)."
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/08e4903c5a8ef889943ea30bb29a11a7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/08e4903c5a8ef889943ea30bb29a11a7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/08e4903c5a8ef889943ea30bb29a11a7.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/94fd2a145faf788c3ccf149333889fa3.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/94fd2a145faf788c3ccf149333889fa3.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/94fd2a145faf788c3ccf149333889fa3.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "14.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "14.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.40",
+    "unit_selector": true,
+    "unit_size": 0.1
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/33436/torreznos-sabor-barbacoa-hacendado-paquete",
+  "slug": "torreznos-sabor-barbacoa-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/08e4903c5a8ef889943ea30bb29a11a7.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

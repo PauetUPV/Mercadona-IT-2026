@@ -1,0 +1,128 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 816,
+              "level": 2,
+              "name": "Merluza",
+              "order": 442
+            }
+          ],
+          "id": 31,
+          "level": 1,
+          "name": "Pescado fresco",
+          "order": 442
+        }
+      ],
+      "id": 2,
+      "level": 0,
+      "name": "Marisco y pescado",
+      "order": 442
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Porciones de merluza del Cabo",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Merluccius paradoxus/capensis",
+    "mandatory_mentions": "Envasado en atmósfera protectora. Puede contener espinas.",
+    "origin": "Namibia y Sudáfrica",
+    "production_variant": "Al tratarse de un producto de peso variable la unidad de consumo adquirida puede oscilar entre 250-380 g. Por favor, consulte la etiqueta del producto para conocer el contenido neto del mismo.",
+    "storage_instructions": "Conservar entre 0ºC y 4ºC. Una vez abierto, consumir en 24 h.",
+    "suppliers": [
+      {
+        "name": "Mascato, S.A."
+      },
+      {
+        "name": "Profand Zaragoza SLU"
+      }
+    ],
+    "usage_instructions": "Conservar  entre 0ºC y 4ºC. Una vez abierto, consumir  en 24 h. Abrir 5 minutos antes  de cocinar. Cocinar antes de consumir.Contiene espinas.Envasado en atmosfera protectora."
+  },
+  "display_name": "Porciones de merluza del Cabo",
+  "ean": "8480000872401",
+  "extra_info": [
+    "El corte y número de piezas puede variar."
+  ],
+  "id": "87240",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>pescado y productos a base de pescado</strong>. Puede contener <strong>moluscos y productos a base de moluscos</strong>. Puede contener <strong>pescado y productos a base de pescado</strong>.",
+    "ingredients": "<strong>Pescado</strong>."
+  },
+  "origin": "Namibia y Sudáfrica",
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 10,
+      "regular": "https://prod-mercadona.imgix.net/images/bea41a8d6e71b06f341ab617c65c87ee.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/bea41a8d6e71b06f341ab617c65c87ee.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/bea41a8d6e71b06f341ab617c65c87ee.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/51d31b31bcd97483cccdc9ac8fbd63f3.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/51d31b31bcd97483cccdc9ac8fbd63f3.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/51d31b31bcd97483cccdc9ac8fbd63f3.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/8e09ba3358d3cdf1f67348cebb9c74e9.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8e09ba3358d3cdf1f67348cebb9c74e9.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8e09ba3358d3cdf1f67348cebb9c74e9.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/ee55b0b35906c2e4136a04f77a431c75.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ee55b0b35906c2e4136a04f77a431c75.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ee55b0b35906c2e4136a04f77a431c75.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "26.95",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "26.950",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "9.43",
+    "unit_selector": true,
+    "unit_size": 0.35
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/87240/porciones-merluza-cabo-bandeja",
+  "slug": "porciones-merluza-cabo-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/bea41a8d6e71b06f341ab617c65c87ee.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": "2026-09-24T22:00:00+00:00",
+  "unavailable_weekdays": []
+}

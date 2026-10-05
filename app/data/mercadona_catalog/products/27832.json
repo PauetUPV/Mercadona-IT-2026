@@ -1,0 +1,117 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 544,
+              "level": 2,
+              "name": "Té",
+              "order": 8
+            }
+          ],
+          "id": 162,
+          "level": 1,
+          "name": "Refresco de té y sin gas",
+          "order": 8
+        }
+      ],
+      "id": 18,
+      "level": 0,
+      "name": "Agua y refrescos",
+      "order": 8
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Refresco té verde Hacendado",
+    "legal_name": "BEBIDA REFRESCANTE DE EXTRACTOS. CON AZÚCAR Y EDULCORANTE.",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "Se añaden dos registros de empresa en función de donde se produce el producto: planta Alcolea y/o planta Tafalla.",
+    "storage_instructions": "Proteger de la luz solar y de olores agresivos. Conservar en lugar limpio, fresco y seco. Una vez abierto conservar refrigerado y consumir en 3 días.",
+    "suppliers": [
+      {
+        "name": "FONT SALEM, S.L."
+      },
+      {
+        "name": "Font Salem S.L."
+      },
+      {
+        "name": "Refresco Iberia S.A.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Refresco té verde Hacendado",
+  "ean": "8402001014338",
+  "extra_info": [
+    ""
+  ],
+  "id": "27832",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Agua, azúcar, acidulante: ácido cítrico, aromas, extracto de té verde (0,05%), corrector de acidez: citratos de sodio, antioxidante: ácido ascórbico, edulcorante: sucralosa, colorantes: E-150d y E-142."
+  },
+  "origin": null,
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/2e4409f80f89f9b7afa0b644b8c7a5c8.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/2e4409f80f89f9b7afa0b644b8c7a5c8.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/2e4409f80f89f9b7afa0b644b8c7a5c8.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/90acaa0deca15340aa8c10735ae4d8cf.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/90acaa0deca15340aa8c10735ae4d8cf.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/90acaa0deca15340aa8c10735ae4d8cf.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "0.67",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "0.667",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.00",
+    "unit_selector": true,
+    "unit_size": 1.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/27832/refresco-te-verde-hacendado-botella",
+  "slug": "refresco-te-verde-hacendado-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/2e4409f80f89f9b7afa0b644b8c7a5c8.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

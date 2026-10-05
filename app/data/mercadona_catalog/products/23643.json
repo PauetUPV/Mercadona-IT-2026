@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 318,
+              "level": 2,
+              "name": "Pan de molde",
+              "order": 515
+            }
+          ],
+          "id": 60,
+          "level": 1,
+          "name": "Pan de molde y otras especialidades",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pan de molde 100% integral sin corteza Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Pan de molde 100% integral (trigo y cebada)",
+    "mandatory_mentions": "Sin lactosa",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco",
+    "suppliers": [
+      {
+        "name": "Morato Iberia, S.L.U"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Pan de molde 100% integral sin corteza Hacendado",
+  "ean": "8402001021541",
+  "extra_info": [
+    ""
+  ],
+  "id": "23643",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>gb</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Harina integral de <strong>trigo</strong> (<strong>gluten</strong>) (58%), agua, <strong>gluten</strong> de <strong>trigo,</strong> levadura, aceite refinado de girasol (1%), sal, fibra de <strong>trigo</strong> (<strong>gluten</strong>), vinagre de vino, harina integral de <strong>cebada</strong> malteada (<strong>gluten</strong>) (0,2%), emulgentes (E-472e, E-471), conservadores (E-282, E-200), antioxidante (E-300), aroma. <strong>Puede contener trazas de semillas de sésamo, soja y mostaza</strong>."
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/3c3a0ceabc49c8022b255bb92751d3d5.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3c3a0ceabc49c8022b255bb92751d3d5.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3c3a0ceabc49c8022b255bb92751d3d5.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/2b6b88af1a055b1d37798f6101ba0aa0.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/2b6b88af1a055b1d37798f6101ba0aa0.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/2b6b88af1a055b1d37798f6101ba0aa0.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.44",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "2.445",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 16,
+    "unit_name": "rebanadas",
+    "unit_price": "1.10",
+    "unit_selector": true,
+    "unit_size": 0.45
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/23643/pan-molde-100-integral-sin-corteza-hacendado-0-azucares-anadidos-paquete",
+  "slug": "pan-molde-100-integral-sin-corteza-hacendado-0-azucares-anadidos-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/3c3a0ceabc49c8022b255bb92751d3d5.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

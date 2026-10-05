@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "KH-7",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 736,
+              "level": 2,
+              "name": "Limpieza cocina",
+              "order": 374
+            }
+          ],
+          "id": 230,
+          "level": 1,
+          "name": "Limpieza cocina",
+          "order": 374
+        }
+      ],
+      "id": 26,
+      "level": 0,
+      "name": "Limpieza y hogar",
+      "order": 374
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "KH-7",
+    "counter_info": null,
+    "danger_mentions": "H319 - Provoca irritación ocular grave. H315 - Provoca irritación cutánea.",
+    "description": "Quitagrasas KH-7 con pistola",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "KH-7 QUITAGRASAS",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "KH Lloreda"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Quitagrasas KH-7",
+  "ean": "8420822130389",
+  "extra_info": [
+    ""
+  ],
+  "id": "23801",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": ""
+  },
+  "origin": null,
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/afe472e40a5cdce8cd51b3db3ecdf15d.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/afe472e40a5cdce8cd51b3db3ecdf15d.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/afe472e40a5cdce8cd51b3db3ecdf15d.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/e021e57e43802339680fd25606680200.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e021e57e43802339680fd25606680200.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e021e57e43802339680fd25606680200.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.23",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "4.231",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.30",
+    "unit_selector": true,
+    "unit_size": 0.78
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/23801/quitagrasas-kh-7-con-pistola-botella",
+  "slug": "quitagrasas-kh-7-con-pistola-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/afe472e40a5cdce8cd51b3db3ecdf15d.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

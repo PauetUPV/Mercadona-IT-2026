@@ -1,0 +1,125 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 289,
+              "level": 2,
+              "name": "Arreglos",
+              "order": 17
+            }
+          ],
+          "id": 46,
+          "level": 1,
+          "name": "Arreglos",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Hueso vacuno",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Hueso de vacuno. Preparado de carne.",
+    "mandatory_mentions": "Envasado en atmósfera protectora.",
+    "origin": null,
+    "production_variant": "Producto de peso variable, el contenido neto puede oscilar entre 450 g y 650g",
+    "storage_instructions": "Conservar de 0 a 4C. Una vez abierto consumir en 24 horas.",
+    "suppliers": [
+      {
+        "name": "ELABORADOS CARNICOS MEDINA"
+      },
+      {
+        "name": "Elaborados Cárnicos Medina S.A.U."
+      },
+      {
+        "name": "Fabricado por: ELABORADOS CÁRNICOS MEDINA, S.A.U."
+      }
+    ],
+    "usage_instructions": "Cocinar completamente antes de su consumo."
+  },
+  "display_name": "Hueso vacuno",
+  "ean": "8402001059766",
+  "extra_info": [
+    null
+  ],
+  "id": "86330",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Hueso de vacuno (98%), agua, antioxidante (E-301), extracto vegetal de acerola."
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/6684b6aea00dcb564133ff7ea4b87e64.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/6684b6aea00dcb564133ff7ea4b87e64.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/6684b6aea00dcb564133ff7ea4b87e64.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/4a8fea9146acc74f78e2419b6e771a01.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4a8fea9146acc74f78e2419b6e771a01.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4a8fea9146acc74f78e2419b6e771a01.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/ec4bfb21ddfd5672a983f85f45726585.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ec4bfb21ddfd5672a983f85f45726585.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ec4bfb21ddfd5672a983f85f45726585.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "6.20",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.200",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.41",
+    "unit_selector": true,
+    "unit_size": 0.55
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/86330/hueso-vacuno-bandeja",
+  "slug": "hueso-vacuno-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/6684b6aea00dcb564133ff7ea4b87e64.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 834,
+              "level": 2,
+              "name": "Surimi y otros",
+              "order": 442
+            }
+          ],
+          "id": 32,
+          "level": 1,
+          "name": "Marisco",
+          "order": 442
+        }
+      ],
+      "id": 2,
+      "level": 0,
+      "name": "Marisco y pescado",
+      "order": 442
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Delicias del mar de surimi Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Producto de la pesca transformado. Cocinado. Refrigerado.",
+    "mandatory_mentions": "Envasado en atmósfera protectora.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 0ºC y 4ºC hasta la fecha de caducidad",
+    "suppliers": [
+      {
+        "name": "Pescanova España S.L.U."
+      }
+    ],
+    "usage_instructions": "Seguir la indicaciones del envase"
+  },
+  "display_name": "Delicias del mar de surimi Hacendado",
+  "ean": "8480000625038",
+  "extra_info": [
+    ""
+  ],
+  "id": "62503",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>moluscos y productos a base de moluscos</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>pescado y productos a base de pescado</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>.",
+    "ingredients": "Surimi (<strong>pescado</strong>), agua, aceite vegetal refinado: ver lote (O (Oliva), G (Girasol), N (Nabina)), almidón, sal, aromas (<strong>moluscos</strong>, <strong>pescado</strong>, <strong>soja</strong>), clara de <strong>huevo</strong>, tinta de sepia (<strong>moluscos</strong>). Sin gluten. Sin lactosa. Puede contener <strong>crustáceos</strong>."
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/77f34090d0108c0fcc6deb0d7944c188.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/77f34090d0108c0fcc6deb0d7944c188.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/77f34090d0108c0fcc6deb0d7944c188.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/33fff6ac6602495d204ef037c296f60c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/33fff6ac6602495d204ef037c296f60c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/33fff6ac6602495d204ef037c296f60c.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "8.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "8.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.00",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/62503/delicias-mar-surimi-hacendado-bandeja",
+  "slug": "delicias-mar-surimi-hacendado-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/77f34090d0108c0fcc6deb0d7944c188.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

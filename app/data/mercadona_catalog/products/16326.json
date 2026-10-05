@@ -1,0 +1,109 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 386,
+              "level": 2,
+              "name": "Chocolatinas",
+              "order": 11
+            }
+          ],
+          "id": 92,
+          "level": 1,
+          "name": "Chocolate",
+          "order": 11
+        }
+      ],
+      "id": 9,
+      "level": 0,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Huevos con disquitos Pascua de chocolate Hacendado",
+    "legal_name": "Huevo de chocolate blanco (50%) (Cacao: 27% min.) (Leche: 17% min.) y chocolate con leche (50%) (Cacao: 30% min.) (Leche: 17% min.).",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "Mon Desir Di Toti Giorgio E C. Snc"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Huevos con disquitos Pascua de chocolate Hacendado",
+  "ean": "8402001043697",
+  "extra_info": [
+    ""
+  ],
+  "id": "16326",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Azucar, manteca de cacao, <strong>leche</strong> en polvo, pasta de cacao, emulgente: lecitina de <strong>soja</strong>, aroma natural de vainilla. Grageas de chocolate con <strong>leche</strong> (Cacao: 28% min.): Chocolate con <strong>leche</strong> (50%) (azucar, manteca de cacao; <strong>leche</strong> en polvo, pasta de cacao; suero de <strong>leche</strong> en polvo; emulgente: lecitina de <strong>soja</strong>; aroma: vainillina); azucar; almidon de arroz y maiz; gelificantes: maltodextrina, goma arabiga; extracto de alga espirulina; colorantes: E100, E101, E153, E160c, E162, E170; agente de recubrimiento: cera de carnauba; aroma: vainillina. <strong>Puede contener trazas de frutos de cascara, cacahuetes y productos. derivados.</strong>"
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/35c8e136269f421d17f7428e620431a1.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/35c8e136269f421d17f7428e620431a1.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/35c8e136269f421d17f7428e620431a1.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/72f4a796a55cc590b8abe7308a186c0f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/72f4a796a55cc590b8abe7308a186c0f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/72f4a796a55cc590b8abe7308a186c0f.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "20.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": "        1.70",
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "20.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 3,
+    "unit_name": "ud.",
+    "unit_price": "1.50",
+    "unit_selector": true,
+    "unit_size": 0.075
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/16326/huevos-con-disquitos-pascua-chocolate-hacendado-paquete",
+  "slug": "huevos-con-disquitos-pascua-chocolate-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/35c8e136269f421d17f7428e620431a1.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

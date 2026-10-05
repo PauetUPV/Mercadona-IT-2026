@@ -1,0 +1,119 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 440,
+              "level": 2,
+              "name": "Otras salsas",
+              "order": 7
+            }
+          ],
+          "id": 117,
+          "level": 1,
+          "name": "Otras salsas",
+          "order": 7
+        }
+      ],
+      "id": 12,
+      "level": 0,
+      "name": "Aceite, especias y salsas",
+      "order": 7
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pasta de sésamo Tahini Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Tahin convencional 200g",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "El producto debe ser almacenado en su envase original, en un lugar fresco, eco y libre de olores.",
+    "suppliers": [
+      {
+        "name": "FOOD REBELS S.L."
+      },
+      {
+        "name": "Laboratorios Almond"
+      },
+      {
+        "name": "Laboratorios Almond SL"
+      }
+    ],
+    "usage_instructions": "Puede ser consumido directamente y también puede ser utilizada como ingrediente en recetas. Cuando experimenta cambios de temperatura o permanece inmóvil varios días, es habitual la aparición de aceite en superficie. Este aceite desaparece tras remover el producto"
+  },
+  "display_name": "Pasta de sésamo Tahini Hacendado",
+  "ean": "8402001035265",
+  "extra_info": [
+    null
+  ],
+  "id": "17441",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>sa</strong>. Puede contener <strong>frutos de cáscara</strong>. Contiene <strong>granos de sésamo y productos a base de granos de sésamo</strong>.",
+    "ingredients": "Semillas de <strong>sésamo</strong> descascarilladas (100%). Este producto se fabrica en una planta donde se manipulan <strong>frutos de cáscara</strong>."
+  },
+  "origin": null,
+  "packaging": "Tarro",
+  "photos": [
+    {
+      "perspective": 3,
+      "regular": "https://prod-mercadona.imgix.net/images/cff0f56138bafc3ab2ed1bdf5487f2cc.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/cff0f56138bafc3ab2ed1bdf5487f2cc.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/cff0f56138bafc3ab2ed1bdf5487f2cc.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/ce3adf195b1437f09e88eb2489fd14ce.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ce3adf195b1437f09e88eb2489fd14ce.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ce3adf195b1437f09e88eb2489fd14ce.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "14.75",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "14.750",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.95",
+    "unit_selector": true,
+    "unit_size": 0.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/17441/pasta-sesamo-tahini-hacendado-tarro",
+  "slug": "pasta-sesamo-tahini-hacendado-tarro",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/cff0f56138bafc3ab2ed1bdf5487f2cc.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

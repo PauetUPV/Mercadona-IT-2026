@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 886,
+              "level": 2,
+              "name": "Verdura rebozada y otros",
+              "order": 213
+            }
+          ],
+          "id": 884,
+          "level": 1,
+          "name": "Rebozados",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Tequeños de queso Hacendado ultracongelados",
+    "legal_name": "Palitos de queso fresco envueltos en masa crujiente",
+    "mandatory_mentions": "Snack de queso 100% leche de vaca. Producto ultracongelado. Hechos artesanalmente como en casa. Sugerencia de presentación.",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar a -18C. Una vez descongelado, no volver a congelar.",
+    "suppliers": [
+      {
+        "name": "Alimentos Polar España, S.L."
+      }
+    ],
+    "usage_instructions": "Listo en 4 minutos. Freidora o sartén: 1. Introducir los tequeños congelados a la freidora a una temperatura de 180C durante 4 min. aprox. o hasta dorar. Horno: Precalentar el horno a 180C e introducir los tequeños congelados. Hornear por 15 minutos."
+  },
+  "display_name": "Tequeños de queso Hacendado ultracongelados",
+  "ean": "8480000134134",
+  "extra_info": [
+    ""
+  ],
+  "id": "13413",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>trigo y productos derivados</strong>.",
+    "ingredients": "<strong>Queso</strong> fresco elaborado con <strong>leche</strong> pasteurizada de vaca (43%), harina de <strong>trigo</strong> (34%) (antioxidante E-300), <strong>mantequilla</strong> , agua, <strong>huevo</strong> líquido pasteurizado, azúcar, jarabe de panela y sal (antiaglomerante E-536)."
+  },
+  "origin": "España",
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/b703147ab73a07889ae50db736367d74.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b703147ab73a07889ae50db736367d74.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b703147ab73a07889ae50db736367d74.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/b95e1f0105654ffa743cf1eab46a2bca.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b95e1f0105654ffa743cf1eab46a2bca.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b95e1f0105654ffa743cf1eab46a2bca.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "9.79",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "9.792",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 12,
+    "unit_name": "ud.",
+    "unit_price": "4.70",
+    "unit_selector": true,
+    "unit_size": 0.48
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/13413/tequenos-queso-hacendado-ultracongelados-caja",
+  "slug": "tequenos-queso-hacendado-ultracongelados-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/b703147ab73a07889ae50db736367d74.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

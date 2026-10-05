@@ -1,0 +1,114 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 821,
+              "level": 2,
+              "name": "Galletas desayuno",
+              "order": 18
+            }
+          ],
+          "id": 80,
+          "level": 1,
+          "name": "Galletas",
+          "order": 18
+        }
+      ],
+      "id": 7,
+      "level": 0,
+      "name": "Cereales y galletas",
+      "order": 18
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Galletas María sin gluten y sin lactosa Hacendado",
+    "legal_name": "Galletas María sin gluten y sin lactosa",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco",
+    "suppliers": [
+      {
+        "name": "CASA SANTIVERI S.L."
+      },
+      {
+        "name": "PRODUCTORA ALIMENTICIA GENERAL ESPAÑOLA, S.A."
+      }
+    ],
+    "usage_instructions": "Como una galleta tradicional."
+  },
+  "display_name": "Galletas María sin gluten y sin lactosa Hacendado",
+  "ean": "8480000142351",
+  "extra_info": [
+    null
+  ],
+  "id": "14235",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>soja y productos a base de soja</strong>.",
+    "ingredients": "Almidón de maíz, azúcar moreno de caña, harina de arroz, aceites vegetales (girasol (11,56%), oliva), maltodextrina, harina de maíz, gelificante (fosfato de dialmidón acetilado), proteína de guisante, dextrina, emulgente: lecitinas (<strong>soja</strong>), fibra vegetal, gasificantes (bicarbonato sódico, bicarbonato amónico, bitartrato potásico ), sal, aroma, antioxidante (extracto rico en tocoferoles)."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/ef9269e1c7f037d478f1329b5b762c14.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ef9269e1c7f037d478f1329b5b762c14.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ef9269e1c7f037d478f1329b5b762c14.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/64c723711849802bfacedbf863f66525.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/64c723711849802bfacedbf863f66525.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/64c723711849802bfacedbf863f66525.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "7.80",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.805",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.60",
+    "unit_selector": true,
+    "unit_size": 0.205
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/14235/galletas-maria-sin-gluten-sin-lactosa-hacendado-paquete",
+  "slug": "galletas-maria-sin-gluten-sin-lactosa-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/ef9269e1c7f037d478f1329b5b762c14.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

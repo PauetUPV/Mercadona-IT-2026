@@ -1,0 +1,102 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 316,
+              "level": 2,
+              "name": "Barra de pan",
+              "order": 515
+            }
+          ],
+          "id": 59,
+          "level": 1,
+          "name": "Pan de horno",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": "Ingredientes: Productos de granos molidos (harina de trigo (35%), harina integral de trigo (5,6%), harina de centeno (2,8%), copos de avena (2,8%)), agua, masa madre (20%) (agua, harina integral de centeno (5%), harina de centeno (5%)), semillas de girasol, linaza, semillas de sésamo (2,8%), levadura, semillas de amapola, sal, espesante (E412), emulgentes (E471), gluten de trigo (0,5%), jarabe de caramelo, sirope de azúcar invertido.\n\nAlérgenos: harina de, trigo, harina integral de trigo, harina de centeno, copos de avena, harina integral de centeno, semillas de sésamo, gluten de trigo.\n\nPuede contener trazas de: Altramuces, Soja, Leche y sus derivados (incluida lactosa), Huevo, Frutos de cáscara y derivados, Mostaza, Moluscos, Pescado, Crustáceos, Apio, Cacahuetes, Sulfitos.\n\nProducto preparado por Mercadona, S.A. (C/ Alfonso Roig Alfonso, s/n. Albalat dels Sorells 46135, Valencia).",
+    "danger_mentions": "",
+    "description": "Pan campeón del mundo",
+    "is_prepared_by_mercadona": true,
+    "legal_name": "Pan de trigo (85%), centeno (10%) y avena (5%),  precocido, congelado",
+    "mandatory_mentions": "No vuelva a congelar después de descongelar!",
+    "origin": "Alemania",
+    "production_variant": "Variante",
+    "storage_instructions": "Almacenamiento en menos -18C.",
+    "suppliers": [],
+    "usage_instructions": ""
+  },
+  "display_name": "Pan campeón del mundo",
+  "ean": "2105945823801",
+  "extra_info": [
+    null
+  ],
+  "id": "82380.1",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>gb</strong>. Contiene <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Contiene <strong>go</strong>. Contiene <strong>trigo y productos derivados</strong>.",
+    "ingredients": "Ingredientes: productos de granos molidos (HARINA DE TRIGO (35%), HARINA INTEGRAL DE TRIGO (5,6%), HARINA DE CENTENO (2,8%), COPOS DE AVENA (2,8%)), agua, masa madre (20%) (agua, HARINA INTEGRAL DE CENTENO (5%), HARINA DE CENTENO (5%)), semillas de girasol, linaza, SEMILLAS DE SÉSAMO (2,8%), levadura, semillas de amapola, sal, espesante (E412), emulgentes (E471), GLUTEN DE TRIGO (0,5%), jarabe de caramelo, sirope de azúcar invertido.Puede contener trazas de cebada."
+  },
+  "origin": "Alemania",
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/9b4ea2fcafe1157323c788640891bc80.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9b4ea2fcafe1157323c788640891bc80.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9b4ea2fcafe1157323c788640891bc80.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.67",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "2.667",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 1,
+    "unit_name": "ud.",
+    "unit_price": "2.00",
+    "unit_selector": true,
+    "unit_size": 0.75
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/82380.1/pan-campeon-mundo",
+  "slug": "pan-campeon-mundo",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/9b4ea2fcafe1157323c788640891bc80.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

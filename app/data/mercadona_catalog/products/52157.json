@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 314,
+              "level": 2,
+              "name": "Paté",
+              "order": 159
+            }
+          ],
+          "id": 58,
+          "level": 1,
+          "name": "Paté y sobrasada",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Paté de cerdo y pollo con trufa y arándanos Hacendado",
+    "legal_name": "Paté de cerdo y pollo con Trufa y Arándanos",
+    "mandatory_mentions": "Envasado en atmósfera protectora. Sin gluten",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en frío entre 0C y 4C.",
+    "suppliers": [
+      {
+        "name": "De Spiegeleire N.V."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Paté de cerdo y pollo con trufa y arándanos Hacendado",
+  "ean": "8480000521576",
+  "extra_info": [
+    ""
+  ],
+  "id": "52157",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>mostaza y productos derivados</strong>. Puede contener <strong>frutos de cáscara</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "23% Hígado de cerdo, 20% grasa de cerdo, 12% carne de cerdo, crema de arroz (<strong>leche</strong>, harina de arroz), 5,8% confitura de arándanos (azúcar, 26% arándanos agrios, 22% arándanos), 5,7% gelatina de arándano (arándanos silvestres, azúcar, gelatina porcina, fibras de patatas, espesante: E440, antioxidantes: E330), 5,5% higado de pollo, colágeno de cerdo, <strong>huevo</strong>, 1,4% salsa con trufa (champiñones, 10% trufa de verano, aceite de oliva, agua, fibras vegetales, sal, aromas), acidulantes: E262, E325; sal nitritada (sal, conservador: E250), azúcar, vino Madeira, cebolla, 0,31% trompetas de la muerte, especias (contiene <strong>mostaza</strong>), aroma natural, almidón de guisante, antioxidantes: E300, E330; dextrosa, aroma de trufa, hemoglobina. Puede contener trazas de <strong>frutos de cáscara</strong>."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/a934d649a0d255eed26810f4804eb6d9.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a934d649a0d255eed26810f4804eb6d9.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a934d649a0d255eed26810f4804eb6d9.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/1315d678996d078eddca211a348d4257.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1315d678996d078eddca211a348d4257.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1315d678996d078eddca211a348d4257.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "18.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "18.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.85",
+    "unit_selector": true,
+    "unit_size": 0.1
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/52157/pate-cerdo-pollo-con-trufa-arandanos-hacendado-paquete",
+  "slug": "pate-cerdo-pollo-con-trufa-arandanos-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/a934d649a0d255eed26810f4804eb6d9.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

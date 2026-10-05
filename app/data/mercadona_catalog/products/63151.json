@@ -1,0 +1,135 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 514,
+              "level": 2,
+              "name": "Pescado rebozado",
+              "order": 213
+            }
+          ],
+          "id": 884,
+          "level": 1,
+          "name": "Rebozados",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 275,
+              "level": 2,
+              "name": "Pescado rebozado congelado",
+              "order": 442
+            }
+          ],
+          "id": 34,
+          "level": 1,
+          "name": "Pescado congelado",
+          "order": 442
+        }
+      ],
+      "id": 2,
+      "level": 0,
+      "name": "Marisco y pescado",
+      "order": 442
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Palitos de merluza a la romana Hacendado ultracongelados",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "PALITO DE MERLUZA A LA ROMANA. PRECOCINADO ULTRACONGELADO",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Mantener a =-18C",
+    "suppliers": [
+      {
+        "name": "CONGALSA S.L."
+      }
+    ],
+    "usage_instructions": "SARTÉN: No descongelar. Freír en abundante aceite muy caliente (180ºC). Déles la vuelta inmediatamente para formar una cobertura más crujiente y continúe friendo de 3 a 4 minutos aproximadamente, hasta que estén dorados por igual. FREIDORA: No descongelar. Freír en abundante aceite caliente (180ºC) durante 3-4 minutos aproximadamente hasta que estén bien dorados. SUGERENCIA: Freír en pequeñas cantidades para no alterar la temperatura del aceite de fritura. FREIDORA DE AIRE: Sin descongelar. Colocar las unidades separadas entre sí para que se cocinen uniformemente. Cocinar durante 8 minutos a 200ºC. FREIDORA DE AIRE: Sin descongelar. Colocar las unidades separadas entre sí para que se cocinen uniformemente. Cocinar durante 8 minutos a 200ºC."
+  },
+  "display_name": "Palitos de merluza a la romana Hacendado ultracongelados",
+  "ean": "8480000631510",
+  "extra_info": [
+    null
+  ],
+  "id": "63151",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "ultracongelados",
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>. Puede contener <strong>moluscos y productos a base de moluscos</strong>. Puede contener <strong>huevos y productos a base de huevo</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>ml</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>pescado y productos a base de pescado</strong>. Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>cacahuetes y productos a base de cacahuetes</strong>.",
+    "ingredients": "<strong>MERLUZA</strong> (<strong>PESCADO</strong>) (35%), rebozado (65%): agua, pan rallado (harina de <strong>TRIGO</strong> (<strong>GLUTEN</strong>), agua, pimentón, sal, cúrcuma y levadura), harina de <strong>TRIGO</strong> (<strong>GLUTEN</strong>), aceite refinado de girasol, almidón, sal, gasificantes (E-450, E-500), corrector de la acidez (E-330), zumo de limón concentrado, <strong>LACTOSA</strong>, espesante (E-417), potenciador del sabor (E-621), ajo en polvo y colorante (E-101). Puede contener trazas de <strong>leche</strong>, <strong>huevo</strong>, <strong>crustáceos</strong>, <strong>moluscos</strong>, <strong>soja</strong>, <strong>mostaza</strong> y <strong>cacahuete</strong>."
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/290b68c3ef4f27d675f10fed5a944afa.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/290b68c3ef4f27d675f10fed5a944afa.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/290b68c3ef4f27d675f10fed5a944afa.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/9fa7c327897a8f55b7aedf06e030870f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9fa7c327897a8f55b7aedf06e030870f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9fa7c327897a8f55b7aedf06e030870f.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.30",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": "        2.75",
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.300",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.65",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/63151/palitos-merluza-romana-hacendado-ultracongelados-paquete",
+  "slug": "palitos-merluza-romana-hacendado-ultracongelados-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/290b68c3ef4f27d675f10fed5a944afa.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

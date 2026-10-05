@@ -1,0 +1,1447 @@
+{
+  "categories": [
+    {
+      "id": 376,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Té",
+      "order": 16,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 8,
+              "level": 0,
+              "name": "Cacao, café e infusiones",
+              "order": 16
+            }
+          ],
+          "display_name": "Té verde Hacendado",
+          "id": "13651",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "25.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "100 g",
+            "reference_price": "2.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 20,
+            "unit_name": "bolsitas",
+            "unit_price": "0.75",
+            "unit_selector": true,
+            "unit_size": 0.03
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/13651/te-verde-hacendado-caja",
+          "slug": "te-verde-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/d4d5d098f5dce80ae9b9fa2e72fade52.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 8,
+              "level": 0,
+              "name": "Cacao, café e infusiones",
+              "order": 16
+            }
+          ],
+          "display_name": "Té Chai Hacendado",
+          "id": "11433",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "28.75",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "100 g",
+            "reference_price": "2.875",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 20,
+            "unit_name": "bolsitas",
+            "unit_price": "1.15",
+            "unit_selector": true,
+            "unit_size": 0.04
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/11433/te-chai-hacendado-caja",
+          "slug": "te-chai-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/01553faca744a8bd9317002b6591da2f.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 8,
+              "level": 0,
+              "name": "Cacao, café e infusiones",
+              "order": 16
+            }
+          ],
+          "display_name": "Té negro PG tips",
+          "id": "52967",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "22.41",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "22.414",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 40,
+            "unit_name": "bolsitas",
+            "unit_price": "2.60",
+            "unit_selector": true,
+            "unit_size": 0.116
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/52967/te-negro-pg-tips-caja",
+          "slug": "te-negro-pg-tips-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/edfe31e1fe3a7a281a0c124e52f619fd.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 8,
+              "level": 0,
+              "name": "Cacao, café e infusiones",
+              "order": 16
+            }
+          ],
+          "display_name": "Té negro con canela Hacendado",
+          "id": "35727",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "46.67",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "100 g",
+            "reference_price": "4.667",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 20,
+            "unit_name": "bolsitas",
+            "unit_price": "1.40",
+            "unit_selector": true,
+            "unit_size": 0.03
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/35727/te-negro-con-canela-hacendado-caja",
+          "slug": "te-negro-con-canela-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/0f79bda7b73f67dfa7c085ba0119ae66.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 8,
+              "level": 0,
+              "name": "Cacao, café e infusiones",
+              "order": 16
+            }
+          ],
+          "display_name": "Té Matcha en polvo Hacendado",
+          "id": "15099",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "193.33",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "100 g",
+            "reference_price": "19.334",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 10,
+            "unit_name": "sobres",
+            "unit_price": "2.90",
+            "unit_selector": true,
+            "unit_size": 0.015
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/15099/te-matcha-polvo-hacendado-caja",
+          "slug": "te-matcha-polvo-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/638428e5cc3dc416d50ca3958eb11feb.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 8,
+              "level": 0,
+              "name": "Cacao, café e infusiones",
+              "order": 16
+            }
+          ],
+          "display_name": "Té negro Hacendado",
+          "id": "8804",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "24.29",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "100 g",
+            "reference_price": "2.429",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 20,
+            "unit_name": "bolsitas",
+            "unit_price": "0.85",
+            "unit_selector": true,
+            "unit_size": 0.035
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/8804/te-negro-hacendado-caja",
+          "slug": "te-negro-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/0cbcccb5290289a135ca33ace366a065.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 8,
+              "level": 0,
+              "name": "Cacao, café e infusiones",
+              "order": 16
+            }
+          ],
+          "display_name": "Té verde con hierbabuena Hacendado",
+          "id": "11175",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "33.75",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "100 g",
+            "reference_price": "3.375",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 20,
+            "unit_name": "bolsitas",
+            "unit_price": "1.35",
+            "unit_selector": true,
+            "unit_size": 0.04
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/11175/te-verde-con-hierbabuena-hacendado-caja",
+          "slug": "te-verde-con-hierbabuena-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/c8129414a45cf317929151c3d6bfa04e.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    },
+    {
+      "id": 377,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Infusiones",
+      "order": 16,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 8,
+              "level": 0,
+              "name": "Cacao, café e infusiones",
+              "order": 16
+            }
+          ],
+          "display_name": "Infusión Manzanilla Hacendado",
+          "id": "11168",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "24.07",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "100 g",
+            "reference_price": "2.408",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 20,
+            "unit_name": "bolsitas",
+            "unit_price": "0.65",
+            "unit_selector": true,
+            "unit_size": 0.027
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/11168/infusion-manzanilla-hacendado-caja",
+          "slug": "infusion-manzanilla-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/ba76df9c56636d070f1be9b797bc33cb.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 8,
+              "level": 0,
+              "name": "Cacao, café e infusiones",
+              "order": 16
+            }
+          ],
+          "display_name": "Infusión Menta Poleo Hacendado",
+          "id": "60671",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "25.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "100 g",
+            "reference_price": "2.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 20,
+            "unit_name": "bolsitas",
+            "unit_price": "0.75",
+            "unit_selector": true,
+            "unit_size": 0.03
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/60671/infusion-menta-poleo-hacendado-caja",
+          "slug": "infusion-menta-poleo-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/db1e5eeb680220f22148c39a8bbae52a.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 8,
+              "level": 0,
+              "name": "Cacao, café e infusiones",
+              "order": 16
+            }
+          ],
+          "display_name": "Infusión Tila Hacendado",
+          "id": "11431",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "35.42",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "100 g",
+            "reference_price": "3.542",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 20,
+            "unit_name": "bolsitas",
+            "unit_price": "0.85",
+            "unit_selector": true,
+            "unit_size": 0.024
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/11431/infusion-tila-hacendado-caja",
+          "slug": "infusion-tila-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/4843ebb4d3eb34d681e7ec7d7f68f35c.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 8,
+              "level": 0,
+              "name": "Cacao, café e infusiones",
+              "order": 16
+            }
+          ],
+          "display_name": "Infusión Cola de caballo Hacendado",
+          "id": "11447",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "35.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "100 g",
+            "reference_price": "3.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 20,
+            "unit_name": "bolsitas",
+            "unit_price": "1.05",
+            "unit_selector": true,
+            "unit_size": 0.03
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/11447/infusion-cola-caballo-hacendado-caja",
+          "slug": "infusion-cola-caballo-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/48276bc3e476aa93e05c6471af0f463d.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 8,
+              "level": 0,
+              "name": "Cacao, café e infusiones",
+              "order": 16
+            }
+          ],
+          "display_name": "Infusión Manzanilla con anís Hacendado",
+          "id": "11430",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "32.69",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "100 g",
+            "reference_price": "3.270",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 20,
+            "unit_name": "bolsitas",
+            "unit_price": "0.85",
+            "unit_selector": true,
+            "unit_size": 0.026
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/11430/infusion-manzanilla-con-anis-hacendado-caja",
+          "slug": "infusion-manzanilla-con-anis-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/a3b7b6e62a78745e39a0458e915b8d19.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 8,
+              "level": 0,
+              "name": "Cacao, café e infusiones",
+              "order": 16
+            }
+          ],
+          "display_name": "Infusión Relax Hacendado",
+          "id": "11408",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "35.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "100 g",
+            "reference_price": "3.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 20,
+            "unit_name": "bolsitas",
+            "unit_price": "1.05",
+            "unit_selector": true,
+            "unit_size": 0.03
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/11408/infusion-relax-hacendado-con-tila-azahar-melisa-hierba-luisa-caja",
+          "slug": "infusion-relax-hacendado-con-tila-azahar-melisa-hierba-luisa-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/8c736fa698b37b4937f6ffae448ee653.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 8,
+              "level": 0,
+              "name": "Cacao, café e infusiones",
+              "order": 16
+            }
+          ],
+          "display_name": "Infusión Laxsen sabor menta Hacendado",
+          "id": "11470",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "35.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "100 g",
+            "reference_price": "3.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 20,
+            "unit_name": "bolsitas",
+            "unit_price": "1.05",
+            "unit_selector": true,
+            "unit_size": 0.03
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/11470/infusion-laxsen-sabor-menta-hacendado-caja",
+          "slug": "infusion-laxsen-sabor-menta-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/f98929d515ff98881c54675f7bf6a42e.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 8,
+              "level": 0,
+              "name": "Cacao, café e infusiones",
+              "order": 16
+            }
+          ],
+          "display_name": "Infusión Tomillo Hacendado",
+          "id": "11453",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "43.75",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "100 g",
+            "reference_price": "4.375",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 20,
+            "unit_name": "bolsitas",
+            "unit_price": "1.05",
+            "unit_selector": true,
+            "unit_size": 0.024
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/11453/infusion-tomillo-hacendado-caja",
+          "slug": "infusion-tomillo-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/3babb81db4070c157120a40971167279.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 8,
+              "level": 0,
+              "name": "Cacao, café e infusiones",
+              "order": 16
+            }
+          ],
+          "display_name": "Infusión Dormir Hacendado",
+          "id": "11427",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "35.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "100 g",
+            "reference_price": "3.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 20,
+            "unit_name": "bolsitas",
+            "unit_price": "1.05",
+            "unit_selector": true,
+            "unit_size": 0.03
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/11427/infusion-dormir-hacendado-caja",
+          "slug": "infusion-dormir-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/7250f111d492a028debc378bed3d7687.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 8,
+              "level": 0,
+              "name": "Cacao, café e infusiones",
+              "order": 16
+            }
+          ],
+          "display_name": "Infusión Rooibos cítricos Hacendado",
+          "id": "13652",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "28.75",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "100 g",
+            "reference_price": "2.875",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 20,
+            "unit_name": "bolsitas",
+            "unit_price": "1.15",
+            "unit_selector": true,
+            "unit_size": 0.04
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/13652/infusion-rooibos-citricos-hacendado-caja",
+          "slug": "infusion-rooibos-citricos-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/279c2150fbf57ab28f8cc7f595e87338.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 8,
+              "level": 0,
+              "name": "Cacao, café e infusiones",
+              "order": 16
+            }
+          ],
+          "display_name": "Infusión Digest Hacendado",
+          "id": "15726",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "26.25",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "100 g",
+            "reference_price": "2.625",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 20,
+            "unit_name": "bolsitas",
+            "unit_price": "1.05",
+            "unit_selector": true,
+            "unit_size": 0.04
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/15726/infusion-digest-hacendado-caja",
+          "slug": "infusion-digest-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/3563cdcc7269de0c86cb6fc2580f7e4a.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 8,
+              "level": 0,
+              "name": "Cacao, café e infusiones",
+              "order": 16
+            }
+          ],
+          "display_name": "Infusión frutos rojos Hacendado",
+          "id": "8805",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "35.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "100 g",
+            "reference_price": "3.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 20,
+            "unit_name": "bolsitas",
+            "unit_price": "1.40",
+            "unit_selector": true,
+            "unit_size": 0.04
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/8805/infusion-frutos-rojos-hacendado-caja",
+          "slug": "infusion-frutos-rojos-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/67fa51f8a84ae2043bff0b94f1bb4747.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 8,
+              "level": 0,
+              "name": "Cacao, café e infusiones",
+              "order": 16
+            }
+          ],
+          "display_name": "Infusión Respir Hacendado",
+          "id": "11415",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "46.67",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "100 g",
+            "reference_price": "4.667",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 20,
+            "unit_name": "bolsitas",
+            "unit_price": "1.40",
+            "unit_selector": true,
+            "unit_size": 0.03
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/11415/infusion-respir-hacendado-con-tomillo-eucalipto-romero-menta-caja",
+          "slug": "infusion-respir-hacendado-con-tomillo-eucalipto-romero-menta-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/52c4c8a9dcc28443814bf59bb517b989.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 8,
+              "level": 0,
+              "name": "Cacao, café e infusiones",
+              "order": 16
+            }
+          ],
+          "display_name": "Infusión Jengibre Hacendado",
+          "id": "11400",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "33.75",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "100 g",
+            "reference_price": "3.375",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 20,
+            "unit_name": "bolsitas",
+            "unit_price": "1.35",
+            "unit_selector": true,
+            "unit_size": 0.04
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/11400/infusion-jengibre-hacendado-caja",
+          "slug": "infusion-jengibre-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/acf276fa72cdf6199c1e79969796541c.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 8,
+              "level": 0,
+              "name": "Cacao, café e infusiones",
+              "order": 16
+            }
+          ],
+          "display_name": "Infusión Manzanilla sabor a miel Hacendado",
+          "id": "11454",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "44.23",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "100 g",
+            "reference_price": "4.424",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 20,
+            "unit_name": "bolsitas",
+            "unit_price": "1.15",
+            "unit_selector": true,
+            "unit_size": 0.026
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/11454/infusion-manzanilla-sabor-miel-hacendado-con-edulcorante-caja",
+          "slug": "infusion-manzanilla-sabor-miel-hacendado-con-edulcorante-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/e3f24defc559d29673464712b8f8d252.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 8,
+              "level": 0,
+              "name": "Cacao, café e infusiones",
+              "order": 16
+            }
+          ],
+          "display_name": "Infusión Cúrcuma Hacendado con manzana y canela",
+          "id": "11438",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "39.71",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "100 g",
+            "reference_price": "3.971",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 20,
+            "unit_name": "bolsitas",
+            "unit_price": "1.35",
+            "unit_selector": true,
+            "unit_size": 0.034
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/11438/infusion-curcuma-hacendado-caja",
+          "slug": "infusion-curcuma-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/16b727aaeaaf1e700148fae8e4ff86c3.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 8,
+              "level": 0,
+              "name": "Cacao, café e infusiones",
+              "order": 16
+            }
+          ],
+          "display_name": "Infusión quema grasas Hacendado",
+          "id": "60672",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "35.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "100 g",
+            "reference_price": "3.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 20,
+            "unit_name": "bolsitas",
+            "unit_price": "1.05",
+            "unit_selector": true,
+            "unit_size": 0.03
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/60672/infusion-quema-grasas-hacendado-caja",
+          "slug": "infusion-quema-grasas-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/2fb3bcf62eb57d0265eaecb72bb74f3e.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 8,
+              "level": 0,
+              "name": "Cacao, café e infusiones",
+              "order": 16
+            }
+          ],
+          "display_name": "Infusión Hinojo Hacendado",
+          "id": "11468",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "26.25",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "100 g",
+            "reference_price": "2.625",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 20,
+            "unit_name": "bolsitas",
+            "unit_price": "1.05",
+            "unit_selector": true,
+            "unit_size": 0.04
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/11468/infusion-hinojo-hacendado-caja",
+          "slug": "infusion-hinojo-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/e65ea2c7ac20a0960c9d26b0225b581d.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 8,
+              "level": 0,
+              "name": "Cacao, café e infusiones",
+              "order": 16
+            }
+          ],
+          "display_name": "Infusión manzana y canela Hacendado",
+          "id": "52607",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "35.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "100 g",
+            "reference_price": "3.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 20,
+            "unit_name": "bolsitas",
+            "unit_price": "1.40",
+            "unit_selector": true,
+            "unit_size": 0.04
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/52607/infusion-manzana-canela-hacendado-caja",
+          "slug": "infusion-manzana-canela-hacendado-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/cab8f28fbe0f1f2e4a259a53b726fc46.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 8,
+              "level": 0,
+              "name": "Cacao, café e infusiones",
+              "order": 16
+            }
+          ],
+          "display_name": "Infusión Yerba Mate Amanda",
+          "id": "86632",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "5.70",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "5.700",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.85",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/86632/infusion-yerba-mate-amanda-paquete",
+          "slug": "infusion-yerba-mate-amanda-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/b322b15e6f22da53485ed058ca2bf64a.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 8,
+              "level": 0,
+              "name": "Cacao, café e infusiones",
+              "order": 16
+            }
+          ],
+          "display_name": "Infusión fría Hacendado con sabor a piña y coco",
+          "id": "60651",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "con sabor a piña y coco",
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "36.25",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "100 g",
+            "reference_price": "3.625",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 20,
+            "unit_name": "bolsitas",
+            "unit_price": "1.45",
+            "unit_selector": true,
+            "unit_size": 0.04
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/60651/infusion-fria-hacendado-con-sabor-pina-coco-caja",
+          "slug": "infusion-fria-hacendado-con-sabor-pina-coco-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/3e274f0833c3f8b832b9479783af1e45.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    }
+  ],
+  "id": 88,
+  "is_extended": false,
+  "layout": 1,
+  "name": "Té e infusiones",
+  "next_category": {
+    "id": 46,
+    "name": "Arreglos"
+  },
+  "order": 16,
+  "published": true
+}

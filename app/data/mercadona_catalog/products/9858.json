@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Arc de Pedra",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 569,
+              "level": 2,
+              "name": "Otros vinos tintos",
+              "order": 15
+            }
+          ],
+          "id": 169,
+          "level": 1,
+          "name": "Vino tinto",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": "14.0º",
+    "brand": "Arc de Pedra",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Vino tinto Arc de Pedra DO València",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "VINO TINTO",
+    "mandatory_mentions": "Contiene sulfitos; 100 ml: E= 367 kJ/ 88 kcal",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "ANECOOP SDAD. COOP."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Vino tinto Arc de Pedra DO València",
+  "ean": "8402001025549",
+  "extra_info": [
+    ""
+  ],
+  "id": "9858",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "DO València",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>dióxido de azufre y sulfitos</strong>.",
+    "ingredients": "Uva, correctores de la acidez (ácido Tartárico[L(+)]), agentes estabilizantes (goma arábiga, poliaspartato de potasio), conservadores (<strong>sulfitos)</strong>"
+  },
+  "origin": null,
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/0a0d22e378ecf0c1ad4edd8df2dbf4f7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0a0d22e378ecf0c1ad4edd8df2dbf4f7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0a0d22e378ecf0c1ad4edd8df2dbf4f7.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/22006477d791e7eae9b573c357e4cfed.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/22006477d791e7eae9b573c357e4cfed.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/22006477d791e7eae9b573c357e4cfed.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.87",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "3.867",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.90",
+    "unit_selector": true,
+    "unit_size": 0.75
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/9858/vino-tinto-do-valencia-arc-pedra-botella",
+  "slug": "vino-tinto-do-valencia-arc-pedra-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/0a0d22e378ecf0c1ad4edd8df2dbf4f7.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

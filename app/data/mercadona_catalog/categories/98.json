@@ -1,0 +1,427 @@
+{
+  "categories": [
+    {
+      "id": 101,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Otros sabores",
+      "order": 793,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 10,
+              "level": 0,
+              "name": "Zumos",
+              "order": 793
+            }
+          ],
+          "display_name": "Zumo de tomate Hacendado",
+          "id": "39394",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Brik",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "1.05",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "1.050",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.05",
+            "unit_selector": true,
+            "unit_size": 1.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/39394/zumo-tomate-hacendado-brick",
+          "slug": "zumo-tomate-hacendado-brick",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/41b7d0f0d220d1e6e7a30bae3399fbbb.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 10,
+              "level": 0,
+              "name": "Zumos",
+              "order": 793
+            }
+          ],
+          "display_name": "Zumo de manzana Hacendado",
+          "id": "39403",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Brik",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "0.80",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "0.800",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.80",
+            "unit_selector": true,
+            "unit_size": 1.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/39403/zumo-manzana-hacendado-brick",
+          "slug": "zumo-manzana-hacendado-brick",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/76d998fbd9e8ebdd2c8f563908b4ed6d.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 10,
+              "level": 0,
+              "name": "Zumos",
+              "order": 793
+            }
+          ],
+          "display_name": "Zumo de manzana Hacendado",
+          "id": "39404",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": null,
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "1.08",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.2,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "1.084",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": 6,
+            "unit_name": "mini briks",
+            "unit_price": "1.30",
+            "unit_selector": true,
+            "unit_size": 1.2
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/39404/zumo-manzana-hacendado-pack-6",
+          "slug": "zumo-manzana-hacendado-pack-6",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/c9a55af574a1324371f989bf36df87e3.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 10,
+              "level": 0,
+              "name": "Zumos",
+              "order": 793
+            }
+          ],
+          "display_name": "Néctar de maracuyá Hacendado fruta de la pasión, mango, uva y manzana",
+          "id": "39643",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Brik",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "1.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "1.500",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "21.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.50",
+            "unit_selector": true,
+            "unit_size": 1.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/39643/nectar-maracuya-hacendado-fruta-pasion-mango-uva-manzana-brick",
+          "slug": "nectar-maracuya-hacendado-fruta-pasion-mango-uva-manzana-brick",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/3113b30c00460aa939585031fb4a53de.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 10,
+              "level": 0,
+              "name": "Zumos",
+              "order": 793
+            }
+          ],
+          "display_name": "Bebida de mango Hacendado sin azúcares añadidos",
+          "id": "39132",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "sin azúcares añadidos",
+          "packaging": "Brik",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "1.25",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "1.250",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "21.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.25",
+            "unit_selector": true,
+            "unit_size": 1.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/39132/bebida-mango-hacendado-sin-azucares-anadidos-brick",
+          "slug": "bebida-mango-hacendado-sin-azucares-anadidos-brick",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/987871ff4c73a5d86dabdb4bed9a2c04.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 10,
+              "level": 0,
+              "name": "Zumos",
+              "order": 793
+            }
+          ],
+          "display_name": "Bebida de pomelo Hacendado sin azúcares añadidos",
+          "id": "39604",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Brik",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "1.30",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "1.300",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "21.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.30",
+            "unit_selector": true,
+            "unit_size": 1.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/39604/bebida-pomelo-hacendado-sin-azucares-anadidos-brick",
+          "slug": "bebida-pomelo-hacendado-sin-azucares-anadidos-brick",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/ee3870b02b17cec3a29a18a8a50ee13e.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 10,
+              "level": 0,
+              "name": "Zumos",
+              "order": 793
+            }
+          ],
+          "display_name": "Néctar de guayaba Hacendado",
+          "id": "39280",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Brik",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "1.30",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 21,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "1.300",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "21.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.30",
+            "unit_selector": true,
+            "unit_size": 1.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/39280/nectar-guayaba-hacendado-brick",
+          "slug": "nectar-guayaba-hacendado-brick",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/0387601ec7043ab95b69e38a4429f276.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 10,
+              "level": 0,
+              "name": "Zumos",
+              "order": 793
+            }
+          ],
+          "display_name": "Zumo de manzana Hacendado",
+          "id": "17773",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Botella",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "1.70",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "1.700",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.70",
+            "unit_selector": true,
+            "unit_size": 1.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/17773/zumo-manzana-hacendado-botella",
+          "slug": "zumo-manzana-hacendado-botella",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/e1c12a223516a3fb11e5d2ae7d819fac.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    }
+  ],
+  "id": 98,
+  "is_extended": false,
+  "layout": 1,
+  "name": "Tomate y otros sabores",
+  "next_category": null,
+  "order": 793,
+  "published": true
+}

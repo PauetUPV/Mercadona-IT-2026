@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 288,
+              "level": 2,
+              "name": "Empanados y elaborados",
+              "order": 17
+            }
+          ],
+          "id": 45,
+          "level": 1,
+          "name": "Empanados y elaborados",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Tiras de pollo marinado empanadas chicken fries",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "CARNE DE POLLO MARINADA,CORTADA Y EMPANADA. PRODUCTO CÁRNICO",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar de 0º a 4 º. Envasado en atmosfera protectora. Cocinar completamente (75ºC) antes de su consumo",
+    "suppliers": [
+      {
+        "name": "JOVISERRANO, SLU."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Tiras de pollo marinado empanadas chicken fries",
+  "ean": "8436548785734",
+  "extra_info": [
+    ""
+  ],
+  "id": "17575",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "<p>Pechuga de pollo marinada (55%): Pechuga de pollo (50%),agua, conservadores (E-325, E-262), sal, dextrosa, maltodextrina, antioxidantes(E-331, E-301), proteínas vegetales, extracto de levadura, fibra vegetal,aromas y especias. Cobertura (45%): Rebozado (harina de arroz, aceite degirasol, dextrosa, fibra vegetal, sal, especias y extracto de especias, colorante(caramelo natural),) y encolante (agua, almidón, proteína vegetal, sal, fibravegetal, estabilizante (E-451), espesante (E-412), conservador E-200))."
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/262d6fa9aaa7c0ff081cdac0b8d0f2da.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/262d6fa9aaa7c0ff081cdac0b8d0f2da.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/262d6fa9aaa7c0ff081cdac0b8d0f2da.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/f244c3d4282419639bafdddf9a3c8864.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f244c3d4282419639bafdddf9a3c8864.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f244c3d4282419639bafdddf9a3c8864.jpeg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "8.40",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "8.400",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.52",
+    "unit_selector": true,
+    "unit_size": 0.3
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/17575/tiras-empanadas-pollo-marinado-chicken-fries-bandeja",
+  "slug": "tiras-empanadas-pollo-marinado-chicken-fries-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/262d6fa9aaa7c0ff081cdac0b8d0f2da.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 403,
+              "level": 2,
+              "name": "Fruta variada y otros sabores",
+              "order": 793
+            }
+          ],
+          "id": 99,
+          "level": 1,
+          "name": "Fruta variada",
+          "order": 793
+        }
+      ],
+      "id": 10,
+      "level": 0,
+      "name": "Zumos",
+      "order": 793
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Bebida 5 frutas Hacendado sin azúcares añadidos",
+    "legal_name": "Néctar de manzana, plátano, mandarina, uva y naranja parcialmente a partir de concentrados. Con edulcorantes. Contenido de fruta: mínimo 50%",
+    "mandatory_mentions": "Sin gluten.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en sitio fresco protegido de la luz solar. Una vez abierto, mantener refrigerado y consumir antes de transcurridos 4 días.",
+    "suppliers": [
+      {
+        "name": "J.G.C.,S.A."
+      }
+    ],
+    "usage_instructions": "Agitar antes de servir."
+  },
+  "display_name": "Bebida 5 frutas Hacendado sin azúcares añadidos",
+  "ean": "8480000392244",
+  "extra_info": [
+    null
+  ],
+  "id": "39224",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Zumos y puré de frutas en proporción variable parcialmente a partir de concentrado 50% (zumo de manzana, mandarina, uva y naranja y puré de plátano), agua, acidulante (ácido cítrico), edulcorantes (sucralosa y acesulfamo K), vitaminas C, E y A y aromas."
+  },
+  "origin": null,
+  "packaging": "Pack-6",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/5b8c6f98527bf34412a5653d4619f7dc.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5b8c6f98527bf34412a5653d4619f7dc.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5b8c6f98527bf34412a5653d4619f7dc.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/83dc2e6b695db158e4ed0227537c23dc.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/83dc2e6b695db158e4ed0227537c23dc.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/83dc2e6b695db158e4ed0227537c23dc.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.46",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": 21,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.2,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "1.459",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": 6,
+    "unit_name": "mini briks",
+    "unit_price": "1.75",
+    "unit_selector": true,
+    "unit_size": 1.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/39224/bebida-5-frutas-hacendado-sin-azucares-anadidos-pack-6",
+  "slug": "bebida-5-frutas-hacendado-sin-azucares-anadidos-pack-6",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/5b8c6f98527bf34412a5653d4619f7dc.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

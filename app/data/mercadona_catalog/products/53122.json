@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "L'Illa especialidades",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 315,
+              "level": 2,
+              "name": "Sobrasada",
+              "order": 159
+            }
+          ],
+          "id": 58,
+          "level": 1,
+          "name": "Paté y sobrasada",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "L'Illa especialidades",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Sobrasada ibérica L'Illa especialidades",
+    "legal_name": "Sobrasada ibérica",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Para apreciar mejor sus cualidades dejar unos 10 minutos a temperatura ambiente. Una vez abierto, consumir en 30 días. Preservar de la luz directa. Conservar en el frigorífico con film y tapa",
+    "suppliers": [
+      {
+        "name": "Productos cárnicos de Manacor, SA (PROCAM)"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Sobrasada ibérica L'Illa especialidades",
+  "ean": "8412450580698",
+  "extra_info": [
+    ""
+  ],
+  "id": "53122",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Tocino y carne de cerdo, carne de cerdo ibérico (12%), pimentón, sal, dextrosa, antioxidantes (E-325, E-301 y E-392), fibra alimentaria, estabilizante (E-451), aroma, especias y conservador (E-252)."
+  },
+  "origin": "España",
+  "packaging": "Tarrina",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/0157f01f79485137ceb68348c3b66082.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0157f01f79485137ceb68348c3b66082.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0157f01f79485137ceb68348c3b66082.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/dffc08c092460c38fa4c8963c45443be.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/dffc08c092460c38fa4c8963c45443be.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/dffc08c092460c38fa4c8963c45443be.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "10.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "10.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.50",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/53122/sobrasada-iberica-lilla-especialidades-tarrina",
+  "slug": "sobrasada-iberica-lilla-especialidades-tarrina",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/0157f01f79485137ceb68348c3b66082.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

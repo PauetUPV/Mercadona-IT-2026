@@ -1,0 +1,109 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Activia",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 410,
+              "level": 2,
+              "name": "Bífidus naturales",
+              "order": 598
+            }
+          ],
+          "id": 105,
+          "level": 1,
+          "name": "Bífidus",
+          "order": 598
+        }
+      ],
+      "id": 11,
+      "level": 0,
+      "name": "Postres y yogures",
+      "order": 598
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Activia",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Bífidus natural Activia 0% MG 0% sin azúcares añadidos Danone",
+    "legal_name": "Leche fermentada desnatada natural con bifidus",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Consérvese en frío entre 2C y 6C",
+    "suppliers": [
+      {
+        "name": "Danone S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Bífidus natural Activia 0% MG 0% sin azúcares añadidos",
+  "ean": "8410500002961",
+  "extra_info": [
+    ""
+  ],
+  "id": "20946",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Leche desnatada, leche en polvo, bi<strong>fidob</strong>acterias y f<strong>erment</strong>os lácticos y gelatina. Origen de la l<strong>eche: Esp</strong>aña."
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/16592f153e37688209d9342c0dd44ff1.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/16592f153e37688209d9342c0dd44ff1.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/16592f153e37688209d9342c0dd44ff1.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/59f6d50bf572c8befa56b23e4293129a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/59f6d50bf572c8befa56b23e4293129a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/59f6d50bf572c8befa56b23e4293129a.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.42",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.12,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.417",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 4,
+    "unit_name": "ud.",
+    "unit_price": "2.60",
+    "unit_selector": true,
+    "unit_size": 0.48
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/20946/bifidus-desnatado-natural-activia-0-mg-danone-pack-4",
+  "slug": "bifidus-desnatado-natural-activia-0-mg-danone-pack-4",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/16592f153e37688209d9342c0dd44ff1.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

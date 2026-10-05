@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 493,
+              "level": 2,
+              "name": "Roscas, quiche y baguettes",
+              "order": 597
+            }
+          ],
+          "id": 138,
+          "level": 1,
+          "name": "Pizzas",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Rosca lomo, bacón y queso emmental Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Rosca lomo cocido, bacon y queso emmental",
+    "mandatory_mentions": "Envasado en atmósfera protectora / Teléfono de atención al cliente Mercadona: 800 500 220 / PUNTO VERDE (logo) / RECICLA (logo) / Sugerencia de presentación",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Puede congelarse justo después de su compra. Mantener entre 0ºC y 5ºC. Consumir preferentemente antes del/Lote: Ver envase",
+    "suppliers": [
+      {
+        "name": "CASA TARRADELLAS, S.A."
+      }
+    ],
+    "usage_instructions": "1. Precalentar el horno hasta 195ºC (calor superior e inferior, sin ventilación). 2. Retirar el envoltorio y colocar la rosca en la rejilla del horno a media altura. 3. Cocerla durante al menos 20 minutos. Si añade otros ingredientes el tiempo de cocción podría incrementarse. 4.Antes de servir, dejar enfriar la rosca al menos un minuto. COCER ANTES DE CONSUMIR. NO UTILIZAR MICROONDAS U OTROS MÉTODOS DE PREPARACIÓN."
+  },
+  "display_name": "Rosca lomo, bacón y queso emmental Hacendado",
+  "ean": "8402001010675",
+  "extra_info": [
+    null
+  ],
+  "id": "35822",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>centeno y productos derivados</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Harina de <strong>trigo</strong>, <strong>queso</strong>* emmental fundido (18%), lomo (15%), agua, bacon (8%), harina de trigo sarraceno, masa madre de <strong>trigo</strong>, sal, harina de <strong>centeno</strong> malteado, levadura, fécula de patata, dextrosa, aromas, estabilizantes (trifosfato pentasódico, carragenato), citrato trisódico, antioxidantes (ácido cítrico, ascorbato sódico), beta-caroteno, extracto de pimentón, conservador (nitrito sódico). Puede contener trazas de <strong>soja</strong> y <strong>mostaza</strong>. *Queso elaborado con leche pasteurizada."
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/2e0fc02559cf2e16458acc03a37ac379.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/2e0fc02559cf2e16458acc03a37ac379.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/2e0fc02559cf2e16458acc03a37ac379.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/d7cd0c8e920239f3e943f861e7e2b68c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d7cd0c8e920239f3e943f861e7e2b68c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d7cd0c8e920239f3e943f861e7e2b68c.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "7.08",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.084",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.40",
+    "unit_selector": true,
+    "unit_size": 0.48
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/35822/rosca-lomo-bacon-queso-emmental-hacendado",
+  "slug": "rosca-lomo-bacon-queso-emmental-hacendado",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/2e0fc02559cf2e16458acc03a37ac379.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

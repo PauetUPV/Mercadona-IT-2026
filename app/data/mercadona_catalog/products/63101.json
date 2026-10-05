@@ -1,0 +1,135 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 514,
+              "level": 2,
+              "name": "Pescado rebozado",
+              "order": 213
+            }
+          ],
+          "id": 884,
+          "level": 1,
+          "name": "Rebozados",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 275,
+              "level": 2,
+              "name": "Pescado rebozado congelado",
+              "order": 442
+            }
+          ],
+          "id": 34,
+          "level": 1,
+          "name": "Pescado congelado",
+          "order": 442
+        }
+      ],
+      "id": 2,
+      "level": 0,
+      "name": "Marisco y pescado",
+      "order": 442
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Filetes de merluza al huevo Hacendado ultracongelados",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "FILETES DE MERLUZA AL HUEVO. PRECOCINADO ULTRACONGELADO",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Mantener a =-18C",
+    "suppliers": [
+      {
+        "name": "CONGALSA S.L."
+      }
+    ],
+    "usage_instructions": "Freidora: Calentar el aceite a 160ºC. Añadir 4-5 piezas sin descongelar de cada vez y freír durante 5 minutos aproximadamente. Si alguna de las piezas fuese muy gruesa, cocinar 1 minuto más esa pieza. Sartén: Calentar el aceite a fuego no muy fuerte (7 sobre 9 en vitro). Sin descongelar el producto, añadir 4-5 piezas de cada vez, lo mas uniformes posibles. Darles la vuelta a mitad de la fritura, para un acabado más uniforme. Freír durante 5 minutos aproximadamente. Si alguna de las piezas es muy gruesa, cocinar 1 minuto más esa pieza. Horno: Precalentar el horno a 210ºC. Colocar los filetes en una bandeja de horno y colocarla a media altura con calor por arriba y por abajo con el ventilador encendido durante 15-16 min. Darles la vuelta a mitad de la cocción para un cocinado más uniforme.  Microondas: Introducir los filetes sin descongelar en el microondas en un plato adecuado. Cocinar a 800W durante el tiempo recomendado: 1-2 filetes (90g aprox.) durante 3 minutos, 2 -3 filetes (160g aprox.) durante 5 minutos, 3 filetes (215g aprox.) durante 6 minutos. Retirar el plato del microondas y dejar reposar durante 1 minuto antes de servir. Freidora de aire: No descongelar. Colocar las unidades separadas entre sí para que se cocinen uniformemente. Cocinar durante 8 minutos a 200ºC."
+  },
+  "display_name": "Filetes de merluza al huevo Hacendado ultracongelados",
+  "ean": "8480000631015",
+  "extra_info": [
+    null
+  ],
+  "id": "63101",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "ultracongelados",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>moluscos y productos a base de moluscos</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Contiene <strong>pescado y productos a base de pescado</strong>.",
+    "ingredients": "<strong>Merluza</strong> (<strong>pescado</strong>) (60%), rebozado (40%): Agua, pan rallado (harina de <strong>trigo</strong> (<strong>gluten</strong>), agua, sal, levadura), harina de <strong>trigo</strong> (<strong>gluten</strong>), aceite de girasol, <strong>huevo</strong> líquido pasteurizado (4,3%), espesantes (E-1420, E-417), sal, gasificantes (E-450i, E-500ii), zumo de limón concentrado y corrector de acidez (E-330). Puede contener trazas de <strong>crustáceos</strong>, <strong>moluscos</strong>, <strong>leche</strong>, <strong>soja</strong> y <strong>mostaza</strong>."
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/34684f718bc72de972db7881cc030abd.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/34684f718bc72de972db7881cc030abd.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/34684f718bc72de972db7881cc030abd.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/9b494db20d292337f2176b210fdcf6dd.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9b494db20d292337f2176b210fdcf6dd.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9b494db20d292337f2176b210fdcf6dd.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "8.58",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "8.584",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "5.15",
+    "unit_selector": true,
+    "unit_size": 0.6
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/63101/filetes-merluza-huevo-hacendado-ultracongelados-paquete",
+  "slug": "filetes-merluza-huevo-hacendado-ultracongelados-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/34684f718bc72de972db7881cc030abd.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

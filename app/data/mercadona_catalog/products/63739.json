@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 886,
+              "level": 2,
+              "name": "Verdura rebozada y otros",
+              "order": 213
+            }
+          ],
+          "id": 884,
+          "level": 1,
+          "name": "Rebozados",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Fingers de queso Hacendado ultracongelados",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Porciones de queso Gouda empanadas y prefritas. Comida preparada ultracongelada.",
+    "mandatory_mentions": "Una vez descongelado, no volver a congelar.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar a - 18C",
+    "suppliers": [
+      {
+        "name": "Fripozo, S.A."
+      }
+    ],
+    "usage_instructions": "Sartén o freidora: añádalos directamente congelados, y en pequeñas cantidades, a la sartén o freidora con abundante aceite bien caliente (175 ºC) y fríalos hasta que se doren al gusto (2 minutos). Si desea reducir el contenido de aceite del producto, escúrralo bien y colóquelo unos instantes sobre una servilleta de papel absorbente. Para evitar la salida del queso del interior, procure no superar el tiempo de fritura."
+  },
+  "display_name": "Fingers de queso Hacendado ultracongelados",
+  "ean": "8480000637390",
+  "extra_info": [
+    null
+  ],
+  "id": "63739",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "ultracongelados",
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>trigo y productos derivados</strong>.",
+    "ingredients": "Queso (<strong>leche</strong>) Gouda (41%), pan rallado (harina de <strong>trigo</strong> (gluten), agua, sal y levadura), agua, masa para empanar (harina de maíz, dextrosa y sal), aceite de girasol, proteínas de la <strong>leche</strong>, albúmina de <strong>huevo</strong>, almidón modificado, sal, espesantes (goma guar, goma xantana) y especias. Puede contener trazas de <strong>soja</strong>."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/cdf0d9840d26aaf7f0d1c3f23d679d1a.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/cdf0d9840d26aaf7f0d1c3f23d679d1a.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/cdf0d9840d26aaf7f0d1c3f23d679d1a.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/d0d4964d6e5cb2ec32815d62a153458d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d0d4964d6e5cb2ec32815d62a153458d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d0d4964d6e5cb2ec32815d62a153458d.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "7.67",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.667",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.30",
+    "unit_selector": true,
+    "unit_size": 0.3
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/63739/fingers-queso-hacendado-ultracongelados-paquete",
+  "slug": "fingers-queso-hacendado-ultracongelados-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/cdf0d9840d26aaf7f0d1c3f23d679d1a.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

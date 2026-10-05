@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 360,
+              "level": 2,
+              "name": "Con chocolate y rellenas",
+              "order": 18
+            }
+          ],
+          "id": 80,
+          "level": 1,
+          "name": "Galletas",
+          "order": 18
+        }
+      ],
+      "id": 7,
+      "level": 0,
+      "name": "Cereales y galletas",
+      "order": 18
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Galletas Crunchy Choc Hacendado con arroz inflado chocolateado y chips de chocolate",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Galleta rellena de chips de chocolate (18%) y cereal inflado al Cacao (10%)",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Almacenar en lugar fresco y seco, sin olores. Proteger de la luz solar directa.",
+    "suppliers": [
+      {
+        "name": "Seurodis,S.L.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Galletas Crunchy Choc Hacendado",
+  "ean": "8480000230645",
+  "extra_info": [
+    null
+  ],
+  "id": "23064",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>gb</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>dióxido de azufre y sulfitos</strong>. Puede contener <strong>frutos de cáscara</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "Ingredientes: Harina de <strong>TRIGO (gluten)</strong>, azúcar, aceite de girasol alto oleico 8,4%, pasta de cacao, jarabe de glucosa y fructosa, harina de arroz, harina de maíz, dextrosa, emulgente: lecitinas (contiene <strong>SOJA</strong> y <strong>TRIGO</strong> (<strong>gluten</strong>)), cacao desgrasado en polvo, grasa de shea, sal, jarabe de glucosa, extracto de malta de <strong>CEBADA</strong> (<strong>gluten</strong>), gasificantes (carbonatos de sodio, carbonato de calcio), aceite de girasol, aromas, aceite de palma (0,3%), colorante: E150d (contiene <strong>SULFITOS</strong>), agente de tratamiento de la harina (<strong>METABISULFITO</strong> sódico). Puede contener <strong>FRUTOS DE CÁSCARA</strong>, <strong>LECHE</strong>, <strong>HUEVO</strong> y <strong>MOSTAZA</strong>. <strong>El chocolate contiene grasas vegetales además de manteca de cacao</strong>.*****///// A PARTIR DEL LOTE L61091 Y FCP 02/2027 HAY UN CAMBIO DE ETIQUETADO /////***** Harina de <strong>TRIGO (gluten)</strong>, azúcar, aceite refinado de girasol alto oleico, pasta de cacao, jarabe de glucosa y fructosa, harina de arroz, harina de maíz, dextrosa, emulgente: lecitinas (contiene <strong>SOJA</strong>  y <strong>TRIGO</strong>  (<strong>gluten</strong>)), cacao desgrasado en polvo, grasa de shea, sal, jarabe de glucosa, extracto de malta de <strong>CEBADA</strong>  (<strong>gluten</strong>), gasificantes (carbonatos de sodio, carbonato de calcio), aceite refinado de girasol, aromas, aceite refinado de palma (0,3%), colorante: E150d (contiene <strong>SULFITOS</strong>), agente de tratamiento de la harina (<strong>METABISULFITO</strong>  sódico). Puede contener <strong>FRUTOS DE CÁSCARA</strong>, <strong>LECHE</strong>, <strong>HUEVO</strong>  y <strong>MOSTAZA</strong>. <strong>El chocolate contiene grasas vegetales además de manteca de cacao</strong>."
+  },
+  "origin": "España",
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/dcc2123704170392e06ab1913a66f432.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/dcc2123704170392e06ab1913a66f432.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/dcc2123704170392e06ab1913a66f432.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/08f661c43403673353a1635afc554577.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/08f661c43403673353a1635afc554577.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/08f661c43403673353a1635afc554577.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.60",
+    "unit_selector": true,
+    "unit_size": 0.52
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/23064/galletas-crunchy-choc-hacendado-con-arroz-inflado-chocolateado-chips-chocolate-caja",
+  "slug": "galletas-crunchy-choc-hacendado-con-arroz-inflado-chocolateado-chips-chocolate-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/dcc2123704170392e06ab1913a66f432.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

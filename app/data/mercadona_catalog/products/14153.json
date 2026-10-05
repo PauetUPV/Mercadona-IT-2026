@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 360,
+              "level": 2,
+              "name": "Con chocolate y rellenas",
+              "order": 18
+            }
+          ],
+          "id": 80,
+          "level": 1,
+          "name": "Galletas",
+          "order": 18
+        }
+      ],
+      "id": 7,
+      "level": 0,
+      "name": "Cereales y galletas",
+      "order": 18
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Galletas de cacao Caocream bañadas de chocolate blanco Hacendado rellenas de crema",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Galleta de cacao rellena de crema recubierta de chocolate blanco",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Almacenar en lugar fresco y seco. Proteger de los rayos solares. Una vez abierto, mantener en las mismas condiciones y cerrar después de cada uso.",
+    "suppliers": [
+      {
+        "name": "GALLETAS GULLON, S.A"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Galletas de cacao Caocream bañadas de chocolate blanco Hacendado rellenas de crema",
+  "ean": "8410376049848",
+  "extra_info": [
+    ""
+  ],
+  "id": "14153",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "rellenas de crema",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Chocolate blanco 47 % (azúcar, manteca de cacao, <strong>leche</strong> en polvo, emulgente (lecitina de <strong>soja</strong>) y aromas), harina de <strong>trigo</strong>, crema  16% (azúcar, grasa vegetal (palma y palmiste), almidón de <strong>trigo</strong>, emulgente (lecitina de <strong>soja</strong>), aroma de vainilla), azúcar, aceite vegetal (girasol alto oleico) 6,5%, cacao en polvo 2,5%, jarabe de glucosa y fructosa, gasificantes (carbonato ácido de amonio y carbonato ácido de sodio), sal, emulgente (lecitina de <strong>soja</strong>), aroma de vainilla. Sin grasas hidrogenadas"
+  },
+  "origin": "España",
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/6a6439a7225197317ed31e180fee6bd2.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/6a6439a7225197317ed31e180fee6bd2.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/6a6439a7225197317ed31e180fee6bd2.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/a1a5e22c9147bb74b753503ecf4e9fe8.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a1a5e22c9147bb74b753503ecf4e9fe8.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a1a5e22c9147bb74b753503ecf4e9fe8.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "7.74",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.739",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 6,
+    "unit_name": "paquetes",
+    "unit_price": "1.95",
+    "unit_selector": true,
+    "unit_size": 0.252
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/14153/galletas-caocream-chocolate-blanco-hacendado-rellenas-crema-caja",
+  "slug": "galletas-caocream-chocolate-blanco-hacendado-rellenas-crema-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/6a6439a7225197317ed31e180fee6bd2.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

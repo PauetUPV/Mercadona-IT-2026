@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Estrella Galicia",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 556,
+              "level": 2,
+              "name": "Cerveza botella y botellín",
+              "order": 15
+            }
+          ],
+          "id": 166,
+          "level": 1,
+          "name": "Cerveza sin alcohol",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Estrella Galicia",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Cerveza 0,0% sin alcohol Estrella Galicia",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Cerveza sin alcohol",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Lugar fresco y seco",
+    "suppliers": [
+      {
+        "name": "HIJOS DE RIVERA, S.A.U"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Cerveza 0,0% sin alcohol Estrella Galicia",
+  "ean": "8412598001659",
+  "extra_info": [
+    ""
+  ],
+  "id": "60976",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>gb</strong>.",
+    "ingredients": "Agua, <strong>malta de cebada</strong>, maíz y lúpulo"
+  },
+  "origin": null,
+  "packaging": "Botellín",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/9ceba4ca9824715b233dbf69db8c77e7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9ceba4ca9824715b233dbf69db8c77e7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9ceba4ca9824715b233dbf69db8c77e7.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/0b7fe37332a1852b1f42a520fb8b8288.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0b7fe37332a1852b1f42a520fb8b8288.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0b7fe37332a1852b1f42a520fb8b8288.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.76",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "2.760",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.69",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/60976/cerveza-00-sin-alcohol-estrella-galicia-botellin",
+  "slug": "cerveza-00-sin-alcohol-estrella-galicia-botellin",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/9ceba4ca9824715b233dbf69db8c77e7.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

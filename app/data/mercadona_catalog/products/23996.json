@@ -1,0 +1,123 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Deliplus",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 610,
+              "level": 2,
+              "name": "Crema corporal",
+              "order": 241
+            }
+          ],
+          "id": 189,
+          "level": 1,
+          "name": "Cuidado corporal",
+          "order": 241
+        },
+        {
+          "categories": [
+            {
+              "id": 835,
+              "level": 2,
+              "name": "Lotes mujer",
+              "order": 241
+            }
+          ],
+          "id": 196,
+          "level": 1,
+          "name": "Perfume y colonia",
+          "order": 241
+        }
+      ],
+      "id": 20,
+      "level": 0,
+      "name": "Cuidado facial y corporal",
+      "order": 241
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Deliplus",
+    "counter_info": null,
+    "danger_mentions": null,
+    "description": "Lote corporal mujer Posidonia Deliplus contiene crema de manos 30 ml, gel de baño 245 ml,  sorbete corporal 300 ml y neceser",
+    "is_prepared_by_mercadona": false,
+    "legal_name": null,
+    "mandatory_mentions": null,
+    "origin": null,
+    "production_variant": null,
+    "storage_instructions": null,
+    "suppliers": [],
+    "usage_instructions": null
+  },
+  "display_name": "Lote corporal mujer Posidonia Deliplus",
+  "ean": "8402001043895",
+  "extra_info": [
+    ""
+  ],
+  "id": "23996",
+  "is_bulk": false,
+  "is_new_arrival": true,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": null
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/215ba58c49dc0a24c50a51acb4ecd091.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/215ba58c49dc0a24c50a51acb4ecd091.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/215ba58c49dc0a24c50a51acb4ecd091.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/54b136ddc4d57c042ad7d0d34bd54146.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/54b136ddc4d57c042ad7d0d34bd54146.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/54b136ddc4d57c042ad7d0d34bd54146.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "8.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "8.000",
+    "selling_method": 0,
+    "size_format": "ud",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "8.00",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/23996/lote-corporal-mujer-posidonia-deliplus-contiene-crema-manos-30-ml-gel-bano-245-ml-sorbete-corporal-300-ml-neceser",
+  "slug": "lote-corporal-mujer-posidonia-deliplus-contiene-crema-manos-30-ml-gel-bano-245-ml-sorbete-corporal-300-ml-neceser",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/215ba58c49dc0a24c50a51acb4ecd091.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

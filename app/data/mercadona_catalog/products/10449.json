@@ -1,0 +1,135 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Campina",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 371,
+              "level": 2,
+              "name": "Otros",
+              "order": 16
+            }
+          ],
+          "id": 84,
+          "level": 1,
+          "name": "Café soluble y otras bebidas",
+          "order": 16
+        }
+      ],
+      "id": 8,
+      "level": 0,
+      "name": "Cacao, café e infusiones",
+      "order": 16
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 799,
+              "level": 2,
+              "name": "Leche condensada y otros",
+              "order": 373
+            }
+          ],
+          "id": 72,
+          "level": 1,
+          "name": "Leche y bebidas vegetales",
+          "order": 373
+        }
+      ],
+      "id": 6,
+      "level": 0,
+      "name": "Huevos, leche y mantequilla",
+      "order": 373
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Campina",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Crema de leche para café Campina",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Nata (crema para café) 10% de M.G., esterilizada.",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Consérvese fuera de la nevera en un ambiente fresco, limpio y sin olor, protegido de la luz solar, (temperatura de almacenamiento recomendada entre +4C y +24C).",
+    "suppliers": [
+      {
+        "name": "FRIESLANDCAMPINA CHEESE & BUTTER BV"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Crema de leche para café Campina",
+  "ean": "4040600088912",
+  "extra_info": [
+    ""
+  ],
+  "id": "10449",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Nata</strong> (10% M.G.)"
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/d60fe3bcdd22baf485111a85653587d3.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d60fe3bcdd22baf485111a85653587d3.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d60fe3bcdd22baf485111a85653587d3.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 4,
+      "regular": "https://prod-mercadona.imgix.net/images/861cd0147fac7ca7886a5ec4483d4968.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/861cd0147fac7ca7886a5ec4483d4968.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/861cd0147fac7ca7886a5ec4483d4968.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "7.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "7.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 20,
+    "unit_name": "ud.",
+    "unit_price": "1.40",
+    "unit_selector": true,
+    "unit_size": 0.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/10449/crema-leche-cafe-campina-paquete",
+  "slug": "crema-leche-cafe-campina-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/d60fe3bcdd22baf485111a85653587d3.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

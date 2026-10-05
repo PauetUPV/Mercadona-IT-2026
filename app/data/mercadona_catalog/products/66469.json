@@ -1,0 +1,115 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Krombacher",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 549,
+              "level": 2,
+              "name": "Cerveza lata",
+              "order": 15
+            }
+          ],
+          "id": 164,
+          "level": 1,
+          "name": "Cerveza",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": "4.8º",
+    "brand": "Krombacher",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Cerveza Pils Krombacher",
+    "legal_name": "Cerveza",
+    "mandatory_mentions": "Producida según la ley de pureza de Alemania. Según las autoridades sanitarias las mujeres no deben beber bebidas alcohólicas durante el embarazo debido al riesgo de malformaciones al feto. El consumo de bebidas alcohólicas perjudica la capacidad para conducir vehículos o utilizar maquinaria, y puede causar problemas de salud.",
+    "origin": "Alemania",
+    "production_variant": "",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "Krombacher Brauerei Bernhard Schadeberg GMBH&Co. KG"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Cerveza Pils Krombacher",
+  "ean": "4008287917925",
+  "extra_info": [
+    null
+  ],
+  "id": "66469",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Agua, malta de <strong>cebada</strong>, lúpulo, extracto de lúpulo."
+  },
+  "origin": "Alemania",
+  "packaging": "Pack-6",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/ecd5b5cf8008235c016b7082a92c2730.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ecd5b5cf8008235c016b7082a92c2730.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ecd5b5cf8008235c016b7082a92c2730.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/f048be137471a9fab5fa670a0be9b35f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f048be137471a9fab5fa670a0be9b35f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f048be137471a9fab5fa670a0be9b35f.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/896415850a88688f2f725c2679ab6901.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/896415850a88688f2f725c2679ab6901.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/896415850a88688f2f725c2679ab6901.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.97",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": 21,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.33,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "1.970",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": 6,
+    "unit_name": "latas",
+    "unit_price": "3.90",
+    "unit_selector": true,
+    "unit_size": 1.98
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/66469/cerveza-pils-krombacher-pack-6",
+  "slug": "cerveza-pils-krombacher-pack-6",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/ecd5b5cf8008235c016b7082a92c2730.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

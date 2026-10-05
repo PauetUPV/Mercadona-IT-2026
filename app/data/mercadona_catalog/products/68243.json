@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Danet",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 418,
+              "level": 2,
+              "name": "Natillas",
+              "order": 598
+            }
+          ],
+          "id": 110,
+          "level": 1,
+          "name": "Flan y natillas",
+          "order": 598
+        }
+      ],
+      "id": 11,
+      "level": 0,
+      "name": "Postres y yogures",
+      "order": 598
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Danet",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Natillas de chocolate Danet Danone",
+    "legal_name": "POSTRE LÁCTEO: Crema de Chocolate",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Consérvese en frío entre 2ºC y 6ºC",
+    "suppliers": [
+      {
+        "name": "Danone S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Natillas de chocolate Danet",
+  "ean": "8410500010621",
+  "extra_info": [
+    null
+  ],
+  "id": "68243",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Leche</strong> semidesnatada <strong>paste</strong>urizada, azúcar, chocolate (2,2%) [azúcar, pasta de cacao, cacao en polvo desgrasado y aroma natural de vainilla], almidón y a<strong>lmid</strong>ón modificado de maíz, sólidos lácteos, cacao en polv<strong>o (2,2%), estab</strong>ilizante (E 450) y espesante (carragenanos)."
+  },
+  "origin": null,
+  "packaging": "Pack-4",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/492c04a070fe43c5c272cb4879e11fbe.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/492c04a070fe43c5c272cb4879e11fbe.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/492c04a070fe43c5c272cb4879e11fbe.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/43d7623aeab3fce9aa390420248b574d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/43d7623aeab3fce9aa390420248b574d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/43d7623aeab3fce9aa390420248b574d.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.04",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.12,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "4.042",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 4,
+    "unit_name": "ud.",
+    "unit_price": "1.94",
+    "unit_selector": true,
+    "unit_size": 0.48
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/68243/natillas-chocolate-danet-danone-pack-4",
+  "slug": "natillas-chocolate-danet-danone-pack-4",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/492c04a070fe43c5c272cb4879e11fbe.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

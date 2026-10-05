@@ -1,0 +1,834 @@
+{
+  "categories": [
+    {
+      "id": 738,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Limpieza baño y WC",
+      "order": 374,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 26,
+              "level": 0,
+              "name": "Limpieza y hogar",
+              "order": 374
+            }
+          ],
+          "display_name": "Colgador WC azul perfume Violets Bosque Verde",
+          "id": "17652",
+          "is_new_arrival": true,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "15.63",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "15.625",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "21.000",
+            "total_units": 2,
+            "unit_name": "ud.",
+            "unit_price": "1.25",
+            "unit_selector": true,
+            "unit_size": 0.08
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/17652/colgador-wc-azul-perfume-violets-bosque-verde-paquete",
+          "slug": "colgador-wc-azul-perfume-violets-bosque-verde-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/99bb8b38c71fe8d16e135ff0dfe1c160.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 26,
+              "level": 0,
+              "name": "Limpieza y hogar",
+              "order": 374
+            }
+          ],
+          "display_name": "Limpiador WC con lejía Bosque Verde en gel",
+          "id": "43113",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Botella",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "0.95",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 21,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "0.950",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "21.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "0.95",
+            "unit_selector": true,
+            "unit_size": 1.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/43113/limpiador-wc-con-lejia-bosque-verde-gel-botella",
+          "slug": "limpiador-wc-con-lejia-bosque-verde-gel-botella",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/1b142bc3421384906c340bee5e2a9b98.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 26,
+              "level": 0,
+              "name": "Limpieza y hogar",
+              "order": 374
+            }
+          ],
+          "display_name": "Limpiador Baños Bosque Verde en gel",
+          "id": "43496",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "en gel",
+          "packaging": "Botella",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "0.97",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 21,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "0.967",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "21.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.45",
+            "unit_selector": true,
+            "unit_size": 1.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/43496/limpiador-banos-bosque-verde-gel-botella",
+          "slug": "limpiador-banos-bosque-verde-gel-botella",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/ecfacf82afdc8dfaadfccdce8af2ca06.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 26,
+              "level": 0,
+              "name": "Limpieza y hogar",
+              "order": 374
+            }
+          ],
+          "display_name": "Limpiador WC Aqua Bosque Verde en gel antical",
+          "id": "19908",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Botella",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "1.15",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "1.150",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "21.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.15",
+            "unit_selector": true,
+            "unit_size": 1.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/19908/limpiador-wc-aqua-bosque-verde-gel-antical-botella",
+          "slug": "limpiador-wc-aqua-bosque-verde-gel-antical-botella",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/456770e2068f3bad3ce8cd1786f9430d.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 26,
+              "level": 0,
+              "name": "Limpieza y hogar",
+              "order": 374
+            }
+          ],
+          "display_name": "Limpiador Antical Bosque Verde",
+          "id": "43025",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Botella",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.27",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "2.267",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "21.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.70",
+            "unit_selector": true,
+            "unit_size": 0.75
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/43025/limpiador-antical-bosque-verde-con-pistola-botella",
+          "slug": "limpiador-antical-bosque-verde-con-pistola-botella",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/f1ba013ab716d422f261ef7c9982ffbf.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 26,
+              "level": 0,
+              "name": "Limpieza y hogar",
+              "order": 374
+            }
+          ],
+          "display_name": "Limpiador WC Flor de Cerezo Bosque Verde en gel",
+          "id": "42203",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Botella",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "1.15",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 21,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "1.150",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "21.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.15",
+            "unit_selector": true,
+            "unit_size": 1.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/42203/limpiador-wc-flor-cerezo-bosque-verde-gel-botella",
+          "slug": "limpiador-wc-flor-cerezo-bosque-verde-gel-botella",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/4cc007813f1d1db3f4f45816c4633635.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 26,
+              "level": 0,
+              "name": "Limpieza y hogar",
+              "order": 374
+            }
+          ],
+          "display_name": "Limpiador Baños desinfectante Bosque Verde",
+          "id": "43089",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Botella",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.07",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 21,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "2.067",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "21.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.55",
+            "unit_selector": true,
+            "unit_size": 0.75
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/43089/limpiador-banos-desinfectante-bosque-verde-con-pistola-botella",
+          "slug": "limpiador-banos-desinfectante-bosque-verde-con-pistola-botella",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/63e7053501dba27c7a449a511fd8a5bd.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 26,
+              "level": 0,
+              "name": "Limpieza y hogar",
+              "order": 374
+            }
+          ],
+          "display_name": "Toallitas limpiadoras de baños Bosque Verde",
+          "id": "43482",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "0.03",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 21,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "ud",
+            "reference_price": "0.026",
+            "selling_method": 0,
+            "size_format": "ud",
+            "tax_percentage": "21.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.30",
+            "unit_selector": true,
+            "unit_size": 50.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/43482/toallitas-limpiadoras-banos-bosque-verde-paquete",
+          "slug": "toallitas-limpiadoras-banos-bosque-verde-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/5a57b9bc73d3bc5b552a93ea31f8d93b.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 26,
+              "level": 0,
+              "name": "Limpieza y hogar",
+              "order": 374
+            }
+          ],
+          "display_name": "Limpiador Potente Bosque Verde cal y suciedad",
+          "id": "43820",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Botella",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.27",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "2.267",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "21.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.70",
+            "unit_selector": true,
+            "unit_size": 0.75
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/43820/limpiador-potente-bosque-verde-cal-oxido-con-pistola-botella",
+          "slug": "limpiador-potente-bosque-verde-cal-oxido-con-pistola-botella",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/6df0ec284f826bda0a7d943cf77f4494.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 26,
+              "level": 0,
+              "name": "Limpieza y hogar",
+              "order": 374
+            }
+          ],
+          "display_name": "Limpiador Ducha Bosque Verde",
+          "id": "43421",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Botella",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "2.10",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 21,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "L",
+            "reference_price": "2.100",
+            "selling_method": 0,
+            "size_format": "l",
+            "tax_percentage": "21.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.10",
+            "unit_selector": true,
+            "unit_size": 1.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/43421/limpiador-ducha-bosque-verde-con-pistola-botella",
+          "slug": "limpiador-ducha-bosque-verde-con-pistola-botella",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/74edf4ce6378bec43caa3e6715a0f5b1.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 26,
+              "level": 0,
+              "name": "Limpieza y hogar",
+              "order": 374
+            }
+          ],
+          "display_name": "Limpiador WC Polvo Activo Bosque Verde",
+          "id": "52650",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Caja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "7.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 21,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "7.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "21.000",
+            "total_units": 4,
+            "unit_name": "ud.",
+            "unit_price": "1.80",
+            "unit_selector": true,
+            "unit_size": 0.24
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/52650/limpiador-wc-polvo-activo-bosque-verde-caja",
+          "slug": "limpiador-wc-polvo-activo-bosque-verde-caja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/6ac916429f3e573c2cd20ed9084dd6f7.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 26,
+              "level": 0,
+              "name": "Limpieza y hogar",
+              "order": 374
+            }
+          ],
+          "display_name": "Colgador WC Power Activ Pino Bref",
+          "id": "35926",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "24.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": "        2.95",
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "24.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "21.000",
+            "total_units": 2,
+            "unit_name": "ud.",
+            "unit_price": "2.45",
+            "unit_selector": true,
+            "unit_size": 0.1
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/35926/colgador-wc-power-activ-pino-bref-paquete",
+          "slug": "colgador-wc-power-activ-pino-bref-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/c95f3643ae8e2cbce88fa2d4c8d47630.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 26,
+              "level": 0,
+              "name": "Limpieza y hogar",
+              "order": 374
+            }
+          ],
+          "display_name": "Colgador WC Spa Bosque Verde oxi active",
+          "id": "8264",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "oxi active",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "16.25",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 21,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "16.250",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "21.000",
+            "total_units": 2,
+            "unit_name": "ud.",
+            "unit_price": "1.30",
+            "unit_selector": true,
+            "unit_size": 0.08
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/8264/colgador-wc-maxigotas-spa-bosque-verde-paquete",
+          "slug": "colgador-wc-maxigotas-spa-bosque-verde-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/e943dc719221430cc033e1356a4be278.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 26,
+              "level": 0,
+              "name": "Limpieza y hogar",
+              "order": 374
+            }
+          ],
+          "display_name": "Pastillas cisterna Bosque Verde",
+          "id": "86354",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "7.25",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 21,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "7.250",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "21.000",
+            "total_units": 4,
+            "unit_name": "ud.",
+            "unit_price": "1.45",
+            "unit_selector": true,
+            "unit_size": 0.2
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/86354/pastillas-cisterna-bosque-verde-paquete",
+          "slug": "pastillas-cisterna-bosque-verde-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/6d234c5e74e29024753506901b2eb69d.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 26,
+              "level": 0,
+              "name": "Limpieza y hogar",
+              "order": 374
+            }
+          ],
+          "display_name": "Discos WC de gel Aqua Bosque Verde",
+          "id": "20299",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "51.22",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "100 g",
+            "reference_price": "5.122",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "21.000",
+            "total_units": 7,
+            "unit_name": "ud.",
+            "unit_price": "2.10",
+            "unit_selector": true,
+            "unit_size": 0.041
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/20299/discos-wc-gel-aqua-bosque-verde-paquete",
+          "slug": "discos-wc-gel-aqua-bosque-verde-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/0cde75896229aa7df5ed97df858fa5eb.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 26,
+              "level": 0,
+              "name": "Limpieza y hogar",
+              "order": 374
+            }
+          ],
+          "display_name": "Colgador WC Glow Bosque Verde oxi active",
+          "id": "23982",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "oxi active",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "16.25",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "16.250",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "21.000",
+            "total_units": 2,
+            "unit_name": "ud.",
+            "unit_price": "1.30",
+            "unit_selector": true,
+            "unit_size": 0.08
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/23982/colgador-wc-glow-oxi-active-bosque-verde-paquete",
+          "slug": "colgador-wc-glow-oxi-active-bosque-verde-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/2f60a5bf973043fed32ba07c10062b13.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    }
+  ],
+  "id": 231,
+  "is_extended": false,
+  "layout": 1,
+  "name": "Limpieza baño y WC",
+  "next_category": {
+    "id": 230,
+    "name": "Limpieza cocina"
+  },
+  "order": 374,
+  "published": true
+}

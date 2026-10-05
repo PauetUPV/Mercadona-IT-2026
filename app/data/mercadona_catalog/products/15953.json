@@ -1,0 +1,133 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 822,
+              "level": 2,
+              "name": "Galletas surtidas",
+              "order": 18
+            }
+          ],
+          "id": 80,
+          "level": 1,
+          "name": "Galletas",
+          "order": 18
+        }
+      ],
+      "id": 7,
+      "level": 0,
+      "name": "Cereales y galletas",
+      "order": 18
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 863,
+              "level": 2,
+              "name": "Barras de helado y barquillos",
+              "order": 213
+            }
+          ],
+          "id": 154,
+          "level": 1,
+          "name": "Helados",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Obleas para helado Hacendado",
+    "legal_name": "Obleas para helado con edulcorantes",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco, seco y alejado de olores. Una vez abierto el envase, conservar un máximo de 5 días.",
+    "suppliers": [
+      {
+        "name": "SANCHIS MIRA S.A."
+      }
+    ],
+    "usage_instructions": "No requiere"
+  },
+  "display_name": "Obleas para helado Hacendado",
+  "ean": "8480000159533",
+  "extra_info": [
+    null
+  ],
+  "id": "15953",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Harina de<strong> trigo</strong>, almidón de<strong> trigo</strong>, edulcorantes (isomaltosa, acesulfamo-k), cacao en polvo, aceite de coco, emulgente (lecitina de <strong>soja</strong>), miel, azúcar, sal, gasificantes (bicarbonato sódico y amónico), aroma de vainilla, antioxidantes (palmitato de ascorbilo, extracto rico en tocoferoles). <strong>Puede contener trazas de frutos de cáscara, leche y huevo.</strong>"
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/7b42c3270718d22d03263dc39d1ce6b6.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7b42c3270718d22d03263dc39d1ce6b6.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7b42c3270718d22d03263dc39d1ce6b6.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/a377a4ee6bd45c6df114fd69f14e3b84.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a377a4ee6bd45c6df114fd69f14e3b84.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a377a4ee6bd45c6df114fd69f14e3b84.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "13.46",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "13.462",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 24,
+    "unit_name": "ud.",
+    "unit_price": "0.70",
+    "unit_selector": true,
+    "unit_size": 0.052
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/15953/obleas-helado-hacendado-paquete",
+  "slug": "obleas-helado-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/7b42c3270718d22d03263dc39d1ce6b6.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

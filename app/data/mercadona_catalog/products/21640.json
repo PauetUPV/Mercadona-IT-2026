@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "+Proteínas",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 344,
+              "level": 2,
+              "name": "Leche desnatada",
+              "order": 373
+            }
+          ],
+          "id": 72,
+          "level": 1,
+          "name": "Leche y bebidas vegetales",
+          "order": 373
+        }
+      ],
+      "id": 6,
+      "level": 0,
+      "name": "Huevos, leche y mantequilla",
+      "order": 373
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "+Proteínas",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Leche desnatada +Proteínas & calcio Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Leche desnatada de vaca sin lactosa UHT. Enriquecida con proteínas y calcio",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Mantener en lugar fresco y seco. Una vez abierto el envase, conservar en el frigorífico y consumir antes de 3 días.",
+    "suppliers": [
+      {
+        "name": "Lactiber León S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Leche desnatada +Proteínas & calcio",
+  "ean": "8402001051036",
+  "extra_info": [
+    ""
+  ],
+  "id": "21640",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "& calcio",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Leche</strong> desnatada, concentrado de proteínas y calcio de la <strong>leche</strong>, enzima (lactasa), estabilizante (fosfato disódico) y vitamina D. Origen de la leche: España. Sin lactosa."
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/9b34cb359dac31df627b4fa76af53cfa.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9b34cb359dac31df627b4fa76af53cfa.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9b34cb359dac31df627b4fa76af53cfa.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/d126b8321b8ea23d736d50a6232d64d9.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d126b8321b8ea23d736d50a6232d64d9.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d126b8321b8ea23d736d50a6232d64d9.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.75",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.2,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "1.750",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "4.000",
+    "total_units": 6,
+    "unit_name": "mini briks",
+    "unit_price": "2.10",
+    "unit_selector": true,
+    "unit_size": 1.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/21640/leche-proteinas-desnatada-hacendado",
+  "slug": "leche-proteinas-desnatada-hacendado",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/9b34cb359dac31df627b4fa76af53cfa.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

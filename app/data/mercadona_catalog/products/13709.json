@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 497,
+              "level": 2,
+              "name": "Carne",
+              "order": 597
+            }
+          ],
+          "id": 140,
+          "level": 1,
+          "name": "Platos preparados calientes",
+          "order": 597
+        }
+      ],
+      "id": 16,
+      "level": 0,
+      "name": "Pizzas y platos preparados",
+      "order": 597
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Costillas de cerdo a la barbacoa cortadas Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Costillas de cerdo asadas barbacoa",
+    "mandatory_mentions": "Sin gluten",
+    "origin": "España",
+    "production_variant": "Este producto es de peso variable, por lo tanto el peso neto puede oscilar",
+    "storage_instructions": "Conservar entre 0- 4 C. Una vez abierto consumir en 24h",
+    "suppliers": [
+      {
+        "name": "Platos Tradicionales S.A."
+      }
+    ],
+    "usage_instructions": "MICROONDAS: 1. Sacar las costillas de su bolsa 2. Volcarlas en el bote (no tapar) 3. Calentar en el microondas (a máxima potencia) 4 minutos. HORNO : 1. Precalentar a 180ºC 2. Colocarlas en un recipiente apto para horno y esparcir 3. Calentar en el horno 15 min. a 180ºC AIR FRYER: 1. Retirar el film, colocar en un recipiente apto para el air fryer y esparcir 2. Calentar en el air fryer 15 min. a 180ºC"
+  },
+  "display_name": "Costillas de cerdo a la barbacoa cortadas Hacendado",
+  "ean": "2105171137093",
+  "extra_info": [
+    null
+  ],
+  "id": "13709",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>cereales que contengan gluten</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Costilla de cerdo asada (78%): costilla de cerdo, agua, miel, salmuera (sal, azúcar, dextrosa, almidón, jarabe de glucosa, especias, extracto de levadura, zumo de limón y aromas), salsa Worcestershire (agua, vinagre, azúcar, sal, especias, tamarindo, extracto de malta de cebada* y zumo de limón) y almidón; salsa barbacoa (22%): azúcares (jarabe de glucosa-fructosa, fructosa y melaza), agua, zumo de naranja, vinagre, tomate, almidón modificado, sal, especias, aroma, corrector de acidez (ácido cítrico), colorante (caramelo amónico), conservadores (sorbato potásico y benzoato sódico) y espesante (goma xantana). Contiene trazas de <strong>leche</strong> y derivados.*Contenido en <strong>gluten</strong> &lt;20ppm."
+  },
+  "origin": "España",
+  "packaging": "Bote",
+  "photos": [
+    {
+      "perspective": 3,
+      "regular": "https://prod-mercadona.imgix.net/images/8b3e02c597686cf31334038b1f8a9bd6.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8b3e02c597686cf31334038b1f8a9bd6.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8b3e02c597686cf31334038b1f8a9bd6.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/66a68fa24493f7488b16d79415678d4a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/66a68fa24493f7488b16d79415678d4a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/66a68fa24493f7488b16d79415678d4a.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "12.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "12.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "6.25",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/13709/costillas-cerdo-barbacoa-cortadas-hacendado-bote",
+  "slug": "costillas-cerdo-barbacoa-cortadas-hacendado-bote",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/8b3e02c597686cf31334038b1f8a9bd6.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

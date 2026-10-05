@@ -1,0 +1,122 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 320,
+              "level": 2,
+              "name": "Otros panes",
+              "order": 515
+            }
+          ],
+          "id": 60,
+          "level": 1,
+          "name": "Pan de molde y otras especialidades",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pan 5 semillas cortado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Pan especial rebanado 5 semillas elaborado con harina integral de trigo (26%), semillas de girasol, sésamo, avena, linaza y mijo",
+    "mandatory_mentions": "Fuente de fibra, sin azúcares añadidos, bajo contenido en grasas saturadas, Con Omega 6.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Mantener en lugar fresco y seco. Apto para congelación.",
+    "suppliers": [
+      {
+        "name": "PANIFICADORA ALCALÁ S.L"
+      },
+      {
+        "name": "Panificadora de Alcala"
+      },
+      {
+        "name": "Panificadora de Alcalá S. L."
+      },
+      {
+        "name": "Panificadora de Alcalá S.L."
+      }
+    ],
+    "usage_instructions": "Acompaña a los platos de diario, también para tostadas, bocadillos, ideal para cualquier hora del día."
+  },
+  "display_name": "Pan 5 semillas",
+  "ean": "8414897100583",
+  "extra_info": [
+    ""
+  ],
+  "id": "83558",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Contiene <strong>go</strong>. Contiene <strong>centeno y productos derivados</strong>. Contiene <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>trigo y productos derivados</strong>.",
+    "ingredients": "Harina de <strong>trigo</strong> (<strong>gluten</strong>), agua, harina de <strong>trigo</strong> integral (<strong>gluten</strong>) (16 %), semillas de girasol (3,9%), <strong>sésamo</strong> (3%), linaza (2,4%), mijo (2,4%), harina de <strong>centeno</strong> (<strong>gluten</strong>), levadura, copos de <strong>avena</strong> (<strong>gluten</strong>) (1%), <strong>gluten</strong> de <strong>trigo</strong>, sal, aceite refinado de girasol, mejorante panario (harina de <strong>trigo</strong> (<strong>gluten</strong>), conservador e-200, antioxidante e-300, masa madre de <strong>centeno</strong> inactiva (<strong>gluten</strong>) y aroma), conservador e-282, goma guar, harina de arroz y almidón de maíz."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/a350fb1c5677d63b916ef0ecc3183df5.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a350fb1c5677d63b916ef0ecc3183df5.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a350fb1c5677d63b916ef0ecc3183df5.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/beb14267234bbf596722859b85c80f31.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/beb14267234bbf596722859b85c80f31.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/beb14267234bbf596722859b85c80f31.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "3.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.50",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/83558/pan-5-semillas-cortado-paquete",
+  "slug": "pan-5-semillas-cortado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/a350fb1c5677d63b916ef0ecc3183df5.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

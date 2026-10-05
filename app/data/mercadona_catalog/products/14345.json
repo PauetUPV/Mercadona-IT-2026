@@ -1,0 +1,119 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 347,
+              "level": 2,
+              "name": "Bebidas vegetales",
+              "order": 373
+            }
+          ],
+          "id": 72,
+          "level": 1,
+          "name": "Leche y bebidas vegetales",
+          "order": 373
+        }
+      ],
+      "id": 6,
+      "level": 0,
+      "name": "Huevos, leche y mantequilla",
+      "order": 373
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Bebida de soja sabor café 0% azúcar",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Bebida de soja UHT con extracto de café, calcio y vitaminas B2, B12 y D. Con edulcorante.",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Mantener en lugar fresco y seco. Una vez abierto el envase, conservar en el frigorífico y consumir antes de 3 días.",
+    "suppliers": [
+      {
+        "name": "Iparlat, S.A."
+      }
+    ],
+    "usage_instructions": "Agitar antes de su consumo."
+  },
+  "display_name": "Bebida de soja sabor café 0% azúcar",
+  "ean": "8402001037955",
+  "extra_info": [
+    ""
+  ],
+  "id": "14345",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "0% azúcar",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>soja y productos a base de soja</strong>.",
+    "ingredients": "Agua, habas de <strong>soja</strong> descascarilladas (10%), extracto de café (0,5%), calcio, aromas, estabilizantes (goma gellan y trifosfatos), edulcorante (acesulfamo K), sal, vitaminas B2, B12 y D."
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/edd29aec84e91e5051d8dc7890e6ef0f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/edd29aec84e91e5051d8dc7890e6ef0f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/edd29aec84e91e5051d8dc7890e6ef0f.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/0ff09129e3d9760235f0468488415415.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0ff09129e3d9760235f0468488415415.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0ff09129e3d9760235f0468488415415.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/31c1e09736571bad5afd130c7062282a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/31c1e09736571bad5afd130c7062282a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/31c1e09736571bad5afd130c7062282a.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.10",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 1.0,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "1.100",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": 6,
+    "unit_name": "briks",
+    "unit_price": "6.60",
+    "unit_selector": true,
+    "unit_size": 6.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/14345/bebida-soja-sabor-cafe-0-azucar",
+  "slug": "bebida-soja-sabor-cafe-0-azucar",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/edd29aec84e91e5051d8dc7890e6ef0f.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

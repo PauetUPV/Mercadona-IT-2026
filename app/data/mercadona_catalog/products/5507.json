@@ -1,0 +1,143 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 253,
+              "level": 2,
+              "name": "Otras frutas",
+              "order": 306
+            }
+          ],
+          "id": 27,
+          "level": 1,
+          "name": "Fruta",
+          "order": 306
+        }
+      ],
+      "id": 1,
+      "level": 0,
+      "name": "Fruta y verdura",
+      "order": 306
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Arándanos",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Arándano",
+    "mandatory_mentions": "No son alimentos transgénicos (OGM). No ha recibido tratamientos Inonizantes.",
+    "origin": "España",
+    "production_variant": "Producto fresco. La variedad y el calibre puede variar en función de la campaña.",
+    "storage_instructions": "Conservación entre 2ºC y 4ºC. Vida útil 10 días.",
+    "suppliers": [
+      {
+        "name": "BerryWorld Iberia SLU"
+      },
+      {
+        "name": "Driscoll's of Europe BV"
+      },
+      {
+        "name": "Euroberry Marketing S.A."
+      },
+      {
+        "name": "Freshroyal S.L."
+      },
+      {
+        "name": "Ideal Fruits S.L."
+      },
+      {
+        "name": "Moguer, Cuna de Platero SCA"
+      },
+      {
+        "name": "S.COOP.AndaluzaMoguerCunadePlatero"
+      },
+      {
+        "name": "SAT Las Palmeritas"
+      },
+      {
+        "name": "Surexport Compañía Agraria S.L"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Arándanos",
+  "ean": "5608495000052",
+  "extra_info": [
+    null
+  ],
+  "id": "5507",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Arándano"
+  },
+  "origin": "España",
+  "packaging": "Tarrina",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/7d54e6811369f227bf2fd9e5c5b6a69a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7d54e6811369f227bf2fd9e5c5b6a69a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7d54e6811369f227bf2fd9e5c5b6a69a.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/87c1e98293f728901a5ca49aec696896.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/87c1e98293f728901a5ca49aec696896.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/87c1e98293f728901a5ca49aec696896.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/5c27ec04d62cfec8c8d379b2e49a5613.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5c27ec04d62cfec8c8d379b2e49a5613.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5c27ec04d62cfec8c8d379b2e49a5613.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "13.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "13.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "6.50",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/5507/arandanos-tarrina",
+  "slug": "arandanos-tarrina",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/7d54e6811369f227bf2fd9e5c5b6a69a.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

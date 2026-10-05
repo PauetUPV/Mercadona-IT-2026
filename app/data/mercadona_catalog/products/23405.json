@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 365,
+              "level": 2,
+              "name": "Cápsulas compatibles Dolce gusto",
+              "order": 16
+            }
+          ],
+          "id": 81,
+          "level": 1,
+          "name": "Café cápsula y monodosis",
+          "order": 16
+        }
+      ],
+      "id": 8,
+      "level": 0,
+      "name": "Cacao, café e infusiones",
+      "order": 16
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Café con leche en cápsula descafeinado Hacendado compatibles máquinas Dolce gusto",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Preparado a base de leche en polvo, café soluble descafeinado y azúcar",
+    "mandatory_mentions": "Envasado en atmósfera protectora.",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar seco, limpio y fresco",
+    "suppliers": [
+      {
+        "name": "Cocatech SLU"
+      },
+      {
+        "name": "Cocatech, SLU"
+      }
+    ],
+    "usage_instructions": "Ración: 1 cápsula para 150 ml de bebida"
+  },
+  "display_name": "Café con leche en cápsula descafeinado Hacendado",
+  "ean": "8402001037344",
+  "extra_info": [
+    null
+  ],
+  "id": "23405",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Leche</strong> desnatada en polvo (33%) <strong>Leche</strong> entera en polvo ( 29%) café soluble descafeinado (32%), azúca, estabilizantes(Fosfato de potasio y citratos de sodio)"
+  },
+  "origin": "España",
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/4ee8dcf4c122ee081dfa59dde32060cf.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4ee8dcf4c122ee081dfa59dde32060cf.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4ee8dcf4c122ee081dfa59dde32060cf.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/0f4c228f454c7fc2a69621bd46bea69d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0f4c228f454c7fc2a69621bd46bea69d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0f4c228f454c7fc2a69621bd46bea69d.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "0.21",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "0.210",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 16,
+    "unit_name": "cápsulas",
+    "unit_price": "3.35",
+    "unit_selector": true,
+    "unit_size": 0.152
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/23405/cafe-con-leche-capsula-descafeinado-hacendado-compatibles-maquinas-dolce-gusto-caja",
+  "slug": "cafe-con-leche-capsula-descafeinado-hacendado-compatibles-maquinas-dolce-gusto-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/4ee8dcf4c122ee081dfa59dde32060cf.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

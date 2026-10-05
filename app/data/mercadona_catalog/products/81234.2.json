@@ -1,0 +1,103 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 809,
+              "level": 2,
+              "name": "Dorada",
+              "order": 442
+            }
+          ],
+          "id": 31,
+          "level": 1,
+          "name": "Pescado fresco",
+          "order": 442
+        }
+      ],
+      "id": 2,
+      "level": 0,
+      "name": "Marisco y pescado",
+      "order": 442
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": "Los productos del mostrador de pescadería pueden contener trazas de: pescado, moluscos, crustáceos y sulfitos.",
+    "danger_mentions": null,
+    "description": "Dorada abierta a la espalda con espinas y con cabeza",
+    "is_prepared_by_mercadona": false,
+    "legal_name": null,
+    "mandatory_mentions": null,
+    "origin": null,
+    "production_variant": null,
+    "storage_instructions": null,
+    "suppliers": [],
+    "usage_instructions": null
+  },
+  "display_name": "Dorada abierta a la espalda con espinas y con cabeza",
+  "ean": "2105318812340",
+  "extra_info": [
+    null
+  ],
+  "id": "81234.2",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": null
+  },
+  "origin": null,
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 7,
+      "regular": "https://prod-mercadona.imgix.net/images/b00be480049e6df6699dfcc258e77d84.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b00be480049e6df6699dfcc258e77d84.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b00be480049e6df6699dfcc258e77d84.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "9.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "9.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "4.66",
+    "unit_selector": true,
+    "unit_size": 0.49
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/81234.2/dorada-abierta-espalda-con-espinas-con-cabeza-pieza",
+  "slug": "dorada-abierta-espalda-con-espinas-con-cabeza-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/b00be480049e6df6699dfcc258e77d84.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

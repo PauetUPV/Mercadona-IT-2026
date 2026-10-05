@@ -1,0 +1,122 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 469,
+              "level": 2,
+              "name": "Caldo líquido",
+              "order": 215
+            }
+          ],
+          "id": 129,
+          "level": 1,
+          "name": "Sopa y caldo",
+          "order": 215
+        }
+      ],
+      "id": 14,
+      "level": 0,
+      "name": "Conservas, caldos y cremas",
+      "order": 215
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Caldo de pollo Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Caldo de pollo",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en un lugar fresco y seco. Una vez abierto, conservar en el frigorífico y consumir antes de 3 días.",
+    "suppliers": [
+      {
+        "name": "ALINTER ALIMENTACIÓN S.A.U."
+      },
+      {
+        "name": "ALINTER ALIMENTACIÓN, S.A.U"
+      },
+      {
+        "name": "Alinter Alimentación, S.A.U"
+      },
+      {
+        "name": "Interal, S.A."
+      }
+    ],
+    "usage_instructions": "En cazuela, Agitar antes de usar. Verter el caldo en una cazuela. LLevar a ebullición. Añadir los ingredientes que se desee."
+  },
+  "display_name": "Caldo de pollo Hacendado",
+  "ean": "8402001015168",
+  "extra_info": [
+    null
+  ],
+  "id": "7313",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Libre de <strong>trigo y productos derivados</strong>. Libre de <strong>mostaza y productos derivados</strong>. Libre de <strong>apio y productos derivados</strong>. Libre de <strong>soja y productos a base de soja</strong>. Libre de <strong>cereales que contengan gluten</strong>. Libre de <strong>leche y sus derivados (incluida la lactosa)</strong>. Libre de <strong>pescado y productos a base de pescado</strong>. Libre de <strong>huevos y productos a base de huevo</strong>. Libre de <strong>crustáceos y productos a base de crustáceos</strong>.",
+    "ingredients": "<p>Agua, pollo 4,3%, sal, hortalizas 0,03% (cebolla, zanahoria), aromas naturales, almidón, carne de vacuno, especias."
+  },
+  "origin": null,
+  "packaging": "Brik",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/3b782816c7c91c3ccffdf837fbd02ae7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3b782816c7c91c3ccffdf837fbd02ae7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3b782816c7c91c3ccffdf837fbd02ae7.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/568d37c136506636d7df64c78ea6e492.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/568d37c136506636d7df64c78ea6e492.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/568d37c136506636d7df64c78ea6e492.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "0.75",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "0.750",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.75",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/7313/caldo-pollo-hacendado-brick",
+  "slug": "caldo-pollo-hacendado-brick",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/3b782816c7c91c3ccffdf837fbd02ae7.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

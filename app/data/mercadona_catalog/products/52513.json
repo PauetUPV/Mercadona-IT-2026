@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Alpro",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 411,
+              "level": 2,
+              "name": "Postres de soja",
+              "order": 598
+            }
+          ],
+          "id": 106,
+          "level": 1,
+          "name": "Postres de soja",
+          "order": 598
+        }
+      ],
+      "id": 11,
+      "level": 0,
+      "name": "Postres y yogures",
+      "order": 598
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Alpro",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Postre de soja sabor natural con coco Alpro",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Producto fermentado a base de soja con coco, y calcio y vitaminas añadidas.",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en frío entre 1C y 7C.",
+    "suppliers": [
+      {
+        "name": "Danone S.A."
+      },
+      {
+        "name": "Danone, S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Postre de soja sabor natural con coco Alpro",
+  "ean": "5411188138051",
+  "extra_info": [
+    ""
+  ],
+  "id": "52513",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>soja y productos a base de soja</strong>.",
+    "ingredients": "base de <strong>soja</strong> (93,1%) (agua, habas de <strong>soja</strong> descascarilladas (10,4%)), base de coco (6,2%) (agua, crema de coco (2,9%)), azúcar, calcio (citrato tricálcico), estabilizantes (pectinas), correctores de acidez (citratos de sodio, ácido cítrico), aromas naturales, sal marina, antioxidantes (extracto rico en tocoferoles, ésteres ácidos grasos de ácido ascórbico), vitaminas (B12, D2), fermentos (S. thermophilus, L. bulgaricus). <strong>Puede contener trazas de frutos de cáscara (no cacahuetes). Sin lácteos y sin gluten.</strong>"
+  },
+  "origin": null,
+  "packaging": "Bote",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/1e4db0e29c351e0e73ac49577e5c107b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1e4db0e29c351e0e73ac49577e5c107b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1e4db0e29c351e0e73ac49577e5c107b.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/0b5167a4a9b5f1e76d8522d0651e633e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0b5167a4a9b5f1e76d8522d0651e633e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0b5167a4a9b5f1e76d8522d0651e633e.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.75",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.750",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.30",
+    "unit_selector": true,
+    "unit_size": 0.4
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/52513/postre-soja-sabor-natural-con-coco-alpro-bote",
+  "slug": "postre-soja-sabor-natural-con-coco-alpro-bote",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/1e4db0e29c351e0e73ac49577e5c107b.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

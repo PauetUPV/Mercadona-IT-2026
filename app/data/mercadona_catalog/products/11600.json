@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 340,
+              "level": 2,
+              "name": "Decoración",
+              "order": 515
+            }
+          ],
+          "id": 71,
+          "level": 1,
+          "name": "Velas y decoración",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Topping de chocolate avellana Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "SALSA SABOR CHOCOLATE CON AVELLANA",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "CONSERVAR EN ENVASE ORIGINAL CERRADO, EN SITIO SECO, A TEMPERATURA AMBIENTE (OPTIMO 10-25ºC).",
+    "suppliers": [
+      {
+        "name": "IGH FLAVOURS & TECHNOLOGY, S.A."
+      }
+    ],
+    "usage_instructions": "AGITAR ANTES DE USAR. APLICAR DIRECTAMENTE"
+  },
+  "display_name": "Topping de chocolate avellana Hacendado",
+  "ean": "8402001028151",
+  "extra_info": [
+    ""
+  ],
+  "id": "11600",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>sh</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>frutos de cáscara</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Azúcar, aceite vegetal (girasol), <strong>avellana</strong> (8%), <strong>leche</strong> desnatada en polvo, cacao desgrasado en polvo (4%), <strong>lactosuero</strong>, emulgente (lecitina de <strong>soja</strong>), aroma.Puede contener trazas de otros frutos secos de cáscara."
+  },
+  "origin": null,
+  "packaging": "Bote",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/565e9e698740d265f8c422a7b71bb9c1.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/565e9e698740d265f8c422a7b71bb9c1.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/565e9e698740d265f8c422a7b71bb9c1.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/5acc32dd7942408f7da321a1826a92c7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5acc32dd7942408f7da321a1826a92c7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5acc32dd7942408f7da321a1826a92c7.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "8.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "8.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.55",
+    "unit_selector": true,
+    "unit_size": 0.3
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/11600/topping-chocolate-avellana-hacendado-bote",
+  "slug": "topping-chocolate-avellana-hacendado-bote",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/565e9e698740d265f8c422a7b71bb9c1.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

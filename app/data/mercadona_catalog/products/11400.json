@@ -1,0 +1,115 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 377,
+              "level": 2,
+              "name": "Infusiones",
+              "order": 16
+            }
+          ],
+          "id": 88,
+          "level": 1,
+          "name": "Té e infusiones",
+          "order": 16
+        }
+      ],
+      "id": 8,
+      "level": 0,
+      "name": "Cacao, café e infusiones",
+      "order": 16
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Infusión Jengibre Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Infusión jengibre",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco",
+    "suppliers": [
+      {
+        "name": "Capital Resources Sh.p.k."
+      },
+      {
+        "name": "Mercadona S.A"
+      }
+    ],
+    "usage_instructions": "Verter 200 ml de agua hirviendo sobre la bolsita y dejar en infusión durante 5-8 minutos. Importante: no introducir la bolsita en el microondas."
+  },
+  "display_name": "Infusión Jengibre Hacendado",
+  "ean": "8480000114006",
+  "extra_info": [
+    null
+  ],
+  "id": "11400",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Jengibre 100%"
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/acf276fa72cdf6199c1e79969796541c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/acf276fa72cdf6199c1e79969796541c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/acf276fa72cdf6199c1e79969796541c.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/d34ffbe1b84fb39ec4f1c36ba3b48b2c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d34ffbe1b84fb39ec4f1c36ba3b48b2c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d34ffbe1b84fb39ec4f1c36ba3b48b2c.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "33.75",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "100 g",
+    "reference_price": "3.375",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 20,
+    "unit_name": "bolsitas",
+    "unit_price": "1.35",
+    "unit_selector": true,
+    "unit_size": 0.04
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/11400/infusion-jengibre-hacendado-caja",
+  "slug": "infusion-jengibre-hacendado-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/acf276fa72cdf6199c1e79969796541c.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

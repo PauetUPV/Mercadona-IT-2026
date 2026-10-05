@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 327,
+              "level": 2,
+              "name": "Rosquilletas",
+              "order": 515
+            }
+          ],
+          "id": 64,
+          "level": 1,
+          "name": "Picos, rosquilletas y picatostes",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Palitos de pan con aceitunas Hacendado",
+    "legal_name": "PANES ESPECIALES CON ACEITUNA VERDE Y  SÉSAMO NEGRO",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco. No exponer a la luz solar.",
+    "suppliers": [
+      {
+        "name": "Anitín Panes Especiales S.L.U."
+      }
+    ],
+    "usage_instructions": "Una vez abierto para apreciar mejor sus cualidades se recomienda consumir antes de 5 días."
+  },
+  "display_name": "Palitos de pan con aceitunas Hacendado",
+  "ean": "8402001024535",
+  "extra_info": [
+    ""
+  ],
+  "id": "73395",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>gb</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>cacahuetes y productos a base de cacahuetes</strong>.",
+    "ingredients": "Harina de <strong>trigo (gluten</strong>) , aceite refinado de girasol alto oleico, aceituna verde en trozos (8%), levadura, sal, <strong>sésamo</strong> negro (1%), azúcar, harina de malta <strong>cebada</strong> (<strong>gluten</strong>)  y agente de tratamiento de la harina: ácido ascórbico. Puede contener trazas de <strong>derivados lácteos, cacahuete , soja y mostaza.</strong>"
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/c0ed7b5e8b9c6c28b1ebf3ac941672a7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c0ed7b5e8b9c6c28b1ebf3ac941672a7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c0ed7b5e8b9c6c28b1ebf3ac941672a7.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/8745083e47bc3ca66deb7b381bcd0e0c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8745083e47bc3ca66deb7b381bcd0e0c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8745083e47bc3ca66deb7b381bcd0e0c.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "9.38",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.064,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "9.375",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 2,
+    "unit_name": "ud.",
+    "unit_price": "1.20",
+    "unit_selector": true,
+    "unit_size": 0.128
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/73395/palitos-pan-con-aceitunas-hacendado-pack-2",
+  "slug": "palitos-pan-con-aceitunas-hacendado-pack-2",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/c0ed7b5e8b9c6c28b1ebf3ac941672a7.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

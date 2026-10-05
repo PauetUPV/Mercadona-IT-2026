@@ -1,0 +1,129 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 280,
+              "level": 2,
+              "name": "Cerdo",
+              "order": 17
+            }
+          ],
+          "id": 37,
+          "level": 1,
+          "name": "Cerdo",
+          "order": 17
+        },
+        {
+          "categories": [
+            {
+              "id": 288,
+              "level": 2,
+              "name": "Empanados y elaborados",
+              "order": 17
+            }
+          ],
+          "id": 45,
+          "level": 1,
+          "name": "Empanados y elaborados",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Fiambre de magreta de cerdo adobada",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Fiambre de panceta de cerdo adobada",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 0ºC y 5ºC",
+    "suppliers": [
+      {
+        "name": "Frescos y Elaborados Delisano SAU"
+      },
+      {
+        "name": "Industrias Cárnicas Tello, S.A."
+      }
+    ],
+    "usage_instructions": "Cocinar completamente antes de su consumo. Modo de empleo: Cocinar en sartén o plancha a fuego medio durante un minuto por cada lado. Una vez abierto consumir en 48 horas. Envasado en atmósfera protectora."
+  },
+  "display_name": "Fiambre de magreta de cerdo adobada",
+  "ean": "8402001007262",
+  "extra_info": [
+    null
+  ],
+  "id": "23307",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Carne de cerdo (67%), agua, fécula de patata, sal, estabilizante (E-451i), proteína de cerdo, azúcar, gelificantes (E-415, E-407, E-410), antioxidantes (E-301, E-331), aromas, conservador (E-250), especias (pimentón), extracto de pimentón, colorante (E-120). <strong>Puede contener soja.</strong>"
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/0cda20526aa4182a2fc1ffb4662c41dc.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0cda20526aa4182a2fc1ffb4662c41dc.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0cda20526aa4182a2fc1ffb4662c41dc.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/9980b7ab75c439b7a3c334277af27199.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9980b7ab75c439b7a3c334277af27199.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9980b7ab75c439b7a3c334277af27199.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "7.71",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.715",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.70",
+    "unit_selector": true,
+    "unit_size": 0.35
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/23307/fiambre-magreta-cerdo-adobada-bandeja",
+  "slug": "fiambre-magreta-cerdo-adobada-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/0cda20526aa4182a2fc1ffb4662c41dc.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

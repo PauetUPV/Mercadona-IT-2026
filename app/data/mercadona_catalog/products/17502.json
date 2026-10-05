@@ -1,0 +1,114 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 843,
+              "level": 2,
+              "name": "Salsas para carnes",
+              "order": 7
+            }
+          ],
+          "id": 117,
+          "level": 1,
+          "name": "Otras salsas",
+          "order": 7
+        }
+      ],
+      "id": 12,
+      "level": 0,
+      "name": "Aceite, especias y salsas",
+      "order": 7
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Salsa pimienta verde Hacendado",
+    "legal_name": "Salsa deshidratada de pimienta verde",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Fabricado por: INTERAL, S.A."
+      },
+      {
+        "name": "Interal, S.A."
+      }
+    ],
+    "usage_instructions": "Disolver 1 cucharada de mantequilla o margarina en 200ml de agua y llevar a ebullición. Retirar del fuego, añadir el contenido de este sobre y remover hasta que la salsa ligue (3 min. Aprox.)."
+  },
+  "display_name": "Salsa pimienta verde Hacendado",
+  "ean": "8480000175021",
+  "extra_info": [
+    null
+  ],
+  "id": "17502",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>cereales que contengan gluten</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>ml</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>. Puede contener <strong>pescado y productos a base de pescado</strong>. Puede contener <strong>huevos y productos a base de huevo</strong>. Puede contener <strong>apio y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>.",
+    "ingredients": "<strong>Lactosa</strong>, proteínas y grasa <strong>láctea</strong>; almidón modificado, <strong>leche</strong>, aromas, maltodextrina, 1 potenciado del sabor: glutamato monosódico, pimienta verde (3,3%), extracto de vino de oporto, extracto de vino blanco, hortalizas (cebolla y tomate), extracto de levadura, colorante: caramelo. Puede contener trazas de <strong>gluten</strong>, <strong>soja</strong>, <strong>apio</strong>, <strong>huevo</strong>, <strong>pescado</strong> y <strong>crustáceos</strong>."
+  },
+  "origin": null,
+  "packaging": "Sobre",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/66986e35fb04401c696133d645f401d9.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/66986e35fb04401c696133d645f401d9.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/66986e35fb04401c696133d645f401d9.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/c65dac5602c415f49332a5c246df6e5e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c65dac5602c415f49332a5c246df6e5e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c65dac5602c415f49332a5c246df6e5e.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "25.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "25.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.25",
+    "unit_selector": true,
+    "unit_size": 0.05
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/17502/salsa-pimienta-verde-hacendado",
+  "slug": "salsa-pimienta-verde-hacendado",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/66986e35fb04401c696133d645f401d9.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

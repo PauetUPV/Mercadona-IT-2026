@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 864,
+              "level": 2,
+              "name": "Bonito",
+              "order": 215
+            }
+          ],
+          "id": 122,
+          "level": 1,
+          "name": "Atún y otras conservas de pescado",
+          "order": 215
+        }
+      ],
+      "id": 14,
+      "level": 0,
+      "name": "Conservas, caldos y cremas",
+      "order": 215
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Filetes de bonito del norte en aceite de oliva Hacendado",
+    "legal_name": "Atún blanco-Thunnus alalunga",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar seco. Para disfrutar de todo el sabor y caracteristicas del producto, le recomendamos consumirlo en su totalidad una vez abierta la lata. Una vez abierta, si no lo consume en el momento, conservelo en el frigorifico, en su lata original y cubierto con el aceite. No lo guarde por un periodo superior a 24 h. despues de la apertura.",
+    "suppliers": [
+      {
+        "name": "ESCURIS, S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Filetes de bonito del norte en aceite de oliva Hacendado",
+  "ean": "8480000181022",
+  "extra_info": [
+    null
+  ],
+  "id": "18102",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>pescado y productos a base de pescado</strong>.",
+    "ingredients": "<strong>Bonito del Norte </strong>(Atún blanco-Thunnus alalunga), aceite de oliva y sal"
+  },
+  "origin": null,
+  "packaging": "Tarro",
+  "photos": [
+    {
+      "perspective": 3,
+      "regular": "https://prod-mercadona.imgix.net/images/b565c6df3e0976c383af67fe0d43f86a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b565c6df3e0976c383af67fe0d43f86a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b565c6df3e0976c383af67fe0d43f86a.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/124e3bf0dd45657646d1bc5c8feedab6.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/124e3bf0dd45657646d1bc5c8feedab6.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/124e3bf0dd45657646d1bc5c8feedab6.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "20.25",
+    "bunch_selector": false,
+    "drained_weight": 0.28,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "28.929",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "8.10",
+    "unit_selector": true,
+    "unit_size": 0.4
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/18102/filetes-bonito-norte-aceite-oliva-hacendado-tarro",
+  "slug": "filetes-bonito-norte-aceite-oliva-hacendado-tarro",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/b565c6df3e0976c383af67fe0d43f86a.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

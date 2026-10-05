@@ -1,0 +1,122 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 272,
+              "level": 2,
+              "name": "Marisco",
+              "order": 442
+            }
+          ],
+          "id": 32,
+          "level": 1,
+          "name": "Marisco",
+          "order": 442
+        }
+      ],
+      "id": 2,
+      "level": 0,
+      "name": "Marisco y pescado",
+      "order": 442
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Arreglo de marisco pelado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Arreglo pelado",
+    "mandatory_mentions": "Envasado en atmósfera protectora.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar entre 0ºC y 4ºC.  Una vez abierto, consumir en 24 h.",
+    "suppliers": [
+      {
+        "name": "Grupo Profand SLU"
+      },
+      {
+        "name": "Profand Zaragoza SLU"
+      }
+    ],
+    "usage_instructions": "Cocinar antes de consumir. Abrir 5 minutos antes de cocinar."
+  },
+  "display_name": "Arreglo de marisco pelado",
+  "ean": "8402001049385",
+  "extra_info": [
+    ""
+  ],
+  "id": "87786",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>moluscos y productos a base de moluscos</strong>. Contiene <strong>dióxido de azufre y sulfitos</strong>. Puede contener <strong>pescado y productos a base de pescado</strong>. Contiene <strong>crustáceos y productos a base de crustáceos</strong>.",
+    "ingredients": "Potón del Pacífico (<strong>moluscos</strong>) (Potón del Pacífico, agua, sal, reguladores de la acidez (E330, E331)),calamar (<strong>moluscos</strong>) (calamar, agua (12%), sal y correctores de la acidez (E330, E331 y E501)), gamba (<strong>crustáceos</strong>) (gamba, agua, sal y correctores de la acidez (E330, E331)) y langostino (<strong>crustáceos</strong>) (conservador (metabisulfito de sodio (<strong>sulfitos</strong>))). Puede contener <strong>pescado</strong>.Componentes: Potón del pacífico (Dosidicus gigas), FAO 87 O. Pacífico sudeste, Capturado, Sedales y anzuelos, Descongelado. Calamar patagónico (Dorytheutis (Amerigo) gahi),FAO 41 Atl sudoccidental, Capturado, Descongelado. Gamba (Aristeus alcocki), capturado con Redes de arrastre, descongelado. Langostino Vannamei (Penaeus vannamei), De cría, descongelado."
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 10,
+      "regular": "https://prod-mercadona.imgix.net/images/872c79b037188297ba00e68bccae5820.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/872c79b037188297ba00e68bccae5820.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/872c79b037188297ba00e68bccae5820.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/2f135c390f109bea7afb88a1fbf2d48c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/2f135c390f109bea7afb88a1fbf2d48c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/2f135c390f109bea7afb88a1fbf2d48c.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/8a982d9a2f266c4e3ec4b7d8b2c646a1.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8a982d9a2f266c4e3ec4b7d8b2c646a1.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8a982d9a2f266c4e3ec4b7d8b2c646a1.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "21.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "21.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "9.45",
+    "unit_selector": true,
+    "unit_size": 0.45
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/87786/arreglo-marisco-pelado-bandeja",
+  "slug": "arreglo-marisco-pelado-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/872c79b037188297ba00e68bccae5820.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

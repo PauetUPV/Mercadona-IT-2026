@@ -1,0 +1,109 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 446,
+              "level": 2,
+              "name": "Pasta rellena",
+              "order": 10
+            }
+          ],
+          "id": 120,
+          "level": 1,
+          "name": "Pasta y fideos",
+          "order": 10
+        }
+      ],
+      "id": 13,
+      "level": 0,
+      "name": "Arroz, legumbres y pasta",
+      "order": 10
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pasta fresca ravioli Serrana rellena de jamón serrano y queso Hacendado",
+    "legal_name": "PASTA ALIMENTICIA FRESCA AL HUEVO RELLENA DE JAMON SERRANO Y QUESO",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "-",
+    "storage_instructions": "Conservar refrigerado entre +4/7C. Una vez abierto consumir dentro de los tres días siguientes.",
+    "suppliers": [
+      {
+        "name": "Bertagni 1882 S.p.a."
+      }
+    ],
+    "usage_instructions": "Modo de preparación: Hervir, Echar sin separar la pasta, 4  minutos fuego medio sin remover. No volcar sacar con espumadera."
+  },
+  "display_name": "Pasta fresca ravioli Serrana rellena de jamón serrano y queso Hacendado",
+  "ean": "8402001040603",
+  "extra_info": [
+    ""
+  ],
+  "id": "14949",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>frutos de cáscara</strong>. Puede contener <strong>pescado y productos a base de pescado</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>. Puede contener <strong>soja y productos a base de soja</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "RELLENO (55%): ricotta 20% (suero de <strong>leche</strong>, nata (<strong>leche</strong>) sal), <strong>leche</strong> semidesnatada, pan rallado (harina de <strong>trigo</strong>, sal, levadura), Jamon serrano 11,5 % (carne porcina, sal, azúcar, dextrosa, antioxidantes: ascorbato de sodio (E301), corrector de acidez: citrato disódico (E331ii), conservantes : nitrato de potasio (E252), nitrito de sodio(E250)), agua, suero de <strong>leche</strong> en polvo,  aceite de semillas de girasol, tomate asado 5,7%, nata (<strong>leche</strong>), queso rallado 1,9% (<strong>leche</strong>), sal, harina de maíz, queso mozzarella 0,7% (<strong>leche</strong>), aromas naturales, harina de arroz, almidón de maíz. <strong>PASTA</strong> (45%): harina de <strong>trigo</strong> blando, <strong>huevos</strong> 21%, sémola de <strong>trigo</strong> duro, agua. Puede contener trazas de <strong>soja</strong>, <strong>crustáceos</strong>, <strong>pescado</strong>, <strong>frutos de cáscara</strong>, <strong>mostaza</strong>."
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/8d7468b0a4d28ef458b05c63cda7eaf0.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/8d7468b0a4d28ef458b05c63cda7eaf0.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/8d7468b0a4d28ef458b05c63cda7eaf0.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/e04136e3aa4c1ef3b812eeb84670433f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e04136e3aa4c1ef3b812eeb84670433f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e04136e3aa4c1ef3b812eeb84670433f.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "7.60",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.600",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.90",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/14949/pasta-fresca-ravioli-jamon-serrano-queso-hacendado-bandeja",
+  "slug": "pasta-fresca-ravioli-jamon-serrano-queso-hacendado-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/8d7468b0a4d28ef458b05c63cda7eaf0.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

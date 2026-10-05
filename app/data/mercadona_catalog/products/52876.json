@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 360,
+              "level": 2,
+              "name": "Con chocolate y rellenas",
+              "order": 18
+            }
+          ],
+          "id": 80,
+          "level": 1,
+          "name": "Galletas",
+          "order": 18
+        }
+      ],
+      "id": 7,
+      "level": 0,
+      "name": "Cereales y galletas",
+      "order": 18
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Galletas Choco con relleno de crema de cacao Hacendado recubiertas de chocolate con leche",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Galletas de cacao con relleno de crema de cacao recubiertas de chocolate con leche",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "Variante",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "Mercadona"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Galletas Choco con relleno de crema de cacao Hacendado recubiertas de chocolate con leche",
+  "ean": "8402001016080",
+  "extra_info": [
+    ""
+  ],
+  "id": "52876",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "recubiertas de chocolate con leche",
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>go</strong>. Puede contener <strong>frutos de cáscara</strong>. Puede contener <strong>cacahuetes y productos a base de cacahuetes</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Contiene <strong>gb</strong>. Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>gs</strong>.",
+    "ingredients": "38% chocolate con leche [azúcar, manteca de cacao, LECHE desnatada en polvo, pasta de cacao, materia grasa LÁCTEA anhidra, emulsionante (lecitina de SOJA)], 24% de relleno de crema [grasa vegetal (palma, semilla de palma), azúcar, 2,6 % LECHE de cobertura de crema [azúcar, grasa vegetal (semilla de palma, palma), cacao en polvo reducido en grasas, suero en polvo (LECHE), LECHE desnatada en polvo, emulsionante (lecitina de SOJA), aromatizante], LECHE entera en polvo, dextrosa monohidrato, LECHE desnatada en polvo caramelizada, suero en polvo (LECHE), lactosa (LECHE), 0,3% de cacao en polvo, emulsionante (lecitina de semilla de nabina)], harina de TRIGO (GLUTEN), azúcar, aceites vegetales (palma, nabina, coco), azúcar caramelizado, 0,9% de cacao en polvo, sal, agentes leudantes (bicarbonato de amonio, bicarbonato sódico), extracto de malta de CEBADA (GLUTEN), colorante (extracto de páprika), aromatizante natural, HUEVO de corral, ácido (ácido cítrico)."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/9cc2b86fdfda6624b109f7f059d478a6.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9cc2b86fdfda6624b109f7f059d478a6.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9cc2b86fdfda6624b109f7f059d478a6.jpeg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/7eb788ec8eea38131a75ece599452b31.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7eb788ec8eea38131a75ece599452b31.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7eb788ec8eea38131a75ece599452b31.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "11.72",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "11.725",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 8,
+    "unit_name": "ud.",
+    "unit_price": "1.70",
+    "unit_selector": true,
+    "unit_size": 0.145
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/52876/galletas-choco-con-relleno-crema-cacao-hacendado-recubiertas-chocolate-con-leche-paquete",
+  "slug": "galletas-choco-con-relleno-crema-cacao-hacendado-recubiertas-chocolate-con-leche-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/9cc2b86fdfda6624b109f7f059d478a6.jpeg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

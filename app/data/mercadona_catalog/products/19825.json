@@ -1,0 +1,117 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 819,
+              "level": 2,
+              "name": "Edulcorante y otros",
+              "order": 11
+            }
+          ],
+          "id": 89,
+          "level": 1,
+          "name": "Azúcar y edulcorante",
+          "order": 11
+        }
+      ],
+      "id": 9,
+      "level": 0,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Edulcorante stevia en sobres Hacendado",
+    "legal_name": "Edulcorante de mesa a base de glicósidos de esteviol de Stevia.",
+    "mandatory_mentions": "Un consumo excesivo puede producir efectos laxantes.",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "JESÚS NAVARRO, S.A."
+      }
+    ],
+    "usage_instructions": "Poder edulcorante: 1 sobre equivale aproximadamente a 2 cucharaditas de azúcar (12g)."
+  },
+  "display_name": "Edulcorante stevia en sobres Hacendado",
+  "ean": "8480000198259",
+  "extra_info": [
+    ""
+  ],
+  "id": "19825",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Agente de carga: eritritol E-968 y edulcorante: glicósidos de esteviol 3,5%. (E960a, con una pureza mínima de 99%)."
+  },
+  "origin": "España",
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/c4c3200a0fbc1a834b84cbea7bbc2f76.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c4c3200a0fbc1a834b84cbea7bbc2f76.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c4c3200a0fbc1a834b84cbea7bbc2f76.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/d4fb4ca972f8faee755fa243e4628317.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d4fb4ca972f8faee755fa243e4628317.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d4fb4ca972f8faee755fa243e4628317.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/2487a257bbe8c635775b7576d5983e97.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/2487a257bbe8c635775b7576d5983e97.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/2487a257bbe8c635775b7576d5983e97.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "38.89",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "38.889",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 54,
+    "unit_name": "sobres",
+    "unit_price": "2.10",
+    "unit_selector": true,
+    "unit_size": 0.054
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/19825/edulcorante-sobres-stevia-hacendado-caja",
+  "slug": "edulcorante-sobres-stevia-hacendado-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/c4c3200a0fbc1a834b84cbea7bbc2f76.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

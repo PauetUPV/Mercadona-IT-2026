@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Revilla",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 824,
+              "level": 2,
+              "name": "Chorizo",
+              "order": 159
+            }
+          ],
+          "id": 51,
+          "level": 1,
+          "name": "Embutido curado",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Revilla",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Taquitos de chorizo extra Revilla",
+    "legal_name": "CHORIZO EXTRA.",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Mantener entre 0º y 7ºC.",
+    "suppliers": [
+      {
+        "name": "Campofrio Food Group S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Taquitos de chorizo extra Revilla",
+  "ean": "8410320014212",
+  "extra_info": [
+    null
+  ],
+  "id": "55135",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>ml</strong>.",
+    "ingredients": "Carne de cerdo, sal, pimentón, <strong>LACTOSA,</strong> aromas, dextrina, azúcar, ajo, estabilizante (E-451, E-450), antioxidantes (E-301, E-331, aroma natural de romero), conservadores (E-252, E-250), fermentos, colorante (E-120), concentrado de vegetales (remolacha, zanahoria). Tratamiento de superficie: conservador (E-202, E-250). Puede contener trazas de derivados <strong>LÁCTEOS.</strong>"
+  },
+  "origin": "España",
+  "packaging": "Pack-2",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/00eb1e67f1f06f8ab4c173dbbfeca958.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/00eb1e67f1f06f8ab4c173dbbfeca958.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/00eb1e67f1f06f8ab4c173dbbfeca958.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/784500f2c776188955b7eeba70e9b1fc.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/784500f2c776188955b7eeba70e9b1fc.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/784500f2c776188955b7eeba70e9b1fc.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "12.75",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.1,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "12.750",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 2,
+    "unit_name": "paquetes",
+    "unit_price": "2.55",
+    "unit_selector": true,
+    "unit_size": 0.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/55135/taquitos-chorizo-extra-revilla-pack-2",
+  "slug": "taquitos-chorizo-extra-revilla-pack-2",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/00eb1e67f1f06f8ab4c173dbbfeca958.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

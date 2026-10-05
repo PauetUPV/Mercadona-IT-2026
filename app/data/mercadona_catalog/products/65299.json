@@ -1,0 +1,115 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Halls",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 394,
+              "level": 2,
+              "name": "Caramelos",
+              "order": 11
+            }
+          ],
+          "id": 95,
+          "level": 1,
+          "name": "Chicles y caramelos",
+          "order": 11
+        }
+      ],
+      "id": 9,
+      "level": 0,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Halls",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Caramelos original Halls",
+    "legal_name": "Caramelos refrescantes con edulcorantes, sin azúcar. Sabor a mentol y eucalipto.",
+    "mandatory_mentions": "Un consumo excesivo puede producir efectos laxantes. Contiene una fuente de fenilalanina.",
+    "origin": "España",
+    "production_variant": "800000007343",
+    "storage_instructions": "Conservar en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Mondelez España Commercial, S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Caramelos original Halls",
+  "ean": "8416400906132",
+  "extra_info": [
+    ""
+  ],
+  "id": "65299",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>x99</strong>.",
+    "ingredients": "Ingredientes: edulcorantes (isomalt, aspartamo, acesulfamo K), mentol, acidulantes (E 270, E 330), aceite de eucalipto, correctores de acidez (E 325, E 332), colorante (E 133), aromas."
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/4e646e0080a833f6662d47da230466b0.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4e646e0080a833f6662d47da230466b0.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4e646e0080a833f6662d47da230466b0.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/b579e22bb64f764a9c1af981c9e66c0e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b579e22bb64f764a9c1af981c9e66c0e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b579e22bb64f764a9c1af981c9e66c0e.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/bda0f0173dfcd8f9ccd3c3c34d5be4fd.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/bda0f0173dfcd8f9ccd3c3c34d5be4fd.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/bda0f0173dfcd8f9ccd3c3c34d5be4fd.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "23.05",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.032,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "23.047",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 4,
+    "unit_name": "ud.",
+    "unit_price": "2.95",
+    "unit_selector": true,
+    "unit_size": 0.128
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/65299/caramelos-original-halls-pack-4",
+  "slug": "caramelos-original-halls-pack-4",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/4e646e0080a833f6662d47da230466b0.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

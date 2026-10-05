@@ -1,0 +1,112 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 893,
+              "level": 2,
+              "name": "Cucuruchos",
+              "order": 213
+            }
+          ],
+          "id": 154,
+          "level": 1,
+          "name": "Helados",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Mini helado cucurucho sabor nata Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Helado sabor a nata",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar a Temperaturas inferiores a -18C. Una vez descongelado no volver a congelar",
+    "suppliers": [
+      {
+        "name": "HELADOS ESTIU, S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Mini helado cucurucho sabor nata Hacendado",
+  "ean": "8480000642462",
+  "extra_info": [
+    ""
+  ],
+  "id": "64246",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>sa</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>frutos de cáscara</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>leche</strong> desnatada reconstituida, barquillo (24,3%) (harina de <strong>trigo</strong> <strong>(gluten)</strong>, azúcar, contiene grasa vegetal de coco y/o aceite refinado de girasol, emulgente: lecitina de <strong>soja</strong>, sal y caramelo natural, <strong>trazas de mostaza</strong>), chocolate con <strong>mantequilla</strong> (13,3%) (azúcar, pasta de cacao, manteca de cacao, <strong>mantequilla</strong> anhidra <strong>(derivado lácteo)</strong>, emulgente: lecitina de <strong>soja,</strong> aroma y aroma natural y <strong>trazas de frutos de cáscara</strong>), azúcar, cobertura especial de chocolate (6,6%) (grasa vegetal de coco y palma, azúcar, pasta de cacao, manteca de cacao, emulgente: lecitina de <strong>soja</strong>, aroma natural y <strong>trazas de leche y frutos de cáscara</strong>), grasa vegetal de coco y palma, <strong>lactosa</strong> y proteínas de la <strong>leche</strong>, jarabe de glucosa y fructosa, <strong>almendra</strong> tostada troceada (1.8%), emulgente (monoglicéridos y diglicéridos de ácidos grasos), estabilizantes (goma garrofín, goma guar, carragenanos) y aroma de <strong>nata</strong>."
+  },
+  "origin": null,
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/0621402b576d4c39d76a802a9bc99ec3.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0621402b576d4c39d76a802a9bc99ec3.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0621402b576d4c39d76a802a9bc99ec3.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/9b3bdb984b1cc35bffaf582f714a29fc.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/9b3bdb984b1cc35bffaf582f714a29fc.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/9b3bdb984b1cc35bffaf582f714a29fc.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "7.43",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "7.433",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": 12,
+    "unit_name": "ud.",
+    "unit_price": "3.30",
+    "unit_selector": true,
+    "unit_size": 0.444
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/64246/helado-mini-cucurucho-nata-hacendado-caja",
+  "slug": "helado-mini-cucurucho-nata-hacendado-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/0621402b576d4c39d76a802a9bc99ec3.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

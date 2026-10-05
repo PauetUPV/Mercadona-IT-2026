@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 267,
+              "level": 2,
+              "name": "Verduras al vapor",
+              "order": 306
+            }
+          ],
+          "id": 29,
+          "level": 1,
+          "name": "Verdura",
+          "order": 306
+        }
+      ],
+      "id": 1,
+      "level": 0,
+      "name": "Fruta y verdura",
+      "order": 306
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Salteado de verduras para microondas cortado y lavado compuesto por calabacín, cebolla, pimiento, zanahoria y brócoli",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Hortalizas lavadas y cortadas, listas para cocinar.",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Para apreciar mejor sus cualidades se recomienda consumirlo todo una vez abierto el envase. Conservar entre 1ºC y 4ºC.",
+    "suppliers": [
+      {
+        "name": "Verdifresh, S.L.U."
+      }
+    ],
+    "usage_instructions": "Microondas + sartén:1. Introduce la bolsa sin abrir ni perforar en el microondas a máxima potencia durante 3 - 4 minutos.2. Durante la cocción el tamaño de la bolsa aumenta debido al vapor que se genera en su interior, por lo que puede producir algún sonido y abrirse .3. Abre la bolsa con cuidado ya que el producto estará caliente.4. Añade las verduras a una sartén con un poco de aceite y sazónalas al gusto. Saltéalas durante unos minutos. En sartén:Calienta en una sartén un poco de aceite. Añade las verduras, sazónalas al gusto y saltéalas durante unos minutos, removiendo de vez en cuando."
+  },
+  "display_name": "Salteado de verduras para microondas cortado y lavado",
+  "ean": "848000069463",
+  "extra_info": [
+    ""
+  ],
+  "id": "69463",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "cortado y lavado",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Calabacín, cebolla, pimiento, zanahoria y brócoli."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/aaa3cbcc328a8a84a32627169d2ede0c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/aaa3cbcc328a8a84a32627169d2ede0c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/aaa3cbcc328a8a84a32627169d2ede0c.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/68bb4fd7159f6719a4bf40ad42c1d69f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/68bb4fd7159f6719a4bf40ad42c1d69f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/68bb4fd7159f6719a4bf40ad42c1d69f.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.25",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.250",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.50",
+    "unit_selector": true,
+    "unit_size": 0.4
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/69463/mix-verduras-microondas-compuesto-calabacin-cebolla-pimiento-rojo-verde-zanahoria-brocoli-paquete",
+  "slug": "mix-verduras-microondas-compuesto-calabacin-cebolla-pimiento-rojo-verde-zanahoria-brocoli-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/aaa3cbcc328a8a84a32627169d2ede0c.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

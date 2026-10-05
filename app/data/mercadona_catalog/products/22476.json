@@ -1,0 +1,114 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 379,
+              "level": 2,
+              "name": "Mermelada",
+              "order": 11
+            }
+          ],
+          "id": 90,
+          "level": 1,
+          "name": "Mermelada y miel",
+          "order": 11
+        }
+      ],
+      "id": 9,
+      "level": 0,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Mermelada de ciruela y kiwi Hacendado",
+    "legal_name": "Mermelada de ciruela y kiwi",
+    "mandatory_mentions": "Preparado con 55g de fruta por 100g.Contenido total en azúcares 47g por 100g.",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Una vez abierto, convervar refrigerado.",
+    "suppliers": [
+      {
+        "name": "IBERFRUTA MUERZA SA"
+      },
+      {
+        "name": "MERCADONA S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Mermelada de ciruela y kiwi Hacendado",
+  "ean": "8480000224767",
+  "extra_info": [
+    null
+  ],
+  "id": "22476",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Ciruela 42%, azúcar, Kiwi 13%, gelificante: pectina y acidulante: ácido cítrico"
+  },
+  "origin": "España",
+  "packaging": "Tarro",
+  "photos": [
+    {
+      "perspective": 3,
+      "regular": "https://prod-mercadona.imgix.net/images/709726b054a6427b34435b6e1c9a132b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/709726b054a6427b34435b6e1c9a132b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/709726b054a6427b34435b6e1c9a132b.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/fa63dbfb9b431eaf94c5762549f5ee2c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/fa63dbfb9b431eaf94c5762549f5ee2c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/fa63dbfb9b431eaf94c5762549f5ee2c.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.70",
+    "unit_selector": true,
+    "unit_size": 0.34
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/22476/mermelada-ciruela-kiwi-hacendado-tarro",
+  "slug": "mermelada-ciruela-kiwi-hacendado-tarro",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/709726b054a6427b34435b6e1c9a132b.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

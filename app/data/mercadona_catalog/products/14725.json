@@ -1,0 +1,106 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 331,
+              "level": 2,
+              "name": "Bollería salada",
+              "order": 515
+            }
+          ],
+          "id": 65,
+          "level": 1,
+          "name": "Bollería de horno",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": "Ingredientes: Harina de trigo, margarina (grasa vegetal (palma), aceites vegetales (girasol, nabina), agua, emulgente (E471), acidulante (E330), aroma natural, colorante (E160A)), agua, tomate (puré de tomate, acidulante (E330)), quesocrema (queso, agua, almidón, sal), queso emmental (queso, almidón), huevo de gallinas criadas en jaulas acondicionadas, preparado lácteo (suero de laleche en polvo, almidón modificado, quesoen polvo (almidón, quesopecorino, sal, suero de la leche en polvo, acidulante (E270), aroma natural, antiapelmazante (E551), sales de fundido (E339), sal, aroma), suero de la leche en polvo, olivas negras (olivas, sal), dextrosa, sal, almidón modificado, almidón, estabilizantes (E401, E412), grasa vegetal (coco), orégano.\n\nAlérgenos: trigo, queso, huevo, leche.\n\nPuede contener trazas de: Altramuces, Soja, Mostaza, Frutos de cáscara y derivados, Moluscos, Pescado, Sésamo, Crustáceos, Apio, Cacahuetes, Sulfitos.\n\nProducto preparado por Mercadona, S.A. (C/ Alfonso Roig Alfonso, s/n. Albalat dels Sorells 46135, Valencia).",
+    "danger_mentions": "",
+    "description": "Hojaldre sabor pizza",
+    "is_prepared_by_mercadona": true,
+    "legal_name": "Bollería cruda ultracongelada con 37% de rellen o y 1,5% de cobertura",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Mantener a una temperatura de -18,0 oC. No volver a congelar una vez descongelado.",
+    "suppliers": [
+      {
+        "name": "EUROPASTRY, S.A."
+      }
+    ],
+    "usage_instructions": "Descongelar 40 minutos a temperatura ambiente. Cocer 20 minutos a 180oC."
+  },
+  "display_name": "Hojaldre sabor pizza",
+  "ean": "8402001039706",
+  "extra_info": [
+    null
+  ],
+  "id": "14725",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>pescado y productos a base de pescado</strong>. Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Puede contener <strong>sw</strong>. Puede contener <strong>sh</strong>. Puede contener <strong>sa</strong>. Puede contener <strong>go</strong>. Puede contener <strong>gb</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Contiene <strong>cereales que contengan gluten</strong>. Puede contener <strong>frutos de cáscara</strong>.",
+    "ingredients": "harina de <strong>TRIGO</strong>, margarina (grasa vegetal (palma), aceites vegetales (girasol, nabina), agua, emulgente (E471), acidulante (E330), aroma natural, colorante (E160a)), agua, tomate (puré de tomate, acidulante (E330)), <strong>QUESO</strong> crema (<strong>QUESO</strong>, agua, almidón, sal), <strong>QUESO</strong> emmental (<strong>QUESO</strong>, almidón), <strong>HUEVO</strong> de gallinas criadas en jaulas acondicionadas, preparado lácteo (suero de la <strong>LECHE</strong> en polvo), almidón modificado, <strong>QUESO</strong> en polvo (almidón, <strong>QUESO</strong> pecorino, sal, suero de la <strong>LECHE</strong> en polvo, acidulante (E270), aroma natural, antiapelmazante (E551), sales de fundido (E339), sal, aroma), suero de la <strong>LECHE</strong> en polvo, olivas negras (olivas, sal), dextrosa, sal, almidón modificado, almidón, estabilizantes (E401, E412), grasa vegetal (coco), orégano."
+  },
+  "origin": null,
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/88fa8735cf0dba2e9256bfba9a839635.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/88fa8735cf0dba2e9256bfba9a839635.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/88fa8735cf0dba2e9256bfba9a839635.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "13.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "13.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.30",
+    "unit_selector": true,
+    "unit_size": 0.1
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/14725/hojaldre-sabor-pizza-pieza",
+  "slug": "hojaldre-sabor-pizza-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/88fa8735cf0dba2e9256bfba9a839635.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

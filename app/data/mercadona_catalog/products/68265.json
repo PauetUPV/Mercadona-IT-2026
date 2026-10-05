@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 417,
+              "level": 2,
+              "name": "Flan",
+              "order": 598
+            }
+          ],
+          "id": 110,
+          "level": 1,
+          "name": "Flan y natillas",
+          "order": 598
+        }
+      ],
+      "id": 11,
+      "level": 0,
+      "name": "Postres y yogures",
+      "order": 598
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Flan de huevo sin azúcares añadidos Hacendado",
+    "legal_name": "Postre lácteo con edulcorantes. Flan de huevo sin azúcares añadidos.",
+    "mandatory_mentions": "Sin gluten. Dirigido a todo el público en general, excepto alérgicos a la leche, huevo y almendras. No apto para personas diabéticas. Con bajo contenido en grasa. Contiene azúcares naturalmente presentes . Un consumo excesivo puede producir efectos laxantes",
+    "origin": "Valencia, España.",
+    "production_variant": "",
+    "storage_instructions": "Conservar en frío entre 1C y 8C.",
+    "suppliers": [
+      {
+        "name": "Postres lácteos Romar S.L."
+      }
+    ],
+    "usage_instructions": "Una vez abierto el envase, el flan está listo para consumir, sin necesidad de ningún tipo de transformación."
+  },
+  "display_name": "Flan de huevo sin azúcares añadidos Hacendado",
+  "ean": "8480000682659",
+  "extra_info": [
+    null
+  ],
+  "id": "68265",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>frutos de cáscara</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Contiene <strong>ml</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Leche</strong> desnatada, <strong>huevo</strong> (15%), clara de <strong>huevo</strong>, caramelo líquido (jarabe de maltitol y colorante (caramelo)), almidón modificado de maiz, estabilizante (metilcelulosa), aroma, colorante (E-160b(ii)) y edulcorantes (acesulfame k y sucralosa). Puede contener trazas de <strong>frutos de cáscara</strong> y <strong>soja.</strong>"
+  },
+  "origin": "Valencia, España.",
+  "packaging": "Pack-4",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/6b865525d7e816b80af329833b30b375.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/6b865525d7e816b80af329833b30b375.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/6b865525d7e816b80af329833b30b375.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/11709ad06ca45cb1bfedebe29e1ea446.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/11709ad06ca45cb1bfedebe29e1ea446.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/11709ad06ca45cb1bfedebe29e1ea446.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "4.75",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.1,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "4.750",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 4,
+    "unit_name": "ud.",
+    "unit_price": "1.90",
+    "unit_selector": true,
+    "unit_size": 0.4
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/68265/flan-huevo-sin-azucares-anadidos-hacendado-pack-4",
+  "slug": "flan-huevo-sin-azucares-anadidos-hacendado-pack-4",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/6b865525d7e816b80af329833b30b375.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

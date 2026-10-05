@@ -1,0 +1,179 @@
+{
+  "categories": [
+    {
+      "id": 524,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Hielo",
+      "order": 213,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Cubos de hielo Hacendado",
+          "id": "64133",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": null,
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "0.58",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": 2.0,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "0.575",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 5,
+            "unit_name": "paquetes",
+            "unit_price": "5.75",
+            "unit_selector": true,
+            "unit_size": 10.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/64133/cubos-hielo-pack-5",
+          "slug": "cubos-hielo-pack-5",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/36fe3092e2c78e85daf8c90cd33e0dd1.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Cubos de hielo Hacendado",
+          "id": "64126",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "0.58",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "0.575",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.15",
+            "unit_selector": true,
+            "unit_size": 2.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/64126/cubos-hielo-paquete",
+          "slug": "cubos-hielo-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/841aea7aca20a05d91b3b7b1d6674f04.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 17,
+              "level": 0,
+              "name": "Congelados",
+              "order": 213
+            }
+          ],
+          "display_name": "Hielo cocktail",
+          "id": "64139",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "0.75",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "0.750",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.50",
+            "unit_selector": true,
+            "unit_size": 2.0
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/64139/hielo-cocktail-paquete",
+          "slug": "hielo-cocktail-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/58a58d2dac231f62b518bdb84368e9fd.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    }
+  ],
+  "id": 155,
+  "is_extended": false,
+  "layout": 1,
+  "name": "Hielo",
+  "next_category": {
+    "id": 150,
+    "name": "Marisco"
+  },
+  "order": 213,
+  "published": true
+}

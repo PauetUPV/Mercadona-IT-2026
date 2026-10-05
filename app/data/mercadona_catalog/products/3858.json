@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 250,
+              "level": 2,
+              "name": "Fruta tropical",
+              "order": 306
+            }
+          ],
+          "id": 27,
+          "level": 1,
+          "name": "Fruta",
+          "order": 306
+        }
+      ],
+      "id": 1,
+      "level": 0,
+      "name": "Fruta y verdura",
+      "order": 306
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Aguacates",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "AGUACATE",
+    "mandatory_mentions": "Países de origen: Perú, Chile, Marruecos, Portugal.",
+    "origin": "-",
+    "production_variant": "",
+    "storage_instructions": "Conservar refrigerado",
+    "suppliers": [
+      {
+        "name": "José Luis Montosa SL."
+      },
+      {
+        "name": "PROVELPACK"
+      }
+    ],
+    "usage_instructions": "Temperatura de servicio 5º C"
+  },
+  "display_name": "Aguacates",
+  "ean": "2105400038580",
+  "extra_info": [
+    ""
+  ],
+  "id": "3858",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>AGUACTE"
+  },
+  "origin": "-",
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 10,
+      "regular": "https://prod-mercadona.imgix.net/images/3626a39afce23381b73d55fb7a4a3c7d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3626a39afce23381b73d55fb7a4a3c7d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3626a39afce23381b73d55fb7a4a3c7d.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/633b6f529acb60534c6d56cd839ce81b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/633b6f529acb60534c6d56cd839ce81b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/633b6f529acb60534c6d56cd839ce81b.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "5.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.6,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.65",
+    "unit_selector": true,
+    "unit_size": 0.73
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/3858/aguacates-bandeja",
+  "slug": "aguacates-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/3626a39afce23381b73d55fb7a4a3c7d.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

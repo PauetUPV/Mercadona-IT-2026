@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Campofrío",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 292,
+              "level": 2,
+              "name": "Pavo y otros",
+              "order": 159
+            }
+          ],
+          "id": 48,
+          "level": 1,
+          "name": "Aves y jamón cocido",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Campofrío",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pechuga de pavo al horno de leña Campofrío lonchas Pavofrío",
+    "legal_name": "PECHUGA DE PAVO COCIDA CON AHUMADO NATURAL.",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Mantener entre 0º y 5º C.",
+    "suppliers": [
+      {
+        "name": "Campofrio Food Group S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Pechuga de pavo al horno de leña Campofrío lonchas",
+  "ean": "8410320249478",
+  "extra_info": [
+    ""
+  ],
+  "id": "53140",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Libre de <strong>moluscos y productos a base de moluscos</strong>. Libre de <strong>huevos y productos a base de huevo</strong>. Libre de <strong>altramuces y productos a base de altramuces</strong>. Libre de <strong>crustáceos y productos a base de crustáceos</strong>. Libre de <strong>dióxido de azufre y sulfitos</strong>. Libre de <strong>cereales que contengan gluten</strong>. Libre de <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Libre de <strong>mostaza y productos derivados</strong>. Libre de <strong>apio y productos derivados</strong>. Libre de <strong>frutos de cáscara</strong>. Libre de <strong>leche y sus derivados (incluida la lactosa)</strong>. Libre de <strong>soja y productos a base de soja</strong>. Libre de <strong>cacahuetes y productos a base de cacahuetes</strong>. Libre de <strong>pescado y productos a base de pescado</strong>.",
+    "ingredients": "Pechuga de pavo (66%), agua, aromas, estabilizantes (E-420, E-450, E-407, E-508, E-412), dextrosa, sal, azúcar, antioxidante (E-316), conservador (E-250), especias."
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/4d0aeb86816023033231a708eeb0f7cb.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4d0aeb86816023033231a708eeb0f7cb.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4d0aeb86816023033231a708eeb0f7cb.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/6e572e519e8c2a5725f8756704d6cd7e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/6e572e519e8c2a5725f8756704d6cd7e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/6e572e519e8c2a5725f8756704d6cd7e.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "14.80",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "14.800",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.85",
+    "unit_selector": true,
+    "unit_size": 0.125
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/53140/pechuga-pavo-horno-lena-campofrio-lonchas-pavofrio-paquete",
+  "slug": "pechuga-pavo-horno-lena-campofrio-lonchas-pavofrio-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/4d0aeb86816023033231a708eeb0f7cb.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

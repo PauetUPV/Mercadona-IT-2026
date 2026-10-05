@@ -1,0 +1,122 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 844,
+              "level": 2,
+              "name": "Salsas orientales",
+              "order": 7
+            }
+          ],
+          "id": 117,
+          "level": 1,
+          "name": "Otras salsas",
+          "order": 7
+        }
+      ],
+      "id": 12,
+      "level": 0,
+      "name": "Aceite, especias y salsas",
+      "order": 7
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Salsa Teriyaki Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Salsa Teriyaki",
+    "mandatory_mentions": "",
+    "origin": "Polonia",
+    "production_variant": "-",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "Develey Polska Sp. z o.o."
+      },
+      {
+        "name": "Develey Senf & Feinkost GmbH"
+      },
+      {
+        "name": "Develey Senf und Feinkost GmbH"
+      },
+      {
+        "name": "Mautner Markhof Feinkost GmbH"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Salsa Teriyaki Hacendado",
+  "ean": "4006824999137",
+  "extra_info": [
+    ""
+  ],
+  "id": "17362",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>dióxido de azufre y sulfitos</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>trigo y productos derivados</strong>.",
+    "ingredients": "Ingredientes: SALSA DE SOJA (agua, HABAS DE SOJA, TRIGO (contiene GLUTEN), sal), azúcar, agua, vino tinto (contiene SULFITOS), vinagre de alcohol, almidón modificado de maíz, jarabe de azúcar de caña, especias, extracto de levadura, extracto de especias."
+  },
+  "origin": "Polonia",
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/b361883f2b0e1831df892c20d8d3177f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b361883f2b0e1831df892c20d8d3177f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b361883f2b0e1831df892c20d8d3177f.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/59beb7638d1f043c97f3f91eaec2d56b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/59beb7638d1f043c97f3f91eaec2d56b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/59beb7638d1f043c97f3f91eaec2d56b.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.80",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "6.800",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.70",
+    "unit_selector": true,
+    "unit_size": 0.25
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/17362/salsa-teriyaki-hacendado-botella",
+  "slug": "salsa-teriyaki-hacendado-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/b361883f2b0e1831df892c20d8d3177f.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

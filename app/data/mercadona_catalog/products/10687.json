@@ -1,0 +1,121 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 344,
+              "level": 2,
+              "name": "Leche desnatada",
+              "order": 373
+            }
+          ],
+          "id": 72,
+          "level": 1,
+          "name": "Leche y bebidas vegetales",
+          "order": 373
+        }
+      ],
+      "id": 6,
+      "level": 0,
+      "name": "Huevos, leche y mantequilla",
+      "order": 373
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Leche desnatada calcio Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Leche desnatada de vaca UHT enriquecida con proteínas, calcio y vitaminas A, D, E y Ácido Fólico",
+    "mandatory_mentions": "100% granjas nacionales",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Mantener en lugar fresco y seco. Una vez abierto el envase, conservar en el frigorífico y consumir antes de 3 días.",
+    "suppliers": [
+      {
+        "name": "COVAP S. COOP. AND. GANADERA DEL VALLE DE LOS PEDROCHES"
+      },
+      {
+        "name": "Iparlat, S.A."
+      },
+      {
+        "name": "LACTIBER LEON"
+      },
+      {
+        "name": "LÀCTIA AGROALIMENTARIA SL"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Leche desnatada calcio Hacendado",
+  "ean": "8480000105721",
+  "extra_info": [
+    null
+  ],
+  "id": "10687",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>Leche</strong> desnatada, proteínas de la <strong>leche</strong>, sólidos <strong>lácteos</strong> ricos en calcio, estabilizante (E-451), vitaminas A, D, E y B9 (ácido folico). Origen de la leche: España"
+  },
+  "origin": "España",
+  "packaging": "Brik",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/58ab882e76287b825da4021877815246.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/58ab882e76287b825da4021877815246.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/58ab882e76287b825da4021877815246.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/aaf7eac763f1c9d1e0fbf8b56890c9a0.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/aaf7eac763f1c9d1e0fbf8b56890c9a0.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/aaf7eac763f1c9d1e0fbf8b56890c9a0.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.02",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "1.020",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.02",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/10687/leche-desnatada-calcio-hacendado-brick",
+  "slug": "leche-desnatada-calcio-hacendado-brick",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/58ab882e76287b825da4021877815246.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

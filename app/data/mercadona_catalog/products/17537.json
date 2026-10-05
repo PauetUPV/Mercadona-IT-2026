@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 280,
+              "level": 2,
+              "name": "Cerdo",
+              "order": 17
+            }
+          ],
+          "id": 37,
+          "level": 1,
+          "name": "Cerdo",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Panceta de cerdo adobada",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "PANCETA ADOBABADA",
+    "mandatory_mentions": "Sin gluten. Sin lactosa. Envasado en atmósfera protectora.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en refrigeración entre 0 y 4C. Una vez abierto consumir antes de 48 horas",
+    "suppliers": [
+      {
+        "name": "Frescos y Elaborados Delisano SAU"
+      }
+    ],
+    "usage_instructions": "Cocinar completamente antes de su consumo. Para: plancha, freír, barbacoa."
+  },
+  "display_name": "Panceta de cerdo adobada",
+  "ean": "8436021419828",
+  "extra_info": [
+    ""
+  ],
+  "id": "17537",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Panceta de cerdo (91%), agua, almidón modificado, sal, cebolla en polvo, especias, hierbas aromáticas, azúcar, ajo en polvo, extracto de especias, extracto de levadura, antioxidantes (E-301 y E-331), aromas naturales, aromas, fibra vegetal (guisante) y conservador (E-250)."
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/30ef1bfd427773b00855b2a13e4a4672.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/30ef1bfd427773b00855b2a13e4a4672.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/30ef1bfd427773b00855b2a13e4a4672.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/37554acc39352ea1f5e216d6694be1e6.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/37554acc39352ea1f5e216d6694be1e6.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/37554acc39352ea1f5e216d6694be1e6.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "6.90",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.900",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.86",
+    "unit_selector": true,
+    "unit_size": 0.56
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/17537/panceta-cerdo-adobada-bandeja",
+  "slug": "panceta-cerdo-adobada-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/30ef1bfd427773b00855b2a13e4a4672.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": "2026-08-29T22:00:00+00:00",
+  "unavailable_weekdays": []
+}

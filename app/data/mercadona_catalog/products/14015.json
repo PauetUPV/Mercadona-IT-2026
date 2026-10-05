@@ -1,0 +1,114 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 358,
+              "level": 2,
+              "name": "Tortitas",
+              "order": 18
+            }
+          ],
+          "id": 79,
+          "level": 1,
+          "name": "Tortitas",
+          "order": 18
+        }
+      ],
+      "id": 7,
+      "level": 0,
+      "name": "Cereales y galletas",
+      "order": 18
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Tortitas de maíz con chocolate Hacendado",
+    "legal_name": "Tortitas de maiz con chocolate. Producto de maíz extrusionado con chocolate negro.",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco. Abrir el envase un minuto antes de consumir.",
+    "suppliers": [
+      {
+        "name": "CEREALTO SIRO FOODS S.L."
+      },
+      {
+        "name": "GRUPO SIRO"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Tortitas de maíz con chocolate Hacendado",
+  "ean": "8480000140159",
+  "extra_info": [
+    null
+  ],
+  "id": "14015",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Chocolate negro (54%) [azúcar, pasta de cacao, manteca de cacao, <strong>lactosa</strong> (<strong>leche</strong>), grasa <strong>láctea</strong> anhidra (<strong>leche</strong>), emulgente (lecitina de <strong>soja</strong>), aroma], maíz (45%), sal, aceite girasol alto oleico. <strong>Puede contener trazas de frutos de cáscara</strong>. ***** / / / / / A PARTIR DEL LOTE 026012082000 Y FCP 09/2026 HAY UN CAMBIO DE ETIQUETADO / / / / / ***** Chocolate negro (54%) [azúcar, pasta de cacao, manteca de cacao, <strong>lactosa</strong> (<strong>leche</strong>), grasa <strong>láctea</strong> anhidra (<strong>leche</strong>), emulgente (lecitina de <strong>soja</strong>), aroma], maiz (45%), sal, aceite refinado de girasol alto oleico. <strong>Puede contener trazas de frutos de cáscara</strong>."
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/41e7c23025f97cdb4da0c7fad37fa79b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/41e7c23025f97cdb4da0c7fad37fa79b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/41e7c23025f97cdb4da0c7fad37fa79b.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/ebf36f5f61f65bc9e6e14c7c26769f5d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ebf36f5f61f65bc9e6e14c7c26769f5d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ebf36f5f61f65bc9e6e14c7c26769f5d.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "14.62",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "14.616",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 4,
+    "unit_name": "packs",
+    "unit_price": "1.90",
+    "unit_selector": true,
+    "unit_size": 0.13
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/14015/tortitas-maiz-con-chocolate-hacendado-paquete",
+  "slug": "tortitas-maiz-con-chocolate-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/41e7c23025f97cdb4da0c7fad37fa79b.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,119 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 278,
+              "level": 2,
+              "name": "Salazones",
+              "order": 442
+            }
+          ],
+          "id": 36,
+          "level": 1,
+          "name": "Salazones y ahumados",
+          "order": 442
+        }
+      ],
+      "id": 2,
+      "level": 0,
+      "name": "Marisco y pescado",
+      "order": 442
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Filetes de anchoa en aceite de oliva Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Filetes de anchoa en aceite de oliva",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Semiconserva. Mantener entre 3 C y 10 C. Una vez abierto cubrir con aceite y consumir antes de 5 días.",
+    "suppliers": [
+      {
+        "name": "Distribuido por: FRANCISCO GIL COMES, S.L.U."
+      },
+      {
+        "name": "Francisco Gil Comes"
+      },
+      {
+        "name": "Francisco Gil Comes, S.L.U."
+      }
+    ],
+    "usage_instructions": "Sacar del frigorífico 30 minutos antes de servir."
+  },
+  "display_name": "Filetes de anchoa en aceite de oliva Hacendado",
+  "ean": "8480000184023",
+  "extra_info": [
+    null
+  ],
+  "id": "18402",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>pescado y productos a base de pescado</strong>. Puede contener <strong>moluscos y productos a base de moluscos</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>.",
+    "ingredients": "Filete de anchoa (<strong>PESCADO</strong>) (Engraulis encrasicolus), aceite de oliva y sal. Puede contener trazas de <strong>CRUSTÁCEOS</strong> y/o <strong>MOLUSCOS</strong>."
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/c68c86888d778e0ece5c589622dbd2dc.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c68c86888d778e0ece5c589622dbd2dc.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c68c86888d778e0ece5c589622dbd2dc.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/eccbcdaa1473cb0380a33a47dd2e7b57.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/eccbcdaa1473cb0380a33a47dd2e7b57.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/eccbcdaa1473cb0380a33a47dd2e7b57.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "48.21",
+    "bunch_selector": false,
+    "drained_weight": 0.11,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "61.364",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "6.75",
+    "unit_selector": true,
+    "unit_size": 0.14
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/18402/filetes-anchoa-aceite-oliva-hacendado-bandeja",
+  "slug": "filetes-anchoa-aceite-oliva-hacendado-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/c68c86888d778e0ece5c589622dbd2dc.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

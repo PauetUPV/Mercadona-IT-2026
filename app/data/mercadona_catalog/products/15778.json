@@ -1,0 +1,117 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 475,
+              "level": 2,
+              "name": "Snacks",
+              "order": 9
+            }
+          ],
+          "id": 132,
+          "level": 1,
+          "name": "Patatas fritas y snacks",
+          "order": 9
+        }
+      ],
+      "id": 15,
+      "level": 0,
+      "name": "Aperitivos",
+      "order": 9
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Conos sabor bacón y queso Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Aperitivo",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Consérvese en lugar fresco, seco y alejado de la luz. Envasado en atmósfera protectora. Una vez abierto el envase, conservarlo cerrado y consumir el producto preferentemente en el plazo de una semana.",
+    "suppliers": [
+      {
+        "name": "Aperitivos y Extrusionados S.A"
+      },
+      {
+        "name": "CUMBA S.L."
+      },
+      {
+        "name": "Cumba"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Conos sabor bacón y queso Hacendado",
+  "ean": "8402001046346",
+  "extra_info": [
+    ""
+  ],
+  "id": "15778",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "Harina de maíz, aceite de girasol, almidón de patata, azúcar, harina de arroz, aroma bacon-queso <strong>(lactosa y derivados lácteos (leche),</strong> aromas, potenciadores de sabor (E-621, E-635), aromas de humo, cloruro potásico), sal, gasificante (bicarbonato potásico), pimentón en polvo. <strong>Contiene trazas de soja.</strong>"
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/7c5ca4989f36d2c4d83391ccb2de646b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7c5ca4989f36d2c4d83391ccb2de646b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7c5ca4989f36d2c4d83391ccb2de646b.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/05b1988f4714a1d147c497ee63bc8602.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/05b1988f4714a1d147c497ee63bc8602.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/05b1988f4714a1d147c497ee63bc8602.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "8.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "8.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.80",
+    "unit_selector": true,
+    "unit_size": 0.1
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/15778/conos-sabor-bacon-queso-hacendado-paquete",
+  "slug": "conos-sabor-bacon-queso-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/7c5ca4989f36d2c4d83391ccb2de646b.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

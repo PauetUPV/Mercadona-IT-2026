@@ -1,0 +1,134 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 320,
+              "level": 2,
+              "name": "Otros panes",
+              "order": 515
+            }
+          ],
+          "id": 60,
+          "level": 1,
+          "name": "Pan de molde y otras especialidades",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pan de molde con 55% centeno Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Pan de molde",
+    "mandatory_mentions": "Sin lactosa",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Bimbo Donuts Canarias, S.L.U."
+      },
+      {
+        "name": "CEREALTO ANTEQUERA, S.L."
+      },
+      {
+        "name": "CEREALTO. CEREALTO ANTEQUERA, SL"
+      },
+      {
+        "name": "Cerealto Antequera, S.L."
+      },
+      {
+        "name": "MORATO IBERIA S.L.U."
+      },
+      {
+        "name": "Morato Iberia, S.L.U"
+      },
+      {
+        "name": "Morato Iberia, SLU"
+      },
+      {
+        "name": "SIRO PATERNA, SA. La familia"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Pan de molde con 55% centeno Hacendado",
+  "ean": "8402001037870",
+  "extra_info": [
+    null
+  ],
+  "id": "82302",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>centeno y productos derivados</strong>. Contiene <strong>gb</strong>. Contiene <strong>cereales que contengan gluten</strong>.",
+    "ingredients": "Harinas de (Ce<strong>nteno (</strong>gl<strong>uten) </strong>(26,4%), <strong>trigo</strong> (<strong>gluten</strong>) (<strong>22,7%)</strong>, cebada ma<strong>lteada</strong> (gluten) (1,6%)), agua, semillas de gira<strong>sol (8</strong>%), <strong>salva</strong>do de trigo (gluten), levadura, gluten de trigo, sa<strong>l, ac</strong>ei<strong>te ref</strong>inado de girasol (0,9%), harina de habas, emulgentes (E-471, E-472e), conservadores (E-200, E-202, E-282), corrector de la<strong> acidez (E-330), antioxidante (E-300). Trazas de semillas d</strong>e sésamo y soja. ***** / / / / / A PARTIR DE LOS LOTES L140027110001 Y L140027110002 Y FCP 12-02 HAY UN CAMBIO DE ETIQUETADO / / / / / ***** Harina (48%) (centeno (gluten) (52%), trigo (gluten), cebada malteada (gluten)), agua, semillas de girasol, levadura, salvado de trigo (gluten), gluten de trigo, sal, aceite de girasol (0,8%), germen de trigo (gluten), harina de haba, emulgentes (E-471, E-472e), conservadores (E-202, E-282, E-200), corrector de la acidez (E-330). Puede contener trazas de semillas de sésamo y soja."
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/f9b68761bf2dfe1c91dabcb96b64afe5.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f9b68761bf2dfe1c91dabcb96b64afe5.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f9b68761bf2dfe1c91dabcb96b64afe5.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/6a4256d5308735916666dce39ef21266.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/6a4256d5308735916666dce39ef21266.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/6a4256d5308735916666dce39ef21266.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.88",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "1.875",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 16,
+    "unit_name": "rebanadas",
+    "unit_price": "1.35",
+    "unit_selector": true,
+    "unit_size": 0.72
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/82302/pan-molde-con-55-centeno-hacendado-paquete",
+  "slug": "pan-molde-con-55-centeno-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/f9b68761bf2dfe1c91dabcb96b64afe5.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

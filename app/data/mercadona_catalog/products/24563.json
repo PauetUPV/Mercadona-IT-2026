@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 356,
+              "level": 2,
+              "name": "Cereales integrales y muesli",
+              "order": 18
+            }
+          ],
+          "id": 78,
+          "level": 1,
+          "name": "Cereales",
+          "order": 18
+        }
+      ],
+      "id": 7,
+      "level": 0,
+      "name": "Cereales y galletas",
+      "order": 18
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Muesli Crunchy Hacendado con legumbres",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Copos de cereales y legumbres",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco, seco y protegido de la luz.",
+    "suppliers": [
+      {
+        "name": "CEREALTO FOODS CORPORATE S.L.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Muesli Crunchy Hacendado con legumbres",
+  "ean": "8402001057342",
+  "extra_info": [
+    ""
+  ],
+  "id": "24563",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "con legumbres",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>go</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Lote de lanzamiento: 106224053001****/// Copos de <strong>avena</strong> integral (<strong>gluten</strong>) (36%), fibras vegetales (achicoria, maíz), legumbres deshidratadas en proporción variable (13%) (garbanzos, guisantes), proteína de guisantes, aceite refinado de girasol alto oleico, <strong>gluten</strong> de <strong>trigo</strong>, maíz (6%), almidón de tapioca, azúcar, jarabe de melaza de caña, sal, aromas, antioxidante (extracto rico en tocoferoles). <strong>Puede contener trazas de soja, leche, frutos de cáscara y sulfitos.</strong>"
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/c7100254bee972b4ba4a5733326cac5b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c7100254bee972b4ba4a5733326cac5b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c7100254bee972b4ba4a5733326cac5b.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/211356517b5a4ef18386033ea11ba2e8.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/211356517b5a4ef18386033ea11ba2e8.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/211356517b5a4ef18386033ea11ba2e8.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.63",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.625",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.65",
+    "unit_selector": true,
+    "unit_size": 0.4
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/24563/muesli-crunchy-hacendado-con-legumbres-paquete",
+  "slug": "muesli-crunchy-hacendado-con-legumbres-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/c7100254bee972b4ba4a5733326cac5b.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

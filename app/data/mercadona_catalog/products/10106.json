@@ -1,0 +1,114 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Don Simón",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 404,
+              "level": 2,
+              "name": "Fruta + leche",
+              "order": 793
+            }
+          ],
+          "id": 99,
+          "level": 1,
+          "name": "Fruta variada",
+          "order": 793
+        }
+      ],
+      "id": 10,
+      "level": 0,
+      "name": "Zumos",
+      "order": 793
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Don Simón",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Fruta + leche caribe Don Simón sin azúcares añadidos y zero materia grasa",
+    "legal_name": "Bebida refrescante mixta de zumo de frutas y leche con edulcorante.",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "Variante",
+    "storage_instructions": "Una vez abierto, conservar refrigerado y consumir antes de transcurridos 5 días. Agitar antes de servir",
+    "suppliers": [
+      {
+        "name": "J.G.C.,S.A."
+      },
+      {
+        "name": "JGC S.A"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Fruta + leche caribe Don Simón sin azúcares añadidos y zero materia grasa",
+  "ean": "8410261640228",
+  "extra_info": [
+    ""
+  ],
+  "id": "10106",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<p>Agua, zumo de frutas en proporción variable 20% (naranja, uva, manzana, piña y limó parcialmente a partir de concentrado, leche desnatada (10%),  estabilizador:E-466,  cido cítrico, aromas, vitamina A, C y E y edulcorante: sucralosa."
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/c7c2026bd60cbd318c47a8ee8b6ae2de.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c7c2026bd60cbd318c47a8ee8b6ae2de.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c7c2026bd60cbd318c47a8ee8b6ae2de.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/a950cf3308bde7ecafedb8d107927eaf.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/a950cf3308bde7ecafedb8d107927eaf.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/a950cf3308bde7ecafedb8d107927eaf.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "1.25",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": 21,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.2,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "1.250",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": 6,
+    "unit_name": "mini briks",
+    "unit_price": "1.50",
+    "unit_selector": true,
+    "unit_size": 1.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/10106/fruta-leche-caribe-don-simon-sin-azucares-anadidos-zero-materia-grasa-pack-6",
+  "slug": "fruta-leche-caribe-don-simon-sin-azucares-anadidos-zero-materia-grasa-pack-6",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/c7c2026bd60cbd318c47a8ee8b6ae2de.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

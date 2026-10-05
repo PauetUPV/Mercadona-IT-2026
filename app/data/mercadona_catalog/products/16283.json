@@ -1,0 +1,109 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 386,
+              "level": 2,
+              "name": "Chocolatinas",
+              "order": 11
+            }
+          ],
+          "id": 92,
+          "level": 1,
+          "name": "Chocolate",
+          "order": 11
+        }
+      ],
+      "id": 9,
+      "level": 0,
+      "name": "Azúcar, caramelos y chocolate",
+      "order": 11
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Barritas de barquillo Total Choc Hacendado bañadas de chocolate con leche y rellenas de cacao y pepitas de chocolate",
+    "legal_name": "Crujiente barrita de barquillo con cacao cubierto con cobertura de chocolate con le-che con relleno (40%) con cacao y pepitas de chocolate (14%).",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Evitar ambientes húmedos y/o olores fuertes. Evitar de focos de calor y/o exposición directa al sol.",
+    "suppliers": [
+      {
+        "name": "CHOCOLATES VALOR"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Barritas de barquillo Total Choc Hacendado bañadas de chocolate con leche",
+  "ean": "8402001045875",
+  "extra_info": [
+    ""
+  ],
+  "id": "16283",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>sh</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>frutos de cáscara</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Chocolate con <strong>leche</strong> (36%) [Azúcar, manteca de cacao, <strong>leche</strong> desnatada en polvo, pasta de cacao, grasas vegetales (palma, shea), lactosuero en polvo (<strong>leche</strong>), grasa de <strong>leche</strong>, pasta de avellanas, emulgentes: lecitina (<strong>soja</strong>) y E-476, aroma], azúcar, pepitas de chocolate (13%) [azúcar, pasta de cacao, manteca de cacao, emulgente: lecitina (<strong>soja</strong>)], grasa vegetal de palma, harina de <strong>trigo</strong> (<strong>gluten</strong>), lactosuero en polvo (<strong>leche</strong>), cacao desgrasado en polvo (3,6%), pasta de <strong>avellanas</strong>, harina de arroz, correctores de acidez: carbonato de sodio y carbonato de potasio, emulgentes: lecitina (<strong>soja</strong>) y E-476, gasificante: bicarbonato de sodio, sal y aromas. Puede contener: otros <strong>frutos de cáscara y mostaza</strong>. El chocolate con <strong>leche</strong> contiene grasas vegetales además de manteca de cacao."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/552fb62b9ad798580ff26e830523ee5f.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/552fb62b9ad798580ff26e830523ee5f.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/552fb62b9ad798580ff26e830523ee5f.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/c4561a86c726cd7fc63eba635a6b2bbb.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c4561a86c726cd7fc63eba635a6b2bbb.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c4561a86c726cd7fc63eba635a6b2bbb.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "12.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "12.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 5,
+    "unit_name": "ud.",
+    "unit_price": "2.00",
+    "unit_selector": true,
+    "unit_size": 0.16
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/16283/barritas-barquillo-total-choc-hacendado-banadas-chocolate-con-leche-rellenas-cacao-pepitas-chocolate-paquete",
+  "slug": "barritas-barquillo-total-choc-hacendado-banadas-chocolate-con-leche-rellenas-cacao-pepitas-chocolate-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/552fb62b9ad798580ff26e830523ee5f.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

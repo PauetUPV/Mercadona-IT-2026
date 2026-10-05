@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": true
+  },
+  "brand": "Malibu",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 588,
+              "level": 2,
+              "name": "Ron",
+              "order": 15
+            }
+          ],
+          "id": 181,
+          "level": 1,
+          "name": "Licores",
+          "order": 15
+        }
+      ],
+      "id": 19,
+      "level": 0,
+      "name": "Bodega",
+      "order": 15
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": "18.0º",
+    "brand": "Malibu",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Ron caribeño sabor coco Malibu",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Licor Ron",
+    "mandatory_mentions": "No contiene ninguna de las sustancias o productos que causan alergias o intolerancias recogidos en el anexo II del Reglamento 1169/2011. Nuestros productos están etiquetados de acuerdo a las reglas legales y de mercado sobre etiquetado de bebidas espirituosas",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en posición vertical. Conservar lejos de la luz directa del sol.",
+    "suppliers": [
+      {
+        "name": "Pernod Ricard España"
+      },
+      {
+        "name": "Pernod Ricard España Ctra"
+      }
+    ],
+    "usage_instructions": "Puede disfrutarse solo con hielo o combinado con Limon&Nada, tónica, zumo de piña y ginger ale."
+  },
+  "display_name": "Ron caribeño sabor coco Malibu",
+  "ean": "8410024700015",
+  "extra_info": [
+    ""
+  ],
+  "id": "28373",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Ron (destilado de caña de azúcar); Agua; Azúcar; Condimento"
+  },
+  "origin": "España",
+  "packaging": "Botella",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/c2af42681d8d78cdc27124105db8b115.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c2af42681d8d78cdc27124105db8b115.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c2af42681d8d78cdc27124105db8b115.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/775d882c5b86c4aba17d8a3270bf1fa7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/775d882c5b86c4aba17d8a3270bf1fa7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/775d882c5b86c4aba17d8a3270bf1fa7.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "19.07",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "19.072",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "13.35",
+    "unit_selector": true,
+    "unit_size": 0.7
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/28373/ron-caribeno-sabor-coco-malibu-botella",
+  "slug": "ron-caribeno-sabor-coco-malibu-botella",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/c2af42681d8d78cdc27124105db8b115.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

@@ -1,0 +1,138 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 513,
+              "level": 2,
+              "name": "Pescado",
+              "order": 213
+            }
+          ],
+          "id": 149,
+          "level": 1,
+          "name": "Pescado",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    },
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 276,
+              "level": 2,
+              "name": "Sepia, pulpo y calamar congelado",
+              "order": 442
+            }
+          ],
+          "id": 34,
+          "level": 1,
+          "name": "Pescado congelado",
+          "order": 442
+        }
+      ],
+      "id": 2,
+      "level": 0,
+      "name": "Marisco y pescado",
+      "order": 442
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Anillas de pota Argentina Hacendado congeladas",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Anillas de pota argentina",
+    "mandatory_mentions": "Producto congelado con agua añadida. Peso neto (sin glaseado)",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar a -18C en el congelador hasta la fecha de consumo preferente. En el frigorífico 1 día. Una vez descongelado no volver a congelar y consumir en 24 h.",
+    "suppliers": [
+      {
+        "name": "Grupo Profand, S.L."
+      },
+      {
+        "name": "Grupo Profand, S.L.U."
+      }
+    ],
+    "usage_instructions": "Descongelar en el frigorífico durante 10 a 12 h. Cocinar antes de consumir."
+  },
+  "display_name": "Anillas de pota Argentina Hacendado congeladas",
+  "ean": "8436048071894",
+  "extra_info": [
+    ""
+  ],
+  "id": "24249",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "congeladas",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>moluscos y productos a base de moluscos</strong>. Puede contener <strong>pescado y productos a base de pescado</strong>. Puede contener <strong>crustáceos y productos a base de crustáceos</strong>.",
+    "ingredients": "Pota argentina (Illex argentinus) (<strong>moluscos</strong>), agua, sal, correctores de acidez: E-330, E-331 y E-501. Puede contener <strong>pescado</strong> y/o <strong>crustáceos</strong>"
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/74bb5e68f4415013d30547d41fcdc7c7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/74bb5e68f4415013d30547d41fcdc7c7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/74bb5e68f4415013d30547d41fcdc7c7.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/428a824743306b3c9931a28be1f837d3.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/428a824743306b3c9931a28be1f837d3.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/428a824743306b3c9931a28be1f837d3.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "15.97",
+    "bunch_selector": false,
+    "drained_weight": 0.36,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "15.973",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "5.75",
+    "unit_selector": true,
+    "unit_size": null
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/24249/anillas-pota-hacendado-congeladas-paquete",
+  "slug": "anillas-pota-hacendado-congeladas-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/74bb5e68f4415013d30547d41fcdc7c7.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

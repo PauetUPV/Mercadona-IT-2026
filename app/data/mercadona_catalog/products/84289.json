@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": null,
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 331,
+              "level": 2,
+              "name": "Bollería salada",
+              "order": 515
+            }
+          ],
+          "id": 65,
+          "level": 1,
+          "name": "Bollería de horno",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": null,
+    "counter_info": "Ingredientes: Harina de trigo (gluten), cebolla frita (cebolla, aceite de oliva virgen, sal, corrector de acidez (E330), espesantes (E415, E410, E412), dextrosa), carne de pollo (14%), quesoblanco pasteurizado extragraso (suero de mantequilla  (leche), leche, nata pasteurizada de vaca  (leche), lactosa  (leche), sal, estabilizante (E412), conservador (E200), fermentos lacteos) , aceite vegetal (girasol), leche uht entera, vino, seta cultivada (3%) (pleurotus ostreatus (seta de ostra)), agua, almidón de maíz, huevo liquido pasteurizado, sal (sal refinado, antiaglomerante (E535)), azúcar, fibra de trigo (gluten), ajo, ingrediente compuesto (harina de trigo (gluten)), pimienta blanca.\n\nAlérgenos: trigo (gluten), queso, (leche), leche, (leche),, leche, huevo.\n\nPuede contener trazas de: Altramuces, Soja, Mostaza, Frutos de cáscara y derivados, Moluscos, Pescado, Sésamo, Crustáceos, Apio, Cacahuetes, Sulfitos.\n\nProducto preparado por Mercadona, S.A. (C/ Alfonso Roig Alfonso, s/n. Albalat dels Sorells 46135, Valencia).",
+    "danger_mentions": "",
+    "description": "Empanada rellena de pollo y setas con crema de queso",
+    "is_prepared_by_mercadona": true,
+    "legal_name": "EMPANADA DE POLLO Y SETAS",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Consérvese en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "INGAPAN S.L.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Empanada rellena de pollo y setas con crema de queso",
+  "ean": "2105900842892",
+  "extra_info": [
+    null
+  ],
+  "id": "84289",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>pescado y productos a base de pescado</strong>. Contiene <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "Harina de <strong>TRIGO</strong>, cebolla frita (cebolla, aceite de oliva virgen, sal, corrector de acidez E-330, espesantes (E-415, E-410, E-412), dextrosa) , carne de pollo(14%), <strong>QUESO</strong> blanco pasterizado extragraso (<strong>LECHE</strong> mazada, <strong>LECHE</strong>, <strong>NATA</strong> pasteurizada de vaca (<strong>LECHE</strong>), sólidos <strong>LÁCTEOS</strong>, sal, estabilizador E-410, conservador E-200, fermentos lacteos) , aceite de girasol, <strong>LECHE</strong> uht entera, vino, seta cultivada (3%)(pleurotus ostreatus (seta de ostra)) , <strong>HUEVO</strong> liquido entero pasteurizado y yema de <strong>HUEVO</strong> liquida pasteurizada, azúcar, sal (sal refinado y antiaglomerante E-535) , almidón de maíz, especias. *Contiene <strong>CEREALES CON GLUTEN</strong>, <strong>LECHE</strong>, <strong>HUEVO</strong> *Puede contener trazas de: <strong>PESCADO</strong>"
+  },
+  "origin": "España",
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/1e017096d4ae940a9c4ceb15c7f28cb6.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/1e017096d4ae940a9c4ceb15c7f28cb6.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/1e017096d4ae940a9c4ceb15c7f28cb6.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/e4ba7f376a7e66cb4003933d56dc13d7.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/e4ba7f376a7e66cb4003933d56dc13d7.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/e4ba7f376a7e66cb4003933d56dc13d7.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "7.30",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "7.300",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.65",
+    "unit_selector": true,
+    "unit_size": 0.5
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/84289/empanada-rellena-pollo-setas-con-crema-queso-pieza",
+  "slug": "empanada-rellena-pollo-setas-con-crema-queso-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/1e017096d4ae940a9c4ceb15c7f28cb6.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

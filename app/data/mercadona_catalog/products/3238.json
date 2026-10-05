@@ -1,0 +1,131 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 247,
+              "level": 2,
+              "name": "Cítricos",
+              "order": 306
+            }
+          ],
+          "id": 27,
+          "level": 1,
+          "name": "Fruta",
+          "order": 306
+        }
+      ],
+      "id": 1,
+      "level": 0,
+      "name": "Fruta y verdura",
+      "order": 306
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Mandarina",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Mandarinas o Clementinas",
+    "mandatory_mentions": "Vitamina C: La vitamina C contribuye al funcionamiento normal del sistema inmunitario durante el ejercicio físico intenso y después de este. Contribuye a la formación normal de colágeno. Contribuye al metabolismo energético normal. Mejora la absorción del hierro.",
+    "origin": "España",
+    "production_variant": "Producto a granel",
+    "storage_instructions": "Conservarlas en un lugar oscuro y fresco, entre 8 y 10 ºC. para conservarlas durante un periodo largo de tiempo, mantener en la nevera. Para una conservación optima colocarlas unas al lado de otras, con una cierta separación entre ellas.",
+    "suppliers": [
+      {
+        "name": "Bagu S.L."
+      },
+      {
+        "name": "Bollo International Fruits, S.L."
+      },
+      {
+        "name": "Fontestad Citrus ,S.L"
+      },
+      {
+        "name": "Fontestad Citrus .S.L"
+      },
+      {
+        "name": "Fontestad,S.A"
+      },
+      {
+        "name": "Frutas Tono S.L."
+      },
+      {
+        "name": "Frutinter, S.L."
+      },
+      {
+        "name": "MARTINAVARRO S.L"
+      },
+      {
+        "name": "Tomega S.L."
+      }
+    ],
+    "usage_instructions": "Consumir preferiblemente en fresco"
+  },
+  "display_name": "Mandarina",
+  "ean": "5607761300018",
+  "extra_info": [
+    ""
+  ],
+  "id": "3238",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "",
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "<p>Tratado con agentes de recubrimiento (E903, E-473) Imazalil y fludioxonil."
+  },
+  "origin": "España",
+  "packaging": "Pieza",
+  "photos": [
+    {
+      "perspective": 10,
+      "regular": "https://prod-mercadona.imgix.net/images/7fde4546900f0fbd38e02be6cc4ea6ed.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7fde4546900f0fbd38e02be6cc4ea6ed.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7fde4546900f0fbd38e02be6cc4ea6ed.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "2.65",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "2.650",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "0.34",
+    "unit_selector": true,
+    "unit_size": 0.13
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/3238/mandarina-pieza",
+  "slug": "mandarina-pieza",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/7fde4546900f0fbd38e02be6cc4ea6ed.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

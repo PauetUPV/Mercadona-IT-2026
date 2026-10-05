@@ -1,0 +1,108 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Deliplus",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 644,
+              "level": 2,
+              "name": "Sérum y otros",
+              "order": 238
+            }
+          ],
+          "id": 201,
+          "level": 1,
+          "name": "Acondicionador y mascarilla",
+          "order": 238
+        }
+      ],
+      "id": 21,
+      "level": 0,
+      "name": "Cuidado del cabello",
+      "order": 238
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Deliplus",
+    "counter_info": null,
+    "danger_mentions": null,
+    "description": "Sérum oil Curl Perfect Deliplus cabello rizado apto para método curly",
+    "is_prepared_by_mercadona": false,
+    "legal_name": null,
+    "mandatory_mentions": null,
+    "origin": null,
+    "production_variant": null,
+    "storage_instructions": null,
+    "suppliers": [],
+    "usage_instructions": null
+  },
+  "display_name": "Sérum oil Curl Perfect Deliplus cabello rizado",
+  "ean": "8402001042614",
+  "extra_info": [
+    null
+  ],
+  "id": "22632",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": null
+  },
+  "origin": null,
+  "packaging": "Bote",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/fc95936f4a45533daf431eb177e93735.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/fc95936f4a45533daf431eb177e93735.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/fc95936f4a45533daf431eb177e93735.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/bd880ac1cccc1d206cb97a18aeea4f9a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/bd880ac1cccc1d206cb97a18aeea4f9a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/bd880ac1cccc1d206cb97a18aeea4f9a.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "41.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "100 ml",
+    "reference_price": "4.100",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "4.10",
+    "unit_selector": true,
+    "unit_size": 0.1
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/22632/serum-oil-curl-perfect-deliplus-cabello-rizado-apto-metodo-curly-bote",
+  "slug": "serum-oil-curl-perfect-deliplus-cabello-rizado-apto-metodo-curly-bote",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/fc95936f4a45533daf431eb177e93735.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

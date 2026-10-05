@@ -1,0 +1,127 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 281,
+              "level": 2,
+              "name": "Pollo",
+              "order": 17
+            }
+          ],
+          "id": 38,
+          "level": 1,
+          "name": "Aves y pollo",
+          "order": 17
+        },
+        {
+          "categories": [
+            {
+              "id": 288,
+              "level": 2,
+              "name": "Empanados y elaborados",
+              "order": 17
+            }
+          ],
+          "id": 45,
+          "level": 1,
+          "name": "Empanados y elaborados",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Solomillos de pollo adobados",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "SOLOMILLO ADOBADO. Preparado de carne con agua añadida",
+    "mandatory_mentions": "Envasado en atmosfera protectora",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar de 0-4ºC",
+    "suppliers": [
+      {
+        "name": "HIJOS DE JUAN PUJANTE S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Solomillos de pollo adobados",
+  "ean": "8414129732001",
+  "extra_info": [
+    ""
+  ],
+  "id": "16266",
+  "is_bulk": true,
+  "is_new_arrival": false,
+  "is_variable_weight": true,
+  "limit": 999,
+  "main_feature": "adobados",
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": "<p>Solomillo de pollo (85%), agua (10%), conservador: lactato de sodio, sal, antioxidantes: citrato de sodio y ascorbato sódico, correctores de acidez: acetatos sódicos y carbonato sódico, fibra vegetal, aromas, estabilizante: carragenano, especias y extractos de especias.*Sin gluten"
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/3a6f4118a6eccda1b48ceef4f2b7e7ba.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/3a6f4118a6eccda1b48ceef4f2b7e7ba.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/3a6f4118a6eccda1b48ceef4f2b7e7ba.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/7bd2b7095f4196f0d47b6a527915fae2.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7bd2b7095f4196f0d47b6a527915fae2.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7bd2b7095f4196f0d47b6a527915fae2.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": true,
+    "bulk_price": "8.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "8.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.83",
+    "unit_selector": true,
+    "unit_size": 0.45
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/16266/solomillos-pollo-adobados-bandeja",
+  "slug": "solomillos-pollo-adobados-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/3a6f4118a6eccda1b48ceef4f2b7e7ba.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

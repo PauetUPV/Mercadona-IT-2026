@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 334,
+              "level": 2,
+              "name": "Bollería envasada",
+              "order": 515
+            }
+          ],
+          "id": 66,
+          "level": 1,
+          "name": "Bollería envasada",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Magdalenas al cacao Hacendado",
+    "legal_name": "Magdalenas al cacao",
+    "mandatory_mentions": "",
+    "origin": "España",
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco, seco y protegido de la luz.",
+    "suppliers": [
+      {
+        "name": "Dulmatesa S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Magdalenas al cacao Hacendado",
+  "ean": "2105900827318",
+  "extra_info": [
+    ""
+  ],
+  "id": "82731",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>trigo y productos derivados</strong>. Contiene <strong>cereales que contengan gluten</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>huevos y productos a base de huevo</strong>.",
+    "ingredients": "Azúcar, <strong>huevo</strong> líquido pasteurizado, aceite refinado de girasol, harina de <strong>trigo</strong> (<strong>gluten</strong>), polvo de cacao desgrasado (4%), almidón de <strong>trigo (gluten)</strong>, suero de <strong>leche</strong> en polvo, humectante: glicerina; almidón modificado, emulsionante: E471; gasificantes: E500ii, E450i; gluten de <strong>trigo</strong>, sal, conservador: E202; aromas, estabilizante: E415; acidulante: ácido cítrico. <strong>Puede contener trazas de mostaza, soja y frutos de cáscara.</strong>"
+  },
+  "origin": "España",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/b79a0bc39f0b3aeb894799ea40216295.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b79a0bc39f0b3aeb894799ea40216295.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b79a0bc39f0b3aeb894799ea40216295.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/0c3b6eaffff9fac1a30dd0ddd42e1a26.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/0c3b6eaffff9fac1a30dd0ddd42e1a26.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/0c3b6eaffff9fac1a30dd0ddd42e1a26.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 9,
+    "unit_name": "ud.",
+    "unit_price": "2.10",
+    "unit_selector": true,
+    "unit_size": 0.35
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/82731/magdalenas-cacao-hacendado-paquete",
+  "slug": "magdalenas-cacao-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/b79a0bc39f0b3aeb894799ea40216295.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

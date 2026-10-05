@@ -1,0 +1,112 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Martiko",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 314,
+              "level": 2,
+              "name": "Paté",
+              "order": 159
+            }
+          ],
+          "id": 58,
+          "level": 1,
+          "name": "Paté y sobrasada",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Martiko",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Foie gras entero de pato mi cuit Martiko",
+    "legal_name": "Foie gras entero de pato cocido",
+    "mandatory_mentions": "",
+    "origin": "Navarra, España.",
+    "production_variant": "",
+    "storage_instructions": "Conservación entre 3 y 5 C. Una vez abierto, conservar en el frigorífico y consumir en los próximos 2 días.",
+    "suppliers": [
+      {
+        "name": "Martiko"
+      },
+      {
+        "name": "Martiko, S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Foie gras entero de pato mi cuit Martiko",
+  "ean": "8412540002000",
+  "extra_info": [
+    null
+  ],
+  "id": "52166",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": " <strong>x99</strong>.",
+    "ingredients": "98% foie gras de pato, sal, azúcar, brandy, especias, antioxidante: E-301 y conservador E-250. Envasado en atmosfera protectora."
+  },
+  "origin": "Navarra, España.",
+  "packaging": "Tarro",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/04d510903f7c48697083dce1415d586c.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/04d510903f7c48697083dce1415d586c.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/04d510903f7c48697083dce1415d586c.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/069034b047f263f49ef4aa36cacb9266.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/069034b047f263f49ef4aa36cacb9266.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/069034b047f263f49ef4aa36cacb9266.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "74.75",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "74.750",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "14.95",
+    "unit_selector": true,
+    "unit_size": 0.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/52166/foie-gras-entero-pato-cuit-martiko-tarro",
+  "slug": "foie-gras-entero-pato-cuit-martiko-tarro",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/04d510903f7c48697083dce1415d586c.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

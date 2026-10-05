@@ -1,0 +1,117 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 360,
+              "level": 2,
+              "name": "Con chocolate y rellenas",
+              "order": 18
+            }
+          ],
+          "id": 80,
+          "level": 1,
+          "name": "Galletas",
+          "order": 18
+        }
+      ],
+      "id": 7,
+      "level": 0,
+      "name": "Cereales y galletas",
+      "order": 18
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Galletas con chocolate y crema de leche Hacendado",
+    "legal_name": "Galletas de mantequilla con crema de leche (27%) y chocolate con leche (42%)",
+    "mandatory_mentions": "",
+    "origin": "Alemania",
+    "production_variant": "",
+    "storage_instructions": "Manténgase en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Griesson - de Beukelaer"
+      },
+      {
+        "name": "Lantmännen Unibake Danmark A/S"
+      },
+      {
+        "name": "Mercadona S.A."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Galletas con chocolate y crema de leche Hacendado",
+  "ean": "4001518009000",
+  "extra_info": [
+    null
+  ],
+  "id": "14038",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>soja y productos a base de soja</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "Ingredientes: azúcar, harina de TRIGO (21%), grasas vegetales (semilla de la palma, palma en proporción variable), manteca de cacao, pasta de cacao, LECHE descremada en polvo, LECHE entera en polvo (6%), mantequilla (4%) (LECHE), jarabe de glucosa, lactosa (LECHE), mantequilla concentrada (LECHE), gasificantes (carbonato ácido de sodio, carbonato ácido de amonio), emulgentes (lecitinas de girasol, lecitinas de SOJA), suero de LECHE dulce en polvo, sal, acidulante (ácido cítrico). Puede contener trazas de: FRUTOS DE CÁSCARA."
+  },
+  "origin": "Alemania",
+  "packaging": "Caja",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/507271ff3760f7aafa67951e0fc6b219.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/507271ff3760f7aafa67951e0fc6b219.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/507271ff3760f7aafa67951e0fc6b219.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/5f5d97bbb315155e3a7437c61ae190b9.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/5f5d97bbb315155e3a7437c61ae190b9.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/5f5d97bbb315155e3a7437c61ae190b9.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "9.89",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "9.889",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 8,
+    "unit_name": "paquetes",
+    "unit_price": "2.65",
+    "unit_selector": true,
+    "unit_size": 0.268
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/14038/galletas-con-chocolate-crema-leche-hacendado-caja",
+  "slug": "galletas-con-chocolate-crema-leche-hacendado-caja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/507271ff3760f7aafa67951e0fc6b219.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

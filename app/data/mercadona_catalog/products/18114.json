@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 451,
+              "level": 2,
+              "name": "Caballa y melva",
+              "order": 215
+            }
+          ],
+          "id": 122,
+          "level": 1,
+          "name": "Atún y otras conservas de pescado",
+          "order": 215
+        }
+      ],
+      "id": 14,
+      "level": 0,
+      "name": "Conservas, caldos y cremas",
+      "order": 215
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Filetes de melva canutera con pimientos del piquillo Hacendado en aceite de oliva",
+    "legal_name": "Filetes de melva canutera con pimientos del piquillo en aceite de oliva.",
+    "mandatory_mentions": "Una vez abierto, mantener en refrigeración y consumir antes de 2 días.",
+    "origin": "Cabo Verde",
+    "production_variant": "",
+    "storage_instructions": "Conservar en un lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "UBAGO GROUP MARE S.L."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Filetes de melva canutera con pimientos del piquillo Hacendado en aceite de oliva",
+  "ean": "8410155024004",
+  "extra_info": [
+    null
+  ],
+  "id": "18114",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": "<strong>Melva canutera</strong> (55%), aceite de oliva (27%), pimiento del piquillo (17%) y sal"
+  },
+  "origin": "Cabo Verde",
+  "packaging": "Lata",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/445a01e2f758999022716b69d4adb597.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/445a01e2f758999022716b69d4adb597.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/445a01e2f758999022716b69d4adb597.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/372535caa5f4a5bd590d5d1610ff4c14.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/372535caa5f4a5bd590d5d1610ff4c14.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/372535caa5f4a5bd590d5d1610ff4c14.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "20.00",
+    "bunch_selector": false,
+    "drained_weight": 0.065,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "27.693",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.80",
+    "unit_selector": true,
+    "unit_size": 0.09
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/18114/filetes-melva-canutera-con-pimientos-piquillo-hacendado-aceite-oliva-lata",
+  "slug": "filetes-melva-canutera-con-pimientos-piquillo-hacendado-aceite-oliva-lata",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/445a01e2f758999022716b69d4adb597.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

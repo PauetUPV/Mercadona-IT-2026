@@ -1,0 +1,484 @@
+{
+  "categories": [
+    {
+      "id": 411,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Postres de soja",
+      "order": 598,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 11,
+              "level": 0,
+              "name": "Postres y yogures",
+              "order": 598
+            }
+          ],
+          "display_name": "Postre de soja con caramelo Hacendado",
+          "id": "24080",
+          "is_new_arrival": true,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": null,
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.88",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.1,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "3.875",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 4,
+            "unit_name": "ud.",
+            "unit_price": "1.55",
+            "unit_selector": true,
+            "unit_size": 0.4
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/24080/postre-soja-con-caramelo-hacendado",
+          "slug": "postre-soja-con-caramelo-hacendado",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/1ff43ed37ce132ad34457bed2ce2e744.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 11,
+              "level": 0,
+              "name": "Postres y yogures",
+              "order": 598
+            }
+          ],
+          "display_name": "Postre de soja sabor chocolate Hacendado",
+          "id": "35466",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": null,
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.88",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.1,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "3.875",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 4,
+            "unit_name": "ud.",
+            "unit_price": "1.55",
+            "unit_selector": true,
+            "unit_size": 0.4
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/35466/postre-soja-hacendado-sabor-chocolate-pack-4",
+          "slug": "postre-soja-hacendado-sabor-chocolate-pack-4",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/5419526b9b24c3314a992916260e1cf7.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 11,
+              "level": 0,
+              "name": "Postres y yogures",
+              "order": 598
+            }
+          ],
+          "display_name": "Postre de soja sabor natural con coco Alpro",
+          "id": "52513",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Bote",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "5.75",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "5.750",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.30",
+            "unit_selector": true,
+            "unit_size": 0.4
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/52513/postre-soja-sabor-natural-con-coco-alpro-bote",
+          "slug": "postre-soja-sabor-natural-con-coco-alpro-bote",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/1e4db0e29c351e0e73ac49577e5c107b.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 11,
+              "level": 0,
+              "name": "Postres y yogures",
+              "order": 598
+            }
+          ],
+          "display_name": "Postre de soja sabor mango Alpro sin azúcares añadidos",
+          "id": "21369",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "sin azúcares añadidos",
+          "packaging": "Bote",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "6.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "6.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.60",
+            "unit_selector": true,
+            "unit_size": 0.4
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/21369/postre-soja-sabor-mango-alpro-sin-azucares-anadidos-bote",
+          "slug": "postre-soja-sabor-mango-alpro-sin-azucares-anadidos-bote",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/71cb7349f97d0948a84c183ea7187b21.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 11,
+              "level": 0,
+              "name": "Postres y yogures",
+              "order": 598
+            }
+          ],
+          "display_name": "Postre de soja natural Hacendado",
+          "id": "20200",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": null,
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.1,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "3.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 4,
+            "unit_name": "ud.",
+            "unit_price": "1.20",
+            "unit_selector": true,
+            "unit_size": 0.4
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/20200/postre-soja-hacendado-natural-pack-4",
+          "slug": "postre-soja-hacendado-natural-pack-4",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/951718d16468bd7622785bc9732bb43a.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 11,
+              "level": 0,
+              "name": "Postres y yogures",
+              "order": 598
+            }
+          ],
+          "display_name": "Postre de coco natural Alpro sin azúcares añadidos",
+          "id": "22981",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "sin azúcares añadidos",
+          "packaging": "Bote",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "7.43",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "7.429",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.60",
+            "unit_selector": true,
+            "unit_size": 0.35
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/22981/postre-coco-natural-alpro-bote",
+          "slug": "postre-coco-natural-alpro-bote",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/6b4da405b7c1f754b419e1a9418ea455.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 11,
+              "level": 0,
+              "name": "Postres y yogures",
+              "order": 598
+            }
+          ],
+          "display_name": "Postre de soja Hacendado con arándanos",
+          "id": "17472",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "con arándanos",
+          "packaging": null,
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "3.88",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": true,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": 0.1,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "3.875",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": 4,
+            "unit_name": "ud.",
+            "unit_price": "1.55",
+            "unit_selector": true,
+            "unit_size": 0.4
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/17472/postre-soja-hacendado-con-arandanos",
+          "slug": "postre-soja-hacendado-con-arandanos",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/802452659afdcfdbed8435e769cc2a9f.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 11,
+              "level": 0,
+              "name": "Postres y yogures",
+              "order": 598
+            }
+          ],
+          "display_name": "Postre de soja sabor arándanos Alpro",
+          "id": "8179",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Bote",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "5.75",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "5.750",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.30",
+            "unit_selector": true,
+            "unit_size": 0.4
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/8179/postre-soja-sabor-arandanos-alpro-bote",
+          "slug": "postre-soja-sabor-arandanos-alpro-bote",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/db74f47211ca6ae501bf8a976bb14f60.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 11,
+              "level": 0,
+              "name": "Postres y yogures",
+              "order": 598
+            }
+          ],
+          "display_name": "Postre de soja sabor lima limón Alpro",
+          "id": "13917",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Bote",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "5.75",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "5.750",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.30",
+            "unit_selector": true,
+            "unit_size": 0.4
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/13917/postre-soja-sabor-lima-limon-alpro-bote",
+          "slug": "postre-soja-sabor-lima-limon-alpro-bote",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/0ffb59b1593a8f0675cb1842adeec750.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    }
+  ],
+  "id": 106,
+  "is_extended": false,
+  "layout": 1,
+  "name": "Postres de soja",
+  "next_category": {
+    "id": 103,
+    "name": "Yogures desnatados"
+  },
+  "order": 598,
+  "published": true
+}

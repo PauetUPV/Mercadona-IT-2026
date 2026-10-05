@@ -1,0 +1,111 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 287,
+              "level": 2,
+              "name": "Hamburguesas",
+              "order": 17
+            }
+          ],
+          "id": 44,
+          "level": 1,
+          "name": "Hamburguesas y picadas",
+          "order": 17
+        }
+      ],
+      "id": 3,
+      "level": 0,
+      "name": "Carne",
+      "order": 17
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Burger de vacuno y cerdo con jamón y cebolla caramelizada",
+    "legal_name": "BURGER MEAT VACUNO CERDO JAMÓN Y CEBOLLA CARAMELIZADA",
+    "mandatory_mentions": "Sin gluten.Envasado en atmósfera protectora.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en refrigeración entre 0 y 4C. Una vez abierto consumir antes de 48 horas",
+    "suppliers": [
+      {
+        "name": "Frescos y Elaborados Delisano SAU"
+      }
+    ],
+    "usage_instructions": "Cocinar completamente antes de su consumo. Tiempo: aproximadamente a fuego medio/fuerte durante 1 minuto por cada lado, bajar el fuego al mínimo y cocinar durante 12 min, volteando la hambuerguesa cada 2 minutos."
+  },
+  "display_name": "Burger de vacuno y cerdo con jamón y cebolla caramelizada",
+  "ean": "8436021411488",
+  "extra_info": [
+    ""
+  ],
+  "id": "4155",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>dióxido de azufre y sulfitos</strong>.",
+    "ingredients": "43% carne de porcino, 30% carne de vacuno, agua, jamón (7,5%) [jamón de cerdo, sal, dextrosa, antioxidante (E-301) y conservador (E-252)], cebolla caramelizada (5%) [cebolla (89%), azúcar moreno (11%) y corrector de la acidez (E-330)], maíz, fibra y proteína vegetal, aroma natural, aromas, sal, colorante (E-120), conservador (E-221) (<strong>sulfito</strong>), antioxidantes (E-301 y E-331) y especias."
+  },
+  "origin": null,
+  "packaging": "Bandeja",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/b5b402ed0066a733539eca7905eddc2a.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/b5b402ed0066a733539eca7905eddc2a.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/b5b402ed0066a733539eca7905eddc2a.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/34a6cf25c6750919e48aa3df433e4bdf.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/34a6cf25c6750919e48aa3df433e4bdf.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/34a6cf25c6750919e48aa3df433e4bdf.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "11.67",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "11.667",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": 2,
+    "unit_name": "ud.",
+    "unit_price": "2.80",
+    "unit_selector": true,
+    "unit_size": 0.24
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/4155/burger-vacuno-cerdo-con-jamon-cebolla-caramelizada-bandeja",
+  "slug": "burger-vacuno-cerdo-con-jamon-cebolla-caramelizada-bandeja",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/b5b402ed0066a733539eca7905eddc2a.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

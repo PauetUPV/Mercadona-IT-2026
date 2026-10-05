@@ -1,0 +1,113 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 353,
+              "level": 2,
+              "name": "Nata",
+              "order": 373
+            }
+          ],
+          "id": 75,
+          "level": 1,
+          "name": "Mantequilla y margarina",
+          "order": 373
+        }
+      ],
+      "id": 6,
+      "level": 0,
+      "name": "Huevos, leche y mantequilla",
+      "order": 373
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Crema de soja Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Crema soja",
+    "mandatory_mentions": "Producto apto para veganos",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Se conserva a una temperatura ambiente; después de abrir el producto, ponerlo en la nevera ( entre 0ºC y a + 4ºC) y consumirlo antes de 3 días.",
+    "suppliers": [
+      {
+        "name": "V.B.S. s. p.a."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Crema de soja Hacendado",
+  "ean": "8480000103765",
+  "extra_info": [
+    null
+  ],
+  "id": "10376",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>soja y productos a base de soja</strong>.",
+    "ingredients": "Extracto de <strong>soja</strong> (81%)(agua, semillas de <strong>soja</strong> 8,3%), aceite de girasol, jarabe de glucosa, almidón de tapioca modificado, aromas, emulsionantes: mono- y diglicéridos de los ácidos grasos, sal marina, estabilizantes: goma xantana, goma guar-carragenina, antioxidantes: extrato de tocoferoles."
+  },
+  "origin": null,
+  "packaging": "Brik",
+  "photos": [
+    {
+      "perspective": 1,
+      "regular": "https://prod-mercadona.imgix.net/images/457ad22a1ea8d4dbc300afa80e2f4a3b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/457ad22a1ea8d4dbc300afa80e2f4a3b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/457ad22a1ea8d4dbc300afa80e2f4a3b.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/ec65053b4fcb9d9fa8bec2717d18c9c2.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ec65053b4fcb9d9fa8bec2717d18c9c2.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ec65053b4fcb9d9fa8bec2717d18c9c2.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": 10,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "L",
+    "reference_price": "5.500",
+    "selling_method": 0,
+    "size_format": "l",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.10",
+    "unit_selector": true,
+    "unit_size": 0.2
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/10376/crema-soja-hacendado-brick",
+  "slug": "crema-soja-hacendado-brick",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/457ad22a1ea8d4dbc300afa80e2f4a3b.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

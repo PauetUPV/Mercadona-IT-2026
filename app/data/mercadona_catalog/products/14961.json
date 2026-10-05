@@ -1,0 +1,114 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 320,
+              "level": 2,
+              "name": "Otros panes",
+              "order": 515
+            }
+          ],
+          "id": 60,
+          "level": 1,
+          "name": "Pan de molde y otras especialidades",
+          "order": 515
+        }
+      ],
+      "id": 5,
+      "level": 0,
+      "name": "Panadería y pastelería",
+      "order": 515
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Pan de molde espelta 100% integral Hacendado natural",
+    "legal_name": "Pan de molde integral de trigo espelta (58%), trigo y cebada 100% integral",
+    "mandatory_mentions": "Sin lactosa.",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar en lugar fresco y seco.",
+    "suppliers": [
+      {
+        "name": "Fabricado por: JUAN Y JUAN INDUSTRIAL S.L.U."
+      },
+      {
+        "name": "JUAN Y JUAN INDUSTRIAL, S.L.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Pan de molde espelta 100% integral Hacendado natural",
+  "ean": "8402001038990",
+  "extra_info": [
+    ""
+  ],
+  "id": "14961",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Puede contener <strong>mostaza y productos derivados</strong>. Puede contener <strong>soja y productos a base de soja</strong>.",
+    "ingredients": "Harina integral de <strong>TRIGO ESPELTA (GLUTEN)</strong> (58%), agua, <strong>GLUTEN DE TRIGO</strong>, masa madre integral (2,4%), aceite refinado de girasol, levadura, harina integral de <strong>TRIGO (GLUTEN)</strong> fermentada (1,6%), sal, harina integral de <strong>CEBADA (GLUTEN)</strong> malteada tostada (0,5%), extracto vegetal y aroma. Puede contener trazas de <strong>SOJA</strong>, <strong>MOSTAZA</strong>, granos de <strong>SÉSAMO</strong>. Sin lactosa."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/174093fd98d687d6f3e191a0207cc828.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/174093fd98d687d6f3e191a0207cc828.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/174093fd98d687d6f3e191a0207cc828.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/7bc16431685c40e85e2e754fa407550b.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/7bc16431685c40e85e2e754fa407550b.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/7bc16431685c40e85e2e754fa407550b.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "3.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "3.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 16,
+    "unit_name": "rebanadas",
+    "unit_price": "1.65",
+    "unit_selector": true,
+    "unit_size": 0.55
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/14961/pan-molde-espelta-100-integral-hacendado-natural-paquete",
+  "slug": "pan-molde-espelta-100-integral-hacendado-natural-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/174093fd98d687d6f3e191a0207cc828.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

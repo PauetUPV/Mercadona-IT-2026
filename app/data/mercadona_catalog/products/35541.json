@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 509,
+              "level": 2,
+              "name": "Arroz",
+              "order": 213
+            }
+          ],
+          "id": 147,
+          "level": 1,
+          "name": "Arroz y pasta",
+          "order": 213
+        }
+      ],
+      "id": 17,
+      "level": 0,
+      "name": "Congelados",
+      "order": 213
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Arroz negro Hacendado ultracongelado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Arroz negro ultracongelado",
+    "mandatory_mentions": "",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Conservar a -18 ºC. Una vez descongelado no volver a congelar.",
+    "suppliers": [
+      {
+        "name": "Ultracongelados Virto S.A.U"
+      },
+      {
+        "name": "Ultracongelados Virto S.A.U."
+      }
+    ],
+    "usage_instructions": "Sartén 7-9 min."
+  },
+  "display_name": "Arroz negro Hacendado ultracongelado",
+  "ean": "8402001008757",
+  "extra_info": [
+    null
+  ],
+  "id": "35541",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "ultracongelado",
+  "nutrition_information": {
+    "allergens": "Contiene <strong>moluscos y productos a base de moluscos</strong>. Contiene <strong>gb</strong>. Contiene <strong>cereales que contengan gluten</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>. Contiene <strong>pescado y productos a base de pescado</strong>. Contiene <strong>crustáceos y productos a base de crustáceos</strong>.",
+    "ingredients": "Arroz blanco  (agua, arroz) (64%), calamar (<strong>molusco</strong>), salsa de  tinta negra (10%) [agua, tomate concentrado, aceite de orujo de oliva, ajo,  cebolla prefrita (cebolla y aceite refinado de girasol), tinta de sepia (<strong>molusco</strong>) (tinta de  sepia, agua, sal, espesante: carboximetilcelulosa sódica), vino tinto, pimentón  dulce, almidón, sal, azúcar, harina de <strong>cebada</strong> malteada (<strong>gluten</strong>), pimienta  negra, cúrcuma, laurel], gamba (<strong>crustáceo</strong>) pelada  (gamba, agua, sal y regulador de acidez: citratos de sodio), cebolla prefrita  (cebolla y aceite refinado de girasol), base de marisco [sal, extracto de <strong>pescado</strong> y marisco (<strong>pescado</strong> y <strong>crustáceos</strong>), especias,  tomate, extracto de levadura, azafrán].  Puede contener trazas de <strong>leche</strong>."
+  },
+  "origin": null,
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/d2da7fb2337140feb1f91337e2d6ec41.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/d2da7fb2337140feb1f91337e2d6ec41.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/d2da7fb2337140feb1f91337e2d6ec41.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/c919bced2ab2357bfb0a6d92df3d7480.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c919bced2ab2357bfb0a6d92df3d7480.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c919bced2ab2357bfb0a6d92df3d7480.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "5.17",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "5.167",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "3.10",
+    "unit_selector": true,
+    "unit_size": 0.6
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/35541/arroz-negro-hacendado-ultracongelado-paquete",
+  "slug": "arroz-negro-hacendado-ultracongelado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/d2da7fb2337140feb1f91337e2d6ec41.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

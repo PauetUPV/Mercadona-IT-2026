@@ -1,0 +1,731 @@
+{
+  "categories": [
+    {
+      "id": 286,
+      "image": null,
+      "is_extended": false,
+      "layout": 2,
+      "name": "Embutido",
+      "order": 17,
+      "products": [
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Longaniza magro fresca",
+          "id": "6040",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "6.00",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "6.000",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.21",
+            "unit_selector": true,
+            "unit_size": 0.535
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/6040/longaniza-magro-fresca-bandeja",
+          "slug": "longaniza-magro-fresca-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/435b9b2aa7b8fcafab0c64763e5a5fe9.jpeg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Longaniza fresca sin tripa",
+          "id": "6043",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "5.63",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "5.625",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.15",
+            "unit_selector": true,
+            "unit_size": 0.56
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/6043/longaniza-fresca-sin-tripa-bandeja",
+          "slug": "longaniza-fresca-sin-tripa-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/fe4d83378f79d9ad0509b46e5916226f.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Longaniza fresca de pollo",
+          "id": "6041",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "7.25",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "7.250",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.99",
+            "unit_selector": true,
+            "unit_size": 0.55
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/6041/longaniza-fresca-pollo-bandeja",
+          "slug": "longaniza-fresca-pollo-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/9509b9d588cb37aca8f104bac1f6c1c1.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Morcilla de cebolla oreada",
+          "id": "35049",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": "",
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "6.80",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "6.800",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.90",
+            "unit_selector": true,
+            "unit_size": 0.28
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/35049/morcilla-cebolla-oreada-bandeja",
+          "slug": "morcilla-cebolla-oreada-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/78142fc2996c8003f1ec92f0c01ddd98.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Botifarrón de carne",
+          "id": "1393",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "7.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "7.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.62",
+            "unit_selector": true,
+            "unit_size": 0.35
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/1393/botifarron-carne-bandeja",
+          "slug": "botifarron-carne-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/6a1c6347f95614106a4f88f1e1ebaa45.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Chorizo oreado",
+          "id": "6048",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "7.15",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "7.150",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.57",
+            "unit_selector": true,
+            "unit_size": 0.36
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/6048/chorizo-oreado-bandeja",
+          "slug": "chorizo-oreado-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/e57f9a3c9969167182a14b78559d511d.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Chistorra",
+          "id": "2864",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": false,
+            "bulk_price": "6.36",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "6.364",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.40",
+            "unit_selector": true,
+            "unit_size": 0.22
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/2864/chistorra-paquete",
+          "slug": "chistorra-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/1be0a132e4f06e971d7ef4b8b9664020.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Longaniza roja fresca",
+          "id": "6042",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "7.50",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "7.500",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.03",
+            "unit_selector": true,
+            "unit_size": 0.27
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/6042/longaniza-roja-fresca-bandeja",
+          "slug": "longaniza-roja-fresca-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/b7aae7ce0c1cfe33cc160ce01169011c.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Longaniza fresca estilo criollo",
+          "id": "6045",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "8.80",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": 10,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "8.800",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.34",
+            "unit_selector": true,
+            "unit_size": 0.38
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/6045/longaniza-fresca-estilo-criollo-bandeja",
+          "slug": "longaniza-fresca-estilo-criollo-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/e1caa3e12a0819df627d8a895ad3bb15.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Butifarra fresca",
+          "id": "6044",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "5.40",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "5.400",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.46",
+            "unit_selector": true,
+            "unit_size": 0.64
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/6044/butifarra-fresca-bandeja",
+          "slug": "butifarra-fresca-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/725678a552c6bc61ff7fc8ead5003d80.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Embutido surtido oreado",
+          "id": "35197",
+          "is_new_arrival": false,
+          "limit": 999,
+          "main_feature": null,
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "7.75",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "7.750",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "3.88",
+            "unit_selector": true,
+            "unit_size": 0.5
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/35197/embutido-surtido-oreado-bandeja",
+          "slug": "embutido-surtido-oreado-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/68f23d3bad0c71c466926530d538fbc0.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Morcilla de arroz y cebolla",
+          "id": "2876",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Paquete",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "5.75",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "5.750",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "1.72",
+            "unit_selector": true,
+            "unit_size": 0.3
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/2876/morcilla-arroz-cebolla-paquete",
+          "slug": "morcilla-arroz-cebolla-paquete",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/0405d211265796755365fabbfd7fd172.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Embutido blanco",
+          "id": "2852",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "7.30",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "7.300",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.55",
+            "unit_selector": true,
+            "unit_size": 0.35
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/2852/embutido-blanco-bandeja",
+          "slug": "embutido-blanco-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/b44303f1565802245cc1bdf242c92438.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        },
+        {
+          "badges": {
+            "is_water": false,
+            "requires_age_check": false
+          },
+          "categories": [
+            {
+              "id": 3,
+              "level": 0,
+              "name": "Carne",
+              "order": 17
+            }
+          ],
+          "display_name": "Chorizo picante aperitivo",
+          "id": "6047",
+          "is_new_arrival": false,
+          "limit": 999,
+          "packaging": "Bandeja",
+          "price_instructions": {
+            "approx_size": true,
+            "bulk_price": "8.65",
+            "bunch_selector": false,
+            "drained_weight": null,
+            "increment_bunch_amount": 1.0,
+            "is_new": false,
+            "is_pack": false,
+            "iva": null,
+            "min_bunch_amount": 1.0,
+            "pack_size": null,
+            "previous_unit_price": null,
+            "price_decreased": false,
+            "reference_format": "kg",
+            "reference_price": "8.650",
+            "selling_method": 0,
+            "size_format": "kg",
+            "tax_percentage": "10.000",
+            "total_units": null,
+            "unit_name": null,
+            "unit_price": "2.59",
+            "unit_selector": true,
+            "unit_size": 0.3
+          },
+          "published": true,
+          "share_url": "https://tienda.mercadona.es/product/6047/chorizo-picante-aperitivo-bandeja",
+          "slug": "chorizo-picante-aperitivo-bandeja",
+          "status": null,
+          "thumbnail": "https://prod-mercadona.imgix.net/images/e475404e502ae6d6335ab3d9a89a3b4e.jpg?fit=crop&h=300&w=300",
+          "unavailable_from": null,
+          "unavailable_weekdays": []
+        }
+      ],
+      "published": true,
+      "subtitle": null
+    }
+  ],
+  "id": 43,
+  "is_extended": false,
+  "layout": 1,
+  "name": "Embutido",
+  "next_category": {
+    "id": 44,
+    "name": "Hamburguesas y picadas"
+  },
+  "order": 17,
+  "published": true
+}

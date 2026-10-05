@@ -1,0 +1,123 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Como tú",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 610,
+              "level": 2,
+              "name": "Crema corporal",
+              "order": 241
+            }
+          ],
+          "id": 189,
+          "level": 1,
+          "name": "Cuidado corporal",
+          "order": 241
+        },
+        {
+          "categories": [
+            {
+              "id": 835,
+              "level": 2,
+              "name": "Lotes mujer",
+              "order": 241
+            }
+          ],
+          "id": 196,
+          "level": 1,
+          "name": "Perfume y colonia",
+          "order": 241
+        }
+      ],
+      "id": 20,
+      "level": 0,
+      "name": "Cuidado facial y corporal",
+      "order": 241
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Como tú",
+    "counter_info": null,
+    "danger_mentions": null,
+    "description": "Lote mujer Como tú Extratime",
+    "is_prepared_by_mercadona": false,
+    "legal_name": null,
+    "mandatory_mentions": null,
+    "origin": null,
+    "production_variant": null,
+    "storage_instructions": null,
+    "suppliers": [],
+    "usage_instructions": null
+  },
+  "display_name": "Lote mujer Como tú Extratime",
+  "ean": "8402001037023",
+  "extra_info": [
+    "Nota olfativa floriental frutal cítrico.\nContiene eau de parfum 100 ml, gel de baño 100 ml y body milk 100 ml."
+  ],
+  "id": "16397",
+  "is_bulk": false,
+  "is_new_arrival": true,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "Extratime",
+  "nutrition_information": {
+    "allergens": null,
+    "ingredients": null
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/440afc1209929b548373720f1cc6baed.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/440afc1209929b548373720f1cc6baed.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/440afc1209929b548373720f1cc6baed.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/f663d8281dd34e62979215e183e58338.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/f663d8281dd34e62979215e183e58338.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/f663d8281dd34e62979215e183e58338.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "10.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "ud",
+    "reference_price": "10.000",
+    "selling_method": 0,
+    "size_format": "ud",
+    "tax_percentage": "21.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "10.00",
+    "unit_selector": true,
+    "unit_size": 1.0
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/16397/lote-mujer-extratime-contiene-eau-parfum-100-ml-gel-bano-100-ml-body-milk-100-ml",
+  "slug": "lote-mujer-extratime-contiene-eau-parfum-100-ml-gel-bano-100-ml-body-milk-100-ml",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/440afc1209929b548373720f1cc6baed.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

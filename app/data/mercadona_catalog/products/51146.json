@@ -1,0 +1,116 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 312,
+              "level": 2,
+              "name": "Queso rallado",
+              "order": 159
+            }
+          ],
+          "id": 56,
+          "level": 1,
+          "name": "Queso lonchas, rallado y en porciones",
+          "order": 159
+        }
+      ],
+      "id": 4,
+      "level": 0,
+      "name": "Charcutería y quesos",
+      "order": 159
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Queso en polvo grana padano Hacendado",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Queso  Grana Padano DOP rallado",
+    "mandatory_mentions": "",
+    "origin": "Italia",
+    "production_variant": "",
+    "storage_instructions": "Conservar entre +2C y +8C",
+    "suppliers": [
+      {
+        "name": "TEODORO GARCIA, S.A."
+      },
+      {
+        "name": "Zanetti S.P.A"
+      }
+    ],
+    "usage_instructions": "Listo para comer"
+  },
+  "display_name": "Queso en polvo grana padano Hacendado",
+  "ean": "8002710411147",
+  "extra_info": [
+    null
+  ],
+  "id": "51146",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": null,
+  "nutrition_information": {
+    "allergens": "Libre de <strong>moluscos y productos a base de moluscos</strong>. Contiene <strong>huevos y productos a base de huevo</strong>. Libre de <strong>altramuces y productos a base de altramuces</strong>. Libre de <strong>huevos y productos a base de huevo</strong>. Libre de <strong>dióxido de azufre y sulfitos</strong>. Libre de <strong>leche y sus derivados (incluida la lactosa)</strong>. Libre de <strong>granos de sésamo y productos a base de granos de sésamo</strong>. Libre de <strong>mostaza y productos derivados</strong>. Libre de <strong>apio y productos derivados</strong>. Libre de <strong>frutos de cáscara</strong>. Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>. Libre de <strong>soja y productos a base de soja</strong>. Libre de <strong>cacahuetes y productos a base de cacahuetes</strong>. Libre de <strong>pescado y productos a base de pescado</strong>.",
+    "ingredients": "<p>Leche, sal, cuajo, conservante: lysozyme de huevo, M.G./E.S. 32%min."
+  },
+  "origin": "Italia",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/4a8175be3a61ee058257e1bacbf59d9d.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/4a8175be3a61ee058257e1bacbf59d9d.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/4a8175be3a61ee058257e1bacbf59d9d.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/c4efdd2a1da0299a83441f55cb2fe78d.jpeg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/c4efdd2a1da0299a83441f55cb2fe78d.jpeg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/c4efdd2a1da0299a83441f55cb2fe78d.jpeg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "16.50",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "16.500",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "1.65",
+    "unit_selector": true,
+    "unit_size": 0.1
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/51146/queso-polvo-grana-padano-hacendado-paquete",
+  "slug": "queso-polvo-grana-padano-hacendado-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/4a8175be3a61ee058257e1bacbf59d9d.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

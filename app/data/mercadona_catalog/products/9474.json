@@ -1,0 +1,119 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 356,
+              "level": 2,
+              "name": "Cereales integrales y muesli",
+              "order": 18
+            }
+          ],
+          "id": 78,
+          "level": 1,
+          "name": "Cereales",
+          "order": 18
+        }
+      ],
+      "id": 7,
+      "level": 0,
+      "name": "Cereales y galletas",
+      "order": 18
+    }
+  ],
+  "color_variants": null,
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Cereales crujientes avena tostada Hacendado con semillas y frutos secos",
+    "is_prepared_by_mercadona": false,
+    "legal_name": "Avena horneada con semillas y frutos secos bajo en azúcar",
+    "mandatory_mentions": "",
+    "origin": "Bélgica",
+    "production_variant": "Variante",
+    "storage_instructions": "",
+    "suppliers": [
+      {
+        "name": "Mulder Natural Foods"
+      },
+      {
+        "name": "Mulder Natural Foods N.V"
+      },
+      {
+        "name": "Teléfono de atención al cliente Mercadona"
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Cereales crujientes avena tostada Hacendado con semillas y frutos secos",
+  "ean": "8402001041723",
+  "extra_info": [
+    ""
+  ],
+  "id": "9474",
+  "is_bulk": false,
+  "is_new_arrival": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "main_feature": "con semillas y frutos secos",
+  "nutrition_information": {
+    "allergens": "Puede contener <strong>soja y productos a base de soja</strong>. Puede contener <strong>leche y sus derivados (incluida la lactosa)</strong>. Puede contener <strong>frutos de cáscara</strong>. Contiene <strong>sp</strong>. Contiene <strong>sc</strong>. Contiene <strong>sh</strong>. Contiene <strong>sa</strong>. Contiene <strong>go</strong>.",
+    "ingredients": "Ingredientes: copos integrales de AVENA (gluten), aceite de girasol, semillas 7,7% (semillas de girasol, semillas de calabaza), FRUTOS SECOS 7% (ALMENDRAS, AVELLANAS tostadas, ANACARDO, NUEZ PECÁN), coco desecado, azúcar, melaza, antioxidante: extracto rico en tocoferoles.Los ingredientes en mayúscula contienen alérgenos. Puede contener trazas de otros FRUTOS DE CÁSCARA, LECHE y SOJA."
+  },
+  "origin": "Bélgica",
+  "packaging": "Paquete",
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/ebbec3ccb860fe3b438cf090ffaf2e8e.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/ebbec3ccb860fe3b438cf090ffaf2e8e.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/ebbec3ccb860fe3b438cf090ffaf2e8e.jpg?fit=crop&h=3600&w=3600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/70382148f0a777f06ae06749f11b4642.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/70382148f0a777f06ae06749f11b4642.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/70382148f0a777f06ae06749f11b4642.jpg?fit=crop&h=3600&w=3600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "6.00",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": false,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": null,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "6.000",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "10.000",
+    "total_units": null,
+    "unit_name": null,
+    "unit_price": "2.40",
+    "unit_selector": true,
+    "unit_size": 0.4
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/9474/cereales-semillas-granola-hacendado-con-frutos-secos-bajo-azucar-paquete",
+  "slug": "cereales-semillas-granola-hacendado-con-frutos-secos-bajo-azucar-paquete",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/ebbec3ccb860fe3b438cf090ffaf2e8e.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}

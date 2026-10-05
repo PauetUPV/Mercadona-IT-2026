@@ -1,0 +1,112 @@
+{
+  "badges": {
+    "is_water": false,
+    "requires_age_check": false
+  },
+  "brand": "Hacendado",
+  "categories": [
+    {
+      "categories": [
+        {
+          "categories": [
+            {
+              "id": 412,
+              "level": 2,
+              "name": "Yogures y postres infantiles",
+              "order": 598
+            }
+          ],
+          "id": 107,
+          "level": 1,
+          "name": "Yogures y postres infantiles",
+          "order": 598
+        }
+      ],
+      "id": 11,
+      "level": 0,
+      "name": "Postres y yogures",
+      "order": 598
+    }
+  ],
+  "details": {
+    "alcohol_by_volume": null,
+    "brand": "Hacendado",
+    "counter_info": null,
+    "danger_mentions": "",
+    "description": "Petit sabores Hacendado 6 fresa y 6 fresa plátano",
+    "legal_name": "Yogur azucarado",
+    "mandatory_mentions": "- Punto verde- Estos 12 envases no pueden venderse por separado.- Fuente de calcio y de vitamina D.- Sin gluten",
+    "origin": null,
+    "production_variant": "",
+    "storage_instructions": "Consérvese en frío ente 1°C y 8°C.",
+    "suppliers": [
+      {
+        "name": "EURIAL ULTRA FRAIS S.A.S.U"
+      },
+      {
+        "name": "Senoble Iberica, S.L.U."
+      }
+    ],
+    "usage_instructions": ""
+  },
+  "display_name": "Petit sabores Hacendado",
+  "ean": "8480000205360",
+  "extra_info": [
+    ""
+  ],
+  "id": "20536",
+  "is_bulk": false,
+  "is_variable_weight": false,
+  "limit": 999,
+  "nutrition_information": {
+    "allergens": "Contiene <strong>leche y sus derivados (incluida la lactosa)</strong>.",
+    "ingredients": "<strong>leche</strong> entera, nata, azúcar (8<strong>,4%)</strong>, lactosa y proteínas de leche y fermentos lácticos (leche)</strong><strong>"
+  },
+  "origin": null,
+  "packaging": null,
+  "photos": [
+    {
+      "perspective": 2,
+      "regular": "https://prod-mercadona.imgix.net/images/db331b2e61d371272cea030ea49101f3.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/db331b2e61d371272cea030ea49101f3.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/db331b2e61d371272cea030ea49101f3.jpg?fit=crop&h=1600&w=1600"
+    },
+    {
+      "perspective": 9,
+      "regular": "https://prod-mercadona.imgix.net/images/39b0733ab992a9061aa7a8940b5205ed.jpg?fit=crop&h=600&w=600",
+      "thumbnail": "https://prod-mercadona.imgix.net/images/39b0733ab992a9061aa7a8940b5205ed.jpg?fit=crop&h=300&w=300",
+      "zoom": "https://prod-mercadona.imgix.net/images/39b0733ab992a9061aa7a8940b5205ed.jpg?fit=crop&h=1600&w=1600"
+    }
+  ],
+  "price_instructions": {
+    "approx_size": false,
+    "bulk_price": "2.36",
+    "bunch_selector": false,
+    "drained_weight": null,
+    "increment_bunch_amount": 1.0,
+    "is_new": false,
+    "is_pack": true,
+    "iva": null,
+    "min_bunch_amount": 1.0,
+    "pack_size": 0.06,
+    "previous_unit_price": null,
+    "price_decreased": false,
+    "reference_format": "kg",
+    "reference_price": "2.362",
+    "selling_method": 0,
+    "size_format": "kg",
+    "tax_percentage": "4.000",
+    "total_units": 12,
+    "unit_name": "ud.",
+    "unit_price": "1.70",
+    "unit_selector": true,
+    "unit_size": 0.72
+  },
+  "published": true,
+  "share_url": "https://tienda.mercadona.es/product/20536/petit-sabores-hacendado-6-fresa-6-fresa-platano",
+  "slug": "petit-sabores-hacendado-6-fresa-6-fresa-platano",
+  "status": null,
+  "thumbnail": "https://prod-mercadona.imgix.net/images/db331b2e61d371272cea030ea49101f3.jpg?fit=crop&h=300&w=300",
+  "unavailable_from": null,
+  "unavailable_weekdays": []
+}
