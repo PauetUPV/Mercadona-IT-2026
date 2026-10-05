@@ -38,5 +38,5 @@ def test_recetas_referencian_productos_existentes():
     for receta in catalogo.get_recetas():
         assert receta.ingredientes
         for ing in receta.ingredientes:
-            assert catalogo.get_producto(ing.producto_id), f"{receta.id}: falta {ing.producto_id}"
+            assert catalogo.get_producto(ing.producto.id), f"{receta.id}: falta {ing.producto.id}"
         assert receta.precio_estimado > 0

@@ -23,9 +23,13 @@
           "unidades": 0.05
         }
       ],
-      "extras": [
+      "instrucciones": "Precalienta el horno a 200 °C. Pon el pollo, las patatas y el pimiento en una bandeja con un chorrito de aceite, sazona y hornea 45 minutos hasta que esté dorado.",
+      "en_casa": [
         "sal",
         "pimienta"
+      ],
+      "etiquetas": [
+        "carne"
       ]
     },
     {
@@ -51,9 +55,14 @@
           "unidades": 0.03
         }
       ],
-      "extras": [
+      "instrucciones": "Cuece los espaguetis en agua con sal según el envase. Calienta el tomate frito, mézclalo con la pasta escurrida y gratina con el queso rallado.",
+      "en_casa": [
         "sal",
         "agua"
+      ],
+      "etiquetas": [
+        "gluten",
+        "lactosa"
       ]
     },
     {
@@ -79,9 +88,15 @@
           "unidades": 0.2
         }
       ],
-      "extras": [
+      "instrucciones": "Cuece los macarrones. Sofríe la carne picada, añade el tomate frito y cocina 10 minutos. Mezcla con la pasta y espolvorea queso rallado.",
+      "en_casa": [
         "sal",
         "agua"
+      ],
+      "etiquetas": [
+        "carne",
+        "gluten",
+        "lactosa"
       ]
     },
     {
@@ -107,11 +122,13 @@
           "unidades": 0.03
         }
       ],
-      "extras": [
+      "instrucciones": "Sofríe la zanahoria y el pimiento troceados, añade las lentejas cocidas con un poco de agua y pimentón, y cuece 15 minutos.",
+      "en_casa": [
         "sal",
         "agua",
         "pimentón"
-      ]
+      ],
+      "etiquetas": []
     },
     {
       "id": "r5",
@@ -136,11 +153,13 @@
           "unidades": 0.03
         }
       ],
-      "extras": [
+      "instrucciones": "Sofríe el ajo con pimentón, añade las espinacas congeladas y, cuando se deshagan, los garbanzos escurridos. Cocina 10 minutos.",
+      "en_casa": [
         "sal",
         "agua",
         "pimentón"
-      ]
+      ],
+      "etiquetas": []
     },
     {
       "id": "r6",
@@ -165,8 +184,12 @@
           "unidades": 0.1
         }
       ],
-      "extras": [
+      "instrucciones": "Pocha las patatas y la cebolla en aceite hasta que estén tiernas. Mézclalas con los huevos batidos y cuaja la tortilla por ambos lados.",
+      "en_casa": [
         "sal"
+      ],
+      "etiquetas": [
+        "huevo"
       ]
     },
     {
@@ -192,9 +215,14 @@
           "unidades": 1
         }
       ],
-      "extras": [
+      "instrucciones": "Trocea la lechuga y el tomate, añade el atún escurrido y el huevo cocido en cuartos. Aliña con aceite, vinagre y sal.",
+      "en_casa": [
         "sal",
         "vinagre"
+      ],
+      "etiquetas": [
+        "pescado",
+        "huevo"
       ]
     },
     {
@@ -220,9 +248,13 @@
           "unidades": 0.03
         }
       ],
-      "extras": [
+      "instrucciones": "Descongela la merluza. Cuece las patatas en rodajas, saltea el calabacín y cocina la merluza a la plancha 3 minutos por lado. Sirve con limón.",
+      "en_casa": [
         "sal",
         "limón"
+      ],
+      "etiquetas": [
+        "pescado"
       ]
     },
     {
@@ -248,9 +280,14 @@
           "unidades": 1
         }
       ],
-      "extras": [
+      "instrucciones": "Haz las hamburguesas a la plancha 4 minutos por lado. Monta en el pan con lechuga y tomate.",
+      "en_casa": [
         "sal",
         "pimienta"
+      ],
+      "etiquetas": [
+        "carne",
+        "gluten"
       ]
     },
     {
@@ -272,9 +309,13 @@
           "unidades": 1
         }
       ],
-      "extras": [
+      "instrucciones": "Dora el pollo troceado con el pimiento en una sartén 12 minutos. Añade el arroz cocido y saltea 3 minutos más.",
+      "en_casa": [
         "sal",
         "agua"
+      ],
+      "etiquetas": [
+        "carne"
       ]
     },
     {
@@ -296,9 +337,14 @@
           "unidades": 0.2
         }
       ],
-      "extras": [
+      "instrucciones": "Calienta la crema 5 minutos, sirve con queso rallado por encima y acompaña con pan.",
+      "en_casa": [
         "sal",
         "pimienta"
+      ],
+      "etiquetas": [
+        "gluten",
+        "lactosa"
       ]
     },
     {
@@ -324,9 +370,14 @@
           "unidades": 0.03
         }
       ],
-      "extras": [
+      "instrucciones": "Cuece los tallarines. Saltea la zanahoria y el pimiento en tiras con un poco de aceite, añade la pasta y salsa de soja.",
+      "en_casa": [
         "sal",
         "salsa de soja"
+      ],
+      "etiquetas": [
+        "gluten",
+        "soja"
       ]
     },
     {
@@ -340,7 +391,13 @@
           "unidades": 2
         }
       ],
-      "extras": []
+      "instrucciones": null,
+      "en_casa": [],
+      "etiquetas": [
+        "carne",
+        "gluten",
+        "lactosa"
+      ]
     },
     {
       "id": "l2",
@@ -353,7 +410,11 @@
           "unidades": 1
         }
       ],
-      "extras": []
+      "instrucciones": null,
+      "en_casa": [],
+      "etiquetas": [
+        "carne"
+      ]
     },
     {
       "id": "l3",
@@ -366,7 +427,11 @@
           "unidades": 2
         }
       ],
-      "extras": []
+      "instrucciones": null,
+      "en_casa": [],
+      "etiquetas": [
+        "gluten"
+      ]
     },
     {
       "id": "l4",
@@ -379,7 +444,13 @@
           "unidades": 1
         }
       ],
-      "extras": []
+      "instrucciones": null,
+      "en_casa": [],
+      "etiquetas": [
+        "carne",
+        "gluten",
+        "lactosa"
+      ]
     },
     {
       "id": "l5",
@@ -392,7 +463,11 @@
           "unidades": 1
         }
       ],
-      "extras": []
+      "instrucciones": null,
+      "en_casa": [],
+      "etiquetas": [
+        "huevo"
+      ]
     },
     {
       "id": "l6",
@@ -405,7 +480,11 @@
           "unidades": 2
         }
       ],
-      "extras": []
+      "instrucciones": null,
+      "en_casa": [],
+      "etiquetas": [
+        "pescado"
+      ]
     },
     {
       "id": "l7",
@@ -422,7 +501,11 @@
           "unidades": 0.5
         }
       ],
-      "extras": []
+      "instrucciones": null,
+      "en_casa": [],
+      "etiquetas": [
+        "gluten"
+      ]
     }
   ]
 }
