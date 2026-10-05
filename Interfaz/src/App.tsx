@@ -1,4 +1,4 @@
-import { FormEvent, ReactNode, useMemo, useState } from "react";
+import { FormEvent, ReactNode, useState } from "react";
 
 type IconName =
   | "home"
@@ -190,20 +190,11 @@ function ProductCard({
 }
 
 export default function App() {
-  const [query, setQuery] = useState("");
   const [message, setMessage] = useState("");
   const [active, setActive] = useState("Chat");
   const [added, setAdded] = useState<number[]>([]);
   const [extraMessage, setExtraMessage] = useState("");
   const [notice, setNotice] = useState("");
-
-  const visibleProducts = useMemo(() => {
-    const term = query.trim().toLowerCase();
-    if (!term) return products;
-    return products.filter((product) =>
-      `${product.name} ${product.detail}`.toLowerCase().includes(term),
-    );
-  }, [query]);
 
   function showNotice(text: string) {
     setNotice(text);
@@ -232,49 +223,12 @@ export default function App() {
     <div className="min-h-screen bg-[#f7faf8] text-[#15231d]">
       <div className="mx-auto flex min-h-screen max-w-[1120px] flex-col bg-white shadow-[0_0_80px_rgba(27,62,49,0.08)]">
         <header className="px-5 pb-4 pt-7 sm:px-9 sm:pt-9 lg:px-12">
-          <div className="flex items-start justify-between">
-            <div>
-              <div className="flex items-center gap-3">
-                <div className="grid h-11 w-11 place-items-center rounded-[15px] bg-[#00a86b] text-white shadow-[0_8px_20px_rgba(0,168,107,0.25)]">
-                  <Icon name="chat" size={24} strokeWidth={2.1} />
-                </div>
-                <div>
-                  <h1 className="text-[30px] font-extrabold leading-none tracking-[-0.05em] sm:text-[38px]">
-                    Merche
-                  </h1>
-                  <p className="mt-1 text-sm font-bold text-[#00a86b] sm:text-base">
-                    Tu compra, mucho más fácil
-                  </p>
-                </div>
-              </div>
-            </div>
-            <button
-              aria-label="Abrir perfil"
-              className="grid h-11 w-11 place-items-center rounded-full bg-[#e2f7ed] text-[#00a86b] transition hover:bg-[#c8f0df]"
-              type="button"
-            >
-              <Icon name="user" size={23} strokeWidth={2.2} />
-            </button>
-          </div>
-
-          <label className="mt-6 flex h-[58px] items-center gap-3 rounded-[20px] bg-[#f2f5f3] px-5 text-[#69766f] transition focus-within:bg-white focus-within:shadow-[0_0_0_2px_#00a86b]">
-            <Icon name="search" size={23} strokeWidth={2} />
-            <input
-              className="min-w-0 flex-1 bg-transparent text-[16px] outline-none placeholder:text-[#89938e]"
-              placeholder="Busca productos, recetas, categorías..."
-              value={query}
-              onChange={(event) => setQuery(event.target.value)}
-            />
-            {query && (
-              <button
-                className="text-xs font-bold text-[#00a86b]"
-                type="button"
-                onClick={() => setQuery("")}
-              >
-                Limpiar
-              </button>
-            )}
-          </label>
+          <h1 className="text-[30px] font-extrabold leading-none tracking-[-0.05em] sm:text-[38px]">
+            Merche
+          </h1>
+          <p className="mt-1.5 text-sm font-medium text-[#7b8781] sm:text-base">
+            Planifica tus comidas y llena el carrito en un momento
+          </p>
         </header>
 
         <main className="flex-1 px-5 pb-48 sm:px-9 lg:px-12">
@@ -285,7 +239,7 @@ export default function App() {
                   Necesito ideas para una cena con pasta para 4 personas
                 </div>
                 <p className="mr-1 mt-1.5 text-right text-xs font-medium text-[#7b8781]">
-                  9:41 <span className="ml-1 text-[#00a86b]">✓✓</span>
+                  9:41
                 </p>
               </div>
             </div>
@@ -311,32 +265,23 @@ export default function App() {
                   {extraMessage}
                 </div>
                 <p className="mr-1 mt-1.5 text-right text-xs text-[#7b8781]">
-                  ahora <span className="ml-1 text-[#00a86b]">✓✓</span>
+                  ahora
                 </p>
               </div>
             )}
           </section>
 
           <section className="ml-auto mt-5 max-w-[960px]">
-            {visibleProducts.length > 0 ? (
-              <div className="grid grid-cols-1 gap-3 min-[520px]:grid-cols-2 sm:gap-4">
-                {visibleProducts.map((product) => (
-                  <ProductCard
-                    key={product.id}
-                    product={product}
-                    added={added.includes(product.id)}
-                    onAdd={() => addProduct(product.id)}
-                  />
-                ))}
-              </div>
-            ) : (
-              <div className="rounded-[24px] bg-[#f2f5f3] px-6 py-10 text-center">
-                <p className="font-bold">No encontramos “{query}”</p>
-                <p className="mt-1 text-sm text-[#708078]">
-                  Prueba con pasta, tomate o una categoría.
-                </p>
-              </div>
-            )}
+            <div className="grid grid-cols-1 gap-3 min-[520px]:grid-cols-2 sm:gap-4">
+              {products.map((product) => (
+                <ProductCard
+                  key={product.id}
+                  product={product}
+                  added={added.includes(product.id)}
+                  onAdd={() => addProduct(product.id)}
+                />
+              ))}
+            </div>
 
             <div className="mt-4 flex flex-wrap gap-2.5">
               <button
@@ -362,22 +307,22 @@ export default function App() {
           </section>
         </main>
 
-        <div className="fixed inset-x-0 bottom-[76px] z-20 mx-auto max-w-[1120px] px-4 sm:bottom-[82px] sm:px-9 lg:px-12">
+        <div className="fixed inset-x-0 bottom-[90px] z-20 mx-auto max-w-[1120px] px-4 sm:bottom-[96px] sm:px-9 lg:px-12">
           <form
             onSubmit={sendMessage}
             className="flex h-[62px] items-center gap-3 rounded-[23px] border border-black/5 bg-[#f2f5f3]/95 px-4 shadow-[0_10px_35px_rgba(24,62,49,0.13)] backdrop-blur"
           >
             <span className="text-[#718078]">
-              <Icon name="smile" size={25} />
+              <Icon name="search" size={24} />
             </span>
             <input
               className="min-w-0 flex-1 bg-transparent text-base outline-none placeholder:text-[#89938e]"
-              placeholder="Escribe tu mensaje..."
+              placeholder="Busca un producto o pídele a Merche un menú, una receta…"
               value={message}
               onChange={(event) => setMessage(event.target.value)}
             />
             <button
-              aria-label="Enviar mensaje"
+              aria-label="Enviar a Merche"
               className="grid h-11 w-11 shrink-0 place-items-center rounded-full bg-[#00a86b] text-white shadow-[0_7px_18px_rgba(0,168,107,0.25)] transition hover:bg-[#008f5b] active:scale-95"
               type="submit"
             >
