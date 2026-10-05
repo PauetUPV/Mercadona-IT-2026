@@ -167,7 +167,7 @@ export function ChatThread({
                             const marcado = seleccion.has(ing.producto.id);
                             return (
                               <li key={ing.producto.id}>
-                                <label className="flex cursor-pointer items-center gap-3 py-2.5">
+                                <label className="flex cursor-pointer items-center gap-3 py-2.5 pl-8">
                                   <input
                                     type="checkbox"
                                     checked={marcado}
